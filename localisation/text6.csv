@@ -1,0 +1,8 @@
+SELECT_CHARACTER_TO_RANSOM;Ñ¡ÔñÊê»ØÈËÎï;;;;;;;;;;X
+AIREASON_NEEDS_OUR_COUNCILLOR;ÊÇÎÒÃÇµÄ §Y[GetJobTitle]§!;;;;;;;;;;X
+AIREASON_SKILLED_COURTIER;§Y[GetBestName]§!µÄ¼¼ÄÜ;;;;;;;;;;X
+AIREASON_IS_UNIMPORTANT;§Y[GetBestName]§!²¢²»ÖØÒª;;;;;;;;;;X
+INTERACTION_REQUIRES_INV_REASON;ÁìµØµØ²úÊýÉÙÓÚ§Y[ThirdPartyCharacter.GetTitledFirstName]§!»òÒ»¸öÖ÷ÒªÍ·ÏÎÐû³Æ;;;;;;;;;;X
+TRANSFER_TREASURY_EFFECT;§Y$FROM$§!Ö§¸¶§Y$VALUE$§!¤¸ø§Y$TO$§!\n;;;;;;;;;;X
+EVTDESC3407;ÎÒ¶Ô [From.GetTitledFirstName] à©à©²»ÐÝµØÖØ¸´¶Ô²ÊÉ«²£Á§µÄ¹Ûµã¸Ðµ½Ñá¶ñ£¬µ« [From.GetHerHis] ×·¸ù¾¿µ×Ê¹ÎÒ²»µÃ²»Ì¹³Ð¼º¼û.ÎÒÌÖÑáÄÇÑÕÉ«£¬Í¼°¸Ò²ÓÞ´ÀÖÁ¼«.;;;;;;;;;;X
+EVTDESC5042;ÎÒÃÇÔÚÌ«ÑôÉýÆðÖ®Ç°ÔçÔç³ö·¢.ÁÔÎïÊý²»Ê¤Êý£¬ÁÔ¹·²¶µ½ºÜ¶àÒ°ÍÃ£¬ÎÒÔòÇ×ÊÖÉ±ËÀÁËÒ»Ö»Ò°Öí£¬ÔÚËü¹°ËÀÎÒµÄ×øÆïÖ®Ç°.;;;;;;;;;;X

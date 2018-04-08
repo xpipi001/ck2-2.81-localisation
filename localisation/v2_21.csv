@@ -1,0 +1,48 @@
+EVTNAME62951;юйди╤Ш╣двГжД;;;;;;;;;;X
+EVTDESC62951;еЁхУ╣д╟ёю╜╧ЗмУ╧РтзнрцФг╟╣ддЮл╡юО,кШ╡╩╦р©╢нр╣дяш╬╕.нр╣ду╫й©цгн╙ак╨ц╨ц"уп╢Щ"кШ,оКЁЖак╦Вжж╠ПЁЖпд╡ц╣дпл╥ё.нрхц╢С╪р╟╡╬╡обю╢,╤ый╠кджэр╩ф╛кЮдб,╣╚жзхк╣дпдгИ╤╪хГм╛тз╥Гжп╧д╤╞╣д╫ПнзфЛждр╩╟Ц©йгСжу╫АуБ╦Ж╢Сдяаым╥╣д╪р╩О╣дптцЭ.ожтзйгн╙нркюх╔╣д╦╦гв,юиди╤Ш╦╢ЁП╣дй╠©лак...;;;;;;;;;;X
+EVTOPTA62951;╟яуБ╪р╩ОвЖЁия╙с╔!;;;;;;;;;;X
+EVTOPTB62951;╟якШов╪ю╦Ь╟б╤║!;;;;;;;;;;X
+EVTOPTC62951;╟якШиМио╣дкд╦ЖгРов╦Ь╟б╤║╣днзя╩!;;;;;;;;;;X
+EVTOPTD62951;нр╤т╟ёю╜аМсп╢╕жц...;;;;;;;;;;X
+EVTDESC62952;уБх╨бЫвсцгмз╣Тнр╣дяш╬╕г╟╣двН╨Ср╩©л,нр©╢╣╫╣дйг[From.GetFirstName]аЁио╡п©А╤Ьсж©ж╡ю╣дп╕хщ.нрйтвеРИкУфПю╢рРн╙кШцг╢РкЦр╙якакнр...;;;;;;;;;;X
+EVTOPTA62952;╟║╟║╟║╟║╟║╟║!;;;;;;;;;;X
+AIREASON_IN_OTHER_WAR;аМр╩Ё║у╫уЫ;;;;;;;;;;X
+AIREASON_BUSY_RAIDING;о╝╩В;;;;;;;;;;X
+WRONG_RELIGION_MODIFIER;╢МнС╣дпеяЖ;;;;;;;;;;X
+WRONG_CULTURE_MODIFIER;╢МнС╣днд╩╞;;;;;;;;;;X
+opinion_infidel_tribal_liege;рЛ╫лм╫;;;;;;;;;;X
+opinion_heretic_tribal_liege;рЛ╤к;;;;;;;;;;X
+opinion_related_religion_tribal_liege;вз╫л╡НрЛ;;;;;;;;;;X
+AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT;╫╚╩АоШ╨днр╧Щ╤Ю╣дмЧмШ;;;;;;;;;;X
+opinion_granted_other_vice_royalty;╥Б╫╗жВ╤тхнцЭвэ╤╫р╩йб╣д©╢╥╗;;;;;;;;;;X
+GRANT_VICE_ROYALTY_INTERACTION_8;хнцЭвэ╤╫╩А╫╣╣мдЦкЫсп╥Б╫╗╧╚╬Т╩Рртио╥БЁ╪╤тдЦ╣д©╢╥╗ё╨╖R$OPINION$╖!║ё;;;;;;;;;;X
+NOT_ANY_PREVIOUS_HOLDER_STARTS;╡╒нчг╟хн;;;;;;;;;;X
+tribal_build_zeal_ARMY_OF;$RELIGION$ ©Яххуъ $CHARACTER$;;;;;;;;;;X
+tribal_organize_raid_ARMY_OF;хКгжуъ $CHARACTER$;;;;;;;;;;X
+tribal_build_legend_ARMY_OF;у╫й© $CHARACTER$;;;;;;;;;;X
+tribal_build_zeal_ARMY;$RELIGION$ ©Яххуъ;;;;;;;;;;X
+tribal_organize_raid_ARMY;хКгжуъ;;;;;;;;;;X
+tribal_build_legend_ARMY;у╫й©;;;;;;;;;;X
+expel_saint_anthony;гЩжПй╔╟╡╤╚дАфОй©ме;;;;;;;;;;X
+expel_saint_anthony_desc;нр©ирт╫╚й╔╟╡╤╚дАфОй©ме╢снр╣д╧Змаио╦овъ╡╒╟ту╪кШцг╣даЛ╣ь.╣╚уБц╢вЖйгыТДбиЯаИ...;;;;;;;;;;X
+ISNT_CROWN_LAW_TITLE;╡╩йг╥╗юМмУ╧Зм╥он;;;;;;;;;;X
+IS_CROWN_LAW_TITLE;йг╥╗юМмУ╧Зм╥он;;;;;;;;;;X
+LAW_UNLOCKS;╫БкЬ╥╗би: ;;;;;;;;;;X
+DECISION_UNLOCKS;╫БкЬ╬ЖрИ: ;;;;;;;;;;X
+ALLOW_FREE_DUCHY_REVOKATION_ON;©иртнчЁ╔╟Ч╤А╧╚╬Тм╥он.\n;;;;;;;;;;X
+ALLOW_FREE_DUCHY_REVOKATION_OFF;╡╩©инчЁ╔╟Ч╤А╧╚╬Тм╥он.\n;;;;;;;;;;X
+LIEGE_LEVY_DESC_VICE_ROY;\n   вэ╤╫: $VALUE$;;;;;;;;;;X
+TITLE_NOT_VICE_ROYALTY;м╥он╡╩йгвэ╤╫;;;;;;;;;;X
+tribal_king_female;е╝мУ;;;;;;;;;;X
+tribal_emperor_female;е╝╩й;;;;;;;;;;X
+temple_duke_female_pagan_group;е╝╢С╪юк╬;;;;;;;;;;X
+temple_king_female_pagan_group;нв╨С;;;;;;;;;;X
+temple_emperor_female_pagan_group;е╝нв╣ш;;;;;;;;;;X
+AIREASON_SAME_RELIGION_AS_REGENT;╨мнрм╛йТр╩╦Жвз╫лё©;;;;;;;;;;X
+expel_the_haruriyyah;гЩжП╧ЧюОбЁр╝еи;;;;;;;;;;X
+expel_the_haruriyyah_desc;нр©ирт╫╚╧ЧюОбЁр╝еи╢снр╣д╧Змаио╦овъ╡╒╟ту╪кШцг╣даЛ╣ь.╣╚уБц╢вЖйгыТДбиЯаИ....;;;;;;;;;;X
+borrow_money_haruriyyah;╫Х300╓╦Ь╧ЧюОбЁр╝еи;;;;;;;;;;X
+borrow_money_haruriyyah_desc;нр©иртоР╧ЧюОбЁр╝еи╫Хр╩п╘нчо╒нчфз╢Ш©Н,╣╚йгтзнрг╥г╝фз╪Д,кШцг╣д╢СЁ╓юо╩АоРнрлАЁЖ╦Вжж╦ВяЫ╣др╙гС,╠ххГк╣хцнр╣др╩╦Ж╤Ывс╪схКкШцг╣дппап.;;;;;;;;;;X
+not_shia_caliphate_revolt_ongoing;ц╩сп╠╛╥╒с╣а╒й╡р╤еи╧ЧюО╥╒╣деябр;;;;;;;;;;X
+shia_creation_independent;р╙ц╢╤юа╒р╙ц╢кЫсп╥Б╬Щ╤╪пеяЖй╡р╤еи\n;;;;;;;;;;X
+sunni_creation_independent;р╙ц╢╤юа╒р╙ц╢кЫсп╥Б╬Щ╤╪пеяЖя╥дАеи\n;;;;;;;;;;X

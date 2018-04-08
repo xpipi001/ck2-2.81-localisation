@@ -1,0 +1,50 @@
+khagan_overthrow_execution_warning_tooltip;Äã·ÅÏÂÎäÆ÷Í¶½µ£¬ÆíÇó[From.GetTitledName]µÄÈÊ´È¡£[From.GetSheHeCap]Ò²Ðí»á£¬Ò²Ðí²»»áÈÆ¹ýÄã¡­¡­\n;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2F;ÎÒÃÇµÄ§Y$GOVERNMENT$§!ÕþÌåÔÊÐíÎÒÃÇÊÕ»Ø·â³¼¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô¡£;;;;;;;;;;X
+REL_RETIRE_DESC;Í³ÖÎÕß¿ÉÒÔÒªÇó³ÉÄêÎÞµØÍ¢³¼·¢ÊÄ;;;;;;;;;;X
+merchant_republic_government_desc;×÷ÎªÒ»¸ö¹²ºÍ¹ú¹óÈËºÍ·â½¨ÁìÖ÷ÆäÊµÒ²Ã»Ê²Ã´´óÇø±ð¡ª¡ªÄã»¹ÊÇÒª¿ØÖÆ¸ü¶àµÄµØ²ú£¬²¢ÇÒÐèÒªÒ»Î»Äã¼Ò×åµÄ¼Ì³ÐÈË¡£²»¹ý£¬¹²ºÍ¹úµÄÁìµ¼Î»ÖÃ½«»áÔÚÎå¸öÖ÷Òª¹óÈË¼Ò×åÀïÍ¨¹ýÌØÊâÑ¡¾ÙÂÖÁ÷Ìæ»»¡£¹óÈËÃÇ»¹¿ÉÒÔÐÞ½¨Ã³Ò×Õ¾ÍøÂç£¬ÉõÖÁÔÚÆäËûÊÆÁ¦µÄÊ¡·ÝÉÏ¡­¡­;;;;;;;;;;X
+GOV_CAN_BUILD_DESC;¿ÉÒÔ½¨Ôì$HOLDINGS_LIST$µØ²ú;;;;;;;;;;X
+GOV_CANNOT_BUILD_DESC;²»¿ÉÒÔ½¨ÔìµØ²ú;;;;;;;;;;X
+GOV_CAN_NOT_IMPRISON_DESC;²»¿ÉÒÔÃ»ÓÐÌØÊâÔ­ÒòÇô½û·â³¼;;;;;;;;;;X
+GOV_ALLOW_REVOKATION_DESC;·â³¼Í·ÏÎ¿ÉÒÔ±»ÊÕ»Ø£¬ÎÞÐèÌØ¶¨µÄ·¨ÂÉ;;;;;;;;;;X
+GOV_CAN_NOT_REVOKE_DESC;Èç¹ûÃ»ÓÐÌØÊâÔ­Òò£¬²»ÄÜÊÕ»ØÍ·ÏÎ;;;;;;;;;;X
+GOV_CAN_HOLD_DESC; ¿ÉÒÔÎÞ³Í·£³ÖÓÐ$HOLDINGS_LIST$\nµØ²ú;;;;;;;;;;X
+GOV_CAN_HOLD_CULTURE_DESC; ¿ÉÒÔÔÚÍ¬ÎÄ»¯Ê¡·ÝÄÚÎÞ³Í·£³ÖÓÐ\n$HOLDINGS_LIST$µØ²ú;;;;;;;;;;X
+GOV_CAN_HOLD_RELIGION_DESC; ¿ÉÒÔÔÚÍ¬×Ú½ÌÊ¡·ÝÄÚÎÞ³Í·£³ÖÓÐ\n$HOLDINGS_LIST$µØ²ú;;;;;;;;;;X
+GOV_CAN_HOLD_CULTURE_RELIGION_DESC; ¿ÉÒÔÔÚÍ¬ÎÄ»¯¼°×Ú½ÌÊ¡·ÝÄÚÎÞ³Í·£³ÖÓÐ\n$HOLDINGS_LIST$µØ²ú;;;;;;;;;;X
+GOV_ADDITIONAL_COMMANDERS_DESC;ÓÐ$NUM$Ãû¶îÍâÖ¸»Ó¹Ù;;;;;;;;;;X
+GOV_FEWER_COMMANDERS_DESC;ÉÙ$NUM$¸öÖ¸»Ó¹Ù;;;;;;;;;;X
+GOV_MOVE_CAPITAL_DELAY_DESC;¿ÉÒÔÔÚÒ»ÉúÖÐÃ¿¸ô$NUM$ÔÂÒÆ¶¯Ê×¶¼;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_GOVERNMENTS_DESC; ¿ÉÒÔÊÕ»Ø$GOVERNMENT_LIST$ÕþÌåµÄ·â³¼Í·ÏÎ\n ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_GOVERNMENTS_CULTURE_DESC; ¿ÉÒÔÊÕ»Ø$GOVERNMENT_LIST$ÕþÌåÏÂ²»Í¬\n ÎÄ»¯µÄ·â³¼Í·ÏÎ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_GOVERNMENTS_RELIGION_DESC; ¿ÉÒÔÊÕ»Ø$GOVERNMENT_LIST$ÕþÌåÏÂ\n ²»Í¬×Ú½ÌµÄ·â³¼Í·ÏÎ\n ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_GOVERNMENTS_CULTURE_RELIGION_DESC; ¿ÉÒÔÊÕ»Ø$GOVERNMENT_LIST$ÕþÌåÏÂ\n ²»Í¬ÎÄ»¯ºÍ×Ú½ÌµÄ·â³¼µÄÍ·ÏÎ\n ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_TIER_DESC; ¿ÉÒÔÊÕ»Ø$TIER_LIST$µÈ¼¶µÄ\n ·â³¼Í·ÏÎ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_TIER_CULTURE_DESC; ¿ÉÒÔÊÕ»Ø$TIER_LIST$µÈ¼¶ÏÂ²»Í¬ÎÄ»¯µÄ\n ·â³¼Í·ÏÎ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_TIER_RELIGION_DESC; ¿ÉÒÔÊÕ»Ø$TIER_LIST$µÈ¼¶ÏÂ²»Í¬×Ú½ÌµÄ·â³¼Í·ÏÎ\n ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_FREE_REVOKE_ON_TIER_CULTURE_RELIGION_DESC; ¿ÉÒÔÊÕ»Ø$TIER_LIST$µÈ¼¶ÏÂ\n ²»Í¬ÎÄ»¯ºÍ×Ú½ÌµÄ·â³¼Í·ÏÎ\n ¶ø²»ÒýÆðÆäËû·â³¼µÄ·´¶Ô;;;;;;;;;;X
+GOV_VASSAL_CALL_TO_ARMS_DESC; ¿ÉÒÔÕÙ»½$GOVERNMENT_LIST$ÕþÌåµÄ·â³¼²ÎÕ½¶ø²»ÊÇÓÃËûÃÇÌá¹©µÄÕ÷ÕÙ±ø;;;;;;;;;;X
+GOV_NO_VASSAL_TAX_DESC; ²»´Ó$GOVERNMENT_LIST$ÕþÌåµÄ·â³¼ÄÇÀï»ñµÃË°ÊÕ;;;;;;;;;;X
+GOV_FORCED_CONTRACT_DESC; $GOVERNMENT_LIST$ÕþÌå£¬\n ·â³¼ÃÇ²»ÂÛºÃ¸ÐµÄ¶àÉÙ¶¼»á½»×î¶àµÄË°\n ºÍÌá¹©×î¶àµÄÕ÷ÕÙ±ø¡£¶Ô´ýÕâÐ©·â³¼ÃÇµÄ\n ±©¾ýÐÐÎª²»»áÊÜµ½ÆäËûÕþÌåµÄ·â³¼ÃÇ·´¶Ô;;;;;;;;;;X
+GOV_IGNORE_IN_VASSAL_LIMIT_CALCULATION_DESC; $GOVERNMENT_LIST$ÕþÌåµÄ·â³¼²»ÔÚ·â³¼ÉÏÏÞµÄ¼ÆËãÖ®ÄÚ;;;;;;;;;;X
+LANDLESS;ÎÞµØµÄ;;;;;;;;;;X
+GOV_BUILD_WITH_PRESTIGE_DESC;ÓÃÍþÍûÀ´½¨Ôì$HOLDINGS_LIST$µØ²ú;;;;;;;;;;X
+BUILD_PRESTIGE_OR_PIETY_FORT_DESC; ±¤ÀÝ¿ÉÒÔÔÚÈÎºÎÄã¿ØÖÆµÄÊ¡·ÝÀïÐÞ½¨£¬Ò²¿ÉÒÔÔÚµÐ¶ÔÊ¡·ÝÀïÓÐÄã²¿¶ÓµÄµØ·½ÐÞ½¨¡£±¤ÀÝÏûºÄ§Y$COST$§!½¨Ôì²¢ÇÒ¿ÉÒÔ±»Éý¼¶ÎªÕý³£µÄ³Ç±¤µØ²ú£¨Í¨¹ý§GÓÒ¼üµã»÷±¤ÀÝ§!£©¡£±¤ÀÝ¿ÉÒÔ°ïÖúËø¶¨Äã¶Ô¿Õ°×ÓÎÄÁÊ¡·ÝµÄÕ¼Áì£¬»¹¿ÉÒÔÈ¡ÏûÒ»Ð©Ô­Ê¼×Ú½Ì²¿ÂäÔÚÆä¼ÒÔ°ÄÚÏíÊÜµÄÇ¿Á¦ËðºÄ¼Ó³É¡£;;;;;;;;;;X
+BUILD_PRESTIGE_OR_PIETY_TRADE_POST_DESC;ÔÚÉÌÒµ¹²ºÍ¹úÖÐ£¬Ã³Ò×Õ¾ÄÜÔÚÑØ°¶ÓÉ¹óÈË¼Ò×åÎª§Y$COST$§!½¨Ôì£¬¼´Ê¹ÊÇÔÚÍâ¹ú¾³ÄÚÒ²ÊÇÈç´Ë¡£µ«Èç¹ûÓÐË¿³ñÖ®Â·´©¹ý£¬ÈÎºÎµ±µØµÄÁìÖ÷Ò²¿ÉÒÔÔÚÆäÊ¡·ÝÄÚ½¨ÔìÃ³Ò×Õ¾¡££¨²Î¿´§YÃ³Ò×Çø§!µØÍ¼Ä£Ê½£©;;;;;;;;;;X
+tribal_desc;²¿Âä¡®µØ²ú¡¯Ö»Ìá¹©¼«ÉÙµÄÊÕÈë£¬¶øÇÒÃ¿¸öÊ¡·ÝÖ»ÄÜÓÐÒ»¸ö²¿Âä¡®µØ²ú¡¯¡£ÕâÐ©¡®µØ²ú¡¯´ú±íÕû¸öµ±µØ²¿ÂäÈË¿Ú¡ª¡ª¿ÕµØ²ú¸ñÔ½¶à£¬²¿ÂäµØ²ú¾ÍÔ½Ç¿¡£;;;;;;;;;;X
+dejure_barony_claim_desc;ÔÚ§Y$TITLE$§!ÀïµÄµØ²úÈ«¶¼ÊÇ§Y$CLAIMANT$§!µÄ·¨Àí·â³¼£¬Õâ¾ÍÓÐ×ã¹»ÀíÓÉ·¢¶¯Õ½Õù¡£;;;;;;;;;;X
+CB_NAME_DEJUREBARONYCLAIM;[Title.GetBaseName]µØ²ú;;;;;;;;;;X
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ÔÚ$OTHER_TITLE$ÄÚµÄ·¨ÀíµØ²úÕ½Õù;;;;;;;;;;X
+convert_to_feudalism_indep;·â½¨»¯;;;;;;;;;;X
+convert_to_feudalism_indep_desc;·â½¨»¯½«°ÑÎÒËùÓÐµÄ²¿ÂäµØ²ú×ª±äÎª³Ç±¤¡£Èç¹ûÕâ¿éÊ¡·Ý×ã¹»´ó£¬¶øÇÒ³ÇÊÐÓëÉñÃíµØ²ú²¢Î´´æÔÚ£¬Ò²»áÉú³É³ÇÊÐÓëÉñÃí¡£Èç¹ûÄãµÄ·â³¼ÓëÄãÍ¬×Ú½ÌÓëÎÄ»¯£¬ËûÃÇÒ²ºÜ¿ÉÄÜÈç·¨ÅÚÖÆ¡£;;;;;;;;;;X
+convert_to_feudalism_vassal;·â½¨»¯;;;;;;;;;;X
+convert_to_feudalism_vassal_desc;·â½¨»¯½«°ÑÎÒËùÓÐµÄ²¿ÂäµØ²ú×ª±äÎª³Ç±¤¡£Èç¹ûÕâ¿éÊ¡·Ý×ã¹»´ó£¬¶øÇÒ³ÇÊÐÓëÉñÃíµØ²ú²¢Î´´æÔÚ£¬Ò²»áÉú³É³ÇÊÐÓëÉñÃí¡£Èç¹ûÄãµÄ·â³¼ÓëÄãÍ¬×Ú½ÌÓëÎÄ»¯£¬ËûÃÇÒ²ºÜ¿ÉÄÜÈç·¨ÅÚÖÆ¡£;;;;;;;;;;X
+convert_to_republic_indep;³ÉÁ¢ÉÌÒµ¹²ºÍ¹ú;;;;;;;;;;X
+convert_to_republic_indep_desc;³ÉÁ¢ÉÌÒµ¹²ºÍ¹ú»áÊ¹µÃÎÒµÄËùÓÐ²¿ÂäµØ²ú×ª±äÎª³ÇÊÐ¡£Èç¹ûÕâ¿éÊ¡·Ý×ã¹»´óÇÒÎÞ³Ç±¤ÓëÉñÃíµØ²ú£¬Ò²»áÉú³É³Ç±¤ÓëÉñÃí¡£ËÄÎ»ºÏÊÊµÄ·â³¼½«»á½¨Á¢¹óÈË¼Ò×å¡£;;;;;;;;;;X
+EVTDESC55100;ÄãµÄ²¿Âä·â³¼£¬[From.GetTitledName]£¬ÒÑ¾­·â½¨»¯¡£;;;;;;;;;;X
+convert_tribal_to_castle_desc;ÎÒ¿ÉÒÔ°Ñ[Root.GetFullName]½úÉýÎªÒ»×ùÕæÕýµÄ³Ç±¤¡£Èç¹û¸Ã³Ç±¤ÊÇÊ¡·ÝÊ×¸®£¬¸ÃÊ¡·Ý×ã¹»´ó£¬ÇÒÎÞ³ÇÊÐÓëÉñÃíµØ²ú£¬Ò²»áÉú³É³ÇÊÐÓëÉñÃí¡£;;;;;;;;;;X
+convert_tribal_to_city_desc;ÎÒ¿ÉÒÔ°Ñ[Root.GetFullName]½úÉýÎªÒ»×ùÕæÕýµÄ³ÇÊÐ¡£Èç¹û¸Ã³Ç±¤ÊÇÊ¡·ÝÊ×¸®£¬¸ÃÊ¡·Ý×ã¹»´ó£¬ÇÒÎÞ³Ç±¤ÓëÉñÃíµØ²ú£¬Ò²»áÉú³É³Ç±¤ÓëÉñÃí¡£;;;;;;;;;;X
+OCCUPATION_MODIFIER;Õ¼ÁìÍÁµØÐÞÕý;;;;;;;;;;X
+OCCUPATION_POP_GROWTH_MODIFIER;ÈË¿ÚÔö³¤£¨×Ü£©;;;;;;;;;;X
+PROVINCE_HAS_FORT_DISCOUNT;ÓÉÓÚ½¨ÔìÁËÒ»¸öÐÂµØ²ú£¬Õâ¸öÊ¡·ÝµÄ§YÒªÈû§!»á±»ÒÆ³ý£¬×÷Îª²¹³¥£¬½¨Ôì³É±¾»á¼õÉÙ¡£;;;;;;;;;;X
+DONT_BORDERS_LAKE;²»ÅþÁÚºþ²´;;;;;;;;;;X
+BORDERS_LAKE;ÅþÁÚºþ²´;;;;;;;;;;X

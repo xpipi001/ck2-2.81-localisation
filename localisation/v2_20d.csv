@@ -1,0 +1,18 @@
+vice_royalty_2_desc;½¨Á¢Íõ¹ú¼°¹«¹ú×Ü¶½¡£;;;;;;;;;;X
+duke_vice_royalties;ÔÊÐíÍõ¹ú¼°¹«¹ú×Ü¶½;;;;;;;;;;X
+PLOT_POWER_DESC;ÃÜÄ±Í¨¹ý»ñµÃÖ§³ÖÕßÀ´Ìá¸ß³É¹¦ÂÊ£¬¸ßÃÜÄ±Öµ»á½âËø¸ü¶àµÄÌØÊâÃÜÄ±¾öÒé¼°Ê±¼ä.ÈÃÄãµÄ¼äµýÖ÷¹ÜÔÚÄãµÄÃÜÄ±Ä¿±êµÄËùÔÚµØ½¨Á¢¼äµýÍø½«»á´ó´óÌá¸ßÄãµÄÃÜÄ±³É¹¦ÂÊ¡£;;;;;;;;;;X
+LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;§Y$VASSAL$§!²»ÔÙÊÇ§Y$VASSAL_WAR$§!µÄ²ÎÓëÕß£¬ÒòÎª$PRONOUN$·â¾ý§Y$LIEGE$§!×÷Îª§Y$SIDE$§!¼ÓÈëÁË§Y$LIEGE_WAR$§!¡£;;;;;;;;;;X
+LIEGE_ENDED_OTHER_WAR_LOG;§Y$VASSAL_WAR$§!½áÊøÁË£¬ÒòÎª§Y$LIEGE$§!×÷Îª§Y$SIDE$§!¼ÓÈëÁË§Y$LIEGE_WAR$§!¡£;;;;;;;;;;X
+NOT_ANY_WAR_STARTS;ÎÞÕ½Õù;;;;;;;;;;X
+not_under_attack;·Ç·ÀÓù·½;;;;;;;;;;X
+temple_king_pagan_group;¼ÀË¾Íõ;;;;;;;;;;X
+EVTTITLE_CM_1402;·´ÅÑ[From.PrimaryTitle.GetRulerTitle];;;;;;;;;;X
+EVTDESC_CM_1410;ÎÒµÄ[Root.GetLordLady]£¬ÅÑÍ½[From.GetTitledName]Ëº»ÙÁË[From.GetHerHis]ÅµÑÔ£¬¾Ü¾øÖ§Ô®Äã·´¿¹ÙÁÂíÑÇÍõ³¯£¡;;;;;;;;;;X
+TRIBAL_VASSAL_LEVY_CONTROL_ON;·â³¼²¿Âä½«»áÏòÄãÌá¹©³£±¸¾ü¡£\n;;;;;;;;;;X
+TRIBAL_VASSAL_LEVY_CONTROL_OFF;·â³¼²¿Âä½«»áÍ£Ö¹ÏòÄãÌá¹©³£±¸¾ü¡£\n;;;;;;;;;;X
+TRIBAL_VASSAL_TAX_INCOME_ON;·â³¼²¿Âä½«»áÏòÄãÉÏ½ÉË°½ð¡£\n;;;;;;;;;;X
+TRIBAL_VASSAL_TAX_INCOME_OFF;·â³¼²¿Âä½«»áÍ£Ö¹ÏòÄãÉÏ½ÉË°½ð¡£\n;;;;;;;;;;X
+LIEGE_TAX_TRIBAL;¶ÀÁ¢µÄ²¿Âä»òÓÎÄÁÁìÖ÷²»»á´ÓËûÃÇµÄ·â³¼ÄÇÊÕµ½Ë°½ð;;;;;;;;;;X
+CHRONICLE_WAR_WON; [From.GetTitledNameWithNick] ÔÚÕ½ÕùÖÐ»÷°ÜÁË [Root.GetTitledNameWithNick]¡£;;;;;;;;;;X
+CHRONICLE_WAR_WHITEPEACE; [From.GetTitledNameWithNick] Óë [Root.GetTitledNameWithNick] æÅºÍ¡£;;;;;;;;;;X
+CHRONICLE_WAR_LOST; [From.GetTitledNameWithNick] ÔÚÓë [Root.GetTitledNameWithNick] µÄÕ½ÕùÖÐÕ½°ÜÁË¡£;;;;;;;;;;X

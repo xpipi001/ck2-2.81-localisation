@@ -1,0 +1,63 @@
+EVTDESC_RoI_10011;нр╣д [GetFromRelation] [From.GetFirstName], [From.Reincarnation.GetTitledFirstName] ╣дв╙йю,ц©лЛ╣дппн╙╬ыж╧сК [From.GetPossPronoun] иЗг╟т╫ю╢т╫оЮкф! [From.GetFirstName]╨анчринй╣ьсжлЕожЁЖакаМр╩╦Ж [From.Reincarnation.GetFirstName]╣дпт╦Яль╣Ц...;;;;;;;;;;X
+form_the_hre;Ёиа╒иЯй╔бчбМ╣ш╧З;;;;;;;;;;X
+form_the_hre_desc;нрс╣спак©╟╠х╡ИюМбЭ╢С╣ш╣даЛма,рР╢кнрйгкШуФуЩ╣д╪лЁпуъ,╡╒си╢к╩╫фП╣ш╧З╣д╠Д╦О,аН [Root.RelHead.GetBestName] н╙нр╪сцАн╙тзнВ╥╫╣дпббчбМ╣ш╧З╩й╣ш!;;;;;;;;;;X
+buddhist_DESC;╥П╫лйгси╥Пё╛гг╢Од╕о╓╢О╤Ютз╧╚т╙г╟5йю╪м╢╢а╒╣дё╛тзс║╤х╤╚╠╠╡©║ёвз╫лтзс║╤хпкй╒ак1500сЮдЙё╛╫╗а╒акес╢С╣дм╪йИ╧щ╨мпч╣ют╨╦╢╨о╫╗жЧнОё╛ж╠╣╫дбк╧ажхКгж╨мфебчцежжпу╣д╡╩╤отЖЁ╓╣дйфа╕╤ЬюК©╙с║╤х╢н╢Сб╫║ётзсно╥жпё╛╥П╫лм╫╣ц╣╫отжЬ╣дя╖о╟йТпт╫╠юЬё╛уБрБн╤векШцг╣д╪╪йУяп╬©╫╚╦Э╪с©Лкы║ё;;;;;;;;;;X
+jain_DESC;Йхдг╫лйг╡╩©ик╪рИ╣д╧е╢Звз╫лё╛сис║╤х╣д©ЮппиЁце╢╚мЁкЫ╡ЗиЗё╛Йхдг╫л╥╢╤тфебчце╪юк╬╨мжжпужф╤х║ёЙхдг╫л╣дж╦╣╪т╜тРйг╥г╠╘а╕жВрЕ - ╥г╠╘а╕ - ╡╒гр╠ххн╨нфДкШвз╫л╤╪ж╢пп╣д╦ЭЁ╧╣в║ётзсно╥жпё╛Йхдг╫л╨эдя╥╒╤╞╫Ь╧╔пту╫уЫё╛╣╚кШцг╣д╥г╥╡фЬ╤хрБн╤веЙхдг╫л╣дмЁжнуъ╦Эйэ╣╫кШхк╣до╡╩╤║ё;;;;;;;;;;X
+IndiaDLC;с║╤хбчЙA;;;;;;;;;;X
+TurkishUnitPackDLC;ма╤ЗфД╣╔н╩╟Э;;;;;;;;;;X
+TurkishPortraitDLC;ма╤ЗфДп╓оЯ╟Э;;;;;;;;;;X
+SongsOfIndiaDLC;с║╤хж╝╦Х;;;;;;;;;;X
+THREAT;мЧп╡;;;;;;;;;;X
+THREAT_FACTION_LEADER;еио╣аЛпДё╨╖Y$FACTION$╖!;;;;;;;;;;X
+THREAT_FACTION_MEMBER;еио╣Ёит╠ё╨╖Y$FACTION$╖!;;;;;;;;;;X
+THREAT_ADVENTURER;кШцгуЩтзв╪╠╦уК╤тнр╣дц╟оу╩Н╤╞;;;;;;;;;;X
+THREAT_PREPARING_INVASION;кШцгуЩтзв╪╠╦уК╤тнр╣дгжбт;;;;;;;;;;X
+alert_adventurer_threat_instant;╖Yц╟оууъмЧп╡╖!;;;;;;;;;;X
+alert_adventurer_threat_delayed;ртобц╟оу╩Н╤╞уК╤тнр:\n$LIST$;;;;;;;;;;X
+alert_adventurer_threat_name;уК╤тнр╣дц╟оу╩Н╤╞;;;;;;;;;;X
+opinion_targeted_by_adventurer;╠╩гжбт;;;;;;;;;;X
+opinion_revoked_honorary_title;Ящ╤Аакнр╣дхысЧЁф╨е;;;;;;;;;;X
+holding_grand_hunt;╬ы╟Лй╒╢С╣дАВат╩Н╤╞;;;;;;;;;;X
+TITLE_NOT_REVOKEABLE;нч╥╗Ящ╤А;;;;;;;;;;X
+MODIFIER_VASSAL_OPINION;╥БЁ╪рБ╪Ш;;;;;;;;;;X
+MODIFIER_LIEGE_OPINION;╬ЩжВрБ╪Ш;;;;;;;;;;X
+MODIFIER_SEX_APPEAL_OPINION;пт╦ппчуЩ;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_TITLE;╟Ч╤АхысЧм╥он;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_DESC;╟Ч╤Аж╝г╟╢мсХдЁхк╣дхысЧм╥он;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_LONG_DESC;дЦ©ирт╥оЁЩдЦж╝г╟╢мсХкШхк╣дхысЧм╥он, ╟Ч╤АкШцг╢см╥он╩Я╣ц╣дхысЧ╨мйухК.;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_0;я║тЯр╩╦Жр╙╢с╖Y[Recipient.GetTitledFirstName]╖W╢╕Ящ╤А╣дхысЧм╥он║ё;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_SETUP;хысЧм╥он╠╩Ящ╤А;;;;;;;;;;X
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_LOG;╖Y[Actor.GetBestName]╖W╢с╖Y[Recipient.GetBestName]╖W╢╕Ящ╤А╖Y[ThirdPartyTitle.GetFullName]╖WхысЧм╥он;;;;;;;;;;X
+CANNOT_BUY_RET_TEMP_TITLE;\nдЦ╡╩дэ╢╢тЛуБжжгвню╤сё╛рРн╙дЦЁжсп╣дйгаый╠м╥он║ё;;;;;;;;;;X
+CANNOT_PLAY_INDIAN_WITHOUT_DLC;тзц╩спс║╤хбчЙAгИ©ЖобдЦ╡╩дэя║тЯс║╤хвз╫лснмФ;;;;;;;;;;X
+CANNOT_PLAY_JUDAISM_WITHOUT_DLC;тзц╩спяг╡╝ю╜╨╠ж╝рАгИ©ЖобдЦ╡╩дэя║тЯпеяЖслл╚╫л╣д╫ги╚╫Ьппсно╥;;;;;;;;;;X
+DESIGNATE_HEIR_ALLOWED_SUCCESSION;╪лЁп╥╗╠ьпКн╙╬Ы╥ж╪лЁп╥╗,Ё╓вс╪лЁп╥╗,сввс╪лЁп╥╗╨мма╤ЗфД╪лЁп╥╗жп╣др╩жж;;;;;;;;;;X
+DESIGNATE_HEIR_ALLOWED_GENDER;╪лЁпхк╣дж╦╤╗╠ьпКвЯя╜пт╠П╪лЁп╥╗;;;;;;;;;;X
+GRANT_LANDED_TITLE_CORRECT_CASTE;хкнОс╣спуЩх╥╣джжпу;;;;;;;;;;X
+opinion_former_lover;╬игИхк;;;;;;;;;;X
+IS_NOT_FORMER_LOVER_OF;╡╩йг╖Y$WHO$╖!╣днТхугИхк;;;;;;;;;;X
+IS_FORMER_LOVER_OF;йг╖Y$WHO$╖!╣днТхугИхк;;;;;;;;;;X
+EVTDESC60400;р╩╦Ж╫эЁЖ╣дма╤ЗфДе╚╠Ь,тЬ╬╜╣де╚а╔ку╡╪©кльгзбйаЛкШ╣дфО╠ЬмЙЁиак╤Ю╢ну╫ршсКм╩о╝,си╢кй╧вт╪╨нецШ.нр╣дж╦╩с╧ыхон╙нрс╕╦ц╦ЬсХкШр╩╦Ж╦Эспх╗а╕╣дж╟нЯ.;;;;;;;;;;X
+EVTOPTA60401;ЙЫмсбчвН╨оййё║;;;;;;;;;;X
+EVTOPTB60401;д╬╤Шл╧╨эт╜й╪;;;;;;;;;;X
+EVTOPTC60401;бчфе╡╧бч╦╫йТ╤ЬхУп║;;;;;;;;;;X
+EVTOPTD60401;╟м©╗╤Шйг╣зр╩╦Ж!;;;;;;;;;;X
+EVTNAME60406;ы╓нТдА╣дАхфП;;;;;;;;;;X
+EVTDESC60406;р╩╦Жг╟ма╤ЗфДе╚╠Ь,╧мс╤╠Ь,тз╟╒╦╩╨╧хк╣дма╣ьиоАхфП.ку╡╪©кльгз,йгр╩╦Ж╩Щ╪╚╥╢╤трЛ╫лм╫╣дхк,жба╕сз╫╗а╒р╩╦Ж©╟╠х╧ей╠╧ЧюО╥╒╣д╣ш╧З. кШ╦у╦у╩ы╣Так [FromFrom.GetTitledName] тзр╩╢н╡пхл╣ду╫уЫжп,йЩртмР╪ф╣дпв╨╥╡©бДгЮдЙрР╢к╬ш╪╞╣╫аккШ╣д╬ЭфЛж╝обё║;;;;;;;;;;X
+EVTOPTA60406;╡Э╤╤╟и,рЛ╤к!;;;;;;;;;;X
+EVTOPTB60406;╤Юц╢бИ╥Ё╣др╩╦Ж╣ьгЬ...;;;;;;;;;;X
+EVTOPTC451;[From.GetSheHeCap]╡╩йгнр╣д╡к;;;;;;;;;;X
+EVTOPTA450;╧дюЬ [Root.Liege.GetHerHim];;;;;;;;;;X
+EVTOPTA454; [From.GetSheHe] тУц╢дэ╣ж╣╡нр╣двГжД?;;;;;;;;;;X
+EVTDESC453;нрх╔ак [From.GetFirstName]╣д╥©╪Д╡╒гр╦З [From.GetHerHim] вЖакр╩╥╛иНхК╫╩аВ!;;;;;;;;;;X
+NOT_ALREADY_NEGOTIATED;╡╩в╪╠╦л╦еп;;;;;;;;;;X
+force_back_tactic;╠фмк;;;;;;;;;;X
+gray_wall_tactic;╩рг╫;;;;;;;;;;X
+crushing_charge_tactic;дКя╧ЁЕ╥Ф;;;;;;;;;;X
+EVTDESC_RoI_115;с║╤х╫л╣дкд╦Ж╥жж╖йгй╙фееи,еЧй╙е╚еи,пта╕еи╨мй╕д╕╤Юеи.дЦпХр╙я║тЯр╩жжпб╣д╫леи,дЦ╩Ая║тЯддр╩╦Жё©;;;;;;;;;;X
+EVTDESC_RoI_116;╥П╫л╣дхЩ╦ЖжВр╙╥жж╖н╙╢СЁк╥П╫л,╫П╦уЁк╥П╫л╨миовЫ╡©╥П╫л.дЦ╬Ж╤╗я╟гСр╩жжпб╣дн╙хкуэя╖,дЦ╩Ая║тЯддр╩╦Жё©;;;;;;;;;;X
+MORAL_AUTHORITY_DESC;р╩╦Жвз╫л╣двз╫лх╗мЧс╟оЛве╢╚╫лЁи╧╕бйрт╪╟рЛ╫л╤т╦цвз╫л╣д╨ц╦п║ёвз╫лх╗мЧ╫о╣мй╠вз╫лаЛпДнч╥╗╫ЬппльйБпп╤╞хГ╬Ь╥ё║ёсисзвз╫л╩З╧╧й╖х╔акцЯпдё╛╣мвз╫лх╗мЧ╩╧╩А╢╔╥╒╦╨цФйб╪Чй╧╣цдЦ╣д╧З╪р╡╩тынх╤╗║ё;;;;;;;;;;X
+MODIFIER_CHURCH_OPINION;вз╫л╥БЁ╪л╛╤х;;;;;;;;;;X
+CANNOT_AFFORD_THE_PIETY;╖Rнрцгц╩спвЦ╧╩╣д$PIETYNAME$!╖W\n;;;;;;;;;;X
+HIRE_ORDER_DESC;╧мс╤╖Y$TITLE$╖WпХр╙╩╗╥я╖Y$COST$╖W$PIETYNAME$║ё(кШцг╩А╣ж╢О╖Y$CAPITAL$╖W╩РуъфД╦╫╫Э╣ьгЬ║ё);;;;;;;;;;X
+expel_the_jomsvikings_desc;нрдэ╟ят╪д╥к╧н╛╬╘хк╢снр╣даЛ╣ь╦овъ╡╒╤Ах║кШцг╣дЁг╠╓║ёх╩╤Ьё╛уБц╢вЖйг╥гЁё╡╩Р╞Ёо╣д...;;;;;;;;;;X

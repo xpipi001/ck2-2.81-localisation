@@ -1,0 +1,103 @@
+EVTDESC_CM_1181;[From.GetDynName] ¾ö¶¨³ÉÎªËý[From.GetSonDaughter],  [From.GetTitledFirstName],µÄÉãÕþ.Äã¶Ô´ËËÆºõÎÞÄÜÎªÁ¦...;;;;;;;;;;X
+EVTOPTA_CM_1181;ÎÒÖªµÀÁË...;;;;;;;;;;X
+EVTOPTB_CM_1181;ÎÒ²»ÕâÃ´Ïë!;;;;;;;;;;X
+EVTDESC_CM_1182;ÄãµÄÄ¸Ç× [FromFrom.GetFirstName] ÈÏÎªËý´úÌæ[From.GetTitledFirstName]³ÉÎªÄãµÄÉãÕþÊÇ×îºÃÑ¡Ôñ.;;;;;;;;;;X
+EVTOPTA_CM_1182;ÎÒÏàÐÅÎÒÂèÂèÊÇ×îºÃµÄ.;;;;;;;;;;X
+EVTOPTB_CM_1182;ºß... µ½µ×Ë­ÊÇ [From.PrimaryTitle.GetTier]µÄÖ÷ÈË?;;;;;;;;;;X
+EVTDESC_CM_1192;ÓÐÒ»¸öÁîÈË²»°²È´ÓÖÓÐÃ¼ÓÐÑÛµÄÒ¥ÑÔÖ¸ÄãµÄÄ¸Ç×[Root.Mother.GetFirstName]ÊÔÍ¼¹´ÒýÄãµÄ[From.GetHusbandWife][From.GetFirstName]£¬²¢ÇÒÁ½ÈË±³×ÅÄã·¢ÉúÁËÈâÌå¹ØÏµ...;;;;;;;;;;X
+EVTOPTA_CM_1192;ÎÒ¿Ï¶¨ÊÇ×ÓÐéÎÚÓÐµÄÊÂÇé.;;;;;;;;;;X
+EVTOPTC_CM_1192;Ô­À´ÊÇÕâÑù,Ä¸Ç×´óÈËÓ¦¸Ã±»ËÍÈ¥ÐÞµÀÔº!.;;;;;;;;;;X
+EVTOPTB_CM_1192;ÌìÄÄ,ÎÒ±ØÐë°Ñ [From.GetFirstName] ÇýÖð.;;;;;;;;;;X
+EVTOPTD_CM_1192;ËûÃÇÁ½¸ö¶¼Ó¦¸ÃÊÜµ½³Í·£!;;;;;;;;;;X
+EVTOPTE_CM_1192;ÕâÁîÈËÍ´¿à,µ«µØÀÎ²ÅÊÇ¼é·òÒù¸¾µÄ¹éËÞ.;;;;;;;;;;X
+EVTDESC_CM_1132;ÖÂÎáÖ®¹ÊÖ÷, [Root.GetFirstNameWithNick],\n\nÎáÈËÒÑÈ»Ð§ÖÒÓÚ·¨À¼¿Ë×åÈËÖ®ÕæÕýÏÍÍõ¶ø·ÇÎÞµÂÖ®¾ýÀà¸óÏÂÕß,ÓÚ´ËÎáÉî±íÒÅº¶..\n\nÈÙÒ«ÊôÓÚ·¨À¼¿ËµÛ¹ú,\n[From.GetBestName];;;;;;;;;;X
+EVTOPTA_CM_1132;ÕâÕæ²»ÐÒ...;;;;;;;;;;X
+ERA_CHAR_INFO_74441;æ¶ÃÜÊÒ·¥ÂÞÒ»ÊÀÔÚ½¨Á¢Ù¤Á«Äá³ÇºóÓÚ1042Äê³ÉÎªÎ÷ÕÚÂ¦Æä¹úÍõ²¢¶¨¶¼ÓÚ´Ë¡£ËûËäÈ»ÇÚÕþÓ¢ÎäÈ´¾¡Ëû±ÏÉúÖ®Á¦ÓëÀ´×ÔÖìÂÞÍõ³¯µÄ¾ºÕùÕßÎªÎÄêÈµÄÍ³ÖÎÈ¨¶øÏàÕù¡£ÓÉÓÚ²»ÄÜÕ½Ê¤ËÞµÐÒÔ¼°¾øÖ¢µÄÕÛÄ¥£¬æ¶ÃÜÊÒ·¥ÂÞ×îÖÕÓÚ¶«Ù¤ÆÅÍÓÂÞºÓÍ¶Ë®×Ô¾¡¡£;;;;;;;;;;X
+EVTDESC_CM_1401;ÄãÒÑ²»Ô¸¼ÌÐøÇüÏ¥ÓÚ[Root.Liege.GetTitledFirstName], µ« [Root.Liege.GetSheHe] ·Ç³£Ç¿´ó.Ò²ÐíÑ°ÇóÍâÔ®²ÅÊÇÕýÈ··½·¨ - ±±·½µÄ·¨À¼¿ÍÈËÈÕÒæÇ¿´ó²¢ÇÒËûÃÇ¶Ô[Root.Liege.GetOnlyDynastyName]Ò»×å²¢ÎÞºÃ¸Ð. Äã¿ÉÒÔÏòËûÃÇÐíÒÔ³Æ³¼À´»»È¡Ô®¾ü - µ±È»ÔÚµÃµ½ËûÃÇµÄÔ®ÖúºóÄãÂÄÐÐ²»ÂÄÐÐÄãµÄÅµÑÔ¾ÍÊÇÁíÒ»»ØÊÂÁË...;;;;;;;;;;X
+EVTOPTA_CM_1401;ÎÒ½«ÅÉ³öÐÅÊ¹.;;;;;;;;;;X
+EVTOPTB_CM_1401;²»,ÕâºÁÎÞÒæ´¦.;;;;;;;;;;X
+EVTDESC_CM_1402;Ò»Î»ÓëÖÚ²»Í¬µÄÐÅÊ¹´ÓÎ÷°àÑÀÀ´µ½ÁËÄãµÄ¹¬Í¢¡£ÕâÎ»×Ô[From.GetTitledNameWithNick]µÄÃÜÊ¹À´µ½ÄãµÄÃæÇ°ËµµÀ£º"ÎÒµÄ[From.GetLordLady]ÇëÇóÄúÖ§Ô®Æä·´¿¹±©¾ý[From.Liege.GetTitledName]Ö®Òå¾Ù¡£[From.GetSheHeCap]Ï£ÍûÄúÄÜ³ö±øÖ§Ô®£¬×÷Îª»Ø±¨£¬[From.GetSheHe]½«ÔÚ°ÚÍÑ[From.Liege.GetOnlyDynastyName]Ñ¹ÆÈÔÚ[From.GetHerHis]±³ÉÏ µÄ¼ÏËøºóÏòÄúÐ§ÖÒ¡£";;;;;;;;;;X
+EVTOPTA_CM_1402;ºÜºÃºÜºÃ,ÈÃÎÒÃÇÎª´ËÇ©ÊðÒ»·ÝÐ­¶¨.;;;;;;;;;;X
+EVTOPTB_CM_1402;¶Ô²»Æð,ÎÒ²¢²»Ïë½éÈëÎ÷°àÑÀÊÂÎñ.;;;;;;;;;;X
+EVTDESC_CM_1403;ÄãµÄÌØÊ¹´Ó·¨À¼¿Ë´øÀ´ÁË»µÏûÏ¢. [From.GetTitledName] ¾Ü¾øÖ§Ô®Äã·´¿¹ [Root.Liege.GetOnlyDynastyName]µÄ¶·Õù.;;;;;;;;;;X
+EVTOPTA_CM_1403;Õâ»ÙÁËÎÒµÄÏ£Íû!;;;;;;;;;;X
+EVTDESC_CM_1404;ÄãµÄÌØÊ¹´Ó·¨À¼¿Ë´øÀ´ÁËºÃÏûÏ¢. [From.GetTitledName] ½ÓÊÜÁËÄãµÄÇëÇó²¢±£Ö¤½«ÔÚÄãÆð±ø·´¿¹ [Root.Liege.GetOnlyDynastyName] Ê±ÅÉ±øÖ§Ô®.;;;;;;;;;;X
+EVTOPTA_CM_1404;ÊÇÀ÷±øï÷ÂíµÄÊ±ºòÁË, È»ºó...;;;;;;;;;;X
+EVTDESC_CM_1405;Ê±»ú¾ÍÔÚ½ñ³¯! [Root.GetOnlyDynastyName] µÄ¾ü¶Ó½«³å³öÓªÕ¯ÏûÃð[Root.Liege.GetOnlyDynastyName]Ò»×å, ·¨À¼¿ËµÄÌúÌã½«ÊÇÄãµÄºó¶Ü!;;;;;;;;;;X
+EVTOPTA_CM_1405;ÈÃËûÃÇÍ´¿à!;;;;;;;;;;X
+EVTDESC_CM_1406;ÎÒµÄ[Root.GetLordLady]£¬Î÷°àÑÀÄÇ±ß´«À´ÁËÏûÏ¢£¬ [From.GetTitledName] ¶Ô [target_liege.GetOnlyDynastyName] ·¢¶¯ÁËÅÑÂÒ¡£ÊÇÊ±ºòÂÄÐÐÎÒÃÇµÄÅµÑÔ¡¢³ö±øÔ®ÖúËûÃÇÁË¡£;;;;;;;;;;X
+EVTOPTA_CM_1406;¾ÙÆì³ö±ø!;;;;;;;;;;X
+EVTOPTB_CM_1406;ÎÒÒÑ¾ö¶¨£¬ÈÃËûÃÇ×ÔÉú×ÔÃð°É.;;;;;;;;;;X
+EVTDESC_CM_1408;ÎÒµÄ [Root.GetLordLady], ÎÒÃÇÖÕÓÚ´Ó[Root.Liege.GetOnlyDynastyName]¼Ò×åµÄÑ¹ÆÈÖÐÖØÐÂ»ñµÃÁË¶ÀÁ¢. ³ö±øÖ§Ô®ÎÒÃÇµÄ·¨À¼¿ËÍ³ÖÎÕß½«ÒªÇóÄúÂÄÐÐÄúµÄÐ§ÖÒÅµÑÔ.ÄúÒâÏÂÈçºÎ§!;;;;;;;;;;X
+EVTOPTA_CM_1408;ÎÒÒ»ÑÔ¾Å¶¦,½«ÂÄÐÐÅµÑÔ.;;;;;;;;;;X
+EVTOPTB_CM_1408;ÈÃ·¨À¼¿ËÂù×ÓÈ¥¼û[Root.Religion.GetRandomEvilGodName]°É!;;;;;;;;;;X
+EVTDESC_CM_1409;ÎÒµÄ[Root.GetLordLady]£¬¾¡¹ÜÄúÔø¾­ÎÞË½Ô®Öú£¬°ïÖú[From.GetHerHim]´ÓÙÁÂíÑÇÍõ³¯»ñµÃÁË[From.GetHerHis]×ÔÓÉ£¬µ«ºÁÎÞÐÅÓþµÄ[From.GetTitledName]Î¥±³ÁË[From.GetHerHis]µ±³õÏòÄú·¢ÊÄÐ§ÖÒµÄÅµÑÔ£¡;;;;;;;;;;X
+EVTOPTA_CM_1409;ÕâÈº±³ÐÅÆúÒåµÄ[From.Culture.GetName]!;;;;;;;;;;X
+EVTOPTB_CM_1409;ÅÑÍ½!;;;;;;;;;;X
+CALL_ALL_ALLIES;ÕÙ»½ËùÓÐÃËÓÑ¼ÓÈëÕ½Õù;;;;;;;;;;X
+CALL_ALL_NO_WAR;ÄãÃ»ÓÐ´¦ÓÚÕ½Õù×´Ì¬, Òò´ËÄã²»ÄÜÕÙ»½·â³¼¼°ÃËÓÑ¼ÓÈëÕ½Õù;;;;;;;;;;X
+CALL_ALL_ALLIES_INFO;§G°´×¡§YCtrl¼ü§GÒÔÕÙ»½È«²¿ÃËÓÑ¼ÓÈëÕ½Õù§!;;;;;;;;;;X
+CharlemagneDLC;²éÀíÂü;;;;;;;;;;X
+EarlyWesternClothingDLC;ÔçÆÚÎ÷·½·þÊÎ°ü;;;;;;;;;;X
+EarlyEasternClothingDLC;ÔçÆÚ¶«·½·þÊÎ°ü;;;;;;;;;;X
+DynastyShieldsCharlemagneDLC;²éÀíÂüÍõ³¯¶Ü»Õ;;;;;;;;;;X
+EVTDESC107000;×¢Òâ! ÔÚ¹«Ôª1066ÄêµÄÊÀ½çÕýÈçÄãËù¿´µ½µÄ,±»·ÖÎªÐí¶à²»Í¬µÄµØÓò-¹ú¼Ò - Ã¿Ò»¸ö¹ú¼Ò¶¼ÓÉÆä¾ýÖ÷»òÊÇÆäËûµÄÍ³ÖÎÕß¿ØÖÆ×Å. Íõ¹ú·çÔÆ2Õâ¸öÓÎÏ·±íÏÖÁË¹ØÓÚÕâÐ©Í³ÖÎÕßµÄ¸öÈË,¼Ò×å,¹ØÏµ,ÒõÄ±ÒÔ¼°È¨Á¦.ÊÇ³ÉÎªÒ»ÃûÕ÷·þÕß»¹ÊÇÒ»¸öÎÂºÍµÄ¼Ò×å³¤Õß,¶¼È¡¾öÓÚÍæ¼ÒÄãµÄ¾ñÔñ,µ«ÊÇÄãÒª¼Ç×¡²»ÂÛÄãÈçºÎÏë,ÆäËûµÄ½ÇÉ«¶¼»á¿ÊÇó¸ü¶àµÄÍÁµØÓë²Æ¸».\n\nÍõ¹ú·çÔÆ2ÊÇÒ»¸öÊµÊ±Õ½ÂÔÓÎÏ·.¹Ø±ÕÕâ¸ö´°¿Ú²¢Í¨¹ýµ÷½ÚÓÎÏ·ËÙ¶È¿ªÊ¼ÓÎÏ·...;;;;;;;;;;X
+EVTDESC107304;ÎªÁË½«ÄúµÄ²¿¶Ó×°ÔØÉÏ´¬£¬Çë½«ÄúµÄ½¢¶ÓÊ»ÈëÒ»¸öÂ½µØÊ¡·ÝÒÔÁîÆäÈë¸Û.È»ºóÄú¿ÉÒÔ½«ÄúµÄ²¿¶Ó¿ªÈëÍ¬Ò»Ê¡·Ý,Í¨¹ýµã»÷¾ü¶ÓÉÏ´¬¼üÊ¹µÃ²¿¶ÓÓë½¢¶ÓºÏ²¢. ÄãÒ²¿ÉÒÔÈÃÄãÔÚÁÙº£Ê¡·ÝµÄ¾ü¶ÓÖ±½ÓÒÆ¶¯µ½ÔÚÁÚ½ü¸ÃÊ¡·ÝÑóÃæÉÏµÄ½¢¶ÓÉÏµÄÐÎÊ½Ê¹µÃ²¿¶ÓµÇ´¬. Çë×¢Òâ,½¢¶ÓÔ½´óÄÜ×°ÔØµÄ²¿¶ÓÔ½¶à.;;;;;;;;;;X
+EVTDESC107306;µ±ÄúµÄ²¿¶ÓÍ£ÁôÔÚµÐÈË¿ØÖÆµÄÁìµØÊ±ºò, ËûÃÇ½«»áÎ§¹¥µÐÈËµÄµØ²ú.ÄúÐèÒªÕ¼Áì¸ÃÊ¡·ÝÄÚËùÓÐµÄµØ²úÒÔÍêÈ«Õ¼¾Ý¸ÃµØÇø. Î§³ÇÕ½ÐèÒªÏûºÄÊ±¼ä,Í¬Ê±Î§³Ç²¿¶ÓÈËÊý±ØÐë¶àÓÚÊØ¾ü. Î§¹¥²¿¶ÓÔ½¶à,¹¥ÏÝµÄÊ±¼äÔ½¿ì. µ±µØ±¤ÀÝµÄµÈ¼¶Ò²»áÓ°Ïìµ½Î§³ÇÊ±¼äµÄ³¤¶Ì.Èç¹ûÄãÏëÁË½âÎ§³ÇµÄ½ø¶È, ÇëÑ¡ÔñÄãµÄ²¿¶Ó»òÕßµã»÷ÕýÔÚÎ§¹¥µÄÊ¡·Ý.;;;;;;;;;;X
+CHRONICLE_GRAND_TOURNAMENT; [From.GetTitledFirstName] ¾Ù°ìÁËÒ»³¡Ê¢´óµÄ±ÈÎä, ÑûÇëÁË¹úÄÚËùÓÐµÄ´óÁìÖ÷ºÍÆïÊ¿Ç°Íù²Î¼Ó.;;;;;;;;;;X
+CHRONICLE_FURUSIYYA; [From.GetTitledFirstName] ¾Ù°ìÁËÒ»³¡ÆïÊõ´ó»á, ÑûÇëÁË¹úÄÚËùÓÐµÄÓÂÊ¿ÃÇÇ°Íù±ÈÊÔÎäÒÕ.;;;;;;;;;;X
+EVTDESC_108000;ÄãµÄ [Root.GetChancellorName], [Root.job_chancellor.GetTitledFirstName], ½¨ÒéÄãÇåÀíµôÄãÐÂÈ¡µÃµÄÍ·ÏÎ²¢½«Æä·Ö·â¸øÐÂÀÏ·â³¼ÒÔ¼õÇáÄãµÄÍ³ÖÎ¸ºµ£.;;;;;;;;;;X
+EVTDESC_108001;ÄãµÄ [Root.GetTreasurerName], [Root.job_treasurer.GetTitledFirstName], ½¨ÒéÄãÇåÀíµôÄãÐÂÈ¡µÃµÄÍ·ÏÎ²¢½«Æä·Ö·â¸øÐÂÀÏ·â³¼ÒÔ¼õÇáÄãµÄÍ³ÖÎ¸ºµ£.;;;;;;;;;;X
+EVTDESC_108002;ÄãµÄ [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledFirstName], ½¨ÒéÄãÇåÀíµôÄãÐÂÈ¡µÃµÄÍ·ÏÎ²¢½«Æä·Ö·â¸øÐÂÀÏ·â³¼ÒÔ¼õÇáÄãµÄÍ³ÖÎ¸ºµ£.;;;;;;;;;;X
+increase_plot_power;¼äµý×Ü¹Ü¿ÉÒÔÌáÉýÒõÄ±Á¦Á¿;;;;;;;;;;X
+EVTOPTB75003;ÈÃ¼äµý×Ü¹Ü [Root.job_spymaster.GetTitledFirstName] ²ÎÓëµ½ÒõÄ±ÖÐ!;;;;;;;;;;X
+increase_assassinate_chance;¼äµý×Ü¹ÜÌáÉýÒõÄ±Á¦Á¿;;;;;;;;;;X
+MODIFIER_PLOT_POWER;ÌáÉýÒõÄ±Á¦Á¿;;;;;;;;;;X
+ca_culture_moors_1;Ä¦¶ûÆï±øÓª;;;;;;;;;;X
+ca_culture_moors_1_desc;ÕâÀïÊÇÕ÷ÕÙÑµÁ·¾«Ó¢Ä¦¶ûÆï±øµÄµØ·½.Ä¦¶ûÈËÓµÓÐÓÆ¾ÃµÄÆï±øÑµÁ·ÀúÊ·,ÕâÐ©Æï±øÊ±ÊÀ½çÉÏ×î°ôµÄÆï±ø,ËûÃÇ×°±¸×Å³¤Ã¬,½£,ÒÔ¼°¹­¼ý,ÕâÊ¹µÃËûÃÇ¾ß±¸ÁË¼«¸ßµÄÕ½ÂÔÁé»îÐÔ.;;;;;;;;;;X
+RETTYPE_CUL_ANDALUSIAN;°²´ïÂ¬Î÷ÑÇÆï±ø;;;;;;;;;;X
+RETTYPE_CUL_BERBER;°Ø°Ø¶ûÆï±ø;;;;;;;;;;X
+INTERACTION_REQUIRES_ACTOR_IS_INDEPENDENT;§Y[Actor.GetTitledFirstName]§! ÊÇ¶ÀÁ¢µÄ;;;;;;;;;;X
+vice_royalty_baron_female;Å®ÄÐ¾ô×Ü¶½;;;;;;;;;;X
+vice_royalty_count_female;Å®²®¾ô×Ü¶½;;;;;;;;;;X
+vice_royalty_duke_female;Å®¸±×Ü¶½;;;;;;;;;;X
+vice_royalty_king_female;Å®×Ü¶½;;;;;;;;;;X
+vice_royalty_emperor_female;Å®´ó×Ü¶½;;;;;;;;;;X
+ERA_CHAR_INFO_1316;º£ÒòÀïÏ£ÊÇÉñÊ¥ÂÞÂíµÛ¹ú»ÊµÛº£ÒòÀïÏ£ÈýÊÀÖ®×Ó£¬ÓëËû¸¸Ç×Ò»Ñù,ËûÔÚÓ×ÄêÊ±ÆÚ¾Í¼´Î»ÎªÈÕ¶úÂü¹úÍõÁË¡£ÔÚËû12ËêÊ±£¬¹¬Í¢Àï±¬·¢ÁËÕë¶ÔËûÄ¸Ç×µÄÕþ±ä£¬ÉãÕþÈ¨Îª¿ÆÂ¡´óÖ÷½ÌËù¶á¡£ÔÚÕþ±äÖÐ£¬ÎªÁËÊÔÍ¼ÌÓÍÑ¿ÆÂ¡´óÖ÷½ÌµÄ°ó¼Ü£¬º£ÒòÀïÏ£²îµãÄçËÀ¡£µ±Ëû³ÉÄêºó£¬º£ÒòÀïÏ£ÎªÁËÆ½ºâÅÓ´óµÛ¹úÄÚµÄ¸÷¸öÀûÒæ¼¯ÍÅºÄ·ÑÁË´óÁ¿µÄ¾«Á¦¡£ËûÍ¬ÅÑÂÒµÄÁìÖ÷ºÍÔ­Ê¼×Ú½ÌË¹À­·òÈËÖ®¼ä±¬·¢ÁË¶à³¡Õ½Õù¡£º£ÒòÀïÏ£»¹Í¬½Ì×Ú¸ñÀï¸ßÀûÆßÊÀÖ®¼ä¾ÍÖ÷½ÌÐðÈÎÈ¨ÎÊÌâ·¢ÉúÁË¼¤ÁÒµÄÕùÖ´£¬ÕâÖ±½Óµ¼ÖÂÁËËû±»½Ì»á¾ø·£¡£Ãæ¶Ô×ÅµÛ¹úÄÚ¼´½«±¬·¢µÄÅÑÂÒ£¬º£ÒòÀïÏ£±»ÆÈ³ÜÈèµØÔÚ¿¨ÅµÉ¯³Ç±¤ÍâµÄ·çÑ©ÖÐ¹òÁËÈýÌìÈýÒ¹ÒÔÆòÇó½Ì×ÚµÄÉâÃâ¡£;;;;;;;;;;X
+administration;ÐÐÕþÌåÖÆ;;;;;;;;;;X
+administration_desc;Ò»¸öµÛ¹ú¼È¿ÉÒÔ²ÉÓÃ·â½¨ÌåÖÆÒ²¿ÉÒÔ²ÉÓÃÂÞÂíÊ½ÐÐÕþÌåÖÆ.ÂÞÂíÊ½ÐÐÕþÌåÖÆ²¢½ÏÄÑ½¨³É,²¢ÇÒÐèÒª¶à´Î¸Ä¸ï²ÅÄÜ´ïµ½.;;;;;;;;;;X
+feudal_administration;·â½¨ÌåÖÆ;;;;;;;;;;X
+feudal_administration_option;·â½¨;;;;;;;;;;X
+feudal_administration_desc;·â½¨Éç»áÊÇÒ»¸ö·â½¨ÁìÖ÷ÎªÖ÷Òª¹¹³ÉµÄµÈ¼¶Éç»á,ÆäÖÐµÄÃ¿Ò»¸ö³ÉÔ±¶¼¶ÔÖ±½ÓÁìµ¼µÄÉÏ¼¶ÁìÖ÷ÐíÒÔÐ§ÖÒ²¢¶ÔÖ¸»Ó×ÅÖ±½ÓÏÂ¼¶ÁìÖ÷.ÕâÊÇÖÐÊÀ¼ÍÊ±ÆÚ×îÆÕ±éµÄÉç»áÐÎÌ¬ ,ÔÚÕâÖÖÉç»áÐÎÌ¬ÖÐÁìÖ÷µÄÍ³ÖÎºÜ´ó³Ì¶ÈÉÏÊÇ½¨Á¢ÔÚ[Player.GetHerHis]ÖÚ¶à·â³¼µÄÖÒ³ÏÖ®ÉÏ.;;;;;;;;;;X
+imperial_administration;µÛ¹úÌåÖÆ;;;;;;;;;;X
+imperial_administration_option;µÛ¹ú;;;;;;;;;;X
+imperial_administration_desc;ÕâÖÖÕþÖÎÌåÖÆÀàËÆÓÚÂÞÂíµÛ¹úÊ±ÆÚµÄÌåÖÆ, ÊÇÓÉ²»Í¬µÈ¼¶µÄ¹ÙÀôÌåÏµÒÔ»ÊµÛµÄÃûÒå¶Ô¹ú¼ÒÈÕ³£ÊÂÎñ½øÐÐ´¦Àí.ÕâÖÖÌåÖÆÍ¨¹ýÏ÷ÈõµØ·½·â³¼µÄÈ¨Á¦À´Ê¹µÃÕþÈ¨ÎÈ¹Ì.;;;;;;;;;;X
+vice_royalty_duke_byzantine;½«¾ü;;;;;;;;;;X
+vice_royalty_king_byzantine;¶¼¶½;;;;;;;;;;X
+vice_royalty_emperor_byzantine;´ó¶¼¶½;;;;;;;;;;X
+vice_royalty_duchy_of_byzantine;¾üÕò;;;;;;;;;;X
+vice_royalty_kingdom_of_byzantine;ÐÐÊ¡;;;;;;;;;;X
+vice_royalty_empire_of_byzantine;¹ÜÇø;;;;;;;;;;X
+enables_centralization_1;¶Ô¹«¾ô¼°ÒÔÉÏ·â³¼Ö´ÐÐÏÞÖÆÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+enables_centralization_2;¶Ô¹«¾ô¼°ÒÔÉÏ·â³¼Ö´ÐÐÖÐµÈÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+enables_centralization_3;¶Ô¹«¾ô¼°ÒÔÉÏ·â³¼Ö´ÐÐ¸ßÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+enables_centralization_4;¶Ô¹«¾ô¼°ÒÔÉÏ·â³¼Ö´ÐÐ¾ø¶ÔÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+disables_centralization_1;³·ÏúÏÞÖÆÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+disables_centralization_2;³·ÏúÖÐµÈÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+disables_centralization_3;³·Ïú¸ßÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+disables_centralization_4;³·Ïú¾ø¶ÔÍõÈ¨·¨ÂÉ.\n;;;;;;;;;;X
+allows_change_government;ÔÊÐí²ÉÓÃ·â½¨ÖÆ.\nÔÊÐí½¨Á¢ÉÌÒµ¹²ºÍ¹ú.\n;;;;;;;;;;X
+disallows_change_government;½ûÖ¹²ÉÓÃ·â½¨ÖÆ.\n½ûÖ¹½¨Á¢ÉÌÒµ¹²ºÍ¹ú.\n;;;;;;;;;;X
+CHRONICLE_FOUNDED_HRE; [Root.GetDynName] ÓÉ [Root.RelHead.GetBestName] ÓÚ [GetDateText] ¼ÓÃáÎªÉñÊ¥ÂÞÂíµÛ¹ú»ÊµÛ, ´Ó¶øÖØ½¨ÁËÎ÷ÂÞÂíµÛ¹ú.;;;;;;;;;;X
+EVTTITLE_CM_510;ÉñÊ¥ÂÞÂíµÛ¹ú;;;;;;;;;;X
+EVTDESC_CM_510;×Ô´ÓÎ÷ÂÞÂíµÛ¹úÓÚ¹«Ôª476ÄêÃðÍöÖ®ºó,°ÝÕ¼Í¥»ÊµÛ³ÉÎªÁËÂÞÂíµÛÎ»µÄÎ¨Ò»¼Ì³ÐÈË.µ«ÊÇÀ­¶¡ÎÄÃ÷ºÍÏ£À°ÎÄÃ÷×ÜÊÇ»áÓÐ¸ôºÒ,ÕâÖÖ¸ôºÒÔçÒÑÓÉ½Ì»á·½ÃæµÄ·ÖÆçÂûÑÓÖÁÆäËû·½Ãæ.ÂÞÂí½Ì×Ú³¤ÆÚÒÔÀ´×Ô³ÉÒ»ÅÉ,¾Ü¾ø³ÐÈÏ°ÝÕ¼Í¥½Ì»áµÄÁìµ¼È¨ÒÔ¼°¾ýÊ¿Ì¹¶¡±¤µÄ¶«ÂÞÂí»ÊµÛ¶ÔÕû¸ö»ù¶½½ÌÊÀ½çµÄ×ÚÖ÷È¨.\n\n[From.GetDynName]ÏÖÔÚÒÑ¾­ÓÉ[From.RelHead.GetBestName]¼ÓÃáÎªÉñÊ¥ÂÞÂíµÛ¹ú»ÊµÛ, ¼Ì³ÐÁËÎ÷ÂÞÂíµÄµÛÍ³²¢ÖØ½¨ÁËÎ÷ÂÞÂíµÛ¹ú. ÕâÒâÎ¶×Å³ÉÎªÅ·ÖÞÀúÊ·½øÈëÁËÒ»¸öÐÂ¼ÍÔª, ±êÖ¾×Å¶«Î÷·½»ù¶½½ÌÊÀ½çÕýÊ½ÏÝÈëÁË³¤ÆÚ¶ÔÁ¢.;;;;;;;;;;X
+EVTOPTA_CM_510;ÉñÊ¥!;;;;;;;;;;X
+EVTOPTB_CM_510;È·ÊµÊÇÒ»¸öÇ¿´óµÄµÛ¹ú.;;;;;;;;;;X
+EVTOPTC_CM_510;Ææ¹ÖµÄÏûÏ¢...;;;;;;;;;;X
+EVTOPTD_CM_510;ÌøÁºÐ¡³ó,ãåºï¶ø¹Ú.;;;;;;;;;;X
+EVTTITLE_CM_1500;²éÀíÂüµÄ¼ÓÃá;;;;;;;;;;X
+EVTDESC_CM_1500;ÔÚ³É¹¦µØÕÆÎÕÈ¨Á¦¡¢»÷°ÜµÐÈË²¢Í³ÖÎ·¨À¼¿ËÍõ¹úºó£¬ [From.GetFirstNameWithNick] ÖÕÓÚÓÚ [GetDateText] ¼ÓÃá³ÆµÛ¡£Ëû×¯ÖØµØÕ¾ÔÚ±¦×ùÇ°£¬½« [From.PrimaryTitle.GetName] µÄÍ·¹ÚÑÏËàµØ´÷ÔÚÍ·ÉÏ¡£ËûÊÇ¸¸Ç×Ø§Æ½µÄ¼Ì³ÐÈË£¡ËûÊÇ×æ¸¸Ìú´¸²éÀíµÄºóÒá£¡ËûÊÇÈËÃñµÄÁìÐä£¡ËûÊÇ²»°ÜµÄÕ½Éñ£¡ËûÏòÊÀÈËÐû¸æËûµÄÓ¢Ãû½«ÓÀ´¹ÇàÊ·¡£ËûµÄÄ¿¹âÔçÒÑ´©¹ýÁËÏÂÃæµÄ¹ó×åºÍ½ÌÊ¿ÃÇ£¬´©¹ýÁË»Ô»ÍµÄµ±ÏÂ£¬Õ¹Íû×Å¸üÎ°´ó¡¢¸ü²ÓÀÃµÄÎ´À´¡­¡­;;;;;;;;;;X
+CHRONICLE_AVOID_IMPRISON_WAR; [Root.GetTitledNameWithNick] ÃãÇ¿ÌÓÍÑÁË [From.GetTitledNameWithNick] µÄ¼à½û²¢Ê÷ÆðÁË [Root.GetHerHis] ÅÑÆì.;;;;;;;;;;X
+CHRONICLE_FAILED_IMPRISON_WAR; [Root.GetTitledNameWithNick] ÊÔÍ¼¼à½û [From.GetTitledNameWithNick] µ«ÊÇÊ§°ÜÁË, Õâµ¼ÖÂ [From.GetHerHim] ÌÓ»ØÁìµØ½Ò¸Í¶øÆð.;;;;;;;;;;X
+CHRONICLE_INHERIT_MAJOR_TITLE; [Root.GetDynName] ¼Ì³ÐÁË [From.GetName] ×Ô [FromFrom.GetDynName].;;;;;;;;;;X
+RETTYPE_SKIR2;Çá×°É¢±ø;;;;;;;;;;X

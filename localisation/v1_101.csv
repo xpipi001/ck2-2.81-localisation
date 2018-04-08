@@ -1,0 +1,48 @@
+NAME_W_NICK;$TITLE$ $NAME$ '$NICK$';;;;;;;;;;X
+VASSAL_RETRACTION_LOG;$TOP_LIEGE$ÒÑ´Ó$OLD_LIEGE$µÄ¹ÜÏ½ÏÂÊÕ»Ø$VASSAL$µÄ·â³¼µØÎ»;;;;;;;;;;X
+opinion_retracted_my_vassal;ÊÕ»ØÎÒµÄ·â³¼;;;;;;;;;;X
+opinion_retracted_my_de_jure_vassal;ÊÕ»ØÎÒµÄ·¨Àí·â³¼;;;;;;;;;;X
+opinion_retracted_a_vassal;ÊÕ»ØÒ»Ãû·â³¼;;;;;;;;;;X
+opinion_retracted_a_de_jure_vassal;ÊÕ»ØÒ»Ãû·¨Àí·â³¼;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_TITLE;ÊÕ»Ø·â³¼;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_DESC;´Ó§Y[Recipient.GetBestName]§!ÄÇÀïÊÕ»ØÒ»Ãû·â³¼¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_LONG_DESC;Äã¿ÉÒÔÊÕ»ØÄãÒ»¸öÖ±Êô·â³¼µÄ·â³¼¡£ËûÃÇ»á¶Ô´Ë¸Ðµ½²»ÔÃ£¬ÌØ±ðÊÇµ±±»ÊÕ»Ø·â³¼ÊÇËûÃÇµÄ·¨Àí·â³¼µÄÊ±ºò¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_0;Ñ¡ÔñÒ»Ãû·â³¼£¬´Ó§Y[Recipient.GetTitledFirstName]§W´¦ÊÕ»Ø¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_1;ÈÃ§Y[ThirdPartyCharacter.GetBestName]§W³ÉÎªÄãµÄÖ±Êô·â³¼¡£§Y[Recipient.GetTitledFirstName]§W¶ÔÄãµÄºÃ¸Ð»á½µµÍ§R$OPINION$§W¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2;¶à¿÷ÓÐ§Y$CROWN_TITLE$§!µÄÍõÈ¨È¨Íþ£¬ÎÒÃÇµÄ·â³¼²»»á·´¶Ô¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2B;ÒòÎª§Y[Recipient.GetTitledFirstName]§!ÅÑ¹ú£¬ËùÒÔÎÒÃÇµÄ·â³¼²»»á·´¶Ô¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2C;ÒòÎª§Y[Recipient.GetTitledFirstName]§!ÊÇ¸öÒì½ÌÍ½£¬Ö»ÓÐÐÅÑö§Y[Recipient.Religion.GetName]§!µÄ·â³¼»á·´¶Ô£¨§R$OPINION$§!£©¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2D;ÕâÊÇ¶Ô·â½¨ÆõÔ¼µÄ±³Æú£¬²¢»áÁîÄãµÄÆäËû·â³¼ÄÕÅ­£¨§R$OPINION$§!£©¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2N;ÕâÊÇ¶Ô·â½¨ÆõÔ¼µÄ±³Æú£¬²¢»áÁîÄãµÄÆäËû·ÇÓÎÄÁ·â³¼ÄÕÅ­£¨§R$OPINION$§!£©¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_2E;ÎÒÃÇµÄµÛ¹úÐÐÕþ·¨¿ÉÈÃÎÒÃÇ²»ÒýÆð¹ó×å½×²ãµÄ·´¶Ô¶øÊÕ»Ø·â³¼¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_ACCEPT_SETUP;·â³¼ÒÑÊÕ»Ø;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§WÒÑ½«§Y[ThirdPartyCharacter.GetBestName]§WµÄ·â³¼µØÎ»´Ó§Y[Recipient.GetBestName]§W´¦×ªÒÆ×ß;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_LETTER;ÎÒÃÇÒÑ¾­¾ö¶¨ÊÕ»Ø[ThirdPartyCharacter.GetBestName]µÄ·â³¼µØÎ»¡£;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_DECLINE_SETUP;ÊÕ»Ø·â³¼Ôâ¾Ü;;;;;;;;;;X
+RETRACT_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W¾Ü¾øÖ´ÐÐ§Y[Actor.GetBestName]§WÒªÇóµÄ§Y[ThirdPartyCharacter.GetBestName]§WµÄ·â³¼ÊÕ»Ø;;;;;;;;;;X
+EVTDESC274;ÎÒµÄÁìÖ÷£¬ÎÒ½ÓÊÜÄãµÄ¾ö¶¨£¬½»³öÎÒµÄ·â³¼£¬[Root.GetBestName]£¬¾¡¹ÜÕâÈÃÎÒ±¯Í´Íò·Ö¡£;;;;;;;;;;X
+EVTDESC275;Äã¶ÔÓÚ·â½¨ÆõÔ¼µÄ±³Æú¹íÉñ²»ÈÝ£¡ÎÒ²»Ï§Ò»Õ½Ò²Òªº´ÎÀÎÒµÄ·â³¼£¡;;;;;;;;;;X
+CANNOT_DESTROY_GAVELKIND_TITLE;¸ù¾ÝÄÐ×Ó¾ù·Ö¼Ì³ÐÖÆ£¬Äú²»ÄÜÏú»ÙÍ·ÏÎ;;;;;;;;;;X
+INTERACTION_REQUIRES_PIETY;§Y[Actor.GetTitledFirstName]§! ¿ÉÒÔ³ÐÊÜÊ§È¥ §Y$COST$§W [Player.Religion.GetPietyName];;;;;;;;;;X
+INTERACTION_REQUIRES_MONEY;§Y[Actor.GetTitledFirstName]§! ¿ÉÒÔÖ§¸¶ §Y$COST$§W¤;;;;;;;;;;X
+INTERACTION_REQUIRES_PRESTIGE;§Y[Actor.GetTitledFirstName]§! ¿ÉÒÔ³ÐÊÜÊ§È¥ §Y$COST$§W µãÍþÍû;;;;;;;;;;X
+CelticUnitPackDLC;¿­¶ûÌØµ¥Ôª°ü;;;;;;;;;;X
+CelticPortraitsDLC;¿­¶ûÌØÈºÏñ;;;;;;;;;;X
+broken_spirit;ÒâÖ¾Ïû³Á;;;;;;;;;;X
+opinion_subjugated_other_rel;Õ÷·þÆäËû×Ú½Ì;;;;;;;;;;X
+d_meath_adj_irish;ËþÀ¼;;;;;;;;;;X
+d_ghanan_band;¼ÓÄÉ¾üÍÅ;;;;;;;;;;X
+d_ghanan_band_adj;¼ÓÄÉ;;;;;;;;;;X
+AIREASON_CONSORT_CLAIMANT;ÊÇÐû³ÆÕß;;;;;;;;;;X
+hellenic_pagan;Ï£À°¶àÉñ½Ì;;;;;;;;;;X
+hellenic_pagan_DESC;Ï£À°»¯µÄ¶àÉñ½ÌÐÅ·îÖì±ÓÌØ, Âí¶ûË¹, Ä«ÇðÀû, Î¬ÄÉË¹, ÃÜÄùÍßºÍÎ¬Ë¹ËþµÈÊ®¶þÖ÷Éñ. Ëü·¢Ô´ÓÚ¹ÅÏ£À°, ²¢°éËæÑÇÀúÉ½´ó´óµÛºÍÂÞÂíµÛ¹úµÄÕ÷·þ³ÉÎªÁËµØÖÐº£ÊÀ½çµÄÖ÷Òª×Ú½Ì, Ö±µ½»ù¶½½ÌáÈÆð.;;;;;;;;;;X
+GOD_JUPITER;Öì±ÓÌØ;;;;;;;;;;X
+GOD_MERCURY;Ä«ÇðÀû;;;;;;;;;;X
+GOD_MARS;Âí¶ûË¹;;;;;;;;;;X
+GOD_VENUS;Î¬ÄÉË¹;;;;;;;;;;X
+GOD_MINERVA;ÃÖÄù¶ûÍß;;;;;;;;;;X
+GOD_VESTA;Î¬Ë¹Ëþ;;;;;;;;;;X
+pagan_DESC;ÓÐÊ·ÒÔÀ´, Å·ÖÞºÍÖÐ¶«µ®ÉúÁËÊý²»ÇåµÄ²»ÊôÓÚÑÇ²®À­º±×Ú½ÌµÄÒì½ÌÐÅÑö;;;;;;;;;;X
+d_aztec_reformed;°¢×ÈÌØ¿ËÉñÃí;;;;;;;;;;X
+job_spiritual_hellenic_pagan;Õ¼²·Ê¦;;;;;;;;;;X
+job_spiritual_pagan;Õ¼²·Ê¦;;;;;;;;;;X

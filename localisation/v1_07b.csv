@@ -1,0 +1,96 @@
+FACTION_LEADER;еио╣аЛ╣╪хк;;;;;;;;;;X
+FACTION_MEMBER;еио╣Ёит╠;;;;;;;;;;X
+opinion_defeated_major_revolt;╥шкИжьр╙╥╢ея;;;;;;;;;;X
+opinion_spared_after_revolt;©Мк║еябр;;;;;;;;;;X
+opinion_divine_blood_marriage;я╙гвй╔╩И;;;;;;;;;;X
+opinion_non_divine_marriage;ыТДб╩ИрЖ;;;;;;;;;;X
+action_uncover_plots;цэд╠;;;;;;;;;;X
+miaphysite;╩Ы╤╫╨оптеи;;;;;;;;;;X
+monothelite;╩Ы╤╫р╩ж╬еи;;;;;;;;;;X
+d_miaphysite;╩Ы╤╫╨оптеи╫лвз;;;;;;;;;;X
+d_miaphysite_adj;©ффуль╫лвз;;;;;;;;;;X
+COPTIC_POPE;©ффуль╫лвз;;;;;;;;;;X
+INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;╡╩дэЯщ╤АдЦвз╫лаЛпДвН╨С╣диЯцМ╣ь╡З║ё;;;;;;;;;;X
+d_monophysite;╩Ы╤╫р╩птеи╫лвз;;;;;;;;;;X
+d_monophysite_adj;╩Ы╤╫р╩птеи╫лвз;;;;;;;;;;X
+MONOPHYSITE_POPE;╩Ы╤╫р╩птеи╫лвз;;;;;;;;;;X
+d_nestorian;╤╚╥╫╫л╩Адайв;;;;;;;;;;X
+d_nestorian_adj;╤╚╥╫╫л╩Адайв;;;;;;;;;;X
+PATRIARCH_IN_THE_EAST;╤╚╥╫╫л╩Адайв;;;;;;;;;;X
+d_monothelite;╩Ы╤╫р╩ж╬еидайв;;;;;;;;;;X
+d_monothelite_adj;╩Ы╤╫р╩ж╬еидайв;;;;;;;;;;X
+MONOTHELITE_PATRIARCH;╩Ы╤╫р╩ж╬еидайв;;;;;;;;;;X
+INTERACTION_TITLE_NOT_CONTESTED;ц╩спхн╨н╣ду╫уЫ╫Х©з;;;;;;;;;;X
+AND_TRIGGER_STARTS;ртоб╠ьпКйггпй╣©ипп╣д;;;;;;;;;;X
+WAR_INVALID_LOG;$WAR$нч╫А╧Ш╣ь╫АйЬак$REASON$;;;;;;;;;;X
+WAR_INVALID_CHARACTER_UNLANDED;\n($CHARACTER$ оВ╥╙);;;;;;;;;;X
+WAR_INVALID_LIEGE_HIERARCHY;\n(╬ЩЁ╪╧ьо╣╠Д╩╞ $CHARACTER$);;;;;;;;;;X
+REL_PENTARCHS_NON_ORTHODOX_DESC;уБп╘аЛпДйгвНЁУ╣д╩Ы╤╫╫лнЕ╢Сдайв║ёкШцгвт╧ертю╢╧╚хо╣двтппхнцЭжВ╫л╣дх╗юШхт╠╩ $RELIGION$ Ёпхо.;;;;;;;;;;X
+PENTARCH_DESC;д©г╟ц╩сп$RELIGION$╣д╖Y$TITLE$╖!жВ╫л;;;;;;;;;;X
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$д©г╟ц╩сп╖Y$TITLE$╖!м╥он;;;;;;;;;;X
+AUTOCEPHALY_DRO;ЁЩаквНЁУнЕ╢Сдайв║╙║╙нЕ╢СдайвгЬ║╙║╙фДкШ$RELIGION$мУ╧З╩Р╣ш╧Зр╡сп╦Ввт╣ддайв║ёуБяЫ╣дмУ╧З╩Р╣ш╧З╣д╧╛м╒дай╕р╡╠╩хон╙╣хм╛сздайв║ёкШцгвэйглЩ╢саЛжВ╣д╥т╦юё╛╣╚ж╩сп$REL_HEAD_TITLE$©иртйзсХхКгжюМси║ёц©╦Ж╤юа╒╣ддайвтзфД©ьжфаЛсРдз╤╪сп╬Ь╥ё╣дх╗юШ║ё;;;;;;;;;;X
+LEAVE_FACTION_DIPLO_IMMUNE;ж╩р╙вН╨См╗К╨ря╬╜╥╒ЁЖ╬м╡╩дэюК©╙!;;;;;;;;;;X
+IS_DIPLO_IMMUNE;╡╩йэ╣п╤таЛжВ╣дпп╤╞╣дс╟оЛ;;;;;;;;;;X
+IS_NOT_DIPLO_IMMUNE;йэ╣╫╣п╤таЛжВ╣дпп╤╞╣дс╟оЛ;;;;;;;;;;X
+INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;╖Y[Recipient.GetTitledFirstName]╖! д©г╟╡╩йэ╣п╤таЛжВ╣дпп╤╞╣дс╟оЛ;;;;;;;;;;X
+NO_FACTIONS_POSSIBLE_NOW;╖RтзуБ╤нй╠╪Дц╩спхн╨нг╠тзеио╣.╖!;;;;;;;;;;X
+INTERACTION_CANNOT_JOIN_ENEMIES;╡╩╪схКнрцг╣╠г╟╣пхк╣ду╫уЫ;;;;;;;;;;X
+AIREASON_IS_MY_REGENT;╖Y[GetTitledFirstName]╖!йгнр╣диЦуЧ;;;;;;;;;;X
+EVTDESC45000;нрцгуЩрЕ╣дйбр╣ря╬╜╣ц╣╫╦В╣ь╧Ц╥╨╣дж╖Ёж! [From.GetTitledFirstName] ╣╠пд...;;;;;;;;;;X
+EVTDESC45001;╢С╧иея╬Э╨м╩З╩АжВрЕуъм╤©©актз[From.Capital.GetName]╣д╡╩жр╣деядФ [From.GetTitledFirstName]!;;;;;;;;;;X
+EVTOPTA45001;╟якШцгх╚╡©дцх╔н╧м╨Пу!;;;;;;;;;;X
+EVTDESC45002;ЁжпЬ╫Ьпп╣ддзу╫й╧╣цюо╠Ь╨м╦Вжж╩З╩АжВрЕуъ╡╩╤ооР [Root.Capital.GetName] ╬ш╪╞!;;;;;;;;;;X
+EVTDESC45003;╢Са©╣дюо╠Ь╨м╦Вжж╩З╩АжВрЕуъ╡╩╤ом╤©©тз[From.Capital.GetName]╣д [From.GetTitledName] ё╛╡╒гртзнрцгвВу╫!;;;;;;;;;;X
+EVTOPTA45003;╫собю╢ е╝хк╨м╨╒вс;;;;;;;;;;X
+EVTDESC8037;н╟╢С╣д [Root.GetTitledFirstName]!нр╨мр╩╤яжрЁо╣дй©╠Ьря╬╜оРеядФ╥╒ЁЖаквН╨См╗К╨, [From.Liege.GetTitledName], гКгСдЦмЁжн [From.SupportedClaimantTitle.GetName].вёнрцг╨цтк!\n\nп╢╣ю,\n[From.GetTitledName];;;;;;;;;;X
+EVTOPTA8037;уБ©идэ╩А╨эдя©╢...;;;;;;;;;;X
+EVTDESC20369;нр╣даЛжВ, [FromFrom.GetTitledName] ╬Ж╤╗╡╩ц╟оу╢л╪╓кШ╣д╥БЁ╪ ╡╒грЁпхо╦╞╟э╣дж╦©ь. уБ©идэпХр╙╩╗╥яр╩╣Цй╠╪Дю╢хц [FromFrom.GetHerHis] ╩ж╦╢иЫмШ ё╛нр╨э╨ц╣дйу╪╞акоЮ╧ьпео╒.\n\nдЦг╚╠╟╣д╪Д╣Щвэ╧э,\n[From.GetTitledName];;;;;;;;;;X
+EVTTOOLTIP2484;уБ╦Ж╨╒вспХр╙р╩╦Ж╪Ю╩╓уъ.;;;;;;;;;;X
+EVTOPTD4140;нрцгх╥йг╟╡ю╜кЫуфну╣дё╛нрцг╫╚╠ь╧ИЛ╤кШ;;;;;;;;;;X
+blinded_death;й╖цВрЩфП╣д╡╒╥╒ж╒;;;;;;;;;;X
+successful_sally;╥юсЫ╡©╤с╣ц╣╫╖G10.0%╖!й©фЬ.\n ╥юсЫ╡©╤сйэ╣╫╖R2.5%╖!кПй╖.\n╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫╖R5.0%╖!кПй╖.;;;;;;;;;;X
+successful_sally_attacker;╫Ь╧╔╡©╤сйэ╣╫╖R5.0%╖!кПй╖.\n╖G╣пхк:╖! ╥юсЫ╡©╤с╣ц╣╫ ╖G10.0%╖!й©фЬ.\n╥юсЫ╡©╤сйэ╣╫╖R2.5%╖!кПй╖.;;;;;;;;;;X
+failed_sally;╥юсЫ╡©╤с╣ц╣╫╖R-10.0%╖!й©фЬ.\n╥юсЫ╡©╤сйэ╣╫╖R5.0%╖!кПй╖.\n╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫╖R2.5%╖!кПй╖.;;;;;;;;;;X
+siege_treachery;╥юсЫ╡©╤с╣ц╣╫╖R-10.0%╖!й©фЬ.;;;;;;;;;;X
+siege_disease;╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫ ╖R5.0%╖! кПй╖.;;;;;;;;;;X
+siege_raiders;╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫ ╖R1.0%╖! кПй╖.;;;;;;;;;;X
+siege_execute;╖G╣пхк:╖! ╥юсЫ╡©╤с╣ц╣╫ ╖G10.0%╖! й©фЬ.;;;;;;;;;;X
+siege_hunger;╖G╣пхк:╖! ╥юсЫ╡©╤сйэ╣╫ ╖R5.0%╖! кПй╖.;;;;;;;;;;X
+siege_trader;╖G╣пхк:╖! ╥юсЫ╡©╤с╣ц╣╫ ╖G10.0%╖! й©фЬ.;;;;;;;;;;X
+siege_miracle;╫Ь╧╔╡©╤сйэ╣╫ ╖R90.0%╖! кПй╖.\n╫Ь╧╔╡©╤с╣ц╣╫ ╖R-90.0%╖! й©фЬ.\n╖G╣пхк:╖! ╥юсЫ╡©╤с╣ц╣╫╖G100.0%╖! й©фЬ.;;;;;;;;;;X
+siege_personal_charge;╥юсЫ╡©╤с╣ц╣╫╖R-10.0%╖! й©фЬ.;;;;;;;;;;X
+siege_assault;╥юсЫ╡©╤с╣ц╣╫ ╖R-20.0%╖! й©фЬ.\n╥юсЫ╡©╤сйу╣╫ ╖R20.0%╖! кПй╖.\n╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫ ╖R10.0%╖! кПй╖.;;;;;;;;;;X
+siege_hide;╥юсЫ╡©╤с╣ц╣╫ ╖R-5.0%╖! й©фЬ.\n╥юсЫ╡©╤сйэ╣╫ ╖R5.0%╖! кПй╖.\n╖G╣пхк:╖! ╫Ь╧╔╡©╤сйэ╣╫╖R15.0%╖! кПй╖.;;;;;;;;;;X
+INTERACTION_REQUIRES_BOTH_OF_AGE;╖Y$ACTOR_PERSON$╖W╨м╖Y$RECIPIENT_PERSON$╖W ╤╪спжаиы ╖Y$YEARS$╖! кЙ;;;;;;;;;;X
+EVTOPTA62039;вЖ╣ц╨цё╛и╫тТё║;;;;;;;;;;X
+EVTNAME62011;фФ╪ё!;;;;;;;;;;X
+EVTNAME62041;тждя!;;;;;;;;;;X
+EVTOPTA62034;кШцг╩Ан╙╢к╦╤ЁЖ╢З╪ш╣д!;;;;;;;;;;X
+EVTOPTA62041;уБйгтУц╢╥╒иЗ╣д;;;;;;;;;;X
+EVTNAME62044;╣пхк╧╔╩В;;;;;;;;;;X
+EVTDESC62044;н╖╧╔нрцгр╙хШ╣д╩Ы╤╫╫лж╦╩с╧ыгввт╢Ь╤сЁЕоРакнрцг╣дЁгг╫! кШ╥Х©Я╣ьЁЕ╥Фхцнрцгсб╦р╣днюй©Ётакр╩╢С╬╙!;;;;;;;;;;X
+EVTOPTA62044;╥Хвс!;;;;;;;;;;X
+EVTDESC62045;╣пхк╤тнрцг╣др╙хШ╥╒╤╞ак╢С╧ФдёЁЕ╥Ф!нрцг╣д╤т╢к╨анчв╪╠╦!;;;;;;;;;;X
+EVTOPTA62045;в╪╠╦╥юсЫ!;;;;;;;;;;X
+CB_NAME_IMPERIAL;[Title.GetBaseName]╣д╣ш╧ЗтыуВ╥Ч;;;;;;;;;;X
+WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ $OTHER_TITLE$╣ш╧ЗтыуВ╥Ч;;;;;;;;;;X
+imperial_reconquest_desc;╠ьпК╤А╩ьбчбМ╣ш╧З╤╙й╖╣даЛма! ╖Y$CLAIMANT$╖!©иртсцуБ╦ЖпШу╫юМси╤А╩ькЫсп╖Y$TITLE$╖!╥╗юМ╥╤н╖дз╣д╠╩╖Y$TARGET$╖!Ёжсп╣дм╥он .;;;;;;;;;;X
+COUNTS_AS_PURPLE_BORN;ЁЖиМот╧С;;;;;;;;;;X
+AIREASON_IS_MY_PARENT;йгнр╣д╦╦д╦;;;;;;;;;;X
+FLANK_DOES_NOT_HAVE_LEADER;╡ЮрМц╩спж╦╩суъ;;;;;;;;;;X
+FLANK_HAS_LEADER;╡ЮрМспж╦╩суъ;;;;;;;;;;X
+CANNOT_BUY_RET_OCCUPIED;\nдЦнч╥╗╢╢╫╗уБ╦Жгвню╤сё╛дЦц╩сп©ьжфдЦ╣дхн╨нж╠о╫аЛ╣ь╡З║ё;;;;;;;;;;X
+duke_russian;╢С╧╚;;;;;;;;;;X
+duke_female_russian;е╝╢С╧╚;;;;;;;;;;X
+duchy_of_russian;╢С╧╚╧З;;;;;;;;;;X
+king_iranian;иЁ╟╒;;;;;;;;;;X
+kingdom_of_iranian;иЁ╟╒╧З;;;;;;;;;;X
+emperor_female_greek;╟мхЭюЖи╞;;;;;;;;;;X
+EVTTOOLTIP94066;дЦе╛а╕пчиидЦ╣д╩╗т╟.;;;;;;;;;;X
+MediterraneanPortraitsDLC;╣ьжп╨ёхкнОп╓оЯ;;;;;;;;;;X
+SongsOfByzantiumDLC;╟щу╪м╔ж╝кл;;;;;;;;;;X
+ByzantineUnitsDLC;╟щу╪м╔╣╔н╩╡╧╤║╟Э;;;;;;;;;;X
+CK2CoA2DLC;╪рвЕфЛжд╡╧╤║2;;;;;;;;;;X
+ALL_DIRECT_DE_JURE_VASSAL_TITLES;кЫспж╠йТ╥╗юМ╥БЁ╪м╥он;;;;;;;;;;X
+WAR_INVALID_CB_TRIGGER;\n(пШу╫юМси╡╩тыспп╖);;;;;;;;;;X
+AfricanPortraitsDLC;╥гжчхкм╥оЯ;;;;;;;;;;X

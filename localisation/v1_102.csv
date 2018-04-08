@@ -1,0 +1,37 @@
+enatic;Å®ÐÔ;;;;;;;;;;X
+enatic_desc;Ö»ÓÐÅ®ÐÔÄÜ¼Ì³ÐÍ·ÏÎ;;;;;;;;;;X
+enatic_cognatic;Å®ÐÔÓÅÏÈ;;;;;;;;;;X
+enatic_cognatic_desc;ÄÐÐÔ½öÔÚÃ»ÓÐºÏ·¨Å®ÐÔ¿ÉÒÔ¼Ì³ÐµÄÇé¿öÏÂ²Å»áµÃµ½¼Ì³ÐÈ¨.;;;;;;;;;;X
+enatic_succession;Å®ÐÔ;;;;;;;;;;X
+enatic_succession_desc;Ö»ÓÐÅ®ÐÔ¿ÉÒÔ¼Ì³Ð;;;;;;;;;;X
+enatic_cognatic_succession;Å®ÐÔÓÅÏÈ;;;;;;;;;;X
+enatic_cognatic_succession_desc;ÄÐÐÔ½öÔÚÃ»ÓÐºÏ·¨Å®ÐÔ¿ÉÒÔ¼Ì³ÐµÄÇé¿öÏÂ²Å»áµÃµ½¼Ì³ÐÈ¨.;;;;;;;;;;X
+TRIGGER_ROOT;ÏÔÐÔ¸ùÔªËØ;;;;;;;;;;X
+TRIGGER_PREV;ÏÔÐÔÒ»ÒÔÔªËØ;;;;;;;;;;X
+TRIGGER_FROMFROM;ÏÔÐÔÌõ¼þ Ê±¼ä µØÇø;;;;;;;;;;X
+HAS_NOT_CALLED_CRUSADE;»¹Ã»ÓÐÕýÔÚ½øÐÐµÄ$RELIGION$ $CRUSADE_NAME$;;;;;;;;;;X
+HAS_CALLED_CRUSADE;ÓÐÒ»³¡ÕýÔÚ½øÐÐµÄ$RELIGION$ $CRUSADE_NAME$;;;;;;;;;;X
+LIEGE_PRESTIGE_BUILDING;ÁìÖ÷ÍþÍûµã:§G+$VALUE$§!;;;;;;;;;;X
+TEMPLE_HOLDING_PIETY;ÁìµØÉÏµÄ§Y$NUM$§!Éñµî£º§G+$VALUE$§!;;;;;;;;;;X
+EVTDESC_TOG_3400;×î½ü£¬Á½¸öÉñÃØµÄÁÔÊÖ°Ý·ÃÎÒ£¬¸æËßÎÒÎÒÓ¦¸ÃÓë[From.GetFirstName]¡ª¡ªÎÒÄÇÃ²±ÈÎÞÑÎ£¬ÉíÈçÖ§ÀëÊèµÄÆÞ×Ó¡ª¡ªÍ¬´²¡£ËûÃÇ»¹¸æËßÎÒ£¬ÎÒµÄÆÞ×Ó»áÎªÎÒÉú¸ö¶ù×Ó£¬¶øÇÒ´Ë×Ó½«À´±ØÎªÐÛ²Å´óÂÔÖ®Ö÷¡£ÖÇÕßÃÇ¸æËßÎÒ£¬ÄÇÁ½Î»ÁÔÊÖÄÜÔ¤ÖªÎ´À´£¬¶øÇÒ¾«Í¨Ä§·¨£¬Òò´ËÎÒÓ¦¸ÃÁôÒâËûÃÇµÄ»°¡£;;;;;;;;;;X
+EVTOPTA_TOG_3400;ÎÒÓ¦¸ÃÓëËýÍ¬´²¡£;;;;;;;;;;X
+EVTOPTB_TOG_3400;ÎÒ¾Ü¾øÓëÎÒÄÇË®Å£°ã³óÂªµÄÆÞ×ÓÍ¬´²¡£;;;;;;;;;;X
+EVTOPTC_TOG_3400;ÄÇÁ½¸öÁÔÈËÖ»ÊÇÁ½¸öÉÆÓÚ¹Æ»óÓÞ·òÓÞ¸¾µÄ·è×Ó£¡;;;;;;;;;;X
+EVTDESC_TOG_3401;ÄãµÄ³¼Ãñ³É¹¦éêÉ±ÁËÄÇÖ»Îªº¦ÏçÀï£¬ÉËº¦ÈËÐóµÄÐÜ¡£ÏÖÔÚ³¼ÃñÃÇÓ¦¸ÃÎªÐÜÖ®»ê¾ÙÐÐÃûÎªÁÔÐÜ´ó»áµÄÇì×£ÒÇÊ½£¬ÒòÎªÐÜÔÚÎÒÃÇµÄÉú»îÖÐÓÐ×ÅÖØÒªµÄÏóÕ÷ÒâÒå¡£´í¹ýÕâ´ÎÒÇÊ½¾ÍÌ«²»Ã÷ÖÇÁË¡£;;;;;;;;;;X
+EVTOPTA_TOG_3401;µ±È»£¡ÈÃÎÒÃÇÆÚ´ýËüÄÜÓÐÒ»¸öºÃµÄÀ´ÊÀ£¬×ªÊÀ³ÉÈËÐóÎÞº¦µÄÉ­ÁÖ¶¯Îï°É£¡;;;;;;;;;;X
+EVTOPTB_TOG_3401;°¥Ñ½£¡Ì«¿ÉÏ§ÁË£¡ÎÒÎÞÏ¾Ä¿¶Ã´Ë´ÎÊ¢»á£¡;;;;;;;;;;X
+EVTOPTC_TOG_3401;ÐÜÆ¤ºÜÖµÇ®£¬ÎÒÃÇ»áÂôÁËËü£¡;;;;;;;;;;X
+EVTOPTD_TOG_3401;ÔÚÑç»áºó£¬ÎÒ»á°ÑÐÜµÄÍ·Â­´øµ½Ê¥ÁÖ¡£;;;;;;;;;;X
+EVTDESC_TOG_3402;Ò»ÈÕÎçºó£¬Äã³öÍâá÷ÁÔ£¬Ò»³¤ÐëÀÏÕß×ßÉÏÇ°À´¡£ËûÉí×Å¼òÒ×µÄÂÃÈË¶·Åñ£¬¿í±ßÃ±ÕÚ¸ÇÁËËûÒ»Ö»ÑÛ¾¦¡£ÏòÄãÎÊºòÖ®ºó£¬ËûÇ«¹§ÓÐÀñµØÒªÇóÒ»½Ç±­·äÃÛ¡£Ö®ºó£¬Ëû¸æËßÄã£¬ÔÚÄÇ±ßÒ»¸ö±»ËêÔÂÒÅÍüµÄ¿Ý¾®Àï£¬Âñ²Ø×ÅÂú¾®µÄ»Æ½ð¡£ËûÇáÐ¦×ÅÆ®È»¶øÈ¥¡£ÄãÈ´×Ü¸Ð¾õÓëËûËÆÔøÏàÊ¶¡£;;;;;;;;;;X
+EVTOPTA_TOG_3402;Äã¸æËßÄãµÄ³¼ÃñÃÇ£¬ÄÇÎ»Âþ²½ÀÏÈË²»ÊÇ±ðÈË£¬ÕýÊÇÖ÷Éñ°Â¶¡£¡;;;;;;;;;;X
+odin_option_a;ÄãÑï±ÞÔ¾Âí£¬È¥Ì½Ñ°ÉñÖ®±¦²Ø¡£ÓÉÓÚÄãÂíÆïµØÌ«¿ì£¬ÄãËæÐÐµÄá÷ÁÔÕß¶¼ÎÞ·¨¸ÏÉÏÄã£¬ÔÚºóÃæ½ô×·²»Éá¡£;;;;;;;;;;X
+EVTOPTB_TOG_3402;ÄãµÄ³¼Ãñ¼áÐÅÄÇÎ»Âþ²½ÀÏÈËÎªÖÚÉñÖ®¸¸£¬ÄãÈ´ÖÃÈôØèÎÅ¡£;;;;;;;;;;X
+odin_option_b;Äã¼ÌÐøá÷ÁÔ¡£;;;;;;;;;;X
+EVTOPTC_TOG_3402;Äã³âÔðÄãµÄ³¼ÃñÃÇ£¬ÒòÎªËûÃÇ¾¹È»»áÏàÐÅÖîÉñµÄ´«Ëµ¡£;;;;;;;;;;X
+odin_option_c;µ½Í·À´£¬ËûÃÇÎªÄã×öÁËÊ²Ã´ÄØ£¿;;;;;;;;;;X
+MONTHLY_PRESTIGE_TO_LIEGE;ÁìÖ÷Ã¿ÔÂÍþÍû±ä»¯: §G+$VALUE$§!\n;;;;;;;;;;X
+MONTHLY_PIETY_TO_LIEGE;ÁìÖ÷ÔÂ¶È $PIETYNAME$ ò¯³Ï: §G+$VALUE$§!\n;;;;;;;;;;X
+NO_LIEGEPRESTIGE;´Ë·â³¼²»»á¸øÄã´øÀ´ÈÎºÎÍþÍû¡£\nÓÐÐ©½¨ÖþÄÜ¸ø½¨ÖþÓµÓÐÕßºÍÓµÓÐÕßµÄÁìÖ÷´øÀ´ÍþÍû;;;;;;;;;;X
+NO_LIEGEPIETY;´Ë·â³¼²»»á¸øÄã´øÀ´ÈÎºÎ$PIETYNAME$¡£\nÓÐÐ©½¨ÖþÄÜ¸ø½¨ÖþÓµÓÐÕßºÍÓµÓÐÕßµÄÁìÖ÷´øÀ´ $PIETYNAME$¡£;;;;;;;;;;X
+LIEGE_PRESTIGE_SELF;Ö±Êô½¨Öþ´øÀ´µÄÍþÍûµã£º§G+$VALUE$§!;;;;;;;;;;X
+EVTOPTA62910_CUSTOM;§RËùÓÐ¿¦¶û°ÍÚäÉ½Âö¶«²¿µÄ²®¾ô¶¼¶ªÊ§ÁË¡£§!\nËùÓÐÔÚ·¨ÀíÉÏÊôÓÚÐÙÑÀÀûµÄ²®¾ô¶¼±ä³ÉÐÙÑÀÀûÎÄ»¯ÁË¡£\n;;;;;;;;;;X

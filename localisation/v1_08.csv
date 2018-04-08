@@ -1,0 +1,20 @@
+IS_NOT_ADULT;²»ÊÇ³ÉÄêÈË;;;;;;;;;;X
+IS_ADULT;ÊÇ³ÉÄêÈË;;;;;;;;;;X
+IS_NOT_MARRIAGE_ADULT;Ã»ÓÐµ½½á»éÄêÁä;;;;;;;;;;X
+IS_MARRIAGE_ADULT;ÒÑ¾­µ½ÁË½á»éÄêÁä;;;;;;;;;;X
+DISEASE_ACTIVATED;$DISEASE$ ¿ÉÄÜ»á±¬·¢ÎÁÒß¼²²¡;;;;;;;;;;X
+AIREASON_IS_PRISONER_OF_CHAR;ÊÇ§Y[GetTitledFirstName]§!µÄ·ýÂ²§!;;;;;;;;;;X
+SunsetInvasionDLC;ÈÕÂäÈëÇÖ;;;;;;;;;;X
+NOT_COASTAL;Õâ¸öÊ¡·Ý²»ÑØº£;;;;;;;;;;X
+NOT_FORBIDDEN_LEAD;ÕâÎ»ÊàÃÜ´ó³¼ÏÖÔÚÔÊÐí´øÁì¾ü¶Ó.\n§Gµã»÷ÕÙ»ØÊàÃÜ´ó³¼²¢½ûÖ¹ÆäÁì¾ü§!;;;;;;;;;;X
+FORBIDDEN_LEAD;ÕâÎ»ÊàÃÜ´ó³¼ÏÖÔÚ±»½ûÖ¹´øÁì¾ü¶Ó.\n§Gµã»÷ÔÊÐíÆäÁì¾ü§!;;;;;;;;;;X
+DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0;§Y[Recipient.GetFirstName] ½«´Ó¼àÓü±»ÊÍ·Å.£¬Èç¹û[Recipient.GetSubjectPronoun] Í¬Òâ§!;;;;;;;;;;X
+opinion_fought_for_claimant;ÎªÐû³ÆÈ¨¶øÕ½;;;;;;;;;;X
+EVTOPTD9001;ÀñÃ²µÄÑ¯ÎÊ.;;;;;;;;;;X
+EVTDESC9003;Ç×°®µÄ [Root.GetTitle],\n\nÎÒÒÑ¾­ÖªµÀÔÚÎÒµÄÁìµØÄÚÓÐÄ³Ð©ÅÉÏµÕýÔÚÆÆ»µÎÒµÄÍ³ÖÎ. Èç¹ûÄã²ÎÓëÁË»òÕß´òËãÕâÃ´×ö, ÎÒÏàÐÅÄãÏÖÔÚ»á´òÏûÕâ¸öÄîÍ·.\n\nÊðÃû,\n[From.GetTitledName];;;;;;;;;;X
+EVTOPTA9003;×îºÃ²»ÒªÃ°Õâ¸öÏÕ...;;;;;;;;;;X
+EVTOPTB9003;¹þ! Õâ·âÐÅÊÇÒ»¸ö¾øÍûµÄ±íÏÖ.;;;;;;;;;;X
+EVTTOOLTIP9023;ÄãËÍ³öÁËÒ»·âÀñÃ²µÄÇëÇóÊé.;;;;;;;;;;X
+EVTDESC9027;×ð¾´µÄ [Root.GetTitle],\n\nÄãºÃ! ÎÒ²»Ï²»¶Õâ¸ö, µ«ÊÇÎªÁË¹ú¼ÒµÄÐËÊ¢, ÎÒ½«»áÖ§³ÖÄãËùÓÐµÄÅÉÏµ. ²»ÒªÈÃÎÒºó»Ú×Ô¼ºµÄ¾ö¶¨.\n\nÊðÃû,\n[From.GetTitledName];;;;;;;;;;X
+DATA_COLLECTION_AGREEMENT;ÄãÔ¸ÒâÍ¨¹ýÊÕ¼¯ÓÐ¹ØÓÎÏ·Ï°¹ßºÍ¿ÉÏÂÔØÄÚÈÝ¼°MODµÄÊÜ»¶Ó­³Ì¶ÈµÄ×ÊÁÏÀ´°ïÖúÎÒÃÇÍêÉÆÍõ¹ú·çÔÆ2Ã´Èç¹ûÄãÍ¬Òâ£¬Äã¶ÔÍõ¹ú·çÔÆ2µÄ²Ù×÷ÐÐÎª½«»áÔÚÄãÓÎÏ·Ê±ÒÔ²»¼ÇÃûµÄÐÎÊ½·¢¸øPÉç.PÉç²»»á£¬Ò²²»ÄÜÍ¨¹ýÕâÐ©²ÄÁÏÀ´»ñÈ¡Ê¹ÓÃÕßµÄË½ÈËÐÅÏ¢.;;;;;;;;;;X
+DATA_COLLECTION_TITLE;°ïÖúÎÒÃÇ¸Ä½øÍõ¹ú·çÔÆII£¿;;;;;;;;;;X

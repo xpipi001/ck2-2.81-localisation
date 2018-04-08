@@ -1,0 +1,20 @@
+EVTDESC61152;½è¿Ú¾«ÉñÊ§³£°ÑÄã¹ØÑºÆðÀ´µÄÇ°ÉãÕþÕßÒÑ¾­Ê§È¥ÁË¹¬Í¢ÖÐµÄÓ°ÏìÁ¦.ÐÂÉãÕþÕßÊÍ·ÅÁËÄã¡£;;;;;;;;;;X
+EVTOPTA61152;Ì«ÍíÁË¡£;;;;;;;;;;X
+EVTOPTB61152;È«ÊÀ½ç¶¼¿´ºÃÁË£¡ÎÒÀ´ÁË£¡;;;;;;;;;;X
+EVTDESC61219;Äã³É¹¦´ì°ÜÁË¶ÔÊÖ¶áÈ¡ÉãÕþµØÎ»µÄÆóÍ¼£¬¿ÉÒÔ¼ÌÐøÊÌ·î[Root.Liege.GetTitledFirstName]ÁË¡£;;;;;;;;;;X
+EVTDESC61245;[From.GetSheHe]ÕæÊÇ¸öÅ³·ò£¡[From.GetTitledFirstName]¾Ü¾ø½ÓÊÜÄãµÄÌôÕ½£¡;;;;;;;;;;X
+EVTOPTA61245;Å³·ò£¡µ¨Ð¡¹í£¡;;;;;;;;;;X
+EVTDESC61246;ÎªÁË±£×¡[From.GetHerHis]Æ¤·ô£¬[From.GetTitledFirstName]¾ö¶¨½«ÉãÕþµØÎ»ÈÃ¸øÄã¡£;;;;;;;;;;X
+EVTOPTA61246;ÕâºÜÈÝÒ×¡£;;;;;;;;;;X
+EVTDESC61226;¶ÔÊÖµÄÏÊÑªÔÚµØÃæÁ÷ÌÊ£¬ÄãÔòÒÐ¿¿ÔÚ½£ÉÏ´­Æø.ÕâÊÇ³¡¶ÌÔÝ¶ø¼¤ÁÒµÄÕ½¶·£¬²»¹ýÄÇ¼Ò»ïÏÖÔÚÕýÅ¿ÔÚÄãµÄ½Å±ß£¬¿ÉÁ¯µØÕõÔú×Å.Ê¤ÀûÊôÓÚÄã£¡;;;;;;;;;;X
+EVTDESC61225;¶ÔÊÖµÄÏÊÑªÔÚµØÃæÁ÷ÌÊ£¬ÄãÔòÒÐ¿¿ÔÚ½£ÉÏ´­Æø.ÕâÊÇ³¡¶ÌÔÝ¶ø¼¤ÁÒµÄÕ½¶·£¬²»¹ýÄÇ¼Ò»ï×îÖÕ»¹ÊÇÔÚÄãµÄ½Å±ßËÀÈ¥ÁË¡£;;;;;;;;;;X
+EVTDESC61212;[Root.Regent.GetFirstName] ÓÃ[Root.Regent.GetHerHis]Ø°Ê×ºÝºÝµØ´Ì¹ýÀ´, Ç§¾ûÒ»·¢Ö®¼Ê, ÄãÏÕÐ©Ã»ÓÐ¶ã¿ª. ÎÀ±øÑ¸ËÙ³å½øÀ´, ÖÆ·þÁËÄãµÄÉãÕþÕß.  [Root.Regent.GetSheHe] ¼âÉù½Ð×Å, 'ÄãÔõÃ´»¹²»ËÀ§!!';;;;;;;;;;X
+EVTTOOLTIP61213;±»¹ØÈëºÚÀÎ.;;;;;;;;;;X
+YEARLY_INCOME_LESS_THAN;ÄêÊÕÈëÐ¡ÓÚ ;;;;;;;;;;X
+YEARLY_INCOME_GREATER_THAN;ÄêÊÕÈë¶àÓÚ ;;;;;;;;;;X
+DE_JURE_LIEGE_CHANGED_NONE_SETUP;·Ö·âÍ·ÏÎ¸Ä±ä·¨ÀíÁìÖ÷;;;;;;;;;;X
+DE_JURE_LIEGE_CHANGED_NONE_LOG;¾­¹ý§Y$NEW_LIEGE$§!§Y$YEARS$§!ÄêµÄÍ³ÖÎ£¬ §Y$TITLE$§!ÏÖÔÚÒÑ³ÉÎªÆä·¨ÀíÁìÍÁ.;;;;;;;;;;X
+TITLE_CANNOT_USURP_REL_HEADS;²»ÄÜ´Û¶á×Ú½ÌÁìÐäÍ·ÏÎ;;;;;;;;;;X
+INTERACTION_REQUIRES_NOT_IN_REVOLT;§Y[Actor.GetTitledFirstName]§! ²»ÔÚÅÑÂÒ;;;;;;;;;;X
+INTERACTION_REQUIRES_TP_IS_NOT_LIEGE;§Y[Actor.GetTitledFirstName]§! ²»ÊÇ §Y[ThirdPartyCharacter.GetTitledFirstName]§! µÄ·â³¼;;;;;;;;;;X
+BROKEN_SAVEGAME;§R´æµµËð»µ§!;;;;;;;;;;X

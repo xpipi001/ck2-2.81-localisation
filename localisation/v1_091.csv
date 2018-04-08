@@ -1,0 +1,6 @@
+TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY;ฮÞทจถแศกษฬาตนฒบอน๚ตฤึ๗าชอทฯฮ;;;;;;;;;;X
+DECLARE_WAR_INTERACTION_6;งRศ็น๛ฮารวฯึิฺถภมขฃฌฮารวฝซณษฮชาปธ๖ธüศ๕ะกตฤนฒบอน๚ฃฌำฮฯทฝซปแฝแส๘!ง!;;;;;;;;;;X
+INTERACTION_HOLY_ORDERS_CANNOT_MARRY;ฦ๏สฟอลบอนอำถฑ๘ตฤม์ตผี฿ฒปฤÜฝแป้;;;;;;;;;;X
+INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST;งY[Actor.GetTitledFirstName]ง! ฒปฤÜณษฮชตะศหตฤว๔ทธ;;;;;;;;;;X
+CONTESTED_TRADEPOST_DESC;$PERC$: งY$PERSON$ง! ฟุึฦห๙ำะิฺงY$TITLE$ง!รณาืพÝตใ;;;;;;;;;;X
+AIREASON_IS_VASSAL_MERCHANT_REP;งY[GetTitledName]ง!สวฮาตฤทโณผ;;;;;;;;;;X

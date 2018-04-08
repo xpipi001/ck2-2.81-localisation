@@ -1,0 +1,47 @@
+EVTDESC60010;н╟╢С╣д[Root.GetTitledName]╨м[Root.GetHerHis]╥БЁ╪цгП╖рюаклЛжВ╫лё║;;;;;;;;;;X
+EVTDESC60011;н╟╢С╣д[Root.GetTitledName]╨м[Root.GetHerHis]╥БЁ╪цгП╖рюак╤╚уЩ╫лё║;;;;;;;;;;X
+EVTDESC60012;н╟╢С╣д[Root.GetTitledName]╨м[Root.GetHerHis]╥БЁ╪цгП╖рюакя╥дАеиё║;;;;;;;;;;X
+EVTDESC60013;н╟╢С╣д[Root.GetTitledName]╨м[Root.GetHerHis]╥БЁ╪цгП╖рюакй╡р╤еиё║;;;;;;;;;;X
+MONTHLY_PROJECTED_COST;т╓╪фц©тб╩╗╥я: ╖Y$COST$╖!;;;;;;;;;;X
+YEARLY_PROJECTED_COST;т╓╪фц©дЙЁи╠╬: ╖Y$COST$╖!;;;;;;;;;;X
+PER_MONTH;╖Y$VAL$╖! / ц©тб;;;;;;;;;;X
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;нрйг╧ЗмУ!;;;;;;;;;;X
+ACCEPT;╫сйэ;;;;;;;;;;X
+DECLINE;╬э╬Ь;;;;;;;;;;X
+HAS_LESS_RAISED_TROOP_DAYS;╬Э╤с╤╞т╠иысз ╖Y$DAYS$╖! лЛ\n;;;;;;;;;;X
+HAS_MORE_RAISED_TROOP_DAYS;╬Э╤с╤╞т╠жаиы ╖Y$DAYS$╖! лЛ\n;;;;;;;;;;X
+SET_RAISED_TROOP_OPINION;╖Y$ACTIVE$╣д╖! ясЁ╓ак╥БЁ╪╨ц╦пфзочоЮ╠хсз ╖Y$PASSIVE$╖! иХн╙ ╖Y$MUCH$╖!.\n;;;;;;;;;;X
+CONTESTED_TITLE;уЫ╤А╣дм╥он: $TITLE$;;;;;;;;;;X
+THREAT_REASON_HATRED;╣м╨ц╦п;;;;;;;;;;X
+THREAT_REASON_LOVE;╦ъ╨ц╦п;;;;;;;;;;X
+THREAT_REASON_CB;пШу╫юМси;;;;;;;;;;X
+THREAT_REASON_PRETENDER;ЙИЙЛуъ;;;;;;;;;;X
+THREAT_REASON_CLAIMANT;пШЁфх╗;;;;;;;;;;X
+THREAT_REASON_DISTANCE;╬ЮюК;;;;;;;;;;X
+THREAT_LIEGE_CULTURE;м╛нд╩╞;;;;;;;;;;X
+THREAT_LIEGE_RELIGION;м╛вз╫л;;;;;;;;;;X
+THREAT_LIEGE_DEJURELIEGE;╥╗юМаЛжВ;;;;;;;;;;X
+INGAME_STORE;сно╥дзил╣Й;;;;;;;;;;X
+tut_3c_6;╤Ю╡Ц╢н╥╗би;;;;;;;;;;X
+tut_3c_7;╣╠дЦ╢Р©╙╥╗би╢╟©зё╛дЦ©ирт©╢╪Ш╡╪апкЧдА╧╚╬Т╣д╥╗би.сисз╡╪апкЧдАйг╥╗╧З╥╗юМио╣др╩╡©╥жё╛╥╗╧З╣дмУх╗╥╗р╡╩Ас╟оЛ╣╫дЦ.╣Ц╩Вио╥╫ср╡Ю╣д╤э╩у╡И©╢оЙо╦гИ©Ж.;;;;;;;;;;X
+tut_3c_8;╤Ю╡Ц╢н╥╗биII;;;;;;;;;;X
+tut_3c_9;уБюОотй╬ак╥╗╧Зс╟оЛ╣╫╡╪апкЧдА╣д╥╗би.тз╤╔╡©©ирт©╢╣╫╥╗╧Зй╧сц╣д╪лЁп╥╗ё╛╣в╡©жпяКтРйгмУх╗╥╗.╣Ц╩В╪лпЬрт╫АйЬуБр╩╡©╥ж.;;;;;;;;;;X
+REINFORCE_TOOLTIP;об╦Жтб╫╚упд╪ $NUM$ цШй©╠Ь.;;;;;;;;;;X
+TECH_GROWTH_PROG_SETUP;ж╠о╫аЛ╣ь╥╒у╧гИ©Ж;;;;;;;;;;X
+TECH_GROWTH_PROG_LOG; $TECH$ тз $PROV$ ╣д╥╒у╧к╝ф╫тЖ╪с╣╫ ╖Y$PROG$╖!;;;;;;;;;;X
+TECH_GROWTH_REALM_SETUP;╧З╪р╥╒у╧к╝ф╫;;;;;;;;;;X
+TECH_GROWTH_REALM_LOG; $TECH$ тз $PROV$ ╣д╥╒у╧к╝ф╫тЖ╪с╣╫ ╖Y$LEVEL$╖!;;;;;;;;;;X
+TECH_GROWTH_PROG_REALM_SETUP;╧З╪р╥╒у╧гИ©Ж;;;;;;;;;;X
+TECH_GROWTH_PROG_REALM_LOG; $TECH$ тз $PROV$ ╣д╥╒у╧гИ©ЖтЖ╪с╣╫ ╖Y$PROG$╖!;;;;;;;;;;X
+LOADING_TIP_0;ж╠о╫аЛ╣ьйгж╦╦Жхкс╣сп╣дЁг╠╓ё╛Ёгйп╨мпч╣ют╨.;;;;;;;;;;X
+LOADING_TIP_49;впо╦╪Л╡ИдЦеДе╪╣дльжй;;;;;;;;;;X
+EVTDESC3340;╣╠р╩н╩сяиф╣дм╒Ё╪оРнр╠Мй╬╬╢рБй╠нр╡Н╣Цр╖╣╫аквт╪╨╣диЮм╥.кШхон╙нр╦п╣╫╡╩тцё╛х╩╨Сю╖╩С╣дюК©╙ак.;;;;;;;;;;X
+EVTOPTA3340;нр╡бнр©идэй╖х╔аккШ╣двП╬╢║╜║╜;;;;;;;;;;X
+alert_dejure_claim_instant;╖YдЦ©ирт╤Ах║╥╗юМ╧╚╬Т╣даЛ╣ь╖!;;;;;;;;;;X
+alert_dejure_claim_delayed;дЦ©ирт╤Ах║ртоб╥╗юМ╧╚╬ТаЛ╣ь: $LIST$;;;;;;;;;;X
+PRESSABLE_CLAIM;$CLAIMANT$ ╤т$COUNTY$╣д╨оюМпШЁф, ;;;;;;;;;;X
+OPT_draw_trees;Джх╬йВд╬;;;;;;;;;;X
+OPT_draw_rivers;Джх╬╨саВ;;;;;;;;;;X
+OPT_draw_citysprawl;Джх╬Ёгйпю╘уе;;;;;;;;;;X
+tut_4c_11;╩ИрЖп╖╧Ш;;;;;;;;;;X
+OPT_legacy_shaders;╬иотй╬дёй╫;;;;;;;;;;X

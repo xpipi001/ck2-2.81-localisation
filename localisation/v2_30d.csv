@@ -1,0 +1,38 @@
+MODIFIER_COMBAT_RATING;╦Жхкй╣у╫╪╪дэ;;;;;;;;;;X
+GOD_THE_CREATOR;тЛнОжВ;;;;;;;;;;X
+GOD_BRAHMA;ХСлЛ;;;;;;;;;;X
+GOD_SATURN;хЬ╤Шм╪е╛к╧;;;;;;;;;;X
+scholar_desc;уБцШ╫ги╚йглЛиЗ╣дя╖уъ,ртфзЁ╛╨У╥╡хк╣джг╩шгН╠оиЗж╝╬╚а╕х╔вЙяпйИ╠╬╣╠жп╣дж╙й╤.;;;;;;;;;;X
+EVTOPTA_WOL_2100_3;ы╙хЕ,п╛вс... ╡╩! [target_spy_on.GetFirstName] ╬╧х╩тзцHяР!;;;;;;;;;;X
+EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap] тзй╝р╩кЙ╣дп║п║дЙ╪м╬ми╠акр╩╦ЖмФ╟И!;;;;;;;;;;X
+EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap] ╦Ьвт╪╨╩цоКакр╩╦Ж╫п╟м╡╝╣деСся!;;;;;;;;;;X
+EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap] р╩сп╩З╩А╬м╩Ах╔м╣м╣╣ьеэ╣╫ [target_spy_on.Capital.Capital.GetName]╣д╪кт╨юОх╔вЖ╪╕!;;;;;;;;;;X
+EVTOPTB_WOL_2300;╡╩, нроЮпе [intrigue_spymaster.GetObjectPronoun];;;;;;;;;;X
+EVTOPTB_WOL_2071;╨г╨г!╪хх╩уБяЫнр╣д╪Д╣Щ╬м©иртмЙЁихннЯ╩ью╢ак.;;;;;;;;;;X
+EVTOPTF_WOL_2080;нрж╙╣юак,╡╩╧Щнр╬У╣ц©иртхц╪Д╣Щх╔╪лпЬ╢Рл╫п╘фДкШ╣доШо╒.;;;;;;;;;;X
+EVTOPTC_WOL_2100;╡╩...нр╬У╣цнрцгс╕╦цх╔╢Рл╫фДкШхк╣др╩п╘оШо╒.;;;;;;;;;;X
+EVTDESC_WOL_2065;╨э╡╩пр,нрц╩дэтз[FromFromFrom.GetTitledFirstName]иМио╦Ц╣╫й╡ц╢спсц╣доШо╒.р╡пМнр╦ц╧ьв╒обфДкШ╣ь╥╫?;;;;;;;;;;X
+EVTOPTA_WOL_2065;йг╣д,уБц╩спрБрЕ.;;;;;;;;;;X
+EVTOPTB_WOL_2065;╡╩,нр©о╤╗ [FromFromFrom.GetSubjectPronoun]с╕╤тй╡ц╢йбгИ╦╨тП...;;;;;;;;;;X
+EVTDESC38313;иЗ╩Н╣дя╧а╕рях╩╫╔╫╔мйх╔,нрожтз╡╩ты╫Туе╡╩╟╡!;;;;;;;;;;X
+EVTDESC38314;╫ЯлЛнрртн╒п╕ю╢с╜╫спбр╩лЛ╣д╣╫ю╢,нр╡╩ты╬зи╔оШЁа!;;;;;;;;;;X
+PICK_FOCUS_DESC;тз╖Y$YEARS$╖!дЙй╠╪ДдздЦ╡╩дэты╢н╠Д╦Эжьпдё║;;;;;;;;;;X
+CANNOT_CANCEL;╖Rнч╥╗╠╩х║оШ║ё╖!;;;;;;;;;;X
+CANNOT_CANCEL_UNTIL;╖Rнч╥╗тз╖Y$DATE$╖!╖Rг╟х║оШ║ё╖!;;;;;;;;;;X
+FV_CHOOSE_FOCUS;я║тЯжьпд;;;;;;;;;;X
+CANNOT_CHANGE_FOCUS_UNTIL;╖Rнч╥╗тз╖Y$DATE$╖!╖Rг╟╦д╠Джьпд║ё╖!;;;;;;;;;;X
+EVTDESC_WOL_3052;нр╣д[GetFromFromRelation], [FromFrom.GetTitledFirstNameNoRegnal],р╙гСнр╤Ю╩╗р╩п╘й╠╪Д[FromFrom.Capital.Capital.GetName]м╛╪рхктзр╩фП.нр©о╤╗уБц╢вЖ╩АтЖ╫Ьм╛[From.GetTitledName]ж╝╪Д╣дсярЙ...;;;;;;;;;;X
+opinion_dishonest_duel;╡╩Ёопе╣д╬Ж╤╥;;;;;;;;;;X
+magnificent_maze;вЁцю╣дцт╧╛;;;;;;;;;;X
+desc_magnificent_maze;уБ╦Ж╫ги╚╣дцююЖ╣д╩╗т╟цт╧╛тз╧Здзт╤╫ЭнецШ.;;;;;;;;;;X
+duel_title;╬Ж╤╥;;;;;;;;;;X
+EVTOPTG_WOL_10221;[stonemason.GetSheHeCap]ожтз╡╩тзуБюО. [stonemason.GetSheHeCap]сп╦Эжьр╙╣дйбгИх╔╫Б╬Ж;;;;;;;;;;X
+duel_tooltip_busy;╬Ж╤╥╣дхн╨нр╩╥╫╡╩дэ╣ё╦╨хннЯ╩Р╢╕сзу╫╤╥ж╝жп.\n;;;;;;;;;;X
+opinion_fought_duel;╬Ж╤╥;;;;;;;;;;X
+duel_tooltip_valid_target;дЦ╣днд╩╞╨мвз╫лтйпМсКфД╬Ж╤╥.\n;;;;;;;;;;X
+duel_tooltip_recent_duel;╬Ж╤╥╣дхнрБр╩╥╫ц╩спуЩтз╡нсКфДкШ╬Ж╤╥.\n;;;;;;;;;;X
+dishonest_duel_tooltip;уБтз╬Ж╤╥жпйг╡╩Ёопе╣дппн╙,фДкШхк╩АрРж╝╤Ь╡╩бЗ.;;;;;;;;;;X
+EVTOPTB_WOL_11110;╡╩,нр╡╩оК╢Рнр╣деСся.;;;;;;;;;;X
+is_not_ascetic;╡╩йг©Юппи╝\n;;;;;;;;;;X
+wol_duel_training;╬Ж╤╥я╣а╥;;;;;;;;;;X
+desc_wol_duel_training;уБхквН╫Э╫сйэак╬Ж╤╥╣дя╣а╥║ё;;;;;;;;;;X

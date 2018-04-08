@@ -1,0 +1,63 @@
+seize_trade_post_desc;×÷ÎªÒ»Ãû¹óÈË£¬§Y$CLAIMANT$§!¿ÉÒÔ²»Ïò§Y$TITLE$§!ÇëÊ¾¶øÖ±½Ó¶Ô§Y$TARGET$§!ÐûÕ½¡£ÕâÒ»ÐûÕ½ÀíÓÉ¶ÔÓÚÍ¬Ò»¹²ºÍ¹úÄÚÈõµÃ¶àµÄ¹ó×åÊÇ²»Õýµ±µÄ¡£;;;;;;;;;;X
+opinion_rival_republic;µÐ¶Ô¹²ºÍ¹ú;;;;;;;;;;X
+EVTDESC_REP_070;¾­ÓªÄãÆäÖÐÒ»¸öÃ³Ò×½ÚµãµÄÉÌÈËÃÇÐû²¼·ÅÆú¶ÔÄãµÄ³¯Í¢Ð§ÖÒ£¡ÏÖÔÚËûÃÇÐ§Á¦ÓÚÒ»¸ö¹óÈË¼Ò×å£¬¸Ã¼Ò×åÊÇÐÂÉúµÄººÈøÍ¬ÃËµÄ³ÉÔ±¡£ººÈøÍ¬ÃËÐû²¼ËûÃÇÕâ¸öÒì¾üÍ»ÆðµÄÍ¬ÃË»áÎªÉÌÈËÃÇ»ñÀûÌá¹©¸üºÃµÄ»ú»á¡£;;;;;;;;;;X
+EVTOPTA_REP_070;Íü¶÷¸ºÒåµÄ¼Ò»ïÃÇ£¡;;;;;;;;;;X
+PATRICIAN_DEMESNE_BONUS;¹óÈË;;;;;;;;;;X
+CANT_BUILD_TRADEPOST_OTHERREP;²»ÊôÓÚÆäËûÉÌÒµ¹²ºÍ¹ú¡£;;;;;;;;;;X
+opinion_royal_marriage;ÁªÒö;;;;;;;;;;X
+AIREASON_REPUBLICS_REFUSE_REVOKE;ÄÇÐ©ÉÌÒµ¹²ºÍ¹ú²»»á·ÅÆúÍ·ÏÎµÄ£¡;;;;;;;;;;X
+INTERACTION_CAN_AFFORD_THE_COST;ÄÜ¸ºµ£$COST$¤µÄ·ÑÓÃ;;;;;;;;;;X
+INTERACTION_RECIPIENT_NOT_EMBARGOING;§Y[Recipient.GetTitledFirstName]§!²¢Î´ÒÑÔÚ½ûÔË§Y[ThirdPartyCharacter.GetTitledFirstName]§!;;;;;;;;;;X
+INTERACTION_RECIPIENT_NOT_TRUCE;§Y[Recipient.GetTitledFirstName]§! Óë §Y[ThirdPartyCharacter.GetTitledFirstName]§! Ö®¼äÃ»ÓÐÍ£Õ½Ð­¶¨;;;;;;;;;;X
+INTERACTION_ACTOR_NOT_TRUCE;§Y[Actor.GetTitledFirstName]§! Óë §Y[ThirdPartyCharacter.GetTitledFirstName]§! Ö®¼äÃ»ÓÐÍ£Õ½Ð­¶¨;;;;;;;;;;X
+AIREASON_PRIMARY_IN_WARS;Ö÷Òª²ÎÕ½·½;;;;;;;;;;X
+AIREASON_MINOR_IN_WARS;´ÎÒª²ÎÕ½·½;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_TITLE;ÒªÇóÏÂ´ï·â¸ÛÁî;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_DESC;ÒªÇó§Y[Recipient.GetBestName]§WÐû²¼¶ÔµÐ¶ÔÉÌÒµ¹²ºÍ¹ú·¢¶¯·â¸ÛÕ½Õù¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_LONG_DESC;Äã¿ÉÒÔÍ¨¹ýËµ·þÒ»¸öÁìÖ÷¶ÔÆäÏÂ´ïÃ³Ò×½ûÔËÒÔ´ïµ½Ï÷ÈõµÐ¶Ô¹²ºÍ¹úºÍÎªÄãµÄÃ³Ò×½Úµã¿ª·ÅÑØº£Ê¡·ÝµÄÄ¿µÄ¡£Í¨³£À´ËµÓÃ½ðÇ®¿ÉÒÔ°ïÄã°ìµ½Õâ¼þÊÂ¡£È»¶ø£¬Èç¹ûÄãÔÚÕ½ÕùÖÐï¡Óð¶ø¹é£¬ §YÄã§!¾ÍÒªÅâ¸¶Õ½ÕùÅâ¿î¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_0;Ñ¡ÔñÒ»¸öµÐ¶ÔµÄÉÌÒµ¹²ºÍ¹úÒÔ¶ÔÆäÏÂ´ï·â¸ÛÁî¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_1;ÈÃ §Y[Recipient.GetTitledFirstName]§! Ò»ÆðºÍÄãÐû²¼½ûÔËÕ½Õù, Ä¿±ê: §Y[ThirdPartyCharacter.GetTitledFirstName]§! ºÍ §Y[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]§!¡£¸øËûÃÇ §Y$GOLD$§!¤  À´´Ù½ø´ï³É½»Ò×¡£ §RÒªÊÇÄãÊäÁËÕâ³¡Õ½Õù, Äã½«ÒªÖ§¸¶Õ½°ÜÅâ¿î¡£§!;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_SETUP;·â¸ÛÁîÇëÇóÒÑ»ñÍ¨¹ý¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§!ºÍ§Y[Actor.GetTitledName]§!ÒÑÐû²¼¶Ô§Y[ThirdPartyCharacter.GetDynName]§!ÁªºÏ·¢¶¯½ûÔËÕ½Õù¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_OFFER;[Actor.GetTitledName] ¸øÎÒÃÇ $COST$¤ £¬Ï£ÍûÄÜ¹»¶Ô [ThirdPartyCharacter.GetTitledFirstName] ºÍ [ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName] ÏÂ´ïÃ³Ò×½ûÔË¡£;;;;;;;;;;X
+ASK_TO_EMBARGO_INTERACTION_LETTER;½Æ»«µÄ [ThirdPartyCharacter.PrimaryTitle.GetAdjective] ÉÌ··±ØÐë´ÓÄãµÄÍÁµØÇýÖð³öÈ¥¡£Èç¹ûÄãÍ¬Òâ¶Ô [ThirdPartyCharacter.GetTitledName] ·¢¶¯Ã³Ò×½ûÔË, ÎÒÃÇ²»½ö»áÔÚÕ½ÕùÖÐ¼ÓÈëÄã·½£¬ÄãÒ²»á»ñµÃ $COST$¤. Èç¹ûÎÒÃÇµÄÕ½ÕùÊ§°ÜÁË, [Actor.PrimaryTitle.GetName] ½«»á³Ðµ£È«²¿Õ½ÕùÅâ¿î¡£;;;;;;;;;;X
+INTERACTION_REQUIRES_TARGET_IS_MERCHANT_REPUBLIC;§Y[ThirdPartyCharacter.PrimaryTitle.GetName]§!ÊÇÒ»¸öÉÌÒµ¹²ºÍ¹ú¡£;;;;;;;;;;X
+ANY_ATTACKER_STARTS;ÈÎºÎ½ø¹¥·½¡£;;;;;;;;;;X
+ANY_DEFENDER_STARTS;ÈÎºÎ·ÀÊØ·½¡£;;;;;;;;;;X
+EVTDESC295;¾­¹ýÉîË¼ÊìÂÇ£¬ÎÒ¾ö¶¨²ÉÄÉÄãµÄ½¨Òé¡£ÎÒÃÇ»á¹²Í¬½«[Root.PrimaryTitle.GetAdjective]ÉÌ··Çý¸Ï³ö[From.PrimaryTitle.GetName]£¡\n\n[From.GetTitledFirstName];;;;;;;;;;X
+EVTDESC296;ËµÊµ»°£¬ÎÒ·¢ÏÖÄãÕë¶Ô[Root.PrimaryTitle.GetName]µÄ·â¸ÛÁîÆÄÎª¿ÉÐ¦¡£Á½¸ö¹ú¼Ò¶¼ÊÇÌú¹«¼¦£¬ÎÒÔõÃ´»áÆ«°®ÆäÖÐÒ»·½ÄØ£¿\n\n[From.GetTitledFirstName];;;;;;;;;;X
+CONQUEROR_HOME_CULTURE;ÎÄ»¯Å¦´ø;;;;;;;;;;X
+AIREASON_SUPPORT_FOR_CONQUEROR;¡°Õ÷·þÕß¡±µÄºóÇÚ±£ÕÏ¡£;;;;;;;;;;X
+k_hansa;ººÈøÍ¬ÃË;;;;;;;;;;X
+k_hansa_adj;ººÈøÍ¬ÃË;;;;;;;;;;X
+called_into_war;ËßÖîÕ½Õù¡£;;;;;;;;;;X
+city_kingdom_of_german;ÉÌÒµÁªÃË;;;;;;;;;;X
+city_kingdom_german;ÉÌÒµÁªÃË;;;;;;;;;;X
+opinion_bribed_tp;»ßÂ¸Ã³Ò×½Úµã;;;;;;;;;;X
+opinion_thwarted_tp_destruction;×èÈÅ¶ÔÃ³Ò×½ÚµãµÄÆÆ»µ;;;;;;;;;;X
+TRADEPOST_COST_OP_EFFECT;§Y$LIEGE$§!¶ÔÄãµÄºÃ¸Ð¶È£º$EFFECT$;;;;;;;;;;X
+EVTDESC_REP_601;×Ê½ð³ÖÐøÁ÷ÈëÔÚ[From.GetName]µÄÃ³Ò×½Úµã£¬µ«ÄãÓëÓµÓÐ¸ÃÃ³Ò×½ÚµãµÄÉÌÒµ¼Ò×åµÄ¹ØÏµÒÑ¶ñ»¯¡£ÎªÁË²»¶¯¸É¸ê¶øÓÖÄÜ¸øËûÃÇµãÑÕÉ«£¬Äã¿ÉÒÔ²ß»®Ò»Æð±©¶¯£¬°Ñ¸ÃÃ³Ò×½ÚµãÒÄÎªÆ½µØ¡£;;;;;;;;;;X
+EVTOPTA_REP_601;ËùÑÔÉõÊÇ£¡¾ÀÖÚÐÐ±©£¡;;;;;;;;;;X
+EVTOPTB_REP_601;²»!¾ÖÃæ»áÑÝ±äµ½ÄÑÒÔ¿ØÖÆ£¡;;;;;;;;;;X
+tp_spare;Äã²»´òËã¶Ô¸ÃÃ³Ò×½Úµã²ÉÈ¡ÐÐ¶¯;;;;;;;;;;X
+EVTTOOLTIP_REP_602;¼¤·ßµÄÃñÖÚÏòÃ³Ò×½ÚµãÐÐ½ø;;;;;;;;;;X
+EVTDESC_REP_602;È·ÇÐµØËµ£¬ÄãºÍ[From.GetTitledName]ÏÖÔÚ¹ØÏµ»¹²»ÊÇºÜÒªºÃ¡£¶øÇÒ£¬ÏÖÔÚ[From.GetSheHe]ËÆºõÒÑ¹Ä¶¯Ò»»ï±©Ãñ½«ÄãÔÚ[FromFrom.GetName]µÄÃ³Ò×½ÚµãÒÄÎªÆ½µØ!ÄãÈËÊý¼«ÉÙµÄÎÀÊù²¿¶ÓÒÑ±»ËûÃÇ°üÎ§¡£ËûÃÇ»¹ÍþÐ²µ½£¬³ý·ÇÄã³·³ö[FromFrom.GetName]£¬·ñÔòËûÃÇ½«»á°ÑÄãµÄ²¿¶ÓÍÀÉ±´ù¾¡¡£;;;;;;;;;;X
+EVTOPTA_REP_602;ÎÒÃÇÒÑÉ½ÇîË®¾¡¡£²ð³ýÃ³Ò×½Úµã°É!;;;;;;;;;;X
+EVTOPTB_REP_602;Ïò[From.GetFirstName]ÐÐ»ß¡£;;;;;;;;;;X
+EVTOPTC_REP_602;Ö¸³öÃ³Ò×½Úµã´ø¸ø[FromFrom.GetName]µÄ²Æ¸»¡£;;;;;;;;;;X
+EVTOPTD_REP_602;ÔËÓÃ¸ß³¬µÄÍâ½»¼¼ÇÉÒÔÇýÉ¢±©Ãñ¡£;;;;;;;;;;X
+EVTDESC_REP_603;Äã¾À¼¯µÄ±©ÃñÏ´½ÙÁË¸ÃÃ³Ò×½Úµã²¢Ê¹Ö®ÒÄÎªÆ½µØ¡£;;;;;;;;;;X
+EVTOPTA_REP_603;Ò»ÇÐÕýÈçÎÒËùÔ¤ÁÏµÄÄÇÑù½øÕ¹×Å;;;;;;;;;;X
+EVTTOOLTIP_REP_604;ÒÑ¶ÔÆäÐÐ»ß;;;;;;;;;;X
+EVTDESC_REP_604;[FromFrom.GetTitledName]Ê¹½ÚÒÔ´ó±Ê½ð¶î»ßÂ¸Äã£¬Ï£ÍûÄãÄÜ¹»°ÑÎ»ÓÚ[From.GetName]µÄÃ³Ò×½Úµã×ªÊÖ¸ø[FromFrom.GetHerHis];;;;;;;;;;X
+EVTOPTA_REP_604;ºÃ°É£¡ÇýÉ¢ÕâÐ©ÃñÖÚ°É£¡;;;;;;;;;;X
+EVTOPTB_REP_604;¹þ¹þ£¡ÄÇ°×³Õ²»½ö»áËðÊ§Ò»±ÊÇ®²Æ£¬Ò²»áÊ§È¥ËûµÄÃ³Ò×½Úµã£¡;;;;;;;;;;X
+EVTTOOLTIP_REP_605;±©ÃñÉ¢È¥¡£;;;;;;;;;;X
+EVTDESC_REP_605;[From.GetTitledName]·Ç³£ÉÆÓÚ¾­Óª. ÓÐÀµÓÚ´Ë, [From.GetSheHe]Ïë·½Éè·¨µØ°²¸§ÄÇÐ©±©Ãñ, ¸æËßËûÃÇ²Æ¸»»á´ÓÃ³Ò×½ÚµãÁ÷Èë¸ÃÊ¡·Ý. Õâ¶¯Ò¡ÁËËûÃÇ, ÈËÈºÉ¢¿ªÁË, Ã³Ò×½ÚµãÒ²°²È«ÎÞÓÝ.;;;;;;;;;;X
+EVTOPTA_REP_605;°¦£¡Èç¹ûÄãÏëÒªÈÃÄ³¼þÊÂÇé°ì³É......;;;;;;;;;;X
+EVTDESC_REP_606;[From.GetTitledName]ÔËÓÃ¸ß³¬µÄÍâ½»ÊÖ¶ÎÏë·½Éè·¨ÈÃÄÇÐ©±©Ãñ×ö³öÁËÈÃ²½£¡ÈËÈºÉ¢¿ª£¬Ã³Ò×½ÚµãÒ²Î´ÔâÊÜÈÎºÎÆÆ»µ£¡;;;;;;;;;;X
+EVTTOOLTIP_REP_607;Ã³Ò×½Úµã±»´Ý»ÙÁË;;;;;;;;;;X
+EVTDESC_REP_607;[From.GetTitledFirstName][From.GetSheHe]Õâ¸öÒÂ¹ÚÇÝÊÞ£¬[From.GetHerHim]ÊÕÁËÄã¸øµÄ»ßÂ¸£¬È´Ã»·Å¹ýÄãµÄÃ³Ò×½Úµã¡£±©ÃñÃÇÒÔ·ç¾í²ÐÔÆÖ®ÊÆ¼ßÃðÁËÎÀÊù²¿¶Ó¡£¼¸¸öÐÒ´æÕßÌÓ»Ø[Root.MercRepCapital.GetName]Í´³âËûÃÇµÄ±©ÐÐ¡£;;;;;;;;;;X
+EVTOPTA_REP_607;Âù×å!ÈËÔü!Ô­Ê¼ÈË!;;;;;;;;;;X
+opinion_burned_tp;ÉÕ»ÙÃ³Ò×½Úµã£¡;;;;;;;;;;X
+opinion_burned_tp_despite_bribe;²»ÓÃ¹Ü»ß½ð£¬Ö±½ÓÉÕ»ÙÃ³Ò×½Úµã£¡;;;;;;;;;;X
