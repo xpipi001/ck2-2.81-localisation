@@ -12,7 +12,7 @@ EVTOPTB_JD_30002;我会让[target_marshal.GetFirstName] 找出并处理这些罪
 EVTOPTC_JD_30002;How our merchants conduct their trade is no business for the crown.;;;;;;;;;;X
 EVTDESC_JD_30003;[From.GetTitledFirstName]限制了你所在地区的商人的自由，因为他们在与其他领域的互动中存在不当行为。然而，我们的城市的商人的权利却属于我们的管辖范围，即使[From.GetFirstName]可能会被激怒，如果我们公开宣布,这可能是一个显示决心的机会.;;;;;;;;;;X
 EVTOPTA_JD_30003;对滥用权力发表公开声明.;;;;;;;;;;X
-EVTOPTB_JD_30003;我应当保证和[From.GetFirstName]的关系良好.;;;;;;;;;;X
+EVTOPTB_JD_30003;我应当保证与[From.GetFirstName]的关系良好.;;;;;;;;;;X
 EVTDESC_JD_30004;你的附庸, [From.GetTitledFirstName], 对[From.GetHerHis]土地上的商人权利的侵犯，给你留下了深刻的印象. [From.GetSheHeCap]现在发表了一份公开声明,说明在[From.GetHerHis]的责任范围内，这种行为是如何不合理地使用权力的。.;;;;;;;;;;X
 EVTOPTA_JD_30004;[From.GetHerHisCap] merchants had to be kept in line!;;;;;;;;;;X
 OFFMAP_CHANGE_CURRENCY_GAIN;Gain $VALUE|G$ $CURRENCY|Y$ with $OFFMAP|Y$;;;;;;;;;;X
