@@ -1,36 +1,36 @@
-EVTDESC_JD_10020;When I first did not hear anything from [adventurous_spirit.GetTitledFirstName], I simply assumed that [adventurous_spirit.GetHerHis] journey back home had been delayed. Sadly, I have now formally received word from [the_protector_general.GetTitledName] of [adventurous_spirit.GetHerHis] passing.;;;;;;;;;;X
-china_physician_cd;�YSent a Physician�!;;;;;;;;;;X
-china_physician_cd_desc;You have already sent a Physician to China, you will not be able to send another one.;;;;;;;;;;X
-temple_barony_of_taoist;Temple of;;;;;;;;;;X
-kow_tow_travels_death;during a journey to the Chinese Empire;;;;;;;;;;X
-EVT_DESC_JD_60314;The [From.GetTitle] of the [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] addresses a letter to the [Root.GetTitle] of the [Root.PrimaryTitle.GetFullName].\n\nYou squander the gifts of the heavenly [From.Offmap.Ruler.GetLongChineseEmperorName]. We know that the death of [FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName] was by your hands. Do not think that the [From.Offmap.Ruler.GetTitle] will look lightly upon this.;;;;;;;;;;X
-hostages_random_imprisonment_tt;You will imprison a random �YClose Relative�! of the target.;;;;;;;;;;X
-NOT_PACIFIED_BY_LIEGE_DATELESS;Not pacified by liege;;;;;;;;;;X
-RULES_ACHIEVEMENT_REQUIRE_NO_RULER_DESIGNER;The �YRuler Designer�! cannot be used;;;;;;;;;;X
-IRONMAN_MODE_RULER_DESIGNER_DESC;The Ruler Designer is active, disabling achievements;;;;;;;;;;X
-REQUIREMENTS_HEADER;�YRequirements�!:;;;;;;;;;;X
-OLD_SAVE_WARNING;�YThis save is old, and may have a variety of issues as a result�!;;;;;;;;;;X
-TRADE_ROUTE_GLOBAL_VALUE_CHANGED;External factors chage the value of this trade route by $VALUE|+0%$.;;;;;;;;;;X
-NOT_ALLOWED_TO_PLAY_SAME_CHARACTER;Not allowed to play the same character as another player;;;;;;;;;;X
-chinese_grace_become_tributary_desc;Pledge your allegiance to �Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]�!.;;;;;;;;;;X
-chinese_grace_become_tributary_effect_TT;In exchange for �R50% income�!, �R30% troop reinforcement rate�! and �R[GetChineseOffmapTributaryPrestigeCost]�!, receive �G2 Grace per month�! and �Ga Chinese regiment to raise as the defender in a war�!.\nThese effects last until the end of the Empire's �Yruling dynasty�!, or until �Yyou declare independence�! (through war, or decision in the Intrigue screen).\n;;;;;;;;;;X
-ENDGAME_TEXT_INDIAN;You gained an Eastern Religion and are therefore no longer allowed to continue playing without the Rajas Of India or Jade Dragon expansion.\n;;;;;;;;;;X
-you_will_game_over_tt;�RThis will cause a GAME OVER, as you are not allowed to play this Religion!�!\n;;;;;;;;;;X
-is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;Is NOT �YOne-Eyed�!, �YOne-Handed�!, �YOne-Legged�!, �YDisfigured�!, or �YMangled�!\n;;;;;;;;;;X
-is_not_maimed_or_infirm_tt;Is NOT �YMaimed�! or �YInfirm�!\n;;;;;;;;;;X
-is_not_wounded_severely_injured_tt;Is NOT �YWounded�! or �YSeverely Injured�!\n;;;;;;;;;;X
-EVTTOOLTIP100201;��[Root.GetTitledFirstName]��������Ľ�����;;;;;;;;;;X
+EVTDESC_JD_10020;当我最初并没有从[adventurous_spirit.GetTitledFirstName]听到任何消息时,我简单地假设[adventurous_spirit.GetHerHis]回家的旅途被延误了. 令人伤心的是,我现在正式收到了[the_protector_general.GetTitledName]关于[adventurous_spirit.GetHerHis]去世的信息.;;;;;;;;;;X
+china_physician_cd;§Y派出一名医生§!;;;;;;;;;;X
+china_physician_cd_desc;你已经向中国派出了一名医生,你不能派出另一名.;;;;;;;;;;X
+temple_barony_of_taoist;观;;;;;;;;;;X
+kow_tow_travels_death;在去中华帝国的路上;;;;;;;;;;X
+EVT_DESC_JD_60314;[From.GetTitle]的[From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle]向[Root.GetTitle]的[Root.PrimaryTitle.GetFullName]致一封信.\n\n你浪费了给神圣的[From.Offmap.Ruler.GetLongChineseEmperorName]的贺礼.我们知道[FromFrom.GetChineseCharacterRole] [FromFrom.GetTitledName]是死于你手.不要认为[From.Offmap.Ruler.GetTitle]会轻视这件事.;;;;;;;;;;X
+hostages_random_imprisonment_tt;你将囚禁目标的随机一名§YClose Relative§!.;;;;;;;;;;X
+NOT_PACIFIED_BY_LIEGE_DATELESS;没有被领主安抚;;;;;;;;;;X
+RULES_ACHIEVEMENT_REQUIRE_NO_RULER_DESIGNER;§YRuler Designer§!不能被使用;;;;;;;;;;X
+IRONMAN_MODE_RULER_DESIGNER_DESC;自定义统治者已启用，禁用成就;;;;;;;;;;X
+REQUIREMENTS_HEADER;§YRequirements§!:;;;;;;;;;;X
+OLD_SAVE_WARNING;§Y旧版本存档，可能会造成各种问题§!;;;;;;;;;;X
+TRADE_ROUTE_GLOBAL_VALUE_CHANGED;内部原因造成的贸易线路价值改变$VALUE|+0%$.;;;;;;;;;;X
+NOT_ALLOWED_TO_PLAY_SAME_CHARACTER;不允许另一名玩家扮演同样的统治者;;;;;;;;;;X
+chinese_grace_become_tributary_desc;向§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!宣誓效忠.;;;;;;;;;;X
+chinese_grace_become_tributary_effect_TT;In exchange for §R50% income§!, §R30% troop reinforcement rate§! and §R[GetChineseOffmapTributaryPrestigeCost]§!, receive §G2 Grace per month§! and §Ga Chinese regiment to raise as the defender in a war§!.\nThese effects last until the end of the Empire's §Yruling dynasty§!, or until §Yyou declare independence§! (through war, or decision in the Intrigue screen).\n;;;;;;;;;;X
+ENDGAME_TEXT_INDIAN;你获得了东方宗教,因此不再允许在没有印度王公和玉龙的情况下继续游戏.\n;;;;;;;;;;X
+you_will_game_over_tt;§R因为你不被允许游玩这个宗教,所以这将导致游戏结束!§!\n;;;;;;;;;;X
+is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;不是§YOne-Eyed§!, §YOne-Handed§!, §YOne-Legged§!, §YDisfigured§!,或§YMangled§!\n;;;;;;;;;;X
+is_not_maimed_or_infirm_tt;不是§YMaimed§!或§YInfirm§!\n;;;;;;;;;;X
+is_not_wounded_severely_injured_tt;不是§YWounded§!或§YSeverely Injured§!\n;;;;;;;;;;X
+EVTTOOLTIP100201;ÊÜ[Root.GetTitledFirstName]ÇëÇó°ïÖú¸Ä½ø½£¼¼;;;;;;;;;;X
 String_personality_old_and_wistful;how old age often makes one wish for times long gone;;;;;;;;;;X
-String_personality_young_cynics;how regressive it can feel to discuss politics with the older generation;;;;;;;;;;X
-String_personality_same_society;the various things we get up to, as members of [This.Society.GetName];;;;;;;;;;X
-String_personality_focus_war;our mutual fascination for battle and strategy;;;;;;;;;;X
-String_personality_focus_hunting;the thrill of hunting, and the outdoors life;;;;;;;;;;X
-String_personality_focus_seduction;the undeniable excitement and joy one gets from pursuing one's true passions, in this earthly life;;;;;;;;;;X
+String_personality_young_cynics;与上一代人讨论政治真让人后悔;;;;;;;;;;X
+String_personality_same_society;我们追寻不同的事物,作为[This.Society.GetName]的成员;;;;;;;;;;X
+String_personality_focus_war;我们都迷恋战役和战略;;;;;;;;;;X
+String_personality_focus_hunting;户外生活和打猎真刺激;;;;;;;;;;X
+String_personality_focus_seduction;在这尘世生活中一个人追寻自己真正的热爱是无可置疑的令人兴奋;;;;;;;;;;X
 String_personality_focus_intrigue;the intrigues at court, and an enticing rumor about a certain foreign diplomat;;;;;;;;;;X
-String_personality_focus_carousing;everything that supposedly, and actually, can happen during an extravagant feast;;;;;;;;;;X
-String_personality_focus_family;the value of kinship, and the importance of family;;;;;;;;;;X
-String_personality_focus_theology;ways to interpret a holy text, and the comforting aspects of faith;;;;;;;;;;X
-String_personality_focus_scholarship;human curiosity, and the sometimes debated concept of [Root.Religion.GetHighGodName];;;;;;;;;;X
+String_personality_focus_carousing;任何事都会和人们所期望的那样,并实际上会在奢侈的宴会上发生;;;;;;;;;;X
+String_personality_focus_family;是亲情的价值,和家庭的重要性;;;;;;;;;;X
+String_personality_focus_theology;翻译神圣经典的方法,和信仰令人舒适的方面;;;;;;;;;;X
+String_personality_focus_scholarship;人类的好奇心，和争论[Root.Religion.GetHighGodName]的定义;;;;;;;;;;X
 String_personality_focus_rulership;the sometimes thankless effort of trying to do right by your administration, as well as your people;;;;;;;;;;X
 String_personality_focus_business;the intricacies of a well functioning administration, and the skill of delegating;;;;;;;;;;X
 String_personality_same_culture;the finer points of [Root.Culture.GetName] culture and etiquette;;;;;;;;;;X
