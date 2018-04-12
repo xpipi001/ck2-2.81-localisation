@@ -89,7 +89,7 @@ COMBATEND_WEALTH_STOLEN_LOST;Î§³ÇÖÐËðÊ§µÄ§Y½ð±Ò§!;;;;;;;;;;X
 COMBATEND_PRESTIGE_LOST;Õ½¶·ÖÐËðÊ§µÄ§YÉùÍû§!;;;;;;;;;;X
 COMBATEND_PIETY_SIEGE_LOST;Î§³ÇÖÐËðÊ§µÄ§Y[Player.Religion.GetPietyName]§!;;;;;;;;;;X
 COMBATEND_PIETY_SIEGE;Î§³ÇÖÐ»ñµÃµÄ§Y[Player.Religion.GetPietyName]§!;;;;;;;;;;X
-ASSAULT_DESC;³¢ÊÔÇ¿¹¥µØ²ú;;;;;;;;;;X
+ASSAULT_DESC;§Y³¢ÊÔÇ¿¹¥µØ²ú§!;;;;;;;;;;X
 ASSAULT_ALREADY_ASSAULTING;ÕýÔÚÇ¿¹¥µØ²ú;;;;;;;;;;X
 ASSAULT_NOT_LEADING_SIEGE;ÎÒÃÇ²»ÊÇÎ§³ÇµÄÖ÷µ¼Õß£¬²»ÄÜ·¢¶¯Ç¿¹¥;;;;;;;;;;X
 ASSAULT_ENOUGH_DAYS;ÎÒÃÇ¿ÉÒÔÏÂÁîÇ¿¹¥µØ²ú£¬µ«¿ÉÄÜ»áËðÊ§²ÒÖØ;;;;;;;;;;X
@@ -120,8 +120,8 @@ HIRE_MERC_DESC;»¨·Ñ§Y$COST$§W½ð±Ò¹ÍÓ¶§Y$TITLE$§W¡££¨ËûÃÇ»á³öÏÖÔÚ§Y$CAPITAL$§W»òÆ
 SIEGE_LEAD_BY;Èç¹ûÎ§³Ç³É¹¦£¬§Y$SETTLEMENT$§!µÄ¿ØÖÆÕß½«»áÊÇ§Y$TITLE$§!;;;;;;;;;;X
 REORG_DESC;¸Ä±à²¿¶Ó;;;;;;;;;;X
 REORG_CANCEL_DESC;¹Ø±Õ¸Ä±à´°¿Ú;;;;;;;;;;X
-DEFENDER_LEVY;ÊØ³ÇµÄÕ÷ÕÙ¾ü;;;;;;;;;;X
-DEFENDER_GARRISON;ÊØ³ÇµÄÎÀÊù²¿¶Ó;;;;;;;;;;X
+DEFENDER_LEVY;§YÊØ³ÇµÄÕ÷ÕÙ¾ü§!;;;;;;;;;;X
+DEFENDER_GARRISON;§YÊØ³ÇµÄÎÀÊù²¿¶Ó§!;;;;;;;;;;X
 HINT_SPLASH_MAP;Íõ¹ú·çÔÆ2ÓµÓÐÈ«3DµÄ´óµØÍ¼¡£Äã¿ÉÒÔÓÃÊó±ê¹öÂÖÀ­½ü»òÀ­Ô¶¾µÍ·£¬°´×¡Êó±ê¹öÂÖÒÆ¶¯Êó±êµ÷ÕûÊÓ½Ç¡£Ê¹ÓÃÍË¸ñ¼übackspace¿ÉÒÔ»Ö¸´Ä¬ÈÏÊÓ½Ç¡£;;;;;;;;;;X
 INTERACTION_REQUIRES_HAS_BETROTHAL;ÐëÒÑ¶©»é;;;;;;;;;;X
 APPOINT_A_NEW;ÈÎÃüÒ»ÃûÐÂ§Y$JOB$§!;;;;;;;;;;X
@@ -285,7 +285,7 @@ tut_4c_12;ÕâÀïÄã¿ÉÒÔ¿´µ½»éÒö½«¶ÔÄãµÄÍþÍû²úÉúµÄÓ°Ïì¡£ÄãÒ²¿ÉÒÔ¿´µ½Ëý»á´ðÓ¦ÄãµÄÌáÒé
 tut_4c_10a;¹§Ï²£¡;;;;;;;;;;X
 tut_5a_13;µÈµ½µÚ¶þÖ§²¿¶Óµ½´ïºó£¨Äã¿ÉÒÔÔÚ²¿¶ÓÉÏÐüÍ£Êó±ê²é¿´µ½´ïÊ±¼ä£©£¬ÓÃÊó±ê°ÑÁ½Ö§²¿¶ÓÈ¦ÆðÀ´¡£ÄãÊ×ÏÈÐèÒª¹Ø±Õ¾ü¶ÓÏ¸½ÚÃæ°åÒÔ¿´µ½ËûÃÇ¡£ÏÖÔÚÄãÄÜ¿´µ½¾ü¶Ó´°¿ÚÉÏµÄºÏ²¢°´Å¥¡£µã»÷ÒÔºÏ²¢ÎªÒ»Ö§¸ü´óµÄ²¿¶Ó¡£;;;;;;;;;;X
 tut_5c_7;ÕâÐ©²¿¶Ó¿ÉÒÔÃâ·Ñ¹ÍÓ¶£¬µ«Ö»»á¹¥»÷Òì½ÌµÐÈË£¬¶øÇÒÖ»ÔÚÊ®×Ö¾üÆÚ¼ä³öÏÖ£¬ËùÒÔÆä×÷ÓÃÓÐÏÞ¡£Èç¹ûÄãÔÚ¶Ô¿¹Òì½ÌÍ½»òÕßÒì¶ËµÄÈëÇÖ£¬ËûÃÇ»¹²»»¨·ÑÎ¬»¤·Ñ¡£ÏÖÔÚ¶¯Ô±ÄãµÄË½ÈË²¿¶Ó£¬È»ºóÑ¡ÔñËüÒÔ¼ÌÐø¡£;;;;;;;;;;X
-EVTDESC38301;ÎÒµÄÆ¤·ôÉÁÉÁ·¢ÁÁ£¬·¢ÐÍÓÀÔ¶ÍêÃÀ£¬ÒìÐÔ¶¼¿ÊÍûµÃµ½ÎÒµÄ×¢Òâ¡£ÎÒ»ñµÃÁËÐÔ¸ÐÌØÖÊ¡£;;;;;;;;;;X
+EVTDESC38301;ÎÒµÄÆ¤·ôÉÁÉÁ·¢ÁÁ£¬·¢ÐÍÓÀÔ¶ÍêÃÀ£¬ÒìÐÔ¶¼¿ÊÍûµÃµ½ÎÒµÄ×¢Òâ¡£ÎÒ»ñµÃÁË§YÐÔ¸Ð§!ÌØÖÊ¡£;;;;;;;;;;X
 opinion_laughing_at_you;³°Ð¦Äã;;;;;;;;;;X
 opinion_tossed_me;Ä®ÊÓÎÒ£¡;;;;;;;;;;X
 opinion_defeated_rebels;»÷°ÜÅÑ¾ü;;;;;;;;;;X
@@ -385,7 +385,7 @@ EVTOPTB65110;ÎÒ¡¢ÎÒ¡¢ÎÒ×ßÁË;;;;;;;;;;X
 cruel_neg;ÌÖÑá²Ð±©;;;;;;;;;;X
 cruel_pos;Ï²»¶²Ð±©;;;;;;;;;;X
 EVTOPTB8000;ÎÒ²»»á±»ÇÃÕ©£¡;;;;;;;;;;X
-EVTDESC38302;Õâ¿Ï¶¨ÊÇ¸öÆæ¼££¬ÎÒ·¢SºÍÆäËû×ÖÄ¸µÄÒô²»ÔÙÓÐÀ§ÄÑÁË£¡ÎÒËµ»°²»ÔÙº¬»ì²»Çå¡£;;;;;;;;;;X
+EVTDESC38302;Õâ¿Ï¶¨ÊÇ¸öÆæ¼££¬ÎÒ·¢SºÍÆäËû×ÖÄ¸µÄÒô²»ÔÙÓÐÀ§ÄÑÁË£¡ÎÒËµ»°²»ÔÙ §Yº¬»ì²»Çå§!¡£;;;;;;;;;;X
 PROV260;Ã·¿ËÂ×±¤;;;;;;;;;;X
 d_mecklemburg;Ã·¿ËÂ×±¤;;;;;;;;;;X
 d_mecklemburg_adj;Ã·¿ËÂ×±¤;;;;;;;;;;X

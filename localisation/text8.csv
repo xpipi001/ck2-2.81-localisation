@@ -497,7 +497,7 @@ EVTOPTA100026;ÎÒ»á°ïÖúÄã£¬µ«ÊÇÄãÒª¸¶¸øÎÒÒ»´ó±Ê±¨³ê;;;;;;;;;;X
 EVTTOOLTIP100027;[Root.GetTitledFirstName]Í¬Òâ°ïÖú[This.GetTitledFirstName]£¬µ«ÊÇË÷Òª¸ß¶îµÄ±¨³ê...;;;;;;;;;;X
 EVTOPTB100026;ÎÒ¶Ô´Ë¸Ğµ½Ê®·ÖÈÙĞÒ£¡;;;;;;;;;;X
 EVTTOOLTIP100028;ÔÚ[Root.GetTitledFirstName]µÄ×¢ÊÓÏÂ£¬[This.GetTitledFirstName]Ñ§»áÁËÈçºÎÓëÅ®ÈË½»Ì¸;;;;;;;;;;X
-EVTDESC38303;ÕâÃ´³¤Ê±¼äÎÒ¶¼Ã»ÓĞÍ¬ÁíÒ»¸öÈËºÙßİ.µ«ÊÇÏÖÔÚÎÒ±ä´ÏÃ÷ÁË.ÎÒÊ§È¥ÁËÕê½àµÄÆ·ÖÊ.;;;;;;;;;;X
+EVTDESC38303;ÕâÃ´³¤Ê±¼äÎÒ¶¼Ã»ÓĞÍ¬ÁíÒ»¸öÈËºÙßİ.µ«ÊÇÏÖÔÚÎÒ±ä´ÏÃ÷ÁË.ÎÒÊ§È¥ÁË§YÕê½à§!µÄÆ·ÖÊ.;;;;;;;;;;X
 EVTOPTC100026;ÎÒ»áÈÃÆäËûÈËÍ¬ÎÒÕù¶áÅ®ÈËµÄĞÄ£¡;;;;;;;;;;X
 EVTTOOLTIP100029;[Root.GetTitledFirstName]Óë[This.GetTitledFirstName]Ö®¼äµÄ¾ºÕù¹ØÏµ×Ô¶¯ÏÔÂ¶ÁË³öÀ´;;;;;;;;;;X
 EVTDESC100027;ÔÚÎÒ°İÍĞ[From.GetHerHim]°ïÖúÎÒ¿Ë·şº¦Ğß£¬²¢ÇÒ½Ì»áÎÒÎüÒıÅ®ÈË»òÕßÖÁÉÙÍ¬Å®ÈËÌ¸»°µÄ·½·¨µÄÊ±ºò£¬[From.GetFirstName]ÈôÓĞËùË¼µØÌı×Å.ÎÒÓÃ¿ÒÇóµÄÑÛÉñ¿´×Å[From.GetHerHim]£¬ÔÚ×î³õµÄÓÌÔ¥Ö®ºó[From.GetFirstName]Í¬Òâ°ïÖúÎÒ£¬Ìõ¼şÊÇÒ»Ğ¡±Ê±¨³ê.;;;;;;;;;;X
@@ -905,8 +905,8 @@ EVTDESC100226;Ê¹ÓÃÄÇĞ©°º¹óµÄÉè±¸£¬[From.GetTitledFirstName]×öÁËÒ»¸öÍêÈ«µÄ¼à²â£¬Ô
 EVTOPTA100226;ÏÖÔÚÎÒÒªÈ¥ÄÄÀïÕÒ¸öĞÂ³ø×Ó£¿;;;;;;;;;;X
 EVTDESC100230;[Root.Religion.GetName]ÉñÖ°ÈËÔ±¾­³£ÒòÎª×Ú½Ì¡¢[Root.Religion.GetRandomGodName]ºÍ½Ì»áÊÕÈëµÈÎÊÌâ¾À²øÎÒ¡£ÎŞÂÛÎÒ×öÊ²Ã´£¬¼´±ãÎÒ´ğÓ¦¸ü¶àµØÆíµ»¡¢¸üÍêÈ«µØÔÄ¶Á×Ú½Ì¾­µä£¬ËûÃÇÒ²²»¿ÏÇáÒ×·Å¹ıÎÒ£¡;;;;;;;;;;X
 EVTOPTA100230;ĞĞĞĞºÃ°É£¬ÕÒ¸öÈËÀ´°ï°ïÎÒ£¬ÈÃÄÇĞ©ÉñÖ°ÈËÔ±ÏûÍ£Ò»ÏÂ°É£¡;;;;;;;;;;X
-EVTTOOLTIP100231;Ìıµ½ÁË[Root.GetTitledFirstName]µÄÇó¾È;;;;;;;;;;X
-EVTOPTB100230;àŞ£¬[Root.Religion.GetRandomGodName]£¬°ïÖúÎÒ°É£¬ÎÒ½«±ä³ÉÒ»¸ö¸üºÃµÄ[Root.Religion.GetName]ĞÅÍ½£¡;;;;;;;;;;X
+EVTTOOLTIP100231;[This.GetFirstName] Ìıµ½ÁË[Root.GetTitledFirstName]ÃÇµÄÇó¾È;;;;;;;;;;X
+EVTOPTB100230;àŞ£¬[Root.Religion.GetRandomGodName]£¬°ïÖúÎÒ°É£¬ÎÒ½«±ä³ÉÒ»¸ö¸üºÃµÄ[Root.GetReligionAdherent]ĞÅÍ½£¡;;;;;;;;;;X
 EVTDESC100231;ÎÒ¾õµÃºÜÆæ¹ÖµÄÒ»µãÊÇ£¬ÄÇĞ©[From.Religion.GetName]ÉñÖ°ÈËÔ±»¹ÊÇ¾­³£¾À²ø[From.GetTitledFirstName],ÎŞÂÛ[From.GetSheHe]´ğÓ¦È¥×öÊ²Ã´»òÕß[From.GetSheHe]¾èÔù¶àÉÙÇ®¸ø[From.Religion.GetName]½Ì»á¡£;;;;;;;;;;X
 EVTOPTA100231;ÎÒÖªµÀ[From.GetTitledFirstName]¿ÉÒÔÔõÃ´×ö£¡;;;;;;;;;;X
 EVTTOOLTIP100232;Îª[Root.GetTitledFirstName]ÓĞ½â¾ö[This.GetHerHis]ÎÊÌâµÄ·½·¨¶ø¸Ğµ½ÊÍÈ»;;;;;;;;;;X
@@ -1223,9 +1223,9 @@ EVTOTPB100527;ÒòÎª¶¾º¦±ö¿Í£¬[From.GetTitledFirstName]°ÑÎÒÇıÖğ³ö¾³;;;;;;;;;;X
 EVTDESC72038;ÎÒÌıËµ[From.GetTitledFirstName]ÌôÕ½ÎÒµÄÆäÖĞÒ»Î»±ö¿Í½øĞĞ¾ö¶·£¬µ«ÔÚÎÒÓĞ»ú»á³öÃæ¸ÉÉæÊ±£¬ÄÇÁ½¸ö¾ö¶·ÕßÔçÒÑ×ßµ½ÍâÃæ¡­¡­;;;;;;;;;;X
 EVTOPTA72038;ÎÒÒªÊÔ×ÅÔÚÎªÊ±ÒÑÍíÖ®Ç°¸ÏÉÏËûÃÇ¡­¡­;;;;;;;;;;X
 opinion_revoked_lord_spiritual_title;ÊÕ»Ø¹¬Í¢ÄÁÊ¦Ö°Î»;;;;;;;;;;X
-action_inquisition_desc;½«ÄãµÄ [GetLordSpiritualName] ÅÉµ½ÄÇÈºÃÔÊ§µÄ¸áÑòËùÔÚµÄÊ¡·İ, ×ª»¯Òì¶ËºÍÒì½ÌÍ½.;;;;;;;;;;X
-action_advance_cul_tech_desc;½«ÄãµÄ [GetLordSpiritualName] ÅÉµ½Ò»¸öÊ¡·İ¹¤×÷ÒÔ·¢Õ¹ÎÄ»¯¿Æ¼¼.;;;;;;;;;;X
-action_improve_rel_relations_desc;ÈÃÄãµÄ[GetLordSpiritualName]´øÁìÒ»¸öĞŞÊ¿´ú±íÍÅÈ¥Óëµ±µØµÄÉñÖ°ÈËÔ±£¨ÓÈÆä¶Ô×Ú½ÌÁìĞäÓĞÓÃ£©½øĞĞ×Ú½Ì±çÂÛ¡£;;;;;;;;;;X
+action_inquisition_desc;½«ÄãµÄ [GetMyLordSpiritualName] ÅÉµ½ÄÇÈºÃÔÊ§µÄ¸áÑòËùÔÚµÄÊ¡·İ, ×ª»¯Òì¶ËºÍÒì½ÌÍ½.;;;;;;;;;;X
+action_advance_cul_tech_desc;½«ÄãµÄ [GetMyLordSpiritualName] ÅÉµ½Ò»¸öÊ¡·İ¹¤×÷ÒÔ·¢Õ¹ÎÄ»¯¿Æ¼¼.;;;;;;;;;;X
+action_improve_rel_relations_desc;ÈÃÄãµÄ[GetMyLordSpiritualName]´øÁìÒ»¸öĞŞÊ¿´ú±íÍÅÈ¥Óëµ±µØµÄÉñÖ°ÈËÔ±£¨ÓÈÆä¶Ô×Ú½ÌÁìĞäÓĞÓÃ£©½øĞĞ×Ú½Ì±çÂÛ¡£;;;;;;;;;;X
 job_spiritual;¹¬Í¢ÄÁÊ¦;;;;;;;;;;X
 mastermind_theologian_desc;ÉñÑ§´óÊ¦±»ÈÏÎªÊÇ×î¶¥¼âµÄ×Ú½Ì·½ÃæµÄÑ§ÕßÖ®Ò»¡£;;;;;;;;;;X
 CHOOSE_AMBITION;§Gµã»÷ÒÔÑ¡ÔñÒ»ÏîÄ¿±ê§!;;;;;;;;;;X
