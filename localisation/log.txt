@@ -5767,7 +5767,6 @@ Marked: MonksAndMystics.csv (1015): hunt_platypus_DESC
 Marked: MonksAndMystics.csv (1016): hunt_platypus_TOOLTIP 
 Marked: MonksAndMystics.csv (1017): convert_to_liege_culture_on_liege 
 Marked: MonksAndMystics.csv (1018): convert_to_liege_culture_on_liege_named 
-Marked: MonksAndMystics.csv (1019): gov_aztec_empire 
 Marked: MonksAndMystics.csv (1020): AIREASON_STATIC_BACKER 
 Marked: MonksAndMystics.csv (1021): SOCIETIES_VIEW_MEMBER_SCORE_TITLE 
 Marked: MonksAndMystics.csv (1022): MEMBER_SCORE_FROM_ATTRIBUTE 
@@ -10816,8 +10815,6 @@ Marked: MonksAndMystics.csv (6074): secret_religious_society_zikri_leader_desc
 Marked: MonksAndMystics.csv (6075): secret_religious_society_zun_pagan_leader_desc 
 Marked: MonksAndMystics.csv (6076): temple_baron_female_christian 
 Marked: MonksAndMystics.csv (6077): String_spahis 
-Marked: v1_06.csv (553): d_hashshashin 
-Marked: v1_06.csv (690): EVTDESC38304 
 Marked: v1_07.csv (90): EVTDESC8076 
 Marked: v1_07.csv (92): EVTDESC8081 
 Marked: v1_07.csv (94): EVTDESC8086 
