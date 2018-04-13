@@ -75,40 +75,40 @@ d_yatviags;т╪льн╛╤В╦Я;;;;;;;;;;X
 d_pechenegs;еЕгпдЫ╦Я;;;;;;;;;;X
 e_seljuk_turks;хШаП╧е╣ш╧З;;;;;;;;;;X
 action_settle_tribe;╤╗╬с╡©бД;;;;;;;;;;X
-action_settle_tribe_desc;ж╦еидЦ╣д [GetTreasurerName] ╫╚╡©бД╟╡╤ытз╡╝╬ТаЛжз, тЖ╪с╠╬╣ьнд╩╞╠ДЁи ╖Y[Culture.GetName]╖!╣д╪╦бй.;;;;;;;;;;X
+action_settle_tribe_desc;ж╦еидЦ╣д [GetMyTreasurerName] ╫╚╡©бД╟╡╤ытз╡╝╬ТаЛжз, тЖ╪с╠╬╣ьнд╩╞╠ДЁи ╖Y[Culture.GetName]╖!╣д╪╦бй.;;;;;;;;;;X
 EVTNAME925;╡©бД╤╗╬с;;;;;;;;;;X
 EVTDESC925;╫╚╡©бД╟╡╤ытз [Root.Location.GetName]╣де╛а╕ц╩сп╟в╥я! нр╣даЛжВ╩А╦ъпк╣д!;;;;;;;;;;X
 EVTOPTA925;[Root.Liege.Culture.GetName] ╣днд╩╞╦Эсет╫;;;;;;;;;;X
-EVTDESC20205;нр╣д [Root.GetTreasurerName], [From.GetTitledFirstName], ╪╓╤╞╣дм╗ж╙к╣ [From.Location.GetName]╟╡╤ыакпМ╤Ю [Root.Culture.GetName] ╪рм╔. ╠╬╣ьхквНЁУспп╘╣жжф,╣╚хт╫сйэакнрцг╣дсОят╨м╥Гкв!;;;;;;;;;;X
+EVTDESC20205;нр╣д [Root.GetMyTreasurerName], [From.GetTitledFirstName], ╪╓╤╞╣дм╗ж╙к╣ [From.Location.GetName]╟╡╤ыакпМ╤Ю [Root.Culture.GetName] ╪рм╔. ╠╬╣ьхквНЁУспп╘╣жжф,╣╚хт╫сйэакнрцг╣дсОят╨м╥Гкв!;;;;;;;;;;X
 EVTOPTA20205;[From.GetFirstName] р╩хГ╪хмЫ╣д©и©©.;;;;;;;;;;X
-EVTNAME20206;[Root.GetTreasurerName] йэик;;;;;;;;;;X
+EVTNAME20206;[Root.GetMyTreasurerName] йэик;;;;;;;;;;X
 EVTDESC20206;[Root.Location.GetName]╣д╠╬╣ьхк, рРт╫ю╢т╫╤Ю╣д[Root.Liege.Culture.GetName] ╤╗╬с╦п╣╫╥ъе╜, ╡Н╣Ци╠акнр! нрик╣╫ак╪Г╟Р╣╚╩╧йглсЁЖю╢ак.;;;;;;;;;;X
 EVTOPTA20206;р╡╡╩дэх╚╧жкШцг..;;;;;;;;;;X
-EVTDESC20207;нр╣д [Root.GetTreasurerName], [From.GetTitledFirstName], ╠╩[From.Location.GetName]╠╬╣ьхк╣жжфмБю╢╤╗╬суъ╣д╧ЩЁлжпик╣╫ак.;;;;;;;;;;X
+EVTDESC20207;нр╣д [Root.GetMyTreasurerName], [From.GetTitledFirstName], ╠╩[From.Location.GetName]╠╬╣ьхк╣жжфмБю╢╤╗╬суъ╣д╧ЩЁлжпик╣╫ак.;;;;;;;;;;X
 EVTOPTA20207;╡╒╥грБаож╝мБ..;;;;;;;;;;X
 action_build_legend;╦Хкл╢╚фФйб╪ё;;;;;;;;;;X
 EVTNAME20208;упд╪сбй©;;;;;;;;;;X
 EVTDESC20208;нртз[Root.Liege.GetTitledFirstName]╦Хкл╢╚фФйб╪ёх║╣цак╬ч╢СЁип╖.р╩╧исбй©г╟ю╢ [Root.Location.Capital.GetName]в╪╠╦м╤иМн╟╢Сйбр╣!;;;;;;;;;;X
 EVTOPTA20208;нр╣д [Root.Liege.PrimaryTitle.GetRulerTitle] ╩А╦ъпк╣д!;;;;;;;;;;X
-EVTDESC20209;нр╣д[Root.GetTreasurerName], [From.GetTitledFirstName], ╦Фкънр[From.GetPossPronoun] е╛а╕ц╩сп╟в╥ятзпШ╢╚нр╣д╧╕╪╗ио!р╩п║╧исбй©г╟ю╢ [Root.Capital.Capital.GetName] н╙нрвВу╫. нрж╩пХр╙тз╫ЭфзлА╧╘╦ЬкШцгуБяЫ╩З╩А,╡╩х╩йбгИ╬мбИ╥Ёак..;;;;;;;;;;X
+EVTDESC20209;нр╣д[Root.GetMyTreasurerName], [From.GetTitledFirstName], ╦Фкънр[From.GetPossPronoun] е╛а╕ц╩сп╟в╥ятзпШ╢╚нр╣д╧╕╪╗ио!р╩п║╧исбй©г╟ю╢ [Root.Capital.Capital.GetName] н╙нрвВу╫. нрж╩пХр╙тз╫ЭфзлА╧╘╦ЬкШцгуБяЫ╩З╩А,╡╩х╩йбгИ╬мбИ╥Ёак..;;;;;;;;;;X
 EVTOPTA20209;╨э╨ц!;;;;;;;;;;X
-EVTDESC20217;нр╣д [Root.GetTreasurerName]упд╪в╪╠╦╨цн╙нрвВу╫╣дсбй©╤тнр╨мф╫жВрЕ╣дппн╙╦п╣╫й╖мШ╩ь╪р,╤╙╬║акнр╣даЁ.;;;;;;;;;;X
+EVTDESC20217;нр╣д [Root.GetMyTreasurerName]упд╪в╪╠╦╨цн╙нрвВу╫╣дсбй©╤тнр╨мф╫жВрЕ╣дппн╙╦п╣╫й╖мШ╩ь╪р,╤╙╬║акнр╣даЁ.;;;;;;;;;;X
 EVTOPTA20217;х╔кШцг╣д!;;;;;;;;;;X
 action_build_zeal;пШ╢╚вз╫л©Яхх;;;;;;;;;;X
 EVTNAME20218;упд╪Р╞пеуъ;;;;;;;;;;X
 EVTDESC20218;нрЁи╧╕╣дтз [Root.Location.GetName] ╣дхкцЯжпв╒хКаквз╫л╣д©Яхх. [Root.Liege.Religion.GetRandomGodName]Р╞Ёо╣дсбй©кФй╠в╪╠╦╨ц╤т©╧рЛ╫лм╫!;;;;;;;;;;X
 EVTOPTA20218;нр╣д [Root.Liege.PrimaryTitle.GetRulerTitle] ╩А╦ъпк╣д!;;;;;;;;;;X
-EVTDESC20219;нр╣д [Root.GetLordSpiritualName] [From.GetTitledFirstName] ╦Фкъакнр [From.GetPossPronoun] е╛а╕╩Я╣цак╬ч╢С╣дЁи╧╕ё║хкцг╣двз╫лххгИ╠╩╧д╤╞акфПю╢║ёр╩п║╤с©Яхх╣ду╫й©ря╬╜╬ш╪╞тзак [Root.Capital.Capital.GetName] в╪╠╦н╙нрп╖цЭ║ёожтзнрж╩пХр╙х╔урп╘рЛ╫лм╫хцкШцг╥╒п╧ё╛╡╩х╩уБп╘й©╠Ь╬м╩Апк╬║и╒х╔║ё;;;;;;;;;;X
+EVTDESC20219;нр╣д [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] ╦Фкъакнр [From.GetPossPronoun] е╛а╕╩Я╣цак╬ч╢С╣дЁи╧╕ё║хкцг╣двз╫лххгИ╠╩╧д╤╞акфПю╢║ёр╩п║╤с©Яхх╣ду╫й©ря╬╜╬ш╪╞тзак [Root.Capital.Capital.GetName] в╪╠╦н╙нрп╖цЭ║ёожтзнрж╩пХр╙х╔урп╘рЛ╫лм╫хцкШцг╥╒п╧ё╛╡╩х╩уБп╘й©╠Ь╬м╩Апк╬║и╒х╔║ё;;;;;;;;;;X
 EVTOPTA20219;тчцю[Root.Religion.GetRandomGodName]!;;;;;;;;;;X
-EVTDESC20220;[Root.GetLordSpiritualName]Р╞Ёо╣дсбй©г╟ю╢н╙ [Root.Religion.GetRandomGodName] вВу╫. ╣╚нр╬э╬Ь╥╒фПй╔у╫╣дппн╙хцкШцг╠ирд,╥в╥ви╒х╔.нртзм╛взюО╣дцШиЫйэ╣╫аккП╨╕.;;;;;;;;;;X
+EVTDESC20220;[Root.GetMyLordSpiritualName]Р╞Ёо╣дсбй©г╟ю╢н╙ [Root.Religion.GetRandomGodName] вВу╫. ╣╚нр╬э╬Ь╥╒фПй╔у╫╣дппн╙хцкШцг╠ирд,╥в╥ви╒х╔.нртзм╛взюО╣дцШиЫйэ╣╫аккП╨╕.;;;;;;;;;;X
 EVTOPTA20220;к╣╨ц╣ддмпдйгцю╣бдь!?;;;;;;;;;;X
 action_organize_raid;вИж╞╫ыбс;;;;;;;;;;X
 EVTNAME20221;вИж╞╫ыбсме;;;;;;;;;;X
 EVTDESC20221;нчятнч╥╗цХйЖтз [Root.Location.GetName]вИж╞акр╩╢С╧и╫ыбсме╣дцюцН. уБп╘хк╡╩╩АтзуБ╦и╣хве╣д..;;;;;;;;;;X
 EVTOPTA20221;нр╣д [Root.Liege.PrimaryTitle.GetRulerTitle] ╩А╦ъпк╣д!;;;;;;;;;;X
-EVTDESC20222;нр╣д [Root.GetMarshalName], [From.GetTitledFirstName], вИж╞акпМ╤Ю╡нсК╫ыбс╣дсбй©, кШцгфз╢Щвехыр╚,╡ф╦╩сКиуи╠гюбс. нр╡╩дэхцуБп╘╨ц╨╨╣х╣дл╚╬ц!;;;;;;;;;;X
+EVTDESC20222;нр╣д [Root.GetMyMarshalName], [From.GetTitledFirstName], вИж╞акпМ╤Ю╡нсК╫ыбс╣дсбй©, кШцгфз╢Щвехыр╚,╡ф╦╩сКиуи╠гюбс. нр╡╩дэхцуБп╘╨ц╨╨╣х╣дл╚╬ц!;;;;;;;;;;X
 EVTOPTA20222;©ио╡©и╨ь!;;;;;;;;;;X
-EVTDESC20224;нр╣д [Root.GetMarshalName] вИж╞╣д╫ыбсме╠╬╦цйг╬ш╪╞фПю╢н╙нрвВу╫. ╣╚Ё╓╬ц╣д╨мф╫й╧╣цкШцгяА╬К,╩ьх╔еЦ╪рхкак. ╩ьх╔ж╝г╟╩╧кЁвъакпМ╤Ю╡ф╦╩нОвй!;;;;;;;;;;X
+EVTDESC20224;нр╣д [Root.GetMyMarshalName] вИж╞╣д╫ыбсме╠╬╦цйг╬ш╪╞фПю╢н╙нрвВу╫. ╣╚Ё╓╬ц╣д╨мф╫й╧╣цкШцгяА╬К,╩ьх╔еЦ╪рхкак. ╩ьх╔ж╝г╟╩╧кЁвъакпМ╤Ю╡ф╦╩нОвй!;;;;;;;;;;X
 EVTOPTA20224;п║м╣ё║ъюё╛╨ц╟и║╜║╜;;;;;;;;;;X
 CHRONICLE_PLAYER_INHERITANCE_NORMAL; [From.GetTitledName] [From.GetDeathReason] тз [GetDateText]. [From.GetPossPronounCap] [GetFromReverseRelation], [Root.GetFirstName], ╪лхн [From.PrimaryTitle.GetTier] тз [Root.Capital.Capital.GetName] хыр╚╣д╪сцА.;;;;;;;;;;X
 CHRONICLE_PLAYER_INHERITANCE_NEW_RELIGION; тз [GetDateText], [From.GetTitledName] [From.GetDeathReason]. [From.GetSubjectPronounCap] си [From.GetPossPronoun] [Root.Religion.GetName] [Root.Religion.GetGroupName] [GetFromReverseRelation] [Root.GetFirstName] ╪лхн.;;;;;;;;;;X
@@ -321,7 +321,7 @@ CHRONICLE_WON_BATTLE_BUT_DIDNT_FIGHT; [Root.TopLiege.GetTitledName] си [Root.Get
 CHRONICLE_LOST_BATTLE_BUT_DIDNT_FIGHT; [Root.TopLiege.GetTitledName] си [Root.GetTitledName] бйаЛ╣д╬Э╤с, йДактз [Root.Location.GetName] ╤т©╧ [From.TopLiege.PrimaryTitle.GetName] ╬Э╤с╣ду╫╤╥.;;;;;;;;;;X
 EVTOPTM96500;╤╛╪╬╣ьпн╢Сй╕;;;;;;;;;;X
 in_hiding_desc;уБ╦Ж╫ги╚╤Ц╣╫ак╡ьиМ╢╕рт╠э©╙уК╤т [GetHerHis]рУд╠. уБй╧╣ц [GetHerHim] дярт╠╩╢ли╠, ╣╚╡ьдДжп╣дхкиЗ╡╒╡╩╨ц╧Щ..;;;;;;;;;;X
-INTERACTION_NOT_IN_HIDING;д©╠Й╡╩тз╡ьдДжп;;;;;;;;;;X
+INTERACTION_NOT_IN_HIDING;д©╠Й╡╩тз╡ьдДжп\n;;;;;;;;;;X
 zun_judgement;╠╩╢СвПиСеп;;;;;;;;;;X
 IS_DYING;©Лкюак;;;;;;;;;;X
 ISNT_DYING;ц╩сп©Лкю;;;;;;;;;;X

@@ -5,9 +5,9 @@ REBEL_TITLE;[Recipient.PrimaryTitle.GetAdjective] ея╬Э;;;;;;;;;;X
 opinion_rebel_leader;ея╬ЭйваЛ;;;;;;;;;;X
 opinion_fellow_rebel;ея╬ЭЁит╠;;;;;;;;;;X
 CHECKBOX_COMPRESSED_SAVEGAMES;я╧кУсно╥йЩ╬щ;;;;;;;;;;X
-EVTDESC75041;[Root.GetLordSpiritualName] [From.GetTitledFirstName] к╣:'жВ╬Щ! ╧╛м╒юОспрЛ╫лм╫.'\n'нрр╙гСдЦ╫╚кШ╟Сио╩ПплжЫ!';;;;;;;;;;X
-EVTDESC75042;[Root.GetLordSpiritualName] [From.GetTitledFirstName] к╣:'жВ╬Щ! ╧╛м╒юОспрЛ╫лм╫.'\n'нрр╙гСдЦ╫╚кШгЩжПЁЖх╔!';;;;;;;;;;X
-EVTDESC75051;[Root.GetLordSpiritualName] [From.GetTitledFirstName] гдгд╦Фкънр:'жВ╬Щ! ╧╛м╒юОспрЛ╤к.'\n'нрхон╙дЦвН╨ц╫╚кШ╢╕рт╩Ппл, ртысп╖сх!';;;;;;;;;;X
+EVTDESC75041;[Root.GetMyLordSpiritualName] [From.GetTitledFirstName] к╣:'жВ╬Щ! ╧╛м╒юОспрЛ╫лм╫.'\n'нрр╙гСдЦ╫╚кШ╟Сио╩ПплжЫ!';;;;;;;;;;X
+EVTDESC75042;[Root.GetMyLordSpiritualName] [From.GetTitledFirstName] к╣:'жВ╬Щ! ╧╛м╒юОспрЛ╫лм╫.'\n'нрр╙гСдЦ╫╚кШгЩжПЁЖх╔!';;;;;;;;;;X
+EVTDESC75051;[Root.GetMyLordSpiritualName] [From.GetTitledFirstName] гдгд╦Фкънр:'жВ╬Щ! ╧╛м╒юОспрЛ╤к.'\n'нрхон╙дЦвН╨ц╫╚кШ╢╕рт╩Ппл, ртысп╖сх!';;;;;;;;;;X
 TITLE_HAS_NO_HOLDER;╡╩©и╟Ч╤АнчжВм╥он.;;;;;;;;;;X
 LOADING_TIP_54;дбк╧аж©иртх╔бС╪сЁ╞ЙН, рт╟змя╦╞╩╞льжй.;;;;;;;;;;X
 TITLE_CANNOT_USURP_PRIMARY_OFF_OTHER_REL;╖R╣╠рЛ╫л╫ги╚хтс╣спм╥он╥╗юМобаЛ╣ьй╠нч╥╗╢ш╤А.╖!;;;;;;;;;;X
@@ -768,7 +768,7 @@ EVTOPTA_RoI_226;[Root.Spouse.GetSheHe]о╡╩╤уБ╪ЧюЯнО,й╣тзл╚╨цак!;;;;;;;;;;X
 EVTDESC_RoI_228;дЦ╣д[Root.Spouse.GetHusbandWife]цФ╢ЬюА╨шю╢╪ШдЦ.[Root.Spouse.GetSheHe]╦ФкъдЦ,дЦ╦Ь[Root.Spouse.GetHerHim]╣двЙй╞тз[Root.Spouse.GetSheHe]фОбМ╣дй╠╨Ррей╖ак.ц╩сп╥╒ожхн╨ноъкВ.;;;;;;;;;;X
 EVTOPTA_RoI_228;е╤,╡╩!;;;;;;;;;;X
 EVTDESC_RoI_230;дЦр╩ж╠╣ёпдведЦ╣д[Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName].вН╫Э,  [Root.Spouse.GetSheHe] вэйг╢Ттз [Root.Spouse.GetHerHis] ╥©юО, ╟ямФ [Root.Spouse.GetHerHis] дг©евЙй╞,╤Ьгр╤т [Root.Spouse.GetHerselfHimself]к╣вей╡ц╢. [Root.Spouse.GetSheHe] иУжа╤тдЦ╤т [Root.Spouse.GetHerHim]╣дх╟╫Кр╡╡╩иопд.;;;;;;;;;;X
-EVTOPTA_RoI_230;[Root.Spouse.GetSheHe] ╠╩╤Авъак!;;;;;;;;;;X
+EVTOPTA_RoI_230;[Root.Spouse.GetSheHeCap] ╠╩╤Авъак!;;;;;;;;;;X
 EVTDESC_RoI_232;йлнюЁ╓бЗм╥╢С╨╧г╟ю╢╦ФкъдЦ,[Root.Spouse.GetTitledFirstName]кюсз╟К╣югю╫ы,г©╣айтм╪╤Авъдг©евЙй╞!пр╨ц,╣╠г©╣ав╪╠╦лсеэ╣дй╠╨Р,уЩ╨цр╩╤сй©╠Ьб╥╧Щ,оШцПакг©╣а.;;;;;;;;;;X
 EVTOPTA_RoI_232;Ю╦!;;;;;;;;;;X
 EVTDESC_RoI_240;╢сд©г╟╣дгИ©Ж©╢,дг©евЙй╞кф╨У╩А╦Ьхк╢Ью╢╤Ятк.╪╦╦Ж╫с╢╔╧ЩкЭ╣дфмхк╤╪кюак.╨э╤Юхк╤╪к╣вЙй╞╠╩й╘аквГжД,кЭ╩А╩ыакдЦвт╪╨иУжадЦ╣д╪рвЕ.лЩ╣╫уБп╘аВят,дЦ©╙й╪╣ёпдфПю╢.;;;;;;;;;;X

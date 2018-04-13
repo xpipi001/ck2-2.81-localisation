@@ -21,8 +21,8 @@ MATCHMAKING_SERVER_HOST_TITLE;主要设置;;;;;;;;;;X
 SAMRAT_CHAKRAVARTIN;转轮圣王;;;;;;;;;;X
 SAMRAJNI_CHAKRAVARTIN;转轮圣后;;;;;;;;;;X
 CHARVIEW_RELATIONS;人际关系;;;;;;;;;;X
-ADD_FRIEND_EFFECT;$WHO$和$OTHER$成为了亲密的朋友。\n;;;;;;;;;;X
-REMOVE_FRIEND_EFFECT;$WHO$和$OTHER$的友谊破裂了。\n;;;;;;;;;;X
+ADD_FRIEND_EFFECT;$WHO$和$OTHER$成为了亲密的朋友。\n;;;;;;;;;;X
+REMOVE_FRIEND_EFFECT;$WHO$和$OTHER$的友谊破裂了。\n;;;;;;;;;;X
 ADD_RIVAL_EFFECT;$WHO$和$OTHER$变成了仇敌。\n;;;;;;;;;;X
 REMOVE_RIVAL_EFFECT;$WHO$和$OTHER$冰释前嫌。\n;;;;;;;;;;X
 AIREASON_GLAD_TO_TAKE_HOSTAGE;倾向于扣留人质;;;;;;;;;;X
