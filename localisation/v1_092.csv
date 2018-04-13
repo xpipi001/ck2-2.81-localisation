@@ -1,5 +1,5 @@
-NOT_IN_DYNASTY;不是该家族的成员;;;;;;;;;;X
-IN_DYNASTY;是该家族的成员;;;;;;;;;;X
+NOT_IN_DYNASTY;不是$DYNASTY|Y$家族的成员;;;;;;;;;;X
+IN_DYNASTY;是$DYNASTY|Y$家族的成员;;;;;;;;;;X
 REALM_SIZE_LESS;领地面积小于$VAL$;;;;;;;;;;X
 REALM_SIZE_LEAST;领地面积大于$VAL$;;;;;;;;;;X
 tut_6a_6;罗斯西边的南岛似乎是个不错的目标，可以扩张我们的领土。另外，该地部队人数也不是很多。点击那个省份。;;;;;;;;;;X

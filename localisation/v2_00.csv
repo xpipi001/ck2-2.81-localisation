@@ -335,7 +335,7 @@ EVTOPTA_SOA_4133;很耗！;;;;;;;;;;X
 EVTDESC_SOA_4134;派往[From.GetName]的神学家们说服了异端们回到正道，凯旋而归。;;;;;;;;;;X
 EVTOPTA_SOA_4134;赞美[Root.Religion.GetRandomGodName]！;;;;;;;;;;X
 EVTTITLE_SOA_4200;[From.Religion.GetName]获得胜利;;;;;;;;;;X
-EVTDESC_SOA_4200;[FromFrom.Religion.GetName]信仰的拥护者正在慢慢减少，[From.Religion.GetName]的信徒已成为主流。这一情况使得[FromFrom.Religion.GetName]成为了事实上的异端！所有之前信仰[FromFrom.Religion.GetName]的圣战士，如今都会为[From.Religion.GetName]而战。;;;;;;;;;;X
+EVTDESC_SOA_4200;[FromFrom.GetName]信仰的拥护者正在慢慢减少，[From.GetName]的信徒已成为主流。这一情况使得[FromFrom.GetName]成为了事实上的异端！所有之前信仰[FromFrom.GetName]的圣战士，如今都会为[From.GetName]而战。;;;;;;;;;;X
 EVTOPTA_SOA_4200;[From.Religion.GetRandomGodNameCap]棒极了！;;;;;;;;;;X
 EVTOPTB_SOA_4200;[FromFrom.Religion.GetRandomGodNameCap]拯救我们！;;;;;;;;;;X
 EVTOPTC_SOA_4200;我才不关心这群蠢货的争吵;;;;;;;;;;X
@@ -832,7 +832,7 @@ asked_to_nominate_bishop;要求你任命主教;;;;;;;;;;X
 SHOW_COLLEGE_OF_CARDINALS;枢机教团;;;;;;;;;;X
 BACK_TO_RELIGION_VIEW;回到宗教视图;;;;;;;;;;X
 CAMPAIGN_FUND_CARDINALS_DESC;选举基金里钱的多少决定着你在教会影响力的大小，还关乎你支持的候选人当选下任$RULER_TITLE$可能性。你可以在下任$RULER_TITLE$的选举结果公布之前随意调整数量。届时，不管成功与否，花掉的选举基金覆水难收。;;;;;;;;;;X
-EVTDESC_SoA_107;你的领主，[Root.Liege.GetTitledFirstName]，颁布法令驱逐境内所有无封地的犹太人，他们藐视王权并造成诸般怨忿。;;;;;;;;;;X
+EVTDESC_SoA_107;你的领主，[From.GetTitledFirstName]，颁布法令驱逐境内所有无封地的犹太人，他们藐视王权并造成诸般怨忿。;;;;;;;;;;X
 EVTOPTA_SoA_107;我明白了。;;;;;;;;;;X
 EVTOPTB_SoA_107;真是忧伤，就是说我的贷款收不回来了吗…;;;;;;;;;;X
 EVTDESC_SoA_108;[Root.TopLiege.GetTitledFirstName], 你的领主已经决定撤回驱逐犹太人的法令.他们再一次能合法的在我国内居住和工作了.;;;;;;;;;;X

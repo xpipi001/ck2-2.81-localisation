@@ -99,7 +99,7 @@ tp_shipyard_2;иЯцМ╢╛нК;;;;;;;;;;X
 tp_shipyard_3;иЯцМ╢╛нК;;;;;;;;;;X
 tp_shipyard_4;иЯцМ╢╛нК;;;;;;;;;;X
 shipyard_desc;йЛа╥╣дтЛ╢╛╧╓хктзуБюОе╛а╕╧╓вВё╛╫╗тЛ╦Вжжт╤╨╫╢╛╡╟.;;;;;;;;;;X
-TOGGLE_LOOTER;в╙╩╩Ёи╫ыбсдёй╫;;;;;;;;;;X
+TOGGLE_LOOTER;╖Yв╙╩╩Ёи╫ыбсдёй╫╖!;;;;;;;;;;X
 REL_AUTHORITY_CHANGE;╖Y$RELIGION$╖!: $PERC$  вз╫лх╗мЧ ╖Y$TIME$╖! $TIMEUNIT$.\n;;;;;;;;;;X
 IS_HOLY_CITY_FOR_RELIGION;╖Y$RELIGION$╖!пеяЖхон╙╖Y$HOLDING$╖!йгр╩╢╕й╔╣ь;;;;;;;;;;X
 IS_HOLY_CITY_FOR_RELIGION_2;кШцг©ьжфакуБ©И╣ь╡З;;;;;;;;;;X

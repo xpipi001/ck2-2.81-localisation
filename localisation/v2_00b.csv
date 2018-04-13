@@ -16,19 +16,19 @@ EVTDESC_SOA_1809;р╩п╘╡╗к╧╣дсепЦу╫й©вт╥╒╫╗а╒акж╪тзн╙╨╢ню[Root.Religion.GetName]пе
 EVTDESC_SOA_1209;р╩х╨йТсзку╥феи╣д╣б╤Шн╛оёмп╡╖и╝тзр╩н╩ю╢вт╨Тбчи╨╣дцШн╙╧Ч╪╙║╓╣диЯцьжВрЕуъаЛ╣╪обАхфП║ён╙║╟мРнО╨ор╩║╠╤Ь╡╩п╦╥э╤╥╣дм╛й╠ё╛╟щ©ккЧй╡╫лмем╗╧Щз╓оК╨мк╪кВ╧ею╪╬╜╫лрЕ╣дрЧ╡ь╨╛рЕю╢д╔а╥вт╪╨╣даИ╩Й║ё╟щ©ккЧй╡╫лмей╝╥ж╨цу╫ё╛╤Ьгртз[Root.Religion.GetName]дбк╧ажй©╠ЬжпсхфДйэ╩╤с╜║ё╟щ©ккЧй╡╫лмепШйд╨╢нюрак╧ю╪╫л╡╒сК╦Вжж╦ВяЫ╣дрЛ╤к╨м╤ЮиЯ╫лм╫вВу╫║ё;;;;;;;;;;X
 EVTDESC88000;сп╦ЖоШо╒аВ╢╚иУ╧Цё╨р╩н╩[Root.Religion.GetName]пШ╫лй©╧Чиё║╓ра╠╬║╓хЬ╟м╧ЧрятзнВ╡╗к╧дЁ╢╕Ёиа╒р╩╦Жпб╣дцШн╙╟╒хЬпаеи╣д╫лме║ём╗╧Щй╧сц╦ВюЮфшу╘йж╤нё╛уБ╩ОиЯць╣дё╛сия╣а╥спкь╣ди╠йжвИЁи╣д©Яхх╥жвсря╬╜у╪аЛак╟╒ю╜дбль╣ди╫╪Др╙хШё╛╡╒╟я╦ц╣ьиХн╙кШцг╫лме╣двэ╡©║ёж╩спп║╡©╥ж╡п╠╘╣дпвм╫дэ╧╩Ёин╙╧Чиёнчк╫╣д╨мнчн╥╣дпем╫......;;;;;;;;;;X
 donate_money_to_assassins;╬Хов 300╓ ╦Ь╧ЧхЬпаеи;;;;;;;;;;X
-donate_money_to_assassins_desc;нр©ирт╬Хг╝╦Ь╧ЧхЬпаеию╢╩╩х║[Player.Religion.GetPietyName]Р╞Ёо╤х;;;;;;;;;;X
+donate_money_to_assassins_desc;╬Хг╝╦Ь╧ЧхЬпаеию╢╩╩х║[Player.Religion.GetPietyName]Р╞Ёо╤х;;;;;;;;;;X
 donate_money_to_bektashi;╬Хов 300╓ ╦Ь╟щ©ккЧй╡╫лме;;;;;;;;;;X
-donate_money_to_bektashi_desc;нр©ирт╬Хг╝╦Ь╟щ©ккЧй╡╫лмею╢╩╩х║[Player.Religion.GetPietyName]Р╞Ёо╤х;;;;;;;;;;X
+donate_money_to_bektashi_desc;╬Хг╝╦Ь╟щ©ккЧй╡╫лмею╢╩╩х║[Player.Religion.GetPietyName]Р╞Ёо╤х;;;;;;;;;;X
 donate_money_to_knights_templar;╬ХтЫ 300╓ ╦Ьй╔╣НфОй©ме;;;;;;;;;;X
-donate_money_to_knights_templar_desc;нр©иртм╗╧Щ╬Хг╝╦Ьй╔╣НфОй©мерт╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_knights_hospitaler_desc;нр©ирт╬Хг╝╦Ьр╫т╨фОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_teutonic_order_desc;нр©ирт╬Хг╝╦ЬлУ╤ыфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_knights_santiago_desc;нр©ирт╬Хг╝╦Ьй╔╣ьяг╦ГфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_knights_calatrava_desc;нр©ирт╬Хг╝╦Ь©╗юу╤Юю╜╟мфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_holy_sepulchre_desc;нр©ирт╬Хг╝╦Ьй╔д╧пж╣э╩Аю╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_saint_anthony_desc;нр©ирт╬Хг╝╦Ьй╔╟╡╤╚дАфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_the_immortals_desc;нр©ирт╬Хг╝╦ЬЁ╓иЗ╬Эю╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
-donate_money_to_the_zealots_desc;нр©ирт╬Хг╝╦Ь╥эхЯ╣Ёю╢╩╩х║ [Root.Religion.GetPietyName]Р╞Ёо╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_knights_templar_desc;м╗╧Щ╬Хг╝╦Ьй╔╣НфОй©мерт╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_knights_hospitaler_desc;╬Хг╝╦Ьр╫т╨фОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_teutonic_order_desc;╬Хг╝╦ЬлУ╤ыфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_knights_santiago_desc;╬Хг╝╦Ьй╔╣ьяг╦ГфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_knights_calatrava_desc;╬Хг╝╦Ь©╗юу╤Юю╜╟мфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_holy_sepulchre_desc;╬Хг╝╦Ьй╔д╧пж╣э╩Аю╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_saint_anthony_desc;╬Хг╝╦Ьй╔╟╡╤╚дАфОй©мею╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_the_immortals_desc;╬Хг╝╦ЬЁ╓иЗ╬Эю╢╩╩х║Р╞Ёо╤х╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
+donate_money_to_the_zealots_desc;╬Хг╝╦Ь╥эхЯ╣Ёю╢╩╩х║ [Root.Religion.GetPietyName]Р╞Ёо╨м[Root.Religion.GetName]╫л╩А╤тнржуиЗ╣двПжь║ё;;;;;;;;;;X
 EVTDESC_SOA_1841;н╟╢С╣д[Root.PrimaryTitle.GetRulerTitle]ё╛дЗ╪╚фД©╤©╝╣д╬ХтЫ╫╚╩А╤тнрцгжрЁо╣ь╨╢ню[Root.Religion.GetName]╢СспЯтрФё║дЗ╫╚йу╩Янррт╪╟╪юк╬╣дсярЙ║ё\n\ф╬╫ХкЖбчягк╧╣бж╝рБж╬ё╛\nвэмеЁ╓[From.GetFirstName];;;;;;;;;;X
 EVTDESC_SOA_1941;н╟╢С╣д[Root.PrimaryTitle.GetRulerTitle]ё╛дЗ╪╚фД©╤©╝╣д╬ХтЫ╫╚╩А╤тнрцг╠ёнюр╝б╥хЖюДё╛╣зхЩй╔╣Нрт╪╟╨╢ню[Root.Religion.GetName]пеяЖ╢СспЯтрФё║дЗ╫╚йу╩Янрё╛а╛м╛╪юЛК╣дсярЙ║ё\n\╪гв║тзбМхЬ╢ОтЬ╬╜╣д╩т╩м╟иё║\nвэмеЁ╓[From.GetFirstName];;;;;;;;;;X
 PREVENT_DECADENCE;╢к╫ги╚╡╩йгтЛЁифД╪рвЕк╔бД╣двО©Щ╩Жйв║ё;;;;;;;;;;X

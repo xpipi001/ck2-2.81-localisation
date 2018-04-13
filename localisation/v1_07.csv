@@ -88,15 +88,15 @@ EVTDESC8036;[Root.GetFirstName], нрж╦©ьдЦйг╦Жгтх╗╣дп║м╣ё║нр╨мфДкШ╣д╧СвЕхой╤╣╫ё╛ 
 EVTDESC8061;дЦ╤т [Root.SupportedClaimant.GetTitledName] ╣дж╖ЁжаНхкуП╬╙. нчбшхГ╨нё╛н╙акй╧╧З╪рцБтБдзу╫╣дм©л©, нр╫╚иАфЗ[Root.SupportedClaimant.GetPossPronoun].\n\nг╘йПхк,\n[From.GetTitledName];;;;;;;;;;X
 EVTDESC8069;дЦпеяЖ╣дх╠й╖хцвВн╙╥Б╬Щ╣днр╦п╣╫икпд, ╣╚йгнрхой╤╣╫дЦ©ймШ╪лпЬвъдЦвт╪╨╣дб╥. ╪хх╩хГ╢кё╛нр╤тдЦ╣д╠ё╩╓╨мсярЙ╤╪╫╚Ёин╙юЗй╥.\n\nг╘йПхк,\n[From.GetTitledName];;;;;;;;;;X
 EVTDESC8075;н╙ак╠эцБдзу╫к╨кИуШ╦Ж╧З╪р, [From.GetTitledName] ря╬╜м╛рБ╡исцЁ╓уъ╪лЁп. дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
-EVTDESC8076;[From.GetTitledName] ря╬╜м╛рБакЁ╓уъ╪лЁпеи╣др╙гС. ╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
+EVTDESC8076;╖Y[From.GetTitledName] ╖!ря╬╜м╛рБак╖YЁ╓уъ╪лЁпеи╖!╣др╙гС. ╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
 EVTDESC8080;н╙ак╠эцБдзу╫к╨кИуШ╦Ж╧З╪р, [From.GetTitledName] ря╬╜м╛рБ╡исцЁ╓вс╪лЁп.дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
-EVTDESC8081;[From.GetTitledName] ря╬╜м╛рБакЁ╓вс╪лЁпеи╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
+EVTDESC8081;╖Y[From.GetTitledName]╖! ря╬╜м╛рБак╖YЁ╓вс╪лЁпеи╖!╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
 EVTDESC8085;н╙ак╠эцБдзу╫к╨кИуШ╦Ж╧З╪р, [From.GetTitledName] ря╬╜м╛рБ╡исця║╬ы╪лЁп.дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
-EVTDESC8086;[From.GetTitledName] ря╬╜м╛рБя║╬ы╪лЁпеи╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
+EVTDESC8086;╖Y[From.GetTitledName]╖! ря╬╜м╛рБ╖Yя║╬ы╪лЁпеи╖!╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
 EVTDESC8090;н╙ак╠эцБдзу╫к╨кИуШ╦Ж╧З╪р, [From.GetTitledName] ря╬╜м╛рБ╡исц╥ж╥Б╪лЁп.дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
-EVTDESC8091;[From.GetTitledName]ря╬╜м╛рБак╥ж╥Б╪лЁпеи╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
+EVTDESC8091;╖Y[From.GetTitledName]╖!ря╬╜м╛рБак╖Y╥ж╥Б╪лЁпеи╖!╣др╙гС.╪лЁп╥╗╦д╠Дак.;;;;;;;;;;X
 EVTDESC8095;н╙ак╠эцБдзу╫к╨кИуШ╦Ж╧З╪р, [From.GetTitledName] ря╬╜м╛рБ╫╣╣ммУх╗.дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
-EVTDESC8094;тзр╩╦Жг©╢Сеио╣╣дя╧а╕об, [From.GetTitledName]ря╬╜м╛рБ╫╣╣ммУх╗.;;;;;;;;;;X
+EVTDESC8094;тзр╩╦Жг©╢Сеио╣╣дя╧а╕об, ╖Y[From.GetTitledName]╖!ря╬╜м╛рБ╖Y╫╣╣ммУх╗╖!.;;;;;;;;;;X
 EVTDESC8097;н╙ак╠эцБнч╪шж╣╣ддзу╫, [From.GetTitledName] цВжг╣цм╛рБ╫БЁЩнрцг╣д╥БЁ╪рЕнЯ.дЦтзуБ╢нЁЕм╩жп╧ь╪Э╣дж╖Ёж╫╚╩А╠╩╫В╪г.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;X
 EVTDESC8093;тзр╩╦Жг©╢С╣д╤юа╒еио╣я╧а╕об, [From.GetTitledName] ря╬╜м╛рБ╫БЁЩ [FromFrom.PrimaryTitle.GetFullName] ╨мфДкШЁит╠╣д╥БЁ╪рЕнЯ.;;;;;;;;;;X
 EVTDESC8098;╡╩©ик╪рИ! [From.GetTitledName] ря╬╜цВжг╣цм╛рБдЦ╣др╙гС╡╒╫сйэ [FromFrom.SupportedClaimant.GetTitledName] вВн╙ [FromFrom.SupportedClaimantTitle.GetName]╣даЛжВ. ©╙й╪гЛвё╟и!\n\nг╘йПхк,\n[FromFrom.GetTitledName];;;;;;;;;;X
