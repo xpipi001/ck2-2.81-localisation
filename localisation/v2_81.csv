@@ -20,20 +20,20 @@ is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;没有§Y独眼§!，§Y�
 is_not_maimed_or_infirm_tt;没有§Y残废§!或§Y年老体衰§!\n;;;;;;;;;;X
 is_not_wounded_severely_injured_tt;没有§Y受伤§!或§Y重伤§!\n;;;;;;;;;;X
 EVTTOOLTIP100201;ÊÜ[Root.GetTitledFirstName]ÇëÇó°ïÖú¸Ä½ø½£¼¼;;;;;;;;;;X
-String_personality_old_and_wistful;how old age often makes one wish for times long gone;;;;;;;;;;X
-String_personality_young_cynics;how regressive it can feel to discuss politics with the older generation;;;;;;;;;;X
-String_personality_same_society;the various things we get up to, as members of [This.Society.GetName];;;;;;;;;;X
-String_personality_focus_war;our mutual fascination for battle and strategy;;;;;;;;;;X
-String_personality_focus_hunting;the thrill of hunting, and the outdoors life;;;;;;;;;;X
-String_personality_focus_seduction;the undeniable excitement and joy one gets from pursuing one's true passions, in this earthly life;;;;;;;;;;X
-String_personality_focus_intrigue;the intrigues at court, and an enticing rumor about a certain foreign diplomat;;;;;;;;;;X
-String_personality_focus_carousing;everything that supposedly, and actually, can happen during an extravagant feast;;;;;;;;;;X
-String_personality_focus_family;the value of kinship, and the importance of family;;;;;;;;;;X
-String_personality_focus_theology;ways to interpret a holy text, and the comforting aspects of faith;;;;;;;;;;X
-String_personality_focus_scholarship;human curiosity, and the sometimes debated concept of [Root.Religion.GetHighGodName];;;;;;;;;;X
-String_personality_focus_rulership;the sometimes thankless effort of trying to do right by your administration, as well as your people;;;;;;;;;;X
-String_personality_focus_business;the intricacies of a well functioning administration, and the skill of delegating;;;;;;;;;;X
-String_personality_same_culture;the finer points of [Root.Culture.GetName] culture and etiquette;;;;;;;;;;X
-String_personality_same_religion;the [Root.Religion.GetName] faith, and our favorite hymns;;;;;;;;;;X
-String_personality_landscape;the landscape of [Root.PrimaryTitle.GetName], and particularly around [Root.Capital.GetName];;;;;;;;;;X
-String_personality_artifacts;the beauty of old things, and the many trinkets we keep in our treasuries;;;;;;;;;;X
+String_personality_old_and_wistful;花有重开日，人再无少年;;;;;;;;;;X
+String_personality_young_cynics;根本没法和这帮迂腐的老头讨论政治;;;;;;;;;;X
+String_personality_same_society;作为[This.Society.GetName]的一员，我们有许多工作要做;;;;;;;;;;X
+String_personality_focus_war;我们对战争与策略有着共同的追求;;;;;;;;;;X
+String_personality_focus_hunting;打猎和户外活动的刺激;;;;;;;;;;X
+String_personality_focus_seduction;人生苦短，追求真正的欲望会带来毋庸置疑的喜悦与刺激;;;;;;;;;;X
+String_personality_focus_intrigue;宫廷密谋和关于某位国外外交官令人着迷的传言;;;;;;;;;;X
+String_personality_focus_carousing;在极度铺张的盛宴上一切皆有可能;;;;;;;;;;X
+String_personality_focus_family;血缘的价值，和家人的意义;;;;;;;;;;X
+String_personality_focus_theology;翻译圣文的途径,以及信仰那令人愉悦的一面;;;;;;;;;;X
+String_personality_focus_scholarship;人类的好奇心，以及不时对[Root.Religion.GetHighGodName]的概念的辩论;;;;;;;;;;X
+String_personality_focus_rulership;对你的领地和人民倾注无限精力去做对的事情;;;;;;;;;;X
+String_personality_focus_business;运行一个部门的错综复杂，以及委托的技巧;;;;;;;;;;X
+String_personality_same_culture;[Root.Culture.GetName]文化和礼仪的细枝末节;;;;;;;;;;X
+String_personality_same_religion;[Root.Religion.GetName]信仰，以及我们喜爱的赞美诗;;;;;;;;;;X
+String_personality_landscape;[Root.PrimaryTitle.GetName]的风景，尤其是在[Root.Capital.GetName]附近;;;;;;;;;;X
+String_personality_artifacts;漂亮的旧玩意儿，以及藏在宝库中的小饰品;;;;;;;;;;X
