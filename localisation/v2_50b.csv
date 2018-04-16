@@ -836,7 +836,7 @@ DYNAMIC_MERCENARY_COMPANY_FEUDAL;[Prev.Capital.County.GetAdjective] ´ó¶Ó;;;;;;;;
 LAW_REJECTED_LOG;§Y$VASSAL$§! ¾Ü¾øÔÚ §Y$TITLE$§! ÊµÐÐ §Y$LAW$§! ·¨ÂÉµÄÌáÒé;;;;;;;;;;X
 LAW_REJECTED_SETUP;·â³¼¾Ü¾øÒ»Ïî·¨ÂÉ;;;;;;;;;;X
 EVTDESC8218;ÎªÁË±ÜÃâÁìµØÒòÄÚÕ½¶ø·ÖÁÑ£¬ÎÒ¾ö¶¨Çü·þÓÚÄãµÄÒªÇó£¬¸øÓè[Root.GetCouncilName]¸ü´óµÄÈ¨Á¦È¥¾ö¶¨ÁìµØµÄ¸÷ÏîÕþ²ß¡£µ«Õâ±°ÁÓµÄÀÕË÷ÐÐÎªÎÒÖÁËÀ²»Íü¡­¡­\n\nÊðÃû£¬\n[From.GetTitledName];;;;;;;;;;X
-EVTDESC8217;ÔÚÇ¿´óÅÉÏµµÄÑ¹Á¦Ö®ÏÂ£¬[From.GetTitledName]Í¬ÒâÀ©´ó[Root.GetCouncilName]µÄÈ¨Á¦¡£;;;;;;;;;;X
+EVTDESC8217;ÔÚÇ¿´óÅÉÏµµÄÑ¹Á¦Ö®ÏÂ£¬§Y[From.GetTitledName]§!Í¬ÒâÀ©´ó[Root.GetCouncilName]µÄÈ¨Á¦¡£;;;;;;;;;;X
 EVTDESC8216;ÎªÁË±ÜÃâ¹ú¼ÒÒòÄÚÕ½¶ø·ÖÁÑ£¬[From.GetTitledName]Í¬Òâ¸øÓè[Root.GetCouncilName]¸ü´óµÄÈ¨Á¦È¥¾ö¶¨ÁìµØµÄ¸÷ÏîÕþ²ß¡£ÄãµÄ¶¦Á¦ÏàÖúÓÀ´¹²»Ðà¡£\n\nÕæ³ÏµÄ£¬\n[FromFrom.GetTitledName];;;;;;;;;;X
 faction_increase_council_power_ultimatum;ÒªÇóÀ©´óÊàÃÜÔºÈ¨Á¦;;;;;;;;;;X
 faction_increase_council_power_ultimatum_desc;Ïò§Y[Root.Liege.GetBestName]§!·¢³ö×îºóÍ¨ëº£¬ÒªÇóÔö¼ÓÊàÃÜÔºµÄÈ¨Á¦¡£Èç¹û[Root.Liege.GetSubjectPronoun]¾Ü¾ø×ñ´Ó£¬ÄãµÄÅÉÏµ»áÆð±ø·´¿¹¡£;;;;;;;;;;X
@@ -1473,8 +1473,8 @@ CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP;¶ÒÏÖÈËÇé;;;;;;;;;;X
 CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG;$ACTOR|Y$ ÒÑ¾­ÒªÇó $RECIPIENT|Y$¶ÒÏÖÈËÇé¡£;;;;;;;;;;X
 BUY_FAVOR_INTERACTION_DECLINE_SETUP;ÈËÇé²»ÊÇÓÃÀ´ÂôµÄ;;;;;;;;;;X
 BUY_FAVOR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetDynName]§! ÒÑ¾­¾Ü¾øÂôÈËÇé¸ø §Y[Actor.GetDynName]§!;;;;;;;;;;X
-LOAD_OLD_SAVE_TO_ZEUS_TITLE;ÐÂ°æ±¾¶Á¾Éµµ;;;;;;;;;;X
-LOAD_OLD_SAVE_TO_ZEUS_DESC;ÄãÕýÒªÔÚÐÂ°æ±¾µÄÓÎÏ·ÖÐ¶ÁÈë¹ýÈ¥°æ±¾Ê±¿ªÊ¼µÄ´æµµ¡£Õâ½«µ¼ÖÂ²»¿ÉÔ¤ÖªµÄ½á¹û£¬ÇÒ²¢²»ÍÆ¼ö¡£ÊÇ·ñ¼ÌÐø£¿;;;;;;;;;;X
+LOAD_OLD_SAVE_TO_ZEUS_TITLE;¶ÁÈ¡¾É°æ´æµµ;;;;;;;;;;X
+LOAD_OLD_SAVE_TO_ZEUS_DESC;ÄãÕýÒªÔÚÐÂ°æ±¾µÄÓÎÏ·ÖÐ¶ÁÈë¹ýÈ¥°æ±¾Ê±¿ªÊ¼µÄ´æµµ¡£Õâ½«µ¼ÖÂ²»¿ÉÔ¤ÖªµÄ½á¹û£¬ÇÒ²¢²»ÍÆ¼ö¡£ÄãÊÇ·ñÏ£Íû¼ÌÐø£¿;;;;;;;;;;X
 LOAD_ZEUS_SAVE_TO_OLD_VERSION;§RÕâ¸ö´æµµ´´Á¢Ê±Ê¹ÓÃÁËÃØÃÜ»áÒéDLC£¬¼ÌÐøÓÎÏ·´ËDLC¡£§!;;;;;;;;;;X
 FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$²¢²»ÕýÔÚ¾Í·¨ÂÉ¸ü¸ÄÍ¶Æ±¡£;;;;;;;;;;X
 LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC;ÄãÃ»ÓÐÊàÃÜÔº·¨ÂÉ¿ÉÑ¡¡£ÄãÐèÒªÔö¼Ó²¿Âä×éÖ¯¶ÈÀ´½âËøËüÃÇ¡£;;;;;;;;;;X
@@ -1537,7 +1537,7 @@ REQUEST_SUPPORT_INTERACTION_DECLINE_SETUP;ÒªÇóÖ§³ÖµÄÇëÇó±»¾Ü¾ø;;;;;;;;;;X
 REQUEST_SUPPORT_INTERACTION_DECLINE_LOG;§Y[Actor.GetDynName]§W ¾Ü¾øÖ§³Ö §Y[Recipient.GetDynName]§W;;;;;;;;;;X
 FAM_EDUCATOR;½ÌÓýÕß;;;;;;;;;;X
 ZEUS_WARD_DESC;³ÉÄê½ÇÉ«¿ÉÒÔÑ¡ÔñÁ½¸ö¶ùÍ¯×÷ÎªËûµÄ½ÌÓý¶ÔÏó;;;;;;;;;;X
-ZEUS_GUARDIAN_DESC;¼à»¤ÈËÊÇ¶ùÍ¯½ÇÉ«µÄµ¼Ê¦¡£¶ùÍ¯¾Ó×¡ÔÚ¼à»¤ÈËÏàÍ¬µÄ¹¬Í¢ÖÐ£¬²¢ÇÒ²»¿ÉÏò¹¬Í¢ÄÚÓÐ½üÇ×¶ùÍ¯µÄ½ÇÉ«ÐûÕ½¡£;;;;;;;;;;X
+ZEUS_GUARDIAN_DESC;¼à»¤ÈËÊÇ¶ùÍ¯½ÇÉ«µÄµ¼Ê¦¡£¶ùÍ¯½«¾Ó×¡ÔÚ¼à»¤ÈËÏàÍ¬µÄ¹¬Í¢ÖÐ£¬²¢ÇÒ²»¿ÉÏò¹¬Í¢ÄÚÓÐ½üÇ×¶ùÍ¯µÄ½ÇÉ«ÐûÕ½¡£;;;;;;;;;;X
 HOSTAGE_NAME;\n        $WHO|Y$;;;;;;;;;;X
 CHANGE_MERCENARY_COMPOSITION_CONVERT;¸Ä»»$COUNT|Y$$FROM$Îª$TYPE$\n;;;;;;;;;;X
 CHANGE_MERCENARY_COMPOSITION;$TYPE$£º$COUNT|=-+$\n;;;;;;;;;;X

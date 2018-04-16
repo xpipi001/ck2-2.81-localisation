@@ -268,7 +268,7 @@ strategic_innovation;у╫бт╦Опб;;;;;;;;;;X
 EVTOPTC_94019;нр╫╚я╖ртжбсц!;;;;;;;;;;X
 EVTDESC_WOL_10999;дЦЁЖ╥╒т╤уВц╟оуряр╩тбспсЮё╛╤ЬдЦтзхн╨н╣ь╥╫╤╪ц╩спур╣╫╨ойй╣дцЁрв╩О╟И║ёдЦ╣дйжобк╪оГпдгпё╛ожтзря╬╜в╙м╥╢Ьвеме╤с╩ь╪рак║ё;;;;;;;;;;X
 EVTOPTA_WOL_10999;ткфЬл╚╡Н║ё;;;;;;;;;;X
-tooltip_not_busy;╡╩йг╨эц╕║ё\n;;;;;;;;;;X
+tooltip_not_busy;╡╩йг╨эц╕\n;;;;;;;;;;X
 EVTOPTB5051;нрс╕╦ц╢ЬведЯ╤Ых╔╢РатвВн╙лФ╢З║ё;;;;;;;;;;X
 no_horse_breeder_1;бМф╔кгяЬт╠;;;;;;;;;;X
 no_horse_breeder_2;бМф╔кгяЬт╠;;;;;;;;;;X
@@ -559,7 +559,7 @@ CLANS;╡©вЕ;;;;;;;;;;X
 EVTNAMEHL11;╡©вЕ╦д╩╩дЦ╣дпеяЖ;;;;;;;;;;X
 EVTDESCHL11;[FromFrom.GetBestName]ё╛[FromFrom.Clan.GetName]╡©вЕ╣даЛпДё╛ря╦д╩╩н╙нрцг╣двз╫л║ё;;;;;;;;;;X
 EVTNAMEHL9;╡©вЕ╦д╩╩фДкШпеяЖ;;;;;;;;;;X
-EVTDESCHL9;[FromFrom.Clan.GetName]ё╛[FromFrom.GetBestName]╡©вЕ╣даЛпДё╛ря╦д╩╩[FromFromFrom.GetFirstName]╣двз╫лё╛Ёин╙ак[FromFromFrom.Religion.GetName]║ё;;;;;;;;;;X
+EVTDESCHL9;[FromFrom.Clan.GetName]ё╛[FromFrom.GetBestName]╡©вЕ╣даЛпДё╛ря╦д╩╩[From.GetFirstName]╣двз╫лё╛Ёин╙ак[From.Religion.GetName]║ё;;;;;;;;;;X
 convert_fort_to_city_named;╫╚[Root.GetName]╣д╠╓ющиЩ╪╤н╙Ёгйп;;;;;;;;;;X
 convert_fort_to_castle_named;╟я[Root.GetName]╣д╠╓ющиЩ╪╤н╙Ёг╠╓;;;;;;;;;;X
 convert_fort_to_temple_named;╟я[Root.GetName]╣д╠╓ющиЩ╪╤н╙иЯцМ;;;;;;;;;;X
@@ -636,8 +636,8 @@ MODIFIER_HORDE_MAINTENENCE_COST;снда╬Эн╛Ёж╥ясц;;;;;;;;;;X
 MODIFIER_CLAN_SENTIMENT;╡©вЕ╧ш╦п;;;;;;;;;;X
 CAPITAL_AT_TRADE_POST_MODIFIER;тзйв╤╪;;;;;;;;;;X
 CAPITAL_ADJACADENT_TO_TRADE_POST_MODIFIER;аы╫Эйв╤╪;;;;;;;;;;X
-nomad_horse_offensive_modifier;Capital is in a Steppe, Desert or Plains county;;;;;;;;;;X
-nomad_horse_defensive_modifier;Capital is in a Mountains, Hills or Arctic county;;;;;;;;;;X
+nomad_horse_offensive_modifier;йв╤╪н╩сз╡щт╜,иЁд╝╩Рф╫т╜╡╝╬ТаЛ;;;;;;;;;;X
+nomad_horse_defensive_modifier;йв╤╪н╩сзи╫╣ь,гПаЙ╨м╪╚╣ь╡╝╬ТаЛ;;;;;;;;;;X
 MODIFIER_GLOBAL_WINTER_SUPPLY;х╚м╪╤╛╪╬╡╧╦Ь;;;;;;;;;;X
 BUILDING_ACTIVE;уБвЫ╫╗жЧ╪╓╩Нж╩тз;;;;;;;;;;X
 CAPITAL_AT_HOLY_SITE;йв╤╪н╩сз$RELIGION$й╔╣ьё╨╖G+$VALUE$╖!;;;;;;;;;;X
