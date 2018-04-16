@@ -51,7 +51,7 @@ LAW_DE_JURE_CHANGE_PRESTIGE_COST;тз$GOV$уЧлЕобё╛пХр╙╩╗╥я$PRESTIGE$мЧмШю╢╦д╠ДмУх╗
 NO_TEMPLE_HOLDING;ц╩спиЯцМ╣ь╡З;;;;;;;;;;X
 clan_opinion_splitted_blood_brother_clan;╥жаянр╫А╟щпж╣э╣д╡©вЕ;;;;;;;;;;X
 clan_opinion_splitted_my_clan;╥жаянр╣д╪рвЕ;;;;;;;;;;X
-clan_opinion_attempted_splitted_my_clan;йтм╪╥жаянр╣д╪рвЕ;;;;;;;;;;X
+clan_opinion_attempted_splitted_my_clan;Tried To Split My Clan;;;;;;;;;;X
 BUILD_TRADE_POST_DESC;цЁрву╬©иртсиилр╣╧╡╨м╧Здз╣д╧Схк╪рвЕтз╨ё╟╤╠ъ╩╗╥я╖Y$COST$╖!╫╗тЛ║╙║╙╪╢й╧йгтзмБ╧З╫╝сРио║ё╣╚йгё╛хГ╧Шк©ЁЯж╝б╥╬╜╧Щё╛хн╨н╣╠╣ьмЁжнуър╡©ирттзкШцг╣дй║╥щ╫╗тЛцЁрву╬║ёё╗гК╡И©╢╖YцЁрвгЬ╖!╣ьм╪дёй╫║ёё╘;;;;;;;;;;X
 PROVINCE_NOT_UNDER_SIEGE;╖Y$PROVINCE$╖!╡╩уЩ╠╩н╖Ёг;;;;;;;;;;X
 ABSORB_CLAN_INTERACTION_4;фДкШ╡©вЕ╥БЁ╪╡╩╩А╥╢╤тм╛╩╞еябр╪рвЕ║ё;;;;;;;;;;X
@@ -78,7 +78,7 @@ HORDE_RETTYPE_DESERT;бФмуфО╠Ь;;;;;;;;;;X
 HOLYSITE_UNBUILT; ╖Y$SITENAME$╖!╣дй╔╣ьх╠иыр╩╦ЖиЯцМ╣ь╡З;;;;;;;;;;X
 CALL_ALLY_BLOOD_BROTHERS;\n╖YрРн╙дЦйг╫А╟щпж╣эё╛кШцгнч╥╗╬э╬Ь║ё╖!;;;;;;;;;;X
 INTERACTION_CALL_TO_WAR_HAS_VALID_TARGET;╠ьпКспр╩Ё║©иртуы╩╫╖Y[Recipient.GetTitledFirstName]╖!ю╢╡н╪с╣ду╫уЫ;;;;;;;;;;X
-SUZERAIN_RELATIONSHIP;╖Y$SUZERAIN$╖!йг╖Y$TRIBUTARY$╖!╣двзжВ;;;;;;;;;;X
+SUZERAIN_RELATIONSHIP;╖Y$SUZERAIN$╖!йг╖Y$TRIBUTARY$╖!╣двзжВ║ё;;;;;;;;;;X
 MERC_RIVAL_REASON;\n╖Y[GetBestName]╖!ж╩р╙╨мдЦйгЁП╣п╧ьо╣╬м╡╩╩АлФдЦп╖цЭ║ё;;;;;;;;;;X
 MERC_FRIEND_REASON;\n╖Y[GetBestName]╖!тздЦ╨м[GetPossPronoun]еСсяё╛$CHAR$╖!©╙у╫╣дй╠╨Рйг╡╩╩АлФдЦп╖цЭ╣д║ё;;;;;;;;;;X
 NOMAD_UNUSED_MANPOWER_MODIFIER;н╢сцхка╕;;;;;;;;;;X
