@@ -246,7 +246,7 @@ MAPMODE_REALM;§Y¶ÀÁ¢ÁìÖ÷§!;;;;;;;;;;X
 PROV1347;Ëþ¿ËÀ­Âê¸ÉÉ³Ä®;;;;;;;;;;X
 pyramid;½ð×ÖËþ;;;;;;;;;;X
 k_mongolia;ÃÉ¹Å;;;;;;;;;;X
-k_mongolia_adj;ÃÉ¹ÅµÄ;;;;;;;;;;X
+k_mongolia_adj;Mongolian;;;;;;;;;;X
 d_altay;°¢ÀÕÌ©;;;;;;;;;;X
 d_otuken;ÓÚ¶¼½ï;;;;;;;;;;X
 d_khangai;º¼°®;;;;;;;;;;X
@@ -272,7 +272,7 @@ EVTOPTA_SoA_566;°ÑÕâÐ©²»¹«ÈÓ½øÀúÊ·µÄ·ÏÖ½¶ÑÀï°É¡£;;;;;;;;;;X
 BARONY_DESTROYED;Õâ¸öÄÐ¾ôÁìÒÑ±»´Ý»Ù¡£;;;;;;;;;;X
 DEJURE_LIEGE_STARTS;·¨ÀíÁìÖ÷;;;;;;;;;;X
 DEFACTO_LIEGE_STARTS;Êµ¼ÊÁìÖ÷;;;;;;;;;;X
-destroy_settlement;§Y$SETTLEMENT$§!»á±»´Ý»Ù¡£;;;;;;;;;;X
+destroy_settlement;§Y$SETTLEMENT$§!»á±»´Ý»Ù¡£\n;;;;;;;;;;X
 make_capital_holding;§Y$SETTLEMENT$§!½«»á³ÉÎª§Y$COUNTY$§!ÄÚµÄÖ÷Òª¶¨¾Óµã¡£\n;;;;;;;;;;X
 make_primary;Éè¶¨Ê×¸®;;;;;;;;;;X
 make_primary_desc;ÎÒ¿ÉÒÔÈÃ´ËµØ²ú³ÉÎªÕâ¸öÊ¡·ÝµÄÊ×¸®¡£;;;;;;;;;;X
@@ -415,7 +415,7 @@ nomadic_empire;´óº¹¹ú;;;;;;;;;;X
 nomadic_empire_of;´óº¹¹ú;;;;;;;;;;X
 nomadic_kingdom;º¹¹ú;;;;;;;;;;X
 nomadic_kingdom_of;º¹¹ú;;;;;;;;;;X
-REMOVE_TRIBUTARY_EFFECT;§Y$TRIBUTARY$§!²»ÔÙÊÇ§Y$OVERLORD$§!µÄÒ»¸ö¸½Êô;;;;;;;;;;X
+REMOVE_TRIBUTARY_EFFECT;§Y$TRIBUTARY$§!²»ÔÙÊÇ§Y$OVERLORD$§!µÄ¸½Êô;;;;;;;;;;X
 WAR_NAME_TRIBUTARY;$ORDER$$FIRST_ADJ$Ç¿ÆÈ$DEFENDER$¸½ÊôµÄÕ½Õù;;;;;;;;;;X
 CB_NAME_FREE_TRIBUTARY;ÍÑÀë¸½Êô;;;;;;;;;;X
 CLAN_SATISFACTION_REASON;$CLAN$½ö³ÖÓÐ§R$EMPTY_HOLDINGS$§!¿ÕµØ²ú£¬Ïà±ÈÆðÁìÖ÷µÄ§Y$LIEGE_EMPTY_HOLDINGS$§!¡£;;;;;;;;;;X

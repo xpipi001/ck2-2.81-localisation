@@ -256,9 +256,9 @@ EVTDESC_RIP_30222;ÓÐÊ±µ±Ò»¸ö³ÆÖ°µÄ[Root.GetTitle]ÕæµÄºÜÄÑ¡£×ÜÓÐºÜ¶àÊÂÎñÐèÒª¹ÜÀí£
 EVTOPTA_RIP_30222;ÎÒ½«ÑûÇë[From.GetManWoman]ºÍÎÒÈ¥É¢É¢ÐÄ£¡;;;;;;;;;;X
 EVTOPTB_RIP_30222;ÎÒÄþÔ¸¶À×ÔÒ»ÈË¡£;;;;;;;;;;X
 EVTDESC_RIP_30223_A;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÐÞÅ®£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚ»Øµ½[From.GetHerHis]ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÐÅÑöÓëÒÉ»óµÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÅ®Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËýÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
-EVTDESC_RIP_30223_B;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÐÞÊ¿£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚËû»Øµ½ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÐÅÑöÓëÒÉ»óµÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÊ¿Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËûÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
-EVTDESC_RIP_30223_C;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÌìÖ÷½ÌµÄÐÞÅ®£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚËý»Øµ½ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÉÏµÛºÍ[Root.Religion.GetHighGodName]µÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÅ®Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËýÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
-EVTDESC_RIP_30223_D;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÌìÖ÷½ÌµÄÐÞÊ¿£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚËû»Øµ½ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÉÏµÛºÍ[Root.Religion.GetHighGodName]µÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÊ¿Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËûÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
+EVTDESC_RIP_30223_B;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÐÞÊ¿£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚ»Øµ½[From.GetHerHis]ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÐÅÑöÓëÒÉ»óµÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÊ¿Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËûÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
+EVTDESC_RIP_30223_C;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÌìÖ÷½ÌµÄÐÞÅ®£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚ»Øµ½[From.GetHerHis]ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÐÅÑöÓëÒÉ»óµÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÅ®Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËýÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
+EVTDESC_RIP_30223_D;½á¹ûÕâÃûÄ°ÉúÈË£¬[From.GetFirstName]£¬ÊÇÒ»Î»ÌìÖ÷½ÌµÄÐÞÊ¿£¬ÒÑÔÚÍâÊýÔÂ£¬ÔÚ»Øµ½[From.GetHerHis]ÐÞµÀÔºµÄÂ·ÉÏ¡£ÄãÃÇÌ¸ÂÛ×ÅÉúÓëËÀ£¬ÐÅÑöÓëÒÉ»óµÄ»°Ìâ£¬Ö±µ½Ò¹ÍíµÄµÆ»ðÒ²¿ìÒªÏ¨Ãð¡£µ±ÄãÏëÒª±§Ç¸µÀ±ðÊ±£¬ÕâÎ»ÐÞÊ¿Ñ¯ÎÊÄãÄÜ·ñ¸øËýÒ»¼ä·¿¼äºÍ´²ÆÌÈÃËûÍ£ÁôÊýÈÕ¡£;;;;;;;;;;X
 EVTOPTA_RIP_30223;µ±È»ÁË£¬[From.GetFirstName]£¡Äã½«»áÔÚÎÒÎÂÅ¯µÄÂ¯»ðÅÔË¯¸öºÃ¾õµÄ¡£;;;;;;;;;;X
 EVTOPTA_RIP_30223_TOOLTIP;ÑûÇë§Y[From.GetFirstName]§! ºÍÄã×¡ÉÏ¼¸Ìì¡£\n;;;;;;;;;;X
 EVTOPTB_RIP_30223;ÎÒÖªµÀÅÔ±ßÓÐ¼Ò²»´íµÄÂÃ¹Ý¡£;;;;;;;;;;X
@@ -447,7 +447,7 @@ EVTDESC_RIP_12099_A;ÖÂ[GetFromRootInsult][Root.GetTitledFirstName]£¬\n\nÓÉÓÚÔÚ[R
 EVTDESC_RIP_12099_B;ÖÂ¿É¾´µÄ[Root.GetTitledFirstName]£¬\n\nÓÉÓÚÔÚ[Root.PrimaryTitle.GetName]²»¶ÏÀ©É¢µÄÔÖ»ö£¬ÎÒ±»ÆÈ×ÔÎÒÔÚ[From.Location.GetName]µÄ¹¬Í¢ÖÐ¸ôÀë£¬Òò´ËÖ±µ½´Ë´ÎÎ£»ú½áÊøÖ®Ç°ÎÒºÜ²»ÐÒ½«²»ÄÜÂÄÐÐ×÷Îª[From.GetJobTitle]µÄÖ°Ôð¡£\n\nÇ©Ãû£¬[From.GetTitledFirstName];;;;;;;;;;X
 EVTOPTA_RIP_12099_A;ÎÒ¾Í²»¸ÃÈÃÄÇ¸ö[GetRootFromInsult]´ýÔÚÎÒµÄÊàÃÜÔºÀï£¡;;;;;;;;;;X
 EVTOPTA_RIP_12099_B;ÁîÈËÒÅº¶£¬ËäÈ»¿ÉÒÔÀí½â¡­¡­;;;;;;;;;;X
-EVTDESC_RIP_12100;§Y[From.GetTitledFirstName]§!»Øµ½ÁËÎÒµÄ¹¬Í¢ºÍÊàÃÜÔº¡£[From.GetSheHeCap]×÷Îª[From.GetJobTitle]ÓÖÒ»´ÎÄÜ¹»Ö´ÐÐ[From.GetHerHis]Ö°Ôð¡£;;;;;;;;;;X
+EVTDESC_RIP_12100;[From.GetTitledFirstName]»Øµ½ÁËÎÒµÄ¹¬Í¢ºÍÊàÃÜÔº¡£[From.GetSheHeCap]×÷Îª[From.GetJobTitle]ÓÖÒ»´ÎÄÜ¹»Ö´ÐÐ[From.GetHerHis]Ö°Ôð¡£;;;;;;;;;;X
 EVTDESC_TOG_7300;ÓÐºÜ¶àÉñ¹©ÄãÑ¡Ôñ¾´°Ý¡£Î°´óµÄÎÚ¸ê¡¢ÌìÉñºÍ´øÀ´·áÊÕÕß£¬»òÊÇËûµÄÆÞ×Ó£¬°®Óë±£»¤Ö®Å®Éñ°¢¿¨£¿Ò²ÐíÄãÔ¸Ïòá÷ÁÔÖ®Ö÷·òÆÞËþÆ¤°ÂºÍÃ×Ò®Àû»ùÆíµ»£¿ÄãÒ²¿ÉÒÔÏò½Æ»«µÄÒýÓÕÕßÂ×²¨ÖÂÒÔ³ç¾´¡­¡­;;;;;;;;;;X
 EVTOPTA_TOG_7300;ÎÚ¸êÍ³ÁìÒ»ÇÐ£¡;;;;;;;;;;X
 EVTOPTB_TOG_7300;ÎÒÊÇ°¢¿¨µÄº¢×Ó£¬Ô¸Ëý±£»¤ÎÒ¡£;;;;;;;;;;X

@@ -167,7 +167,7 @@ EVTDESC_WOL_2085;[From.GetTitledName]对我提供的关于[target_spy_on.GetTitledName]
 EVTOPTA_WOL_2085;坐失良机！;;;;;;;;;;X
 EVTDESC_WOL_2086;[From.GetTitledName]声称有证据证明我诽谤了[From.GetObjectPronoun]。[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就会守口如瓶……;;;;;;;;;;X
 EVTDESC_WOL_2086_BASTARD;[From.GetTitledName]声称发现了我的亲生父亲是[Root.RealFather.GetTitledName]的证据，证明我是个野种！[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就会守口如瓶……;;;;;;;;;;X
-EVTDESC_WOL_2086_TRAITOR;[From.GetTitledName]声称有目击证人证实我是叛徒。[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就不再追究……;;;;;;;;;;X
+EVTDESC_WOL_2086_TRAITOR;[From.GetTitledName]公开指责我为叛徒，声称有目击证人可以和我当面对质。[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就不再追究……;;;;;;;;;;X
 EVTDESC_WOL_2086_HERETIC;[From.GetTitledName]声称他已经知道我正在传播异端信仰了，但他保证只要我离开所有派系，[From.GetReflexivePronoun]就会守口如瓶……;;;;;;;;;;X
 EVTDESC_WOL_2086_INFIDEL;[From.GetTitledName]声称他已经知道我正在传播我的[Root.Religion.GetGroupName]信仰了！[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就会守口如瓶……;;;;;;;;;;X
 EVTDESC_WOL_2086_DEVIANT;[From.GetTitledName]声称发现了惊天的证据证明我品行不端并且性取向有问题。[From.GetSubjectPronounCap]保证只要我离开所有派系，[From.GetReflexivePronoun]就会守口如瓶……;;;;;;;;;;X

@@ -46,7 +46,7 @@ EVTTITLE_ZE_1011;²»Ð¢Ö®Å®;;;;;;;;;;X
 EVTDESC_ZE_1011;ÄãµÄÅ®¶ù [FromFrom.GetFirstName] ¹ýÀ´¼ûÄã¡£Ëý¶ÔÄã°²ÅÅµÄ»éÒö·Ç³£²»¸ßÐË£º¡®[Root.GetFatherMother] £¬ÎÒ²»°®ÎÒµÄÐÂÕÉ·ò¡¢ÎÒ²»»á½ÓÊÜÕâ¼þÊÂ£¡ÎÒ¿ÒÇóÄú£¬È¡ÏûÕâ×®»éÊÂ°É£¡¡¯;;;;;;;;;;X
 EVTOPTA_ZE_1011;ÄãÌ«³å¶¯ÁË£¬[FromFrom.GetFirstName] ¡£;;;;;;;;;;X
 EVTOPTB_ZE_1011;ºÃ°É£¬ÎÒ²»»áÇ¿ÆÈÄã¡£;;;;;;;;;;X
-EVTDESC_ZE_1012;Õýµ±Äã³ï±¸»éÀñÊ±£¬ [From.GetTitledName] Í¨ÖªÄã [From.GetHerHis]Å®¶ù²»½ÓÊÜÓë [target_spurned_spouse.GetTitledName] ½á»é£¬ [From.GetSheHe] ÒÑ¾­¾ö¶¨È¡ÏûÕâ×®»éÊÂÁË£¡;;;;;;;;;;X
+EVTDESC_ZE_1012;Õýµ±Äã³ï±¸»éÀñÊ±£¬ [From.GetTitledName] Í¨ÖªÄã [From.GetHerHis]Å®¶ù²»½ÓÊÜÓë [target_spurned_spouse] ½á»é£¬ [From.GetSheHe] ÒÑ¾­¾ö¶¨È¡ÏûÕâ×®»éÊÂÁË£¡;;;;;;;;;;X
 EVTOPTA_ZE_1012;Ê²Ã´£¿ÕæÊÇº§ÈËÌýÎÅ£¡;;;;;;;;;;X
 EVTOPTA_ZE_1031;ÎÒÈÏÎªÄã²»»á½éÒâ¡­¡­;;;;;;;;;;X
 EVTDESC_ZE_1120;ÆÍÈËÃÇÖ®¼ä´«ÑÔ£¬½µÁÙÔÚÄãÅ®¶ù [From.GetFirstName] Ç°·òÉíÉÏµÄ±¯¾çÊÂÊµÉÏÊÇÄãÅ®¶ùÒ»ÊÖ²ß»®µÄ¡£Ëý¿ÉÄÜÔÚËûÊìË¯Ê±ÏÂÁË¶¾¡£;;;;;;;;;;X
@@ -172,7 +172,7 @@ EVTDESC_ZE_9122;Ç×°®µÄ[Root.GetTitledFirstName],\n\nÎÒ½ÓÊÜÄãµÄµÀÇ¸²¢ÇÒÏ£ÍûÎÒÃÇ½ñ
 EVTOPTA_ZE_9122;ÄÇÃ´£¬Ò»ÇÐ¶¼½â¾öÁË¡£;;;;;;;;;;X
 EVTDESC_ZE_9123;Ç×°®µÄ[Root.GetTitledFirstName],\n\n¿É±¯£¬ÄãµÀÇ¸µÄ»°ÌýÆðÀ´²¢²»ÕæÊµ¡£ÎÒ²»ÊÇÒ»¸öÉµ¹Ï£¬¶øÇÒÐÅÈÎÒ»µ©±»´òÆÆ¾ÍÎÞ·¨ÔÙ±»¿ÕÐéµÄÑÔÓïËùÐÞ¸´¡£ÔÚÕâÖÖÇé¿öÏÂ£¬ÎÒ²»»áÔÙÎ¬³ÖÎÒÃÇÖ®¼äµÄÐ­¶¨¡£\n\n»³×Å¿ÕÐéµÄÓäÔÃ£¬\n[From.GetTitledName];;;;;;;;;;X
 EVTOPTA_ZE_9123;·Ç³£ºÃ£¬Èç¹û±ðÎÞÑ¡ÔñµÄ»°¡£;;;;;;;;;;X
-EVTDESC_ZE_9130;[Root.GetTitledFirstName],\n\nÄãßÍßÍ±ÆÈËµÄ»°ÓïÖ»»áÔöÇ¿ÎÒ¶ÔÄãµÍÁÓµÄÈË¸ñºÍ±°±ÉµÄ½»Ò×µÄ²ÂÒÉ¡£ÏÔÈ»ÄãÕý¼Æ»®Ò»Ð©ºÚ°µµÄÐÐÎª¡£ÎÒÒªÇóÄãÁ¢¿ÌÍ£Ö¹¡£\n\nÃãÇ¿ÎÊºòÄãµÄ£¬\n[From.GetTitledName];;;;;;;;;;X
+EVTDESC_ZE_9130;[Root.GetTitledFirstName],\n\nÄãßÍßÍ±ÆÈËµÄ»°ÓïÖ»»áÔöÇ¿ÎÒ¶ÔÄãµÍÁÓµÄÈË¸ñºÍ±°±ÉµÄ½»Ò×µÄ²ÂÒÉ¡£ÏÔÈ»£¬ÄãÔÚÒþÂ÷Ê²Ã´£¬Èç¹û²»ÊÇÖ§³Öº£µÁÄÇÃ´Ò²Ò»¶¨ÊÇÆäËûÎÒ»¹Ã»·¢ÏÖµÄÒõÄ±¡£ÎÒÒªÇóÄãÁ¢¿ÌÍ£Ö¹ÕâÖÖÐÐÎª¡£\n\nÃãÇ¿ÎÊºòÄãµÄ£¬\n[From.GetTitledName];;;;;;;;;;X
 EVTOPTA_ZE_9130;ÎÒÐèÒªÔÚÎÒÃÇ¹ØÏµÆÆÁÑÖ®Ç°»ØÍ·¡£;;;;;;;;;;X
 ze_9130_apology;³ÐÈÏ´íÎó²¢ÇÒµÀÇ¸¡£;;;;;;;;;;X
 EVTOPTB_ZE_9130;Ï£ÍûÕâÌõÔÓÖÖ¹·±»[From.GetHerHis]±°ÁÓµÄÉàÍ·ÇºËÀ£¡;;;;;;;;;;X
@@ -460,10 +460,10 @@ EVTDESC_ZE_6007;[target_liege.GetTitledName]¸æËßÎÒ[councillor_target.GetTitledNa
 EVTOPTA_ZE_6007;ÄÇÌõ¶¾Éß£¡;;;;;;;;;;X
 obj_land_for_son_title;ÎªÎÞµØµÄ¶ù×Ó»ñµÃÍÁµØ;;;;;;;;;;X
 obj_land_for_son_desc;ÄãÏ£Íû»ñµÃÒ»Ð©ÍÁµØ£¬ËÍ¸øÈ·¶¨²»»á¼Ì³ÐÈÎºÎÍÁµØµÄ¶ù×Ó¡£;;;;;;;;;;X
-EVTDESC_ZE_6012;ÄãµÄ·â³¼£¬[FromFrom.GetTitledName]£¬ÏÖÔÚµ£ÐÄ[FromFrom.GetHerHis]²»»á¼Ì³ÐµÄ¶ù×ÓÃÇ¡£[FromFrom.GetSheHeCap]ÒªÇóÄãÔÚÑ°ÕÒÐÂµÄ·â³¼µÄÊ±ºò¿¼ÂÇËûÃÇ¡£;;;;;;;;;;X
+EVTDESC_ZE_6012;ÄãµÄ·â³¼£¬[From.GetTitledName]£¬ÏÖÔÚµ£ÐÄ[From.GetHerHis]²»»á¼Ì³ÐµÄ¶ù×ÓÃÇ¡£[From.GetSheHeCap]ÒªÇóÄãÔÚÑ°ÕÒÐÂµÄ·â³¼µÄÊ±ºò¿¼ÂÇËûÃÇ¡£;;;;;;;;;;X
 EVTOPTA_ZE_6012;ÎÒ»áÌá°Î¸ü¶àµÄÄÜÈË¡£;;;;;;;;;;X
 EVTOPTB_ZE_6012;×Ü²»ÄÜË­À´ÒªµØÎÒ¾Í¸ø°É¡£;;;;;;;;;;X
-EVTOPTC_ZE_6012;[FromFrom.GetTitledFirstName]½«¼Ç×¡Õâ¸ö¿¶¿®Ö®¾Ù¡£;;;;;;;;;;X
+EVTOPTC_ZE_6012;[From.GetTitledFirstName]½«¼Ç×¡Õâ¸ö¿¶¿®Ö®¾Ù¡£;;;;;;;;;;X
 EVTOPTA_ZE_8000;ÎÒ½«Ð´ÐÅ¸ø[target_ruler.GetTitledName]¡£ÎÒÃÇÄÜ¹»³ÉÎªÅóÓÑ¡£;;;;;;;;;;X
 EVTOPTB_ZE_8000;Õâ¸Ä±ä²»ÁËÊ²Ã´¡£;;;;;;;;;;X
 EVTOPTA_ZE_8001;Ò»¸ö¾øÃîµÄÖ÷Òâ¡£;;;;;;;;;;X
@@ -508,10 +508,10 @@ EVTOPTA_ZE_8016;Ò»ÇÐ¶¼ºÃ;;;;;;;;;;X
 EVTOPTA_ZE_8013_TOOLTIP;Ëº»Ù»¥²»ÇÖ·¸ÌõÔ¼;;;;;;;;;;X
 request_council_position_tooltip;·¢ËÍÇëÇó;;;;;;;;;;X
 request_council_position;ÒªÇóÊàÃÜÔºÖ°Î»;;;;;;;;;;X
-request_council_position_desc;ÎÒ¿ÉÒÔÏòÎÒµÄÁìÖ÷£¬ §Y[Root.GetTitledFirstName]§!£¬ÒªÇóÊàÃÜÔºÖÐµÄÎ»ÖÃ¡£ÕâÖÖÊÂÇéÃ¿Á½ÄêÖ»ÄÜ×öÒ»´Î¡£;;;;;;;;;;X
+request_council_position_desc;ÎÒ¿ÉÒÔÁªÏµÎÒÁìÖ÷²¢ÇÒÔÚÊàÃÜÔºÖÐÒªÇóÎ»ÖÃ¡£ÕâÖÖÊÂÇéÃ¿Á½ÄêÖ»ÄÜ×öÒ»´Î¡£;;;;;;;;;;X
 requested_council_position;ÒÑ±»ÒªÇóÊàÃÜÔºÎ»ÖÃ;;;;;;;;;;X
 ask_for_land_tooltip;Ìá³öÒªÇó;;;;;;;;;;X
-ask_for_land_desc;ÎÒÄÜÇëÇóÎÒÁìÖ÷£¬ §Y[Root.GetTitledFirstName]§!£¬¸øÓèÎÞµØµÄ¶ù×ÓÒ»Ð©ÍÁµØ¡£ÕâÖÖÊÂÇéÃ¿Á½ÄêÖ»ÄÜ×öÒ»´Î¡£;;;;;;;;;;X
+ask_for_land_desc;ÎÒÄÜÇëÇóÎÒÁìÖ÷¸øÓèÎÞµØµÄ¶ù×ÓÒ»Ð©ÍÁµØ¡£ÕâÖÖÊÂÇéÃ¿Á½ÄêÖ»ÄÜ×öÒ»´Î¡£;;;;;;;;;;X
 ask_for_land;ÇëÇóÎÒÁìÖ÷´ÍÓèÍÁµØ;;;;;;;;;;X
 requested_land;ÒÑÒªÇóÍÁµØ;;;;;;;;;;X
 EVTDESC_ZE_6013;ÎÒÇ«±°µÄÎª[chosen_son.GetFirstName]»ñÈ¡ÍÁµØµÄÇëÇó³É¹¦ÁË¡£ÎÒ²»ÔÙÐèÒªµ£ÐÄËû¡£;;;;;;;;;;X
@@ -561,7 +561,7 @@ coalition_members;³ÉÔ±£º$MEMBERS$;;;;;;;;;;X
 RELATION_ALLY;Í¬ÃËµÄ;;;;;;;;;;X
 RELATION_NON_AGGRESSION;»¥²»ÇÖ·¸ÌõÔ¼;;;;;;;;;;X
 PACTS;ÌõÔ¼;;;;;;;;;;X
-CHARACTER_DEBUG;µ÷ÊÔ£º\n§GCtrl-click°çÑÝÕâ¸ö½ÇÉ«\nAlt-clickÉ±µôÕâ¸ö½ÇÉ«§!;;;;;;;;;;X
+CHARACTER_DEBUG;µ÷ÊÔ£º\nCtrl-click°çÑÝÕâ¸ö½ÇÉ«\nAlt-clickÉ±µôÕâ¸ö½ÇÉ«;;;;;;;;;;X
 INTERACTION_COALITION_REQUIRES_NO_ALLY;ÏÖÔÚÃ»ÓÐÓë§Y[Recipient.GetTitledFirstName]§!½áÃË;;;;;;;;;;X
 UNIT_MAX;×î´ó£º$MAX|Y$;;;;;;;;;;X
 UNIT_CURRENT;µ±Ç°£º$CURRENT|Y$;;;;;;;;;;X
