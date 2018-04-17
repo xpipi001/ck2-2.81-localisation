@@ -1,11 +1,12 @@
-temple_baron_west_african_pagan;¼ÀË¾;;;;;;;;;;X
-temple_baron_west_african_pagan_reformed;¼ÀË¾;;;;;;;;;;X
-temple_baron_female_west_african_pagan;Å®¼ÀË¾;;;;;;;;;;X
-temple_baron_female_west_african_pagan_reformed;Å®¼ÀË¾;;;;;;;;;;X
-MATCHMAKING_REFRESH_LAN_STOP;Í£Ö¹Ë¢ĞÂ;;;;;;;;;;X
-VS_REL_ENEMY;Õë¶Ô×Ú½ÌµĞÈËµÄ¹¥»÷;;;;;;;;;;X
-EXILE_IMPRISONED_INTERACTION_3;·ÅÖğ¸ÃÈËÎï½«»¨·ÑÄã§R$PIETY$§!$PIETYNAME$¡£;;;;;;;;;;X
-S_TRO;ST;;;;;;;;;;X
-defenderbonus_jungle;´ÔÁÖ;;;;;;;;;;X
-HAS_AUTOCEPHALY;ÓµÓĞ¶«Õı½Ì×ÔÖÎ½Ì»á;;;;;;;;;;X
-HAS_NOT_AUTOCEPHALY;Ã»ÓĞ¶«Õı½Ì×ÔÖÎ½Ì»á;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+temple_baron_west_african_pagan;ç¥­å¸;;;;;;;;;;x
+temple_baron_west_african_pagan_reformed;ç¥­å¸;;;;;;;;;;x
+temple_baron_female_west_african_pagan;å¥³ç¥­å¸;;;;;;;;;;x
+temple_baron_female_west_african_pagan_reformed;å¥³ç¥­å¸;;;;;;;;;;x
+MATCHMAKING_REFRESH_LAN_STOP;åœæ­¢åˆ·æ–°;;;;;;;;;;x
+VS_REL_ENEMY;é’ˆå¯¹å®—æ•™æ•Œäººçš„æ”»å‡»;;;;;;;;;;x
+EXILE_IMPRISONED_INTERACTION_3;æ”¾é€è¯¥äººç‰©å°†èŠ±è´¹ä½ Â§R$PIETY$Â§!$PIETYNAME$ã€‚;;;;;;;;;;x
+S_TRO;ST;;;;;;;;;;x
+defenderbonus_jungle;ä¸›æ—;;;;;;;;;;x
+HAS_AUTOCEPHALY;æ‹¥æœ‰ä¸œæ­£æ•™è‡ªæ²»æ•™ä¼š;;;;;;;;;;x
+HAS_NOT_AUTOCEPHALY;æ²¡æœ‰ä¸œæ­£æ•™è‡ªæ²»æ•™ä¼š;;;;;;;;;;x

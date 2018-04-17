@@ -1,52 +1,53 @@
-TITLE_EMPIRE_CREATION_PIETY_COST;ÄãĞèÒª §R$COST$§! $PIETYNAME$ À´´´½¨Ò»¸öµÛ¹ú.;;;;;;;;;;X
-muslim_invasion_desc;§Y$TARGET$§!²»ÊÇÕıĞÅµÄÒ»Ô±¡ª¡ªÕâÒ»½è¿Ú×ãÒÔÈÃ§Y$CLAIMANT$§!ÈëÇÖ§Y$TITLE$§!¡£Èç¹û³É¹¦£¬§Y$TITLE$§!ÄÚ§Y$TARGET$§!¿ØÖÆÏÂµÄËùÓĞÍ·ÏÎ¶¼½«±»¶á×ß»ò¸½Ó¹¡£;;;;;;;;;;X
-duke_female_iranian;°£Ã×À­;;;;;;;;;;X
-count_female_iranian;Ğ»¹ş;;;;;;;;;;X
-baron_female_iranian;ÍßÀûæ«;;;;;;;;;;X
-count_female_arabic;Ğ»¹ş;;;;;;;;;;X
-baron_female_arabic;ÍßÀûæ«;;;;;;;;;;X
-king_female_turkish;ËÕµ¤ÄÈ;;;;;;;;;;X
-duke_female_turkish;±´ÒÁÀÕ°ÍÑå;;;;;;;;;;X
-count_female_turkish;°ÍÑå;;;;;;;;;;X
-baron_female_turkish;ÌáÂêÀûÅ·Ëş;;;;;;;;;;X
-job_chancellor_west_african;´óÎ¬Æë¶û;;;;;;;;;;X
-emperor_arabic;°ÍµÏÉ³°¢;;;;;;;;;;X
-CALIPHA;¹şÀï·¢;;;;;;;;;;X
-PIETY_LAW_PASSED_SETUP;ÖÆ¶©ÄÂË¹ÁÖµÄ·¨ÂÉ;;;;;;;;;;X
-PIETY_LAW_PASSED_LOG;§Y$RULER$§!ÔÚ§Y$TITLE$§!ÖÆ¶©ÁË§Y$LAW$§!·¨¡£;;;;;;;;;;X
-DISBAND_EVENT_FORCES;ÓÉÊÂ¼şËù²úÉúµÄ¾ü¶ÓÒÑ¾­±»½âÉ¢;;;;;;;;;;X
-iqta_contract;±øÒÛ;;;;;;;;;;X
-iqta_contract_desc;ÒÁ¿ËËşÕ÷Ä¼·¨¿ØÖÆÁËÕ÷Ä¼µÄ·¶Î§Òò´ËÄÂË¹ÁÖµÄÖîºîÁìÖ÷±ØĞëÎªËûÃÇµÄ¾ıÖ÷·şÎñ.;;;;;;;;;;X
-iqta_contract_0;×îµÍ±øÒÛ;;;;;;;;;;X
-iqta_contract_0_option;×îµÍ;;;;;;;;;;X
-iqta_contract_0_desc;ÁìÖ÷ĞèÏò¾ıÖ÷Ìá¹©¹ı³¬°ëÊıµÄ±øÔ±.;;;;;;;;;;X
-iqta_contract_1;µÍ±øÒÛ;;;;;;;;;;X
-iqta_contract_1_option;µÍ;;;;;;;;;;X
-iqta_contract_1_desc;ÁìÖ÷¿ÉÒÔÎª×Ô¼º±£Áô¹Ø¼üµÄ±øÔ±.;;;;;;;;;;X
-iqta_contract_2;ÖĞµÈ±øÒÛ;;;;;;;;;;X
-iqta_contract_2_option;ÖĞµÈ;;;;;;;;;;X
-iqta_contract_2_desc;ÁìÖ÷¿ÉÒÔÔÚ×¤¾üÍâ±£ÁôÒ»·İ»ú¶¯±øÁ¦.;;;;;;;;;;X
-iqta_contract_3;×î¸ß±øÒÛ;;;;;;;;;;X
-iqta_contract_3_option;×î¸ß;;;;;;;;;;X
-iqta_contract_3_desc;ÁìÖ÷ÓĞÒåÎñÌá¹©È«²¿±øÔ±.;;;;;;;;;;X
-iqta_tax;ÒØË°;;;;;;;;;;X
-iqta_tax_desc;²»Í¬ÓÚ»ù¶½½ÌµÄ·â½¨ÁìÖ÷£¬ÖîºîÁìÖ÷ÄÂË¹ÁÖÊÇ²»±»ÃâË°µÄ, ²»¹ıËûÃÇ±ÈÆ½ÃñÄÉË°ÒªÉÙ.;;;;;;;;;;X
-iqta_tax_0;×îµÍÒØË°;;;;;;;;;;X
-iqta_tax_0_option;ÎŞ;;;;;;;;;;X
-iqta_tax_0_desc;Ãâ³ıÁìÖ÷µÄÒØË° - ÕâÊÇËûÃÇËùÏ²»¶µÄÑù×Ó.;;;;;;;;;;X
-iqta_tax_1;µÍÒØË°;;;;;;;;;;X
-iqta_tax_1_option;µÍ;;;;;;;;;;X
-iqta_tax_1_desc;ÎªÁËÈÃ¹ú¼Ò»ñµÃ¸ü´óµÄÀûÒæ£¬ÁìÖ÷±»ÒªÇó¸¶³öÎ¢Ğ¡µÄ´ú¼Û. ËûÃÇÆÚÍûÈç´Ë.;;;;;;;;;;X
-iqta_tax_2;¸ßÒØË°;;;;;;;;;;X
-iqta_tax_2_option;¸ß;;;;;;;;;;X
-iqta_tax_2_desc;ÎªÁËÈÃ¹ú¼Ò»ñµÃ¸ü´óµÄÀûÒæ£¬ÁìÖ÷±»ÒªÇó×ö³ö¹Ø¼üµÄ¹±Ï×. ËûÃÇ»á¶Ô´ËÂÔ¸ĞÊ§Íû.;;;;;;;;;;X
-iqta_tax_3;×î¸ßÒØË°;;;;;;;;;;X
-iqta_tax_3_option;×î¸ß;;;;;;;;;;X
-iqta_tax_3_desc;ÎªÁËÈÃ¹ú¼Ò»ñµÃ¸ü´óµÄÀûÒæ£¬ÁìÖ÷±»ÒªÇó¸¶³ö¾Ş´óµÄ´ú¼Û. ËûÃÇ»á¶Ô´Ë·Ç³£Ê§Íû.;;;;;;;;;;X
-controls_mecca_medina;¿ØÖÆ §YÂó¼Ó§! Óë §YÂóµØÄÇ§!\n;;;;;;;;;;X
-controls_jerusalem_damascus_baghdad;¿ØÖÆ §YÒ®Â·ÈöÀä§!, §Y´óÂíÊ¿¸ï§! ÒÔ¼° §Y°Í¸ñ´ï§!\n;;;;;;;;;;X
-controls_kaliopolis_thrake;¿ØÖÆ §Y¿¨Àû°Â²¨ÀûË¹§! Óë §YÉ«À×Ë¹§!\n;;;;;;;;;;X
-jizya_tax;ÈËÍ·Ë°;;;;;;;;;;X
-desc_jizya_tax;"Ò»ÏîÕë¶Ô·ÇÄÂË¹ÁÖÈË¿ÚµÄË°ÊÕ, Ë°¶îÒª±ÈÄÂË¹ÁÖËù½ÉÄÉµÄ¼ÃÆ¶Ë°¸ß£¬ÓÉ´ËÔö¼ÓÁË×ÜÌåË°ÊÕÊÕÈë";;;;;;;;;;X
-INTERACTION_CANNOT_TRANSFER_DUKES_TO_NON_DJ;¹«¾ôºÍ¹«¾ôÒÔÉÏµÄÁìÖ÷Ö»ÄÜ×ªÒÆ¸øËûÃÇµÄ·¨Àí¾ıÖ÷;;;;;;;;;;X
-ARRANGE_BETROTHAL_INTERACTION_MUSLIM;ÌáÒé §Y[ActorExtra.GetTitledFirstName]§W Óë §Y[RecipientExtra.GetTitledFirstName]§W ¶©Á¢»éÔ¼.;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TITLE_EMPIRE_CREATION_PIETY_COST;ä½ éœ€è¦ Â§R$COST$Â§! $PIETYNAME$ æ¥åˆ›å»ºä¸€ä¸ªå¸å›½.;;;;;;;;;;x
+muslim_invasion_desc;Â§Y$TARGET$Â§! ä¸æ˜¯çœŸæ­£çš„ä¿¡å¾’ -  - è¿™æ˜¯Â§Y$CLAIMANT$Â§!å‘Â§Y$TITLE$Â§!å¼€æˆ˜çš„ç†ç”±! å¦‚æœæˆåŠŸ, Â§Y$TARGET$Â§! åœ¨ Â§Y$TITLE$Â§! çš„ä¸€åˆ‡é¢†åœŸå°†ä¼šè¢«å é¢†æˆ–è€…é™„åº¸.;;;;;;;;;;x
+duke_female_iranian;ä½³ä¸½;;;;;;;;;;x
+count_female_iranian;è°¢èµ«è‰¾å“ˆè¿ˆå¾·;;;;;;;;;;x
+baron_female_iranian;ç“¦åˆ©äºš;;;;;;;;;;x
+count_female_arabic;è°¢èµ«è‰¾å“ˆè¿ˆå¾·;;;;;;;;;;x
+baron_female_arabic;ç“¦åˆ©äºš;;;;;;;;;;x
+king_female_turkish;æ’’åŠ›å¦;;;;;;;;;;x
+duke_female_turkish;è´å‹’å·´å½¦;;;;;;;;;;x
+count_female_turkish;å·´å½¦;;;;;;;;;;x
+baron_female_turkish;å·´å½¦;;;;;;;;;;x
+job_chancellor_west_african;å¤§æ€»ç£;;;;;;;;;;x
+emperor_arabic;å¤§æ²™ç‹;;;;;;;;;;x
+CALIPHA;å“ˆé‡Œå‘;;;;;;;;;;x
+PIETY_LAW_PASSED_SETUP;åˆ¶è®¢ç©†æ–¯æ—çš„æ³•å¾‹;;;;;;;;;;x
+PIETY_LAW_PASSED_LOG;Â§Y$RULER$Â§!åœ¨Â§Y$TITLE$Â§!åˆ¶è®¢äº†Â§Y$LAW$Â§!æ³•ã€‚;;;;;;;;;;x
+DISBAND_EVENT_FORCES;ç”±äº‹ä»¶æ‰€äº§ç”Ÿçš„å†›é˜Ÿå·²ç»è¢«è§£æ•£;;;;;;;;;;x
+iqta_contract;å…µå½¹;;;;;;;;;;x
+iqta_contract_desc;ä¼Šå…‹å¡”å¾å‹Ÿæ³•æ§åˆ¶äº†å¾å‹Ÿçš„èŒƒå›´å› æ­¤ç©†æ–¯æ—çš„è¯¸ä¾¯é¢†ä¸»å¿…é¡»ä¸ºä»–ä»¬çš„å›ä¸»æœåŠ¡.;;;;;;;;;;x
+iqta_contract_0;æœ€ä½å…µå½¹;;;;;;;;;;x
+iqta_contract_0_option;æœ€ä½;;;;;;;;;;x
+iqta_contract_0_desc;é¢†ä¸»éœ€å‘å›ä¸»æä¾›è¿‡è¶…åŠæ•°çš„å…µå‘˜.;;;;;;;;;;x
+iqta_contract_1;ä½å…µå½¹;;;;;;;;;;x
+iqta_contract_1_option;ä½;;;;;;;;;;x
+iqta_contract_1_desc;é¢†ä¸»å¯ä»¥ä¸ºè‡ªå·±ä¿ç•™å…³é”®çš„å…µå‘˜.;;;;;;;;;;x
+iqta_contract_2;ä¸­ç­‰å…µå½¹;;;;;;;;;;x
+iqta_contract_2_option;ä¸­ç­‰;;;;;;;;;;x
+iqta_contract_2_desc;é¢†ä¸»å¯ä»¥åœ¨é©»å†›å¤–ä¿ç•™ä¸€ä»½æœºåŠ¨å…µåŠ›.;;;;;;;;;;x
+iqta_contract_3;æœ€é«˜å…µå½¹;;;;;;;;;;x
+iqta_contract_3_option;æœ€é«˜;;;;;;;;;;x
+iqta_contract_3_desc;é¢†ä¸»æœ‰ä¹‰åŠ¡æä¾›å…¨éƒ¨å…µå‘˜.;;;;;;;;;;x
+iqta_tax;é‚‘ç¨;;;;;;;;;;x
+iqta_tax_desc;ä¸åŒäºåŸºç£æ•™çš„å°å»ºé¢†ä¸»ï¼Œè¯¸ä¾¯é¢†ä¸»ç©†æ–¯æ—æ˜¯ä¸è¢«å…ç¨çš„, ä¸è¿‡ä»–ä»¬æ¯”å¹³æ°‘çº³ç¨è¦å°‘.;;;;;;;;;;x
+iqta_tax_0;æœ€ä½é‚‘ç¨;;;;;;;;;;x
+iqta_tax_0_option;æ— ;;;;;;;;;;x
+iqta_tax_0_desc;å…é™¤é¢†ä¸»çš„é‚‘ç¨ - è¿™æ˜¯ä»–ä»¬æ‰€å–œæ¬¢çš„æ ·å­.;;;;;;;;;;x
+iqta_tax_1;ä½é‚‘ç¨;;;;;;;;;;x
+iqta_tax_1_option;ä½;;;;;;;;;;x
+iqta_tax_1_desc;ä¸ºäº†è®©å›½å®¶è·å¾—æ›´å¤§çš„åˆ©ç›Šï¼Œé¢†ä¸»è¢«è¦æ±‚ä»˜å‡ºå¾®å°çš„ä»£ä»·. ä»–ä»¬æœŸæœ›å¦‚æ­¤.;;;;;;;;;;x
+iqta_tax_2;é«˜é‚‘ç¨;;;;;;;;;;x
+iqta_tax_2_option;é«˜;;;;;;;;;;x
+iqta_tax_2_desc;ä¸ºäº†è®©å›½å®¶è·å¾—æ›´å¤§çš„åˆ©ç›Šï¼Œé¢†ä¸»è¢«è¦æ±‚åšå‡ºå…³é”®çš„è´¡çŒ®. ä»–ä»¬ä¼šå¯¹æ­¤ç•¥æ„Ÿå¤±æœ›.;;;;;;;;;;x
+iqta_tax_3;æœ€é«˜é‚‘ç¨;;;;;;;;;;x
+iqta_tax_3_option;æœ€é«˜;;;;;;;;;;x
+iqta_tax_3_desc;ä¸ºäº†è®©å›½å®¶è·å¾—æ›´å¤§çš„åˆ©ç›Šï¼Œé¢†ä¸»è¢«è¦æ±‚ä»˜å‡ºå·¨å¤§çš„ä»£ä»·. ä»–ä»¬ä¼šå¯¹æ­¤éå¸¸å¤±æœ›.;;;;;;;;;;x
+controls_mecca_medina;æ§åˆ¶ Â§Yéº¦åŠ Â§! ä¸ Â§Yéº¦åœ°é‚£Â§!\n;;;;;;;;;;x
+controls_jerusalem_damascus_baghdad;æ§åˆ¶ Â§Yè€¶è·¯æ’’å†·Â§!, Â§Yå¤§é©¬å£«é©Â§! ä»¥åŠ Â§Yå·´æ ¼è¾¾Â§!\n;;;;;;;;;;x
+controls_kaliopolis_thrake;æ§åˆ¶ Â§Yå¡åˆ©å¥¥æ³¢åˆ©æ–¯Â§! ä¸ Â§Yè‰²é›·æ–¯Â§!\n;;;;;;;;;;x
+jizya_tax;äººå¤´ç¨;;;;;;;;;;x
+desc_jizya_tax;"ä¸€é¡¹é’ˆå¯¹éç©†æ–¯æ—äººå£çš„ç¨æ”¶, ç¨é¢è¦æ¯”ç©†æ–¯æ—æ‰€ç¼´çº³çš„æµè´«ç¨é«˜ï¼Œç”±æ­¤å¢åŠ äº†æ€»ä½“ç¨æ”¶æ”¶å…¥";;;;;;;;;;x
+INTERACTION_CANNOT_TRANSFER_DUKES_TO_NON_DJ;å…¬çˆµå’Œå…¬çˆµä»¥ä¸Šçš„é¢†ä¸»åªèƒ½è½¬ç§»ç»™ä»–ä»¬çš„æ³•ç†å›ä¸»;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_MUSLIM;æè®® Â§Y[ActorExtra.GetTitledFirstName]Â§! ä¸ Â§Y[RecipientExtra.GetTitledFirstName]Â§! è®¢ç«‹å©šçº¦.;;;;;;;;;;x

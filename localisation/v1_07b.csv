@@ -1,96 +1,97 @@
-FACTION_LEADER;ÅÉÏµÁìµ¼ÈË;;;;;;;;;;X
-FACTION_MEMBER;ÅÉÏµ³ÉÔ±;;;;;;;;;;X
-opinion_defeated_major_revolt;·ÛËéÖØÒª·´ÅÑ;;;;;;;;;;X
-opinion_spared_after_revolt;¿íË¡ÅÑÂÒ;;;;;;;;;;X
-opinion_divine_blood_marriage;ÑªÇ×Ê¥»é;;;;;;;;;;X
-opinion_non_divine_marriage;ÙôäÂ»éÒö;;;;;;;;;;X
-action_uncover_plots;ÃÜÄ±;;;;;;;;;;X
-miaphysite;»ù¶½ºÏÐÔÅÉ;;;;;;;;;;X
-monothelite;»ù¶½Ò»Ö¾ÅÉ;;;;;;;;;;X
-d_miaphysite;»ù¶½ºÏÐÔÅÉ½Ì×Ú;;;;;;;;;;X
-d_miaphysite_adj;¿ÆÆÕÌØ½Ì×Ú;;;;;;;;;;X
-COPTIC_POPE;¿ÆÆÕÌØ½Ì×Ú;;;;;;;;;;X
-INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;²»ÄÜñÝ¶áÄã×Ú½ÌÁìÐä×îºóµÄÉñÃíµØ²ú¡£;;;;;;;;;;X
-d_monophysite;»ù¶½Ò»ÐÔÅÉ½Ì×Ú;;;;;;;;;;X
-d_monophysite_adj;»ù¶½Ò»ÐÔÅÉ½Ì×Ú;;;;;;;;;;X
-MONOPHYSITE_POPE;»ù¶½Ò»ÐÔÅÉ½Ì×Ú;;;;;;;;;;X
-d_nestorian;¶«·½½Ì»áÄÁÊ×;;;;;;;;;;X
-d_nestorian_adj;¶«·½½Ì»áÄÁÊ×;;;;;;;;;;X
-PATRIARCH_IN_THE_EAST;¶«·½½Ì»áÄÁÊ×;;;;;;;;;;X
-d_monothelite;»ù¶½Ò»Ö¾ÅÉÄÁÊ×;;;;;;;;;;X
-d_monothelite_adj;»ù¶½Ò»Ö¾ÅÉÄÁÊ×;;;;;;;;;;X
-MONOTHELITE_PATRIARCH;»ù¶½Ò»Ö¾ÅÉÄÁÊ×;;;;;;;;;;X
-INTERACTION_TITLE_NOT_CONTESTED;Ã»ÓÐÈÎºÎµÄÕ½Õù½è¿Ú;;;;;;;;;;X
-AND_TRIGGER_STARTS;ÒÔÏÂ±ØÐëÊÇÇÐÊµ¿ÉÐÐµÄ;;;;;;;;;;X
-WAR_INVALID_LOG;$WAR$ÎÞ½á¹ûµØ½áÊøÁË$REASON$;;;;;;;;;;X
-WAR_INVALID_CHARACTER_UNLANDED;\n($CHARACTER$ Ï÷·ª);;;;;;;;;;X
-WAR_INVALID_LIEGE_HIERARCHY;\n(¾ý³¼¹ØÏµ±ä»¯ $CHARACTER$);;;;;;;;;;X
-REL_PENTARCHS_NON_ORTHODOX_DESC;ÕâÐ©ÁìÐäÊÇ×î³õµÄ»ù¶½½ÌÎå´óÄÁÊ×¡£ËûÃÇ×Ô¹ÅÒÔÀ´¹«ÈÏµÄ×ÔÐÐÈÎÃüÖ÷½ÌµÄÈ¨ÀûÈÔ±» $RELIGION$ ³ÐÈÏ.;;;;;;;;;;X
-PENTARCH_DESC;Ä¿Ç°Ã»ÓÐ$RELIGION$µÄ§Y$TITLE$§!Ö÷½Ì;;;;;;;;;;X
-HEAD_NOT_PENTARCH_DESC;$REL_HEAD$Ä¿Ç°Ã»ÓÐ§Y$TITLE$§!Í·ÏÎ;;;;;;;;;;X
-AUTOCEPHALY_DRO;³ýÁË×î³õÎå´óÄÁÊ×¡ª¡ªÎå´óÄÁÊ×Çø¡ª¡ªÆäËû$RELIGION$Íõ¹ú»òµÛ¹úÒ²ÓÐ¸÷×ÔµÄÄÁÊ×¡£ÕâÑùµÄÍõ¹ú»òµÛ¹úµÄ¹¬Í¢ÄÁÊ¦Ò²±»ÈÏÎªµÈÍ¬ÓÚÄÁÊ×¡£ËûÃÇ×ÜÊÇÌý´ÓÁìÖ÷µÄ·Ô¸À£¬µ«Ö»ÓÐ$REL_HEAD_TITLE$¿ÉÒÔÊÚÓèÈëÇÖÀíÓÉ¡£Ã¿¸ö¶ÀÁ¢µÄÄÁÊ×ÔÚÆä¿ØÖÆÁìÓòÄÚ¶¼ÓÐ¾ø·£µÄÈ¨Àû¡£;;;;;;;;;;X
-LEAVE_FACTION_DIPLO_IMMUNE;Ö»Òª×îºóÍ¨ëºÒÑ¾­·¢³ö¾Í²»ÄÜÀë¿ª!;;;;;;;;;;X
-IS_DIPLO_IMMUNE;²»ÊÜµÐ¶ÔÁìÖ÷µÄÐÐ¶¯µÄÓ°Ïì;;;;;;;;;;X
-IS_NOT_DIPLO_IMMUNE;ÊÜµ½µÐ¶ÔÁìÖ÷µÄÐÐ¶¯µÄÓ°Ïì;;;;;;;;;;X
-INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;§Y[Recipient.GetTitledFirstName]§! Ä¿Ç°²»ÊÜµÐ¶ÔÁìÖ÷µÄÐÐ¶¯µÄÓ°Ïì;;;;;;;;;;X
-NO_FACTIONS_POSSIBLE_NOW;§RÔÚÕâ¶ÎÊ±¼äÃ»ÓÐÈÎºÎÇ±ÔÚÅÉÏµ.§!;;;;;;;;;;X
-INTERACTION_CANNOT_JOIN_ENEMIES;²»¼ÓÈëÎÒÃÇµ±Ç°µÐÈËµÄÕ½Õù;;;;;;;;;;X
-AIREASON_IS_MY_REGENT;§Y[GetTitledFirstName]§!ÊÇÎÒµÄÉãÕþ;;;;;;;;;;X
-EVTDESC45000;ÎÒÃÇÕýÒåµÄÊÂÒµÒÑ¾­µÃµ½¸÷µØ¹ã·ºµÄÖ§³Ö! [From.GetTitledFirstName] µ±ÐÄ...;;;;;;;;;;X
-EVTDESC45001;´ó¹ÉÅÑ¾üºÍ»ú»áÖ÷ÒåÕßÍ¶¿¿ÁËÔÚ[From.Capital.GetName]µÄ²»ÖÒµÄÅÑÄæ [From.GetTitledFirstName]!;;;;;;;;;;X
-EVTOPTA45001;°ÑËûÃÇÈ«²¿ÄÃÈ¥Î¹ÍºðÕ!;;;;;;;;;;X
-EVTDESC45002;³ÖÐø½øÐÐµÄÄÚÕ½Ê¹µÃÀÏ±øºÍ¸÷ÖÖ»ú»áÖ÷ÒåÕß²»¶ÏÏò [Root.Capital.GetName] ¾Û¼¯!;;;;;;;;;;X
-EVTDESC45003;´óÁ¿µÄÀÏ±øºÍ¸÷ÖÖ»ú»áÖ÷ÒåÕß²»¶ÏÍ¶¿¿ÔÚ[From.Capital.GetName]µÄ [From.GetTitledName] £¬²¢ÇÒÔÚÎÒÃÇ×÷Õ½!;;;;;;;;;;X
-EVTOPTA45003;½ÓÏÂÀ´ Å®ÈËºÍº¢×Ó;;;;;;;;;;X
-EVTDESC8037;Î°´óµÄ [Root.GetTitledFirstName]!ÎÒºÍÒ»¶ÑÖÒ³ÏµÄÊ¿±øÒÑ¾­ÏòÅÑÄæ·¢³öÁË×îºóÍ¨ëº, [From.Liege.GetTitledName], ÇëÇóÄãÍ³ÖÎ [From.SupportedClaimantTitle.GetName].×£ÎÒÃÇºÃÔË!\n\nÐ´µÀ,\n[From.GetTitledName];;;;;;;;;;X
-EVTOPTA8037;Õâ¿ÉÄÜ»áºÜÄÑ¿´...;;;;;;;;;;X
-EVTDESC20369;ÎÒµÄÁìÖ÷, [FromFrom.GetTitledName] ¾ö¶¨²»Ã°ÏÕ´Ì¼¤ËûµÄ·â³¼ ²¢ÇÒ³ÐÈÏ¸¯°ÜµÄÖ¸¿Ø. Õâ¿ÉÄÜÐèÒª»¨·ÑÒ»µãÊ±¼äÀ´ÈÃ [FromFrom.GetHerHis] »Ö¸´ÉùÍû £¬ÎÒºÜºÃµÄÊÕ¼¯ÁËÏà¹ØÐÅÏ¢.\n\nÄãÇ«±°µÄ¼äµý×Ü¹Ü,\n[From.GetTitledName];;;;;;;;;;X
-EVTTOOLTIP2484;Õâ¸öº¢×ÓÐèÒªÒ»¸ö¼à»¤Õß.;;;;;;;;;;X
-EVTOPTD4140;ÎÒÃÇÈ·ÊÇ°²À­ËùÕÆÎÕµÄ£¬ÎÒÃÇ½«±Ø¹éì¶Ëû;;;;;;;;;;X
-blinded_death;Ê§Ã÷ÒýÆðµÄ²¢·¢Ö¢;;;;;;;;;;X
-successful_sally;·ÀÓù²¿¶ÓµÃµ½§G10.0%§!Ê¿Æø.\n ·ÀÓù²¿¶ÓÊÜµ½§R2.5%§!ËðÊ§.\n§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½§R5.0%§!ËðÊ§.;;;;;;;;;;X
-successful_sally_attacker;½ø¹¥²¿¶ÓÊÜµ½§R5.0%§!ËðÊ§.\n§GµÐÈË:§! ·ÀÓù²¿¶ÓµÃµ½ §G10.0%§!Ê¿Æø.\n·ÀÓù²¿¶ÓÊÜµ½§R2.5%§!ËðÊ§.;;;;;;;;;;X
-failed_sally;·ÀÓù²¿¶ÓµÃµ½§R-10.0%§!Ê¿Æø.\n·ÀÓù²¿¶ÓÊÜµ½§R5.0%§!ËðÊ§.\n§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½§R2.5%§!ËðÊ§.;;;;;;;;;;X
-siege_treachery;·ÀÓù²¿¶ÓµÃµ½§R-10.0%§!Ê¿Æø.;;;;;;;;;;X
-siege_disease;§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½ §R5.0%§! ËðÊ§.;;;;;;;;;;X
-siege_raiders;§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½ §R1.0%§! ËðÊ§.;;;;;;;;;;X
-siege_execute;§GµÐÈË:§! ·ÀÓù²¿¶ÓµÃµ½ §G10.0%§! Ê¿Æø.;;;;;;;;;;X
-siege_hunger;§GµÐÈË:§! ·ÀÓù²¿¶ÓÊÜµ½ §R5.0%§! ËðÊ§.;;;;;;;;;;X
-siege_trader;§GµÐÈË:§! ·ÀÓù²¿¶ÓµÃµ½ §G10.0%§! Ê¿Æø.;;;;;;;;;;X
-siege_miracle;½ø¹¥²¿¶ÓÊÜµ½ §R90.0%§! ËðÊ§.\n½ø¹¥²¿¶ÓµÃµ½ §R-90.0%§! Ê¿Æø.\n§GµÐÈË:§! ·ÀÓù²¿¶ÓµÃµ½§G100.0%§! Ê¿Æø.;;;;;;;;;;X
-siege_personal_charge;·ÀÓù²¿¶ÓµÃµ½§R-10.0%§! Ê¿Æø.;;;;;;;;;;X
-siege_assault;·ÀÓù²¿¶ÓµÃµ½ §R-20.0%§! Ê¿Æø.\n·ÀÓù²¿¶ÓÊÕµ½ §R20.0%§! ËðÊ§.\n§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½ §R10.0%§! ËðÊ§.;;;;;;;;;;X
-siege_hide;·ÀÓù²¿¶ÓµÃµ½ §R-5.0%§! Ê¿Æø.\n·ÀÓù²¿¶ÓÊÜµ½ §R5.0%§! ËðÊ§.\n§GµÐÈË:§! ½ø¹¥²¿¶ÓÊÜµ½§R15.0%§! ËðÊ§.;;;;;;;;;;X
-INTERACTION_REQUIRES_BOTH_OF_AGE;§Y$ACTOR_PERSON$§WºÍ§Y$RECIPIENT_PERSON$§W ¶¼ÓÐÖÁÉÙ §Y$YEARS$§! Ëê;;;;;;;;;;X
-EVTOPTA62039;×öµÃºÃ£¬É½Ôô£¡;;;;;;;;;;X
-EVTNAME62011;Ææ¼£!;;;;;;;;;;X
-EVTNAME62041;ÔÖÄÑ!;;;;;;;;;;X
-EVTOPTA62034;ËûÃÇ»áÎª´Ë¸¶³ö´ú¼ÛµÄ!;;;;;;;;;;X
-EVTOPTA62041;ÕâÊÇÔõÃ´·¢ÉúµÄ;;;;;;;;;;X
-EVTNAME62044;µÐÈË¹¥»÷;;;;;;;;;;X
-EVTDESC62044;Î§¹¥ÎÒÃÇÒªÈûµÄ»ù¶½½ÌÖ¸»Ó¹ÙÇ××Ô´ø¶Ó³åÏòÁËÎÒÃÇµÄ³ÇÇ½! Ëû·è¿ñµØ³å·æÈÃÎÒÃÇÓÂ¸ÒµÄÎÀÊ¿³ÔÁËÒ»´ó¾ª!;;;;;;;;;;X
-EVTOPTA62044;·è×Ó!;;;;;;;;;;X
-EVTDESC62045;µÐÈË¶ÔÎÒÃÇµÄÒªÈû·¢¶¯ÁË´ó¹æÄ£³å·æ!ÎÒÃÇµÄ¶Ô´ËºÁÎÞ×¼±¸!;;;;;;;;;;X
-EVTOPTA62045;×¼±¸·ÀÓù!;;;;;;;;;;X
-CB_NAME_IMPERIAL;[Title.GetBaseName]µÄµÛ¹úÔÙÕ÷·þ;;;;;;;;;;X
-WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ $OTHER_TITLE$µÛ¹úÔÙÕ÷·þ;;;;;;;;;;X
-imperial_reconquest_desc;±ØÐë¶á»ØÂÞÂíµÛ¹ú¶ªÊ§µÄÁìÍÁ! §Y$CLAIMANT$§!¿ÉÒÔÓÃÕâ¸öÐûÕ½ÀíÓÉ¶á»ØËùÓÐ§Y$TITLE$§!·¨Àí·¶Î§ÄÚµÄ±»§Y$TARGET$§!³ÖÓÐµÄÍ·ÏÎ .;;;;;;;;;;X
-COUNTS_AS_PURPLE_BORN;³öÉíÏÔ¹ó;;;;;;;;;;X
-AIREASON_IS_MY_PARENT;ÊÇÎÒµÄ¸¸Ä¸;;;;;;;;;;X
-FLANK_DOES_NOT_HAVE_LEADER;²àÒíÃ»ÓÐÖ¸»ÓÕß;;;;;;;;;;X
-FLANK_HAS_LEADER;²àÒíÓÐÖ¸»ÓÕß;;;;;;;;;;X
-CANNOT_BUY_RET_OCCUPIED;\nÄãÎÞ·¨´´½¨Õâ¸öÇ×ÎÀ¶Ó£¬ÄãÃ»ÓÐ¿ØÖÆÄãµÄÈÎºÎÖ±Ï½ÁìµØ²ú¡£;;;;;;;;;;X
-duke_russian;´ó¹«;;;;;;;;;;X
-duke_female_russian;Å®´ó¹«;;;;;;;;;;X
-duchy_of_russian;´ó¹«¹ú;;;;;;;;;;X
-king_iranian;É³°¢;;;;;;;;;;X
-kingdom_of_iranian;É³°¢¹ú;;;;;;;;;;X
-emperor_female_greek;°ÍÈüÀöÉ¯;;;;;;;;;;X
-EVTTOOLTIP94066;ÄãÅ¬Á¦ÐÞÉÉÄãµÄ»¨Ô°.;;;;;;;;;;X
-MediterraneanPortraitsDLC;µØÖÐº£ÈËÎïÐ¤Ïñ;;;;;;;;;;X
-SongsOfByzantiumDLC;°ÝÕ¼Í¥Ö®ËÌ;;;;;;;;;;X
-ByzantineUnitsDLC;°ÝÕ¼Í¥µ¥Î»²¹¶¡°ü;;;;;;;;;;X
-CK2CoA2DLC;¼Ò×åÆìÖÄ²¹¶¡2;;;;;;;;;;X
-ALL_DIRECT_DE_JURE_VASSAL_TITLES;ËùÓÐÖ±Êô·¨Àí·â³¼Í·ÏÎ;;;;;;;;;;X
-WAR_INVALID_CB_TRIGGER;\n(ÐûÕ½ÀíÓÉ²»ÔÙÓÐÐ§);;;;;;;;;;X
-AfricanPortraitsDLC;·ÇÖÞÈËÍ·Ïñ;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+FACTION_LEADER;æ´¾ç³»é¢†å¯¼äºº;;;;;;;;;;x
+FACTION_MEMBER;æ´¾ç³»æˆå‘˜;;;;;;;;;;x
+opinion_defeated_major_revolt;ç²‰ç¢Žé‡è¦åå›;;;;;;;;;;x
+opinion_spared_after_revolt;å®½æ•å›ä¹±;;;;;;;;;;x
+opinion_divine_blood_marriage;å¤©ä¸»æ‰€é…ï¼Œåœ£å©šæ‰€åˆ;;;;;;;;;;x
+opinion_non_divine_marriage;äºµæ¸Žå©šå§»;;;;;;;;;;x
+action_uncover_plots;å¯†è°‹;;;;;;;;;;x
+miaphysite;ç§‘æ™®ç‰¹æ­£æ•™ä¼š;;;;;;;;;;x
+monothelite;åŸºç£ä¸€å¿—æ´¾;;;;;;;;;;x
+d_miaphysite;ç§‘æ™®ç‰¹æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+d_miaphysite_adj;ç§‘æ™®ç‰¹æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+COPTIC_POPE;ç§‘æ™®ç‰¹æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;ä¸èƒ½ä»Žä½ çš„å®—æ•™é¢†è¢–å‰¥å¤ºå”¯ä¸€å®—æ•™é¢†åœ°ã€‚;;;;;;;;;;x
+d_monophysite;åŸºç£ä¸€æ€§æ´¾æ•™å®—;;;;;;;;;;x
+d_monophysite_adj;åŸºç£ä¸€æ€§æ´¾æ•™å®—;;;;;;;;;;x
+MONOPHYSITE_POPE;åŸºç£ä¸€æ€§æ´¾æ•™å®—;;;;;;;;;;x
+d_nestorian;ä¸œæ­£å¤§ç‰§é¦–;;;;;;;;;;x
+d_nestorian_adj;ä¸œæ­£å¤§ç‰§é¦–;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST;ä¸œæ–¹æ•™å®—;;;;;;;;;;x
+d_monothelite;åŸºç£ä¸€å¿—æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+d_monothelite_adj;åŸºç£ä¸€å¿—æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+MONOTHELITE_PATRIARCH;åŸºç£ä¸€å¿—æ´¾å®—ä¸»æ•™;;;;;;;;;;x
+INTERACTION_TITLE_NOT_CONTESTED;æ²¡æœ‰ä»»ä½•çš„æˆ˜äº‰å€Ÿå£;;;;;;;;;;x
+AND_TRIGGER_STARTS;ä»¥ä¸‹å¿…é¡»æ˜¯åˆ‡å®žå¯è¡Œçš„;;;;;;;;;;x
+WAR_INVALID_LOG;$WAR$ æœ‰å†³å®šæ€§çš„$REASON$;;;;;;;;;;x
+WAR_INVALID_CHARACTER_UNLANDED;\n($CHARACTER$ å‰Šè—©);;;;;;;;;;x
+WAR_INVALID_LIEGE_HIERARCHY;\n(å›è‡£å…³ç³»å˜åŒ– $CHARACTER$);;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;è¿™äº›é¢†è¢–æ˜¯æœ€åˆçš„åŸºç£æ•™äº”å¤§å®—ä¸»æ•™. ä»–ä»¬è‡ªå¤ä»¥æ¥å…¬è®¤çš„è‡ªè¡Œä»»å‘½ä¸»æ•™çš„æƒåˆ©ä»è¢« $RELIGION$ æ‰¿è®¤.;;;;;;;;;;x
+PENTARCH_DESC;ç›®å‰æ²¡æœ‰$RELIGION$çš„Â§Y$TITLE$Â§!ä¸»æ•™;;;;;;;;;;x
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$ç›®å‰æ²¡æœ‰Â§Y$TITLE$Â§!å¤´è¡”;;;;;;;;;;x
+AUTOCEPHALY_DRO; é™¤äº†æœ€åˆäº”å¤§å®—ä¸»æ•™ - äº”å¤§ç‰§é¦–åŒº - å…¶ä»– $RELIGION$ çŽ‹å›½æˆ–å¸å›½ä¹Ÿæœ‰å„è‡ªçš„å®—ä¸»æ•™. è¿™æ ·çš„çŽ‹å›½æˆ–å¸å›½çš„å®«å»·ç‰§å¸ˆä¹Ÿè¢«è®¤ä¸ºç­‰åŒäºŽå®—ä¸»æ•™. ä»–ä»¬æ€»æ˜¯å¬ä»Žé¢†ä¸»çš„å©å’, ä½†åªæœ‰ $REL_HEAD_TITLE$ å¯ä»¥æŽˆäºˆå…¥ä¾µç†ç”±. æ¯ä¸ªç‹¬ç«‹çš„å®—ä¸»æ•™åœ¨å…¶æŽ§åˆ¶é¢†åŸŸå†…éƒ½æœ‰å¼€é™¤æ•™ç±è´¯çš„æƒåˆ©..;;;;;;;;;;x
+LEAVE_FACTION_DIPLO_IMMUNE;åªè¦æœ€åŽé€šç‰’å·²ç»å‘å‡ºå°±ä¸èƒ½ç¦»å¼€!;;;;;;;;;;x
+IS_DIPLO_IMMUNE;ä¸å—æ•Œå¯¹é¢†ä¸»çš„è¡ŒåŠ¨çš„å½±å“;;;;;;;;;;x
+IS_NOT_DIPLO_IMMUNE;å—åˆ°æ•Œå¯¹é¢†ä¸»çš„è¡ŒåŠ¨çš„å½±å“;;;;;;;;;;x
+INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;Â§Y[Recipient.GetTitledFirstName]Â§! ç›®å‰ä¸å—æ•Œå¯¹é¢†ä¸»çš„è¡ŒåŠ¨çš„å½±å“;;;;;;;;;;x
+NO_FACTIONS_POSSIBLE_NOW;Â§Råœ¨è¿™æ®µæ—¶é—´æ²¡æœ‰ä»»ä½•æ½œåœ¨æ´¾ç³».Â§!;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_ENEMIES;ä¸åŠ å…¥æˆ‘ä»¬å½“å‰æ•Œäººçš„æˆ˜äº‰;;;;;;;;;;x
+AIREASON_IS_MY_REGENT;Â§Y[GetTitledFirstName]Â§!æ˜¯æˆ‘çš„æ‘„æ”¿;;;;;;;;;;x
+EVTDESC45000;æˆ‘ä»¬æ­£ä¹‰çš„äº‹ä¸šå·²ç»å¾—åˆ°å„åœ°å¹¿æ³›çš„æ”¯æŒ! [From.GetTitledFirstName] å½“å¿ƒ...;;;;;;;;;;x
+EVTDESC45001;å¤§è‚¡å›å†›å’Œæœºä¼šä¸»ä¹‰è€…æŠ•é äº†åœ¨[From.Capital.GetName]çš„ä¸å¿ çš„å›é€† [From.GetTitledFirstName]!;;;;;;;;;;x
+EVTOPTA45001;æŠŠä»–ä»¬å…¨éƒ¨æ‹¿åŽ»å–‚ç§ƒé¹«!;;;;;;;;;;x
+EVTDESC45002;æŒç»­è¿›è¡Œçš„å†…æˆ˜ä½¿å¾—è€å…µå’Œå„ç§æœºä¼šä¸»ä¹‰è€…ä¸æ–­å‘ [Root.Capital.GetName] èšé›†!;;;;;;;;;;x
+EVTDESC45003;å¤§é‡çš„è€å…µå’Œå„ç§æœºä¼šä¸»ä¹‰è€…ä¸æ–­æŠ•é åœ¨[From.Capital.GetName]çš„ [From.GetTitledName] ï¼Œå¹¶ä¸”åœ¨æˆ‘ä»¬ä½œæˆ˜!;;;;;;;;;;x
+EVTOPTA45003;æŽ¥ä¸‹æ¥ å¥³äººå’Œå­©å­;;;;;;;;;;x
+EVTDESC8037;ä¼Ÿå¤§çš„ [Root.GetTitledFirstName]!æˆ‘å’Œä¸€å †å¿ è¯šçš„å£«å…µå·²ç»å‘å›é€†å‘å‡ºäº†æœ€åŽé€šç‰’, [From.Liege.GetTitledName], è¯·æ±‚ä½ ç»Ÿæ²» [From.SupportedClaimantTitle.GetName].ç¥æˆ‘ä»¬å¥½è¿!\n\nå†™é“,\n[From.GetTitledName];;;;;;;;;;x
+EVTOPTA8037;è¿™å¯èƒ½ä¼šå¾ˆéš¾çœ‹...;;;;;;;;;;x
+EVTDESC20369;æˆ‘çš„é¢†ä¸», [FromFrom.GetTitledName] å†³å®šä¸å†’é™©åˆºæ¿€ä»–çš„å°è‡£ å¹¶ä¸”æ‰¿è®¤è…è´¥çš„æŒ‡æŽ§. è¿™å¯èƒ½éœ€è¦èŠ±è´¹ä¸€ç‚¹æ—¶é—´æ¥è®© [FromFrom.GetHerHis] æ¢å¤å£°æœ› ï¼Œæˆ‘å¾ˆå¥½çš„æ”¶é›†äº†ç›¸å…³ä¿¡æ¯.\n\nä½ è°¦å‘çš„é—´è°æ€»ç®¡,\n[From.GetTitledName];;;;;;;;;;x
+EVTTOOLTIP2484;è¿™ä¸ªå­©å­éœ€è¦ä¸€ä¸ªç›‘æŠ¤è€….;;;;;;;;;;x
+EVTOPTD4140;æˆ‘ä»¬ç¡®æ˜¯å®‰æ‹‰æ‰€æŽŒæ¡çš„ï¼Œæˆ‘ä»¬å°†å¿…å½’æ–¼ä»–;;;;;;;;;;x
+blinded_death;å¤±æ˜Žå¼•èµ·çš„å¹¶å‘ç—‡;;;;;;;;;;x
+successful_sally;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ°Â§G10.0%Â§!å£«æ°”.\n é˜²å¾¡éƒ¨é˜Ÿå—åˆ°Â§R2.5%Â§!æŸå¤±.\nÂ§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ°Â§R5.0%Â§!æŸå¤±.;;;;;;;;;;x
+successful_sally_attacker;è¿›æ”»éƒ¨é˜Ÿå—åˆ°Â§R5.0%Â§!æŸå¤±.\nÂ§Gæ•Œäºº:Â§! é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ° Â§G10.0%Â§!å£«æ°”.\né˜²å¾¡éƒ¨é˜Ÿå—åˆ°Â§R2.5%Â§!æŸå¤±.;;;;;;;;;;x
+failed_sally;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ°Â§R-10.0%Â§!å£«æ°”.\né˜²å¾¡éƒ¨é˜Ÿå—åˆ°Â§R5.0%Â§!æŸå¤±.\nÂ§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ°Â§R2.5%Â§!æŸå¤±.;;;;;;;;;;x
+siege_treachery;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ°Â§R-10.0%Â§!å£«æ°”.;;;;;;;;;;x
+siege_disease;Â§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ° Â§R5.0%Â§! æŸå¤±.;;;;;;;;;;x
+siege_raiders;Â§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ° Â§R1.0%Â§! æŸå¤±.;;;;;;;;;;x
+siege_execute;Â§Gæ•Œäºº:Â§! é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ° Â§G10.0%Â§! å£«æ°”.;;;;;;;;;;x
+siege_hunger;Â§Gæ•Œäºº:Â§! é˜²å¾¡éƒ¨é˜Ÿå—åˆ° Â§R5.0%Â§! æŸå¤±.;;;;;;;;;;x
+siege_trader;Â§Gæ•Œäºº:Â§! é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ° Â§G10.0%Â§! å£«æ°”.;;;;;;;;;;x
+siege_miracle;è¿›æ”»éƒ¨é˜Ÿå—åˆ° Â§R90.0%Â§! æŸå¤±.\nè¿›æ”»éƒ¨é˜Ÿå¾—åˆ° Â§R-90.0%Â§! å£«æ°”.\nÂ§Gæ•Œäºº:Â§! é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ°Â§G100.0%Â§! å£«æ°”.;;;;;;;;;;x
+siege_personal_charge;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ°Â§R-10.0%Â§! å£«æ°”.;;;;;;;;;;x
+siege_assault;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ° Â§R-20.0%Â§! å£«æ°”.\né˜²å¾¡éƒ¨é˜Ÿæ”¶åˆ° Â§R20.0%Â§! æŸå¤±.\nÂ§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ° Â§R10.0%Â§! æŸå¤±.;;;;;;;;;;x
+siege_hide;é˜²å¾¡éƒ¨é˜Ÿå¾—åˆ° Â§R-5.0%Â§! å£«æ°”.\né˜²å¾¡éƒ¨é˜Ÿå—åˆ° Â§R5.0%Â§! æŸå¤±.\nÂ§Gæ•Œäºº:Â§! è¿›æ”»éƒ¨é˜Ÿå—åˆ°Â§R15.0%Â§! æŸå¤±.;;;;;;;;;;x
+INTERACTION_REQUIRES_BOTH_OF_AGE;Â§Y$ACTOR_PERSON$Â§!å’ŒÂ§Y$RECIPIENT_PERSON$Â§! éƒ½æœ‰è‡³å°‘ Â§Y$YEARS$Â§! å²;;;;;;;;;;x
+EVTOPTA62039;åšå¾—å¥½ï¼Œå±±è´¼ï¼;;;;;;;;;;x
+EVTNAME62011;å¥‡è¿¹!;;;;;;;;;;x
+EVTNAME62041;ç¾éš¾!;;;;;;;;;;x
+EVTOPTA62034;ä»–ä»¬ä¼šä¸ºæ­¤ä»˜å‡ºä»£ä»·çš„!;;;;;;;;;;x
+EVTOPTA62041;è¿™æ˜¯æ€Žä¹ˆå‘ç”Ÿçš„;;;;;;;;;;x
+EVTNAME62044;æ•Œäººæ”»å‡»;;;;;;;;;;x
+EVTDESC62044;å›´æ”»æˆ‘ä»¬è¦å¡žçš„åŸºç£æ•™æŒ‡æŒ¥å®˜äº²è‡ªå¸¦é˜Ÿå†²å‘äº†æˆ‘ä»¬çš„åŸŽå¢™! ä»–ç–¯ç‹‚åœ°å†²é”‹è®©æˆ‘ä»¬å‹‡æ•¢çš„å«å£«åƒäº†ä¸€å¤§æƒŠ!;;;;;;;;;;x
+EVTOPTA62044;ç–¯å­!;;;;;;;;;;x
+EVTDESC62045;æ•Œäººå¯¹æˆ‘ä»¬çš„è¦å¡žå‘åŠ¨äº†å¤§è§„æ¨¡å†²é”‹!æˆ‘ä»¬çš„å¯¹æ­¤æ¯«æ— å‡†å¤‡!;;;;;;;;;;x
+EVTOPTA62045;å‡†å¤‡é˜²å¾¡!;;;;;;;;;;x
+CB_NAME_IMPERIAL;[Title.GetBaseName]çš„å¸å›½å†å¾æœ;;;;;;;;;;x
+WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ $OTHER_TITLE$å¸å›½å†å¾æœ;;;;;;;;;;x
+imperial_reconquest_desc;å¿…é¡»å¤ºå›žç½—é©¬å¸å›½ä¸¢å¤±çš„é¢†åœŸ! Â§Y$CLAIMANT$Â§!å¯ä»¥ç”¨è¿™ä¸ªå®£æˆ˜ç†ç”±å¤ºå›žæ‰€æœ‰Â§Y$TITLE$Â§!æ³•ç†èŒƒå›´å†…çš„è¢«Â§Y$TARGET$Â§!æŒæœ‰çš„å¤´è¡” .;;;;;;;;;;x
+COUNTS_AS_PURPLE_BORN;å‡ºèº«æ˜¾è´µ;;;;;;;;;;x
+AIREASON_IS_MY_PARENT;æ˜¯æˆ‘çš„çˆ¶æ¯;;;;;;;;;;x
+FLANK_DOES_NOT_HAVE_LEADER;ä¾§ç¿¼æ²¡æœ‰æŒ‡æŒ¥è€…;;;;;;;;;;x
+FLANK_HAS_LEADER;ä¾§ç¿¼æœ‰æŒ‡æŒ¥è€…;;;;;;;;;;x
+CANNOT_BUY_RET_OCCUPIED;\nä½ æ— æ³•å†Œå°è¿™ä¸ªå¸¸å¤‡å†›ï¼Œä½ æ²¡æœ‰æŽ§åˆ¶ä½ çš„ä»»ä½•ä¸€ä¸ªç§æœ‰å¤´è¡”.;;;;;;;;;;x
+duke_russian;å¤§å…¬;;;;;;;;;;x
+duke_female_russian;å¥³å¤§å…¬;;;;;;;;;;x
+duchy_of_russian;å¤§å…¬å›½;;;;;;;;;;x
+king_iranian;æ²™çŽ‹;;;;;;;;;;x
+kingdom_of_iranian;æ²™çŽ‹å›½;;;;;;;;;;x
+emperor_female_greek;å·´èµ›ä¸½èŽŽ;;;;;;;;;;x
+EVTTOOLTIP94066;ä½ åŠªåŠ›ä¿®ç¼®ä½ çš„èŠ±å›­.;;;;;;;;;;x
+MediterraneanPortraitsDLC;åœ°ä¸­æµ·äººç‰©è‚–åƒ;;;;;;;;;;x
+SongsOfByzantiumDLC;æ‹œå åº­ä¹‹é¢‚;;;;;;;;;;x
+ByzantineUnitsDLC;æ‹œå åº­å•ä½è¡¥ä¸åŒ…;;;;;;;;;;x
+CK2CoA2DLC;å®¶æ—æ——å¸œè¡¥ä¸2;;;;;;;;;;x
+ALL_DIRECT_DE_JURE_VASSAL_TITLES;æ‰€æœ‰ç›´å±žæ³•ç†å°è‡£å¤´è¡”;;;;;;;;;;x
+WAR_INVALID_CB_TRIGGER;\n(å®£æˆ˜ç†ç”±ä¸å†æœ‰æ•ˆ);;;;;;;;;;x
+AfricanPortraitsDLC;éžæ´²äººå¤´åƒ;;;;;;;;;;x

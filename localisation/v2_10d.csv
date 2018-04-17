@@ -1,6 +1,7 @@
-MATCHMAKING_CHATWELCOME;╩╤с╜╫ЬппCK2сно╥адлЛ!;;;;;;;;;;X
-CHAT_SYSTEM;адлЛо╣мЁ;;;;;;;;;;X
-MATCHMAKING_FRIEND_STATUS_PLAYING_THIS;╫ЬппCK2сно╥;;;;;;;;;;X
-MATCHMAKING_FRIEND_STATUS_PLAYING_OTHER;мФаМр╩Ё║сно╥;;;;;;;;;;X
-MATCHMAKING_FRIEND_STATUS_ONLINE;тзоъ;;;;;;;;;;X
-CANNOT_JOIN_FACTION;╖RдЦ╢кй╠╡╩дэ╪схКеио╣.╖!;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MATCHMAKING_CHATWELCOME;Ф╛╒Х©▌Х©⌡Х║▄CK2Ф╦╦Ф┬▐Х│┼Е╓╘!;;;;;;;;;;x
+CHAT_SYSTEM;Х│┼Е╓╘ГЁ╩Г╩÷;;;;;;;;;;x
+MATCHMAKING_FRIEND_STATUS_PLAYING_THIS;Х©⌡Х║▄CK2Ф╦╦Ф┬▐;;;;;;;;;;x
+MATCHMAKING_FRIEND_STATUS_PLAYING_OTHER;Г▌╘Е▐╕Д╦─Е°╨Ф╦╦Ф┬▐;;;;;;;;;;x
+MATCHMAKING_FRIEND_STATUS_ONLINE;Е°╗Г╨©;;;;;;;;;;x
+CANNOT_JOIN_FACTION;б╖RД╫═Ф╜╓Ф≈╤Д╦█Х┐╫Е┼═Е┘╔Ф╢╬ГЁ╩.б╖!;;;;;;;;;;x

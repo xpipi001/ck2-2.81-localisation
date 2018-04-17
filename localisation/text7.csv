@@ -1,64 +1,65 @@
-WIKIPEDIA_LINK;�Yά���ٿ����ӣ�Ӣ�ģ��W;;;;;;;;;;X
-WIKIPEDIA_LINK_DESC;���ά���ٿ��ϵĽ�ɫ����;;;;;;;;;;X
-WIKIPEDIA_LINK_MISSING;�Y�����ɫû��ά���ٿƽ��ܧW;;;;;;;;;;X
-WIKIPEDIA_LINK_DISABLED;ά���ٿ����ӹر�;;;;;;;;;;X
-AIREASON_TARGET_HAS_REPENTED_SINS;�Y[GetBestName]�!����Ѿ����  [GetPossPronoun] ���µ���� .;;;;;;;;;;X
-OL_DISABLED_ALERTS;�رվ���;;;;;;;;;;X
-alert_deficits_name;����;;;;;;;;;;X
-alert_country_at_war_name;ս��״̬;;;;;;;;;;X
-alert_casus_belli_will_expire_name;��ʱ��ս����;;;;;;;;;;X
-alert_allies_not_called_in_name;���ǿ����ٻ�����;;;;;;;;;;X
-alert_build_province_improvement_name;���Խ���ʡ�ݽ���;;;;;;;;;;X
-alert_troops_in_foreign_territory_name;����פ���ڹ�����;;;;;;;;;;X
-alert_revoltrisk_in_provinces_name;���ܱ�������;;;;;;;;;;X
-alert_available_decision_name;��Ҫ����;;;;;;;;;;X
-alert_noheir_name;û�м̳���;;;;;;;;;;X
-alert_court_not_filled_name;����Ժϯλ��ȱ;;;;;;;;;;X
-alert_lose_title_on_succ_name;�̳�ʱʧȥͷ��;;;;;;;;;;X
-alert_should_nominate_heir_name;ָ���̳���;;;;;;;;;;X
-alert_you_can_create_titles_name;���Դ���ͷ��;;;;;;;;;;X
-alert_you_can_usurp_titles_name;���Դ۶�ͷ��;;;;;;;;;;X
-alert_ruler_should_marry_name;ͳ����δ��;;;;;;;;;;X
-alert_heir_should_marry_name;�̳���δ��;;;;;;;;;;X
-alert_should_appoint_guardian_name;δ������û�м໤��;;;;;;;;;;X
-alert_demesne_too_big_name;ֱϽ��ع���;;;;;;;;;;X
-alert_adult_sons_notitle_name;����û�з��;;;;;;;;;;X
-alert_betrothed_should_marry_name;�����߿��Գɻ�;;;;;;;;;;X
-alert_can_imprison_name;�Ϸ��н�;;;;;;;;;;X
-alert_titles_may_pass_from_realm_name;�⳼�̳�Σ��;;;;;;;;;;X
-alert_can_call_vassals_to_arms_name;�����ٻ�ǰ�����ķ⳼;;;;;;;;;;X
-alert_available_plot_name;���Բ߻�����ı;;;;;;;;;;X
-alert_vassal_levies_raised_long_name;�⳼��������ʱ�����;;;;;;;;;;X
-alert_owns_wrong_settlement_type_name;ֱϽ�����д���ĵز�����;;;;;;;;;;X
-alert_no_ambition_name;ѡ��һ��Ұ��;;;;;;;;;;X
-alert_dejure_claim_name;���Թ�����������Ȩ;;;;;;;;;;X
-alert_truce_expiring_name;��Լ������;;;;;;;;;;X
-OPINION_OF_ME;���ҵĺø�;;;;;;;;;;X
-MY_OPINION_OF_CHAR;�Ҷ�$CHAR$�ĺø�;;;;;;;;;;X
-ALERT_DISABLED;�ر�;;;;;;;;;;X
-ALERT_DISABLED_TOOLTIP;�ѹر�\n�Y����������ç!;;;;;;;;;;X
-ALERT_DISMISSED;ȡ��;;;;;;;;;;X
-ALERT_DISMISSED_TOOLTIP;��ȡ��\n�Y���������ç!;;;;;;;;;;X
-SAME_GUARDIAN_AS;����߼໤����ͬ ;;;;;;;;;;X
-NOT_SAME_GUARDIAN_AS;����߼໤�˲�ͬ ;;;;;;;;;;X
-GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;�����Ա: �Y+$NUM$�!/��;;;;;;;;;;X
-NO_LEVY_REINF_GARRISON;�R���������Ӳ������֮ǰ���ٱ��޷��õ�����!;;;;;;;;;;X
-d_ghilman;����ķ;;;;;;;;;;X
-d_ghilman_adj;����ķ;;;;;;;;;;X
-county_isolated;�ɵ�;;;;;;;;;;X
-TITLE_TIER_IS_LOWER;�Y$NAME$�!�����ݵ��� �Y$RANK$�!\n;;;;;;;;;;X
-TITLE_TIER_IS_NOT_LOWER;�Y$NAME$�!�����ݲ����� �Y$RANK$�!\n;;;;;;;;;;X
-TITLE_TIER_IS_HIGHER;�Y$NAME$�!�����ݸ��� �Y$RANK$�!\n;;;;;;;;;;X
-TITLE_TIER_IS_NOT_HIGHER;�Y$NAME$�!�����ݲ����� �Y$RANK$�!\n;;;;;;;;;;X
-MSG_SETTING_PRIO6;����ͣ��Ϸ.;;;;;;;;;;X
-MSG_SETTING_CLOSE_COL;�����־���������Ľ���������ؼ�ͥ��Ա����Ϣ;;;;;;;;;;X
-MSG_SETTING_OTHER_COL;�����־����������ע�������Ϣ;;;;;;;;;;X
-MSG_SETTING_INTEREST_COL;�����־�����ر��ע�������Ϣ;;;;;;;;;;X
-MSG_SETTING_CLOSE_BUT;�����ť���������Ľ��׼�����ؼ�ͥ��Ա����Ϣ;;;;;;;;;;X
-MSG_SETTING_INTEREST_BUT;�����ť�����ر��ע�������Ϣ;;;;;;;;;;X
-MSG_SETTING_OTHER_BUT;�����ť����������ע�������Ϣ;;;;;;;;;;X
-SPECIAL_INTEREST_CHARACTERS;�ر��ע����;;;;;;;;;;X
-CIW_MESSAGES;�Y����ر��ע����!;;;;;;;;;;X
-CIW_MESSAGES_DEL;�ر��ע���������׷�٣��������Լ�����Ϣ������Ϣ����.;;;;;;;;;;X
-EVTDESC24503;�ҵ����������������ϲ�����[From.GetTitledFirstName]���Ტ�ۡ���֪�����ʹ�����������������Ϊһ��ΰ���[Root.GetTitle]��;;;;;;;;;;X
-EVTOPTD50006;����... �Ҳ��Ƿ�����ô��;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+WIKIPEDIA_LINK;§Y维基百科链接（英文）§!;;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;浏览维基百科上的角色介绍;;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;§Y这个角色没有维基百科介绍§!;;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;维基百科链接关闭;;;;;;;;;;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§!最近已经忏悔  [GetPossPronoun] 犯下的罪过 .;;;;;;;;;;x
+OL_DISABLED_ALERTS;关闭警告;;;;;;;;;;x
+alert_deficits_name;赤字;;;;;;;;;;x
+alert_country_at_war_name;战争状态;;;;;;;;;;x
+alert_casus_belli_will_expire_name;临时宣战理由;;;;;;;;;;x
+alert_allies_not_called_in_name;我们可以召唤盟友;;;;;;;;;;x
+alert_build_province_improvement_name;可以建设省份建筑;;;;;;;;;;x
+alert_troops_in_foreign_territory_name;军队驻扎在国境外;;;;;;;;;;x
+alert_revoltrisk_in_provinces_name;可能爆发叛乱;;;;;;;;;;x
+alert_available_decision_name;重要决议;;;;;;;;;;x
+alert_noheir_name;没有继承人;;;;;;;;;;x
+alert_court_not_filled_name;重臣;;;;;;;;;;x
+alert_lose_title_on_succ_name;继承时失去头衔;;;;;;;;;;x
+alert_should_nominate_heir_name;指定继承人;;;;;;;;;;x
+alert_you_can_create_titles_name;可以创立头衔;;;;;;;;;;x
+alert_you_can_usurp_titles_name;可以篡夺头衔;;;;;;;;;;x
+alert_ruler_should_marry_name;统治者未婚;;;;;;;;;;x
+alert_heir_should_marry_name;继承人未婚;;;;;;;;;;x
+alert_should_appoint_guardian_name;未成年人没有监护人;;;;;;;;;;x
+alert_demesne_too_big_name;直辖领地过大;;;;;;;;;;x
+alert_adult_sons_notitle_name;儿子没有封地;;;;;;;;;;x
+alert_betrothed_should_marry_name;订婚者可以成婚;;;;;;;;;;x
+alert_can_imprison_name;合法拘禁;;;;;;;;;;x
+alert_titles_may_pass_from_realm_name;封臣继承危机;;;;;;;;;;x
+alert_can_call_vassals_to_arms_name;可以召唤前领主的封臣;;;;;;;;;;x
+alert_available_plot_name;可以策划新阴谋;;;;;;;;;;x
+alert_vassal_levies_raised_long_name;封臣部队征召时间过长;;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;错误的直辖领地类型（城市、修道院）;;;;;;;;;;x
+alert_no_ambition_name;选择一项野心;;;;;;;;;;x
+alert_dejure_claim_name;可以公开法理宣称权;;;;;;;;;;x
+alert_truce_expiring_name;和约将到期;;;;;;;;;;x
+OPINION_OF_ME;对我的好感;;;;;;;;;;x
+MY_OPINION_OF_CHAR;我对$CHAR$的好感;;;;;;;;;;x
+ALERT_DISABLED;关闭;;;;;;;;;;x
+ALERT_DISABLED_TOOLTIP;已关闭\n§Y点击重新启用§!;;;;;;;;;;x
+ALERT_DISMISSED;取消;;;;;;;;;;x
+ALERT_DISMISSED_TOOLTIP;已取消\n§Y击重新启用§!;;;;;;;;;;x
+SAME_GUARDIAN_AS;与后者监护人相同 ;;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;与后者监护人不同 ;;;;;;;;;;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;补充兵员: §Y+$NUM$§!/月;;;;;;;;;;x
+NO_LEVY_REINF_GARRISON;§R在卫戍部队补充完毕之前征召兵无法得到补充§!;;;;;;;;;;x
+d_ghilman;古拉姆;;;;;;;;;;x
+d_ghilman_adj;古拉姆;;;;;;;;;;x
+county_isolated;飞地;;;;;;;;;;x
+TITLE_TIER_IS_LOWER;§Y$NAME$§!的身份低于 §Y$RANK$§!\n;;;;;;;;;;x
+TITLE_TIER_IS_NOT_LOWER;§Y$NAME$§!的身份不低于 §Y$RANK$§!\n;;;;;;;;;;x
+TITLE_TIER_IS_HIGHER;§Y$NAME$§!的身份高于 §Y$RANK$§!\n;;;;;;;;;;x
+TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$§!的身份不高于 §Y$RANK$§!\n;;;;;;;;;;x
+MSG_SETTING_PRIO6;将暂停游戏.;;;;;;;;;;x
+MSG_SETTING_CLOSE_COL;这个标志控制你和你的近亲及无领地家庭成员的消息;;;;;;;;;;x
+MSG_SETTING_OTHER_COL;这个标志控制其他关注人物的消息;;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;这个标志控制特别关注人物的消息;;;;;;;;;;x
+MSG_SETTING_CLOSE_BUT;这个按钮控制你和你的近亲及无领地家庭成员的消息;;;;;;;;;;x
+MSG_SETTING_INTEREST_BUT;这个按钮控制特别关注人物的消息;;;;;;;;;;x
+MSG_SETTING_OTHER_BUT;这个按钮控制其他关注人物的消息;;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS;特别关注人物;;;;;;;;;;x
+CIW_MESSAGES;§Y标记特别关注人物§!;;;;;;;;;;x
+CIW_MESSAGES_DEL;特别关注人物更容易追踪，他们有自己的信息栏和消息设置.;;;;;;;;;;x
+EVTDESC24503;The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [Root.GetTitle] after my death.;;;;;;;;;;x
+EVTOPTD50006;但是... 我不是放了你么？;;;;;;;;;;x

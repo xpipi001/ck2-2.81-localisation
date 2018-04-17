@@ -1,66 +1,67 @@
-d_nubia;Âí¿âÀïÑÇ;;;;;;;;;;X
-d_nubia_adj;Âí¿âÀïÑÇ;;;;;;;;;;X
-LIEGEPIETY_HEADER;ÁìÖ÷Ö®[Player.Religion.GetPietyName];;;;;;;;;;X
-major_river_crossing;Ö÷ºÓµÀºá¶É;;;;;;;;;;X
-realm_job_spiritual;ÁìµØÖ®$TITLE$ÃÇ;;;;;;;;;;X
-job_spiritual_finnish_pagan;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_finnish_pagan_reformed;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_baltic_pagan;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_baltic_pagan_reformed;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_slavic_pagan;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_slavic_pagan_reformed;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_tengri_pagan;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_tengri_pagan_reformed;Õ¼²·Ê¦;;;;;;;;;;X
-job_spiritual_zoroastrian;Ä§µ¼Ê¦;;;;;;;;;;X
-nick_hardeknud;Ç¿×³µÄ¿ËÅ¬ÌØ;;;;;;;;;;X
-steppe;´ó²İÔ­;;;;;;;;;;X
-TOGGLE_LOOTER_FAIL_CHARALLOWED;ÁìÖ÷ÔÊĞíÂÓ¶á;;;;;;;;;;X
-TOGGLE_LOOTER_FAIL_INOWNLAND;²¿¶ÓÕıÔÚÓÑ°îĞĞ½ø;;;;;;;;;;X
-TOGGLE_LOOTER_FAIL_MERC;²¿¶ÓÎŞ¹ÍÓ¶¾ü;;;;;;;;;;X
-TOGGLE_LOOTER_FAIL_ISATTACHED;¸Ã²¿¶ÓÎ´ÅäÊôÓÚÁíÒ»²¿¶Ó;;;;;;;;;;X
-TOGGLE_LOOTER_FAIL_HASATTACHED;¸Ã²¿¶ÓÎŞÈÎºÎ¸½Êô²¿¶Ó;;;;;;;;;;X
-INTERACTION_GRANT_GAVELKIND_EXPLOIT;§Y$NAME$§!×÷ÎªÄãµÄ³¤×Ó, ÔÚ¾ù·Ö¼Ì³Ğ·¨ÏÂ²»ÄÜ±»ÊÚÓè§Y$TITLE$§!;;;;;;;;;;X
-ca_steppe_barracks_1;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_barracks_2;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_barracks_3;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_barracks_4;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_barracks_5;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_barracks_6;ÃÉ¹ÅÓÂÊ¿¾üÓª;;;;;;;;;;X
-ca_steppe_stable_1;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-ca_steppe_stable_2;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-ca_steppe_stable_3;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-ca_steppe_stable_4;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-ca_steppe_stable_5;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-ca_steppe_stable_6;ÃÉ¹ÅÌúÆïÄÁ³¡;;;;;;;;;;X
-CK2CoA3DLC;Íõ³¯¶Ü»Õ°ü3;;;;;;;;;;X
-NorseUnitPackDLC;ÅµË¹¾ü¶Ó°ü;;;;;;;;;;X
-NorsePortraitsDLC;ÅµË¹ÈËÈºÏñ;;;;;;;;;;X
-ca_steppe_barracks_desc;ÃÉ¹ÅÈË×¢ÖØÆï±øÑµÁ·£¬µ«Í¬Ê±È´ºöÊÓÁË²½±øÑµÁ·¡£²»¹ıÔÚÕâĞ©¾üÓªÀïÑµÁ·µÄÕ½Ê¿¸üÉÆÓÚÊ¹×Ô¼ºÔÚÕ½³¡ÉÏÁ¢ÓÚ²»°ÜÖ®µØ;;;;;;;;;;X
-ca_steppe_stable_desc;´ó²İÔ­×îÊÊÓÚ×÷Õ½£¬¶øÇÒÓÎÄÁÃñ×åµÄÕ½ÊõÎÄ»¯ÖªµÀÔõÃ´ÀûÓÃÕâÒ»ÓÅÊÆ¡£ÕâĞ©ÄÁ³¡ÄÜ¹»²úÉúÓÅÁ¼µÄÇáÆï±øºÍÂíÉÏÉñ¼ıÊÖ¡£;;;;;;;;;;X
-ca_culture_nahuatl_1;ÃÀÖŞ»¢ÎäÊ¿¾üÓª;;;;;;;;;;X
-ca_culture_nahuatl_2;ÃÀÖŞ»¢ÎäÊ¿¾üÓª;;;;;;;;;;X
-ca_culture_nahuatl_3;ÃÀÖŞ»¢ÎäÊ¿¾üÓª;;;;;;;;;;X
-ca_culture_nahuatl_4;ÃÀÖŞ»¢ÎäÊ¿¾üÓª;;;;;;;;;;X
-ca_culture_nahuatl_1_desc;ÎŞÎ·µÄÃÀÖŞ»¢ÎäÊ¿ÔÚ´ËµØ½ÓÊÜÑµÁ·¡£ËûÃÇ´ú±íÁË°¢×ÈÌØ¿ËÕ½Õù»úÆ÷ÖĞµÄ¾«Ó¢¡£×ÜËùÖÜÖª£¬ËùÓĞ¾ü¶ÓÖ»Òª¿´µ½ÃÀÖŞ»¢ÎäÊ¿ÃÇµÄ¿ø¼×¸²¸Ç×Å°ßÎÆµãµãµÄÆ¤Ã«£¬¶¼»áÀ£²»³É¾ü¡£;;;;;;;;;;X
-pagan_group_succ_desc_1;È¥¼ûÖÚÉñÁË¡£;;;;;;;;;;X
-pagan_group_succ_desc_4;ÎªÀ´ÊÀÆÌÆ½ÁËµÀÂ·¡£;;;;;;;;;;X
-pagan_group_succ_desc_8;ÓëÖÚÉñ¹²ÏíÏÉâÍÇí½¬;;;;;;;;;;X
-norse_pagan_succ_desc_3;±»ÖÚÍß¶û»ùÀöÅ®ÎäÉñÌôÑ¡×ßÁË¡£;;;;;;;;;;X
-norse_pagan_reformed_succ_desc_3;±»ÖÚÍß¶û»ùÀöÅ®ÎäÉñÌôÑ¡×ßÁË¡£;;;;;;;;;;X
-norse_pagan_succ_desc_4;ÎªÍ¨Íù°¢ÈøÉñÓòÆÌÆ½µÀÂ·¡£;;;;;;;;;;X
-norse_pagan_reformed_succ_desc_4;ÎªÍ¨Íù°¢ÈøÉñÓòÆÌÆ½µÀÂ·¡£;;;;;;;;;;X
-norse_pagan_succ_desc_8;ÔÚ»ªº£À­Ó¢ÁÒìô÷ÏÑç¡£;;;;;;;;;;X
-norse_pagan_reformed_succ_desc_8;ÔÚ»ªº£À­Ó¢ÁÒìô÷ÏÑç¡£;;;;;;;;;;X
-muslim_succ_desc_1;ÕıÔÚ¼«ÀÖÔ°ÏíÓÃ°×ÆÏÌÑ¸É¡£;;;;;;;;;;X
-muslim_succ_desc_2;Æï×ÅÌìÔ°µÄ°×ÂæÍÕ¡£;;;;;;;;;;X
-muslim_succ_desc_3;±»°¢À­ÕÙ»½È¥ÁË¡£;;;;;;;;;;X
-muslim_succ_desc_4;ÎªÍ¨ÍùÌìÔ°ÆÌÆ½µÀÂ·¡£;;;;;;;;;;X
-muslim_succ_desc_8;ÓëÖÚÌìÔ°ÃÀÅ®¹²´¦;;;;;;;;;;X
-west_african_pagan_succ_desc_1;È¥×·ËæÁĞ×æÁĞ×ÚµÄÓ¢Áé¡£;;;;;;;;;;X
-west_african_pagan_reformed_succ_desc_1;ÒÑ¾­¼ÓÈëÁËÏÈ×æµÄĞĞÁĞ;;;;;;;;;;X
-DE_JURE_INDP_DESC;·¨Àí¶ÀÁ¢³ÉÎª§Y$TITLE$§!µÄ½ø¶È(§Y$YEARS$§!/$NEEDED_YEARS$Äê);;;;;;;;;;X
-EVTDESC_TOG_4016;¸óÏÂ¹óÌå±Ø¶¨ÎŞí¦°É£¬[Root.GetTitledFirstName].±ÉÈËÄËÅÁ¶ûÄÉÍĞ¿Ë£¬ÖÂÁ¦ÓÚ½¨Á¢Ò»¸öÊ¹ÖÚÓÂÊ¿ÃÇÏÖÉíÓÚÍĞ¶ûºÍ°Â¶¡µÄÁªÃË¡£ÑØ×ÅÎÖ¶ûº£°¶º½ĞĞÊ±£¬ÎÒ·¢ÏÖÁËÒ»¸ö½¨Á¢ÎÒÃÇµÄ¾ßÌåµÄ¾ø¼ÑµØµã¡£Òò´Ë£¬ÎÒÏ£ÍûÄÜÕ÷µÃÄãµÄÍ¬Òâ£¬°Ñ¾İµã½¨Á¢ÔÚÕâ¸öµºÓìÉÏ¡£\n\nÌ¾Æø\n[From.GetTitledName];;;;;;;;;;X
-EVTDESC_TOG_4026;×£Äú½¡¿µ, [Root.GetTitledFirstName].  ÎÒ½Ğ°üÄÉÍĞ»ù, ÎÒ×ÔÔ¸±¼×ß×é½¨Ò»¸öÎªË÷¶ûÓë°Â¶¡Ï×ÉíµÄÓÂÊ¿ĞÖµÜ»á. ÔÚÂÀ¸ùµÄº£±õº½ĞĞÊ±, ÎÒ·¢ÏÖÁËÒ»¸ö½¨ÉèÒªÈûµÄ¾ø¼ÑµØÖ·, ÎÒÇëÇóÄúÄÜÈÃÎÒÊ¹ÓÃÄÇÆ¬ÍÁµØ.\n\n´ËÖÂ,\n[From.GetTitledName];;;;;;;;;;X
-INTERACTION_CONSORT_NOT_PREGNANT;²»ÄÜÈÃÇé¸¾»³ÔĞ¡£;;;;;;;;;;X
-SETTLEMENT_LOOTED_LOG;§Y$SETTLEMENT$§!±»§Y$LOOTER$§!½ÙÂÓÁË§Y$LOOT$§!¤;;;;;;;;;;X
-EVTDESC20377;Ö÷ÉÏ, [From.Location.GetName]µ±µØµÄ¹ó×å[FromFrom.GetTitledName]ÆóÍ¼ÓÃ°µÉ±ÈÃÎÒÓÀÔ¶±Õ×ì! ÍòĞÒµÄÊÇÎÒÉè·¨ÌÓ¹ı´Ë½Ù. ÎÒ»á¼ÌĞøÉ¢²¥¹ØÓÚ[FromFrom.GetHerHis]¸¯°ÜµÄÒ¥ÑÔ, ÒÔÔÚ[FromFrom.GetHerHis]·â³¼ÖĞ°Ü»µ[FromFrom.GetHerHis]ÃûÉù.\n\nÄúÇ«±°µÄ¼äµı×Ü¹Ü,\n[From.GetTitledName];;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_nubia;é©¬åº“é‡Œäºš;;;;;;;;;;x
+d_nubia_adj;é©¬åº“é‡Œäºš;;;;;;;;;;x
+LIEGEPIETY_HEADER;é¢†ä¸»ä¹‹[Player.Religion.GetPietyName];;;;;;;;;;x
+major_river_crossing;ä¸»æ²³é“æ¨ªæ¸¡;;;;;;;;;;x
+realm_job_spiritual;ç‹å›½ä¹‹$TITLE$ä»¬;;;;;;;;;;x
+job_spiritual_finnish_pagan;ç¥­å¸;;;;;;;;;;x
+job_spiritual_finnish_pagan_reformed;ç¥­å¸;;;;;;;;;;x
+job_spiritual_baltic_pagan;ç¥­å¸;;;;;;;;;;x
+job_spiritual_baltic_pagan_reformed;ç¥­å¸;;;;;;;;;;x
+job_spiritual_slavic_pagan;ç¥­å¸;;;;;;;;;;x
+job_spiritual_slavic_pagan_reformed;ç¥­å¸;;;;;;;;;;x
+job_spiritual_tengri_pagan;è¨æ»¡;;;;;;;;;;x
+job_spiritual_tengri_pagan_reformed;è¨æ»¡;;;;;;;;;;x
+job_spiritual_zoroastrian;å¤§ç¥­å¸;;;;;;;;;;x
+nick_hardeknud;å¼ºå£®çš„å…‹åŠªç‰¹;;;;;;;;;;x
+steppe;å¤§è‰åŸ;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_CHARALLOWED;é¢†ä¸»å…è®¸æ å¤º;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_INOWNLAND;éƒ¨é˜Ÿæ­£åœ¨å‹é‚¦è¡Œè¿›;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_MERC;éƒ¨é˜Ÿæ— é›‡ä½£å†›;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_ISATTACHED;è¯¥éƒ¨é˜Ÿæœªé…å±äºå¦ä¸€éƒ¨é˜Ÿ;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_HASATTACHED;è¯¥éƒ¨é˜Ÿæ— ä»»ä½•é™„å±éƒ¨é˜Ÿ;;;;;;;;;;x
+INTERACTION_GRANT_GAVELKIND_EXPLOIT;Â§Y$NAME$Â§!ä½œä¸ºä½ çš„é•¿å­, åœ¨å‡åˆ†ç»§æ‰¿æ³•ä¸‹ä¸èƒ½è¢«æˆäºˆÂ§Y$TITLE$Â§!;;;;;;;;;;x
+ca_steppe_barracks_1;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_barracks_2;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_barracks_3;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_barracks_4;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_barracks_5;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_barracks_6;è’™å¤å‹‡å£«å†›è¥;;;;;;;;;;x
+ca_steppe_stable_1;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+ca_steppe_stable_2;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+ca_steppe_stable_3;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+ca_steppe_stable_4;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+ca_steppe_stable_5;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+ca_steppe_stable_6;è’™å¤é“éª‘ç‰§åœº;;;;;;;;;;x
+CK2CoA3DLC;ç‹æœç›¾å¾½åŒ…3;;;;;;;;;;x
+NorseUnitPackDLC;è¯ºæ–¯å†›é˜ŸåŒ…;;;;;;;;;;x
+NorsePortraitsDLC;è¯ºæ–¯äººç¾¤åƒ;;;;;;;;;;x
+ca_steppe_barracks_desc;è’™å¤äººæ³¨é‡éª‘å…µè®­ç»ƒï¼Œä½†åŒæ—¶å´å¿½è§†äº†æ­¥å…µè®­ç»ƒã€‚ä¸è¿‡åœ¨è¿™äº›å†›è¥é‡Œè®­ç»ƒçš„æˆ˜å£«æ›´å–„äºä½¿è‡ªå·±åœ¨æˆ˜åœºä¸Šç«‹äºä¸è´¥ä¹‹åœ°;;;;;;;;;;x
+ca_steppe_stable_desc;å¤§è‰åŸæœ€é€‚äºä½œæˆ˜ï¼Œè€Œä¸”æ¸¸ç‰§æ°‘æ—çš„æˆ˜æœ¯æ–‡åŒ–çŸ¥é“æ€ä¹ˆåˆ©ç”¨è¿™ä¸€ä¼˜åŠ¿ã€‚è¿™äº›ç‰§åœºèƒ½å¤Ÿäº§ç”Ÿä¼˜è‰¯çš„è½»éª‘å…µå’Œé©¬ä¸Šç¥ç®­æ‰‹ã€‚;;;;;;;;;;x
+ca_culture_nahuatl_1;ç¾æ´²è™æ­¦å£«å†›è¥;;;;;;;;;;x
+ca_culture_nahuatl_2;ç¾æ´²è™æ­¦å£«å†›è¥;;;;;;;;;;x
+ca_culture_nahuatl_3;ç¾æ´²è™æ­¦å£«å†›è¥;;;;;;;;;;x
+ca_culture_nahuatl_4;ç¾æ´²è™æ­¦å£«å†›è¥;;;;;;;;;;x
+ca_culture_nahuatl_1_desc;æ— ç•çš„ç¾æ´²è™æ­¦å£«åœ¨æ­¤åœ°æ¥å—è®­ç»ƒã€‚ä»–ä»¬ä»£è¡¨äº†é˜¿å…¹ç‰¹å…‹æˆ˜äº‰æœºå™¨ä¸­çš„ç²¾è‹±ã€‚æ€»æ‰€å‘¨çŸ¥ï¼Œæ‰€æœ‰å†›é˜Ÿåªè¦çœ‹åˆ°ç¾æ´²è™æ­¦å£«ä»¬çš„ç›”ç”²è¦†ç›–ç€æ–‘çº¹ç‚¹ç‚¹çš„çš®æ¯›ï¼Œéƒ½ä¼šæºƒä¸æˆå†›ã€‚;;;;;;;;;;x
+pagan_group_succ_desc_1;å»è§ä¼—ç¥äº†ã€‚;;;;;;;;;;x
+pagan_group_succ_desc_4;ä¸ºæ¥ä¸–é“ºå¹³äº†é“è·¯ã€‚;;;;;;;;;;x
+pagan_group_succ_desc_8;ä¸ä¼—ç¥å…±äº«ä»™é¦”ç¼æµ†;;;;;;;;;;x
+norse_pagan_succ_desc_3;è¢«ä¼—ç“¦å°”åŸºä¸½å¥³æ­¦ç¥æŒ‘é€‰èµ°äº†ã€‚;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_3;è¢«ä¼—ç“¦å°”åŸºä¸½å¥³æ­¦ç¥æŒ‘é€‰èµ°äº†ã€‚;;;;;;;;;;x
+norse_pagan_succ_desc_4;ä¸ºé€šå¾€é˜¿è¨ç¥åŸŸé“ºå¹³é“è·¯ã€‚;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_4;ä¸ºé€šå¾€é˜¿è¨ç¥åŸŸé“ºå¹³é“è·¯ã€‚;;;;;;;;;;x
+norse_pagan_succ_desc_8;åœ¨åæµ·æ‹‰è‹±çƒˆç¥ é£¨å®´ã€‚;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_8;åœ¨åæµ·æ‹‰è‹±çƒˆç¥ é£¨å®´ã€‚;;;;;;;;;;x
+muslim_succ_desc_1;æ­£åœ¨æä¹å›­äº«ç”¨ç™½è‘¡è„å¹²ã€‚;;;;;;;;;;x
+muslim_succ_desc_2;éª‘ç€å¤©å›­çš„ç™½éª†é©¼ã€‚;;;;;;;;;;x
+muslim_succ_desc_3;è¢«é˜¿æ‹‰å¬å”¤å»äº†ã€‚;;;;;;;;;;x
+muslim_succ_desc_4;ä¸ºé€šå¾€å¤©å›­é“ºå¹³é“è·¯ã€‚;;;;;;;;;;x
+muslim_succ_desc_8;ä¸ä¼—å¤©å›­ç¾å¥³å…±å¤„;;;;;;;;;;x
+west_african_pagan_succ_desc_1;å»è¿½éšåˆ—ç¥–åˆ—å®—çš„è‹±çµã€‚;;;;;;;;;;x
+west_african_pagan_reformed_succ_desc_1;å·²ç»åŠ å…¥äº†å…ˆç¥–çš„è¡Œåˆ—;;;;;;;;;;x
+DE_JURE_INDP_DESC;æ³•ç†ç‹¬ç«‹æˆä¸ºÂ§Y$TITLE$Â§!çš„è¿›åº¦(Â§Y$YEARS$Â§!/$NEEDED_YEARS$å¹´);;;;;;;;;;x
+EVTDESC_TOG_4016;é˜ä¸‹è´µä½“å¿…å®šæ— æ™å§ï¼Œ[Root.GetTitledFirstName].é„™äººä¹ƒå¸•å°”çº³æ‰˜å…‹ï¼Œè‡´åŠ›äºå»ºç«‹ä¸€ä¸ªä½¿ä¼—å‹‡å£«ä»¬ç°èº«äºæ‰˜å°”å’Œå¥¥ä¸çš„è”ç›Ÿã€‚æ²¿ç€æ²ƒå°”æµ·å²¸èˆªè¡Œæ—¶ï¼Œæˆ‘å‘ç°äº†ä¸€ä¸ªå»ºç«‹æˆ‘ä»¬çš„å…·ä½“çš„ç»ä½³åœ°ç‚¹ã€‚å› æ­¤ï¼Œæˆ‘å¸Œæœ›èƒ½å¾å¾—ä½ çš„åŒæ„ï¼ŒæŠŠæ®ç‚¹å»ºç«‹åœ¨è¿™ä¸ªå²›å±¿ä¸Šã€‚\n\nå¹æ°”\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_TOG_4026;Iç¥æ‚¨å¥åº·, [Root.GetTitledFirstName].  æˆ‘å«åŒ…çº³æ‰˜åŸº, æˆ‘è‡ªæ„¿å¥”èµ°ç»„å»ºä¸€ä¸ªä¸ºç´¢å°”ä¸å¥¥ä¸çŒ®èº«çš„å‹‡å£«å…„å¼Ÿä¼š. åœ¨å•æ ¹çš„æµ·æ»¨èˆªè¡Œæ—¶, æˆ‘å‘ç°äº†ä¸€ä¸ªå»ºè®¾è¦å¡çš„ç»ä½³åœ°å€, æˆ‘è¯·æ±‚æ‚¨èƒ½è®©æˆ‘ä½¿ç”¨é‚£ç‰‡åœŸåœ°.\n\næ­¤è‡´,\n[From.GetTitledName];;;;;;;;;;x
+INTERACTION_CONSORT_NOT_PREGNANT;ä¸èƒ½è®©æƒ…å¦‡æ€€å­•ã€‚;;;;;;;;;;x
+SETTLEMENT_LOOTED_LOG;Â§Y$SETTLEMENT$Â§! è¢« Â§Y$LOOTER$Â§! åŠ«æ äº†ï¼Œå¼ºç›—åŠ«èµ°äº† Â§Y$LOOT$Â§!Â¤;;;;;;;;;;x
+EVTDESC20377;ä¸»ä¸Š, [From.Location.GetName]å½“åœ°çš„è´µæ—[FromFrom.GetTitledName]ä¼å›¾ç”¨æš—æ€è®©æˆ‘æ°¸è¿œé—­å˜´! ä¸‡å¹¸çš„æ˜¯æˆ‘è®¾æ³•é€ƒè¿‡æ­¤åŠ«. æˆ‘ä¼šç»§ç»­æ•£æ’­å…³äº[FromFrom.GetHerHis]è…è´¥çš„è°£è¨€, ä»¥åœ¨[FromFrom.GetHerHis]å°è‡£ä¸­è´¥å[FromFrom.GetHerHis]åå£°.\n\næ‚¨è°¦å‘çš„é—´è°æ€»ç®¡,\n[From.GetTitledName];;;;;;;;;;x

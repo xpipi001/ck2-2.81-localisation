@@ -1,47 +1,48 @@
-EVTDESC60010;ΰ���[Root.GetTitledName]��[Root.GetHerHis]�⳼������������̣�;;;;;;;;;;X
-EVTDESC60011;ΰ���[Root.GetTitledName]��[Root.GetHerHis]�⳼������˶����̣�;;;;;;;;;;X
-EVTDESC60012;ΰ���[Root.GetTitledName]��[Root.GetHerHis]�⳼�������ѷ���ɣ�;;;;;;;;;;X
-EVTDESC60013;ΰ���[Root.GetTitledName]��[Root.GetHerHis]�⳼�������ʲҶ�ɣ�;;;;;;;;;;X
-MONTHLY_PROJECTED_COST;Ԥ��ÿ�»���: �Y$COST$�!;;;;;;;;;;X
-YEARLY_PROJECTED_COST;Ԥ��ÿ��ɱ�: �Y$COST$�!;;;;;;;;;;X
-PER_MONTH;�Y$VAL$�! / ÿ��;;;;;;;;;;X
-AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;���ǹ���!;;;;;;;;;;X
-ACCEPT;����;;;;;;;;;;X
-DECLINE;�ܾ�;;;;;;;;;;X
-HAS_LESS_RAISED_TROOP_DAYS;���Ӷ�Ա���� �Y$DAYS$�! ��\n;;;;;;;;;;X
-HAS_MORE_RAISED_TROOP_DAYS;���Ӷ�Ա���� �Y$DAYS$�! ��\n;;;;;;;;;;X
-SET_RAISED_TROOP_OPINION;�Y$ACTIVE$�ħ! �ӳ��˷⳼�ø���������� �Y$PASSIVE$�! ��Ϊ �Y$MUCH$�!.\n;;;;;;;;;;X
-CONTESTED_TITLE;�����ͷ��: $TITLE$;;;;;;;;;;X
-THREAT_REASON_HATRED;�ͺø�;;;;;;;;;;X
-THREAT_REASON_LOVE;�ߺø�;;;;;;;;;;X
-THREAT_REASON_CB;��ս����;;;;;;;;;;X
-THREAT_REASON_PRETENDER;������;;;;;;;;;;X
-THREAT_REASON_CLAIMANT;����Ȩ;;;;;;;;;;X
-THREAT_REASON_DISTANCE;����;;;;;;;;;;X
-THREAT_LIEGE_CULTURE;ͬ�Ļ�;;;;;;;;;;X
-THREAT_LIEGE_RELIGION;ͬ�ڽ�;;;;;;;;;;X
-THREAT_LIEGE_DEJURELIEGE;��������;;;;;;;;;;X
-INGAME_STORE;��Ϸ���̵�;;;;;;;;;;X
-tut_3c_6;���η���;;;;;;;;;;X
-tut_3c_7;����򿪷��ɴ��ڣ�����Կ����������ṫ���ķ���.���ڲ��������Ƿ��������ϵ�һ���֣���������Ȩ��Ҳ��Ӱ�쵽��.����Ϸ��Ҳ�Ķܻղ鿴��ϸ���.;;;;;;;;;;X
-tut_3c_8;���η���II;;;;;;;;;;X
-tut_3c_9;������ʾ�˷���Ӱ�쵽��������ķ���.�ڶ������Կ�������ʹ�õļ̳з����ײ�����������Ȩ��.��������Խ�����һ����.;;;;;;;;;;X
-REINFORCE_TOOLTIP;�¸��½���ļ $NUM$ ��ʿ��.;;;;;;;;;;X
-TECH_GROWTH_PROG_SETUP;ֱϽ��ط�չ���;;;;;;;;;;X
-TECH_GROWTH_PROG_LOG; $TECH$ �� $PROV$ �ķ�չˮƽ���ӵ� �Y$PROG$�!;;;;;;;;;;X
-TECH_GROWTH_REALM_SETUP;���ҷ�չˮƽ;;;;;;;;;;X
-TECH_GROWTH_REALM_LOG; $TECH$ �� $PROV$ �ķ�չˮƽ���ӵ� �Y$LEVEL$�!;;;;;;;;;;X
-TECH_GROWTH_PROG_REALM_SETUP;���ҷ�չ���;;;;;;;;;;X
-TECH_GROWTH_PROG_REALM_LOG; $TECH$ �� $PROV$ �ķ�չ������ӵ� �Y$PROG$�!;;;;;;;;;;X
-LOADING_TIP_0;ֱϽ�����ָ����ӵ�еĳǱ������к��޵�Ժ.;;;;;;;;;;X
-LOADING_TIP_49;��ϸ�������ż������;;;;;;;;;;X
-EVTDESC3340;��һλ���Ƶ�͢�����ұ�ʾ����ʱ�Ҳ��ҧ�����Լ�����ͷ.����Ϊ�Ҹе����ã�Ȼ��������뿪��.;;;;;;;;;;X
-EVTOPTA3340;�Ҳ��ҿ���ʧȥ�������𾴡���;;;;;;;;;;X
-alert_dejure_claim_instant;�Y����Զ�ȡ������������ا!;;;;;;;;;;X
-alert_dejure_claim_delayed;����Զ�ȡ���·����������: $LIST$;;;;;;;;;;X
-PRESSABLE_CLAIM;$CLAIMANT$ ��$COUNTY$�ĺ�������, ;;;;;;;;;;X
-OPT_draw_trees;��Ⱦ��ľ;;;;;;;;;;X
-OPT_draw_rivers;��Ⱦ����;;;;;;;;;;X
-OPT_draw_citysprawl;��Ⱦ��������;;;;;;;;;;X
-tut_4c_11;����Ч��;;;;;;;;;;X
-OPT_legacy_shaders;����ʾģʽ;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC60010;伟大的[Root.GetTitledName]和[Root.GetHerHis]的封臣们皈依了天主教！;;;;;;;;;;x
+EVTDESC60011;伟大的[Root.GetTitledName]和[Root.GetHerHis]的封臣们皈依了东正教！;;;;;;;;;;x
+EVTDESC60012;伟大的[Root.GetTitledName]和[Root.GetHerHis]的封臣们皈依了逊尼派！;;;;;;;;;;x
+EVTDESC60013;伟大的[Root.GetTitledName]和[Root.GetHerHis]的封臣们皈依了什叶派！;;;;;;;;;;x
+MONTHLY_PROJECTED_COST;预计每月花费: §Y$COST$§!;;;;;;;;;;x
+YEARLY_PROJECTED_COST;预计每年成本: §Y$COST$§!;;;;;;;;;;x
+PER_MONTH;§Y$VAL$§! / 每月;;;;;;;;;;x
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;我是国王!;;;;;;;;;;x
+ACCEPT;接受;;;;;;;;;;x
+DECLINE;拒绝;;;;;;;;;;x
+HAS_LESS_RAISED_TROOP_DAYS;军队动员少于 §Y$DAYS$§! 天\n;;;;;;;;;;x
+HAS_MORE_RAISED_TROOP_DAYS;军队动员至少 §Y$DAYS$§! 天\n;;;;;;;;;;x
+SET_RAISED_TROOP_OPINION;§Y$ACTIVE$的§! 延长了附庸好感期限相比于 §Y$PASSIVE$§! 设为 §Y$MUCH$§!.\n;;;;;;;;;;x
+CONTESTED_TITLE;争夺的头衔: $TITLE$;;;;;;;;;;x
+THREAT_REASON_HATRED;低好感;;;;;;;;;;x
+THREAT_REASON_LOVE;高好感;;;;;;;;;;x
+THREAT_REASON_CB;宣战理由;;;;;;;;;;x
+THREAT_REASON_PRETENDER;觊觎者;;;;;;;;;;x
+THREAT_REASON_CLAIMANT;宣称权;;;;;;;;;;x
+THREAT_REASON_DISTANCE;距离;;;;;;;;;;x
+THREAT_LIEGE_CULTURE;同文化;;;;;;;;;;x
+THREAT_LIEGE_RELIGION;同宗教;;;;;;;;;;x
+THREAT_LIEGE_DEJURELIEGE;法理领主;;;;;;;;;;x
+INGAME_STORE;游戏内商店;;;;;;;;;;x
+tut_3c_6;多层次法律;;;;;;;;;;x
+tut_3c_7;当你打开法律窗口，你可以看见布列塔尼公爵的法律.由于布列塔尼是法国法理上的一部分，法国的王权法也会影响到你.点击上方右侧的盾徽查看详细情况.;;;;;;;;;;x
+tut_3c_8;多层次法律II;;;;;;;;;;x
+tut_3c_9;这里显示了法国影响到布列塔尼的法律.在顶部可以看到法国使用的继承法，底部中央则是王权法.点击继续以结束这一部分.;;;;;;;;;;x
+REINFORCE_TOOLTIP;下个月将招募 $NUM$ 名士兵.;;;;;;;;;;x
+TECH_GROWTH_PROG_SETUP;直辖领地发展情况;;;;;;;;;;x
+TECH_GROWTH_PROG_LOG; $TECH$ 在 $PROV$ 的发展水平增加到 §Y$PROG$§!;;;;;;;;;;x
+TECH_GROWTH_REALM_SETUP;国家发展水平;;;;;;;;;;x
+TECH_GROWTH_REALM_LOG; $TECH$ 在 $PROV$ 的发展水平增加到 §Y$LEVEL$§!;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_SETUP;国家发展情况;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_LOG; $TECH$ 在 $PROV$ 的发展情况增加到 §Y$PROG$§!;;;;;;;;;;x
+LOADING_TIP_0;直辖领地是指个人拥有的城堡，城市和修道院.;;;;;;;;;;x
+LOADING_TIP_49;仔细检查你配偶的特质;;;;;;;;;;x
+EVTDESC3340;当一位友善的廷臣向我表示敬意时我差点咬到了自己的舌头.他认为我感到不悦，然后困惑的离开了.;;;;;;;;;;x
+EVTOPTA3340;我猜我可能失去了他的尊敬……;;;;;;;;;;x
+alert_dejure_claim_instant;§Y你可以夺取法理公爵的领地§!;;;;;;;;;;x
+alert_dejure_claim_delayed;你可以夺取以下法理公爵领地: $LIST$;;;;;;;;;;x
+PRESSABLE_CLAIM;$CLAIMANT$ 对$COUNTY$的合理宣称, ;;;;;;;;;;x
+OPT_draw_trees;渲染树木;;;;;;;;;;x
+OPT_draw_rivers;渲染河流;;;;;;;;;;x
+OPT_draw_citysprawl;渲染城市扩张;;;;;;;;;;x
+tut_4c_11;婚姻效果;;;;;;;;;;x
+OPT_legacy_shaders;旧显示模式;;;;;;;;;;x

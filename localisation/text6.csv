@@ -1,8 +1,9 @@
-SELECT_CHARACTER_TO_RANSOM;ѡ���������;;;;;;;;;;X
-AIREASON_NEEDS_OUR_COUNCILLOR;�����ǵ� �Y[GetJobTitle]�!;;;;;;;;;;X
-AIREASON_SKILLED_COURTIER;�Y[GetBestName]�!�ļ���;;;;;;;;;;X
-AIREASON_IS_UNIMPORTANT;�Y[GetBestName]�!������Ҫ;;;;;;;;;;X
-INTERACTION_REQUIRES_INV_REASON;��صز������ڧY[ThirdPartyCharacter.GetTitledFirstName]�!��һ����Ҫͷ������;;;;;;;;;;X
-TRANSFER_TREASURY_EFFECT;�Y$FROM$�!֧���Y$VALUE$�!����Y$TO$�!\n;;;;;;;;;;X
-EVTDESC3407;�Ҷ� [From.GetTitledFirstName] �ੲ��ݵ��ظ��Բ�ɫ�����Ĺ۵�е���񣬵� [From.GetHerHis] ׷������ʹ�Ҳ��ò�̹�м���.����������ɫ��ͼ��Ҳ�޴�����.;;;;;;;;;;X
-EVTDESC5042;������̫������֮ǰ�������.��������ʤ�����Թ������ܶ�Ұ�ã���������ɱ����һֻҰ�������������ҵ�����֮ǰ.;;;;;;;;;;X
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+SELECT_CHARACTER_TO_RANSOM;选择赎回人物;;;;;;;;;;x
+AIREASON_NEEDS_OUR_COUNCILLOR;是我们的 §Y[GetJobTitle]§!;;;;;;;;;;x
+AIREASON_SKILLED_COURTIER;§Y[GetBestName]§!的技能;;;;;;;;;;x
+AIREASON_IS_UNIMPORTANT;§Y[GetBestName]§!并不重要;;;;;;;;;;x
+INTERACTION_REQUIRES_INV_REASON;领地地产数少于§Y[ThirdPartyCharacter.GetTitledFirstName]§!或一个主要头衔宣称;;;;;;;;;;x
+TRANSFER_TREASURY_EFFECT;§Y$FROM$§! 支付 §Y$VALUE$§!¤ 给 §Y$TO$§!\n;;;;;;;;;;x
+EVTDESC3407;我对 [From.GetTitledFirstName] 喋喋不休地重复对彩色玻璃的观点感到厌恶，但 [From.GetHerHis] 追根究底使我不得不坦承己见.我讨厌那颜色，图案也愚蠢至极.;;;;;;;;;;x
+EVTDESC5042;我们在太阳升起之前早早出发.猎物数不胜数，猎狗捕到很多野兔，我则亲手杀死了一只野猪，在它拱死我的坐骑之前.;;;;;;;;;;x
