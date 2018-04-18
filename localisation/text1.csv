@@ -2,8 +2,8 @@
 AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! 已经过了生育年龄;;;;;;;;;;x
 AIREASON_OPINION;对 §Y[GetTitledFirstName]§! 的好感度;;;;;;;;;;x
 AIREASON_SKILLS;§Y[GetTitledFirstName]§! 的技能;;;;;;;;;;x
-AIREASON_REALPOLITIK;政治关注;;;;;;;;;;x
-AIREASON_REALPOLITIK_VS;对 §Y[GetTitledFirstName]§! 的政治关注;;;;;;;;;;x
+AIREASON_REALPOLITIK;政治忧虑;;;;;;;;;;x
+AIREASON_REALPOLITIK_VS;对 §Y[GetTitledFirstName]§! 的政治忧虑;;;;;;;;;;x
 AIREASON_WRONG_RELIGION;不同宗教;;;;;;;;;;x
 AIREASON_WRONG_CULTURE;外国文化;;;;;;;;;;x
 AIREASON_TOO_WEAK;比我弱小;;;;;;;;;;x
@@ -27,7 +27,7 @@ AIREASON_WANTS_FREEDOM;要自由;;;;;;;;;;x
 AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§! 是近亲;;;;;;;;;;x
 AIREASON_DARE_NOT_REFUSE;不敢拒绝;;;;;;;;;;x
 AIREASON_CONFLICTING_INTERESTS;利益冲突;;;;;;;;;;x
-AIREASON_SAME_REALM;同一王国;;;;;;;;;;x
+AIREASON_SAME_REALM;相同势力;;;;;;;;;;x
 AIREASON_GREED;贪婪;;;;;;;;;;x
 AIREASON_LAND_IS_GOOD;土地即是好;;;;;;;;;;x
 AIREASON_FEAR;害怕 §Y[GetTitledFirstName]§!;;;;;;;;;;x
@@ -42,7 +42,7 @@ AIREASON_FIGHTING_WAR;忙于进行战争;;;;;;;;;;x
 AIREASON_WARY_OF_FOREIGN_INTERVENTION;提防外国干涉;;;;;;;;;;x
 AIREASON_AGE_POWER_DIFFERENCE;年龄对比求婚者权力;;;;;;;;;;x
 AIREASON_WE_LIKE_ENEMY_BETTER;我们更喜欢你的敌人;;;;;;;;;;x
-AIREASON_WE_LIKE_YOU_BETTER;我们更喜欢你;;;;;;;;;;x
+AIREASON_WE_LIKE_YOU_BETTER;我们喜欢你多于你的敌人;;;;;;;;;;x
 AIREASON_BASE_RELUCTANCE;基础不情愿;;;;;;;;;;x
 AIREASON_SMALL_TIER_DIFF;地位上的微小差异;;;;;;;;;;x
 AIREASON_NOT_NEIGHBOR;距离多远;;;;;;;;;;x
@@ -332,7 +332,7 @@ GETISVALIDDESC;[GetIsValidDesc];;;;;;;;;;x
 THIRDPARTYTITLE;[ThirdPartyTitle.GetFullName];;;;;;;;;;x
 DIPLOOPENING_RELATIVE;亲爱的$RELATION$,\n;;;;;;;;;;x
 DIPLOOPENING_OTHER;致$ADJ$ $TO$,\n;;;;;;;;;;x
-DIPLOOPENING_ABOVE_LIEGE;"$FOA$,\n";;;;;;;;;;x
+DIPLOOPENING_ABOVE_LIEGE;$FOA$,\n;;;;;;;;;;x
 DIPLOOPENING_LIEGE;主君,\n;;;;;;;;;;x
 DIPLOWINDOW_ACCEPT;接受;;;;;;;;;;x
 DIPLOWINDOW_REJECT;拒绝;;;;;;;;;;x
@@ -384,12 +384,12 @@ DYNATREE_LIVINGMEMBERS;在世成员: $LIVING$;;;;;;;;;;x
 DYNATREE_GOTOHEAD;跳转到家族首领;;;;;;;;;;x
 DYNATREE_GOTOFOUNDER;G跳转到家族创建者;;;;;;;;;;x
 DYNATREE_TOGGLETREE;展开家族树;;;;;;;;;;x
-DYNATREE_FULLSCREEN;全屏展开n;;;;;;;;;;x
+DYNATREE_FULLSCREEN;全屏展开;;;;;;;;;;x
 DYNATREE_EXIT;退出;;;;;;;;;;x
 DYNATREE_EXPAND;打开或关闭后代;;;;;;;;;;x
 DYNATREE_CLICKTOSWITCH;§G点击切换到这个家族§!;;;;;;;;;;x
 DYNA_PRESTIGE;威望:;;;;;;;;;;x
-DYNA_CHILDREN;后代;;;;;;;;;;x
+DYNA_CHILDREN;孩子;;;;;;;;;;x
 DYNA_FAMILYTREE;家族谱系;;;;;;;;;;x
 DYNA_PARENTS;父母;;;;;;;;;;x
 DYNA_GRANDPARENTS;祖父母;;;;;;;;;;x
