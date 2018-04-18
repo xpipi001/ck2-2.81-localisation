@@ -449,40 +449,40 @@ PROV_MANPOWER;$WHERE$地区的人力为$DIRECTION$ $VALUE$.\n;;;;;;;;;;x
 DISCOVER;发现$WHERE$地区.\n;;;;;;;;;;x
 COT_CHANGE;$DIRECTION$在$WHERE$建立新的贸易中心.\n;;;;;;;;;;x
 ADD_BUILDING;在$WHERE$建造了$NAME$.\n;;;;;;;;;;x
-REM_BUILDING;在$WHERE$失去了$NAME$.\n;;;;;;;;;;x
-GOODS_CHANGE;在$WHERE$，$NAME$将成为新的特产.\n;;;;;;;;;;x
-SECEDE_PROVINCE;割让$WHERE$予$WHO$.\n;;;;;;;;;;x
-INHERIT;吞并$WHO$.\n;;;;;;;;;;x
-RELEASE;释放$WHO$.\n;;;;;;;;;;x
+REM_BUILDING;在$WHERE$失去了$NAME$。\n;;;;;;;;;;x
+GOODS_CHANGE;在$WHERE$，$NAME$将成为新的特产。\n;;;;;;;;;;x
+SECEDE_PROVINCE;割让$WHERE$予$WHO$。\n;;;;;;;;;;x
+INHERIT;吞并$WHO$。\n;;;;;;;;;;x
+RELEASE;释放$WHO$。\n;;;;;;;;;;x
 ADDTRAITEFFECT;§Y$WHO$§!获得特质：'§Y$TRAIT$§!'\n;;;;;;;;;;x
 REMOVETRAITEFFECT;§Y$WHO$§!失去特质：'§Y$TRAIT$§!'\n;;;;;;;;;;x
-NEW_GOVERNOR_EFFECT_A;$NEW$成为$WHERE$的总督.\n;;;;;;;;;;x
-NEW_GOVERNOR_EFFECT_B;$WHO$上任$WHERE$的总督.\n;;;;;;;;;;x
-MOVE_CHARACTER;$WHO$来到了$WHERE$.\n;;;;;;;;;;x
-WEALTH_EFFECT;$WHO$有$DIRECTION$ $VALUE$财富.\n;;;;;;;;;;x
-LOYALTY_EFFECT;$WHO$有$DIRECTION$ $VALUE$忠诚.\n;;;;;;;;;;x
-POPULARITY_EFFECT;$WHO$有$DIRECTION$ $VALUE$声望.\n;;;;;;;;;;x
-CORRUPTION_EFFECT;$WHO$有$DIRECTION$ $VALUE$腐败.\n;;;;;;;;;;x
-FAM_PRESTIGE_EFFECT;$WHO$有$DIRECTION$ $VALUE$家族威望.\n;;;;;;;;;;x
-BARBARIAN_POWER_EFFECT;在$WHERE$的蛮族力量为$DIRECTION$ $VALUE$.\n;;;;;;;;;;x
-ASSIGN_OFFICE_EFFECT;指定$CHAR$担任$NEW$.\n;;;;;;;;;;x
-CREATE_COLONY_EFFECT;人口为$SIZE$的殖民地已经在$WHERE$建立.\n;;;;;;;;;;x
+NEW_GOVERNOR_EFFECT_A;$NEW$成为$WHERE$的总督。\n;;;;;;;;;;x
+NEW_GOVERNOR_EFFECT_B;$WHO$上任$WHERE$的总督。\n;;;;;;;;;;x
+MOVE_CHARACTER;$WHO$来到了$WHERE$。\n;;;;;;;;;;x
+WEALTH_EFFECT;$WHO$有$DIRECTION$ $VALUE$财富。\n;;;;;;;;;;x
+LOYALTY_EFFECT;$WHO$有$DIRECTION$ $VALUE$忠诚。\n;;;;;;;;;;x
+POPULARITY_EFFECT;$WHO$有$DIRECTION$ $VALUE$声望。\n;;;;;;;;;;x
+CORRUPTION_EFFECT;$WHO$有$DIRECTION$ $VALUE$腐败。\n;;;;;;;;;;x
+FAM_PRESTIGE_EFFECT;$WHO$有$DIRECTION$ $VALUE$家族威望。\n;;;;;;;;;;x
+BARBARIAN_POWER_EFFECT;在$WHERE$的蛮族力量为$DIRECTION$ $VALUE$。\n;;;;;;;;;;x
+ASSIGN_OFFICE_EFFECT;指定$CHAR$担任$NEW$。\n;;;;;;;;;;x
+CREATE_COLONY_EFFECT;人口为$SIZE$的殖民地已经在$WHERE$建立。\n;;;;;;;;;;x
 RANDOM_EFFECT;§Y$CHANCE$%§!几率;;;;;;;;;;x
-RANDOM_LIST_EFFECT;§Y$SIZE$个选项之一将会发生:§!\n;;;;;;;;;;x
-UNIT_ALLEGIANCE_EFFECT;$UNIT$投奔到$WHO$麾下.\n;;;;;;;;;;x
+RANDOM_LIST_EFFECT;§Y$SIZE$个选项之一将会发生：§!\n;;;;;;;;;;x
+UNIT_ALLEGIANCE_EFFECT;$UNIT$投奔到$WHO$麾下。\n;;;;;;;;;;x
 LOSE;失去;;;;;;;;;;x
 GAIN;增加;;;;;;;;;;x
 NO_EFFECT;无效果;;;;;;;;;;x
-CIV_VALUE;在$WHERE$的文明程度为$DIRECTION$ $VALUE$.\n;;;;;;;;;;x
-SPAWN_HORDE;一个有$SIZE$单位的蛮族部落将出现在$WHERE$.\n;;;;;;;;;;x
-REMOVE_GOVERNOR;$WHO$将失去$WHERE$的总督职位.\n;;;;;;;;;;x
-SET_FAMILY_EFFECT;$CHAR$将成为$FAMILY$的一员.\n;;;;;;;;;;x
-REMOVE_TITLE_EFFECT;$CHAR$不再是$TITLE$.\n;;;;;;;;;;x
+CIV_VALUE;在$WHERE$的文明程度为$DIRECTION$ $VALUE$。\n;;;;;;;;;;x
+SPAWN_HORDE;一个有$SIZE$单位的蛮族部落将出现在$WHERE$。\n;;;;;;;;;;x
+REMOVE_GOVERNOR;$WHO$不再是$WHERE$的总督。\n;;;;;;;;;;x
+SET_FAMILY_EFFECT;$CHAR$将成为$FAMILY$家族的一员。\n;;;;;;;;;;x
+REMOVE_TITLE_EFFECT;$CHAR$不再是$TITLE$。\n;;;;;;;;;;x
 IMPLEMENT_LAW;制定并执行;;;;;;;;;;x
 REVOKE_LAW;废除;;;;;;;;;;x
 CHARBANISHEFFECT;§Y$NAME$§!被驱逐到§Y$TARGET$§!\n;;;;;;;;;;x
-MODIFIER_ADDED;§Y$WHERE$§! 获得 '§Y$WHAT$§!' 直到 §Y$DATE$§!，得到如下效果：\n$EFFECT$\n\n;;;;;;;;;;x
-MODIFIER_REMOVED;§Y$WHAT$§!将被移除从§Y$WHERE$§!\n;;;;;;;;;;x
+MODIFIER_ADDED;§Y$WHERE$§!获得'§Y$WHAT$§!'直到§Y$DATE$§!，得到如下效果：\n$EFFECT$\n\n;;;;;;;;;;x
+MODIFIER_REMOVED;§Y$WHAT$§!将从§Y$WHERE$§!移除\n;;;;;;;;;;x
 DIPLOMACYEFFECT;$DIRECTION$ $VALUE$外交\n;;;;;;;;;;x
 INTRIGUEEFFECT;$DIRECTION$ $VALUE$密谋\n;;;;;;;;;;x
 STEWARDSHIPEFFECT;$DIRECTION$ $VALUE$财政\n;;;;;;;;;;x
@@ -492,23 +492,23 @@ SET_TITLE_HOLDER_GAIN_EFFECT;§Y$CHAR$§!得到头衔§Y$TITLE$§!\n;;;;;;;;;;x
 SET_TITLE_HOLDER_INHERIT_EFFECT;§Y$CHAR$§!继承头衔§Y$TITLE$§!\n;;;;;;;;;;x
 SET_TITLE_HOLDER_GRANT_EFFECT;§Y$CHAR$§!被授予头衔 §Y$TITLE$§!\n;;;;;;;;;;x
 REBEL_DEFECTION_EFFECT;§Y$TITLE$§!叛逃到§Y$CHAR$§!\n;;;;;;;;;;x
-END_WAR_EFFECT;战争结束条件如下:\n;;;;;;;;;;x
+END_WAR_EFFECT;战争结束条件如下：\n;;;;;;;;;;x
 PHASE_CHANGE_TO;战役阶段变为;;;;;;;;;;x
 CROWN_INVESTITURE;国王可以任命主教\n;;;;;;;;;;x
 CHURCH_INVESTITURE;只有教宗可以任命主教\n;;;;;;;;;;x
 FREE_INVESTITURE;任何领主都可以任命主教\n;;;;;;;;;;x
 CROWN_CHARTERS_ONLY;只有国王可以给予城市特权\n;;;;;;;;;;x
 FREE_CHARTERS;任何领主都可以给予城市特权\n;;;;;;;;;;x
-KINGS_PEACE_ON;封臣不能互相开战.\n;;;;;;;;;;x
-KINGS_PEACE_OFF;封臣可以互相开战.\n;;;;;;;;;;x
-KINGS_FULL_PEACE_ON;封臣不能发动战争.\n;;;;;;;;;;x
+KINGS_PEACE_ON;封臣不能互相开战。\n;;;;;;;;;;x
+KINGS_PEACE_OFF;封臣可以互相开战。\n;;;;;;;;;;x
+KINGS_FULL_PEACE_ON;封臣不能发动战争。\n;;;;;;;;;;x
 KINGS_FULL_PEACE_OFF;封臣可以发动战争\n;;;;;;;;;;x
 PROTECTED_INHERITANCE_ON;封臣头衔不再能够在王国之外通过继承权获得\n;;;;;;;;;;x
 PROTECTED_INHERITANCE_OFF;封臣头衔现在能够在王国之外通过继承权获得\n;;;;;;;;;;x
-APPOINT_GENERALS_ON;你可以任命军队指挥官.\n;;;;;;;;;;x
-APPOINT_GENERALS_OFF;你不可以任命军队指挥官.\n;;;;;;;;;;x
-APPOINT_REGENTS_ON;你可以任命摄政者.\n;;;;;;;;;;x
-APPOINT_REGENTS_OFF;你不可以任命摄政者.\n;;;;;;;;;;x
+APPOINT_GENERALS_ON;你可以任命军队指挥官。\n;;;;;;;;;;x
+APPOINT_GENERALS_OFF;你不可以任命军队指挥官。\n;;;;;;;;;;x
+APPOINT_REGENTS_ON;你可以任命摄政者。\n;;;;;;;;;;x
+APPOINT_REGENTS_OFF;你不可以任命摄政者。\n;;;;;;;;;;x
 HEREDITARY_JOB_ON;头衔$JOB$可以被世袭\n;;;;;;;;;;x
 HEREDITARY_JOB_OFF;头衔$JOB$不能被世袭\n;;;;;;;;;;x
 REL_AUTHORITY_EFFECT;$DIRECTION$ $PERC$宗教权威\n;;;;;;;;;;x
@@ -520,27 +520,27 @@ IMPREGNATE_EFFECT;$WHO$怀上了$FATHER$的孩子\n;;;;;;;;;;x
 DEFAULT_SENDEVENT_EVENTOPTION_TOOLTIP;人物发生事件\n;;;;;;;;;;x
 LOSE_CLAIM_ON;$WHO$失去了对头衔§Y$TITLE$§!的宣称权\n;;;;;;;;;;x
 EARNS_NICKNAME;从此被称为;;;;;;;;;;x
-CHARRELEASEEFFECT;从监狱释放.\n;;;;;;;;;;x
-CHARIMPRISONEFFECT;§Y$WHO$§!被§Y$KEEPER$§!囚禁.\n;;;;;;;;;;x
-MARRIAGEEFFECT;§Y$WHO$§!与§Y$SPOUSE$§!结婚.\n;;;;;;;;;;x
-DIVORCEEFFECT;§Y$WHO$§!与§Y$SPOUSE$§!离婚.\n;;;;;;;;;;x
-SET_GUARDIAN_EFFECT;$GUARDIAN$成为了$WHO$的监护人.\n;;;;;;;;;;x
-BECOME_HERETIC_EFFECT;接受§Y$HERESY$§!的异端信仰.\n;;;;;;;;;;x
-ABANDON_HERESY_EFFECT;放弃§Y$HERESY$§!的异端信仰.\n;;;;;;;;;;x
-NAMED_CHARACTER_CREATED;$TYPE$ 名叫 §Y$NAME$§! 出现在 §Y$EMPLOYER$§!的宫廷内.\n;;;;;;;;;;x
-INFANT_CREATED;一个叫做§Y$NAME$§!的孩子出现在§Y$EMPLOYER$§!的宫廷.\n;;;;;;;;;;x
-CHARACTER_CREATED;$TYPE$出现在§Y$EMPLOYER$§!的宫廷.\n;;;;;;;;;;x
-HEALTH_EFFECT;§Y$WHO$§! $DIRECTION$ $VALUE$健康.\n;;;;;;;;;;x
-FERTILITY_EFFECT;§Y$WHO$§! $DIRECTION$ $PERC$生育能力.\n;;;;;;;;;;x
-CHANGECULTUREEFFECT;$WHERE$成为$NAME$.\n;;;;;;;;;;x
-RELIGION_CHANGE;$WHERE$成为$NAME$.\n;;;;;;;;;;x
-ACTIVATE_TITLE_EFFECT;§Y$TITLE$§!现在存在.\n;;;;;;;;;;x
-DEACTIVATE_TITLE_EFFECT;§Y$TITLE$§!不再存在.\n;;;;;;;;;;x
+CHARRELEASEEFFECT;从监狱释放。\n;;;;;;;;;;x
+CHARIMPRISONEFFECT;§Y$WHO$§!被§Y$KEEPER$§!囚禁。\n;;;;;;;;;;x
+MARRIAGEEFFECT;§Y$WHO$§!与§Y$SPOUSE$§!结婚。\n;;;;;;;;;;x
+DIVORCEEFFECT;§Y$WHO$§!与§Y$SPOUSE$§!离婚。\n;;;;;;;;;;x
+SET_GUARDIAN_EFFECT;$GUARDIAN$成为了$WHO$的监护人。\n;;;;;;;;;;x
+BECOME_HERETIC_EFFECT;接受§Y$HERESY$§!的异端信仰。\n;;;;;;;;;;x
+ABANDON_HERESY_EFFECT;放弃§Y$HERESY$§!的异端信仰。\n;;;;;;;;;;x
+NAMED_CHARACTER_CREATED;$TYPE$ 名叫 §Y$NAME$§! 出现在 §Y$EMPLOYER$§!的宫廷内。\n;;;;;;;;;;x
+INFANT_CREATED;一个叫做§Y$NAME$§!的孩子出现在§Y$EMPLOYER$§!的宫廷。\n;;;;;;;;;;x
+CHARACTER_CREATED;$TYPE$出现在§Y$EMPLOYER$§!的宫廷。\n;;;;;;;;;;x
+HEALTH_EFFECT;§Y$WHO$§! $DIRECTION$ $VALUE$健康。\n;;;;;;;;;;x
+FERTILITY_EFFECT;§Y$WHO$§! $DIRECTION$ $PERC$生育能力。\n;;;;;;;;;;x
+CHANGECULTUREEFFECT;$WHERE$成为$NAME$。\n;;;;;;;;;;x
+RELIGION_CHANGE;$WHERE$成为$NAME$。\n;;;;;;;;;;x
+ACTIVATE_TITLE_EFFECT;§Y$TITLE$§!现在存在。\n;;;;;;;;;;x
+DEACTIVATE_TITLE_EFFECT;§Y$TITLE$§!不再存在。\n;;;;;;;;;;x
 CHARDEATHEFFECT;§Y$NAME$§!死亡！\n;;;;;;;;;;x
 CURE_ILLNESS_EFFECT;痊愈了！\n;;;;;;;;;;x
-BETROTHAL_EFFECT;$WHO$与$SPOUSE$订婚.\n;;;;;;;;;;x
-BREAK_BETROTHAL_EFFECT;$WHO$撕毁与$SPOUSE$的订婚协议.\n;;;;;;;;;;x
-CREATEHOLDING_EFFECT;创建$NAME$.\n;;;;;;;;;;x
+BETROTHAL_EFFECT;$WHO$与$SPOUSE$订婚。\n;;;;;;;;;;x
+BREAK_BETROTHAL_EFFECT;$WHO$撕毁与$SPOUSE$的订婚协议。\n;;;;;;;;;;x
+CREATEHOLDING_EFFECT;创建$NAME$。\n;;;;;;;;;;x
 ALL_PROV_LORDS;所有领主;;;;;;;;;;x
 ALL_PROV_CHARS;所有角色;;;;;;;;;;x
 ALL_COURTIERS;所有廷臣;;;;;;;;;;x
@@ -593,7 +593,7 @@ ENDGAME_STARTOFGAME;游戏开始;;;;;;;;;;x
 ENDGAME_TEXT_DEATH;历经$NUMCHARS$代统治者后，你的家族于无后的$ENDCHAR$处终结. ;;;;;;;;;;x
 END_HISTORICAL_DYNASTIES;历史家族:;;;;;;;;;;x
 END_GAME_OVER;游戏结束！;;;;;;;;;;x
-END_YOUR_SCORE;你们的分数;;;;;;;;;;x
+END_YOUR_SCORE;你的分数;;;;;;;;;;x
 QUIT_TO_MENU;退出到主菜单;;;;;;;;;;x
 DAYS_OF_RULE;统治了$DAYS$天;;;;;;;;;;x
 MONTHS_OF_RULE;统治了$MONTHS$个月;;;;;;;;;;x
@@ -647,8 +647,8 @@ EVTDESC1045;我之前并不知道何为害怕，一旦当你恐惧得双腿颤�
 EVTOPTA1045;这并不能让我变成一个懦夫，不是吗?;;;;;;;;;;x
 EVTDESC1046;我不再像以前那样感到恐惧，并且我正在努力克服我以前感到恐惧的事情.;;;;;;;;;;x
 EVTOPTA1046;再也没有人可以叫我懦夫了;;;;;;;;;;x
-EVTDESC1047;我渴望宅，我注定孤独一生.;;;;;;;;;;x
-EVTOPTA1047;...但我不会成为一个死宅;;;;;;;;;;x
+EVTDESC1047;我渴望独处，我不再寻求别人的陪伴。;;;;;;;;;;x
+EVTOPTA1047;...但我不会成为一个隐士;;;;;;;;;;x
 EVTDESC1048;我的信心在不断增加，我再也不会感到尴尬了.;;;;;;;;;;x
 EVTOPTA1048;我的口吃消失了！;;;;;;;;;;x
 EVTDESC1049;生命中必然有比这更重要的东西！;;;;;;;;;;x
@@ -666,7 +666,7 @@ EVTOPTA1054;...只要它不满出来就好;;;;;;;;;;x
 EVTDESC1057;那种被监视的感觉似乎在一夜之间消失了!;;;;;;;;;;x
 EVTOPTA1057;我安全了;;;;;;;;;;x
 EVTDESC1058;经过几次暗杀和盗窃之后.我不知道我还可以信任谁.;;;;;;;;;;x
-EVTOPTA1058;为什么他们要伤害我？;;;;;;;;;;x
+EVTOPTA1058;为什么他们试图伤害我？;;;;;;;;;;x
 EVTDESC1500;每天厨师总是将我赶出厨房，但在这之前我已经吃饱了，并且我的口袋里塞满了饼干.;;;;;;;;;;x
 EVTOPTA1500;唔，真甜！;;;;;;;;;;x
 EVTDESC1501;我的 [GetFromRelation], [From.GetTitledFirstName] 认为我吃的太多了，并宣称我需要节食！;;;;;;;;;;x
@@ -676,7 +676,7 @@ EVTOPTA1510;胖子很丑;;;;;;;;;;x
 EVTDESC1511;我的 [GetFromRelation] 担心我的健康并希望我多吃点.;;;;;;;;;;x
 EVTOPTA1511;但我不想变胖.;;;;;;;;;;x
 EVTDESC1520;不，你不能动他们.这些东西是我的！;;;;;;;;;;x
-EVTOPTA1520;都是我的！;;;;;;;;;;x
+EVTOPTA1520;我的玩具！我的！;;;;;;;;;;x
 EVTDESC1521;我的 [GetFromRelation] [From.GetTitledFirstName] 不希望让我变成一个卑鄙又自私的小财迷.;;;;;;;;;;x
 EVTOPTA1521;但是... 这些是我的东西.;;;;;;;;;;x
 EVTDESC1530;如果你陪我玩的话，我会让你玩我的玩具.;;;;;;;;;;x

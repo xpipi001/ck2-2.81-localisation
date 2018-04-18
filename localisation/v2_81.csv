@@ -17,7 +17,7 @@ chinese_grace_become_tributary_desc;向§Y[Root.Offmap.Ruler.GetMediumChineseEmp
 chinese_grace_become_tributary_effect_TT;以§R50%收入§!、§R30%部队数额§!以及§R[GetChineseOffmapTributaryPrestigeCost]§!为代价，获得§G每月2点天恩§!以及§G在被攻击时可征召中国军团§!的能力。\n这些效果持续到§Y该朝代对中国统治的终结§!，或者通过（战争、决议）§Y得到独立§!后取消。\n;;;;;;;;;;x
 ENDGAME_TEXT_INDIAN;你皈依了东方宗教，但是没有印度罗阇或玉龙DLC，因此你不能再继续游戏了。\n;;;;;;;;;;x
 you_will_game_over_tt;§R你不能以这个宗教进行游戏，否则会导致游戏结束！§!\n;;;;;;;;;;x
-is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;没有§Y独眼§!，§Y独臂§!，§Y独腿§!，§Y毁容§!，或§Y错位§!\n;;;;;;;;;;x
+is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;没有§Y独眼§!，§Y独臂§!，§Y独腿§!，§Y毁容§!，或§Y血肉模糊§!\n;;;;;;;;;;x
 is_not_maimed_or_infirm_tt;没有§Y残废§!或§Y年老体衰§!\n;;;;;;;;;;x
 is_not_wounded_severely_injured_tt;没有§Y受伤§!或§Y重伤§!\n;;;;;;;;;;x
 EVTTOOLTIP100201;ÊÜ[Root.GetTitledFirstName]ÇëÇó°ïÖú¸Ä½ø½£¼¼;;;;;;;;;;x
