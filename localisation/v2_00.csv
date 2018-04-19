@@ -597,7 +597,7 @@ donate_money_to_knights_calatrava;捐赠 300¤ 给卡勒多拉巴骑士团;;;;;;
 expelled_d_knights_calatrava;曾驱逐卡勒多拉巴骑士团;;;;;;;;;;x
 catholic_pilgrimage;去朝圣;;;;;;;;;;x
 catholic_pilgrimage_desc;一些虔诚的基督徒会在在一生中进行一次重要的朝圣。虔诚的朝圣将会选择去远方，拜访信仰中最神圣的圣地。;;;;;;;;;;x
-on_pilgrimage;朝圣途中;;;;;;;;;;x
+on_pilgrimage;朝圣中;;;;;;;;;;x
 on_pilgrimage_desc;这名角色正在朝圣的途中。;;;;;;;;;;x
 appeased_religious_desc;该地人民认为他们和领主受到神佑，所以他们更不倾向于叛乱。;;;;;;;;;;x
 defied_church;你蔑视教会的遗愿。他们很不开心。.;;;;;;;;;;x

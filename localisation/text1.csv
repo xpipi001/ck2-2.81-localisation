@@ -9637,7 +9637,7 @@ b_seneqerim;瑟尼格米;;;;;;;;;;x
 b_arguvan;阿尔古万;;;;;;;;;;x
 b_kigi;吉基;;;;;;;;;;x
 b_yedisu;亚迪苏;;;;;;;;;;x
-d_armenia_minor;奇里乞亞;;;;;;;;;;x
+d_armenia_minor;奇里乞亚;;;;;;;;;;x
 c_lykandos_adj;卢坎多斯;;;;;;;;;;x
 b_lykandos;卢坎多斯;;;;;;;;;;x
 b_tzamandos;特泽马多斯;;;;;;;;;;x
@@ -16352,7 +16352,7 @@ SELECT_VICTOR;选择人物;;;;;;;;;;x
 ALREADY_CALLED_ALLY;我们已经都和同一个敌人开战了;;;;;;;;;;x
 MAY_NOT_RETREAT;战斗才刚刚开始就撤退是不可能的，也是可耻的.;;;;;;;;;;x
 CH_NBATTLE_RESULT_LONG;他以§Y$US$§!面对§Y$ENEMY$§!的§Y$THEM$§!.他以§Y$OUR_LOSSES$§!的损失对敌人造成§Y$THEIR_LOSSES$§!的损失.;;;;;;;;;;x
-DIPRELCH_DEPENDENCY;进贡关系;;;;;;;;;;x
+DIPRELCH_DEPENDENCY;朝贡关系;;;;;;;;;;x
 DIPRELCH_WAR;交战;;;;;;;;;;x
 DIPRELCH_NBOR_PEACE;和平的邻国;;;;;;;;;;x
 DIPRELCH_DIFF_RELIGION;不同宗教;;;;;;;;;;x

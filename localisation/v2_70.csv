@@ -46,15 +46,15 @@ EVTOPTA_TOG_621_Aztec_Religious_Head;[From.GetBestName]！你邪恶的伪神在�
 String_Muslim;穆斯林;;;;;;;;;;x
 monastic_order_convert_county;对省份传教;;;;;;;;;;x
 monastic_order_convert_county_desc;将来自[From.Society.GetName]的使者派给当地居民，以便将他们转换为[From.Religion.GetName]信仰。;;;;;;;;;;x
-monastic_order_convert_county_power_desc;用§G右键单击§!一个伯爵领头衔的盾徽，使当地居民皈依你的宗教。
+monastic_order_convert_county_power_desc;用§Gright-clicking§!一个伯爵领头衔的盾徽，使当地居民皈依你的宗教。
 ;;;;;;;;;;x
 EVTDESC_MNM_4990;[From.GetName]的大部分人接受了[Root.Religion.GetName]信仰。;;;;;;;;;;x
 EVTDESC_MNM_4991;一个信使给我带来消息，告诉我 说[FromFrom.GetTitledFirstName] 派出多名使者前去[From.GetName]，在那里他们成功地说服了当地民众接受 [FromFrom.Religion.GetName]信仰。;;;;;;;;;;x
 TRIGGER_ARTIFACT_OWNER;宝物主人;;;;;;;;;;x
 TRIGGER_ARTIFACT_ORIGINAL_OWNER;宝物原主人;;;;;;;;;;x
 INHERITANCE_LOST_ARTIFACTS_LOG;伴随着权力的交接， $CHARACTER$ 失去了 $ARTIFACT$。;;;;;;;;;;x
-ask_wards_liege_to_allow_culture_religion_swap_desc;送一封信给 §Y[Root.Liege.GetTitledFirstName]§! 请他允许你改变§Y[Root.GetFirstName]§!的教育重心。注意§YHeritage§! 将使得§Y[Root.GetFirstName]§! 接受监护人的宗教和文化。;;;;;;;;;;x
-change_wards_focus_to_heritage_desc;改变对§Y[Root.GetFirstName]§!的培养重点。 关注§YHeritage§! 会使§Y[Root.GetFirstName]§!采纳卫报（Guardian's）的宗教和文化。;;;;;;;;;;x
+ask_wards_liege_to_allow_culture_religion_swap_desc;送一封信给 §Y[Root.Liege.GetTitledFirstName]§! 请他允许你改变§Y[Root.GetFirstName]§!的教育重心。注意§Y传统§!的重心将使得§Y[Root.GetFirstName]§! 接受监护人的宗教和文化。;;;;;;;;;;x
+change_wards_focus_to_heritage_desc;改变§Y[Root.GetFirstName]§!的培养重心。 重心设置为§Y传统§!会使§Y[Root.GetFirstName]§!接受监护者的宗教和文化。;;;;;;;;;;x
 EVTDESC_ZE_2131;亲爱的 [Root.GetTitledNameWithNick],\n\n你的关于 [FromFrom.GetFirstName] 传统教育的提议我是十分欢迎的;;;;;;;;;;x
 EVTOPTA_ZE_2131;[FromFrom.GetSubjectPronounCap] 将会得到良好的教育。;;;;;;;;;;x
 GIVE_ARTIFACT_INTERACTION_TITLE;赐予宝物;;;;;;;;;;x
@@ -80,7 +80,7 @@ desc_rampaging_nomads;成群的蛮族正在威胁这个地区的居民，如果�
 recently_burnt_the_land_not_owner;为蛮族所洗劫;;;;;;;;;;x
 desc_recently_burnt_the_land_not_owner;这个郡已经被蛮子们抢掠一空。只要这个修正值还在，该郡就不能再被掠夺了。;;;;;;;;;;x
 EVTDESC_HL_4814_NON_NOMAD;[target_location.GetName]在被你的战士们掠夺，蹂躏，抢劫和洗劫到这种程度之后，该地已经被完全摧毁。只剩下被亡魂所萦绕的空旷废墟……;;;;;;;;;;x
-PROVINCE_HOTKEY_INFO;按下§GRight Click§!转到省份拥有者\n按下§GShift + Right Click§!转到省份拥有者的最高领主\n按下§GAlt + Right Click§!与省份拥有者互动\n按下§GAlt + Shift + Right Click§!与省份拥有者的最高领主互动;;;;;;;;;;x
+PROVINCE_HOTKEY_INFO;按§G鼠标右键§!转到省份拥有者\n按§GShift + 鼠标右键§!转到省份拥有者的最高领主\n按§GAlt + 鼠标右键§!与省份拥有者互动\n按§GAlt + Shift + 鼠标右键§!与省份拥有者的最高领主互动;;;;;;;;;;x
 EMPTY_SEAT_VOTES;$NUM|Y$ 空位;;;;;;;;;;x
 SET_SECRET_RELIGION_NONE;$CHARACTER|Y$不再秘密信仰一个宗教\n;;;;;;;;;;x
 SET_SECRET_RELIGION;$CHARACTER|Y$开始秘密信仰$RELIGION|Y$宗教。\n;;;;;;;;;;x
@@ -568,8 +568,8 @@ EVTDESC_MNM_5115_self;在这种状态下，我几乎不能对药水的质量有�
 EVTDESC_MNM_5115_other;不管我的药水质量如何，[potion_target.GetTitledFirstName]都会服用。但是在仔细查阅了配方后，我不确定该用哪种原料…不晓得我的[potion_target.GetRootRelation]会对[GetSelectedIngredient_1] [GetSelectedIngredient_1_property]怎么看。;;;;;;;;;;x
 EVTOPTA_MNM_5115_herb;一些压碎的[GetSelectedIngredient_1]感觉是正确的。;;;;;;;;;;x
 EVTOPTA_MNM_5115_animal_part;一些粗糙的地面[GetSelectedIngredient_1]感觉是对的。;;;;;;;;;;x
-EVTOPTA_MNM_5115_powder;一点点[GetSelectedIngredient_1]的薄片感觉是正确的。;;;;;;;;;;x
-EVTOPTA_MNM_5115_liquid;一点[GetSelectedIngredient_1]感觉是正确的。;;;;;;;;;;x
+EVTOPTA_MNM_5115_powder;几片 [GetSelectedIngredient_1] 感觉对了。;;;;;;;;;;x
+EVTOPTA_MNM_5115_liquid;几片 [GetSelectedIngredient_1] 感觉对了。;;;;;;;;;;x
 EVTOPTB_MNM_5115_herb;一点点的压碎[GetSelectedIngredient_2]会产生这种特殊的气味。;;;;;;;;;;x
 EVTOPTB_MNM_5115_animal_part;一些干燥的[GetSelectedIngredient_2]树叶有很强的余味;;;;;;;;;;x
 EVTOPTB_MNM_5115_powder; [GetSelectedIngredient_2] 的某些成分应该奏效的！;;;;;;;;;;x
@@ -589,7 +589,7 @@ EVTDESC_MNM_4960;[From.GetTitledFirstName] 在我为[From.GetHerHim] 讲解如�
 EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]清楚地解释了[From.GetSheHe]是如何践行美德以度过这时而无情且压力重重的生活的。通过倾听[FromFrom.GetHerHim]的讲述，我已了解如何通过践行美德以更好地修身养性。;;;;;;;;;;x
 monastic_orders_spiritual_guidance;给予精神指导;;;;;;;;;;x
 monastic_orders_spiritual_guidance_desc;你知道[Root.GetTitledFirstName]作为一个罪人。你可以提供精神上的指导帮助摆脱 [Root.GetHerHim] 一个[Root.GetHerHis]恶行。;;;;;;;;;;x
-monastic_orders_spiritual_guidance_power_desc;为了使你能够§Gright-click§!选中的角色包括你的领地中的臣属，亲戚，跟随你的社团成员。这样做可以改掉他们1的恶习，当然这恶习是你自己所不具备的。;;;;;;;;;;x
+monastic_orders_spiritual_guidance_power_desc;为了使你能够 §Gright-click§! 选中的角色包括你的领地中的臣属，亲戚，跟随你的社团成员。这样做可以改掉他们的恶习，当然这恶习是你自己所不具备的。;;;;;;;;;;x
 opinion_spiritual_guidance;受到精神指导;;;;;;;;;;x
 spiritual_guidance_tooltip;有着 §Y[From.GetTitledFirstName]§! 没有的罪恶;;;;;;;;;;x
 monastic_orders_teach_virtue;传授美德;;;;;;;;;;x
@@ -780,17 +780,17 @@ secretly_convert_to_miaphysite_holy_site;秘密地皈依了东方东正教;;;;;;
 secretly_convert_to_miaphysite_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y科普特教派§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_nestorian_holy_site;秘密地皈依了聂斯托里教派;;;;;;;;;;x
 secretly_convert_to_nestorian_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y聂斯脱里派§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_sunni_holy_site;秘密皈依地了逊尼派;;;;;;;;;;x
+secretly_convert_to_sunni_holy_site;秘密皈依了逊尼派;;;;;;;;;;x
 secretly_convert_to_sunni_holy_site_desc;The §YSunni§!朝圣者们成群结队地来到圣地§Y[Root.Location.GetName]§!他们的信仰的深度和激情给我留下了深刻的印象。我很想秘密地改变信仰...;;;;;;;;;;x
-secretly_convert_to_shiite_holy_site;秘密皈依地了什叶派;;;;;;;;;;x
+secretly_convert_to_shiite_holy_site;秘密皈依了什叶派;;;;;;;;;;x
 secretly_convert_to_shiite_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y什叶派§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_ibadi_holy_site;秘密皈依了伊巴德派;;;;;;;;;;x
 secretly_convert_to_ibadi_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y伊巴迪§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_jewish_holy_site;秘密皈依地了犹太教;;;;;;;;;;x
+secretly_convert_to_jewish_holy_site;秘密皈依了犹太教;;;;;;;;;;x
 secretly_convert_to_jewish_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y犹太教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_zoroastrian_holy_site;秘密地皈依了祆教;;;;;;;;;;x
 secretly_convert_to_zoroastrian_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y祆教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_hindu_holy_site;秘密皈依地了印度教;;;;;;;;;;x
+secretly_convert_to_hindu_holy_site;秘密皈依了印度教;;;;;;;;;;x
 secretly_convert_to_hindu_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y印度教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_buddhist_holy_site;秘密地皈依了佛教;;;;;;;;;;x
 secretly_convert_to_buddhist_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y佛教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
@@ -808,9 +808,9 @@ secretly_convert_to_tengri_pagan_holy_site;秘密皈依了长生天;;;;;;;;;;x
 secretly_convert_to_tengri_pagan_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y长生天§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_tengri_pagan_reformed_holy_site;秘密皈依了长生天;;;;;;;;;;x
 secretly_convert_to_tengri_pagan_reformed_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y长生天§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_holy_site;秘密皈依洛姆瓦;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_holy_site;秘密皈依了洛姆瓦;;;;;;;;;;x
 secretly_convert_to_baltic_pagan_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y洛姆瓦§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_reformed_holy_site;秘密皈依洛姆瓦;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_reformed_holy_site;秘密皈依了洛姆瓦;;;;;;;;;;x
 secretly_convert_to_baltic_pagan_reformed_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y洛姆瓦§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_finnish_pagan_holy_site;秘密地皈依了瓦洛姆信仰;;;;;;;;;;x
 secretly_convert_to_finnish_pagan_holy_site_desc;§YSuomenusko§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
@@ -820,7 +820,7 @@ secretly_convert_to_west_african_pagan_holy_site;秘密地转变为了西非人;
 secretly_convert_to_west_african_pagan_holy_site_desc;§YWest African§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_reformed_holy_site;秘密地转变为了西非人;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_reformed_holy_site_desc;§YWest African§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣所，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
-secretly_convert_to_aztec_holy_site;秘密皈依地了阿兹特克教;;;;;;;;;;x
+secretly_convert_to_aztec_holy_site;秘密皈依了阿兹特克教;;;;;;;;;;x
 secretly_convert_to_aztec_holy_site_desc;§YAztec§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site;秘密转变为了阿兹特克人;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site_desc;§YAztec§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
