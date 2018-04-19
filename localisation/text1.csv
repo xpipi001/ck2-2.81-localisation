@@ -10619,7 +10619,7 @@ c_arborea_adj;阴影;;;;;;;;;;x
 b_oristano;奥里斯塔诺;;;;;;;;;;x
 b_ardara;阿尔达拉;;;;;;;;;;x
 b_sassari;萨萨里;;;;;;;;;;x
-b_portotorres;托雷斯港;;;;;;;;;;x
+b_portotorres;波尔托托雷斯;;;;;;;;;;x
 b_olbia;奥尔比亚;;;;;;;;;;x
 b_ottana;奥塔纳;;;;;;;;;;x
 b_tharros;塔洛斯;;;;;;;;;;x
@@ -17697,8 +17697,8 @@ GOD_MANAH;圣灵正思;;;;;;;;;;x
 THE_BIBLE;圣经;;;;;;;;;;x
 THE_KORAN;古兰经;;;;;;;;;;x
 THE_LEGENDS;传说;;;;;;;;;;x
-THE_SAGAS;英雄传奇;;;;;;;;;;x
-THE_GATHAS;迦特;;;;;;;;;;x
+THE_SAGAS;萨迦史诗;;;;;;;;;;x
+THE_GATHAS;伽萨圣歌;;;;;;;;;;x
 TECH_MISSING;缺少科技进步;;;;;;;;;;x
 NOT_BUILT;未建造;;;;;;;;;;x
 NO_BUILD_NOT_PLAYER;你只能在你自己的领地建造;;;;;;;;;;x
@@ -18242,7 +18242,7 @@ nick_the_victorious;胜利者;;;;;;;;;;x
 nick_the_crusader;十字军战士;;;;;;;;;;x
 nick_the_holy;圣人;;;;;;;;;;x
 nick_the_avenger;复仇者;;;;;;;;;;x
-nick_the_brave;勇者;;;;;;;;;;x
+nick_the_brave;勇敢者;;;;;;;;;;x
 nick_the_fearless;无畏者;;;;;;;;;;x
 nick_the_martyr;殉教者;;;;;;;;;;x
 nick_the_unlucky;不幸者;;;;;;;;;;x
@@ -18250,7 +18250,7 @@ nick_the_lucky;幸运儿;;;;;;;;;;x
 nick_the_restorer;重建者;;;;;;;;;;x
 nick_the_accursed;受诅咒者;;;;;;;;;;x
 nick_the_wicked;妖邪者;;;;;;;;;;x
-nick_the_bewitched;受蛊惑者;;;;;;;;;;x
+nick_the_bewitched;着魔者;;;;;;;;;;x
 nick_priest_hater;憎恨牧师者;;;;;;;;;;x
 nick_the_pious;虔信者;;;;;;;;;;x
 nick_the_apostle;使徒;;;;;;;;;;x
@@ -18263,7 +18263,7 @@ nick_the_fowler;捕猎者;;;;;;;;;;x
 nick_the_just;公正者;;;;;;;;;;x
 nick_the_lame;瘸子;;;;;;;;;;x
 nick_the_handsome;英俊者;;;;;;;;;;x
-nick_the_fair;公平者;;;;;;;;;;x
+nick_the_fair;美人;;;;;;;;;;x
 nick_the_mad;疯子;;;;;;;;;;x
 nick_the_fat;胖子;;;;;;;;;;x
 nick_the_drunkard;醉鬼;;;;;;;;;;x
@@ -18276,11 +18276,11 @@ nick_the_gouty;痛风者;;;;;;;;;;x
 nick_the_ironside;铁骨;;;;;;;;;;x
 nick_the_lion;猛狮;;;;;;;;;;x
 nick_the_lionheart;狮心;;;;;;;;;;x
-nick_the_bold;无畏者;;;;;;;;;;x
-nick_the_unready;无准备者;;;;;;;;;;x
+nick_the_bold;英勇者;;;;;;;;;;x
+nick_the_unready;决策无方者;;;;;;;;;;x
 nick_the_ill_ruler;不称职者;;;;;;;;;;x
 nick_the_terrible;可怖者;;;;;;;;;;x
-nick_the_magnificent;华贵者;;;;;;;;;;x
+nick_the_magnificent;伟岸者;;;;;;;;;;x
 nick_the_quarreller;吵闹者;;;;;;;;;;x
 nick_the_builder;建造者;;;;;;;;;;x
 nick_the_devil;魔王;;;;;;;;;;x
@@ -18296,7 +18296,7 @@ nick_the_good;好人;;;;;;;;;;x
 nick_the_troubadour;游吟诗人;;;;;;;;;;x
 nick_the_strong;强者;;;;;;;;;;x
 nick_the_magnanimous;大度者;;;;;;;;;;x
-nick_the_simple;天真者;;;;;;;;;;x
+nick_the_simple;糊涂者;;;;;;;;;;x
 nick_the_merry;快活者;;;;;;;;;;x
 nick_the_noble;高贵者;;;;;;;;;;x
 nick_the_gentle;文雅者;;;;;;;;;;x
@@ -19392,8 +19392,8 @@ HAS_LOWER_BASE_HEALTH_THAN;基础健康值低于 ;;;;;;;;;;x
 HAS_HIGHER_BASE_HEALTH_THAN;基础健康值至少 ;;;;;;;;;;x
 DOES_NOT_HAVE_THE_NICK;不被称为 ;;;;;;;;;;x
 HAS_THE_NICK;被称为 ;;;;;;;;;;x
-DOES_NOT_HAVE_A_NICK;没有昵称;;;;;;;;;;x
-HAS_A_NICK;有昵称;;;;;;;;;;x
+DOES_NOT_HAVE_A_NICK;没有称号;;;;;;;;;;x
+HAS_A_NICK;有称号;;;;;;;;;;x
 HAS_RULED_FEWER_YEARS_THAN;统治年数少于 ;;;;;;;;;;x
 HAS_RULED_YEARS_AT_LEAST;统治年数多于 ;;;;;;;;;;x
 HAS_NOT_OPINION_MOD;没有好感 ;;;;;;;;;;x

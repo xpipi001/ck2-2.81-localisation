@@ -33,7 +33,7 @@ GetHouseOfWorship_Hindu;寺庙;;;;;;;;;;x
 GetHouseOfWorship_Buddhist;寺庙;;;;;;;;;;x
 GetHouseOfWorship_Jain;寺庙;;;;;;;;;;x
 EVTDESC_MNM_6250_A;在经过深思熟虑后，我决定把[assassin_protege_1.GetFirstName]训练成一名阴影中的刺客。[assassin_protege_1.GetSheHeCap]在一些事情上一直表现出钢铁般的决心，我认为[assassin_protege_1.GetSheHe]比 [assassin_protege_1.GetSheHe]想的要更聪明...这或许是一条危险的道路，但在我的培养下，也许[assassin_protege_1.GetSheHe]能表现的更加出色。;;;;;;;;;;x
-EVTDESC_MNM_6250_B;今天我当场抓住了一个试图偷我钱包的少年。当我的卫兵抓到[assassin_protege.GetHerHis]的时候，我从[assassin_protege.GetHerHis]的眼中感受到了像[assassin_protege.GetSheHe]般的无畏。这让我想到刺客组织给我的任务，我不知道这孩子是否像[assassin_protege.GetSheHe]看上去那样灵巧，但或许这孩子将来可以为我所用？;;;;;;;;;;x
+EVTDESC_MNM_6250_B;今天我当场抓住了一个试图偷我钱包的少年。当我的卫兵抓到[assassin_protege.GetSheHe]的时候，我从[assassin_protege.GetHerHis]的眼中感受到了[assassin_protege.GetSheHe]的无畏。这让我想到刺客组织给我的任务，我不知道这孩子是否像[assassin_protege.GetSheHe]看上去那样灵巧，但或许这孩子将来可以为我所用？;;;;;;;;;;x
 EVTOPTA_MNM_6250;我会和[assassin_protege_1.GetTitledFirstName]谈谈有关[assassin_protege_1.GetHerHis]潜能的事。;;;;;;;;;;x
 EVTOPTA_MNM_6250_TT;你开始训练§Y[assassin_protege_1.GetTitledFirstName]§!。\n;;;;;;;;;;x
 EVTOPTB_MNM_6250;也许[assassin_protege_2.GetTitledFirstName]更适合这一项...;;;;;;;;;;x
@@ -89,7 +89,7 @@ EVTDESC_MNM_6259_E;尽管[assassin_protege.GetHerHis]负伤，我的学徒[assas
 EVTDESC_MNM_6259_F;我那可怜的徒弟死了让我心神动摇，但更糟糕的是刺客组织对此事尽表沉默。 我觉得他们一定对我非常失望，而我能做的只有等待一个新的任务。;;;;;;;;;;x
 EVTOPTA_MNM_6259;安拉与我们同在。;;;;;;;;;;x
 EVTOPTA_MNM_6259_TT;你将完成培养学徒的任务。;;;;;;;;;;x
-EVTOPTB_MNM_6259;感赞安拉！;;;;;;;;;;x
+EVTOPTB_MNM_6259;赞美安拉！;;;;;;;;;;x
 EVTOPTB_MNM_6259_TT;你将完成培养学徒的任务。;;;;;;;;;;x
 EVTOPTC_MNM_6259;我将等待进一步的指示。;;;;;;;;;;x
 EVTOPTC_MNM_6259_TT;你培养学徒的任务失败了。\n;;;;;;;;;;x
@@ -122,7 +122,7 @@ EVTOPTA_7003;我会把它藏起来，谢谢你，[satanists_recruiter.GetFirstNa
 EVTOPTA_7003_TT;你鼓励§Y[satanists_recruiter.GetTitledFirstName]§取得的进展！.\n;;;;;;;;;;x
 EVTOPTB_7003;这是怎么回事？你这个 [satanists_recruiter.GetDWMagician]！;;;;;;;;;;x
 EVTOPTB_7003_TT;你让自己远离 §Y[satanists_recruiter.GetTitledFirstName]§！.\n;;;;;;;;;;x
-EVTDESC_MNM_7004_A;I've arranged a run-in with [From.GetTitledFirstName] on the palisades of [From.GetHerHis] [From.GetCapitalHolding] today. [From.GetHerHisCap] face lights up upon seeing me and we stay out talking for hours. I offer [From.GetHerHim] a protection spell, in a leather pouch  of course, I do not explain the content... Yet [From.GetSheHe] smiles, accepting the token.;;;;;;;;;;x
+EVTDESC_MNM_7004_A;今天我与[From.GetTitledFirstName]在[From.GetHerHis] [From.GetCapitalHolding]的栅栏边见了面。[From.GetSheHeCap]一见到我就眉飞色舞，我们在外面聊了好几个小时。我给[From.GetHerHim]一个护身咒语，当然装在一个皮革袋子里，我没有告诉他那是什么。不过[From.GetSheHe]笑着收下了。;;;;;;;;;;x
 EVTDESC_MNM_7004_B;I've arranged a run-in with [From.GetTitledFirstName] on the palisades of [From.GetHerHis] [From.GetCapitalHolding] today. [From.GetHerHisCap] face darkens when I again attempt to discuss my world views. I then offer [From.GetHerHim] my favorite protection spell, a chicken leg in a leather pouch  I thought it was harmless enough, but [From.GetSheHe] refuses to accept the gift.;;;;;;;;;;x
 EVTOPTA_7004;[From.GetSheHeCap] 只是需要一点鞭策。;;;;;;;;;;x
 EVTOPTA_7004_TT;邀请 §Y[From.GetTitledFirstName]§! 参加 [Root.Society.GetName].;;;;;;;;;;x
@@ -157,7 +157,7 @@ EVTOPTB_7010_TT;你命令仆从们把门擦洗干净，对任何可能激起的�
 EVTDESC_MNM_7014;[Root.GetSisterBrotherCap] [Root.GetFirstName]，\n我们已经收到了你的奉献和加入真神军团的愿望。请等待信使到来。\n\n愿黑暗引领着你\n来自，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_7014;终于。;;;;;;;;;;x
 EVTOPTA_7014_TT;你会留意到“使者“的。\n;;;;;;;;;;x
-EVTDESC_MNM_7015;I've met an intriguing and hypnotically beautiful [From.GetManWoman] at court. Apparently, this [From.GetFirstName] is a foreign diplomat? I engaged [From.GetHerHim] in conversation for the first time today, and we spoke at length about [Root.GetEducationalTopicPlural]. I was shocked when [From.GetSheHe] carefully pulled up [From.GetHerHis] sleeve, revealing the mark of Lucifer.;;;;;;;;;;x
+EVTDESC_MNM_7015;我在宫廷遇见了一位迷人的美丽的[From.GetManWoman]。显然这位[From.GetFirstName]是外国的外交官。今天我第一次与[From.GetHerHim]交谈，就[Root.GetEducationalTopicPlural]展开深入交流。[From.GetSheHe]小心地捋起袖子，露出路西法的标志，我震惊了。;;;;;;;;;;x
 EVTDESC_MNM_7015_ALT;I've met an intriguing and hypnotically beautiful [From.GetManWoman] at court. Apparently, this [From.GetFirstName] is a foreign diplomat? I engaged [From.GetHerHim] in conversation for the first time today, and we spoke at length about [Root.GetEducationalTopicPlural]. I was shocked when [From.GetSheHe] carefully pulled up [From.GetHerHis] sleeve, revealing the mark of [From.GetDWDevil].;;;;;;;;;;x
 EVTOPTA_7015;你是信使？;;;;;;;;;;x
 EVTDESC_MNM_7016;The [satanists_inductor.GetSocietyRank] smiles. "I'm pleased to find you not only a charming [Root.GetManWoman], [Root.GetFirstName], but also one capable of intellectual discourse. The brethren value the pursuit of knowledge, you see, in addition to more... earthly pursuits." [From.GetHerHisCap] smile turns into a predatory grin as [From.GetSheHe] continues: "We'll soon see exactly how committed you are...";;;;;;;;;;x
@@ -187,7 +187,7 @@ EVTDESC_MNM_7020;[satanists_inductor.Society.GetNameCap]可能没有我想的那
 EVTOPTA_7020;我最好把时间花在别的上面;;;;;;;;;;x
 EVTOPTA_7020_TT;§Y[Root.GetTitledFirstName]§! 永远不会崇拜 [Root.GetDWDevil]。\n;;;;;;;;;;x
 EVTDESC_MNM_7022_A; [Root.GetDWDevil] 已经看到你的工作了, [Root.GetSocietyRank] [Root.GetFirstName]\n你派到我们这里来的新成员[satanists_recruit.GetTitledFirstName],已经成功加入[satanists_recruit.GetHerHis] 巫女秘会.我感谢并永不会忘记你的贡献.\n\n签收人,大师[From.GetFirstName];;;;;;;;;;x
-EVTDESC_MNM_7022_B;The [Root.GetDWDevil] knows what has happened, [Root.GetSocietyRank] [Root.GetFirstName]\nThe recruit you sent us, [satanists_recruit.GetTitledFirstName], has proven to be disaster. We have spent significant resources in our attempt to induct [satanists_recruit.GetHerHim], all for naught. This lack of judgment will be remembered.\n\nSigned, Grand Master [From.GetFirstName];;;;;;;;;;x
+EVTDESC_MNM_7022_B;[Root.GetDWDevil]知道发生了什么，[Root.GetSocietyRank] [Root.GetFirstName]\n你新招募的成员[satanists_recruit.GetTitledFirstName]，看来是个添麻烦的人。我们已经花费大量经历教导[satanists_recruit.GetHerHim]，然而徒劳无功。他给我们留下缺乏判断力的印象。\n\n 会长署名，[From.GetFirstName];;;;;;;;;;x
 bandaged_arm;缠着绷带的手臂;;;;;;;;;;x
 bandaged_arm_desc;这个角色轻微受伤，小臂被绷带覆盖。;;;;;;;;;;x
 must_be_a_sinner_tooltip;必须是一个罪人\n;;;;;;;;;;x
@@ -226,7 +226,7 @@ EVTOPTA_37252;也许你是对的，[From.GetFirstName]。;;;;;;;;;;x
 EVTOPTA_37252_TOOLTIP;接受§Y[From.GetTitledFirstName]§!的帮助。\n;;;;;;;;;;x
 EVTOPTB_37252;你觉得我自己做不到吗？;;;;;;;;;;x
 EVTOPTB_37252_TOOLTIP;拒绝§Y[From.GetTitledFirstName]§!的帮助。\n;;;;;;;;;;x
-EVTDESC_37253;Your [From.GetHusbandWife] has received an education in [From.GetEducationSubject], like yourself, so [From.GetSheHe] quickly grasps the nuances of the problem as you explain it. The two of you set to work, discussing and comparing [Root.GetEducationalTopicPlural]. [From.GetFirstName] is a most competent [From.GetEducationRole]! Within the hour, you have laid the groundwork for a promising solution.;;;;;;;;;;x
+EVTDESC_37253;就像你自己一样，你的 [From.GetHusbandWife]从[From.GetEducationSubject]处接受教育，因此当你解释问题之时，[From.GetSheHe]迅速的掌握了其中的细微差别。你们俩开始工作，讨论和比较[Root.GetEducationalTopicPlural]。[From.GetFirstName] 是一位极其胜任的[From.GetEducationRole]！不出一会儿，你们已经确定了一个极有成功希望的解决方案。;;;;;;;;;;x
 EVTOPTA_37253;一个绝妙的主意，[From.GetFirstName]！你有任何其他的建议吗？;;;;;;;;;;x
 EVTOPTA_37253_TOOLTIP;在§Y[From.GetTitledFirstName]§!的帮助下完成你的工作。\n;;;;;;;;;;x
 EVTOPTB_37253;让我们回到卧室，亲爱的……;;;;;;;;;;x
@@ -379,7 +379,7 @@ secretly_jewish;秘密犹太教;;;;;;;;;;x
 secretly_jewish_desc;这个人物暗中信仰犹太教。;;;;;;;;;;x
 secretly_samaritan;暗中信仰撒玛利亚派。;;;;;;;;;;x
 secretly_samaritan_desc;这个人物暗中信仰撒玛利亚派。;;;;;;;;;;x
-secretly_karaite;秘密卡拉伊特;;;;;;;;;;x
+secretly_karaite;暗中信仰圣经派;;;;;;;;;;x
 secretly_karaite_desc;这个角色秘密地练习卡拉依主义。;;;;;;;;;;x
 secretly_zoroastrian;秘密的祆教教徒;;;;;;;;;;x
 secretly_zoroastrian_desc;这个角色秘密地信仰琐罗亚斯德教。;;;;;;;;;;x
@@ -401,7 +401,7 @@ secretly_baltic_pagan;秘密洛姆瓦信徒;;;;;;;;;;x
 secretly_baltic_pagan_desc;这名角色秘密信奉着洛姆瓦信仰。;;;;;;;;;;x
 secretly_baltic_pagan_reformed;洛姆瓦秘密教会;;;;;;;;;;x
 secretly_baltic_pagan_reformed_desc;此人秘密地信仰洛姆瓦教。;;;;;;;;;;x
-secretly_finnish_pagan;秘密的苏梅努斯科信徒;;;;;;;;;;x
+secretly_finnish_pagan;秘密的索米多神教信徒;;;;;;;;;;x
 secretly_finnish_pagan_desc;这名角色秘密信仰索米多神教。;;;;;;;;;;x
 secretly_finnish_pagan_reformed;秘密信仰索米多神教。;;;;;;;;;;x
 secretly_finnish_pagan_reformed_desc;这名角色秘密信奉着索米多神教。;;;;;;;;;;x
@@ -433,7 +433,7 @@ assassins_recruit;招募刺客;;;;;;;;;;x
 assassins_recruit_desc;尝试去探明 §Y[Root.GetTitledFirstName]§! 是否对教团的事业抱有同情。如果是，你可以邀请 [Root.GetHerHim]成为一名刺客。;;;;;;;;;;x
 assassins_recruit_block_tooltip;以前还没有被暗杀者接近。;;;;;;;;;;x
 EVTDESC_MNM_6020_A;当清晨来临时大多数客人都离开了，然而[assassins_recruiter.GetTitledFirstName] 和我还在深入地交谈。我们在讨论宗教，正义，和如何做正确的事情。[assassins_recruiter.GetFirstName] 表明，施舍和禁食必然使得人类更接近神。;;;;;;;;;;x
-EVTDESC_MNM_6020_B;Most guests have departed and evening has turned into early morning, yet I [assassins_recruiter.GetTitledFirstName] and are still deep in conversation. We are discussing a hadith [assassins_recruiter.GetFirstName] just read. [assassins_recruiter.GetSheHeCap] suggest that its narrator, Abu Hurairah, might be unreliable and asks if the hadiths recorded by Ali are not preferable.;;;;;;;;;;x
+EVTDESC_MNM_6020_B;夜晚已变成清晨，大多数的来宾已经离去，但我与[assassins_recruiter.GetTitledFirstName]仍旧沉浸于谈话之中。我们正在讨论 [assassins_recruiter.GetFirstName] 最近正在阅读的圣训。[assassins_recruiter.GetSheHeCap] 暗示圣训的传述者，艾布·胡莱伊勒可能是不可靠的，并质问难道阿里记录的圣训不是更好的。;;;;;;;;;;x
 EVTOPTA_6020_NOTMUSLIM;这确实是高尚的行为。;;;;;;;;;;x
 EVTOPTA_6020_MUSLIM;也许你是对的，我设法在阿里的话中找出更多价值。;;;;;;;;;;x
 EVTOPTB_6020_NOTMUSLIM;像那些穆斯林异教狗一样？绝不！;;;;;;;;;;x
@@ -448,7 +448,7 @@ EVTOPTB_6021;这还远远不够，继续前行！;;;;;;;;;;x
 EVTOPTC_6021;我？“[GetFromRootInsult]”？这[GetRootFromInsult]简直是开玩笑！;;;;;;;;;;x
 EVTOPTB_6021_TOOLTIP;别再想拉§Y[From.GetTitledFirstName]§入伙了，刺客们！;;;;;;;;;;x
 EVTDESC_MNM_6022_A;由于前几周我度过了一段不错的时光，我邀请了[assassins_recruiter.GetTitledFirstName]和我一起来分享一顿便席。但是又一次谈话的内容不知不觉转到了宗教与正义上。[assassins_recruiter.GetSheHeCap] 表达了[assassins_recruiter.GetHerHis] 对于那些愿意为自己信仰而战并为之付出生命的人的敬佩。;;;;;;;;;;x
-EVTDESC_MNM_6022_B;Most guests have departed and evening has turned into early morning, yet [assassins_recruiter.GetTitledFirstName] and I are still deep in conversation. We are talking about religion, righteousness, how to do the right thing. [assassins_recruiter.GetSheHeCap] expresses [assassins_recruiter.GetHerHis] admiration for those willing to give their life fighting for their beliefs.;;;;;;;;;;x
+EVTDESC_MNM_6022_B;客人大多已经离开，东方已破晓，而我和[assassins_recruiter.GetTitledFirstName]仍在畅谈。我们讨论着宗教与正义，以及如何做正确的事。[assassins_recruiter.GetSheHeCap] 表示，[assassins_recruiter.GetSheHe]景仰为信仰献身的人。;;;;;;;;;;x
 EVTOPTA_6022;要是我可以更像他们的话，[assassins_recruiter.GetFirstName]，我同意。;;;;;;;;;;x
 EVTOPTB_6022;我对狂热分子一点都不关心。;;;;;;;;;;x
 opinion_honorable;可敬的;;;;;;;;;;x
@@ -525,7 +525,7 @@ EVTDESC_MNM_6202_WAR_ATTACKER_COMMANDER;As-salaam alaykum, [Root.GetSocietyRank]
 EVTDESC_MNM_6202_ASSAULTED_MEMBER;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nAn unforgivable crime has been committed. The despicable [assassins_target.GetTitledName] has assaulted one of our own. We cannot let such an insult pass unanswered. Make [assassins_target.GetHerHim] suffer, [Root.GetSocietyRank]. [assassins_target.GetHerHisCap] death will make our enemies think twice before they repeat [assassins_target.GetHerHis] mistake.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_6202_KILLED_MEMBER;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nAn unforgivable crime has been committed. The despicable [assassins_target.GetTitledName] has murdered one of our own. We cannot let such an insult pass unanswered. Make [assassins_target.GetHerHim] suffer, [Root.GetSocietyRank]. [assassins_target.GetHerHisCap] death will make our enemies think twice before they repeat [assassins_target.GetHerHis] mistake.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_6202_MARKED_FOR_DEATH;真主保佑你，[Root.GetSocietyRank][Root.GetFirstName]，\n\n我号召你取下指令中之人的性命。[assassins_target.GetTitledName]是个邪恶的[assassins_target.GetManWoman]，是所有我们所珍重的敌人。了结[assassins_target.GetHerHim]，[Root.GetSocietyRank]，确保[assassins_target.GetSheHe]遭受这份痛苦。\n\n签名，[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;x
-EVTDESC_MNM_6202_PERSECUTED_SHIITES;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nFor far too long, the gentle Shi'a of [shiite_province.GetName] has suffered under the cruel rule of [assassins_target.GetTitledFirstName]. It is your sacred duty to end [assassins_target.GetHerHim] and liberate our people. Turn [assassins_target.GetHerHim] into an example to fill our enemies' hearts with dread.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
+EVTDESC_MNM_6202_PERSECUTED_SHIITES;安色俩目尔来库目，[Root.GetSocietyRank] [Root.GetFirstName]，\n\n很久以来，[shiite_province.GetName]的温和的什叶派信徒饱受[assassins_target.GetTitledFirstName]的残暴统治。你的神圣使命就是铲除[assassins_target.GetHerHim]，解放我们的人民。让[assassins_target.GetHerHim]的死给敌人一个教训，使他们心中充满恐惧。.\n\n此致，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_6202_FALLBACK;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nOur enemies are growing bolder. They spread their vile heresies, poisoning the minds of our people. This cannot continue. [assassins_target.GetTitledName] is one of the worst offenders, [Root.GetSocietyRank]. Turn [assassins_target.GetHerHim] into an example to fill our enemies' hearts with dread.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_6202;悉听尊便，[From.GetSocietyRank].;;;;;;;;;;x
 EVTOPTA_MNM_6202_TOOLTIP;接受暗杀 §Y[assassins_target.GetTitledFirstName]§的任务！\n;;;;;;;;;;x
@@ -567,7 +567,7 @@ EVTOPTA_MNM_6105;这就结束了吧？;;;;;;;;;;x
 EVTDESC_MNM_6106_A;
 把[plot_target.GetFirstName]和[plot_target.GetHerHis]的卫兵分开是很容易的。犹如[plot_target.GetSheHe] 是一只羊，我把[plot_target.GetHerHim]驱赶进熙熙攘攘的人群中，使得每个人都能看到。"[plot_target.GetAssassinsCrimeOutcry]!" 我高喊着，同时举起自己的匕首。看到这一幕的人将终身难忘。;;;;;;;;;;x
 EVTDESC_MNM_6106_B;经过周密的计划，潜进[plot_target.Host.GetTitledFirstName] 的地牢不要太容易。虎背熊腰的狱卒正呼呼大睡，看来今晚可以少取一条性命。不过当我摸进[plot_target.GetFirstName] 的牢房时，[plot_target.GetHerHim] 还醒着。“[plot_target.GetAssassinsCrimeOutcry]，[plot_target.GetFirstName].。;;;;;;;;;;x
-EVTDESC_MNM_6106_C;[plot_target.GetFirstName] woke with a jerk as I slid through the window, scanning the room with a wild look on [plot_target.GetHerHis] face. "[plot_target.GetAssassinsCrimeOutcry], [plot_target.GetFirstName]," I whispered and [plot_target.GetHerHis] head snapped towards the shadowy corner where I stood. [plot_target.GetSheHeCap] reached for something  a weapon, perhaps  but [plot_target.GetSheHe] was not nearly quick enough.;;;;;;;;;;x
+EVTDESC_MNM_6106_C;当我穿越窗户时，[plot_target.GetFirstName]被这阵响动惊醒了，[plot_target.GetHerHis]脸上带着疯狂的表情扫视整个房间。“[plot_target.GetAssassinsCrimeOutcry]，[plot_target.GetFirstName]，”我低语道。然后[plot_target.GetHerHis]脑袋猛地转向我藏身的阴影角落。[plot_target.GetSheHeCap]伸手想拿武器，只可惜[plot_target.GetSheHe]离武器很远，并不能很快拿到。;;;;;;;;;;x
 EVTDESC_MNM_6106_D;多亏了我伪装成仆人，我接近了[plot_target.GetTitledFirstName]，并未引起注意。[plot_target.GetHerHisCap]廷臣们大声喧哗，尽力忘记[plot_target.GetCapitalHolding]城墙外的苦难。当我提高嗓门、掏出匕首时，他们就都失声了。“[plot_target.GetAssassinsCrimeOutcry]!”;;;;;;;;;;x
 EVTDESC_MNM_6106_E;Once I had reached [plot_target.GetTitledFirstName]'s [plot_target.GetChamber], my task became almost too easy. The feeble [plot_target.GetManWoman] could do nothing to defend [plot_target.GetHerselfHimself], if [plot_target.GetSheHe] was even aware of what was about to happen. "[Root.GetAssassinsCrimeOutcry], [Root.GetFirstName]." The moonlight reflected in my dagger as I raised it above my head.;;;;;;;;;;x
 EVTOPTA_MNM_6106;我们敌人的心中充满了恐惧！;;;;;;;;;;x
@@ -582,7 +582,7 @@ EVTDESC_MNM_6109_A;起初, 一切都按计划进行.很容易的隔开[plot_targ
 EVTDESC_MNM_6109_B;当我进入[plot_target.GetHerHis]牢房时，魁梧的狱卒已经睡着了，但[plot_target.GetFirstName] 还很清醒.[plot_target.GetSheHeCap]抓住机会撕裂了我的面具。我的刀划开了[plot_target.GetFirstName]的肋骨，但[plot_target.GetSheHe] 还是发出叫声，引来守卫。我费尽全力侥幸逃脱。;;;;;;;;;;x
 EVTDESC_MNM_6109_C;[plot_target.GetTitledFirstName]惊醒，环视整个房间，面露惊恐之色。“卫兵！”[plot_target.GetSheHe]惊恐的大叫道。我能听到隔壁房间传来的脚步声，尽管他们来的太慢没救下[plot_target.GetFirstName]，但是他们几乎就抓住了我。;;;;;;;;;;x
 EVTDESC_MNM_6109_D;[plot_target.GetTitledFirstName]当晚正在举办一场宴会。当我成功接近不被人注意的[plot_target.GetFirstName]的时候，[plot_target.GetSheHe]扯下了我的兜帽，把我暴露在[plot_target.GetHerHis] 宫廷的众目睽睽之下。虽然我结果了[plot_target.GetHerHim] ，但是差点被抓住。;;;;;;;;;;x
-EVTDESC_MNM_6109_E;When I entered [plot_target.GetTitledFirstName]'s [plot_target.GetChamber] and saw that feeble wretch sleeping in [plot_target.GetHerHis] bed I grew careless. How could this possibly go wrong? However, as I bent over [plot_target.GetFirstName], [plot_target.GetSheHe] opened [plot_target.GetHerHis] eyes and screamed. In the following struggle, my mask was torn off. While my dagger found its target, the guards got a good look at my face before I escaped.;;;;;;;;;;x
+EVTDESC_MNM_6109_E;当我想进入[plot_target.GetTitledFirstName]的[plot_target.GetChamber]并看到那个虚弱的混蛋在[plot_target.GetHerHis]的床上，我渐渐变得漫不经心。这怎么可能会失败？然而，当我俯下身子，[plot_target.GetFirstName]，[plot_target.GetSheHe]睁开了眼睛并开始了尖叫。在接下来的搏斗中，我的面具不慎脱落，当我匕首找到了它的目标，守卫也看到了我的脸。;;;;;;;;;;x
 EVTOPTA_MNM_6109;那真是……不幸。;;;;;;;;;;x
 EVTOPTA_MNM_6109_TOOLTIP;你行刺的时候被发现了§Y[plot_target.GetTitledFirstName]§!.\n;;;;;;;;;;x
 EVTDESC_MNM_6110;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nYour wish has been fulfilled  the despicable [plot_target.GetTitledName] is dead. Unfortunately, however, there was an incident. My identity was discovered and I fear they can track the killing back to you, [Root.GetSocietyRank]. I am most sorry.\n\nPraised be Allah,\nSigned, [assassin.GetSocietyRank] [assassin.GetFirstName];;;;;;;;;;x
@@ -607,14 +607,14 @@ EVTOPTA_MNM_6113;还会有机会的。;;;;;;;;;;x
 EVTOPTA_MNM_6113_TOOLTIP;尝试阴谋暗杀§Y[plot_target.GetTitledFirstName]§!失败.\n;;;;;;;;;;x
 EVTDESC_MNM_6114_A;“我所带来的是安拉的意志，[Root.GetFirstName]. [Root.GetAssassinsCrimeOutcry]!”随即我叫骂着与刺客扭打在一起，滚倒在地面上。 [assassin.GetHerHisCap] 的兜帽掉落了下来，露出了[assassin.GetFaceDescription] 的脸。奇迹般的，我在[assassin.GetHerHim] 逃跑之前打伤了[assassin.GetSheHe]。;;;;;;;;;;x
 EVTDESC_MNM_6114_B;“没人能逃过阿拉或阿萨辛的审判，[Root.GetAssassinsCrimeOutcry]!"”，我把刺客扑在地上，在一顿充斥着诅咒声的争斗后， [assassin.GetHerHisCap]的面具掉落了，露出一个[assassin.GetFaceDescription]的脸庞。我还奇迹般地在[assassin.GetSheHe]逃走前打伤了[assassin.GetHerHim;;;;;;;;;;x
-EVTDESC_MNM_6114_E;"No one escapes Allah's judgment, or the Assassins. [Root.GetAssassinsCrimeOutcry], [Root.GetFirstName]." And then, the guards burst through the door. My assailant hesitates for one second too many and my protectors get hold off [assassin.GetHerHim]. There is struggle, curses, and blood. The assassin manages to escape, but all of us saw [assassin.GetHerHis] [assassin.GetFaceDescription] face.;;;;;;;;;;x
+EVTDESC_MNM_6114_E;”没有人能逃脱真主的审判，即便是暗杀者。[Root.GetAssassinsCrimeOutcry]， [Root.GetFirstName]。“然后，卫兵从门外冲进来。袭击者迟疑了一秒，但是已经太迟了，我的卫兵挡住了[assassin.GetHerHim]。在这里爆发了战斗、诅咒和流血之后，暗杀者设法逃跑了，但是我们所有人都看见了暗杀者[assassin.GetHerHis] [assassin.GetFaceDescription]的脸。;;;;;;;;;;x
 EVTOPTA_MNM_6114;[assassin.GetSheHeCap] 不可能逃的太远！在 [assassin.GetHerHim]之后！;;;;;;;;;;x
 EVTDESC_MNM_6115_A;开始的时候，一切都进行得很顺利。让[plot_target.GetFirstName] 落单并不难。然而，正当我要拔出匕首，[plot_target.GetSheHe]竟直接撞向了我！扭打中，我的面具被扯掉了，我也被自己的刀划伤了。好在安拉保佑，我成功脱身了;;;;;;;;;;x
 EVTDESC_MNM_6115_B;当我进入[plot_target.GetTitledFirstName]的牢房时，魁梧的狱卒已经睡着了，但[plot_target.GetHerHis]神志很清醒。我持匕首扑向了[plot_target.GetHerHim]，但[plot_target.GetSheHe]挡住了我的匕首还把我摔在地上。我在挣扎当中被割伤，面具也掉了下来。不过我奇迹般的逃走了。;;;;;;;;;;x
 EVTDESC_MNM_6115_C;"[plot_target.GetAssassinsCrimeOutcry], [plot_target.GetFirstName]," I announced and [plot_target.GetFirstName] woke with a jerk. In a manner uncharacteristically quick for a [plot_target.GetManWoman] having just woken up, [plot_target.GetSheHe] threw [plot_target.GetHerselfHimself] at me! In the struggle my mask fell off and I was wounded by my own weapon. By some miracle, I managed to escape.;;;;;;;;;;x
 EVTDESC_MNM_6115_D;“迎接真主的审判吧！”我举起匕首，准备狠狠一刺，就在那时，有人从后面架住了我。在挣扎中，我的面具脱落了，而且我也被自己的武器刺伤了。万幸的是我成功的逃跑了。;;;;;;;;;;x
 EVTDESC_MNM_6115_E;当我潜入[plot_target.GetFirstName]的房间时，睡着的[plot_target.GetSheHe] 开始苏醒。然而，在我举起匕首给[plot_target.GetHerHim]致命一击之前，[plot_target.GetSheHe]大声喊了起来。下一瞬间，守卫们冲入房间，压倒了我。在打斗的混乱之中，我的兜帽掉落在地，并且还不慎被自己的武器所割伤。不过，我奇迹般地逃了出来。;;;;;;;;;;x
-EVTDESC_MNM_6116;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nI am sorry to inform you my attempt to end the [plot_target.GetInsultAdjective] [plot_target.GetTitledFirstName] failed. My identity was discovered and I fear they can track the killing back to you, [Root.GetSocietyRank]. I am most sorry.\n\nPraised be Allah,\nSigned, [assassin.GetSocietyRank] [assassin.GetFirstName];;;;;;;;;;x
+EVTDESC_MNM_6116;安色俩目尔来库目，[Root.GetSocietyRank] [Root.GetFirstName],\n\n很遗憾地告诉你，我谋杀[plot_target.GetInsultAdjective] [plot_target.GetTitledFirstName]的计划失败了。我的真实身份被发现了，我担心他们顺藤摸瓜找到你，[Root.GetSocietyRank]。很遗憾。\n\n赞美安拉，\n此致，[assassin.GetSocietyRank] [assassin.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_6116;失败了，[assassin.GetInsultAdjective] [assassin.GetFirstName]！;;;;;;;;;;x
 EVTOPTA_MNM_6116_TOOLTIP;对§Y[plot_target.GetTitledFirstName]§!'s 谋杀的尝试失败了，而且你的参与被发现了;;;;;;;;;;x
 EVTDESC_MNM_6117_A;“我来这就是代表真主审判你的，[Root.GetFirstName]。[Root.GetAssassinsCrimeOutcry]！”我扑向刺客，我们在地上扑成一团，相互咒骂。奇迹发生了，我从[assassin.GetHerHis]手中夺过匕首反杀了[assassin.GetHerHim]！;;;;;;;;;;x
@@ -640,7 +640,7 @@ plot_assassins_collect_debt_short;收债;;;;;;;;;;x
 plot_assassins_collect_debt_success;刺客阴谋收债成功;;;;;;;;;;x
 EVTDESC_MNM_6207;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\n[owes_the_assassins.GetTitledFirstName] has refused to pay back what [owes_the_assassins.GetSheHe] owes us. We are in need of that money, and it is up to you to collect the debt. I fear the [owes_the_assassins.GetSocietyRank] need some "encouragement" to part with [owes_the_assassins.GetHerHis] gold. I am sure you can think of something.\n\nPraised be Allah!\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_6207_TOOLTIP;和§Y[owes_the_assassins.GetTitledFirstName]§!一起，选择“聚集钱款”密谋作为你的目标以开始你的任务。;;;;;;;;;;x
-EVTDESC_MNM_6208;I have ensured a way into the [owes_the_assassins.Host.Capital.GetHolding] of [owes_the_assassins.Host.Capital.GetName] where my target, [owes_the_assassins.GetTitledFirstName], resides. In one way or another, I must attempt to scare [owes_the_assassins.GetHerHim] into paying back [owes_the_assassins.GetHerHis] debt. The question is, where is [owes_the_assassins.GetFirstName]'s weak spot?;;;;;;;;;;x
+EVTDESC_MNM_6208;我已经确保了潜入我的目标[owes_the_assassins.GetTitledFirstName]居住的首都[owes_the_assassins.Host.Capital.GetName]的[owes_the_assassins.Host.Capital.GetHolding]的道路。无论如何，我必须试图去恐吓 [owes_the_assassins.GetHerHim]去偿还[owes_the_assassins.GetHerHis]的债务。问题在于[owes_the_assassins.GetFirstName]的弱点在哪里？;;;;;;;;;;x
 EVTOPTA_MNM_6208;即使是[owes_the_assassins.GetMenWomen]中最勇敢的人，也会惧怕死亡的承诺。;;;;;;;;;;x
 EVTOPTA_MNM_6208_TOOLTIP;威胁暗杀 §Y[owes_the_assassins.GetTitledFirstName]§!\n;;;;;;;;;;x
 EVTOPTB_MNM_6208;我会威胁[owes_the_assassins.GetSheHe]所珍视的人。;;;;;;;;;;x
@@ -650,13 +650,13 @@ EVTOPTC_MNM_6208_TOOLTIP;威胁摧毁 §Y[owes_the_assassins.GetTitledFirstName]
 EVTOPTD_MNM_6208;我将攻击[owes_the_assassins.GetHerHis] ，
 亵渎[owes_the_assassins.Religion.GetHighGodName].;;;;;;;;;;x
 EVTOPTD_MNM_6208_TOOLTIP;威胁[owes_the_assassins.Religion.GetHighGodName].\n;;;;;;;;;;x
-EVTDESC_MNM_6212;My [GetFromRelation] [From.GetTitledFirstName] has come to me, shaken and pale, with a note. [From.GetSheHeCap] found it in [From.GetHerHis] [From.GetChamber] alongside a piece of [From.GetHerHis] favorite cake, which was surely poisoned. The words on the note are directed at me  the Assassins demand that I return the money I owe or my [GetFromRelation] will pay in my stead.;;;;;;;;;;x
+EVTDESC_MNM_6212;我的[GetFromRelation] [From.GetTitledFirstName]来了，面色苍白、身体虚弱，带来一张纸条。[From.GetSheHeCap]是在[From.GetHerHis][From.GetChamber]里发现的，旁边是一块[From.GetHerHis]最喜欢的糕点，显然被人下毒了。纸条的内容是针对我的，刺客们要求我还钱，否则就得让[GetFromRelation]来还。;;;;;;;;;;x
 EVTDESC_MNM_6213;一周前，[fire_town.GetName]的贸易区发生了火灾。许多仓库与市场毁于一旦。本地贸易在多年内不会复苏。起初，它被认为是一个意外，但现在我知道了更合理的解释。 我在[Root.GetChamber]中找到了一个纸条。 刺客们希望他们的钱回到他们手里，否则下一个失火的就是我的国库。;;;;;;;;;;x
 trade_district_fire;贸易区着火了;;;;;;;;;;x
 trade_district_fire_desc;火灾摧毁了当地的贸易区，烧毁了众多的仓库和商店，导致很多商人和工匠破产。;;;;;;;;;;x
 EVTDESC_MNM_6215_A;Not a single servant turned their head as I entered the [owes_the_assassins.Host.Capital.GetHolding], not even as I stepped into [owes_the_assassins.GetTitledFirstName]'s [owes_the_assassins.GetChamber]. There, I left my note by a cup, which I laced with a non-lethal dose of poison. It seemed to do the trick  [grand_master.GetSocietyRank] [grand_master.GetFirstName] informed me that the money was returned this morning.;;;;;;;;;;x
 EVTDESC_MNM_6215_B;I infiltrated the kitchen staff and bribed a servant to tell me about the [threaten_dear_relation.GetTitledFirstName]'s favorite cake. I brought a slice containing some "secret ingredients" and placed it in [threaten_dear_relation.GetHerHis] [threaten_dear_relation.GetChamber] next to a note directed at [owes_the_assassins.GetTitledFirstName]. It seemed to do the trick  [grand_master.GetSocietyRank] [grand_master.GetFirstName] informed me that the money was returned this morning.;;;;;;;;;;x
-EVTDESC_MNM_6215_C;I watched the trade districts of [fire_town.GetName] burn from the safety of a distant hill. How it spread! As the flames danced from building to building, I was convinced the message would get across to [owes_the_assassins.GetTitledFirstName]. Indeed, I was correct  [grand_master.GetSocietyRank] [grand_master.GetFirstName] informed me that the money was returned this morning.;;;;;;;;;;x
+EVTDESC_MNM_6215_C;我在远处的一座安全的山上看到[fire_town.GetName]的商业区起火了。火势迅速蔓延，看着火苗在一栋栋建筑间跳跃，我相信这消息很快会传到[owes_the_assassins.GetTitledFirstName]那里。确实，我猜的没错，[grand_master.GetSocietyRank] [grand_master.GetFirstName]告诉我今天早晨钱已经还清了。;;;;;;;;;;x
 EVTDESC_MNM_6216_A;Not a single servant turned their head as I entered the [owes_the_assassins.Host.Capital.GetHolding], not even as I stepped into [owes_the_assassins.GetTitledFirstName]'s [owes_the_assassins.GetChamber]. There, I left my note by a cup, which i laced with a non-lethal dose of poison. However, it turns out that [owes_the_assassins.GetFirstName] is a foolhardy [owes_the_assassins.GetManWoman]  [owes_the_assassins.GetSheHe] still refuses to repay [owes_the_assassins.GetHerHis] debt.;;;;;;;;;;x
 EVTDESC_MNM_6216_B;I infiltrated the kitchen staff of the [owes_the_assassins.Host.Capital.GetHolding] and bribed [threaten_dear_relation.GetTitledFirstName]'s servant to tell me about the [threaten_dear_relation.GetLordLady]'s favorite cake. I brought a slice containing some "secret ingredients" and placed it in [threaten_dear_relation.GetHerHis] [threaten_dear_relation.GetChamber] next to a note directed at [owes_the_assassins.GetTitledFirstName]. However, it turns out that [owes_the_assassins.GetFirstName] is a foolhardy [owes_the_assassins.GetManWoman]  [owes_the_assassins.GetSheHe] still refuses to repay [owes_the_assassins.GetHerHis] debt.;;;;;;;;;;x
 EVTDESC_MNM_6216_C;I watched the trade districts of [fire_town.GetName] burn from the safety of a distant hill. How it spread! As the flames danced from building to building, I was convinced the message would get across to [owes_the_assassins.GetTitledFirstName]. However, it turns out that [owes_the_assassins.GetFirstName] is a foolhardy [owes_the_assassins.GetManWoman]  [owes_the_assassins.GetSheHe] still refuses to repay [owes_the_assassins.GetHerHis] debt.;;;;;;;;;;x
@@ -738,7 +738,7 @@ EVTDESC_MNM_7805;Screams of panic and agony wake me from my sleep. When I reach 
 EVTOPTA_MNM_7805;妈的！我喜欢那个床。;;;;;;;;;;x
 EVTDESC_MNM_7806;当我们在庭院里散步时，一只无耻的乌鸦飞过来啄[dark_divorce_target.GetHusbandWife] [dark_divorce_target.GetFirstName]的眼睛。紧接着一只变成无数只。我的卫兵开始进行一场绝望的战斗，试图用[dark_divorce_target.GetHerHim]驱赶它们。像是几个世纪之后，[dark_divorce_target.GetHerHis]的尖叫声停止了，黑色的翅膀们就像乌云一样升起，我的[dark_divorce_target.GetHusbandWife]只剩下了地上的斑斑血迹。;;;;;;;;;;x
 EVTOPTA_MNM_7806;喔，货真价实的来自乌鸦的谋杀。;;;;;;;;;;x
-EVTDESC_MNM_7808;My [dark_divorce_target.GetHusbandWife] [dark_divorce_target.GetFirstName] has begun to speak in tongues and spew obscenities seemingly at random! The courtiers are beginning to believe [dark_divorce_target.GetHerHim] possessed.;;;;;;;;;;x
+EVTDESC_MNM_7808;我的[dark_divorce_target.GetHusbandWife] [dark_divorce_target.GetFirstName] 开始说方言并且似乎胡乱地喷出淫秽之语！廷臣们开始相信[dark_divorce_target.GetHerHim]着魔了。;;;;;;;;;;x
 EVTOPTA_MNM_7808;这可能会很有趣。。。;;;;;;;;;;x
 EVTDESC_MNM_7810;My [dark_divorce_target.GetHusbandWife] [dark_divorce_target.GetFirstName]'s deranged ramblings, cackling and screaming turn to a mad cackling laughter that grows louder as [dark_divorce_target.GetSheHe] emerges from [dark_divorce_target.GetHerHis] bedchambers into the open. With what seems like... glee? [dark_divorce_target.GetSheHeCap] looks at her audience and throws herself off the balcony, a dull thud putting an abrupt end to [dark_divorce_target.GetHerHis] crazed laughter.;;;;;;;;;;x
 EVTOPTA_MNM_7810;啊，沉默是金。;;;;;;;;;;x
@@ -757,9 +757,9 @@ assassins_raise_ships;雇佣船只;;;;;;;;;;x
 assassins_raise_ships_desc;由于刺客们很少有时间处理海军事务，所以最好在只需要时雇用船只。;;;;;;;;;;x
 MNM.7500.d;As [From.GetTitledFirstName] is bound to the altar [From.GetSheHe] appears to be mumbling prayers through [From.GetHerHis] gag. [From.GetSheHeCap] is sweating profusely, either due to the heat from the nearby pyres or from fear. [From.GetHerHisCap] holy vestments hang in tatters already, exposing [From.GetHerHis] chest. As the appointed hour draws near the chanting of your brethren builds to a crescendo until, finally, it is time.;;;;;;;;;;x
 MNM.7500.a;我把刀插入[From.GetHerHis]的胸膛！;;;;;;;;;;x
-MNM.7502.d;Bound and gagged, [From.GetTitledFirstName] is carried out of [From.GetHerHis] cell and dropped into the cauldron. As your acolytes slam down the lid and lock it securely you drop your flaming torch into the firewood stacked around the pot, setting it ablaze. Soon the water within will come to the boil and another soul will be sent to [Root.GetDWDevil].;;;;;;;;;;x
+MNM.7502.d;[From.GetTitledFirstName]被五花大绑着从牢房里带了出来，并被扔进了锅里。你的手下“当”的一声扣上了锅盖并把它严实地锁了起来，这时，你用火把点燃了锅下的木柴，剧烈燃烧的木柴很快噼啪作响。要不了多久，锅里的水就会沸腾，又有一个灵魂会被送给[Root.GetDWDevil]了！;;;;;;;;;;x
 MNM.7502.a;缺少好的祭品;;;;;;;;;;x
-MNM.7503.d;Your acolytes place little [From.GetFirstName] on the altar and fasten [From.GetHerHim] firmly in place. You step forward and [From.GetHerHis] confusion suddenly becomes terror as [From.GetSheHe] sees the knife in your hand. [From.GetHerHisCap] pitiful scream has only just begun before you slit [From.GetHerHis] throat.;;;;;;;;;;x
+MNM.7503.d;你的手下把可怜的[From.GetFirstName]丢到了祭坛上，并将其紧紧地绑在了上面。你走上前去。在看到你手中的刀之前，[From.GetHerHis] 先是十分困惑，随后就又马上变得惊恐万分。[From.GetHerHisCap]痛苦地尖叫着，直到你的利刃割开了这个人的喉咙。;;;;;;;;;;x
 MNM.7503.a;[Root.GetDWDevil] 渴望无辜的灵魂;;;;;;;;;;x
 MNM.7504.a;一个[Root.GetDWDevil]的处子！;;;;;;;;;;x
 MNM.7505.d;[From.GetTitledFirstName] looks dazed as [From.GetSheHe] is dragged to the altar, but you can see dawning comprehension on [From.GetHerHis] face as [From.GetSheHe] is tied down. You ignore [From.GetHerHis] begging as chants of praise to [Root.GetDWDevil] build to a crescendo. Finally it is time, you swing your blade in an overhead arc which ends in [From.GetTitledFirstName]'s heart.;;;;;;;;;;x
@@ -902,7 +902,7 @@ String_seiðr;魔法;;;;;;;;;;x
 String_jinn;镇尼;;;;;;;;;;x
 String_jinns;镇尼;;;;;;;;;;x
 string_karaoglan;卡瑞格兰;;;;;;;;;;x
-string_karaoglanlar;karaoglanlar;;;;;;;;;;x
+string_karaoglanlar;卡拉奥兰拉尔;;;;;;;;;;x
 string_black_shaman;黑萨满;;;;;;;;;;x
 String_fever;发烧;;;;;;;;;;x
 string_pneumonia;肺炎;;;;;;;;;;x
@@ -942,7 +942,9 @@ EVTOPTC_MNM_6800;真理只能靠勇气来实现。;;;;;;;;;;x
 EVTOPTC_MNM_6800_TOOLTIP;尽可能多地使用。;;;;;;;;;;x
 EVTOPTA_MNM_6802_GOOD;我看见了曙光。;;;;;;;;;;x
 EVTOPTA_MNM_6803;再来一次不会有事的。;;;;;;;;;;x
-EVTOPTA_6803_TOOLTIP;§Y[Root.GetTitledFirstName]§! has become addicted to hashish. [Root.GetSheHeCap] can recover if they abstain from the substance, although this will lead to unpleasant withdrawal symptoms.\n;;;;;;;;;;x
+EVTOPTA_6803_TOOLTIP;
+
+§Y[Root.GetTitledFirstName]§!已经对大麻成瘾。[Root.GetSheHeCap]如果停用大麻就能恢复正常，不过这会引起不愉快的戒断症状。\n;;;;;;;;;;x
 EVTDESC_MNM_6805;距离我最后一次服食大麻已经过去了很久，我发现自己越来越不安，睡不好也无法集中注意力。;;;;;;;;;;x
 EVTOPTA_MNM_6805;我要这个！;;;;;;;;;;x
 EVTOPTA_MNM_6806;赞美真主！;;;;;;;;;;x
@@ -950,29 +952,29 @@ EVTOPTB_MNM_6810;我不能信任任何人。;;;;;;;;;;x
 EVTDESCD_MNM_6810;借安拉保佑，他们无处不在。他们隐藏在每个角落，阴暗处与裂缝，煽动着他们的翅膀，紧盯着我们，试图欺骗我们让我们以为他们只在晚上出现。我必须告诉人们发生了什么！;;;;;;;;;;x
 EVTDESCA_MNM_68112;感谢安拉令我及时注意到这一切，显然[drug_plotter_reveal.GetTitledName]正试图谋杀我！;;;;;;;;;;x
 EVTOPTA_MNM_68112;真主护佑着我！;;;;;;;;;;x
-EVTDESCB_MNM_68112;Praise be Allah for opening my vision, it is so obvious to me now that [drug_plotter_reveal.GetTitledName] is having designs on my [drug_plotter_reveal.PlotTargetTitle.GetFullName]!;;;;;;;;;;x
+EVTDESCB_MNM_68112;赞美安拉使我明目，现在很显然[drug_plotter_reveal.GetTitledName]正在计划对我的[drug_plotter_reveal.PlotTargetTitle.GetFullName]实施阴谋！;;;;;;;;;;x
 EVTOPTB_MNM_68112;秃鹰！;;;;;;;;;;x
-EVTDESCC_MNM_68112;I see now how our world is an intricate web of lies and plots, and it is thanks to the Order that I realized that [drug_plotter_reveal.GetTitledName] is planning to kill [drug_plotter_target.GetTitledName].;;;;;;;;;;x
+EVTDESCC_MNM_68112;现在我明白了我们的世界是一个谎言和密谋交织而成的粗综复杂的网络，感谢修会让我知道[drug_plotter_reveal.GetTitledName]正在计划谋杀[drug_plotter_target.GetTitledName]。;;;;;;;;;;x
 EVTOPTC_MNM_68112;感谢真主，他们的目标不是我。;;;;;;;;;;x
 EVTDESCD_MNM_68112;The herbs that the Order has made me realize how we all just desire things like rabid dogs. Like how I now see that [drug_plotter_reveal.GetTitledName] is trying to get [drug_plotter_reveal.GetHerHis] filthy paws on the [drug_plotter_reveal.PlotTargetTitle.GetFullName] belonging to [drug_plotter_target.GetTitledName].;;;;;;;;;;x
 EVTOPTD_MNM_68112;他们就像秃鹰。;;;;;;;;;;x
-EVTDESCA_MNM_6812;It is incredible how you can so easily not see a person close to you. I must have walked past [slacker_buddy.GetFirstName] hundreds of times without noticing him, but thanks to the Order I can now see what a good friend I have nearby!;;;;;;;;;;x
+EVTDESCA_MNM_6812;你竟然轻而易举地忽视了接近你的人，这难以置信。我必须从[slacker_buddy.GetFirstName]身边走过数百次而不让他知道，但是感谢修会我知道了我身边有个多么好的朋友！;;;;;;;;;;x
 EVTOPTA_MNM_6812;我告诉过你了，弟兄！;;;;;;;;;;x
 EVTDESCB_MNM_6812;我把眼睛投向[drug_new_lover.GetHerHis]。瞥到一抹浓重的黎明，看到了古老的昨天和我不知道的东西。;;;;;;;;;;x
 EVTOPTB_MNM_6812;我觉得宇宙在我眼前飘过。;;;;;;;;;;x
-EVTDESC_MNM_6813;The hashish has finally give me clarity, and now I see the treachery going on all around me. It is clear to me now that my [Root.Spouse.GetHusbandWife] is having a relationship with [drug_cheater_lover.GetFirstName] behind my back!;;;;;;;;;;x
+EVTDESC_MNM_6813;大麻终于使我清醒，我发现身边的人都背叛了我。我明白了，[Root.Spouse.GetHusbandWife]和[drug_cheater_lover.GetFirstName]有一腿！;;;;;;;;;;x
 EVTOPTA_MNM_6813;我会告诉所有人知道的！;;;;;;;;;;x
 EVTOPTB_MNM_6813;不，我一定是在想象。;;;;;;;;;;x
 EVTDESC_MNM_6814;My clothes! They come through the clothes! Subversive forces trying to sway the Righteous from the Path. We must get rid of it, so that They cannot use it, for if we wear them They will be close to the purity of our body.;;;;;;;;;;x
 EVTOPTA_MNM_6814;这是唯一的办法了！;;;;;;;;;;x
-EVTOPTA_MNM_6814_TOOLTIP;§Y[Root.GetTitledFirstName]§! makes a fool of [Root.GetHerselfHimself] to the court.;;;;;;;;;;x
+EVTOPTA_MNM_6814_TOOLTIP;§Y[Root.GetTitledFirstName]§!在宫中出丑了。;;;;;;;;;;x
 EVTDESC_MNM_6815;周围的阴影笼罩着整个世界，显得如此黑暗和可怕。我的心脏在狂跳。;;;;;;;;;;x
 EVTOPTA_MNM_6815;我觉得我快撑不住了。;;;;;;;;;;x
 EVTOPTA_MNM_6815_TOOLTIP;§Y[Root.GetTitledFirstName]§!死亡;;;;;;;;;;x
 DEATH_HASHISH_OVERDOSE;死于服用过量大麻;;;;;;;;;;x
 EVTOPTA_MNM_7110;遵循[Root.GetDWDevil]的命令;;;;;;;;;;x
 EVTOPTB_MNM_7110;我想现在我能为 [Root.GetDWDevil]做点别的事了。;;;;;;;;;;x
-EVTDESC_MNM_7111;My forces has breached the outer defenses of the [dw_desecration_target.GetHolding] in [dw_desecration_target.GetName]. I should prepare myself to enter and do the work of [Root.GetDWDevil].;;;;;;;;;;x
+EVTDESC_MNM_7111;我的部队突破了[dw_desecration_target.GetName]的[dw_desecration_target.GetHolding]的外部防御。我必须准备好进入并完成[Root.GetDWDevil]的工作。;;;;;;;;;;x
 EVTOPTA_MNM_7111;祈祷[Root.GetDWDevil]!;;;;;;;;;;x
 EVTOPTB_MNM_7111;不，周围有太多人了。;;;;;;;;;;x
 EVTDESC_MNM_7112;My preparations and plans have been made, a servant has been bribed to leave a side door to the [dw_desecration_target.GetHolding] in [dw_desecration_target.GetName] open so that I and some faithful servants can enter and do the dark biddings of [Root.GetDWDevil].;;;;;;;;;;x
@@ -1002,7 +1004,7 @@ EVTDESC_MNM_7117_PLOTTING;The night is silent as we exit the [desecration_holder
 EVTOPT_MNM_7117_VIOLENT;[Root.GetDWDevil]会高兴的。;;;;;;;;;;x
 EVTOPT_MNM_7117_PLOTTING;黑暗的行为要秘密行事。;;;;;;;;;;x
 EVTDESC_MNM_7118;Though I may suffer for now, no earthly ailment is beyond the power of [Root.GetDWDevil]. I am preparing a great ritual to cleanse my body and become like new.;;;;;;;;;;x
-EVTOPTA_MNM_7118;[Root.GetDWDevil] may take, and [Root.GetDWDevil] may give.;;;;;;;;;;x
+EVTOPTA_MNM_7118;[Root.GetDWDevil]可能会索取，[Root.GetDWDevil]也可能会给予。;;;;;;;;;;x
 EVTDESC_MNM_7119_INCAPABLE_INFIRM;随着仪式的结束，我能感觉到我的力量回到了我的身体，消弭了我身体的缺陷。;;;;;;;;;;x
 EVTDESC_MNM_7119_BLINDED;那束光！那束光！感谢[Root.GetDWDevil]，我再次见到了！;;;;;;;;;;x
 EVTDESC_MNM_7119_EUNUCH;一个奇迹!我的剑回来了!如果这都不能证明[Root.GetDWDevil]力量的伟大，我不知道什么力量是！;;;;;;;;;;x
@@ -1023,20 +1025,20 @@ convert_to_liege_religion_on_liege_desc;如果我们有着相同的信仰，我�
 convert_to_liege_culture_on_liege_desc;我对我君主的语言和习俗印象深刻。我希望我是那样的……;;;;;;;;;;x
 MonksAndMysticsDLC;僧侣与神秘主义;;;;;;;;;;x
 golden_platypus;金制鸭嘴兽;;;;;;;;;;x
-platypus_herder;Platypus Herder;;;;;;;;;;x
+platypus_herder;鸭嘴兽牧人;;;;;;;;;;x
 jesus_rock;一块形似耶稣的岩石;;;;;;;;;;x
 normal_platypus;鸭嘴兽;;;;;;;;;;x
-desc_golden_platypus;The symbol of kings who have defied all odds and are above godhood;;;;;;;;;;x
+desc_golden_platypus;象征着藐视一切困难、超越神明的君王;;;;;;;;;;x
 hunt_platypus;寻找鸭嘴兽;;;;;;;;;;x
-hunt_platypus_DESC;$HOLDER|Y$ must find the most noble and awesome of all animals;;;;;;;;;;x
-hunt_platypus_TOOLTIP;To complete the mission, $HOLDER|Y$ must scour the earth and find the legendary animal known as a "platypus";;;;;;;;;;x
+hunt_platypus_DESC;$HOLDER|Y$必须找到最高贵而令人生畏的动物。;;;;;;;;;;x
+hunt_platypus_TOOLTIP;为完成该任务，$HOLDER|Y$必须在地下四处搜索，寻找传说中的鸭嘴兽。;;;;;;;;;;x
 convert_to_liege_culture_on_liege;转变文化;;;;;;;;;;x
 convert_to_liege_culture_on_liege_named;转变为[Root.GetPossPronoun] [Root.Culture.GetName] 文化;;;;;;;;;;x
 gov_aztec_empire;阿兹特克帝国;;;;;;;;;;x
 AIREASON_STATIC_BACKER;Scripted Backer;;;;;;;;;;x
 SOCIETIES_VIEW_MEMBER_SCORE_TITLE;家族分;;;;;;;;;;x
 MEMBER_SCORE_FROM_ATTRIBUTE;$NAME$: $VALUE|Y0$;;;;;;;;;;x
-MEMBER_SCORE_FROM_CURRENCY;Currency: $VALUE|Y0$;;;;;;;;;;x
+MEMBER_SCORE_FROM_CURRENCY;货币：$VALUE|Y0$;;;;;;;;;;x
 CHANCE_SOCIETY_CURRENCY_EFFECT;$CHARACTER|Y$ $GAINLOSS$ $VALUE|0$ $VALUENAME|Y$\n;;;;;;;;;;x
 LOSES;失去;;;;;;;;;;x
 GAINS;获得;;;;;;;;;;x
@@ -1047,7 +1049,7 @@ CAN_NOT_RANK_DOWN_TRIGGER;不能降低社团地位;;;;;;;;;;x
 INTERESTED_IN_SOCIETY_TRIGGER;表示有兴趣加入$SOCIETY$;;;;;;;;;;x
 SET_INTERESTED_SOCIETY_EFFECT;有兴趣加入$SOCIETY$;;;;;;;;;;x
 SET_INTERESTED_SOCIETY_EFFECT_NONE;失去兴趣加入一个社团;;;;;;;;;;x
-CHANGE_PLOT_POWER_EFFECT;Change plot power by $VALUE|Y$;;;;;;;;;;x
+CHANGE_PLOT_POWER_EFFECT;改变$VALUE|Y$阴谋力量;;;;;;;;;;x
 WAR_INVALID_NO_LONGER_HOLDS_TITLE_NO_DEFENDER;\n（防御方不再控制$TITLE$）;;;;;;;;;;x
 SAME_SOCIETY_AS_TRIGGER_NOT;与$TARGET$不在相同的社团\n;;;;;;;;;;x
 SAME_SOCIETY_AS_TRIGGER;与$TARGET$在相同的社团\n;;;;;;;;;;x
@@ -1059,18 +1061,18 @@ action_administer_realm;管理国家;;;;;;;;;;x
 action_administer_realm_desc;[GetMyTreasurerName]会致力于改善我们的领地，提高文化同化和繁荣度提升的几率;;;;;;;;;;x
 action_organize_army;军事组织;;;;;;;;;;x
 action_sabotage_province;省份破坏;;;;;;;;;;x
-action_sabotage_province_desc;The [GetSpymasterName] is sent to infiltrate a province and sabotage its operations.;;;;;;;;;;x
+action_sabotage_province_desc;已派遣[GetSpymasterName]前往当地从事渗透、蓄意破坏工作。;;;;;;;;;;x
 action_hunt_heretics;猎魔人;;;;;;;;;;x
 action_hunt_heretics_desc;The [GetLordSpiritualName] will hunt down blaspheming and heretical Societies and drag their members into the light.;;;;;;;;;;x
 ENDGAME_TEXT_PAGAN;你已经转变为原始宗教，因此如果你没有老神扩展包，游戏将结束。;;;;;;;;;;x
 OPEN_TREASURY_EMPTY;§R无法打开，宝库中什么也没有§!;;;;;;;;;;x
-OPEN_TREASURY;§YTreasury§!\nOpen the Treasury to see the Artifacts collected by this Character.;;;;;;;;;;x
+OPEN_TREASURY;§Y宝库§!\n打开宝库看这个角色收集的宝物。;;;;;;;;;;x
 ARTIFACT_CREATED;创建;;;;;;;;;;x
 ARTIFACT_OBTAINED;持有;;;;;;;;;;x
 FROM_TREASURY;§Y来自藏宝库§!\n这是来自这个角色所有激活的藏品的总加成。;;;;;;;;;;x
 ANTIPOPE_NO_POPE;§R没有教宗时不能创立伪教宗§!;;;;;;;;;;x
 devil_worshipers_induction;传授给[From.Society.GetName];;;;;;;;;;x
-recent_induction_attempt;Recent Induction Attempt;;;;;;;;;;x
+recent_induction_attempt;最近尝试招募;;;;;;;;;;x
 recent_induction_attempt_desc;最近有人试图将这个人物拉入秘密社团;;;;;;;;;;x
 EVTDESC_MNM_4090;我立誓成为独身主义者以此向上帝展现我的奉献精神;;;;;;;;;;x
 EVTOPT_MNM_4090;赞美上帝！;;;;;;;;;;x
@@ -1089,10 +1091,10 @@ recently_donated_to_charity_desc;这个人物最近向修道会进行过慈善�
 devil_worshipers_dark_healing_tooltip;需要受伤，残废，有疾病或严重的治疗状况。;;;;;;;;;;x
 EVTOPTA_MNM_7118_TOOLTIP;消除所有症状和轻微疾病，有机率消除更严重的疾病。;;;;;;;;;;x
 MISSON_ACCOMPLISHED_TOOLTIP;[Root.GetTitledName]已经完成了[Root.GetQuestName]的任务\n;;;;;;;;;;x
-MISSON_FAILED_TOOLTIP;[Root.GetTitledName] fails the mission to [Root.GetQuestName]\n;;;;;;;;;;x
+MISSON_FAILED_TOOLTIP;[Root.GetTitledName]未能完成[Root.GetQuestName]的任务\n;;;;;;;;;;x
 quest_monastic_order_pilgrimage_christian;去朝圣;;;;;;;;;;x
 devil_worshiper_desecrate_temple_decision;亵渎神殿;;;;;;;;;;x
-devil_worshiper_desecrate_temple_decision_desc;Desecrate the temple as ordered by §Y[From.Society.GetName]§!.;;;;;;;;;;x
+devil_worshiper_desecrate_temple_decision_desc;在§Y[From.Society.GetName]§!命令下亵渎神庙。;;;;;;;;;;x
 desecrated_temple;被亵渎神殿;;;;;;;;;;x
 desecrated_temple_desc;这座神庙已被邪恶仪式所亵渎;;;;;;;;;;x
 iron_crown_of_lombardy;伦巴第铁王冠;;;;;;;;;;x
@@ -1114,7 +1116,7 @@ letter_of_mohammad;穆罕默德的信;;;;;;;;;;x
 sword_of_mohammad;穆罕默德之剑;;;;;;;;;;x
 mohammads_beard;穆罕默德的胡须;;;;;;;;;;x
 cup_of_jamshid;贾姆希德的酒杯;;;;;;;;;;x
-keshmar_cypress_branch;Branch of the Keshmar Cypress;;;;;;;;;;x
+keshmar_cypress_branch;凯什马尔的柏树枝;;;;;;;;;;x
 derafsh_kaviani;卡维战旗;;;;;;;;;;x
 babr_e_bayan;罗斯坦的黑豹皮衣;;;;;;;;;;x
 haoma_sapling;豪摩树苗;;;;;;;;;;x
@@ -1142,7 +1144,7 @@ String_temple;寺院;;;;;;;;;;x
 String_the_Rule_of_Saint_Benedict;圣本尼迪克特的统治;;;;;;;;;;x
 String_the_Rule_of_Saint_Augustine;圣奥古斯都章程;;;;;;;;;;x
 String_the_Rule_of_Saint_Basil;圣巴兹尔的统治;;;;;;;;;;x
-String_the_Noble_Eightfold_Path;the Noble Eightfold Path;;;;;;;;;;x
+String_the_Noble_Eightfold_Path;八圣道;;;;;;;;;;x
 String_the_Anuvrata;阿努瓦塔;;;;;;;;;;x
 String_dark_tantras;密宗;;;;;;;;;;x
 String_Glory_to_Freyja;荣耀归于芙蕾雅!;;;;;;;;;;x
@@ -1151,9 +1153,9 @@ String_Glory_to_the_Lord_of_Kali_Yuga;荣耀归于卡利由伽之神！;;;;;;;;;
 String_Glory_to_the_Deceiver;荣耀归于欺诈者！;;;;;;;;;;x
 String_evil_spirit;恶魔;;;;;;;;;;x
 String_evil_spirits;恶魔;;;;;;;;;;x
-String_seiðkona;seiðkona;;;;;;;;;;x
-String_seiðmaðr;seiðmaðr;;;;;;;;;;x
-String_dark_tantrik;坦陀罗;;;;;;;;;;x
+String_seiðkona;女巫;;;;;;;;;;x
+String_seiðmaðr;男巫;;;;;;;;;;x
+String_dark_tantrik;坦陀罗秘教;;;;;;;;;;x
 String_Catholic;天主教;;;;;;;;;;x
 String_Christian;基督教;;;;;;;;;;x
 String_Buddhist;佛教;;;;;;;;;;x
@@ -1215,7 +1217,7 @@ EVTOPTA_MNM_7830_TOOLTIP;尝试使§Y[corrupt_priest_target.GetTitledFirstName]�
 EVTOPTB_MNM_7830;...and beseech [corrupt_priest_spell_caster.GetDWDevil] to empower me!;;;;;;;;;;x
 EVTOPTB_MNM_7830_TOOLTIP;§Y[corrupt_priest_target.GetTitledFirstName]§! 不可能顶住[corrupt_priest_spell_caster.GetDWDevil]!\n;;;;;;;;;;x
 EVTOPTC_MNM_7830;...把我的话涂上蜂蜜。;;;;;;;;;;x
-EVTOPTC_MNM_7830_TOOLTIP;Well-chosen words will likely have a better effect on §Y[corrupt_priest_target.GetTitledFirstName]§!.\n;;;;;;;;;;x
+EVTOPTC_MNM_7830_TOOLTIP;甜言蜜语似乎对§Y[corrupt_priest_target.GetTitledFirstName]§!能起更好作用。\n;;;;;;;;;;x
 EVTOPTD_MNM_7830;……并且用我的[corrupt_priest_spell_caster.Religion.GetScriptureName]知识让[corrupt_priest_target.GetHerHim]改悔;;;;;;;;;;x
 EVTOPTD_MNM_7830_TOOLTIP;With well-founded arguments §Y[corrupt_priest_target.GetTitledFirstName]§! will likely see the reason in my words.\n;;;;;;;;;;x
 EVTDESC_MNM_7832_lustful;The raunchy nights of pleasure and debauchery I hosted at my court for [corrupt_priest_target.GetTitledFirstName] seem to have truly freed [corrupt_priest_target.GetHerHim] from [corrupt_priest_target.GetHerHis] remaining inhibitions. [corrupt_priest_target.GetSheHeCap] is most thankful to me for showing [corrupt_priest_target.GetHerHim] [corrupt_priest_target.GetSheHe] needs not be ashamed of pursuing pleasure.;;;;;;;;;;x
@@ -1232,7 +1234,7 @@ EVTDESC_MNM_7832_bonus;It seems that liberating [corrupt_priest_target.GetTitled
 EVTOPTA_MNM_7832;我为[corrupt_priest_spell_caster.GetDWDevil]所做的事…;;;;;;;;;;x
 EVTOPTA_MNM_7832_TOOLTIP;[corrupt_priest_spell_caster.GetDWDevil]肯定会祝福我！\n;;;;;;;;;;x
 EVTOPTB_MNM_7832;我是[corrupt_priest_spell_caster.GetDWDevil]的最伟大仆人！;;;;;;;;;;x
-EVTOPTB_MNM_7832_TOOLTIP;[corrupt_priest_spell_caster.GetDWDevil] will surely bless me greatly!\n;;;;;;;;;;x
+EVTOPTB_MNM_7832_TOOLTIP;[corrupt_priest_spell_caster.GetDWDevil]一定会尽全力保佑我！\n;;;;;;;;;;x
 EVTDESC_MNM_7834;Despite my best efforts, one misplaced word was all that was needed for [corrupt_priest_target.GetTitledFirstName] to take offense from my suggestion. [corrupt_priest_target.GetSheHeCap] stormed out of the room indignantly, and what's far worse, [corrupt_priest_target.GetSheHe] outed my supposed 'wickedness' to everyone!;;;;;;;;;;x
 EVTOPTA_MNM_7834;哦 不...;;;;;;;;;;x
 EVTOPTA_MNM_7834_TOOLTIP;人们不会乐意听到这个……\n;;;;;;;;;;x
@@ -1289,18 +1291,18 @@ EVTDESC_MNM_7847;Despite [possess_courtier_target.GetTitledFirstName]'s frequent
 EVTOPTA_MNM_7847;但-但你曾如此忠心！;;;;;;;;;;x
 EVTDESC_MNM_4601_SLOTHFUL;[benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName]'s slothfulness has long been known in the Order, subjecting [benedictines_diligent_mentee.GetHerHim] to its scorn. I could teach [benedictines_diligent_mentee.GetHerHim] to set up a horarium to structure [benedictines_diligent_mentee.GetHerHis] time, helping [benedictines_diligent_mentee.GetHerHim] to work harder.;;;;;;;;;;x
 EVTDESC_MNM_4601_REGULAR;Despite having been a part of the Order for a long time, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName] still does not truly exemplify the Benedictine ideals of hard work and structure. I could teach [benedictines_diligent_mentee.GetHerHim] to set up a horarium to structure [benedictines_diligent_mentee.GetHerHis] time.;;;;;;;;;;x
-EVTOPTA_MNM_4601;I will, but [benedictines_diligent_mentee.GetHerHis] first lesson must be that good things do not come for free.;;;;;;;;;;x
+EVTOPTA_MNM_4601;我会做的，但是[benedictines_diligent_mentee.GetSheHe]得首先学会天下没有免费的午餐这个道理。;;;;;;;;;;x
 EVTOPTA_MNM_4601_TOOLTIP;Offer to help [benedictines_diligent_mentee.GetTitledFirstName] in return for monetary compensation.\n;;;;;;;;;;x
-EVTOPTB_MNM_4601;No, [benedictines_diligent_mentee.GetSheHe] must find [benedictines_diligent_mentee.GetHerHis] own way.;;;;;;;;;;x
+EVTOPTB_MNM_4601;不，[benedictines_diligent_mentee.GetSheHe]必须独立成长。;;;;;;;;;;x
 EVTOPTB_MNM_4601_TOOLTIP;不要帮助 [benedictines_diligent_mentee.GetTitledFirstName].\n;;;;;;;;;;x
 EVTDESC_MNM_4603_SLOTHFUL;Blessings to you, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName],\nForgive me for writing so candidly, but your unfortunate lack of work ethic is putting our Order in a poor light. I propose to aid you to find structure and purpose in life. A minor form of compensation in return for my help would already go a long way to teaching you the value of hard work.\n\nSigned, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_4603_REGULAR;Blessings to you, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName],\nI have observed your attempts at following the Rule of Saint Benedict, and I noticed you could do with some help. Allow me to offer mine. However, the first lesson must be that nothing in life is obtained without cost, and a minor form of compensation would therefore be required.\n\nSigned, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_4603;[benedictines_diligent_mentor.GetSheHeCap] is right, I could use the help...;;;;;;;;;;x
-EVTOPTB_MNM_4603_SLOTHFUL;How dare [benedictines_diligent_mentor.GetSheHe]?!;;;;;;;;;;x
+EVTOPTB_MNM_4603_SLOTHFUL;[benedictines_diligent_mentor.GetSheHe]竟敢？！;;;;;;;;;;x
 EVTOPTC_MNM_4603_REGULAR;我不需要 [benedictines_diligent_mentor.GetHerHis] 的帮助。;;;;;;;;;;x
 EVTDESC_MNM_4604;Blessings to you, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName],\nI thank you for your offer of help, and I send to you the requested payment alongside this message. I look forward to your guidance!\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_4604;很好，让我们开始...;;;;;;;;;;x
-EVTOPTA_MNM_4604_TOOLTIP;Help [benedictines_diligent_mentee.GetTitledFirstName] to become a hard worker.\n;;;;;;;;;;x
+EVTOPTA_MNM_4604_TOOLTIP;帮助[benedictines_diligent_mentee.GetTitledFirstName]成为一个勤劳的人。\n;;;;;;;;;;x
 EVTDESC_MNM_4605;With patient dedication [benedictines_diligent_mentor.GetTitledFirstName] has shown me how to create a horarium to assign my time appropriately, making it easier to structure the work I do. It has already proven to be most useful, and work comes more easily to me now.;;;;;;;;;;x
 EVTOPTA_MNM_4605;[benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName] 是上帝亲赐的礼物！;;;;;;;;;;x
 EVTDESC_MNM_4607_SLOTHFUL;With some help and ample amounts of discipline the horarium [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName] helped me create has allowed me to defeat my laziness. Hard work is so much more fulfilling!;;;;;;;;;;x
@@ -1310,25 +1312,27 @@ EVTDESC_MNM_4608_OUTRAGED;[benedictines_diligent_mentor.GetSisterBrotherCap] [be
 EVTDESC_MNM_4608_NORMAL;Blessings to you, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName],\nI thank you for your offer of help, but I do not feel that it is necessary at this point.\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_4608_OUTRAGED;这可真是...不幸。;;;;;;;;;;x
 EVTOPTA_MNM_4608_NORMAL;很好。;;;;;;;;;;x
-EVTOPTA_MNM_4608_TOOLTIP;[benedictines_diligent_mentee.GetTitledFirstName] has rejected my offer of help.;;;;;;;;;;x
+EVTOPTA_MNM_4608_TOOLTIP;[benedictines_diligent_mentee.GetTitledFirstName]拒绝了我的帮助。;;;;;;;;;;x
 EVTDESC_MNM_4609_SLOTHFUL;The horarium I helped [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName] create has worked wonders. [benedictines_diligent_mentee.GetSheHeCap] has bettered [benedictines_diligent_mentee.GetHerHis] ways, and now works hard like a true Benedictine!;;;;;;;;;;x
 EVTDESC_MNM_4609_REGULAR;With the aid of the new horarium I helped [benedictines_diligent_mentee.GetHerHim] make, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName] has become a proper hard worker.;;;;;;;;;;x
 EVTOPTA_MNM_4609;[benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName] is now truly one of us.;;;;;;;;;;x
 opinion_outraged;激怒;;;;;;;;;;x
-NUM_ARTIFACTS;Owns at least $VAL|Y$ artifacts (currently: $CUR$);;;;;;;;;;x
-NUM_ARTIFACTS_LESS;Owns less than $VAL|Y$ artifacts (currently: $CUR$);;;;;;;;;;x
-ALL_ARTIFACTS;All Artifacts;;;;;;;;;;x
-ADD_ARTIFACT_TO;Adds $ARTIFACT|Y$ to the treasury of $CHAR|Y$\n;;;;;;;;;;x
-ARTIFACT_QUALITY;The quality of $WHAT|Y$ is $COMP|Y$ than $VAL|Y$;;;;;;;;;;x
-ARTIFACT_QUALITY_NOT;The quality of $WHAT|Y$ is §RNOT§! $COMP|Y$ than $VAL|Y$;;;;;;;;;;x
+NUM_ARTIFACTS;拥有至少$VAL|Y$的宝物（当前：$CUR$）;;;;;;;;;;x
+NUM_ARTIFACTS_LESS;拥有少于$VAL|Y$ 的宝物（当前：$CUR$）;;;;;;;;;;x
+ALL_ARTIFACTS;所有宝物;;;;;;;;;;x
+ADD_ARTIFACT_TO;将$ARTIFACT|Y$加入$CHAR|Y$的宝库\n;;;;;;;;;;x
+ARTIFACT_QUALITY;$WHAT|Y$的质量比$COMP|Y$更$VAL|Y$
+;;;;;;;;;;x
+ARTIFACT_QUALITY_NOT;$WHAT|Y$的质量§RNOT§! 比$COMP|Y$更$VAL|Y$ ;;;;;;;;;;x
 ARTIFACT_HAS_FLAG;$WHAT|Y$拥有旗标"$FLAG|Y$";;;;;;;;;;x
 ARTIFACT_HAS_FLAG_NOT;$WHAT|Y$没有旗标"$FLAG|Y$";;;;;;;;;;x
 IS_ACTIVE;激活;;;;;;;;;;x
 IS_NOT_ACTIVE;无效的;;;;;;;;;;x
-IS_NOT_ACTIVE_DESC;一些物品在授予持有者其效果之前必须满足条件。;;;;;;;;;;x
+IS_NOT_ACTIVE_DESC;一些宝物在授予持有者其效果之前必须满足条件。;;;;;;;;;;x
 SET_QUEST_DESC;$HOLDER|Y$接受任务$WHAT|Y$。\n $DESC$;;;;;;;;;;x
 CLEAR_QUEST_DESC;$HOLDER|Y$成功完成任务"$WHAT|Y$";;;;;;;;;;x
-CLEAR_QUEST_DESC_FAILURE;$HOLDER|Y$ fails the mission "$WHAT|Y$";;;;;;;;;;x
+CLEAR_QUEST_DESC_FAILURE;$HOLDER|Y$未能完成任务"$WHAT|Y$"
+;;;;;;;;;;x
 SET_QUEST_TARGET_DESC;$HOLDER|Y$ accepts the mission $WHAT|Y$ targeting $TARGET|Y$. $DESC$;;;;;;;;;;x
 CLEAR_QUEST_TARGET_DESC;Clears target of $WHAT|Y$ for $HOLDER|Y$;;;;;;;;;;x
 INVALID_SAVED_TARGET;储存的事件目标无效;;;;;;;;;;x
@@ -1337,8 +1341,8 @@ IS_NOT_QUEST_TARGET;不是任何任务的目标;;;;;;;;;;x
 IS_QUEST_TARGET;是任何任务的目标;;;;;;;;;;x
 IS_NOT_QUEST_TARGET_OF;不是$HOLDER|Y$的任何任务的目标;;;;;;;;;;x
 IS_QUEST_TARGET_OF;是$HOLDER|Y$的任何任务的目标;;;;;;;;;;x
-ALL_QUESTERS;All characters with a mission:;;;;;;;;;;x
-ALL_QUESTERS_TARGETTING;All characters with a mission targeting:;;;;;;;;;;x
+ALL_QUESTERS;所有已领取任务的人物：;;;;;;;;;;x
+ALL_QUESTERS_TARGETTING;所有作为任务目标的人物：;;;;;;;;;;x
 HAS_ANY_QUEST_TRIGGER;拥有一个或更多任务;;;;;;;;;;x
 HAS_ANY_QUEST_TRIGGER_NOT;没有任何任务;;;;;;;;;;x
 HAS_QUEST_TRIGGER;拥有任务$MISSION|Y$\n;;;;;;;;;;x
@@ -1363,7 +1367,7 @@ TRIGGER_SOCIETY;社团;;;;;;;;;;x
 TRIGGER_DISCOVERED_SOCIETY;发现秘密社团;;;;;;;;;;x
 TRIGGER_QUEST_TARGET;社团任务目标;;;;;;;;;;x
 CHAR_STATUS_JOBACTION_OFFMAP;$NAME|Y$ is in $LIEGE|Y$'s court of $LOCATION|Y$ to $ACTION|Y$;;;;;;;;;;x
-ACTION_DESC_OFF_MAP;In $LIEGE|Y$'s court of $WHERE|Y$ to $ACTION|Y$;;;;;;;;;;x
+ACTION_DESC_OFF_MAP;在$LIEGE|Y$位于$WHERE|Y$的宫殿进行$ACTION|Y$;;;;;;;;;;x
 THREAT_DECAY_SPEED;威胁度衰减速度;;;;;;;;;;x
 INVALID_UNIT;§R没有军队§!;;;;;;;;;;x
 siege_focus_order_desc;专注在攻城上;;;;;;;;;;x
@@ -1375,7 +1379,7 @@ COUNCIL_VOTER_WOULD_VOTE;$WHO|Y$会投$HOW$票给$WHAT|Y$;;;;;;;;;;x
 COUNCIL_VOTER_IS_VOTING;$WHO|Y$投$HOW$票给$WHAT|Y$;;;;;;;;;;x
 COUNCIL_VOTER_IS_UNDECIDED;$WHO|Y$对$WHAT|Y$议程§Y意见不明§!;;;;;;;;;;x
 COUNCIL_VOTE_LAW;宫廷议会正在投票：$LAW|Y$;;;;;;;;;;x
-CONSIDERATION_BUTTON_TOOLTIP;Send the law for review by the council;;;;;;;;;;x
+CONSIDERATION_BUTTON_TOOLTIP;让枢密院评审法律;;;;;;;;;;x
 GRANT_LANDED_TITLE_INTERACTION_SHORT_DESC;Grant §Y[ThirdPartyTitle.GetFullName]§! to §Y[Recipient.GetTitledFirstName]§!.;;;;;;;;;;x
 IMPRISON_INTERACTION_SHORT_DESC;监禁§Y[Recipient.GetBestName]§!。;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_SHORT_DESC;释放§Y[Recipient.GetBestName]§!。;;;;;;;;;;x
@@ -1386,7 +1390,7 @@ INVITE_TO_COURT_INTERACTION_SHORT_DESC;邀请§Y[Recipient.GetBestName]§!到宫
 TRANSFER_VASSAL_INTERACTION_SHORT_DESC;Make §Y[ThirdPartyCharacter.GetBestName]§! subject to §Y[Recipient.GetBestName]§W.;;;;;;;;;;x
 JOIN_AMBITION_INTERACTION_SHORT_DESC;邀请§Y[Recipient.GetBestName]§!参与阴谋§Y[Actor.GetPlot]§W。;;;;;;;;;;x
 TEST_DECISION_TOOLTIP;[This.GetBestName] will rank up from [This.GetSocietyRank] in [This.Society.GetNameCap] ( [This.Society.GetName] ) for a cost of 100 [This.Society.GetCurrency];;;;;;;;;;x
-EVTDESC_MNM_8000;I shall do a pilgrimage to one of the holy sites of the [Root.Religion.GetName] faith seeking enlightenment and purification.;;;;;;;;;;x
+EVTDESC_MNM_8000;我要去[Root.Religion.GetName]的一个圣地朝觐，希望能启迪心智，净化心灵。;;;;;;;;;;x
 EVTOPTA_MNM_8000;我要开始规划行程了。;;;;;;;;;;x
 EVTDESC_MNM_8001;There are many places a devout [Root.Religion.GetName] might visit during a pilgrimage. They will undoubtedly all offer enlightenment but a closer location may make for a safer journey.;;;;;;;;;;x
 EVTOPTA_MNM_8001;我将前往鹿野苑，僧伽诞生之地;;;;;;;;;;x
@@ -1416,20 +1420,20 @@ EVTDESC_MNM_8010;I have packed my things and made preparations for my household 
 EVTOPTA_MNM_8010;旅程开始！;;;;;;;;;;x
 EVTDESC_MNM_8011;我收拾好我的东西，为我的家庭做好了离开我而生活的准备。是时候出发去古城瓦拉纳西了。不久，我将在恒河中清洗我的身体。;;;;;;;;;;x
 EVTOPTA_MNM_8011;旅程开始！;;;;;;;;;;x
-CHRONICLE_PILGRIMAGE_TO_SARNATH;[Root.GetTitledName] made a pilgrimage to Sarnath.;;;;;;;;;;x
-CHRONICLE_PILGRIMAGE_TO_BODH_GAYA;[Root.GetTitledName] made a pilgrimage to Bodh Gaya.;;;;;;;;;;x
+CHRONICLE_PILGRIMAGE_TO_SARNATH;[Root.GetTitledName]前往鹿野苑朝圣。;;;;;;;;;;x
+CHRONICLE_PILGRIMAGE_TO_BODH_GAYA;[Root.GetTitledName]前往菩提道场朝拜。;;;;;;;;;;x
 CHRONICLE_PILGRIMAGE_TO_SANCHI;[Root.GetTitledName] made a pilgrimage to Sanchi.;;;;;;;;;;x
 CHRONICLE_PILGRIMAGE_TO_SHIKARJI;[Root.GetTitledName] made a pilgrimage to Shikarji.;;;;;;;;;;x
 CHRONICLE_PILGRIMAGE_TO_SHRAVANABELAGOLA;[Root.GetTitledName] made a pilgrimage to Shravanabelagola.;;;;;;;;;;x
-CHRONICLE_PILGRIMAGE_TO_GIRNAR;[Root.GetTitledName] made a pilgrimage to Girnar.;;;;;;;;;;x
-CHRONICLE_PILGRIMAGE_TO_VARANASI;[Root.GetTitledName] made a pilgrimage to Varanasi.;;;;;;;;;;x
-CHRONICLE_PILGRIMAGE_TO_MATHURA;[Root.GetTitledName] made a pilgrimage to Mathura.;;;;;;;;;;x
+CHRONICLE_PILGRIMAGE_TO_GIRNAR;[Root.GetTitledName]前往吉尔纳尔山朝圣。;;;;;;;;;;x
+CHRONICLE_PILGRIMAGE_TO_VARANASI;[Root.GetTitledName]前往瓦拉纳西朝圣。;;;;;;;;;;x
+CHRONICLE_PILGRIMAGE_TO_MATHURA;[Root.GetTitledName] 来到马图拉朝圣。;;;;;;;;;;x
 EVTDESC_MNM_8020;现在正是雨季，雨水正倾泻而下。道路变得泥泞，庄稼被冲走了。朝圣者的生活有时是艰难而困苦的。;;;;;;;;;;x
 EVTOPTA_MNM_8020;我主会保佑我健全。;;;;;;;;;;x
 EVTOPTB_MNM_8020;我后悔开始了这次冒险。;;;;;;;;;;x
 EVTDESC_MNM_8021;旱季就快到了，前方依然没有水的踪迹，一个朝圣者的生活有时很困难。但很明显我路过的村庄比我受的罪更大。;;;;;;;;;;x
 EVTOPTA_MNM_8021;我必须试着减轻他们的痛苦。;;;;;;;;;;x
-EVTOPTB_MNM_8021;Such is life in the dry season.;;;;;;;;;;x
+EVTOPTB_MNM_8021;旱季的生活就是如此。;;;;;;;;;;x
 EVTDESC_MNM_8022;Any traveller would balk at the prospect of traversing hills and jungle but it was the shorter route. Emerging from the undergrowth however it is becoming increasingly clear that I have made a mistake. The road ahead is not necessarily as dangerous as what now lies behind, but it is quite clearly not the right road.;;;;;;;;;;x
 EVTOPTA_MNM_8022;我就知道不应该相信这些本地人！;;;;;;;;;;x
 EVTOPTB_MNM_8022;我本该更重视他们的指导的。;;;;;;;;;;x
@@ -1448,13 +1452,13 @@ EVTOPTA_MNM_8026;这是一个绝好的机会。;;;;;;;;;;x
 EVTOPTB_MNM_8026;是时候休息休息了。;;;;;;;;;;x
 EVTDESC_MNM_8027;As we looked for a place to set up camp at the end of a long day we stumbled across a sentry. Having examined our group he decided that we are harmless pilgrims and bid us to enter the camp of his master, a rich vaishya merchant of the southern trade guilds.;;;;;;;;;;x
 EVTOPTA_MNM_8027;我必须为他们的善良道谢。;;;;;;;;;;x
-EVTOPTB_MNM_8027;They are only giving me what is my right.;;;;;;;;;;x
-EVTDESC_MNM_8028;Everything seems to taste foul today. Was it the local cuisine or that night spent camping in a swamp? It is hard to say for sure but something is not right with this pilgrim...;;;;;;;;;;x
+EVTOPTB_MNM_8027;他们只是把我应得的给我。;;;;;;;;;;x
+EVTDESC_MNM_8028;今天吃什么都没胃口。是因为不习惯当地口味，还是因为昨夜在沼泽露营？我很难确定，不过这次朝觐之旅不是十分顺利…;;;;;;;;;;x
 EVTOPTA_MNM_8028;一个小礼物，然后我必须继续前进。;;;;;;;;;;x
 EVTOPTB_MNM_8028;是时候修整一下了。;;;;;;;;;;x
 EVTDESC_MNM_8029;You come across a thriving city in the middle of a dry upland. The secret of their prosperity seems to be huge water tanks, built and maintained by the local Raja. A separate reservoir is also under construction to allow the city to grow even bigger. You stop to admire this feat of engineering and cannot help wondering how much a similar construction could benefit [Root.Capital.GetName].;;;;;;;;;;x
-EVTOPTA_MNM_8029;I must learn more about these reservoirs.;;;;;;;;;;x
-EVTOPTB_MNM_8029;Such a futile endeavor, rain falls where it wills.;;;;;;;;;;x
+EVTOPTA_MNM_8029;我一定要更深入了解这些水库。;;;;;;;;;;x
+EVTOPTB_MNM_8029;这是无用功，雨想下哪就下在哪。;;;;;;;;;;x
 EVTDESC_MNM_8030;在一个小村庄中心有一棵非常大的菩提树。村民们用草和泥建成了一个平台，这显然是一个供人进行精神反思和讨论的场所。;;;;;;;;;;x
 EVTOPTA_MNM_8030;我必须留下来学一学这些人教我的东西。;;;;;;;;;;x
 EVTOPTB_MNM_8030;已经没时间可以浪费了。;;;;;;;;;;x
@@ -1468,11 +1472,11 @@ EVTOPTA_MNM_8034;我又交了个新朋友！;;;;;;;;;;x
 EVTDESC_MNM_8035;As I entered the city I was quickly invited to the citadel of the local Raja. Entering the audience chamber another visitor storms in demanding to know why I was given this right to enter before [new_enemy_far_away_from_home.GetHerHim]. The Raja manages to calm the situation somewhat but as [new_enemy_far_away_from_home.GetSheHe] leaves [new_enemy_far_away_from_home.GetSheHe] swears that I will pay for this slight.;;;;;;;;;;x
 EVTOPTA_MNM_8035;看来我有了一个新的敌人。;;;;;;;;;;x
 EVTDESC_MNM_8035_common_origin;As I entered the city I was quickly invited to the citadel of the local Raja. Entering the audience chamber another visitor storms in demanding to know why I was given this right to enter before [new_enemy_far_away_from_home.GetHerHim]. The Raja manages to calm the situation somewhat but as [new_enemy_far_away_from_home.GetSheHe] leaves he swears that I will pay for this slight.;;;;;;;;;;x
-EVTDESC_MNM_8036;Spending time and money in a city is a good way to make new acquaintances. I cannot help however this has been a day wasted on my journey.;;;;;;;;;;x
+EVTDESC_MNM_8036;在城市里打发时间和消费是认识新朋友的好方法。不过我还是忍不住说，途中已经花了整整一天了。;;;;;;;;;;x
 EVTOPTA_MNM_8036;我们是时候继续向着目标前进了。;;;;;;;;;;x
-EVTDESC_MNM_8037;It has been months since I left my home behind. I cannot help but wonder how my house and family fares without me. Surely I arranged things as well as possible before I left however, who could I trust if not friends and family?;;;;;;;;;;x
+EVTDESC_MNM_8037;我离家已经几个月了。我不由得想，我的家人没有我过得怎样。不过我出发前已经尽可能做好安排，除了朋友和家人我还能信任谁？;;;;;;;;;;x
 EVTOPTA_MNM_8037;我很确定一切都是正常的。;;;;;;;;;;x
-EVTOPTB_MNM_8037;I cannot let go of these thoughts...;;;;;;;;;;x
+EVTOPTB_MNM_8037;我不能摒弃这些想法…;;;;;;;;;;x
 EVTNAME_MNM_8050;抵达鹿野苑;;;;;;;;;;x
 EVTDESC_MNM_8050;A short journey from the holy city of Varanasi lies Sarnath. This is the park in which Buddha gave his first sermons, setting the wheel of the Dharma in motion, telling his followers of the four noble truths and founding the Sangha itself. Today the park is home to the imposing Dhamek Stupa and over a thousand priests and monks.\n\nThis is one of the most bustling centers of Buddhist teachings in India and one of the sites named by the Buddha himself as a worthy pilgrimage.;;;;;;;;;;x
 EVTOPTA_MNM_8050;我必须找到一个折衷的办法。;;;;;;;;;;x
@@ -1481,14 +1485,14 @@ EVTDESC_MNM_8051;You have finally arrived in Bodh Gaya, by many considered the s
 EVTOPTA_MNM_8051;我也在寻求启示;;;;;;;;;;x
 EVTNAME_MNM_8052;桑吉;;;;;;;;;;x
 EVTDESC_MNM_8052;You have finally arrived in Sanchi, one of the oldest centers of Buddhist worship in the world. Legend has it the original Stupa here was constructed by Emperor Ashoka at the insistence of his Vidishan queen Devi. Ever since Buddhists have been coming here to seek out the serenely secluded environment, and over hundreds of years more temples, stupas and monasteries have sprung up in this ideal place for monastic life.\n\nAs you approach the elaborate Torana of the ancient Great Stupa of Ashoka you reflect on the generations of faithful that have walked this way before you as well as on the fate of Sariputra and Mahamoggalana whose relics lie within.;;;;;;;;;;x
-EVTOPTA_MNM_8052;As is fitting for a disciple of Buddha.;;;;;;;;;;x
+EVTOPTA_MNM_8052;适合做佛门弟子。;;;;;;;;;;x
 EVTNAME_MNM_8053;斯拉瓦纳贝拉戈;;;;;;;;;;x
 EVTDESC_MNM_8053;You have finally arrived in Shravanabelagola, the white pond of the Shravana. For centuries great monks and Sravakas have meditated here on the hills of Chandragiri and Vindhyagiri, among them even great kings and emperors. As you approach the main pond you reflect on the faith of Bahubali whose atonement for his sins and sublimation into godhood is commemorated here by a 57 feet statue in his likeness. Shravanabelagola is the site of many Jain mathas and temples and is the site where some of the holiest scriptures are kept.\n\nFortunately you have arrived in time for the Mahamastakabhisheka ceremony and get to watch as the statue of Bahubali is bathed and anointed and sprinkled with powders of Sandalwood and Vermilion.;;;;;;;;;;x
-EVTOPTA_MNM_8053;It is time I proceed to the temples and mathas of this place.;;;;;;;;;;x
+EVTOPTA_MNM_8053;我应该出发，去那里的寺院了。;;;;;;;;;;x
 EVTNAME_MNM_8054;吉尔纳尔;;;;;;;;;;x
 EVTDESC_MNM_8054;You have arrived in the temple district of Taleti at the foot of Girnar. A long set of stairs will take you up the sacred mountain to see the shrines and temples. It was here that Krishna was once confined by his mother and where he tricked Kalayavana to meet the inflaming ire of the sleeping Muchukunda.\n\nAs you reach the Bhavnat shrine you observe the hundreds of naked Sadhus making their offerings to Shiva and bathing themselves in the tank of the temple. The entire place is resounding with sounds and music and according to some Shiva himself is near.;;;;;;;;;;x
 EVTOPTA_MNM_8054;我必须继续攀登。;;;;;;;;;;x
-EVTNAME_MNM_8055;Arrival at Shikarji;;;;;;;;;;x
+EVTNAME_MNM_8055;抵达希卡吉;;;;;;;;;;x
 EVTDESC_MNM_8055;Having crossed the Madhuban forest, you have finally reached the foot of the Parasnath hills and the pilgrimage of Shikarji. On these mountain peaks 20 out of the 24 tirthankaras achieved moksha through meditation making this one of the holiest of places in the world. Their ascent to Nirvana has left a permanent mark on this place, and during your climb upwards to the sacred peaks you pass the small marble tonks left to commemorate each and every one of them.;;;;;;;;;;x
 EVTOPTA_MNM_8055;是时候开始攀登了。;;;;;;;;;;x
 EVTNAME_MNM_8056;抵达马图拉;;;;;;;;;;x
@@ -1740,7 +1744,7 @@ EVTOPTA_MNM_4414_TOOLTIP_SUCCESS;§Y[Root.GetTitledFirstName]§! interprets the 
 EVTOPTA_MNM_4414_TOOLTIP_FAILURE;§Y[Root.GetTitledFirstName]§! fails to make sense of the passage.\n;;;;;;;;;;x
 EVTOPTB_MNM_4414_TOOLTIP_SUCCESS;§Y[court_spiritual.GetTitledName]§! manages to explain the passage to §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;x
 EVTOPTB_MNM_4414_TOOLTIP_FAILURE;§Y[court_spiritual.GetTitledName]§! is unhelpful and §Y[Root.GetTitledFirstName]§! fails to make sense of the passage.\n;;;;;;;;;;x
-opinion_ignorant;Ignorant;;;;;;;;;;x
+opinion_ignorant;无知的;;;;;;;;;;x
 EVTDESC_MNM_4415;A true follower of [Root.GetMOCode] does not give up easily. I kept at it, reading the passage again and again, compared it with other holy texts and mulled over the wording for hours at end. It went slowly, but every now and then I uncovered a new piece of the puzzle, and suddenly, I saw it! Such elegance, such depth! I will carry this revelation with me until the day I die.;;;;;;;;;;x
 EVTOPTA_MNM_4415_A;The wisdom of [Root.GetMOGod] is infinite and indisputable.;;;;;;;;;;x
 EVTOPTA_MNM_4415_B;The wisdom of [Root.Religion.GetScriptureName] is infinite and indisputable.;;;;;;;;;;x
@@ -1790,24 +1794,24 @@ EVTOPTA_MNM_4428;You honor me, [From.GetSocietyRank];;;;;;;;;;x
 EVTDESC_MNM_4429;To [Root.GetSocietyRank] [Root.GetFirstName]\nI have heard some disturbing tales regarding your time in holy seclusion, [Root.GetSocietyRank]. I fear that you are not yet ready for the contemplation I expected of you. We will revisit this mission at a later date, but for the time being, I must consider this a failure.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_4429;I have failed you, [From.GetSocietyRank].;;;;;;;;;;x
 EVTDESC_MNM_4430;[Root.holy_seclusion_points.GetName]: [Root.holy_seclusion_points.GetValue];;;;;;;;;;x
-monastic_order_benedictine_rank_1_female;捐赠者;;;;;;;;;;x
-monastic_order_benedictine_rank_2_female;侍神者;;;;;;;;;;x
-monastic_order_benedictine_rank_3_female;悔过者;;;;;;;;;;x
-monastic_order_benedictine_rank_4_female;Conversus;;;;;;;;;;x
-monastic_order_benedictine_rank_1_male;Donatus;;;;;;;;;;x
-monastic_order_benedictine_rank_2_male;Oblatus;;;;;;;;;;x
-monastic_order_benedictine_rank_3_male;Commissus;;;;;;;;;;x
-monastic_order_benedictine_rank_4_male;Conversus;;;;;;;;;;x
+monastic_order_benedictine_rank_1_female;入会修士;;;;;;;;;;x
+monastic_order_benedictine_rank_2_female;宣誓修士;;;;;;;;;;x
+monastic_order_benedictine_rank_3_female;肩衣修士;;;;;;;;;;x
+monastic_order_benedictine_rank_4_female;庶务修士;;;;;;;;;;x
+monastic_order_benedictine_rank_1_male;入会修士;;;;;;;;;;x
+monastic_order_benedictine_rank_2_male;宣誓修士;;;;;;;;;;x
+monastic_order_benedictine_rank_3_male;肩衣修士;;;;;;;;;;x
+monastic_order_benedictine_rank_4_male;庶务修士;;;;;;;;;;x
 monastic_order_benedictine;本笃会;;;;;;;;;;x
-currency_name_monastic_order_benedictine;Devotion;;;;;;;;;;x
+currency_name_monastic_order_benedictine;奉献值;;;;;;;;;;x
 monastic_order_dominican;多明会;;;;;;;;;;x
-monastic_order_dominican_rank_1_female;Donatus;;;;;;;;;;x
-monastic_order_dominican_rank_2_female;侍神者;;;;;;;;;;x
-monastic_order_dominican_rank_3_female;悔过者;;;;;;;;;;x
+monastic_order_dominican_rank_1_female;入会修士;;;;;;;;;;x
+monastic_order_dominican_rank_2_female;宣誓修士;;;;;;;;;;x
+monastic_order_dominican_rank_3_female;肩衣修士;;;;;;;;;;x
 monastic_order_dominican_rank_4_female;庶务修士;;;;;;;;;;x
-monastic_order_dominican_rank_1_male;捐赠者;;;;;;;;;;x
-monastic_order_dominican_rank_2_male;侍神者;;;;;;;;;;x
-monastic_order_dominican_rank_3_male;悔过者;;;;;;;;;;x
+monastic_order_dominican_rank_1_male;入会修士;;;;;;;;;;x
+monastic_order_dominican_rank_2_male;宣誓修士;;;;;;;;;;x
+monastic_order_dominican_rank_3_male;肩衣修士;;;;;;;;;;x
 monastic_order_dominican_rank_4_male;庶务修士;;;;;;;;;;x
 currency_name_monastic_order_dominican;奉献值;;;;;;;;;;x
 monastic_order_orthodox;圣瓦西里教会;;;;;;;;;;x
@@ -1815,53 +1819,53 @@ monastic_order_orthodox_rank_1_female;Archaria;;;;;;;;;;x
 monastic_order_orthodox_rank_2_female;黑袍教士;;;;;;;;;;x
 monastic_order_orthodox_rank_3_female;持十字者;;;;;;;;;;x
 monastic_order_orthodox_rank_4_female;母兽;;;;;;;;;;x
-monastic_order_orthodox_rank_1_male;初学者;;;;;;;;;;x
+monastic_order_orthodox_rank_1_male;生手;;;;;;;;;;x
 monastic_order_orthodox_rank_2_male;黑袍教士;;;;;;;;;;x
 monastic_order_orthodox_rank_3_male;持十字者;;;;;;;;;;x
 monastic_order_orthodox_rank_4_male;牧首;;;;;;;;;;x
-currency_name_monastic_order_orthodox;忠诚值;;;;;;;;;;x
+currency_name_monastic_order_orthodox;奉献值;;;;;;;;;;x
 monastic_order_nestorian;圣亚伯拉罕教会;;;;;;;;;;x
 monastic_order_nestorian_rank_1_female;Archaria;;;;;;;;;;x
-monastic_order_nestorian_rank_2_female;教士;;;;;;;;;;x
+monastic_order_nestorian_rank_2_female;黑袍教士;;;;;;;;;;x
 monastic_order_nestorian_rank_3_female;持十字者;;;;;;;;;;x
 monastic_order_nestorian_rank_4_female;牧首;;;;;;;;;;x
-monastic_order_nestorian_rank_1_male;初学者;;;;;;;;;;x
-monastic_order_nestorian_rank_2_male;教士;;;;;;;;;;x
+monastic_order_nestorian_rank_1_male;生手;;;;;;;;;;x
+monastic_order_nestorian_rank_2_male;黑袍教士;;;;;;;;;;x
 monastic_order_nestorian_rank_3_male;持十字者;;;;;;;;;;x
 monastic_order_nestorian_rank_4_male;牧首;;;;;;;;;;x
-currency_name_monastic_order_nestorian;献身值;;;;;;;;;;x
+currency_name_monastic_order_nestorian;奉献值;;;;;;;;;;x
 monastic_order_monophysite;圣安东尼教会;;;;;;;;;;x
 monastic_order_monophysite_rank_1_female;Archaria;;;;;;;;;;x
-monastic_order_monophysite_rank_2_female;教士;;;;;;;;;;x
+monastic_order_monophysite_rank_2_female;黑袍教士;;;;;;;;;;x
 monastic_order_monophysite_rank_3_female;持十字者;;;;;;;;;;x
 monastic_order_monophysite_rank_4_female;牧首;;;;;;;;;;x
-monastic_order_monophysite_rank_1_male;初学者;;;;;;;;;;x
-monastic_order_monophysite_rank_2_male;教士;;;;;;;;;;x
+monastic_order_monophysite_rank_1_male;生手;;;;;;;;;;x
+monastic_order_monophysite_rank_2_male;黑袍教士;;;;;;;;;;x
 monastic_order_monophysite_rank_3_male;持十字者;;;;;;;;;;x
 monastic_order_monophysite_rank_4_male;牧首;;;;;;;;;;x
 currency_name_monastic_order_monophysite;奉献值;;;;;;;;;;x
-monastic_order_hindu;The Advaita Matha;;;;;;;;;;x
+monastic_order_hindu;阿德威塔.马塔;;;;;;;;;;x
 monastic_order_hindu_rank_1_female;门生;;;;;;;;;;x
-monastic_order_hindu_rank_2_female;梵学家;;;;;;;;;;x
-monastic_order_hindu_rank_3_female;指引者;;;;;;;;;;x
+monastic_order_hindu_rank_2_female;班智达;;;;;;;;;;x
+monastic_order_hindu_rank_3_female;上师;;;;;;;;;;x
 monastic_order_hindu_rank_4_female;阿阇梨;;;;;;;;;;x
 monastic_order_hindu_rank_1_male;门生;;;;;;;;;;x
-monastic_order_hindu_rank_2_male;梵学家;;;;;;;;;;x
-monastic_order_hindu_rank_3_male;引导者;;;;;;;;;;x
+monastic_order_hindu_rank_2_male;班智达;;;;;;;;;;x
+monastic_order_hindu_rank_3_male;上师;;;;;;;;;;x
 monastic_order_hindu_rank_4_male;阿阇梨;;;;;;;;;;x
-currency_name_monastic_order_hindu;投入值;;;;;;;;;;x
-monastic_order_buddhist;The Savaka-Sangha;;;;;;;;;;x
-monastic_order_buddhist_rank_1_female;须陀洹/预流;;;;;;;;;;x
+currency_name_monastic_order_hindu;奉献值;;;;;;;;;;x
+monastic_order_buddhist;声闻僧伽;;;;;;;;;;x
+monastic_order_buddhist_rank_1_female;须陀洹;;;;;;;;;;x
 monastic_order_buddhist_rank_2_female;斯陀含;;;;;;;;;;x
 monastic_order_buddhist_rank_3_female;阿那含;;;;;;;;;;x
 monastic_order_buddhist_rank_4_female;罗汉;;;;;;;;;;x
 monastic_order_buddhist_rank_1_male;须陀洹;;;;;;;;;;x
 monastic_order_buddhist_rank_2_male;斯陀含;;;;;;;;;;x
 monastic_order_buddhist_rank_3_male;阿那含;;;;;;;;;;x
-monastic_order_buddhist_rank_4_male;Arahnat;;;;;;;;;;x
+monastic_order_buddhist_rank_4_male;阿罗汉;;;;;;;;;;x
 currency_name_monastic_order_buddhist;奉献值;;;;;;;;;;x
-monastic_order_jain;The Sravaka-Samgha;;;;;;;;;;x
-monastic_order_jain_rank_1_female;Sravika;;;;;;;;;;x
+monastic_order_jain;声闻僧伽;;;;;;;;;;x
+monastic_order_jain_rank_1_female;声闻;;;;;;;;;;x
 monastic_order_jain_rank_2_female;波罗摩恰立;;;;;;;;;;x
 monastic_order_jain_rank_3_female;Kshullika;;;;;;;;;;x
 monastic_order_jain_rank_4_female;Acharya;;;;;;;;;;x
@@ -1870,11 +1874,11 @@ monastic_order_jain_rank_2_male;波罗摩恰立;;;;;;;;;;x
 monastic_order_jain_rank_3_male;Kshullak;;;;;;;;;;x
 monastic_order_jain_rank_4_male;阿阇梨;;;;;;;;;;x
 currency_name_monastic_order_jain;奉献值;;;;;;;;;;x
-secret_religious_society_catholic_currency;奉献值;;;;;;;;;;x
-secret_religious_society_orthodox_currency;奉献值;;;;;;;;;;x
-secret_religious_society_sunni_currency;奉献值;;;;;;;;;;x
-secret_religious_society_shiite_currency;奉献值;;;;;;;;;;x
-secret_religious_society_jewish_currency;奉献值;;;;;;;;;;x
+secret_religious_society_catholic_currency;奉献;;;;;;;;;;x
+secret_religious_society_orthodox_currency;奉献;;;;;;;;;;x
+secret_religious_society_sunni_currency;奉献;;;;;;;;;;x
+secret_religious_society_shiite_currency;奉献;;;;;;;;;;x
+secret_religious_society_jewish_currency;奉献;;;;;;;;;;x
 secret_religious_society_zoroastrian_currency;奉献值;;;;;;;;;;x
 secret_religious_society_hindu_currency;奉献值;;;;;;;;;;x
 secret_religious_society_buddhist_currency;奉献值;;;;;;;;;;x
@@ -1919,14 +1923,14 @@ EVTOPTA_MNM_9005;A good idea, [rumor_councillor.GetJobTitle]. You should arrange
 EVTOPTA_MNM_9005_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§! immediately begins to search for the rare artifact.\n;;;;;;;;;;x
 EVTOPTB_MNM_9005;You have my thanks, [rumor_councillor.GetFirstName]!;;;;;;;;;;x
 EVTOPTB_MNM_9005_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councillors to search for the rare artifact.\n;;;;;;;;;;x
-relic_rumor_medium;关于稀世遗物的传闻;;;;;;;;;;x
+relic_rumor_medium;关于稀世宝物的传闻;;;;;;;;;;x
 relic_rumor_medium_desc;This character has been reached by a rumor of a rare artifact! They can send one of their councillors to search for it.;;;;;;;;;;x
 EVTDESC_MNM_9006;During this evening's council meeting, [rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName] told us of a rumor [rumor_councillor.GetSheHe] had encountered. The peasants speak of an artifact hidden not far away from here. The specifics of [rumor_councillor.GetFirstName]'s information are uncertain, but perhaps this would be worth investigating.;;;;;;;;;;x
 EVTOPTA_MNM_9006;[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName], arrange a search.;;;;;;;;;;x
 EVTOPTA_MNM_9006_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§! immediately begins to search for the artifact.\n;;;;;;;;;;x
 EVTOPTB_MNM_9006;有趣…;;;;;;;;;;x
 EVTOPTB_MNM_9006_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councillors to search for the artifact.\n;;;;;;;;;;x
-relic_rumor_minor;遗物的传闻;;;;;;;;;;x
+relic_rumor_minor;宝物的传闻;;;;;;;;;;x
 relic_rumor_minor_desc;This character heard a rumor concerning an artifact. They can send one of their councillors to search for it.;;;;;;;;;;x
 EVTDESC_MNM_9020;[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] approached me after the council meeting to request some more diplomats to aid [relic_hunter.GetHerHim] in obtaining more information concerning the rumored artifact. While I could divert some of my envoys to this task for a time, our regular diplomatic efforts would suffer due to the neglect.;;;;;;;;;;x
 EVTOPTA_MNM_9020;You shall have your diplomats, [relic_hunter.GetJobTitle].;;;;;;;;;;x
@@ -1968,22 +1972,22 @@ EVTDESC_MNM_9028;[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] has shar
 EVTOPTA_MNM_9028;How exciting! We shall investigate the new lead instead.;;;;;;;;;;x
 EVTOPTA_MNM_9028_TT;The original investigation ends, but some of the progress will still be helpful in the new search.\n;;;;;;;;;;x
 EVTOPTB_MNM_9028;The risks are too great. We stay on the original path.;;;;;;;;;;x
-search_for_artifact;Search for Artifact;;;;;;;;;;x
+search_for_artifact;寻找宝物;;;;;;;;;;x
 search_for_artifact_desc;Because §Y[From.GetTitledFirstName]§! has heard of the rumors of a lost artifact [From.GetSheHe] can order [From.GetHerHis] [Root.GetJobTitle], §Y[Root.GetTitledFirstName]§!, to arrange a search for it.;;;;;;;;;;x
 search_for_artifact_allow_tt;§Y[Root.GetTitledFirstName]§! is a councilor of §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;x
 search_for_artifact_effect_tt;§Y[Root.GetTitledFirstName]§! arranges a search for the rumored artifact.\n;;;;;;;;;;x
 search_for_artifact_effect_replace_tt;The previous artifact hunter is replaced.\n;;;;;;;;;;x
 search_for_artifact_effect_progress_tt;Some of the previously made progress is lost.\n;;;;;;;;;;x
-stop_artifact_search;End Search for Artifact;;;;;;;;;;x
+stop_artifact_search;不再寻找宝物;;;;;;;;;;x
 stop_artifact_search_desc;Ask §Y[Root.GetTitledFirstName]§! to stop searching for the rumored artifact.;;;;;;;;;;x
 stop_artifact_search_effect_tt;The search for the artifact is ended. A new councilor can be appointed to lead the search as long as the rumor is still viable.;;;;;;;;;;x
 EVTDESC_MNM_9030;[Root.relic_score.GetValue];;;;;;;;;;x
 pays_for_artifact_hunt_minor;Paying for Artifact Search;;;;;;;;;;x
-pays_for_artifact_hunt_minor_desc;This character is paying one of their councilors to search for a rumored artifact.;;;;;;;;;;x
-pays_for_artifact_hunt_medium;Paying for Artifact Search;;;;;;;;;;x
-pays_for_artifact_hunt_medium_desc;This character is paying one of their councilors to search for artifacts.;;;;;;;;;;x
-pays_for_artifact_hunt_major;Paying for Artifact Search;;;;;;;;;;x
-pays_for_artifact_hunt_major_desc;This character is paying one of their councilors to search for artifacts.;;;;;;;;;;x
+pays_for_artifact_hunt_minor_desc;这个角色指派阁员中的一位去搜索一件传说中的宝物。;;;;;;;;;;x
+pays_for_artifact_hunt_medium;为寻宝活动付款;;;;;;;;;;x
+pays_for_artifact_hunt_medium_desc;这个角色指派阁员中的一位去搜索宝物。;;;;;;;;;;x
+pays_for_artifact_hunt_major;为寻宝活动付款;;;;;;;;;;x
+pays_for_artifact_hunt_major_desc;这个角色指派阁员中的一位去搜索宝物。;;;;;;;;;;x
 EVTDESC_MNM_9009_A;[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] came to me with some regrettable news. It seems like the too much has passed since we first uncovered the rumor of the artifact and now the trail has gone cold. There is no hope of finding the lost treasure and the search has been canceled.;;;;;;;;;;x
 EVTDESC_MNM_9009_B;[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] can no longer fulfill [relic_hunter.GetHerHis] duty to search for the rumored artifact. I can select another councilor to replace [relic_hunter.GetHerHim].;;;;;;;;;;x
 EVTDESC_MNM_9029;[Root.Religion.GetRandomEvilGodNameCap] must have cast a curse on me and my venture to recover the lost artifact, for I was just brought the most dreadful news! [relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] died in an unexplainable accident while searching for the artifact.;;;;;;;;;;x
@@ -2210,7 +2214,7 @@ MTTH_MULTIPLE_CONDITIONS_TRUE;All of these must be true;;;;;;;;;;x
 SOCIETY_PLAYER_IS_MEMBER;你是$SOCIETY|Y$的成员;;;;;;;;;;x
 SOCIETY_SHOW_INTEREST_COOLDOWN;§R$NAME$直至$DATE$§!不能对社团感兴趣;;;;;;;;;;x
 SOCIETY_JOIN_COOLDOWN;§R$NAME$直至$DATE$之前不能加入社团§!;;;;;;;;;;x
-SHOW_INTEREST;对$SOCIETY|Y$感兴趣;;;;;;;;;;x
+SHOW_INTEREST;展露加入$SOCIETY|Y$的兴趣;;;;;;;;;;x
 ALREADY_IN_A_SOCIETY;§RAlready a Member of a different Society§!;;;;;;;;;;x
 SOCIETY_RANK_UP;提升位阶到$RANK|Y$\n;;;;;;;;;;x
 NO_ORDER;$NAME|Y$没有命令;;;;;;;;;;x
@@ -2396,13 +2400,13 @@ secret_religious_society_zoroastrian_desc;Believing themselves to be the protect
 secret_religious_society_norse_pagan_reformed;the Oathkeepers;;;;;;;;;;x
 secret_religious_society_norse_pagan_reformed_desc;Knowing of the inevitable coming of Ragnarok, as foretold in their saga scriptures, Norse believers will work even in secret to prepare the world for the snowy hell of the Fimbulvetr and the great battles of all-consuming fire it presages. Practicing their secret rituals in the name of the Allfather, they will accept any kind of warrior who can stand with them in the struggle against the chaos and desolation that other faiths seem intent on bringing upon the world.;;;;;;;;;;x
 secret_religious_society_slavic_pagan_reformed;Perun's True;;;;;;;;;;x
-secret_religious_society_slavic_pagan_reformed_desc;Their identities marked by hidden axe amulets illustrating their devotion to Perun, underground Slavic curates pray in wild storms, their voices consumed by the thunder. In time they know that those who hunt them will be as powerless against the coming of Perun as the oak is against the lightning.;;;;;;;;;;x
+secret_religious_society_slavic_pagan_reformed_desc;地下斯拉夫信徒在狂风暴雨中祈祷，雷声掩盖了他的祷告，暗藏的斧头护身符标志了他们的身份，表明了他们对雷神佩龙的忠诚。此时他们坚信追杀他们的人将会像橡树难敌雷电一样，无力的抵抗即将到来的雷神佩龙之怒火。;;;;;;;;;;x
 secret_religious_society_baltic_pagan_reformed;the Children of Dievas;;;;;;;;;;x
 secret_religious_society_baltic_pagan_reformed_desc;As children of Dievas, the hidden followers of the Baltic faith know that everything is connected through the divine spirit, even those who oppress them. So it is that they continue their work unabated, spreading the words of the High Priest even among those who are at first unwilling to listen. Through the divine commonality of Perkunas, Saule or Daugava, they believe anyone can find a home with them.;;;;;;;;;;x
 secret_religious_society_tengri_pagan_reformed;the Riders of the Blue Sky;;;;;;;;;;x
 secret_religious_society_tengri_pagan_reformed_desc;No matter how far you travel, and no matter what unbelievers say, you are always under the Heavenly Father, and standing upon the Earth Mother. This is how the followers of Tengri can be so certain in their faith that they follow it even in the face of persecution. All they have to do to prove their faith is to lift their eyes towards Tengri of the Blue Sky above, feel the protection nature provides, and let their Wind Horses ride in prayer to a better place.;;;;;;;;;;x
 secret_religious_society_finnish_pagan_reformed;the Speakers of Ukko;;;;;;;;;;x
-secret_religious_society_finnish_pagan_reformed_desc;Even under the rule of another religion, the Suomenusko faith lives strong in some people. Communing with nature, they find their gods in the quiet places of the world. Among the trees, the brooks and the light of the moon, where they worship their divine kings in secret. But silence does not last forever, and it will soon be shattered by the storming in of Ukko on his chariot of thunder, his bolts of lightning striking the faithless to ash.;;;;;;;;;;x
+secret_religious_society_finnish_pagan_reformed_desc;尽管在其他宗教准则之下，索米多神教信仰的信念仍顽强地存于部分人心中。他们于世间万籁俱寂之处同自然沟通，寻觅真主。他们在月光皎洁、树影斑驳、溪流淙淙之地秘密的崇拜他们的圣主。这种宁静并不能长久，它很快将被乘着闪电战车的雷神乌戈所打破。雷神会用雷霆把不信者化为齑粉。;;;;;;;;;;x
 secret_religious_society_west_african_pagan_reformed;the Spirit Keepers;;;;;;;;;;x
 secret_religious_society_west_african_pagan_reformed_desc;As preachers proselytize, there are those who play their part, but in secret turn to the forces around them. No other gods have shown them the small miracles of the world, or the sheer divinity of life and existence. They tell each other stories of how faith does not reside in some otherworldly realm, but in the trees around them, the rocks by their feet, and the waters they drink of.;;;;;;;;;;x
 secret_religious_society_zun_pagan_reformed;Zun's Living Fire;;;;;;;;;;x
@@ -3492,7 +3496,7 @@ LOCAL_BUILD_TIME_CASTLE_MODIFIER;Local Feudal build time modifier;;;;;;;;;;x
 LOCAL_BUILD_TIME_TEMPLE_MODIFIER;Local Temple build time modifier;;;;;;;;;;x
 LOCAL_BUILD_TIME_TRIBAL_MODIFIER;Local Tribal build time modifier;;;;;;;;;;x
 ANY_ARTIFACT_STARTS;任意拥有的宝物;;;;;;;;;;x
-NOT_ANY_ARTIFACT_STARTS;No artifact owned;;;;;;;;;;x
+NOT_ANY_ARTIFACT_STARTS;没有拥有宝物;;;;;;;;;;x
 ARTIFACT_TYPE_TRIGGER;Is $TYPE|Y$;;;;;;;;;;x
 ARTIFACT_TYPE_TRIGGER_NOT;Is §RNOT§! $TYPE|Y$;;;;;;;;;;x
 ARTIFACT_SAME_TYPE_TRIGGER;Is the same as $TARGET|Y$;;;;;;;;;;x
@@ -3603,9 +3607,9 @@ EVTDESC_MNM_9606;A proud [relic_hunter.GetTitledFirstName] enters your throne ro
 EVTNAME_MNM_9607;The Yada Tashy;;;;;;;;;;x
 EVTDESC_MNM_9607;Paired with a brief, but heavy downpour, a drenched [relic_hunter.GetTitledFirstName] returns from [relic_hunter.GetHerHis] lengthy travels. Once in your presence, [relic_hunter.GetSheHe] produces a small box, and opens it to reveal a beautiful, strange stone. With a broad smile [relic_hunter.GetSheHe] hands it to you. 'This... This stone is the Rain Stone... The Yada Tashy. It must be! Rain has followed our every step...'\n\nYou hold the stone in your hand, and ponder the earlier downpour's sudden onset. It makes sense! And with this stone, your lands' crops are all but assured to grow well. Other than the obvious benefit in food production, this should also make you more popular among your subjects.\n\nThe [relic_hunter.GetManWoman] who made it possible smiles at your elation, waiting patiently...;;;;;;;;;;x
 EVTDESC_MNM_7801;The time has come to end my wedlock with [dark_divorce_target.GetFirstName]: if not before [dark_divorce_spell_caster.Religion.GetHighGodName], then before [dark_divorce_spell_caster.GetDWDevil]! Secluding myself, I pray and chant within the confines of the symbols I prepared on the floor. Holding a lock of [dark_divorce_target.GetFirstName]'s hair in my hand, only a few more spoken lines are needed to complete the ritual...;;;;;;;;;;x
-opinion_found_minor_artifact;Found Minor Artifact;;;;;;;;;;x
-opinion_found_medium_artifact;Found Medium Artifact;;;;;;;;;;x
-opinion_found_major_artifact;Found Major Artifact;;;;;;;;;;x
+opinion_found_minor_artifact;找到小宝物;;;;;;;;;;x
+opinion_found_medium_artifact;找到中宝物;;;;;;;;;;x
+opinion_found_major_artifact;找到大宝物;;;;;;;;;;x
 opinion_extremely_disappointed;Extremely Disappointed;;;;;;;;;;x
 opinion_was_rewarded;Received Reward;;;;;;;;;;x
 EVTNAME_MNM_9804;圣彼得的遗骨;;;;;;;;;;x
@@ -3816,9 +3820,9 @@ focused_on_monastic_studies;Focused on Monastic Studies;;;;;;;;;;x
 focused_on_monastic_studies_desc;This character has focused hard on his monastic studies, while spending time visiting [From.GetHerHis] monastic order.;;;;;;;;;;x
 EVTDESC_MNM_4443;Though we had a good time, it doesn't seem that [monastic_friend.GetSocietyRank] [monastic_friend.GetFirstName] was too enamored with the activity I suggested... It's doubtful the seeds of our friendship will grow any further, after all.;;;;;;;;;;x
 EVTOPTA_MNM_4443;That's too bad...;;;;;;;;;;x
-stole_artifact;Stole Artifact;;;;;;;;;;x
+stole_artifact;宝物被盗;;;;;;;;;;x
 stole_artifact_penance;Punished for Stealing;;;;;;;;;;x
-paid_for_celebration_artifact;Celebrated Artifact;;;;;;;;;;x
+paid_for_celebration_artifact;宝物庆典;;;;;;;;;;x
 caught_red_handed;Caught Red-Handed;;;;;;;;;;x
 caught_red_handed_desc;This character was caught attempting a theft. [GetSheHeCap] does not seem to be as sneaky as [GetSheHe] thinks [GetSheHe] is.;;;;;;;;;;x
 caught_stealing_artifact_penance;Doing Penance;;;;;;;;;;x
@@ -3902,7 +3906,7 @@ SOCIETY_HEIR_PORTRAIT_EMPTY;You cannot see the §YHeir§! of Secret Societies un
 SOCIETY_PLAYER_PORTRAIT_EMPTY;You are not a member of this Society.;;;;;;;;;;x
 SOCIETY_PLAYER_TITLE_EMPTY;You have no rank in this Society.;;;;;;;;;;x
 SHOW_INTEREST_DESC;By carefully showing subtle interest in joining this Society you will hopefully be discretely contacted by a member of $SOCIETY|Y$.;;;;;;;;;;x
-STOP_SHOWING_INTEREST;对加入$SOCIETY|Y$感兴趣;;;;;;;;;;x
+STOP_SHOWING_INTEREST;展露出对加入$SOCIETY|Y$的兴趣;;;;;;;;;;x
 STOP_SHOWING_INTEREST_DESC;By refusing to respond to the secret signs flashed at you by shadowy strangers you can make it clear you no longer have any interest in joining $SOCIETY|Y$.;;;;;;;;;;x
 the_assassins_leader_desc;刺客大师;;;;;;;;;;x
 the_satanists_leader_desc;The High Priest of Lucifer's own.;;;;;;;;;;x
@@ -3921,58 +3925,58 @@ String_jotnar;Jotnar;;;;;;;;;;x
 String_Catholics;Catholics;;;;;;;;;;x
 String_Christians;Christians;;;;;;;;;;x
 String_Sunnis;Sunnis;;;;;;;;;;x
-String_Shias;Shias;;;;;;;;;;x
-String_Jews;Jews;;;;;;;;;;x
-String_Zoroastrians;Zoroastrians;;;;;;;;;;x
-String_Hindus;Hindus;;;;;;;;;;x
-String_Buddhists;Buddhists;;;;;;;;;;x
-String_Jains;Jains;;;;;;;;;;x
-String_pagans;Pagans;;;;;;;;;;x
-String_Muslims;Muslims;;;;;;;;;;x
-String_As_salam_alaykum;As-salam alaykum;;;;;;;;;;x
-String_Shalom_aleikhem;Shalom aleikhem;;;;;;;;;;x
-String_Hamazor_hama_asho_bed;Hamazor hama asho-bed;;;;;;;;;;x
-String_Allfathers_strength;Allfather's strength;;;;;;;;;;x
-String_Svarogs_blessings;Svarog's blessings;;;;;;;;;;x
-String_Ancestors_blessings;Ancestor's blessings;;;;;;;;;;x
-String_Dievas_blessings;Dievas' blessings;;;;;;;;;;x
-String_Ukkos_blessings;Ukko's blessings;;;;;;;;;;x
-String_Zuns_blessings;Zun's blessings;;;;;;;;;;x
-String_May_Allah_guide_you;May Allah guide you;;;;;;;;;;x
-String_May_Yehovah_guide_you;May Yehovah guide you;;;;;;;;;;x
-String_Humata_Hukta_Huvarashta;Humata, Hukhta, Huvarshta;;;;;;;;;;x
-String_May_the_Ancestors_guide_you;May the Ancestors guide you;;;;;;;;;;x
-String_May_Zun_illuminate_your_path;May Zun illuminate your path;;;;;;;;;;x
-String_May_the_Gods_protect_you;May the Gods protect you;;;;;;;;;;x
-String_Jewish;Jewish;;;;;;;;;;x
-String_Orthodox;Orthodox;;;;;;;;;;x
-String_Sunni;Sunni;;;;;;;;;;x
-String_Shia;Shia;;;;;;;;;;x
-String_Zoroastrian;Zoroastrian;;;;;;;;;;x
-String_Norse;Norse;;;;;;;;;;x
-String_Slavic;Slavic;;;;;;;;;;x
-String_Tengri;Tengri;;;;;;;;;;x
-String_Romuva;Romuva;;;;;;;;;;x
-String_Suomenusko;Suomenusko;;;;;;;;;;x
-String_West_African;West African;;;;;;;;;;x
-String_Zun;Zun;;;;;;;;;;x
-String_Bible;Bible;;;;;;;;;;x
-String_Koran;Koran;;;;;;;;;;x
-String_Torah;Torah;;;;;;;;;;x
-String_Gathas;Gathas;;;;;;;;;;x
-String_Mahabharata;Mahabharata;;;;;;;;;;x
+String_Shias;什叶派信徒;;;;;;;;;;x
+String_Jews;犹太人;;;;;;;;;;x
+String_Zoroastrians;祆教徒;;;;;;;;;;x
+String_Hindus;印度教徒;;;;;;;;;;x
+String_Buddhists;佛教徒;;;;;;;;;;x
+String_Jains;耆那教徒;;;;;;;;;;x
+String_pagans;原生宗教;;;;;;;;;;x
+String_Muslims;穆斯林;;;;;;;;;;x
+String_As_salam_alaykum;祝你平安;;;;;;;;;;x
+String_Shalom_aleikhem;祝你平安;;;;;;;;;;x
+String_Hamazor_hama_asho_bed;祝你平安;;;;;;;;;;x
+String_Allfathers_strength;奥丁之力;;;;;;;;;;x
+String_Svarogs_blessings;神的祝福;;;;;;;;;;x
+String_Ancestors_blessings;先祖保佑;;;;;;;;;;x
+String_Dievas_blessings;神的祝福;;;;;;;;;;x
+String_Ukkos_blessings;雷神乌克的祝福;;;;;;;;;;x
+String_Zuns_blessings;尊神的祝福;;;;;;;;;;x
+String_May_Allah_guide_you;愿真主指引你;;;;;;;;;;x
+String_May_Yehovah_guide_you;愿上帝指引你;;;;;;;;;;x
+String_Humata_Hukta_Huvarashta;善思，善言，善行;;;;;;;;;;x
+String_May_the_Ancestors_guide_you;先祖将指引你;;;;;;;;;;x
+String_May_Zun_illuminate_your_path;愿尊神指引你;;;;;;;;;;x
+String_May_the_Gods_protect_you;愿上帝保护你;;;;;;;;;;x
+String_Jewish;犹太教;;;;;;;;;;x
+String_Orthodox;东正教;;;;;;;;;;x
+String_Sunni;逊尼派;;;;;;;;;;x
+String_Shia;什叶派;;;;;;;;;;x
+String_Zoroastrian;祆教;;;;;;;;;;x
+String_Norse;诺斯信仰;;;;;;;;;;x
+String_Slavic;斯拉夫多神教;;;;;;;;;;x
+String_Tengri;长生天信仰;;;;;;;;;;x
+String_Romuva;洛姆瓦信仰;;;;;;;;;;x
+String_Suomenusko;索米多神教;;;;;;;;;;x
+String_West_African;西非;;;;;;;;;;x
+String_Zun;尊日多神教;;;;;;;;;;x
+String_Bible;圣经;;;;;;;;;;x
+String_Koran;古兰经;;;;;;;;;;x
+String_Torah;律法书;;;;;;;;;;x
+String_Gathas;伽萨圣歌;;;;;;;;;;x
+String_Mahabharata;摩诃婆罗多;;;;;;;;;;x
 String_Buddhacavana;Buddhacavana;;;;;;;;;;x
-String_Sagas;Sagas;;;;;;;;;;x
-String_Legends;Legends;;;;;;;;;;x
-String_Queen;Queen;;;;;;;;;;x
-String_sword;sword;;;;;;;;;;x
-String_scimitar;scimitar;;;;;;;;;;x
-String_lance;lance;;;;;;;;;;x
+String_Sagas;萨迦史诗;;;;;;;;;;x
+String_Legends;传说;;;;;;;;;;x
+String_Queen;女王;;;;;;;;;;x
+String_sword;剑;;;;;;;;;;x
+String_scimitar;弯刀;;;;;;;;;;x
+String_lance;枪;;;;;;;;;;x
 String_axe;斧子;;;;;;;;;;x
-String_mace;mace;;;;;;;;;;x
+String_mace;钉锤;;;;;;;;;;x
 String_bow;弓;;;;;;;;;;x
-String_Mistress;Mistress;;;;;;;;;;x
-String_Master;Master;;;;;;;;;;x
+String_Mistress;情人;;;;;;;;;;x
+String_Master;首领;;;;;;;;;;x
 String_King;King;;;;;;;;;;x
 String_saint;saint;;;;;;;;;;x
 String_famous_holy_man;famous holy man;;;;;;;;;;x
@@ -4177,7 +4181,7 @@ AIREASON_PRESTIGIOUS;§Y[GetTitledFirstName]§! is Prestigious;;;;;;;;;;x
 devil_worshipers_demonic_possession_power_desc;Enables §Gright-clicking§! the portraits of your vassals, courtiers, and rivals, in an attempt to possess them with a fanatically loyal demon...;;;;;;;;;;x
 EVTDESC66110;My [GetFromRelation], [From.GetTitledFirstNameNoRegnal], keeps asking me to press [From.GetPossPronoun] claim on [claimant_claim.GetName] for the glory of our dynasty.;;;;;;;;;;x
 hermetics;炼金协会;;;;;;;;;;x
-hermetics_desc;Hermetics believe that there are deeply hidden secrets about this world that only the worthy can uncover. As a member of the Hermetics you will seek the truth in the stars and planets, through diligent experimentation, and by careful interpretation of ancient texts and symbols.;;;;;;;;;;x
+hermetics_desc;炼金协会相信这个世界上有无穷无尽的值得去探索的真理，作为炼金协会的成员，你将通过不断的试验，破解古文，研读神秘的符号去寻找蕴藏在星空和大地之中的真理。;;;;;;;;;;x
 start_constructing_laboratory_tooltip;[Root.GetFullName] starts the construction of a Laboratory.;;;;;;;;;;x
 currency_name_hermetics;Esoteric Knowledge;;;;;;;;;;x
 build_laboratory;Construct Laboratory;;;;;;;;;;x
@@ -4245,12 +4249,12 @@ EVTOPTA_MNM_1112;Time to get to work!;;;;;;;;;;x
 best_laboratory;Famous Laboratory;;;;;;;;;;x
 best_laboratory_desc;Equal parts brilliance, deep pockets and rigorous discipline has allowed this character to build a palace of the alchemical arts. This laboratory is not only large in size it is pioneering a number of new techniques to manipulate and combine the many substances of the world.;;;;;;;;;;x
 quest_hermetics_build_laboratory;Build a Laboratory;;;;;;;;;;x
-quest_hermetics_build_laboratory_desc;You must construct a laboratory in which your experiments to uncover the hidden secrets of the universe can be undertaken.;;;;;;;;;;x
+quest_hermetics_build_laboratory_desc;你必须建造一个实验室。通过这个实验室，你可以去探索蕴藏在星空之中的奥秘。;;;;;;;;;;x
 quest_hermetics_build_laboratory_tooltip;To complete this mission, activate the decision §Y'Construct Laboratory'§! in the Intrigue menu and successfully complete the construction of a Laboratory.;;;;;;;;;;x
 EVTDESC_MNM_1121;To [Root.GetSocietyRank] [Root.GetFirstName],\n\nIt has come to my attention that you still lack a proper office of Alchemy! How can you hope to uncover the secrets of [Root.GetHermesThriceBlessed], without the proper tools or staff? You should build one or your work will fade into obscurity.\n\nAs above, so below.\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1121_apprentice;To [Root.GetSocietyRank] [Root.GetFirstName],\n\nMaster, I feel we are both held back by the lack of a proper office of Alchemy. If we are to uncover the secrets of [Root.GetHermesThriceBlessed], we will need the proper tools and work space. Unless you build a laboratory or our work here will fade into obscurity.\n\nAs above, so below.\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1122_normal;With a laboratory of my own I can proceed to perform greater works than ever before. How I ever got by without a dedicated workspace and the right tools I will never understand. The secrets of [Root.GetHermesThriceBlessed], shall be mine!;;;;;;;;;;x
-EVTDESC_MNM_1122_rich;My new laboratory is the envy of both those that now live and all that came before me. I dare say even [Root.GetHermesThriceBlessed], himself would be impressed by the setup I now employ to uncover the hidden secrets of matter and spirit.;;;;;;;;;;x
+EVTDESC_MNM_1122_rich;我的新实验室折服了我身边所有的人，我打赌就算是[Root.GetHermesThriceBlessed]都会被这个实验室所打动。现在，我可以利用这个实验室去探索物质和精神的奥秘了。;;;;;;;;;;x
 EVTOPTA_MNM_1122;My work has just begun.;;;;;;;;;;x
 String_hermes_trismegistus;Hermes, the Thrice Blessed;;;;;;;;;;x
 String_idris;Idris, the Interpreter;;;;;;;;;;x
@@ -4995,8 +4999,8 @@ secret_norse_pagan_reformed_community;Secret Germanic Community;;;;;;;;;;x
 secret_norse_pagan_reformed_community_desc;In secret, Germanic faithfuls have organized themselves as a community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
 secret_baltic_pagan_reformed_community;Secret Romuva Community;;;;;;;;;;x
 secret_baltic_pagan_reformed_community_desc;In secret, Romuva faithfuls have organized themselves as a community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
-secret_finnish_pagan_reformed_community;Secret Suomenusko Community;;;;;;;;;;x
-secret_finnish_pagan_reformed_community_desc;In secret, Suomenusko faithfuls have organized themselves as a community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
+secret_finnish_pagan_reformed_community;秘密索米多神教社团;;;;;;;;;;x
+secret_finnish_pagan_reformed_community_desc;索米多神教信徒在这个省份秘密地组织了教团，在那里，他们传播福音、扩展势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 secret_slavic_pagan_reformed_community;Secret Slavic Community;;;;;;;;;;x
 secret_slavic_pagan_reformed_community_desc;In secret, Slavic faithfuls have organized themselves as a community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
 secret_tengri_pagan_reformed_community;Secret Tengri Community;;;;;;;;;;x
@@ -5841,26 +5845,26 @@ DW_demonic_impregnation_power_desc;Enables §Gright-clicking§! the portrait of 
 String_Orthodox_Christian;Orthodox Christian;;;;;;;;;;x
 String_Jew;Jew;;;;;;;;;;x
 String_Norse_Follower;Norse follower;;;;;;;;;;x
-String_Suomenusko_Follower;Suomenusko follower;;;;;;;;;;x
+String_Suomenusko_Follower;索米多神教信众;;;;;;;;;;x
 String_Zunist;Zunist;;;;;;;;;;x
 assassins_drug_effect_power_desc;Enables the decision to take hashish from §YThe Assassins§! in exchange for §Y[Root.Society.GetCurrency]§!, in order to receive helpful visions. This may negatively impact your health.;;;;;;;;;;x
 hermetics_leader_desc;The First-Among-Equals of the Hermetic Society, possession an understanding of the world that others can only aspire to.;;;;;;;;;;x
-secret_religious_society_catholic_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_orthodox_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_sunni_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_shiite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_jewish_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_zoroastrian_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_hindu_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_buddhist_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_jain_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_norse_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_slavic_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_tengri_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_baltic_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_finnish_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_west_african_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_zun_pagan_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
+secret_religious_society_catholic_leader_desc;在大主教的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_orthodox_leader_desc;在牧首的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_sunni_leader_desc;在阿訇的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_shiite_leader_desc;在伊玛目的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_jewish_leader_desc;在毛拉的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_zoroastrian_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_hindu_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_buddhist_leader_desc;在方丈的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_jain_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_norse_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_slavic_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_tengri_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_baltic_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_finnish_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_west_african_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_zun_pagan_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
 EVTOPTA_WOL_10116;[steward.GetBestName] is only acting in accordance to [steward.GetHerHis] religion.;;;;;;;;;;x
 recruit_delay_timer_tooltip;Has waited three months since previous recruitment\n;;;;;;;;;;x
 hermetics_write_theory_paper_power_desc;Enables the decision to write a theorem paper and have it be reviewed by fellow members of the Hermetics. If it is accepted, you gain §Y[From.Society.GetCurrency]§!.\n;;;;;;;;;;x
@@ -5997,100 +6001,100 @@ capital_empire;帝国首都;;;;;;;;;;x
 outside_capital_empire;Outside Capital Regions;;;;;;;;;;x
 EQUIP;Equip;;;;;;;;;;x
 UNEQUIP;Unequip;;;;;;;;;;x
-EQUIP_DESC;Some artifacts need to be equipped in order to provide their bonuses.;;;;;;;;;;x
+EQUIP_DESC;一些宝物需要装备才能提供他们的加成。;;;;;;;;;;x
 EQUIPPED;Equipped;;;;;;;;;;x
 NOT_EQUIPPED;Not Equipped;;;;;;;;;;x
 weapon;武器;;;;;;;;;;x
 ceremonial_weapon;仪杖武器;;;;;;;;;;x
 scepter;Scepter;;;;;;;;;;x
-crown;Crown;;;;;;;;;;x
-wrist;Wrist;;;;;;;;;;x
-neck;Neck;;;;;;;;;;x
-torso;Torso;;;;;;;;;;x
-CANT_EQUIP_NO_ROOM;§RCan't Equip: No more room in the $SLOT|Y$§R slot!§!;;;;;;;;;;x
-CANT_EQUIP_INACTIVE;§RCan't Equip: Artifact is Inactive§!;;;;;;;;;;x
+crown;冠冕;;;;;;;;;;x
+wrist;腕;;;;;;;;;;x
+neck;脖子;;;;;;;;;;x
+torso;胴体;;;;;;;;;;x
+CANT_EQUIP_NO_ROOM;§R无法装备：在 $SLOT|Y$§R 上没有更多空槽！§!;;;;;;;;;;x
+CANT_EQUIP_INACTIVE;§R无法装备：宝物不是可装备的状态§!;;;;;;;;;;x
 REL_ACQUAINTANCE_MALE;相识;;;;;;;;;;x
 REL_ACQUAINTANCE_FEMALE;相识;;;;;;;;;;x
 REL_GUARDIAN_MALE;监护人;;;;;;;;;;x
 REL_GUARDIAN_FEMALE;监护人;;;;;;;;;;x
-REL_WARD_MALE;ward;;;;;;;;;;x
-REL_WARD_FEMALE;ward;;;;;;;;;;x
+REL_WARD_MALE;病房;;;;;;;;;;x
+REL_WARD_FEMALE;病房;;;;;;;;;;x
 REL_LIEGE_MALE;领主;;;;;;;;;;x
 REL_LIEGE_FEMALE;领主;;;;;;;;;;x
 REL_VASSAL_MALE;封臣;;;;;;;;;;x
 REL_VASSAL_FEMALE;封臣;;;;;;;;;;x
-REL_CAPTOR_MALE;captor;;;;;;;;;;x
-REL_CAPTOR_FEMALE;captor;;;;;;;;;;x
+REL_CAPTOR_MALE;捕手;;;;;;;;;;x
+REL_CAPTOR_FEMALE;捕手;;;;;;;;;;x
 on_indian_pilgrimage;朝圣中;;;;;;;;;;x
-on_indian_pilgrimage_desc;The character is currently away on a great pilgrimage.;;;;;;;;;;x
+on_indian_pilgrimage_desc;这名角色正在朝圣的途中。;;;;;;;;;;x
 secret_religious_society_norse_pagan_desc;Knowing of the inevitable coming of Ragnarok, as foretold in their saga scriptures, Norse believers will work even in secret to prepare the world for the snowy hell of the Fimbulvetr and the great battles of all-consuming fire it presages. Practicing their secret rituals in the name of the Allfather, they will accept any kind of warrior who can stand with them in the struggle against the chaos and desolation that other faiths seem intent on bringing upon the world.;;;;;;;;;;x
 secret_religious_society_baltic_pagan_desc;As children of Dievas, the hidden followers of the Baltic faith know that everything is connected through the divine spirit, even those who oppress them. So it is that they continue their work unabated, spreading the words of the High Priest even among those who are at first unwilling to listen. Through the divine commonality of Perkunas, Saule or Daugava, they believe anyone can find a home with them.;;;;;;;;;;x
-secret_religious_society_finnish_pagan_desc;Even under the rule of another religion, the Suomenusko faith lives strong in some people. Communing with nature, they find their gods in the quiet places of the world. Among the trees, the brooks and the light of the moon, where they worship their divine kings in secret. But silence does not last forever, and it will soon be shattered by the storming in of Ukko on his chariot of thunder, his bolts of lightning striking the faithless to ash.;;;;;;;;;;x
-secret_religious_society_slavic_pagan_desc;Their identities marked by hidden axe amulets illustrating their devotion to Perun, underground Slavic curates pray in wild storms, their voices consumed by the thunder. In time they know that those who hunt them will be as powerless against the coming of Perun as the oak is against the lightning.;;;;;;;;;;x
+secret_religious_society_finnish_pagan_desc;尽管在其他宗教准则之下，索米多神教信仰的信念仍顽强地存于部分人心中。他们于世间万籁俱寂之处同自然沟通，寻觅真主。他们在月光皎洁、树影斑驳、溪流淙淙之地秘密的崇拜他们的圣主。这种宁静并不能长久，它很快将被乘着闪电战车的雷神乌戈所打破。雷神会用雷霆把不信者化为齑粉。;;;;;;;;;;x
+secret_religious_society_slavic_pagan_desc;地下斯拉夫信徒在狂风暴雨中祈祷，雷声掩盖了他的祷告，暗藏的斧头护身符标志了他们的身份，表明了他们对雷神佩龙的忠诚。此时他们坚信追杀他们的人将会像橡树难敌雷电一样，无力的抵抗即将到来的雷神佩龙之怒火。;;;;;;;;;;x
 secret_religious_society_tengri_pagan_desc;No matter how far you travel, and no matter what unbelievers say, you are always under the Heavenly Father, and standing upon the Earth Mother. This is how the followers of Tengri can be so certain in their faith that they follow it even in the face of persecution. All they have to do to prove their faith is to lift their eyes towards Tengri of the Blue Sky above, feel the protection nature provides, and let their Wind Horses ride in prayer to a better place.;;;;;;;;;;x
 secret_religious_society_west_african_pagan_desc;As preachers proselytize, there are those who play their part, but in secret turn to the forces around them. No other gods have shown them the small miracles of the world, or the sheer divinity of life and existence. They tell each other stories of how faith does not reside in some otherworldly realm, but in the trees around them, the rocks by their feet, and the waters they drink of.;;;;;;;;;;x
 secret_religious_society_zun_pagan_desc;The secret followers of Zun have little need for foreign faiths. The answer to every theological challenge and every moment of doubt is right in the sky above them, every day, without fail. It is what brings life and hope, deserving of every prostration. Just as Zun never fails to bring warmth to the earth and drive the night away, his followers will rise on the other side of their own long night.;;;;;;;;;;x
-secret_religious_society_aztec_currency;Devotion;;;;;;;;;;x
-secret_religious_society_aztec_reformed_currency;Devotion;;;;;;;;;;x
-secret_religious_society_baltic_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_bogomilist_currency;Devotion;;;;;;;;;;x
-secret_religious_society_cathar_currency;Devotion;;;;;;;;;;x
-secret_religious_society_druze_currency;Devotion;;;;;;;;;;x
-secret_religious_society_finnish_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_fraticelli_currency;Devotion;;;;;;;;;;x
-secret_religious_society_hurufi_currency;Devotion;;;;;;;;;;x
-secret_religious_society_ibadi_currency;Devotion;;;;;;;;;;x
-secret_religious_society_iconoclast_currency;Devotion;;;;;;;;;;x
-secret_religious_society_karaite_currency;Devotion;;;;;;;;;;x
-secret_religious_society_kharijite_currency;Devotion;;;;;;;;;;x
-secret_religious_society_lollard_currency;Devotion;;;;;;;;;;x
-secret_religious_society_manichean_currency;Devotion;;;;;;;;;;x
-secret_religious_society_mazdaki_currency;Devotion;;;;;;;;;;x
-secret_religious_society_messalian_currency;Devotion;;;;;;;;;;x
-secret_religious_society_miaphysite_currency;Devotion;;;;;;;;;;x
-secret_religious_society_monophysite_currency;Devotion;;;;;;;;;;x
-secret_religious_society_monothelite_currency;Devotion;;;;;;;;;;x
-secret_religious_society_nestorian_currency;Devotion;;;;;;;;;;x
-secret_religious_society_norse_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_paulician_currency;Devotion;;;;;;;;;;x
-secret_religious_society_samaritan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_slavic_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_tengri_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_waldensian_currency;Devotion;;;;;;;;;;x
-secret_religious_society_west_african_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_yazidi_currency;Devotion;;;;;;;;;;x
-secret_religious_society_zikri_currency;Devotion;;;;;;;;;;x
-secret_religious_society_zun_pagan_currency;Devotion;;;;;;;;;;x
-secret_religious_society_aztec_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_aztec_reformed_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_baltic_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_bogomilist_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_cathar_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_druze_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_finnish_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_fraticelli_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_hurufi_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_ibadi_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_iconoclast_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_karaite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_kharijite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_lollard_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_manichean_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_mazdaki_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_messalian_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_miaphysite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_monophysite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_monothelite_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_nestorian_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_norse_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_paulician_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_samaritan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_slavic_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_tengri_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_waldensian_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_west_african_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_yazidi_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_zikri_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
-secret_religious_society_zun_pagan_leader_desc;The High Priest, leading the international effort of bringing more people into the fold.;;;;;;;;;;x
+secret_religious_society_aztec_currency;奉献;;;;;;;;;;x
+secret_religious_society_aztec_reformed_currency;奉献;;;;;;;;;;x
+secret_religious_society_baltic_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_bogomilist_currency;奉献;;;;;;;;;;x
+secret_religious_society_cathar_currency;奉献;;;;;;;;;;x
+secret_religious_society_druze_currency;奉献;;;;;;;;;;x
+secret_religious_society_finnish_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_fraticelli_currency;奉献;;;;;;;;;;x
+secret_religious_society_hurufi_currency;奉献;;;;;;;;;;x
+secret_religious_society_ibadi_currency;奉献;;;;;;;;;;x
+secret_religious_society_iconoclast_currency;奉献;;;;;;;;;;x
+secret_religious_society_karaite_currency;奉献;;;;;;;;;;x
+secret_religious_society_kharijite_currency;奉献;;;;;;;;;;x
+secret_religious_society_lollard_currency;奉献;;;;;;;;;;x
+secret_religious_society_manichean_currency;奉献;;;;;;;;;;x
+secret_religious_society_mazdaki_currency;奉献;;;;;;;;;;x
+secret_religious_society_messalian_currency;奉献;;;;;;;;;;x
+secret_religious_society_miaphysite_currency;奉献;;;;;;;;;;x
+secret_religious_society_monophysite_currency;奉献;;;;;;;;;;x
+secret_religious_society_monothelite_currency;奉献;;;;;;;;;;x
+secret_religious_society_nestorian_currency;奉献;;;;;;;;;;x
+secret_religious_society_norse_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_paulician_currency;奉献;;;;;;;;;;x
+secret_religious_society_samaritan_currency;奉献;;;;;;;;;;x
+secret_religious_society_slavic_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_tengri_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_waldensian_currency;奉献;;;;;;;;;;x
+secret_religious_society_west_african_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_yazidi_currency;奉献;;;;;;;;;;x
+secret_religious_society_zikri_currency;奉献;;;;;;;;;;x
+secret_religious_society_zun_pagan_currency;奉献;;;;;;;;;;x
+secret_religious_society_aztec_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_aztec_reformed_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_baltic_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_bogomilist_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_cathar_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_druze_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_finnish_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_fraticelli_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_hurufi_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_ibadi_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_iconoclast_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_karaite_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_kharijite_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_lollard_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_manichean_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_mazdaki_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_messalian_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_miaphysite_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_monophysite_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_monothelite_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_nestorian_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_norse_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_paulician_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_samaritan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_slavic_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_tengri_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_waldensian_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_west_african_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_yazidi_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_zikri_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
+secret_religious_society_zun_pagan_leader_desc;在大祭司的领导下，各地的秘密组织都努力传播福音，希求更多人加入我们的行列;;;;;;;;;;x
 temple_baron_female_christian;主教;;;;;;;;;;x
-String_spahis;spahis;;;;;;;;;;x
+String_spahis;轻骑兵;;;;;;;;;;x

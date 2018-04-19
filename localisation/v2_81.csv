@@ -20,7 +20,7 @@ you_will_game_over_tt;§R你不能以这个宗教进行游戏，否则会导致�
 is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;没有§Y独眼§!，§Y独臂§!，§Y独腿§!，§Y毁容§!，或§Y血肉模糊§!\n;;;;;;;;;;x
 is_not_maimed_or_infirm_tt;没有§Y残废§!或§Y年老体衰§!\n;;;;;;;;;;x
 is_not_wounded_severely_injured_tt;没有§Y受伤§!或§Y重伤§!\n;;;;;;;;;;x
-EVTTOOLTIP100201;ÊÜ[Root.GetTitledFirstName]ÇëÇó°ïÖú¸Ä½ø½£¼¼;;;;;;;;;;x
+EVTTOOLTIP100201;你向你的朋友寻求帮助以提高剑术技能\n;;;;;;;;;;x
 String_personality_old_and_wistful;花有重开日，人再无少年;;;;;;;;;;x
 String_personality_young_cynics;根本没法和这帮迂腐的老头讨论政治;;;;;;;;;;x
 String_personality_same_society;作为[This.Society.GetName]的一员，我们有许多工作要做;;;;;;;;;;x

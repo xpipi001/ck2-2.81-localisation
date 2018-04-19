@@ -2,7 +2,7 @@
 nick_the_inquisitor;审判者;;;;;;;;;;x
 nick_the_purifier;净化者;;;;;;;;;;x
 String_man_at_arm;重骑兵;;;;;;;;;;x
-String_spahi;土耳其重骑兵;;;;;;;;;;x
+String_spahi;轻骑兵;;;;;;;;;;x
 MNM.6668.d;你最近完全不谨慎地频繁迟到和毫无保密意识地经常公然使用[Root.Society.GetName]的权力使得[Root.Religion.GetPriestTitle]们公开指责你叛教！;;;;;;;;;;x
 opinion_accused_apostate;被指控叛教;;;;;;;;;;x
 accused_apostate;打上叛教者的烙印;;;;;;;;;;x
@@ -423,7 +423,7 @@ String_Hurufi;胡儒非派;;;;;;;;;;x
 String_Ibadi;伊巴底派;;;;;;;;;;x
 String_Kharijite;卡菲勒派;;;;;;;;;;x
 String_Samaritan;撒马利亚派;;;;;;;;;;x
-String_Karaite;卡拉派;;;;;;;;;;x
+String_Karaite;圣经派;;;;;;;;;;x
 String_Mazdaki;马兹达派;;;;;;;;;;x
 String_Manichean;摩尼教;;;;;;;;;;x
 String_Aztec;旧阿兹特克信仰;;;;;;;;;;x
@@ -659,9 +659,9 @@ secret_west_african_pagan_community_desc;西非原始宗教的教徒秘密的在
 secret_zun_pagan_community;秘密尊日多神教社团;;;;;;;;;;x
 secret_zun_pagan_community_desc;私下里，尊日多神教的信徒们在这个省的一个小教堂里组织了起来。在那里改变、成长、保护他们自己。;;;;;;;;;;x
 secret_samaritan_community;秘密撒马利亚派社团;;;;;;;;;;x
-secret_samaritan_community_desc;撒马利亚派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
-secret_karaite_community;秘密卡拉派社区;;;;;;;;;;x
-secret_karaite_community_desc;私下里，卡拉派的信徒们在这个省的一个小教堂里组织了起来。在那里改变、成长、保护他们自己。;;;;;;;;;;x
+secret_samaritan_community_desc;撒马利亚派的教徒秘密的在这个地方建立起一个小的宗教社团来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
+secret_karaite_community;暗中信仰圣经派团体;;;;;;;;;;x
+secret_karaite_community_desc;圣经派的教徒秘密的在这个地方建立起一个小的宗教社团来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_mazdaki_community;马兹达克秘密社团;;;;;;;;;;x
 secret_mazdaki_community_desc;秘密地, 马兹达克派的忠实人士在这个省的一个小教会社区附近组织起来了。再那里传教, 成长和保护他们自己。;;;;;;;;;;x
 secret_manichean_community;秘密的摩尼教社团;;;;;;;;;;x
@@ -812,9 +812,9 @@ secretly_convert_to_baltic_pagan_holy_site;秘密皈依了洛姆瓦;;;;;;;;;;x
 secretly_convert_to_baltic_pagan_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y洛姆瓦§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_baltic_pagan_reformed_holy_site;秘密皈依了洛姆瓦;;;;;;;;;;x
 secretly_convert_to_baltic_pagan_reformed_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y洛姆瓦§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_holy_site;秘密地皈依了瓦洛姆信仰;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_holy_site;秘密地皈依了索米多神教信仰;;;;;;;;;;x
 secretly_convert_to_finnish_pagan_holy_site_desc;§YSuomenusko§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_reformed_holy_site;秘密地皈依了瓦洛姆信仰;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_reformed_holy_site;秘密地皈依了索米多神教信仰;;;;;;;;;;x
 secretly_convert_to_finnish_pagan_reformed_holy_site_desc;§YSuomenusko§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_holy_site;秘密地转变为了西非人;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_holy_site_desc;§YWest African§! 的朝圣者们蜂拥到了 §Y[Root.Location.GetName]§! 的圣地，他们对于信仰的忠诚和热情让我大为感动。 我被怂恿着秘密地皈依了...;;;;;;;;;;x

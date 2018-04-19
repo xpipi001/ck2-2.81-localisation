@@ -22,7 +22,7 @@ severian;塞维利安人;;;;;;;;;;x
 volhynian;沃里尼亚人;;;;;;;;;;x
 d_powys;波伊斯;;;;;;;;;;x
 d_powys_adj;波伊斯;;;;;;;;;;x
-BM_CHARLEMAGNE;查理大帝;;;;;;;;;;x
+BM_CHARLEMAGNE;查理曼;;;;;;;;;;x
 LOMBARD_KINGDOM;伦巴第;;;;;;;;;;x
 LOMBARD_KINGDOM_ADJ;伦巴第;;;;;;;;;;x
 k_lombardy;伦巴第;;;;;;;;;;x
@@ -205,7 +205,7 @@ DIVIDE_VARIABLE;将 §Y$VAR$§! 除以 §Y$VALUE$§!;;;;;;;;;;x
 MODIFIER_DEMESNE_SIZE;直辖数量;;;;;;;;;;x
 MODIFIER_LOCAL_MOVEMENT_SPEED;本地移动速度;;;;;;;;;;x
 LOSES_NICKNAME;不再被称为;;;;;;;;;;x
-LOSTNICKNAME_SETUP;失去绰号;;;;;;;;;;x
+LOSTNICKNAME_SETUP;失去称号;;;;;;;;;;x
 LOSTNICKNAME_LOG;§Y$CHARACTERNAME$§! 不再被称为 $NICKNAME$.;;;;;;;;;;x
 CLIMATE_DESC;气候:§Y$CLIMATE$§!;;;;;;;;;;x
 EVTDESC_CM_1;在外国统治者的影响之下, [Root.GetName] 郡已经发展出了全新的本地文化, 那儿的人民不再认为自己是皮克特人了.;;;;;;;;;;x
@@ -648,7 +648,8 @@ CHRONICLE_PILGRIMAGE_TO_KOLN;[Root.GetTitledName]往科隆,进行了一趟说走
 CHRONICLE_PILGRIMAGE_TO_SANTIAGO;[Root.GetTitledName]往圣地亚哥,进行了一场说走就走的朝圣之旅.;;;;;;;;;;x
 CHRONICLE_WENT_ON_HAJJ;[Root.GetTitledName]前往麦加城朝觐.;;;;;;;;;;x
 CHRONICLE_HELD_BLOT;[Root.GetTitledName]在[Root.Location.GetName]举行了一场盛大的牺牲祭典活动.;;;;;;;;;;x
-CHRONICLE_PLAYER_ACQUIRED_NICKNAME;[Root.GetTitledName],由于他的行为与品质,成为了人们众所周知的[Root.GetTitledFirstNameWithNick].;;;;;;;;;;x
+CHRONICLE_PLAYER_ACQUIRED_NICKNAME;[Root.GetTitledName],由于他的行为与	
+性格,成为了人们众所周知的[Root.GetTitledFirstNameWithNick].;;;;;;;;;;x
 CHRONICLE_HERESY_SPREAD;[From.Religion.GetName] 传播到了这个郡 [From.GetName];;;;;;;;;;x
 CHRONICLE_BECAME_KSHATRIYA;[Root.GetTitledFirstNameWithNick]上升成为了刹帝利种姓,使得[Root.GetHerHis]家族王朝在[Root.Religion.GetName]君主当中,获得了新的威望.;;;;;;;;;;x
 CHRONICLE_CAPTURED_MAJOR_SETTLEMENT_MYSELF; [Root.GetTitledName] 成功地带领着[Root.GetHerHis]军队,从敌人手中夺取了[From.GetName].;;;;;;;;;;x

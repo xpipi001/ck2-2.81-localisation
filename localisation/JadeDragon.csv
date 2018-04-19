@@ -701,14 +701,14 @@ opinion_turned_a_blind_eye;睁一只眼闭一只眼;;;;;;;;;;x
 INDIAN_MUSLIM_KINGDOM;[Root.GetFirstName] [Prev.GetName];;;;;;;;;;x
 nick_the_tiger;老虎;;;;;;;;;;x
 nick_the_world_burner;焚世者;;;;;;;;;;x
-RULE_CHINESE_INVASIONS;§BJade Dragon:§!中华入侵;;;;;;;;;;x
+RULE_CHINESE_INVASIONS;§B玉龙:§!中国入侵;;;;;;;;;;x
 RULE_CHINESE_INVASIONS_ALL_DESC;中国既会发起要求朝贡的战争，也会发动大规模入侵。会出现中国的冒险者。;;;;;;;;;;x
 RULE_OPTION_ADVENTURERS_ONLY;只有冒险家;;;;;;;;;;x
 RULE_ADVENTURERS_ONLY_DESC;中国不会发起朝贡战争或大规模入侵。中国的冒险者会产生。;;;;;;;;;;x
 RULE_OPTION_NO_MAJOR_INVASIONS;没有重大的入侵;;;;;;;;;;x
 RULE_NO_MAJOR_INVASIONS_DESC;中国会发起要求朝贡的战争，但不会发动大规模入侵。会出现中国的冒险者。;;;;;;;;;;x
 RULE_CHINESE_INVASIONS_NONE_DESC;中国不会发起朝贡战争或大规模入侵。中国的冒险者不会产生。;;;;;;;;;;x
-RULE_CHINESE_INTERACTIONS;§BJade Dragon:§!中华交互;;;;;;;;;;x
+RULE_CHINESE_INTERACTIONS;§B玉龙:§!中国外交;;;;;;;;;;x
 RULE_OPTION_WITHIN_RANGE;在范围内;;;;;;;;;;x
 RULE_WITHIN_RANGE_DESC;只有中国的外交距离内的角色可以使用皇恩行为。;;;;;;;;;;x
 RULE_OPTION_ANYONE;任何人;;;;;;;;;;x
@@ -1475,7 +1475,7 @@ b_kunggar;工卡;;;;;;;;;;x
 b_quxu;曲水;;;;;;;;;;x
 b_ramoche;小昭寺;;;;;;;;;;x
 b_potala;布达拉;;;;;;;;;;x
-b_lhunzhub;伦珠;;;;;;;;;;x
+b_lhunzhub;林周;;;;;;;;;;x
 b_gyantse;江孜;;;;;;;;;;x
 b_palcho;白居;;;;;;;;;;x
 b_bainang;白朗;;;;;;;;;;x
@@ -1596,9 +1596,9 @@ EVTOPTA39815;荣耀归于摩尼！;;;;;;;;;;x
 EVTDESC39816;庇麻仪式进行了很长一段时间，祈祷、缅怀摩尼的事迹、学习经典。在先知的智慧面前，所有参与者都表现得谦虚谨慎。诚然，摩尼带来的启示，是全人类的福分。;;;;;;;;;;x
 EVTOPTA39816;赞美苏尔凡！;;;;;;;;;;x
 EVTDESC39817;庇麻节持续到深夜，但凡事终有结束，美好的事情也不例外。你回到住处去庆祝这个送魂归天节的剩余部分，你和其他大多数客人达成了共识，参加庇麻节晚宴是一趟值得的旅行。;;;;;;;;;;x
-opinion_held_bema;主持讲坛;;;;;;;;;;x
+opinion_held_bema;主持庇麻节;;;;;;;;;;x
 opinion_refused_bema;拒绝庇麻节邀请;;;;;;;;;;x
-celebrate_bema;庆祝庇麻;;;;;;;;;;x
+celebrate_bema;庆祝庇麻节;;;;;;;;;;x
 likes_concubines;后妃;;;;;;;;;;x
 likes_eunuchs;宦官;;;;;;;;;;x
 likes_wealth;财富;;;;;;;;;;x
@@ -1628,7 +1628,7 @@ likes_buddhists;佛教徒;;;;;;;;;;x
 likes_hindus;印度教徒;;;;;;;;;;x
 likes_jains;耆那教徒;;;;;;;;;;x
 likes_tengris;腾格里信徒;;;;;;;;;;x
-likes_zunists;樽教徒;;;;;;;;;;x
+likes_zunists;尊日教徒;;;;;;;;;;x
 likes_jews;犹太教徒;;;;;;;;;;x
 likes_bon;苯教;;;;;;;;;;x
 likes_tt;(§GLikes [This.GetLike]§!);;;;;;;;;;x
@@ -1680,7 +1680,7 @@ sadah_begins;火焰燃起来...;;;;;;;;;;x
 jd_held_sadah_timer;举办火节;;;;;;;;;;x
 opinion_refused_sadah;拒绝火节邀请;;;;;;;;;;x
 opinion_held_sadah;举办火节庆典;;;;;;;;;;x
-EVTDESC39820;根据传说，波斯王''Hushang发现了火的秘密并将其拿去造福人类。我们通过‘火’节纪念此事。举办它同时也为了赞美火并抵御黑暗，寒冷和野兽的力量。;;;;;;;;;;x
+EVTDESC39820;根据传说，波斯王Hushang发现了火的秘密并将其拿去造福人类。我们通过‘火’节纪念此事。举办它同时也为了赞美火并抵御黑暗，寒冷和野兽的力量。;;;;;;;;;;x
 EVTOPTA39820;发出邀请！;;;;;;;;;;x
 EVTDESC39821;你的领主，[From.GetTitledName]，寄给你一张参加火节的请帖，这个节日是为了崇拜火焰的伟大并祈求春天来临。;;;;;;;;;;x
 EVTOPTA39821;我当然会参加！;;;;;;;;;;x
@@ -1697,9 +1697,9 @@ EVTDESC39826;一众僧侣从附近的寺庙带来了圣火。你和其他客人�
 EVTDESC39827;庆典活动终于结束了。在外面篝火熊熊燃烧的时候，你已经好好的美餐一顿，成功驱赶走了霜冻和冰冷的恶魔。很快夏日的阳光就会照耀在我们身上。;;;;;;;;;;x
 EVTOPTA39827;在下次之前！;;;;;;;;;;x
 EVTDESC39828;盛宴结束了。当外面篝火熊熊燃烧的时候，祭司们将圣火带回了寺庙，成功驱赶走了霜冻和冰冷的恶魔。很快夏日的阳光就会照耀在我们身上。;;;;;;;;;;x
-EVTDESC39830;As part of the Jashn-e-Sadeh, the Mobads bless their communities with Atash Niyayesh - the litany of fire. As a sovereign, you are expected to attend the ceremony in your capital.;;;;;;;;;;x
+EVTDESC39830;作为“火节”的一部分，祭司们以阿塔什.尼亚什，即火之祷告文，祝福在座的人们。作为君主，人们都期待你参加首都的庆典。;;;;;;;;;;x
 EVTOPTA39830;为了楚尔凡的荣耀！;;;;;;;;;;x
-EVTDESC39831;作为“火节”的一部分，祭司们以阿塔什.尼亚什，即火之祷告文，祝福在座的人们。作为一位参与仪式的贵客，你也被邀请参与其中。;;;;;;;;;;x
+EVTDESC39831;作为“火节”的一部分，祭司们以阿塔什.尼亚什，即火之祷告文，祝福在座的人们。作为领主的贵客，你也被邀请参与其中。;;;;;;;;;;x
 EVTOPTA39831;为了楚尔凡的荣耀！;;;;;;;;;;x
 EVTOPT39830_ZEAL;异教徒不配享受祖尓凡之光！;;;;;;;;;;x
 EVTOPT39830_CHAR;暴徒们喜欢我的礼物;;;;;;;;;;x
@@ -1744,7 +1744,7 @@ EVTOPT_JD_50001_EXP;一个扩张主义的[From.GetEmperorEmpress]？这可不是
 EVTDESC_JD_50021_OPEN;天朝现在放弃了 [FromFrom.GetPrevPolicy] 的政策并如常一样开放商路.;;;;;;;;;;x
 EVTDESC_JD_50021_ISO;中国已从[FromFrom.GetPrevPolicy]转向闭关锁国。中华帝国的皇帝[FromFrom.Ruler.GetDynName]为了[GetChinaIsolationPastime]，已向围绕着中土的蛮夷关闭了边境。;;;;;;;;;;x
 EVTDESC_JD_50021_EXP;中国伟大的[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]突然对世界的其他部分感兴趣，特别是西方。这个新的扩张政策将警告着那些临国还没给中国当狗的国君。\n\n巨龙醒了。;;;;;;;;;;x
-EVTOPT_JD_50021_ISO;Time for the [FromFrom.Ruler.GetEmperorEmpress] to contemplate [FromFrom.Ruler.GetPossPronoun] navel...;;;;;;;;;;x
+EVTOPT_JD_50021_ISO;留给[FromFrom.Ruler.GetEmperorEmpress] 完成[FromFrom.Ruler.GetPossPronoun] 的时间不多了……;;;;;;;;;;x
 String_Iso_Peach_Gardens;注意帝国的桃园;;;;;;;;;;x
 String_Iso_Giant_Mausoleum;建造一个巨大的陵墓;;;;;;;;;;x
 String_Iso_Calligraphy;练习书法艺术;;;;;;;;;;x
@@ -1797,7 +1797,7 @@ EVTDESC_JD_50301;天朝的内战戛然而止。[FromFrom.Ruler.GetDynName][FromF
 EVTOPT_JD_50301;太棒了，我们需要一些新的绫罗绸缎！;;;;;;;;;;x
 EVTDESC_JD_50302_HAN_DYNASTY;在经年累月的背刺与断盟后，中国内战终于结束了。在前[GetRandomChineseRegion]省督将御林军和其他叛贼势力一并击败后，外来王朝被推翻，这位汉人[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]坐了龙庭。中国一切逐渐归于常态，丝绸之路也再度安全无虞了。;;;;;;;;;;x
 EVTDESC_JD_50302_NEW_DYNASTY;在经年累月的背刺与断盟后，中国内战终于结束了。一个来自[GetRandomChineseRegion]的善战道士获得了最终的胜利，登基为[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]。这位出身布衣的新[FromFrom.Ruler.GetEmperorEmpress]业已扫除了旧政权的腐败官僚。中国一切逐渐归于常态，丝绸之路也再度安全无虞了。;;;;;;;;;;x
-EVTOPT_JD_50302_BROKEN_PEACE_DEAL;该死的，我和中国达成了和平协议！;;;;;;;;;;x
+EVTOPT_JD_50302_BROKEN_PEACE_DEAL;该死的，我和中国达成的和平协议没了！;;;;;;;;;;x
 EVTDESC_JD_50303;经过多年的混乱战争和联盟的转变，中国内战终于结束了。旧政权垮台了，并且 [FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName]。一位旧[FromFrom.Ruler.Dynasty.GetName]的王子 获得胜利，现在坐在龙椅上。在中国，事态正在慢慢恢复正常，丝绸之路又安全了。;;;;;;;;;;x
 temple_baron_khurmazta;瓦朗;;;;;;;;;;x
 pagan_group_FEATURES;§Y*§! 女性可以担任间谍总管职务;;;;;;;;;;x
@@ -1819,7 +1819,7 @@ pet_house_dog;家犬;;;;;;;;;;x
 pet_house_dog_desc;该人物接纳了一只狗，这只狗将保护他免于恶灵侵犯。;;;;;;;;;;x
 pet_hedgehog;宠物凡弗帕拉;;;;;;;;;;x
 pet_hedgehog_desc;该人物收养了一只刺猬，这只刺猬消灭害兽作为报答。;;;;;;;;;;x
-pet_otter;Sag-e Aabi Guardian;;;;;;;;;;x
+pet_otter;圣阿比导师;;;;;;;;;;x
 pet_otter_desc;该人物是一只水獭的守护者，水獭保证了国内的稳定。;;;;;;;;;;x
 secret_religious_society_bon_rank_1_female;忠诚;;;;;;;;;;x
 secret_religious_society_bon_rank_2_female;拥护者;;;;;;;;;;x
@@ -1850,8 +1850,8 @@ secret_religious_society_taoist_rank_1_male;虔诚的;;;;;;;;;;x
 secret_religious_society_taoist_rank_2_male;信徒;;;;;;;;;;x
 secret_religious_society_taoist_rank_3_male;牧师;;;;;;;;;;x
 secret_religious_society_taoist_rank_4_male;传令官;;;;;;;;;;x
-secret_religious_society_taoist_currency;忠诚;;;;;;;;;;x
-secret_religious_society_taoist_leader_desc;这位祭酒在国际上的努力使更多的人加入了进来。;;;;;;;;;;x
+secret_religious_society_taoist_currency;奉献;;;;;;;;;;x
+secret_religious_society_taoist_leader_desc;在天师的领导下，各地的秘密组织都努力传播教化，希求更多人加入我们的行列;;;;;;;;;;x
 confucian_bureaucracy_desc;儒家官僚体系依靠一套严格的科举考试来选择他们的统治者。候选人在儒家经典知识方面接受了测试，尽管德行、先前的成就和名门望族的建议也在选择过程中起着重要的作用。统治者往往是非常熟练的管理者。;;;;;;;;;;x
 silk_road_province_desc;只能在§Y丝绸之路§!的特定地区修建贸易站，请打开§Y贸易地图§!查看。 ;;;;;;;;;;x
 GOD_KHURMAZTA;胡天;;;;;;;;;;x
@@ -1897,7 +1897,7 @@ PROV1517;吐尔洪;;;;;;;;;;x
 PROV1518;库姆塔格;;;;;;;;;;x
 PROV1519;罗布泊;;;;;;;;;;x
 PROV1520;尉犁;;;;;;;;;;x
-PROV1521;焉耆;;;;;;;;;;x
+PROV1521;巴州;;;;;;;;;;x
 PROV1522;尼壤;;;;;;;;;;x
 PROV1523;克里雅;;;;;;;;;;x
 PROV1524;叶城;;;;;;;;;;x
@@ -1915,11 +1915,11 @@ b_qitun;伊循;;;;;;;;;;x
 b_chiting;赤亭;;;;;;;;;;x
 b_luohu;罗湖;;;;;;;;;;x
 b_qiepantuo;朅盘陀;;;;;;;;;;x
-b_mingoi;焉耆;;;;;;;;;;x
+b_mingoi;巴音郭楞;;;;;;;;;;x
 b_shikshin;七个星;;;;;;;;;;x
-b_shorshuq;Shorshuq;;;;;;;;;;x
+b_shorshuq;和硕;;;;;;;;;;x
 b_jiuquan;酒泉;;;;;;;;;;x
-b_suzhou;苏州;;;;;;;;;;x
+b_suzhou;肃州;;;;;;;;;;x
 b_kongtong;崆峒;;;;;;;;;;x
 b_fulu;福禄;;;;;;;;;;x
 b_xianshi;劉顯世;;;;;;;;;;x
@@ -1927,7 +1927,7 @@ b_yungguan;阳关;;;;;;;;;;x
 b_shouchang;寿昌;;;;;;;;;;x
 b_ziting;紫亭;;;;;;;;;;x
 d_charkliq;若羌;;;;;;;;;;x
-b_calmandana;Calmandana;;;;;;;;;;x
+b_calmandana;克莱门达;;;;;;;;;;x
 b_pimo;坯墨;;;;;;;;;;x
 b_weiguan;维观;;;;;;;;;;x
 b_bojiayi;珀伽依;;;;;;;;;;x
@@ -2029,7 +2029,7 @@ china_concubine_cd_desc;你最近向天朝上贡过一名小妾，下一次可�
 china_gift_cd;§Y近日贈禮§!;;;;;;;;;;x
 china_gift_cd_desc;你在近期向天朝上贡过，下一次可上贡的时间为：§Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;;;;;;;;;x
 EVTDESC_JD_10102_A;在[From.Offmap.GetFullName]试图让我们成为朝贡国的努力无果后， [From.GetTitledName] 向我们宣战了！他们的军队已经向我们的边界开来，如果我们不向[From.Offmap.Ruler.GetMediumChineseEmperorName]屈膝的话，我们的人民可能将面对的是长久而血腥的斗争。;;;;;;;;;;x
-EVTDESC_JD_10102_B;Intending to enforce their subjugation as a tributary state of the [From.Offmap.GetFullName], the [From.GetTitledName] has declared war upon [chinese_invasion_target.GetFullName]! [From.Offmap.Ruler.Culture.GetName] armies are already marching towards the realm of [chinese_invasion_target.GetTitledFirstName], and it seems possible that this spells the end of [chinese_invasion_target.PrimaryTitle.GetAdjective] independence.;;;;;;;;;;x
+EVTDESC_JD_10102_B; [From.GetTitledName] 对 [chinese_invasion_target.GetFullName] 宣战以逼迫其成为[From.Offmap.GetFullName]的朝贡国，[From.Offmap.Ruler.Culture.GetName] 的军队已经开始朝[chinese_invasion_target.GetTitledFirstName]境内集结，这个能会是[chinese_invasion_target.PrimaryTitle.GetAdjective] 独立的终结;;;;;;;;;;x
 EVTOPTA_JD_10102_A_pious;願[Root.Religion.GetHighGodName] 看到我們完成此事;;;;;;;;;;x
 EVTOPTA_JD_10102_A_brave;證明我們的機會到了
 讓他們來吧！;;;;;;;;;;x
@@ -2038,7 +2038,7 @@ EVTOPTA_JD_10102_A_neutral;这可能会变得难看……;;;;;;;;;;x
 EVTOPTA_JD_10102_B_same_religion;願 [Root.Religion.GetHighGodName] 保佑他們…！;;;;;;;;;;x
 EVTOPTA_JD_10102_B_other_religion;愿这些人们的神明护佑他们。;;;;;;;;;;x
 EVTDESC_JD_10104_A;[From.GetTitledName] 宣布上天的愤怒将会支配我们！中国军队开始向我国进军，关于他们军队的谣言可能已经传遍了我们的军队。我们很快就要面对[From.Offmap.GetFullName]的熊熊怒火。;;;;;;;;;;x
-EVTDESC_JD_10104_B;[From.GetTitledName] has decreed that the fury of heaven shall reign down upon [chinese_invasion_target.GetTitledName]! The Chinese armies have begun their march, and the [chinese_invasion_target.GetTitle], if not hiding out in [chinese_invasion_target.Capital.GetName], can only hope to stand tall, as [chinese_invasion_target.GetHerHis] borders are attacked with the full wrath of the [From.Offmap.GetFullName].;;;;;;;;;;x
+EVTDESC_JD_10104_B;[From.GetTitledName] 已经下令对 [chinese_invasion_target.GetTitledName] 实行天诛，中国的军队已经开始集结，如果[chinese_invasion_target.GetTitle]没有躲在[chinese_invasion_target.Capital.GetName],那么当[From.Offmap.GetFullName]的熊熊怒火燃烧到[chinese_invasion_target.GetHerHis]的边境时，希望他能表现得更硬气一些。;;;;;;;;;;x
 EVTOPTA_JD_10104_B_pious;願 [Root.Religion.GetHighGodName] 看到他們完成此事;;;;;;;;;;x
 EVTOPTA_JD_10104_B_brave;這是證明他們自己的機會！好極了！;;;;;;;;;;x
 EVTDESC_JD_10108_JURCHEN;最近在[the_protector_general.Offmap.GetFullName]发生的事件引发了举国上下各路叛军的起义。其中之一便是统领[jurchen_invader.Culture.GetName]部落的[jurchen_invader.GetFirstName]，此人翻越群山来到了西域。[jurchen_invader.GetSheHe]所到之处无不是哀鸿遍野。人们企盼有人能解决这个凶暴的劫掠者。;;;;;;;;;;x
@@ -2084,14 +2084,14 @@ DEMESNE_EFFICIENCY_TRIGGER;领地效率 $COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
 RELATIVE_POWER_TRIGGER;$TARGET|Y$的军队数量是$COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
 RELATIVE_POWER_WITH_ALLIES_TRIGGER;$TARGET|Y$盟国的军队数量是$COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
 RELATIVE_INCOME_TRIGGER;$OTHER|Y$的收入是$COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
-DYNASTY_REALM_POWER_TRIGGER;Dynasty Realm Power is $COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
+DYNASTY_REALM_POWER_TRIGGER;家族领地力量 $COMPARISON$ $VALUE|Y%0$;;;;;;;;;;x
 YEAR_TRIGGER;年份是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 MONTH_TRIGGER;月份是$COMPARISON$ $MONTH|Y$;;;;;;;;;;x
 DAY_TRIGGER;日期是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 RANDOM_ROLL_TRIGGER;一个随机产生的数字是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 DISTANCE_TRIGGER;距离是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-DISTANCE_FROM_REALM_TRIGGER;Distance from realm is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-REVOLT_DISTANCE_TRIGGER;Revolt Distance is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+DISTANCE_FROM_REALM_TRIGGER;领域距离是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+REVOLT_DISTANCE_TRIGGER;叛乱距离是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 SETTLEMENT_AGE_TRIGGER;领地是$COMPARISON$ $VALUE|Y$年;;;;;;;;;;x
 TITLE_RATING_TRIGGER;拥有头衔的评级是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 HOLY_SITES_TRIGGER;控制$COMPARISON$ $VALUE|Y$个圣地;;;;;;;;;;x
@@ -2100,40 +2100,40 @@ NUM_PLOT_BACKERS_TRIGGER;拥有$COMPARISON$ $VALUE|Y$个阴谋支持者;;;;;;;;;
 NUM_PRISONERS_TRIGGER;拥有$COMPARISON$ $VALUE|Y$个囚犯;;;;;;;;;;x
 DAYS_IMPRISONED_TRIGGER;已被监禁$COMPARISON$ $VALUE|Y$天;;;;;;;;;;x
 PLOT_MONTHS_TRIGGER;已经密谋了 $COMPARISON$ $VALUE|Y$ 个月;;;;;;;;;;x
-CULTURE_REALM_PROVS_TRIGGER;$COMPARISON$ $VALUE|Y$ $CULTURE|Y$ Counties in Realm;;;;;;;;;;x
-RELIGION_REALM_PROVS_TRIGGER;$COMPARISON$ $VALUE|Y$ $RELIGION|Y$ Counties in Realm;;;;;;;;;;x
+CULTURE_REALM_PROVS_TRIGGER;$COMPARISON$ $VALUE|Y$ $CULTURE|Y$个伯爵领在境内;;;;;;;;;;x
+RELIGION_REALM_PROVS_TRIGGER;$COMPARISON$ $VALUE|Y$ $RELIGION|Y$个伯爵领在境内;;;;;;;;;;x
 TITLE_REALM_PROVS_TRIGGER;$COMPARISON$ $VALUE|Y$ Counties within $TITLE|Y$ in Realm;;;;;;;;;;x
-FACTION_POWER_TRIGGER;Faction Strength is $COMPARISON$ $VALUE|Y$ of liege;;;;;;;;;;x
-FACTION_BACKERS_TRIGGER;$COMPARISON$ $VALUE|Y$ Backers in Faction '$FACTION|Y$';;;;;;;;;;x
+FACTION_POWER_TRIGGER;封臣的派系力量为$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+FACTION_BACKERS_TRIGGER;$COMPARISON$ $VALUE|Y$派系中的支持者 '$FACTION|Y$';;;;;;;;;;x
 EXTRA_LANDED_TITLES_TRIGGER;额外 $COMPARISON$ $VALUE|Y$ 领地头衔;;;;;;;;;;x
 AGE_COMPARISON_TRIGGER;年龄是 $COMPARISON$ $TARGET|Y$;;;;;;;;;;x
 WARSCORE_TRIGGER;战争分数为$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 NUM_BUILDINGS_TRIGGER;$COMPARISON$ $VALUE|Y$在$WHERE|Y$建造;;;;;;;;;;x
-OVER_MAX_DEMESNE_SIZE_TRIGGER;Over max demesne size by $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+OVER_MAX_DEMESNE_SIZE_TRIGGER;超过最大领地数量$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 OVER_MAX_VASSAL_SIZE_TRIGGER;超过最大封臣限制;;;;;;;;;;x
 OPINION_TRIGGER;好感度是 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 PERSONAL_OPINION_TRIGGER;个人好感度是 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-CLAN_OPINION_TRIGGER;Clan Sentiment is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-OPINION_DIFF_TRIGGER;Opinion difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-PERSONAL_OPINION_DIFF_TRIGGER;Personal Opinion difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-CLAN_OPINION_DIFF_TRIGGER;Clan Sentiment difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+CLAN_OPINION_TRIGGER;部族看法 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+OPINION_DIFF_TRIGGER;$FIRST|Y$和$SECOND|Y$之间的观点不同有$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+PERSONAL_OPINION_DIFF_TRIGGER;$FIRST|Y$ 和 $SECOND|Y$ 的意见分歧是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+CLAN_OPINION_DIFF_TRIGGER;$FIRST|Y$与$SECOND|Y$部族看法差距 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 AGE_DIFF_TRIGGER;年龄差距$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 NUM_HOLDING_TRIGGER;$COMPARISON$ $VALUE|Y$ $TYPE$占有该土地;;;;;;;;;;x
-NUM_REALM_HOLDING_TRIGGER;Has $COMPARISON$ $VALUE|Y$ $TYPE$s in realm;;;;;;;;;;x
-NUM_HOLDING_DIFF_TRIGGER;Difference between $FIRST|Y$ and $SECOND|Y$'s $TYPE$s is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_REALM_HOLDING_TRIGGER;在境内有$COMPARISON$ $VALUE|Y$ $TYPE$;;;;;;;;;;x
+NUM_HOLDING_DIFF_TRIGGER;$FIRST|Y$和$SECOND|Y$的$TYPE$之间有$COMPARISON$ $VALUE|Y$的不同;;;;;;;;;;x
 REPUBLIC_TRADE_POST_TRIGGER;共和国拥有 $COMPARISON$ $VALUE|Y$ 贸易站;;;;;;;;;;x
 HOLDING_DIFF_TRIGGER;$COMPARISON|Y$ $VALUE|Y$§! §Y$FIRST_TYPE$s§! in $FIRST_LOCATION$ per §Y$SECOND_TYPE$s§! in $SECOND_LOCATION$;;;;;;;;;;x
-ATTRIBUTE_DIFF_TRIGGER;$ATTRIBUTE|Y$ difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+ATTRIBUTE_DIFF_TRIGGER;$FIRST|Y$和$SECOND|Y$之间的$ATTRIBUTE|Y$不同有$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 COMBAT_RATING_DIFF_TRIGGER;Combat rating difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 REALM_LEVY_DIFF_TRIGGER;Max realm levy size difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-TROOP_RAISED_DAYS_TRIGGER;Troops raised $COMPARISON$ $VALUE|Y$ days;;;;;;;;;;x
+TROOP_RAISED_DAYS_TRIGGER;军队召集 $COMPARISON$ $VALUE|Y$ 天;;;;;;;;;;x
 DAYS_SINCE_WAR_PARTICIPATION_TRIGGER;自上次战争后已经过了 $COMPARISON$ $VALUE|Y$ 天;;;;;;;;;;x
 MODIFIER_INSTANCES_TRIGGER;Has $COMPARISON$ $VALUE|Y$ instances of $MODIFIER|Y$;;;;;;;;;;x
 REVOLT_RISK_TRIGGER;叛乱几率是$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
-PURE_REVOLT_RISK_TRIGGER;Pure revolt risk is $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
+PURE_REVOLT_RISK_TRIGGER;叛乱风险为$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 MONTHLY_INCOME_TRIGGER;每月收入$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 YEARLY_INCOME_TRIGGER;每年收入$COMPARISON$$VALUE|Y$;;;;;;;;;;x
-UNITS_INPROVINCE_TRIGGER;Units in $PROVINCE|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+UNITS_INPROVINCE_TRIGGER;单位在$PROVINCE|Y$是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 TECH_LEVEL_TRIGGER;$TECH|Y$等级$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 RULED_YEARS_TRIGGER;统治超过 $COMPARISON$ $VALUE|Y$ 年;;;;;;;;;;x
 NUM_CHILDREN_TRIGGER;拥有$COMPARISON$$VALUE|Y$个孩子;;;;;;;;;;x
@@ -2159,67 +2159,68 @@ POPULATION_TRIGGER;人口$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 MAX_MANPOWER_AND_POPULATION_TRIGGER;人力与人口数的最大值总计是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 MAX_POPULATION_TRIGGER;最大人口$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 MANPOWER_AND_POPULATION_GROWTH_TRIGGER;人力与人口数的增长量总计是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-POPULATION_GROWTH_TRIGGER;Population growth is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+POPULATION_GROWTH_TRIGGER;人口增长为 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 POPULATION_FACTOR_TRIGGER;人口的最大值是$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 HEALTH_TRIGGER;健康$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 BASE_HEALTH_TRIGGER;基础健康$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 FERTILITY_TRIGGER;生育能力$COMPARISON$$VALUE|Y$%;;;;;;;;;;x
 PLOT_POWER_TRIGGER;阴谋力量$COMPARISON$$VALUE|Y$%;;;;;;;;;;x
-PLOT_POWER_CONTRIBUTION_TRIGGER;$PLOTTER|Y$'s contribution to $PLOT|Y$'s Plot Power is $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
+PLOT_POWER_CONTRIBUTION_TRIGGER;$PLOTTER|Y$对 $PLOT|Y$的阴谋力量的贡献是$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 SCORE_TRIGGER;分数$COMPARISON$$VALUE|Y$;;;;;;;;;;x
-PIETY_TRIGGER;[This.Religion.GetPietyName] is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+PIETY_TRIGGER;[This.Religion.GetPietyName] 是 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 PRESTIGE_TRIGGER;威望$COMPARISON$$VALUE|Y$;;;;;;;;;;x
-DYNASTIC_PRESTIGE_TRIGGER;Dynastic Prestige is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+DYNASTIC_PRESTIGE_TRIGGER;家族威望有$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 AGE_TRIGGER;年龄$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 DYNASTY_MEMBERS_TRIGGER;有 $COMPARISON$ $VALUE|Y$ 位家族成员;;;;;;;;;;x
-DIFFERENT_DYNASTY_VASSALS_TRIGGER;Has vassals from $COMPARISON$ $VALUE|Y$ different dynasties;;;;;;;;;;x
+DIFFERENT_DYNASTY_VASSALS_TRIGGER;拥有来自 $COMPARISON$ $VALUE|Y$ 不同家族的封臣;;;;;;;;;;x
 NUM_CLAIMS_TRIGGER;拥有$COMPARISON$$VALUE|Y$个宣称;;;;;;;;;;x
-NUM_CLAIMS_ON_TARGET_TRIGGER;Has $COMPARISON$ $VALUE|Y$ claims on $TARGET|Y$;;;;;;;;;;x
+NUM_CLAIMS_ON_TARGET_TRIGGER;有$COMPARISON$ $VALUE|Y$的宣称在$TARGET|Y$;;;;;;;;;;x
 DIFFICULITY_TRIGGER;游戏难度$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 RELIGION_AUTHORITY_TRIGGER;拥有宗教领袖;;;;;;;;;;x
 TITLE_TIER_TRIGGER;头衔评级$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 COMBAT_DAYS_TRIGGER;战斗持续了 $COMPARISON$ $VALUE|Y$ 天;;;;;;;;;;x
 REALM_SIZE_TRIGGER;领土大小是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-REALM_LEVIES_TRIGGER;Current realm leavies are $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-MAX_REALM_LEVIES_TRIGGER;Max realm leavies are $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-NUM_OF_TITLES_TRIGGER;Number of titles held is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-NUM_OF_TITLES_OF_TIER_TRIGGER;Number of titles of tier $TIER|Y$ held is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-NUM_OF_TITLES_IN_REALM_TRIGGER;Number of titles in realm is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-NUM_OF_TITLES_OF_TIER_IN_REALM_TRIGGER;Number of titles of tier $TIER|Y$ in realm is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+REALM_LEVIES_TRIGGER;
+领域当前税收是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+MAX_REALM_LEVIES_TRIGGER;领域最高税收是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_OF_TITLES_TRIGGER;持有头衔数目为$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_OF_TITLES_OF_TIER_TRIGGER;持有 $TIER|Y$ 级头衔的数量 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_OF_TITLES_IN_REALM_TRIGGER;境内的头衔数目为$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_OF_TITLES_OF_TIER_IN_REALM_TRIGGER;境内的$TIER|Y$级头衔数量 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 RELATIVE_TROOP_TRIGGER;Flank has $COMPARISON$ $VALUE|Y$% $TROOP|Y$ relative to$ENEMY|Y$$MAXTROOP|Y$;;;;;;;;;;x
-TROOP_TRIGGER;Flank has $COMPARISON$ $VALUE|Y$% $TROOP|Y$;;;;;;;;;;x
+TROOP_TRIGGER;侧翼有 $COMPARISON$ $VALUE|Y$% $TROOP|Y$;;;;;;;;;;x
 NUM_SETTLEMENTS_TRIGGER;省份拥有 $COMPARISON$ $VALUE|Y$ 定居点;;;;;;;;;;x
-MAX_SETTLEMENTS_TRIGGER;Province can have $COMPARISON$ $VALUE|Y$ settlements;;;;;;;;;;x
-EMPTY_SETTLEMENTS_TRIGGER;Province has room for $COMPARISON$ $VALUE|Y$ more settlements;;;;;;;;;;x
+MAX_SETTLEMENTS_TRIGGER;省份可拥有$COMPARISON$ $VALUE|Y$定居点;;;;;;;;;;x
+EMPTY_SETTLEMENTS_TRIGGER;省份空余定居点 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 START_DATE_TRIGGER;开始时间$COMPARISON$$VALUE|Y$;;;;;;;;;;x
 CURRENT_DATE_TRIGGER;当前时间是;;;;;;;;;;x
-LOOT_TRIGGER;Loot carried is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-NUM_FEUDS_TRIGGER;Has $COMPARISON$ $VALUE|Y$ feuds;;;;;;;;;;x
-DEMESNE_GARRISON_TRIGGER;Demesne garrison is $COMPARISON$ $VALUE|Y$ men;;;;;;;;;;x
-AI_AMBITION_TRIGGER;AI Ambition is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-AI_HONOR_TRIGGER;AI Honor is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-AI_RATIONALITY_TRIGGER;AI Rationality is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-AI_GREED_TRIGGER;AI Greed is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-AI_ZEAL_TRIGGER;AI Zeal is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+LOOT_TRIGGER;劫掠是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+NUM_FEUDS_TRIGGER;有 $COMPARISON$ $VALUE|Y$ 块 领地;;;;;;;;;;x
+DEMESNE_GARRISON_TRIGGER;领地驻军是$COMPARISON$ $VALUE|Y$人;;;;;;;;;;x
+AI_AMBITION_TRIGGER;野心勃勃的AI是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+AI_HONOR_TRIGGER;荣耀的AI是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+AI_RATIONALITY_TRIGGER;理智的AI是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+AI_GREED_TRIGGER;贪婪的AI是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+AI_ZEAL_TRIGGER;热心的AI是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 NUM_GOVERNMENT_VASSALS_TRIGGER;$GOVERNMENT|Y$ 封臣的数量为 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 MERCENARY_SIPHON_FACTOR_TRIGGER;The payment factor for $TITLE|Y$ is $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
-INFAMY_TRIGGER;Has a threat level of $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
+INFAMY_TRIGGER;当前威胁程度是$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 SYMPTOMS_TRIGGER;有$COMPARISON$ $VALUE|Y$ 症状;;;;;;;;;;x
-MONTHLY_PRESTIGE_TRIGGER;Monthly Prestige gain is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-MONTHLY_PIETY_TRIGGER;Monthly [This.Religion.GetPietyName] gain is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+MONTHLY_PRESTIGE_TRIGGER;每月威望增加$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+MONTHLY_PIETY_TRIGGER;每月[This.Religion.GetPietyName]增长 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 REGIONAL_PERCENTAGE_TRIGGER;$COMPARISON$ $PERCENT|Y$ ($VALUE|Y$) counties of $REGION$:;;;;;;;;;;x
 YEARS_PLAYED_TRIGGER;游戏已持续$COMPARISON$ $VALUE|Y$年;;;;;;;;;;x
-HOSPITAL_LEVEL_TRIGGER;Hospital Level is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-DISEASE_DEFENSE_TRIGGER;Disease Defense is $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
+HOSPITAL_LEVEL_TRIGGER;医院等级是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+DISEASE_DEFENSE_TRIGGER;防疫是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 HAS_ASSIGNED_MINOR_TITLE_COUNT;$WHO|Y$ has assigned $COMPARISON$ $VALUE|Y$ of the honorary title $TITLE|Y$;;;;;;;;;;x
-WAR_PARTICIPATION_TRIGGER;$WHO|Y$ has a war participating $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
-NUM_ARTIFACTS_TRIGGER;Has $COMPARISON$ $VALUE|Y$ artifacts (currently: $CUR|Y$);;;;;;;;;;x
-DAY_OF_BIRTH_TRIGGER;Day of birth is $COMPARISON$ the $VALUE|Y$ day of the month;;;;;;;;;;x
-MONTH_OF_BIRTH_TRIGGER;Month of birth is $COMPARISON$ the $VALUE|Y$ month of the year;;;;;;;;;;x
-YEAR_OF_BIRTH_TRIGGER;Year of birth is $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
+WAR_PARTICIPATION_TRIGGER;$WHO|Y$ 参加了一场战争 $COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
+NUM_ARTIFACTS_TRIGGER;拥有 $COMPARISON$ $VALUE|Y$ 宝物 (目前: $CUR|Y$);;;;;;;;;;x
+DAY_OF_BIRTH_TRIGGER;出生日 $COMPARISON$ 该月的 $VALUE|Y$ 天;;;;;;;;;;x
+MONTH_OF_BIRTH_TRIGGER;出生月 $COMPARISON$ 此年的 $VALUE|Y$ 月;;;;;;;;;;x
+YEAR_OF_BIRTH_TRIGGER;出生年份是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 RULE_GROUP_JD;玉龙;;;;;;;;;;x
 INTERACTION_REQUIRES_ARTIFACT;必须选择一件宝物;;;;;;;;;;x
-TRADEZONE_VALUE_SOURCES;Trade Value of $WEALTH|Y$ combined from:;;;;;;;;;;x
+TRADEZONE_VALUE_SOURCES; $WEALTH|Y$ 的贸易价值由以下项目决定:;;;;;;;;;;x
 ARTIFACT_CAN_BE_GIVEN_TO_TRIGGER;可以被给予$WHO|Y$;;;;;;;;;;x
 ARTIFACT_CAN_BE_GIVEN_TO_TRIGGER_NOT;不能给予$WHO|Y$;;;;;;;;;;x
 TOTAL_SETTLEMENT_INCOME;总收入：$INCOME|Y$;;;;;;;;;;x
@@ -2234,12 +2235,12 @@ ARMY_RALLY_POINTS_INTERFACE_LABEL;§YArmy Rally Points§!;;;;;;;;;;x
 NAVY_RALLY_POINTS_INTERFACE_LABEL;§YNavy Rally Points§!;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_VOTE;§Y[Actor.GetTitledName]§!收回了§Y[Recipient.GetTitledName]§!的头衔;;;;;;;;;;x
 GRANT_LANDED_TITLE_INTERACTION_VOTE;§Y[Actor.GetTitledName]§!授予了§Y[Recipient.GetTitledName]§!头衔;;;;;;;;;;x
-IMPRISON_INTERACTION_VOTE;§Y[Actor.GetTitledName]§! imprisoned §Y[Recipient.GetTitledName]§!;;;;;;;;;;x
-EXILE_IMPRISONED_VOTE;§Y[Actor.GetTitledName]§! banished §Y[Recipient.GetTitledName]§!;;;;;;;;;;x
-EXECUTE_IMPRISONED_VOTE;§Y[Actor.GetTitledName]§! executed §Y[Recipient.GetTitledName]§!;;;;;;;;;;x
+IMPRISON_INTERACTION_VOTE;§Y[Actor.GetTitledName]§! 监禁了§Y[Recipient.GetTitledName]§!;;;;;;;;;;x
+EXILE_IMPRISONED_VOTE;§Y[Actor.GetTitledName]§! 驱逐了 §Y[Recipient.GetTitledName]§!;;;;;;;;;;x
+EXECUTE_IMPRISONED_VOTE;§Y[Actor.GetTitledName]§! 处决了 §Y[Recipient.GetTitledName]§!;;;;;;;;;;x
 WAR_INVALID_CHARACTER_VASSALIZED;\n($CHARACTER$ 被附庸了);;;;;;;;;;x
 TRIBUTARY_INCOME_DESC;朝贡方向宗主交纳$VALUE|Y$%的月入;;;;;;;;;;x
-TRIBUTARY_REINFORCEMENT_DESC;* Tributary provides $VALUE|Y$% of their reinforcements to their suzerain;;;;;;;;;;x
+TRIBUTARY_REINFORCEMENT_DESC;朝贡国提供$VALUE|Y$%的援军给他们的宗主国;;;;;;;;;;x
 TRIBUTARY_PRESTIGE_SUZERAIN_DESC;* 宗主威望每月$VALUE|Y$;;;;;;;;;;x
 TRIBUTARY_PRESTIGE_TRIBUTARY_DESC;* 朝贡者威望每月$VALUE|Y$;;;;;;;;;;x
 TRIBUTARY_PIETY_SUZERAIN_DESC;* 宗主的虔诚每月改变$VALUE|Y$;;;;;;;;;;x
@@ -2290,17 +2291,17 @@ EVTOPTA_JD_70009;我早该料到你无法逃离皇帝陛下。;;;;;;;;;;x
 DEATH_EXECUTED_BY_CHINESE_EMPEROR;被中国皇帝$KILLER$下令处死;;;;;;;;;;x
 DEATH_EXECUTED_BY_CHINESE_EMPEROR_NO_KILLER;在中国被处决;;;;;;;;;;x
 UNFORTUNATE;不幸……;;;;;;;;;;x
-EVTDESC_MNM_9031_A;I have received word from [relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] that [relic_hunter.GetSheHe] is making steady progress in the search for the artifact. [relic_hunter.GetFirstName] believes [relic_hunter.GetSheHe] is closing on the end of the trail, and that [relic_hunter.GetSheHe] will soon be able to present the ancient relic to me in person.;;;;;;;;;;x
+EVTDESC_MNM_9031_A;我得到了[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName]传来的消息，[relic_hunter.GetSheHe]在寻找古文物上有大进展。[relic_hunter.GetFirstName]认为[relic_hunter.GetSheHe]很快就能结束这条线索，[relic_hunter.GetSheHe]将亲自向我展示这个古遗迹。;;;;;;;;;;x
 EVTDESC_MNM_9031_B;我从 [relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] 处得知， [relic_hunter.GetSheHe] 搜索宝物的工作正在稳步进行;;;;;;;;;;x
-EVTDESC_MNM_9032;I have received the regrettable news that [relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] has experienced a setback in [relic_hunter.GetHerHis] search for the artifact, by spending a considerable amount of time following a wrong lead. [relic_hunter.GetSheHeCap] assures me [relic_hunter.GetSheHe] will redouble [relic_hunter.GetHerHis] efforts.;;;;;;;;;;x
-EVTDESC_4409_GREEDY;I ordered one of my most trusted servants to take a substantial sum of money from my personal treasury and bring it to the local [Root.GetMOBuilding]. However, as soon as [Root.GetSheHe] left the room I regretted my decision. When my servant returned I could not help myself, and immediately demanded that [Root.GetSheHe] would go and get the money back. Now everyone knows about my greed!;;;;;;;;;;x
+EVTDESC_MNM_9032;我刚刚收到了一个令人惋惜的报告，[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName]在[relic_hunter.GetHerHis]寻找古文物的任务中遇到重大挫折，耗费了大量的时间去追踪一个错误的线索。[relic_hunter.GetSheHeCap]向我保证[relic_hunter.GetSheHe]将会加大努力。;;;;;;;;;;x
+EVTDESC_4409_GREEDY;我让我最信任的仆人从我私人小金库里拿走了一笔数量可观的钱， 给了当地的[Root.GetMOBuilding]。但在[Root.GetSheHe]离开后，我后悔了。当仆人回来时，我无法控制自己，然后我立刻让[Root.GetSheHe]把这笔钱要回去。现在所有人都知道我是个小气鬼了！;;;;;;;;;;x
 TOGGLE_LOOTER_DESC;将此单位设为劫掠者可以使其从其他统治者管辖的省份处掠夺§Y金钱§!。此举会使单位暂时对你处于§R敌对§! ，他们也会攻击你的军队。;;;;;;;;;;x
 TOGGLE_LOOTER_0_MAINT_DESC;处于战争时，劫掠军只消耗维持费;;;;;;;;;;x
 TOGGLE_LOOTER_GR0_MAINT_DESC;如果你处于和平，劫掠军只消耗§G$PERC$%§! 维护费。;;;;;;;;;;x
 kingdom_adventure_desc;某些极度雄心勃勃又魅力十足的人物可以获得足够的支持，并且试图在一大群冒险的战士的帮助下在国外开始夺取王国。;;;;;;;;;;x
 title_teacher;宫廷教师;;;;;;;;;;x
 title_teacher_desc;宫廷导师将担任宫廷中所有没有指定监护人的孩子的默认教育者。;;;;;;;;;;x
-EVTDESC_JD_30014;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], has generously granted your request. A royal seal has been delivered denoting the status of the [Root.PrimaryTitle.GetFullName] as a favored state for imperial goods.;;;;;;;;;;x
+EVTDESC_JD_30014;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n天子 [From.Offmap.Ruler.GetLongChineseEmperorName],慷慨的同意了你的请求，一枚皇家印章将被送达，来彰显你对帝国的忠诚。;;;;;;;;;;x
 EVTOPTA_JD_30014;极好！;;;;;;;;;;x
 employing_jd_administrator_golden_age;聘请士大夫;;;;;;;;;;x
 employing_jd_administrator_golden_age_desc;这个角色聘请了一位帮助主持建筑工程的中国士大夫。;;;;;;;;;;x
@@ -2316,14 +2317,14 @@ String_October;10月;;;;;;;;;;x
 String_November;11月;;;;;;;;;;x
 String_December;12月;;;;;;;;;;x
 jade_dragon;玉龙;;;;;;;;;;x
-jade_dragon_desc;Desired by many for its intrinsic value and the beautiful design which displays the height of the [offmap_china.GetFullGenericName], this intricately designed dragon made out of jade by a master [From.OriginalOwner.Culture.GetName] craftsman is a very unique treasure.;;;;;;;;;;x
+jade_dragon_desc;许多人垂涎它的固有价值与它那彰显[offmap_china.GetFullGenericName]气度的华美设计，这尊鬼斧神工的玉制龙像出自一位[From.OriginalOwner.Culture.GetName]巧匠，是件独一无二的珍宝。;;;;;;;;;;x
 chinese_dragon_amulet;龙护身符;;;;;;;;;;x
 chinese_dragon_amulet_desc;金色的护身符是两只缠绕的龙的形状，龙头精饰着闪闪发光的宝石眼睛。;;;;;;;;;;x
 chinese_artwork;[offmap_china.GetShortName]代艺术品;;;;;;;;;;x
 chinese_artwork_desc;由天朝著名画家创作的一件艺术珍品，它让你感到自己仿佛置身于遥远的中土之上。;;;;;;;;;;x
 chinese_calligraphy;[offmap_china.GetShortName]代书法作品;;;;;;;;;;x
 chinese_sculpture;[offmap_china.GetShortName]雕塑;;;;;;;;;;x
-chinese_sculpture_desc;A sculpture from the courts of the [offmap_china.GetFullGenericName], you can imagine the [offmap_china.Ruler.GetTitle] [offmap_china.Ruler.GetHerselfHimself] walking past the sculpture approvingly and commanding one be made for [offmap_china.Ruler.GetHerHis] own use.;;;;;;;;;;x
+chinese_sculpture_desc;来自 [offmap_china.GetFullGenericName]的法院的雕塑，您可以想象[offmap_china.Ruler.GetTitle] [offmap_china.Ruler.GetHerselfHimself]被允许走过雕塑和并批准为[offmap_china.Ruler.GetHerHis]所拥有。;;;;;;;;;;x
 chinese_ceremonial_robes;礼仪长袍;;;;;;;;;;x
 chinese_ceremonial_robes_desc;一套传统的华夏长袍在外交场合使用，穿着这些长袍的人鹤立鸡群，展现了一种权力和权威的气度。;;;;;;;;;;x
 art_of_war;孙子兵法;;;;;;;;;;x
@@ -2342,10 +2343,11 @@ EVT_OPTA_JD_60002; [offmap_china.Ruler.GetTitle] 经常需要更多的宦官！�
 EVT_OPTB_JD_60002;[chinese_envoy_concubine_target.GetTitledFirstName]将会成为 [offmap_china.Ruler.GetTitle]的一位十分优秀的妃子。;;;;;;;;;;x
 EVT_OPTC_JD_60002;我们会送你许多黄金作为临别赠礼！;;;;;;;;;;x
 EVT_OPTE_JD_60002;你的小玩意和饰品在这里并不重要。;;;;;;;;;;x
-JD_60002_likes_but_dislikes_tt;This will not change the chance of receiving a better artifact as the [offmap_china.Ruler.GetTitle] §Glikes [This.GetLike]§! but §Rdislikes [This.GetDislike]§!;;;;;;;;;;x
+JD_60002_likes_but_dislikes_tt;这不能改变收到更好的宝物的机率，因为[offmap_china.Ruler.GetTitle] §G喜欢[This.GetLike]§!而§R不喜欢[This.GetDislike]§!
+;;;;;;;;;;x
 JD_60002_eunuch_tt;因为你有廷臣可以作为 §Yeunuch§!被送去，所以可以选择这一项。;;;;;;;;;;x
 JD_60002_concubine_tt;因为你有廷臣可以作为 §Yconcubine§!被送去，所以可以选择这一项。;;;;;;;;;;x
-EVT_DESC_JD_60003_A;[FromFrom.GetFullName] nods [FromFrom.GetHerHis] head and bows. "The [offmap_china.Ruler.GetTitle] will be most pleased with this, you truly are a [GetChineseComplimentAdjective] [Root.GetTitle]!" As [FromFrom.GetFullName] departs I move to inspect my newly acquired [FromFrom.Culture.GetName] treasure.;;;;;;;;;;x
+EVT_DESC_JD_60003_A;[FromFrom.GetFullName] 上下摆动 [FromFrom.GetHerHis] 头并鞠了一躬。" [offmap_china.Ruler.GetTitle]将会十分高兴。你不愧是[GetChineseComplimentAdjective] [Root.GetTitle]!"随着[FromFrom.GetFullName] 的离开我要去检查我新得到的[FromFrom.Culture.GetName] 宝物;;;;;;;;;;x
 EVT_DESC_JD_60003_B;当夜幕降临之际，一切都如我预料的一般发展。佳肴美酒令人迷醉，整个晚上，[FromFrom.GetFullName]的脸上都浮现着笑容。第二天早上，[FromFrom.GetFullName]离开时，指着一个装有[FromFrom.GetSheHe]希望我拥有的[FromFrom.Culture.GetName] 宝物的箱子，作为对那场盛宴和一位如此热情主人的感谢。;;;;;;;;;;x
 EVT_OPTA_JD_60003;我一直认为自己是一个有精致品味的[Root.GetManWoman]！;;;;;;;;;;x
 EVT_OPTB_JD_60003;多么精妙的小物件，我会好好使用它的！;;;;;;;;;;x
@@ -2357,19 +2359,19 @@ request_to_rank_up_within_society_virtues3;持有者必须有至少三个§YVirt
 GetSocietyRankUpTooltip2_MOBuddhistJain_Rank1;无 §Y残忍§!属性.\n;;;;;;;;;;x
 GetSocietyRankUpTooltip2_MOBuddhistJain_Rank2;不能为§YCruel§!或§YCynical§!\n;;;;;;;;;;x
 GetSocietyRankUpTooltip2_MOBuddhistJain_Rank3;没有§Y残忍§!、§Y愤世嫉俗§!或其它§Y罪行§!\;;;;;;;;;;x
-EVTDESC20272;To [Root.GetTitledFirstName],\n\nYou are most wise, I shall henceforth continue my [From.SecretReligion.GetName] practices in secret.\n\nYour fellow servant of [From.GetTrueReligionHighGod],\n[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC20272;至[Root.GetTitledFirstName]，\ n \ n您是最明智的，我今后将继续我的[From.SecretReligion.GetName]秘密实验。\ n \ n您的[From.GetTrueReligionHighGod]的追随者，\ n [From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA20272;我知道[From.GetSheHe] 会明白的！;;;;;;;;;;x
-EVTDESC20273;To [Root.GetTitledFirstName],\n\nI will not cower and hide in fear! I shall practice my [From.Religion.GetName] beliefs for all the world to see and people with stronger wills than you will join me in the open.\n\nYour fellow servant of [From.GetTrueReligionHighGod],\n[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC20273;给[Root.GetTitledFirstName],\n\n我不会因为退缩并躲藏在恐惧里，我会锻炼我的[From.Religion.GetName]信仰给全世界看，和那些有强烈的意愿公开加入我的人们。\n\n您虔诚的仆人[From.GetTrueReligionHighGod],\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA20273;真是个傻瓜！[From.GetSheHeCap] 会因我而死！;;;;;;;;;;x
-EVTDESC_MNM_7855_F;The screeching of men and clanging of swords outside my room wakes me from my sleep! They break down the door and barge into my room and slowly approach my bed. One says that I am "Possessed" and another that I "Consort with [Root.Religion.GetRandomEvilGodName]". Some still seem uneasy over what they are about to do but their leader silences them as they put a bag over my head and drag me away...;;;;;;;;;;x
+EVTDESC_MNM_7855_F;屋外人们的尖叫和武器的碰撞声吵醒了我！他们冲了进来，慢慢的接近我的床。一个人说我“中了魔障”，另一个人说我“勾搭上[Root.Religion.GetRandomEvilGodName]”。一些人对他们即将要做的事情很不安，但他们的领头人制止了他们。一个袋子被套在我的脑袋上，然后我被他们拽走了。。。。。。;;;;;;;;;;x
 EVTOPTE_MNM_7855;*流口水*;;;;;;;;;;x
 EVTTOOLTIP3201;§Y[This.GetTitledFirstName]§!将考虑你的建议。;;;;;;;;;;x
 String_offmap_cost_prestige_count;每月1威望;;;;;;;;;;x
 String_offmap_cost_prestige_duke;每月2威望;;;;;;;;;;x
 String_offmap_cost_prestige_king;每月4威望;;;;;;;;;;x
 String_offmap_cost_prestige_emperor;每月8威望;;;;;;;;;;x
-EVTDESC_JD_40011_C;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has been most pleased to notice the esteem you command among your peers. To show [offmap_china.Ruler.GetHerHisCap] appreciation [offmap_china.Ruler.GetSheHeCap] has decided to grant you a rare [From.Offmap.Ruler.Culture.GetName] treasure.;;;;;;;;;;x
-EVTDESC_JD_40011_D;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has been most pleased to notice the esteem you command among your peers. Know that the [offmap_china.Ruler.GetChineseComplimentAdjective] [offmap_china.Ruler.GetLongChineseEmperorName] thinks very highly of you.;;;;;;;;;;x
+EVTDESC_JD_40011_C;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName]注意到你对周围的人很尊重。[offmap_china.Ruler.GetHerHisCap] 为了表示感谢，[offmap_china.Ruler.GetSheHeCap]决定赐你一个稀有的[From.Offmap.Ruler.Culture.GetName] 宝物。;;;;;;;;;;x
+EVTDESC_JD_40011_D;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n[From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName]注意到你对周围的人很尊重。[offmap_china.Ruler.GetChineseComplimentAdjective] [offmap_china.Ruler.GetLongChineseEmperorName]很看好你。;;;;;;;;;;x
 EVTOPT39830_SCHOLAR_TT;因为你拥有 §YScholarly Theologian§! 或 §YMastermind Theologian§! 特质，所以可以选择这一项。;;;;;;;;;;x
 EVTOPT39830_SOLDIER_TT;因为你拥有 §YTough Soldier§!, §YSkilled Tactician§! 或 §YBrilliant Strategist§! 特质，所以可以选择这一项。;;;;;;;;;;x
 EVTOPT39830_HUMBLE_TT;因为你拥有 §YHumble§!, §YContent§! 或 §YGardener§! 特质，所以可以选择这一项。;;;;;;;;;;x
@@ -2383,31 +2385,31 @@ EVTOPT39831_HEDONIST_TT;因为你拥有 §YHedonist§!, §YDrunkard§!, §YGlutt
 EVTOPT39831_CYNIC_TT;因为你拥有 §YCynical§! 或 §YArbitrary§! 特质，所以可以选择这一项。;;;;;;;;;;x
 EVTOPT39831_SCHOLAR_TT;因为你拥有 §YTheologian§!, §YDetached Priest§!, §YDutiful Cleric§!, §YScholarly Theologian§! 或 §YMastermind Theologian§! 特质，所以可以选择这一项。;;;;;;;;;;x
 EVTOPT39831_GREG_TT;因为你拥有 §YGregarious§!, §YCharismatic Negotiator§! 或 §YUnderhanded Rogue§! 特质，所以可以选择这一项。;;;;;;;;;;x
-EVT_DESC_JD_60011;The [From.GetTitle] of the [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] addresses a letter to the traitorous [Root.GetTitle] of the [Root.PrimaryTitle.GetFullName].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], wishes for you to understand that [From.Offmap.Ruler.GetSheHe] can not tolerate such a lack of honor or loyalty from [From.Offmap.Ruler.GetHerHis] Tributaries.\nYour actions will be dealt with.;;;;;;;;;;x
+EVT_DESC_JD_60011;这个 [From.GetTitle] 的 [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] 写了一封信给背叛者 [Root.GetTitle] 的 [Root.PrimaryTitle.GetFullName]。\n\n这个神圣的 [From.Offmap.Ruler.GetLongChineseEmperorName]，希望你能理解 [From.Offmap.Ruler.GetSheHe] 不能容忍如此缺乏荣耀和忠诚[From.Offmap.Ruler.GetHerHis] 的背叛行为。\n你的行为将被处理。;;;;;;;;;;x
 EVT_OPTA_JD_60011;他们不怕我们！;;;;;;;;;;x
-EVTDESCB20110;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been going on and on about what a benevolent and peaceful ruler our liege [From.Host.GetTitledName] is. But other members of the court have informed me of what a shameless and deceitful liar both [From.GetSheHe] and our liege are.;;;;;;;;;;x
+EVTDESCB20110;在 [From.GetHerHis] 拜访我的宫廷期间， [From.GetJobTitle] [From.Host.PrimaryTitle.GetName], [From.GetTitledName]，不停地说诸侯[From.Host.GetTitledName] 是一个多么仁慈和蔼的统治者。但宫廷的其他人却告诉我 [From.GetSheHe]和我的诸侯是多么无耻，狡诈的骗子。;;;;;;;;;;x
 confess_faith_already_has_secret_rel_tt;[Root.GetTitledName] 仍然在秘密修习[Root.SecretReligion.GetName] ;;;;;;;;;;x
-EVTDESCB_MNM_6993;It seems that even [satanists_inductor.GetBestName] can not reach me here in the confines of my cell. It's disappointing, as I was sort of curious to see where our meetings were going... As I attempt to get conformable in my new home I hope that when I am finally free I will see [satanists_inductor.GetHerHim] again.;;;;;;;;;;x
+EVTDESCB_MNM_6993;看起来就算是[satanists_inductor.GetBestName]也不能在这，牢房中救出去。令人失望，我很好奇我们会在哪见面。我尝试去适应我的新家，希望当我自由时能再次见到[satanists_inductor.GetHerHim] 。;;;;;;;;;;x
 EVTOPTB_MNM_6993;[satanists_inductor.GetDWDevil]有着多么强大的力量啊……;;;;;;;;;;x
-EVTDESCB_MNM_6995;It seems that even [satanists_recruiter.GetBestName] can not reach me here in the confines of my cell. It's disappointing, as I was sort of curious to see where our meetings were going... As I attempt to get conformable in my new home I hope that when I am finally free I will see [satanists_recruiter.GetHerHim] again.;;;;;;;;;;x
+EVTDESCB_MNM_6995;看起来就算是[satanists_recruiter.GetBestName]也不能在这，牢房中救出去。令人失望，我很好奇我们会在哪见面。我尝试去适应我的新家，希望当我自由时能再次见到[satanists_recruiter.GetHerHim] 。;;;;;;;;;;x
 EVTOPTB_MNM_6995;[satanists_recruiter.GetDWDevil]的力量是多么强大啊……;;;;;;;;;;x
 title_court_jester_desc;宫廷小丑被留在领主左右以娱乐廷中大众。在宫廷里被视作丑角，总之不是什么德高望重的臣属;;;;;;;;;;x
-monastic_order_education_power_tt;Power: §YWisdom of [From.GetMOSaint]§!\nYour wards have a chance to gain increased attribute points during their education and upon reaching adulthood have a chance to lose wicked traits and gain pious ones.;;;;;;;;;;x
+monastic_order_education_power_tt;致智慧的[From.GetMOSaint]§!\n 您的监护人在教育中得到了一个增加能力点的机会，在他变成成人的途中，他可能会失去一些奇怪的属性并得到一些美德。;;;;;;;;;;x
 EVT_DESCA_MNM_4301;One day as I am sitting with my [From.GetRootRelation] [From.GetFirstName] I decide that I should show [From.GetHerHim] an extract from [GetMOCode] in the hopes of teaching [From.GetHerHim] the way of [GetMOGod]. [From.GetSheHeCap] is very attentive and I am sure [From.GetSheHe] will grow up to join me in the [Root.Society.GetName].;;;;;;;;;;x
 EVT_DESCB_MNM_4301;I have decided to take [From.GetFirstName] along with me today as I preach to the people about [GetMOGod] and how they should try to live their lives according to [GetMOCode]. [From.GetFirstName] is attentive throughout and I am sure [From.GetSheHe] has learnt some valuable lessons about [GetMOGod] and the [Root.Society.GetName] today.;;;;;;;;;;x
 EVT_DESCC_MNM_4301;I am bringing [From.GetFirstName] to the local [GetMOBuilding] today, there [From.GetSheHe] meets with many of my Brothers and Sisters [GetMOPenanceMeditation] who greet [From.GetHerHim] politely. As we leave the [GetMOBuilding] my [From.GetRootRelation] says "[GetMOFarewell]" to all those [From.GetSheHe] met today. I am very proud of [From.GetHerHis] attitude to the ways of [GetMOSaint].;;;;;;;;;;x
 EVT_OPTA_MNM_4301;[From.GetSheHeCap]是个极好的学生！;;;;;;;;;;x
-EVT_DESC_MNM_4303;My former ward [From.GetTitledFirstName] has finished [From.GetHerHis] education, in our final discussions we talked about following the [GetMOCode] and trying improve one's self in the eyes of [GetMOGod]. I have tried to encourage [From.GetHerHim] to do this for [From.GetHerselfHimself] and [From.GetSheHe] has attempted to take my advice, I wonder if [From.GetSheHe] made any progress.;;;;;;;;;;x
+EVT_DESC_MNM_4303;我的前被监护人[From.GetTitledFirstName]完成了[From.GetHerHis]学业，在我们最后的谈话里提到了遵从[GetMOCode]并在[GetMOGod]的庇佑下提升自己。我曾激励[From.GetHerHim]为了 [From.GetHerselfHimself]而做这件事，[From.GetSheHe]接受了我的建议，我在想[From.GetSheHe]是否有什么进展。;;;;;;;;;;x
 EVT_OPTA_MNM_43003;我将询问[From.GetHerHim]进展如何。;;;;;;;;;;x
-EVT_DESC_MNM_4304;My former tutor [From.GetTitledFirstName] has come to ask me how well my attempts to follow the [From.GetMOCode] and improve myself in the eyes of [From.GetMOGod]. [From.GetSheHeCap] wants to know if I have had any success.;;;;;;;;;;x
-EVT_OPTA_MNM_4304;I will tell [From.GetHerHim] how I have followed the ways of [From.GetMOSaint].;;;;;;;;;;x
+EVT_DESC_MNM_4304;我以前的导师[From.GetTitledFirstName]已经开始询问我如何很好的尝试遵循[From.GetMOGod]和提升我自己在[From.GetMOCode]的眼中。[From.GetSheHeCap]想知道我是否获得成功。;;;;;;;;;;x
+EVT_OPTA_MNM_4304;我将告诉 [From.GetHerHim] 我怎么追随[From.GetMOSaint]的路。;;;;;;;;;;x
 EVT_OPTB_MNM_4304;哈！我找到更好的事情做了！;;;;;;;;;;x
 EVT_DESC_MNM_4305;[From.GetFirstName] came and told me all about how [From.GetSheHe] has strived to follow [GetMOCode] and become a better [From.GetManWoman]. [From.GetSheHeCap] talks vigorously of all [From.GetHerHis] prayers and time spent [GetMOPenanceMeditation] in [From.GetHerHis] strive to come closer to [GetMOGod]. [From.GetSheHeCap] seems to have had great success!;;;;;;;;;;x
 EVT_OPTA_MNM_4305;我就知道[From.GetSheHe]可以做到的！;;;;;;;;;;x
-EVT_DESC_MNM_4306;[From.GetFirstName] quickly changes the topic and no matter what I say [From.GetSheHe] refuses to talk about the matter... It seems [From.GetSheHe] has found "better" things to do... I am disappointed at [From.GetHerHis] lack of dedication to [GetMOGod] and [GetMOCode] and I hang my head in shame as I bid [From.GetHerHim] farewell. I failed [From.GetHerHim] as a tutor and must spend time [GetMOPenanceMeditation] to clear my mind.;;;;;;;;;;x
+EVT_DESC_MNM_4306;[From.GetFirstName]很快转移了话题，无论我怎么说[From.GetSheHe]都拒绝讨论这件事。。。。。。看上去[From.GetSheHe]已经找到的“更好”的事情去做。。。。。。我对[From.GetHerHis]缺乏对[GetMOGod]和[GetMOCode] 的奉献精神很是失望，我在羞耻中向[From.GetSheHe]告别。作为[From.GetHerHim]导师我很失败，我需要在[GetMOPenanceMeditation]更下功夫好让我让我平静一下。;;;;;;;;;;x
 EVT_OPTA_MNM_4306;我对[From.GetHerHim]有过更高的期望。;;;;;;;;;;x
 surrender_tributary_tt;[This.GetTitledFirstName]将会同意这个和平解决问题的方案——成为§Y[Root.GetTitledName]§的朝贡国!.;;;;;;;;;;x
-EVT_DESC_JD_2500;[tribute_war_suzerain.GetTitledFirstName] wishes to extort a flow of gold from the lands of [Root.PrimaryTitle.GetName]. [tribute_war_suzerain.GetSheHeCap] is willing to send [tribute_war_suzerain.GetHerHis] soldiers to die for it. But am I as willing to send mine? I could surrender peacefully now and end this before my soldiers are potentially slaughtered, their families left to die and villages burnt to the ground... Or we fight to protect our land and drive back these [tribute_war_suzerain.Culture.GetName] invaders!;;;;;;;;;;x
+EVT_DESC_JD_2500;[tribute_war_suzerain.GetTitledFirstName]希望从[Root.PrimaryTitle.GetName]的土地上敲诈大量黄金。 [tribute_war_suzerain.GetSheHeCap]想要派[tribute_war_suzerain.GetHerHis]士兵为之而战斗致死。 但我愿意送我自己去吗？ 我现在可以平静地投降和在我的士兵被屠杀，他们的家人被杀和村庄被烧毁之前结束这一切......或者我们可以战斗为保护我们的土地，并赶回这些[tribute_war_suzerain.Culture.GetName]入侵者！;;;;;;;;;;x
 EVT_OPTA_JD_2500;我将在臣民鲜血浸没这片土地前结束这一切。;;;;;;;;;;x
 EVT_OPTB_JD_2500;我们必须保护属于我们的东西！我们要战斗！;;;;;;;;;;x
 surrender_tributary_event_tt;向 §Y[tribute_war_suzerain.GetTitledName]§!送去一份关于此次争端的和平方案的书信，同意成为他们的朝贡国;;;;;;;;;;x
@@ -2424,7 +2426,8 @@ EVT_DESC_JD_2503;致 [Root.GetTitledFirstName],\n\n你的提议是一种懦夫�
 EVT_OPTA_JD_2503;我有过一种它会这样的感觉。;;;;;;;;;;x
 EVTDESC39705C;我将罗马授予了她应有的统治者，从此教宗可以在与其名望相配的居所领导天主教教会。很快教宗就将移居至历代天主教教宗先贤们办公的寓所。;;;;;;;;;;x
 EVTDESC39705D;[From.GetTitledFirstName]将罗马授予了她应有的统治者，从此教宗可以在与其名望相配的居所领导天主教教会。很快教宗就将移居至历代天主教教宗先贤们办公的寓所。;;;;;;;;;;x
-decision_abduct_power_desc;Enables §Gright-clicking§! the portraits of characters a lower tier than Duke or relative to someone a lower tier than Duke to attempt to abduct and imprison them with the help of your brethren in [From.Society.GetName], in exchange for §Y[From.Society.GetCurrency]§!.;;;;;;;;;;x
+decision_abduct_power_desc;允许§Gright-clicking§!低于公爵的角色或一个低于公爵角色的亲戚在[From.Society.GetName]兄弟们的帮助下，尝试诱拐和监禁他们，交换§Y[From.Society.GetCurrency]§!.
+;;;;;;;;;;x
 EVT_DESC_ZP_8;今天是难过的一天。成为我的守护者的那条狗过世了，它曾经忠实地保护我和我的家人免受恶灵的侵害。今天是悲伤和哀悼的日子。;;;;;;;;;;x
 EVT_OPTA_ZP_8;他忠心一生。;;;;;;;;;;x
 EVT_DESC_ZP_9;今天真不幸，我带回家的那只为我忠实地捕杀害虫的刺猬去世了。真是悲伤和哀悼的一天。;;;;;;;;;;x
@@ -2443,7 +2446,7 @@ b_kallarwala;卡拉瓦拉;;;;;;;;;;x
 b_kashmir_kili;Kashmir Kili;;;;;;;;;;x
 b_peshai;Peshai;;;;;;;;;;x
 b_kot_waras;Kot Waras;;;;;;;;;;x
-b_palasi;Palasi;;;;;;;;;;x
+b_palasi;帕腊斯;;;;;;;;;;x
 b_bhaminpur;Bhaminpur;;;;;;;;;;x
 b_katewala;Katewala;;;;;;;;;;x
 b_chenga;Chenga;;;;;;;;;;x
@@ -2454,33 +2457,33 @@ b_pejoke;Pejoke;;;;;;;;;;x
 b_daryun;Daryun;;;;;;;;;;x
 tooltip_silk_road_required;领土内必须有一个省份在丝绸之路上;;;;;;;;;;x
 religious_cb_succ_muslim_tip;§Y[Root.GetTitledFirstName]§!附庸了§Y[This.GetFullBaseName]§!的领主\n;;;;;;;;;;x
-theocratic_feudal_government;封建僧侣;;;;;;;;;;x
-theocratic_feudal_government_desc;The Monastic Feudal government, much like the ordinary Feudal government, revolves around the oath between liege and vassal, and Monastic Feudal lords can only directly own so many Holdings before they must start to rely on vassals - whose loyalty may vary... The Monastic Feudal government is unique to Tibetans of either the Buddhist or Bön faiths, and allows holding Temples in addition to Castles. Monastic Feudal rulers can also construct Gompa Monastery buildings in Castle holdings.;;;;;;;;;;x
+theocratic_feudal_government;教权封建制;;;;;;;;;;x
+theocratic_feudal_government_desc;教权封建制与传统的封建制政府甚为相同，其基础均由领主与附庸间的誓约构成。如果不依靠那些未必忠诚的附庸，教权封建制的领主只能直辖一定数量的领地。教权封建制是信仰苯教和佛教的藏人的独有政体，允许直辖寺院和城堡。教权封建制领主亦能在城堡领地中建设西藏寺庙。;;;;;;;;;;x
 custom_eastern_edge_of_map;东方边缘;;;;;;;;;;x
-custom_chinese_invasion_target_region;Chinese Region of Influence;;;;;;;;;;x
-ADD_RALLY_POINT_INFO;§YOpen Rally Point view§!\n\nRally points makes units automatically gather in predefined Counties. Army rally points are accessed through activating the Army Levies tab and Navy Rally Points are accessed through the Fleet Levies tab.;;;;;;;;;;x
+custom_chinese_invasion_target_region;中国宗教的影响;;;;;;;;;;x
+ADD_RALLY_POINT_INFO;§YOpen Rally Point view§!\n\n集合点功能让单位自动聚集在之前决定的省份。陆军集合点在陆军征召界面激活，海军则在海军界面激活。;;;;;;;;;;x
 ca_government_monastery_1;西藏寺庙;;;;;;;;;;x
 ca_government_monastery_2;西藏寺庙;;;;;;;;;;x
 ca_government_monastery_3;西藏寺庙;;;;;;;;;;x
 ca_government_monastery_4;西藏寺庙;;;;;;;;;;x
 ca_government_monastery_1_desc;这种经过加固的藏传佛教寺院保护了坐落于其中的修道院与学院。;;;;;;;;;;x
-OFFMAP_GIFTS_DESC;If the §Y[offmap_china.GetName]§! is amenable to foreign relations you can send an envoy to provide the Emperor with a token of your subservience. Paying Tribute will increase your §YGrace§!.;;;;;;;;;;x
+OFFMAP_GIFTS_DESC;如果§Y[offmap_china.GetName]§!有意与异邦结交，你可以派遣使者向皇帝献上顺从的象征。进贡能提升你的§Y皇恩§!。;;;;;;;;;;x
 chinese_siege_engineers_effect_tt;三位围城工程师加入了你的宫廷。他们精通于使用炸药暗中破坏防御工事以及建造攻城塔来攀登城墙。;;;;;;;;;;x
 chinese_siege_engineers;请求攻城专家;;;;;;;;;;x
-chinese_siege_engineers_desc;The §Y[Root.Offmap.GetFullName]§! is famed for their schools of Engineering and Warfare. You can request some of their Siege Engineers to come and serve as commanders for your warmongering needs. These character all have the §YWay of the Leopard§! trait (Siege Speed: §G50%§!).;;;;;;;;;;x
-EVTDESC_JD_3001;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. War Engineer [chinese_siege_engineer_1.GetDynName] along with two of [chinese_siege_engineer_1.GetHerHis] apprentices, [chinese_siege_engineer_2.GetDynName] and [chinese_siege_engineer_3.GetDynName], have been dispatched to your court.;;;;;;;;;;x
-EVTOPTA_JD_3001;Send my most sincere gratitude to the [From.Offmap.Ruler.GetTitle].;;;;;;;;;;x
+chinese_siege_engineers_desc;§Y[Root.Offmap.GetFullName]§!因为他们的战争与工程学院而声名远播，你可以请求几名围城工程师作为你的将军为你的穷兵黩武服务。这些角色都有§YWay of the Leopard§!属性(Siege Speed: §G50%§!).;;;;;;;;;;x
+EVTDESC_JD_3001;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n天子陛下[From.Offmap.Ruler.GetLongChineseEmperorName]将和蔼地满足你的心愿。匠作大将[chinese_siege_engineer_1.GetDynName]及[chinese_siege_engineer_1.GetHerHis]两位学徒，[chinese_siege_engineer_2.GetDynName]和[chinese_siege_engineer_3.GetDynName]，也已前往你的宫廷;;;;;;;;;;x
+EVTOPTA_JD_3001;向[From.Offmap.Ruler.GetTitle]致以衷心的感谢。;;;;;;;;;;x
 EVTOPTB_JD_3001;我会立即使用它们！;;;;;;;;;;x
 EVTOPTB_JD_3001_tt;攻城专家将会占用一个未使用的指挥官名额，如果没有空余的指挥官名额，请尽快空出一个来！;;;;;;;;;;x
 EVTOPTA_JD_3001_tt;将所有目前开放的指挥员位置分配给攻城工程师。;;;;;;;;;;x
 chinese_grace_offer_physician;派遣医生;;;;;;;;;;x
-chinese_grace_offer_physician_desc;As the §Y[Root.Offmap.GetFullName]§! is being ravaged by a devastating plague, you can offer to send a medically-schooled individual to go and protect the Emperor from disease and infection. This interaction can only be taken once per character.;;;;;;;;;;x
+chinese_grace_offer_physician_desc;因为§Y[Root.Offmap.GetFullName]§!正在被一场毁灭性的瘟疫蹂躏，您可以建议送出一名受过医学教育的学者并保护皇室远离疾病和感染的威胁。这项行动一个角色只能接受一次;;;;;;;;;;x
 china_tribute_send_physician_tt;尚未派送医生;;;;;;;;;;x
 send_physician_potential_tt;§YPhysician Requirements§!:\nMust be your currently assigned Court Physician or a character with either the Renowned Physician, Scholar or Mystic traits\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;x
 chinese_grace_become_tributary_allow_chinese_influence_tt;这个国家在中国影响的范围内\n;;;;;;;;;;x
 taoist_opinion;道教意见;;;;;;;;;;x
 EVTDESC_JD_3011;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n天子[From.Offmap.Ruler.GetLongChineseEmperorName]已经慷慨地接收了你的救灾远征队。他们带来的物资会被好好使用。天朝不会忘记[Root.GetOnlyDynastyName]王朝的慷慨。;;;;;;;;;;x
-EVTOPTA_JD_3011;Anything to please the [From.Offmap.Ruler.GetTitle].;;;;;;;;;;x
+EVTOPTA_JD_3011;只要能取悦[From.Offmap.Ruler.GetTitle]。;;;;;;;;;;x
 chinese_grace_send_relief;派遣救援队;;;;;;;;;;x
 chinese_grace_send_relief_desc;§Y[Root.Offmap.GetFullName]§!正在遭受一场大饥荒，你可以提出派遣救援队来提供救援物资，并帮助皇帝维护中国的稳定。\n;;;;;;;;;;x
 china_send_relief;向中国送去救援物资;;;;;;;;;;x
@@ -2489,7 +2492,7 @@ chinese_request_invasion_desc;Ask the §Y[Root.Offmap.GetFullName]§! to declare
 sui_china;隋;;;;;;;;;;x
 destabilization_china_cb_desc;中国可以通过战争来粉碎他们认为太大的领域。;;;;;;;;;;x
 CB_NAME_DESTABILIZATION_CHINA;粉碎领土;;;;;;;;;;x
-WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ War to Shatter the Realm of $DEFENDER$;;;;;;;;;;x
+WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ 战争为了破坏 $DEFENDER$的领域;;;;;;;;;;x
 destabilization_china_success_tt;所有的王国和帝国都被摧毁。;;;;;;;;;;x
 EVTDESC_JD_3021;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], agrees with your wise judgement that [chinese_invasion_target.GetFullName] threatens to destabilize the world. The forces of the [From.Offmap.GetFullName] are already marching out of the Middle Kingdom.;;;;;;;;;;x
 EVTDESC_JD_3022_A;Following the wicked lies of [chinese_invasion_instigator.GetBestName], the [From.Offmap.GetName] has declared war upon us with the intent of shattering our glorious realm! [From.Offmap.Ruler.Culture.GetName] armies are already marching towards [chinese_invasion_target.PrimaryTitle.GetName], we must prepare for a long and bloody struggle.;;;;;;;;;;x
@@ -2497,11 +2500,11 @@ EVTDESC_JD_3022_B;Following the sage advice of [chinese_invasion_instigator.GetB
 EVTOPTC_JD_3022;一切照计划进行...;;;;;;;;;;x
 OFFMAP_BOONS_DESC;If the §Y[offmap_china.GetName]§! is amenable to foreign relations, and you have not yet had your appeals heard in the past year, you can send an envoy to request any one of a variety of blessings the Emperor might deem you worthy of. Asking for Boons costs §YGrace§!.;;;;;;;;;;x
 chinese_grace_peace_deal_desc;Send a request to §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!, asking for peaceful relations with the §Y[Root.Offmap.GetFullName]§! and its §Y[Root.Offmap.Governor.GetTitle]§!. Having a §YPeace Deal§! ensures that the §Y[Root.Offmap.GetFullName]§! does not target your realm should they go on the warpath.;;;;;;;;;;x
-chinese_grace_doctor_desc;The §Y[Root.Offmap.GetFullName]§! is famed for their learned citizens. You can request to have one of these scholars come to your court and serve as your personal physician. This character always has the §YPhysician§! trait.;;;;;;;;;;x
+chinese_grace_doctor_desc;§Y[Root.Offmap.GetFullName]§!因为他们知识丰富的居民而声名远播，你可以请求一名当地学者来到你的宫廷成为你的私人医生。这个角色一定会有 §YPhysician§!特性;;;;;;;;;;x
 chinese_strategist_desc;Over the centuries, military geniuses of the §Y[Root.Offmap.GetFullName]§! have come to master the art of war. You can request to have a commander proficient in Chinese strategy join your court. This §YStrategist§! will teach your existing commanders about Chinese military tactics, granting them special §YCommander Traits§!.;;;;;;;;;;x
 chinese_administrator_desc;Through the rigorous imperial examinations, the §Y[Root.Offmap.GetFullName]§! has created a class of educated scholar-bureaucrats. You can request to have one of them serve you as an administrator. Having a §YScholar-Bureaucrat§! employed will reduce §GBuild Cost§! and §GBuild Time§!.;;;;;;;;;;x
 chinese_master_engineer_desc;The §Y[Root.Offmap.GetFullName]§! is the cradle of countless wonders of technology. You can request to have a Chinese master engineer join your court. A §YMaster Engineer§! will improve your demesne with powerful §GProvince Modifiers§!.;;;;;;;;;;x
-chinese_silk_road_favored_status_desc;By requesting the Imperial seal our trade posts will attract merchants from far and wide to trade in exotic goods. Having an §YImperial Trade Contract§! will boost the value of your §YSilk Road Trade Posts§! by §G100%§! for §Y25 years§!.;;;;;;;;;;x
+chinese_silk_road_favored_status_desc;请求一份皇家贸易合同，这样我们的贸易站就将吸引了四面八方的商人来贩卖异国商品。一份§Y皇家贸易合同§!将提高您在§丝绸之路§! 上的贸易站§G100%§!的贸易价值，持续 §Y25年§!;;;;;;;;;;x
 chinese_imperial_marriage_desc;The ones truly favored by §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! can, on behalf of themselves or a close relative, request to marry a relative of the Emperor's. Performing an §YImperial Marriage§! will grant you §G500§! §YPrestige§! as well as give you a §GPeace Treaty§! with China. The spouse of an Imperial Princess or Prince will be able to raise a regiment of §GHonor Guards§! when at war.;;;;;;;;;;x
 opinion_forced_tributary;使我成为朝贡国;;;;;;;;;;x
 recently_made_tributary_tt;§Y15年§!以内没有成为过朝贡国，或者原宗主已死;;;;;;;;;;x
@@ -2509,7 +2512,7 @@ EVTOPTA_JD_3021;我们将在这个努力中虚心协助皇帝！;;;;;;;;;;x
 d_army_light;轻步兵;;;;;;;;;;x
 chinese_artifact;请求得到中国宝物;;;;;;;;;;x
 chinese_artifact_desc;The craftsmen and artists of the §Y[Root.Offmap.GetFullName]§! are famed for creating masterful and beautiful art. You can request to have one of these artifacts sent to you. You will receive a random artifact ranging from quality §Y1§! to §Y3§!.;;;;;;;;;;x
-chinese_artifact_has_all_tt;Does NOT already have all Chinese artifacts ranging from quality §Y1§! to §Y3§!;;;;;;;;;;x
+chinese_artifact_has_all_tt;已经没有任何等级 §Y1§ 到 等级  §Y3§ 的中国宝物了;;;;;;;;;;x
 chinese_artifact_effect_tt;您将收到一个 §YChinese Artifact§!!;;;;;;;;;;x
 EVTDESC_JD_3031;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A wondrous artifact of expert [From.Offmap.Ruler.Culture.GetName] craftsmanship will be bestowed upon you for safekeeping.;;;;;;;;;;x
 EVTOPTA_JD_3031;真是个绝妙的物品！;;;;;;;;;;x
@@ -2548,30 +2551,30 @@ chinese_tapestry_name;[tapestry_target.GetName]的壁毯;;;;;;;;;;x
 chinese_tapestry_desc;一个美丽的挂毯描绘了丝绸之路上的一个市场。看着它几乎可以听到硬币的叮当声和十几种语言的喋喋不休。;;;;;;;;;;x
 chinese_tapestry_grand;中国挂毯;;;;;;;;;;x
 chinese_tapestry_grand_name;[offmap_china.GetShortName]代挂毯;;;;;;;;;;x
-chinese_tapestry_grand_desc;A magnificent tapestry showing the splendor of China and its Emperor. It depicts Chinese armies in a triumphant victory over a barbaric horde, and a grand dragon - a symbol of imperial authority - looking down at them from the clouds above.;;;;;;;;;;x
+chinese_tapestry_grand_desc;这是一块华丽的织锦，表现了天朝和天子的辉煌。图案描绘了天朝军队对野蛮游牧民的胜利，一条巨龙——皇权的象征——在上空的云层望着他们。;;;;;;;;;;x
 k_xixia;西夏;;;;;;;;;;x
 k_xixia_adj;西夏;;;;;;;;;;x
-primary_defender_or_attacker_tt;Must be the §YPrimary Attacker§! or §YPrimary Defender§! in a war;;;;;;;;;;x
+primary_defender_or_attacker_tt;必须是战争的§Y主进攻方§!或者§Y主防御方§!;;;;;;;;;;x
 chinese_grace_offer_commander;派遣指挥官;;;;;;;;;;x
 chinese_grace_offer_commander_desc;As the §Y[Root.Offmap.GetFullName]§! is in a state of turmoil, you can offer up one of your most gifted commanders to go and join the [Root.Offmap.GetShortName] Army as an auxiliary officer.;;;;;;;;;;x
 china_tribute_send_commander_cooldown_tt;20年内没有派遣指挥官;;;;;;;;;;x
 send_commander_potential_tt;§YCommander Requirements§!:\nMust be a valid Commander with at least 12 martial\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;x
-china_commander_cd;§YRecently Sent Commander§!;;;;;;;;;;x
-china_commander_cd_desc;You have recently sent a Commander to China, if China is still in turmoil you will be able to send another one on: §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;;;;;;;;;x
+china_commander_cd;§Y最近赠送了指挥官§!;;;;;;;;;;x
+china_commander_cd_desc;你最近已经送过一个指挥官给中国，如果中国内乱持续，你将能继续送另一个指挥官: §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;;;;;;;;;x
 reclaim_nomad_province;解放游牧区;;;;;;;;;;x
 reclaim_nomad_province_desc;在这个县有自由奔放的游牧民 - 现在，当我们控制住我们的时候，我们不会让他们被久坐的霸主所压迫！;;;;;;;;;;x
-EVTDESC_JD_20046_C;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetShortChineseEmperorName] has decided to grant the house of [Root.GetOnlyDynastyName] the greatest honor. [From.Offmap.Ruler.GetHerHisCap] niece, the [imperial_marriage_spouse_2.GetChineseComplimentAdjective] Princess [imperial_marriage_spouse_2.GetFirstName], will become the bride of [imperial_marriage_spouse_1.GetTitledFirstName].;;;;;;;;;;x
-INC_PER_YEAR_SHORT;/ chance per year to increase by §Y0.1§!;;;;;;;;;;x
+EVTDESC_JD_20046_C;[Root.GetGovernorLetterGreeting]。[Root.GetChineseLetterBlessing]。\n\n天子陛下[From.Offmap.Ruler.GetShortChineseEmperorName]现已决定将至上的荣耀赐予[Root.GetOnlyDynastyName]家族。[From.Offmap.Ruler.GetHerHisCap]侄女，[imperial_marriage_spouse_2.GetChineseComplimentAdjective]公主[imperial_marriage_spouse_2.GetFirstName]，将会成为[imperial_marriage_spouse_1.GetTitledFirstName]的新娘。;;;;;;;;;;x
+INC_PER_YEAR_SHORT;/ 每年增加 §Y0.1§!;;;;;;;;;;x
 chinese_grace_supply_horses;提供马匹;;;;;;;;;;x
-chinese_grace_supply_horses_desc;Nomadic realms can please the §Y[Root.Offmap.GetFullName]§! by sending them a continuous supply of horses. For as long as you supply horses, you will gain a ticking amount of §GGrace§! in exchange for a small penalty to your §YManpower§!. You can at any point stop supplying horses, but if you do you will not be able to start supplying them again with the same character. While you are supplying horses China is less likely to invade you.;;;;;;;;;;x
+chinese_grace_supply_horses_desc;游牧国家可以通过持续进贡马匹来取悦§Y[Root.Offmap.GetFullName]§!。只要你还提供马匹，你就能以§Y人力§!为代价，持续得到§G皇恩§! 。你可以随时停止马匹的进贡，但直到你扮演其他角色前，就不能再次进贡。当你进贡马匹时中国不太可能进攻你。;;;;;;;;;;x
 china_supply_horses;向中国提供马匹;;;;;;;;;;x
 china_supply_horses_desc;这个游牧统治者正在给中国提供马匹;;;;;;;;;;x
 chinese_grace_supply_horses_not_already_supplying_tt;没有正在提供马匹;;;;;;;;;;x
 chinese_grace_supply_horses_stopped_supplying_tt;之前没有选择停止提供马匹;;;;;;;;;;x
-EVTDESC_JD_3041;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously accepted your offer of supplying [From.Offmap.Ruler.GetHerHis] army with magnificent steeds.;;;;;;;;;;x
+EVTDESC_JD_3041;Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n至尊的[From.Offmap.Ruler.GetLongChineseEmperorName],非常优雅地接受了你进贡的[From.Offmap.Ruler.GetHerHis] 带有骏马的军队。;;;;;;;;;;x
 EVTOPTA_JD_3041;愿他们碾碎你的敌人！;;;;;;;;;;x
 chinese_grace_stop_supply_horses;停止提供马匹;;;;;;;;;;x
-chinese_grace_stop_supply_horses_desc;If you no longer require the §Y[Root.Offmap.GetFullName]§!'s grace, you can choose to stop supplying horses to them. You will be unable to start supplying horses again with this character.;;;;;;;;;;x
+chinese_grace_stop_supply_horses_desc;如果你不需要 §Y[Root.Offmap.GetFullName]§! 的恩赐，你可以选择不再给他们提供马匹。你将不能再次以这个角色提供马匹;;;;;;;;;;x
 d_han_massive_adj;王师;;;;;;;;;;x
 d_han_large_adj;火凤军;;;;;;;;;;x
 d_han_mid_adj;麒麟军;;;;;;;;;;x
@@ -2591,8 +2594,10 @@ EVTDESC_JD_10032_A;A nervous foreigner has shown up at court. Flinching at anyon
 EVTDESC_JD_10032_B;My guards have dragged a Chinese thief before me. "[chinese_refugee.GetSheHeCap] claims to have an audience scheduled with you, my [Root.GetLordLady]", they report. "Please, forgive the ruse", the [chinese_refugee.GetManWoman] urges in a heavy accent, voice thick with emotion. "I'm a [chinese_refugee.GetChineseProfession]  any Chinese court would be ecstatic to have me! Take pity on my soul, [Root.GetMasterMistress].";;;;;;;;;;x
 EVTDESC_JD_10032_C;A suspected spy has tried to enter [Root.Capital.Capital.GetName] tonight, stopped only by guards who spotted the glint of armor under [chinese_refugee.GetHerHis] cloak. When confronted, the foreigner claims to be a [chinese_refugee.GetChineseProfession], fleeing the [offmap_china.GetFullName]. Upon inspection, I notice [chinese_refugee.GetHerHis] worn expression, and an armor not only covered in dust, but dark stains of blood.;;;;;;;;;;x
 EVTDESC_JD_10032_D;A Chinese healer has taken shelter in a small village outside of [Root.Capital.Capital.GetName], supposedly treating people in exchange for food, and successfully so. My courier first thought the [chinese_refugee.GetManWoman] a beggar, but rumor has it [chinese_refugee.GetSheHe] comes fleeing the current situation in the [offmap_china.GetFullName]. "It would explain [chinese_refugee.GetHerHis] ragtag appearance, my [Root.GetLordLady].";;;;;;;;;;x
-EVTOPTA_JD_10032;You may stay. The [offmap_china.GetFullName] is no place for anyone right now.;;;;;;;;;;x
-EVTOPTB_JD_10032;This is not a criminal, you buffoons. [chinese_refugee.GetSheHeCap]'s a refugee!;;;;;;;;;;x
+EVTOPTA_JD_10032;你可能需等待
+[offmap_china.GetFullName]現在沒任何空位;;;;;;;;;;x
+EVTOPTB_JD_10032;這不是一個罪犯你們這些沒教養的傢伙
+[chinese_refugee.GetSheHeCap]是一個難民;;;;;;;;;;x
 EVTOPTC_JD_10032;像你这样的老手可以为我所用。;;;;;;;;;;x
 EVTOPTA_JD_10032_TT;中国人[chinese_refugee.GetManWoman]加入你的宫廷。\n;;;;;;;;;;x
 EVTOPTD_JD_10032;怎么不早点告诉我？我们[Root.Capital.Capital.GetName]这儿正需要一位医师！;;;;;;;;;;x
@@ -2630,20 +2635,20 @@ EVTOPTB_JD_10131_TT;§Y[offmap_china.GetFullName]§!与§Y[the_defender.GetTitle
 PROV1509;丝绸之路;;;;;;;;;;x
 PROV1510;丝绸之路;;;;;;;;;;x
 PROV1512;丝绸之路;;;;;;;;;;x
-confess_faith_courtiers_decision_tooltip;Any non-zealous courtiers of your religion will have a chance of joining you in falsely confessing their faith.;;;;;;;;;;x
+confess_faith_courtiers_decision_tooltip;每个和你有共同信仰的廷臣都有可能和你一起错误地对信仰进行忏悔;;;;;;;;;;x
 TITLE_GENERAL;将军;;;;;;;;;;x
 REBEL_GENERAL;[offmap_china.GetShortName]叛乱;;;;;;;;;;x
 DEATH_WENT_BACK_TO_CHINA;被送回中国$凶手$;;;;;;;;;;x
 DEATH_WENT_BACK_TO_CHINA_NO_KILLER;回到中国的家园;;;;;;;;;;x
-china_offmap_decisions_pretender_emperor_tt;Is §RNOT§! the ruler of a pretender Chinese Empire;;;;;;;;;;x
+china_offmap_decisions_pretender_emperor_tt;§RNOT§!是天朝的篡位者？;;;;;;;;;;x
 gov_pretender_chinese_empire;中华帝国;;;;;;;;;;x
 EVTDESC_JD_10108_REBEL_GENERAL;After the recent civil war in the Middle Kingdom was crushed by the forces of the [offmap_china.Ruler.GetEmperorEmpress], one of the rebels that opposed [offmap_china.Ruler.GetHerHim], [rebel_general.GetTitledFirstName], has fled westwards with his forces. He claims that the [offmap_china.Ruler.GetOnlyDynastyName] dynasty is not fit to rule and that he is the true Son of Heaven and shall establish his own Empire.;;;;;;;;;;x
-EVT_DESC_JD_60202;I have heard more news about [rebel_general.GetTitledFirstName]. It seems he and his men are moving with haste towards [Root.PrimaryTitle.GetName]. The rumors say that they have set their eyes on my lands to be the starting point of their new Empire.;;;;;;;;;;x
+EVT_DESC_JD_60202;我听到越来越多的关于[rebel_general.GetTitledFirstName] 的消息. 看来他和他的人在向[Root.PrimaryTitle.GetName]极速行军. 传闻说他们想把我的土地当做他们新帝国的起点;;;;;;;;;;x
 EVT_OPTA_JD_60202;他们在这里不会轻易打架！;;;;;;;;;;x
 rebel_general_will_invade_tt;[From.GetTitledName] 将在不久后入侵。;;;;;;;;;;x
 EVT_DESC_JD_60207;The word from the traders is that [rebel_general.GetTitledFirstName] was set upon by the armies of the [offmap_china.GetFullName]. The rebel troops never stood a chance against the well supplied and loyal troops of the [offmap_china.Ruler.GetEmperorEmpress].;;;;;;;;;;x
-EVT_OPTA_JD_60207;So much for the threats of [rebel_general.GetTitledFirstName].;;;;;;;;;;x
-dismantle_pretender_china_cb_desc;China will stop at nothing to show the pretenders that they are the one and only Empire of China.;;;;;;;;;;x
+EVT_OPTA_JD_60207;如此多的威胁来自于[rebel_general.GetTitledFirstName]。;;;;;;;;;;x
+dismantle_pretender_china_cb_desc;中国将毫不犹豫地向觊觎者证明中华帝国的统一和唯一性;;;;;;;;;;x
 CB_NAME_DISMANTLE_PRETENDER_CHINA;消灭僭伪
 ;;;;;;;;;;x
 WAR_NAME_DISMANTLE_PRETENDER_CHINA;The $ORDER$[offmap_china.GetFullName] War to Dismantle the Pretender [Recipient.PrimaryTitle.GetFullName];;;;;;;;;;x
@@ -2664,12 +2669,12 @@ familial_kinslayer_desc;这个角色杀死了他所在大家族的远亲，他�
 dynastic_kinslayer;王朝弑亲者;;;;;;;;;;x
 dynastic_kinslayer_desc;这个角色被称为已经杀害了他们的王朝成员 - 他们的家庭现在以恐惧和蔑视的眼光看待他们。;;;;;;;;;;x
 EVTDESCA38287;我杀死了我的一位近亲！我现在已经获得了弑亲禽兽特质。;;;;;;;;;;x
-EVTDESCB38287;My actions have killed a member of my extended family! I have gained the Familial Kinslayer trait.;;;;;;;;;;x
+EVTDESCB38287;我杀死了我的家族成员！我获得了弑亲者特质。;;;;;;;;;;x
 EVTDESCC38287;我杀死了一位家族成员！我已经获得了家族阋墙特质。;;;;;;;;;;x
 chinese_tribute_become_tributary_cooldown_tt;在30年内还没有摆脱过朝贡;;;;;;;;;;x
 tributary_independence_china_tt;在未来30年或中国的统治王朝发生变化之前，你将无法成为中国的朝贡国。;;;;;;;;;;x
 armor_tier_1;锁子甲;;;;;;;;;;x
-armor_tier_1_desc;A basic set of armor made up of many small metal rings linked together.;;;;;;;;;;x
+armor_tier_1_desc;一套由金属环连接在一起的基础锁甲。;;;;;;;;;;x
 armor_tier_2;板甲;;;;;;;;;;x
 armor_tier_2_desc;这套盔甲比锁子甲更为先进，在金属环之间附有坚固的金属板，以保护身上的重要弱点。;;;;;;;;;;x
 armor_tier_3_guardian;卫兵;;;;;;;;;;x
@@ -2684,7 +2689,7 @@ employ_a_smith_desc;发出消息说你正在找一个善于锻造的铁匠。;;;
 employ_a_smith_no_weapons_tt;不拥有任何武器锻造的武器;;;;;;;;;;x
 employ_a_smith_no_armor_tt;没有锻造出来的盔甲;;;;;;;;;;x
 employ_a_smith_no_crowns_tt;没有任何锻造出来的珠宝。;;;;;;;;;;x
-employ_a_smith_tt;Decide what type of smith you wish to employ.\nThe §Yfull cost§! of the item you commission will be dependent on its §Ytype§! and §Ytier§!.;;;;;;;;;;x
+employ_a_smith_tt;决定雇佣何种匠人 （你定做的物品的\nThe §Yfull cost§!将由物品的§Ytype§!和§Ytier§!决定）;;;;;;;;;;x
 String_set_of_armor;一套盔甲
 ;;;;;;;;;;x
 String_weaponsmith;武器匠;;;;;;;;;;x
@@ -2694,12 +2699,12 @@ EVT_DESC_MNM_9130;你想向哪种类型的铁匠发出请求？;;;;;;;;;;x
 EVT_OPTA_MNM_9310;武器大师为我锻造了致命的武器！;;;;;;;;;;x
 employ_a_smith_weapon_search_tt;你将发出一个你需要§Y武器锻造师§!.的消息;;;;;;;;;;x
 EVT_OPTB_MNM_9310;我需要一套新的盔甲，给我我找到最好的铸甲师。;;;;;;;;;;x
-employ_a_smith_armor_search_tt;You will send out word that you are in need of an §Yarmorsmith§!.;;;;;;;;;;x
+employ_a_smith_armor_search_tt;你将放出需要一个§Yarmorsmith§!.的消息;;;;;;;;;;x
 EVT_OPTC_MNM_9310;请找一个金匠来，我要打造出符合我地位的珠宝。;;;;;;;;;;x
-employ_a_smith_gold_search_tt;You will send out word that you are in need of a §Ygoldsmith§!.;;;;;;;;;;x
+employ_a_smith_gold_search_tt;你将放出需要一个§Ygoldsmith§!.的消息;;;;;;;;;;x
 EVT_OPTD_MNM_9310;事实上现在可能确实不是最好的时机;;;;;;;;;;x
 EVTOPTG_MNM_9118;我需要保护！为我锻造一套坚固而强力的盔甲。;;;;;;;;;;x
-EVTOPTG_MNM_9118_TT;Armor provides a bonus to §YMorale Offense§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.;;;;;;;;;;x
+EVTOPTG_MNM_9118_TT;护甲将增强在进攻中的§YMorale Offense§!，§YMartial§!， §YPersonal Combat Skill§!及 §YMonthly Prestige§!;;;;;;;;;;x
 EVTOPTA_MNM_9120_TT_ARMOR;Order a [From.GetWeaponsmithWeapon] of the highest quality. This armor will give you §G+10%§! to §YMorale Offense§!, §G+0.75§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+2§! §YPersonal Combat Skill§!.;;;;;;;;;;x
 EVTOPTB_MNM_9120_TT_ARMOR;Order a good quality [From.GetWeaponsmithWeapon]. This armor will give you §G+5%§! to §YMorale Offense§!, §G+0.5§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;x
 EVTOPTC_MNM_9120_TT_ARMOR;Order the cheapest [From.GetWeaponsmithWeapon]. This armor will give you §G+0.25§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;x
@@ -2715,16 +2720,16 @@ employ_a_smith_stewardship_tt;The §Ytraits§! and §Ystewardship§! of the smit
 EVTDESC_MNM_9123;Finally, the [From.GetWeaponsmithWeapon] has been completed! [From.GetMasterMistressCap] [From.GetFirstName] has brought me a sturdy box which contains the item. My hands are shaking slightly as I open its heavy lid...;;;;;;;;;;x
 EVTOPTD_MNM_9120_TT;什么都不要;;;;;;;;;;x
 EVTDESC_MNM_9129;'I am most sorry, my [Root.GetTitle],' [From.GetFirstName] said apologetically. The [GetWeaponArmorSmith] has informed me that the precious metals and special tools needed to produce the [From.GetWeaponsmithWeapon] I ordered are impossible to find in my own realm. 'I can send a [From.GetManWoman] on an expedition to acquire said materials, although it will be costly.';;;;;;;;;;x
-EVTOPTA_MNM_9129_TT;Insist that you shall have the [From.GetWeaponsmithWeapon] you ordered, despite the extra cost.;;;;;;;;;;x
-EVTOPTB_MNM_9129_TT;Settle for a less impressive [From.GetWeaponsmithWeapon] than the one you initially ordered.;;;;;;;;;;x
+EVTOPTA_MNM_9129_TT;就算有额外的费用，你还是坚持得到你最初要求的[From.GetWeaponsmithWeapon];;;;;;;;;;x
+EVTOPTB_MNM_9129_TT;定制一把没最初所要求的[From.GetWeaponsmithWeapon]那么出色的武器;;;;;;;;;;x
 EVT_DESC_MNM_9132;It has been many weeks since I commissioned [From.GetMasterMistressCap] [From.GetFirstName] to work for me and today my council has informed me that [From.GetFirstName] has fled from my lands to the court of [From.Liege.GetTitledFirstName]! Taking the work promised to me and any gold left with [From.GetHerHim]!;;;;;;;;;;x
 EVT_OPTA_MNM_9132; [From.GetSheHe]怎敢背叛我！;;;;;;;;;;x
-smith_improves_quality_tt;[From.GetMasterMistressCap] [From.GetFirstName] focuses on [From.GetHerHis] task and produces a superior piece of work.;;;;;;;;;;x
+smith_improves_quality_tt;[From.GetMasterMistressCap] [From.GetFirstName] 专注于 [From.GetHerHis] 任务并制作了一个更好的物品;;;;;;;;;;x
 EVT_DESC_MNM_9135;As I was walking towards [From.GetMasterMistressCap] [From.GetFirstName]'s smithy I could not hear the sound of progress but instead the sound of voices talking. I found [From.GetFirstName] and my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] discussing different metals and their compositions. All this talk was making my head spin and definitely halting the progress on the work I have ordered...;;;;;;;;;;x
-EVT_OPTA_MNM_9135;There is no harm in [From.GetFirstName] taking some time to help [smith_event_target.GetFirstName].;;;;;;;;;;x
-EVT_OPTB_MNM_9135;What does [From.GetFirstName] think [From.GetSheHe] is doing! This is not why [From.GetSheHe] is here.;;;;;;;;;;x
+EVT_OPTA_MNM_9135;[From.GetFirstName] 用些时间来帮祝 [smith_event_target.GetFirstName] 没什么不好的;;;;;;;;;;x
+EVT_OPTB_MNM_9135;[From.GetFirstName] 以为[From.GetSheHe] 在做什么？[From.GetSheHe] 在这里该做的更好;;;;;;;;;;x
 EVT_DESC_MNM_9136;During the afternoon as I went to check on the progress of [From.GetMasterMistressCap] [From.GetFirstName] I walked in to see [From.GetHerHim] getting my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] to help with the forging process. Together they were lifting pieces of metal and [From.GetFirstName] was showing [smith_event_target.GetFirstName] how to mold the materials into shape. Not exactly what I am paying [From.GetHerHim] for but a form of service nonetheless...;;;;;;;;;;x
-EVT_OPTA_MNM_9136;I am glad [From.GetFirstName] is helping [smith_event_target.GetFirstName] to be stronger!;;;;;;;;;;x
+EVT_OPTA_MNM_9136;我很高兴 [From.GetFirstName] 正在帮助 [smith_event_target.GetFirstName] 变得更出色！;;;;;;;;;;x
 EVT_OPTB_MNM_9136;[From.GetFirstName]的工作就是为我锻造，而不是陪孩子们玩。;;;;;;;;;;x
 EVT_DESC_MNM_9137;Having decided to check up on [From.GetMasterMistressCap] [From.GetFirstName]'s progress I strolled over to [From.GetHerHis] forge. I did not find [From.GetHerHim] working on the project I commissioned but instead working on a different task... specifically my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName]!;;;;;;;;;;x
 EVT_OPTA_MNM_9137;What [From.GetFirstName] does in the privacy of [From.GetHerHis] own forge is not my concern...;;;;;;;;;;x
@@ -2737,13 +2742,13 @@ EVT_OPTA_MNM_9318;我会尽全力帮助你，[From.GetMasterMistressCap] [From.G
 EVT_OPTB_MNM_9318;没有跛子可以完成工作！把[From.GetHerHim] 送走！;;;;;;;;;;x
 revoke_court_physician_being_treated_tt;[Root.GetTitledFirstName]目前不在治疗你;;;;;;;;;;x
 EVTDESC75111;A prominent subject has petitioned me for justice: His daughter had supposedly been beaten by Marshal [From.GetTitledFirstName] while [From.GetSheHe] was their guest and the father is requesting compensation.;;;;;;;;;;x
-OFFMAP_TRIBUTARIES_TOOLTIP_DESC;A tributary of China will be able to raise a regiment of troops when at war, as long as the [Root.GetName] is stable and prospering.;;;;;;;;;;x
+OFFMAP_TRIBUTARIES_TOOLTIP_DESC;当[Root.GetName]处于稳定期或黄金期时，中国的朝贡国可以在战争中向中国请求一支军队。;;;;;;;;;;x
 EVTDESC_JD_50031_STABLE;[FromFrom.GetChinaPreviousStatusEnd]。一切都在走向正轨，中原王朝似乎已经趋于稳定。;;;;;;;;;;x
 String_Indians;东方人;;;;;;;;;;x
 secret_bon_community;秘密苯教社团;;;;;;;;;;x
-secret_bon_community_desc;In secret, Bön faithfuls have organized around a small church community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
+secret_bon_community_desc;苯教的忠实信徒们在这个省份的部分教堂和社区秘密结社，在那里，他们传播福音、扩展势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 secret_taoist_community;秘密道教社团;;;;;;;;;;x
-secret_taoist_community_desc;In secret, Taoist faithfuls have organized around a small church community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;x
+secret_taoist_community_desc;道教的忠实信徒们在这个省份的部分教堂和社区秘密结社，在那里，他们传播福音、扩展势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 war_with_other_tributary_tt;You are NOT defending against another tributary of [offmap_china.GetShortName];;;;;;;;;;x
 force_open_china_cb_desc;[offmap_china.GetShortName]关闭了国境，迫使丝绸之路上的贸易中断。这是不可接受的！贸易必须流通！;;;;;;;;;;x
 CB_NAME_FORCE_OPEN_CHINA;强制打开[offmap_china.GetShortName]的国门;;;;;;;;;;x
@@ -2792,41 +2797,42 @@ EVT_OPTA_JD_60308;我是一位出色的谈判者。;;;;;;;;;;x
 EVT_OPTB_JD_60308;我留下深刻的印象，没有流血就结束了。;;;;;;;;;;x
 china_forced_open_tt;将在 §Y50§! 年内不能改变孤立政策;;;;;;;;;;x
 force_china_open_cooldown_tt;Has NOT attempted to force the §Y[offmap_china.GetFullName]§! open in the past §Y15§! years;;;;;;;;;;x
-force_china_open_in_progress_tt;No other ruler is currently attempting to force §Y[offmap_china.GetShortName]§! open;;;;;;;;;;x
+force_china_open_in_progress_tt;目前还没有其他的统治者试图强迫 §Y[offmap_china.GetShortName]§! 开关;;;;;;;;;;x
 will_return_to_china_tt;§Y[This.GetTitledName]§! will leave [This.GetHerHis] life at court and return home to the distant [offmap_china.GetFullName].;;;;;;;;;;x
 angered_china_modifier;激怒了中国;;;;;;;;;;x
 angered_china_modifier_desc;中国十分不满于你……;;;;;;;;;;x
-force_china_open_cb_outcome_tt;If you are victorious then the §Y[offmap_china.GetFullName]§! will Open its borders and you will be §Gfavored in trade along the Silk Road§!. However, if you are defeated it will cost you §Rmonthly prestige and grace§!.;;;;;;;;;;x
+force_china_open_cb_outcome_tt;如果胜利§Y[offmap_china.GetFullName]§!会对外开放，你将会§G获得丝绸之路的贸易特惠§!。如果失败，你将会失去威望和恩惠;;;;;;;;;;x
 PROV1529;贝尔加湖;;;;;;;;;;x
 chinese_imperial_marriage_peace_deal_tt;你将与 §Y[offmap_china.GetFullName]§!达成和平协议。;;;;;;;;;;x
-chinese_imperial_marriage_peace_deal_effect_tt;This marriage will secure a peace deal during which the §Y[offmap_china.GetFullName]§! and its §Y[offmap_china.Governor.GetTitle]§! will not declare war on you. It will last for §Y50§! years or until the dynasty of the [offmap_china.Ruler.GetTitle], [offmap_china.Ruler.GetOnlyDynastyName], ends.;;;;;;;;;;x
+chinese_imperial_marriage_peace_deal_effect_tt;这个婚约将会使你们签订一个和平条约，使§Y[offmap_china.GetFullName]§!和§Y[offmap_china.Governor.GetTitle]§! 不能对你宣战。这个条约会存在§Y50§!年或者直到[offmap_china.Ruler.GetTitle], [offmap_china.Ruler.GetOnlyDynastyName],王朝灭亡。;;;;;;;;;;x
 china_tributary_break_free;释放朝贡国;;;;;;;;;;x
 china_tributary_break_free_desc;You can declare war against the §Y[offmap_china.GetFullName]§! to free yourself from your status as an §YImperial Tributary§!. If §Y[offmap_china.GetShortName]§! is currently suffering from an §Rinvasion§! or a §Rcivil war§! then you can free yourself via a §Ydecision§! in the intrigue screen.;;;;;;;;;;x
 COMPL_VIKING_adj;维京海盗;;;;;;;;;;x
-chinese_imperial_trade_contract_desc;The traders in these lands are enjoying the profits of a beneficial trade agreement.;;;;;;;;;;x
+chinese_imperial_trade_contract_desc;这些国家的商人正在享受贸易协定所带来的红利。;;;;;;;;;;x
 chinese_favored_in_trade;在丝绸之路上很受欢迎;;;;;;;;;;x
-chinese_favored_in_trade_desc;Thanks to their liege taking control of the Silk Road, the traders in these lands are enjoying the profits of being favored in all trade deals.;;;;;;;;;;x
+chinese_favored_in_trade_desc;由于他们的君主控制了丝绸之路，商人们可以享受贸易带来的利润了。;;;;;;;;;;x
 String_offmap_cost_prestige_king_nomad;每月1威望;;;;;;;;;;x
 String_offmap_cost_prestige_emperor_nomad;每月3威望;;;;;;;;;;x
 EVTDESC_MNM_1221_C;So I suppose the vision was about how I was to get [From.GetDisease]. I knew something bad would happen!;;;;;;;;;;x
 EVTDESC_MNM_1221_D;So I suppose the vision was about how I was to get [From.GetDisease]... That could have been clearer, I think!;;;;;;;;;;x
 title_china_emperor_female;女皇;;;;;;;;;;x
-opinion_infiltration_companion;Infiltration Companion;;;;;;;;;;x
+opinion_infiltration_companion;滲透指南;;;;;;;;;;x
 EVTOPTB39821;我不会参加这个悲伤的节日!;;;;;;;;;;x
-bema_invitations_sent;You send out invitations to your Manichean vassals to celebrate Bema.;;;;;;;;;;x
-invasion_of_china_cb_desc;The [offmap_china.GetFullName] has been a thorn in our side long enough - no more!;;;;;;;;;;x
-CB_NAME_INVASION_OF_CHINA;Invasion of [offmap_china.GetShortName];;;;;;;;;;x
+bema_invitations_sent;你向你的摩尼教封臣发出邀请来庆祝庇麻节;;;;;;;;;;x
+invasion_of_china_cb_desc; [offmap_china.GetFullName] 一直以来都是我们的心头刺，现在他将不复存在!;;;;;;;;;;x
+CB_NAME_INVASION_OF_CHINA;入侵 [offmap_china.GetShortName]
+;;;;;;;;;;x
 WAR_NAME_INVASION_OF_CHINA;The $ORDER$$FIRST_ADJ$ Invasion of the [offmap_china.GetFullName];;;;;;;;;;x
 china_invade_dragon_throne_failed_tt;入侵中国没有失败;;;;;;;;;;x
 china_invade_dragon_throne_modifiers_tt;All of your current §Y[offmap_china.GetCurrency]§! and §Ymodifiers§! from §Y[offmap_china.GetShortName]§! will be §Rremoved§!.;;;;;;;;;;x
 war_with_china_modifier;与天朝开战;;;;;;;;;;x
 war_with_china_modifier_desc;你已经派遣大量士兵东征以攻打中国核心区域。;;;;;;;;;;x
-failed_invasion_of_china;Failed Invasion of China;;;;;;;;;;x
+failed_invasion_of_china;对中国的入侵失败了;;;;;;;;;;x
 china_offmap_decisions_failed_invasion_tt;Has NOT failed an invasion of the §Y[offmap_china.GetFullName]§!;;;;;;;;;;x
 invasion_of_china_cb_fail_tt;You will NOT be able to interact with the §Y[offmap_china.GetFullName]§!;;;;;;;;;;x
 NOT_ANY_VASSAL_STARTS;无封臣;;;;;;;;;;x
-china_invade_dragon_throne_levies_tt;Has NOT raised any vassal levies;;;;;;;;;;x
-china_invade_dragon_throne_war_tt;Is NOT currently being invaded;;;;;;;;;;x
+china_invade_dragon_throne_levies_tt;没有召集任何附庸的军队;;;;;;;;;;x
+china_invade_dragon_throne_war_tt;目前没有被入侵;;;;;;;;;;x
 invasion_of_china_success_tt;Your [invasion_of_china_claimant.GetRootRelation], §Y[invasion_of_china_claimant.GetBestName]§!, will become the new §Y[invasion_of_china_claimant.GetEmperorEmpress] of China§!. Any of their immediate family, who are not landed or the primary heir to a title, will join them in the Middle Kingdom.\nAny land held by the Western Protectorate will be transfered to you.;;;;;;;;;;x
 OFFMAP_HOSTILE;§Y采取敌对行动§!;;;;;;;;;;x
 OFFMAP_HOSTILE_DESC;You can take certain hostile actions against the [offmap_china.GetFullName] but be wary as the [offmap_china.Ruler.GetEmperorEmpress] is unlikely to tolerate such behavior. Taking Hostile Actions will likely §RAnger China§!.;;;;;;;;;;x
@@ -2838,7 +2844,7 @@ EVTDESC_JD_60400_B;Tired of how [offmap_china.Ruler.GetLongChineseEmperorName], 
 EVT_OPTA_JD_60400;The Middle Kingdom shall belong to House [Root.GetOnlyDynastyName]!;;;;;;;;;;x
 EVT_OPTB_JD_60400;Will [FromFrom.GetSheHe] be able to successfully tame the dragon?;;;;;;;;;;x
 EVTDESC_JD_60401;The forces of [From.GetBestName] have prevailed! With the troops of [FromFrom.GetTitledFirstName] shattered and the conflicts in the Middle Kingdom finally over, the former [offmap_china.PrevRuler.GetEmperorEmpress], [offmap_china.PrevRuler.GetOnlyDynastyName] [offmap_china.PrevRuler.GetBirthName], has been dethroned and in [offmap_china.PrevRuler.GetHerHis] place [offmap_china.Ruler.GetLongChineseEmperorName], now rules!\nHouse [From.GetOnlyDynastyName] has successfully invaded the Eastern lands and now they reign supreme.\nGlory to the new [offmap_china.Ruler.GetEmperorEmpress]!;;;;;;;;;;x
-EVT_OPT_JD_60401;And so rises a new dragon.;;;;;;;;;;x
+EVT_OPT_JD_60401;因此新的天子已经践祚。;;;;;;;;;;x
 EVTDESC_JD_60402;The forces of [From.GetBestName] have been defeated! All across the [offmap_china.GetShortName] heartland they have been crushed in their many skirmishes with the troops of the [offmap_china.Ruler.GetEmperorEmpress].\nNow the forces in the West, led by [FromFrom.GetTitledFirstName], have prevailed in their battles as well putting an end to this foolish invasion and dismantling [From.PrimaryTitle.GetName] once and for all.;;;;;;;;;;x
 EVT_OPT_JD_60402;And so the [offmap_china.Ruler.GetOnlyDynastyName] dragon remains.;;;;;;;;;;x
 EVTDESC_JD_60403;Whispers in the East claim that [offmap_china.Ruler.GetLongChineseEmperorName], is in a joyous mood today for [invasion_of_china_claimant.GetBestName], the [invasion_of_china_claimant.GetRootRelation] of [From.GetBestName], has died.\n[invasion_of_china_claimant.GetHerHisCap] death has shattered the morale of the [From.Culture.GetName] forces who now retreat back to their homes in [From.PrimaryTitle.GetName].\nJust like [invasion_of_china_claimant.GetBestName] this invasion of [offmap_china.GetShortName] has come to an end.;;;;;;;;;;x
@@ -2847,13 +2853,13 @@ EVT_OPTB_JD_60403;Not only have I lost my [invasion_of_china_claimant.GetRootRel
 china_tribute_send_eunuch_stats_tt;有一项特性大于等于§Y20§!;;;;;;;;;;x
 china_tribute_send_eunuch_congenital_tt;Has a §Ypositive§! congenital trait;;;;;;;;;;x
 china_tribute_send_eunuch_non_inherit_congenital_tt;Has a §Ypositive§! non-inheritable congenital trait;;;;;;;;;;x
-china_tribute_send_eunuch_gift_tt;Is a eunuch that was gifted to you;;;;;;;;;;x
+china_tribute_send_eunuch_gift_tt;一个太监被作为礼物送给你。;;;;;;;;;;x
 courtier_from_china_trigger_tt;一位中国的朝臣;;;;;;;;;;x
 is_ascetic_tooltip;Has an §YAscetic§! trait;;;;;;;;;;x
 china_tribute_send_concubine_preference_tt;Is desired by the §Y[offmap_china.Ruler.GetEmperorEmpress]§!;;;;;;;;;;x
 send_artifact_potential_tt;Is a high quality artifact (that is NOT cursed or from China);;;;;;;;;;x
-chinese_request_invasion_rel_head_tt;Does NOT hold a religious head title that is higher tier than §YDuke§!;;;;;;;;;;x
-chinese_request_invasion_defeated_china_tt;Has NOT defeated China in a war;;;;;;;;;;x
+chinese_request_invasion_rel_head_tt;不能持有§Y公爵§!以上级别的宗教领袖头衔;;;;;;;;;;x
+chinese_request_invasion_defeated_china_tt;在战争中没有打败中国;;;;;;;;;;x
 alert_non_playable_heir_instant;§YHeir Religion Change on Succession§!;;;;;;;;;;x
 EVT_DESC_JD_60016;With the death of [From.GetBestName] you are free from your status as a tributary.;;;;;;;;;;x
 prosthetic_hand_gold;金制手;;;;;;;;;;x
@@ -2964,15 +2970,15 @@ PROV1543;瓦罕;;;;;;;;;;x
 PROV1544;斫汗那;;;;;;;;;;x
 PROV1545;纳赫萨布;;;;;;;;;;x
 PROV1546;古盏;;;;;;;;;;x
-PROV1547;Badakhshan;;;;;;;;;;x
+PROV1547;巴达赫尚;;;;;;;;;;x
 PROV1548;Khaylam;;;;;;;;;;x
 PROV1549;叙利亚沙漠;;;;;;;;;;x
 c_dariya_adj;Dariyan;;;;;;;;;;x
 c_uwal_adj;Uwalian;;;;;;;;;;x
 c_zabid_adj;Zabidi;;;;;;;;;;x
-c_najran_adj;Najrani;;;;;;;;;;x
+c_najran_adj;奈季兰;;;;;;;;;;x
 c_al_ahgaf_adj;al Ahgafi;;;;;;;;;;x
-c_tihama_adj;Tihaman;;;;;;;;;;x
+c_tihama_adj;蒂哈马;;;;;;;;;;x
 c_khaybar_adj;Khaybaran;;;;;;;;;;x
 c_maragha_adj;Maraghan;;;;;;;;;;x
 c_badghis_adj;Badghisian;;;;;;;;;;x
@@ -3108,7 +3114,7 @@ b_amul;Amul;;;;;;;;;;x
 b_khojand;Khojand;;;;;;;;;;x
 b_vakhan;Vakhan;;;;;;;;;;x
 b_chaghaniyan;Chaghaniyan;;;;;;;;;;x
-b_badakhshan;Badakhshan;;;;;;;;;;x
+b_badakhshan;巴达赫尚;;;;;;;;;;x
 b_khaylam;Khaylam;;;;;;;;;;x
 b_akhsikath;Akhsikath;;;;;;;;;;x
 b_kasan;Kasan;;;;;;;;;;x
@@ -3183,7 +3189,7 @@ EVTOPTA_JD_4001;We shall raid again another day...;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome;The raiders we sent to the [offmap_china.GetFullName] have returned. With them they are carrying plenty of loot plundered from small villages on the outskirts of the Middle Kingdom.;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome;把战利品带给我！;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_artifact;The raiders we sent to the [offmap_china.GetFullName] have returned. They apparently found and plundered a place of worship, bringing home plenty of loot and a valuable artifact.;;;;;;;;;;x
-EVTOPT_JD_4020_normal_raid_outcome_artifact;工艺品？带给我！;;;;;;;;;;x
+EVTOPT_JD_4020_normal_raid_outcome_artifact;宝物？带给我！;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_character;The raiders we sent to the [offmap_china.GetFullName] have returned. This time their raids took them by the holdings of a local Han noble. In addition to gold and silk, your raiders also brought you a more personal gift, a [captured_character.GetManWoman] named [captured_character.GetFullName] - likely the [captured_character.GetSonDaughter] of the noble.;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_character;绝世美人！;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_character_b;I shall make [captured_character.GetHerHim] my concubine.;;;;;;;;;;x
@@ -3192,7 +3198,7 @@ EVTOPT_JD_4020_normal_raid_outcome_siege_engineer;A siege engineer of my own? Ex
 EVTOPT_JD_4020_normal_raid_outcome_siege_engineer_b;立刻让他做指挥官。;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_extra;The raiders we sent to the [offmap_china.GetFullName] have returned. On their way back home from China they came upon a caravan loaded with precious silks and porcelain - [Root.Religion.GetHighGodName] truly smiled upon them!;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_extra;好极了！我全都要！;;;;;;;;;;x
-artifact_raid_tt;A Chinese artifact is added to your inventory.;;;;;;;;;;x
+artifact_raid_tt;一件中国宝物加入了您的库存。;;;;;;;;;;x
 fire_commander_tt;Fire an existing commander to make room for the Siege Engineer.;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_extra_plus;The raiders we sent to the [offmap_china.GetFullName] have returned - and they have brought countless treasures! They were able to identify and capture a Han noble who was traveling undercover, who they later ransomed for an exuberant amount of gold, silk and porcelain!;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_extra_plus;The treasures of the [offmap_china.GetShortName] shall all be mine!;;;;;;;;;;x
@@ -3229,7 +3235,7 @@ negotiate_with_adventurer;Negotiate with [Root.GetFirstName];;;;;;;;;;x
 negotiate_with_adventurer_desc;Approach the Adventurer, asking what they would require in order to stop raiding you.;;;;;;;;;;x
 not_negotiated_recently_tt;Has NOT negotiated with an Adventurer in the last year[From.GetNegotiateCD];;;;;;;;;;x
 dangerous_negotiations_tt;§Y[Root.GetFullName]§! will present an offer - if you choose to decline this offer there is nothing stopping [Root.GetHerHim] from continuing to raid your lands.;;;;;;;;;;x
-EVTOPTE_ADV_3;What? Absolutely not!;;;;;;;;;;x
+EVTOPTE_ADV_3;什么？绝对不行！;;;;;;;;;;x
 EVTOPTE_ADV_3_TT;§Y[raiding_adventurer.GetFullName]§! continues Raiding;;;;;;;;;;x
 EVTOPTE_ADV_5;An insulting proposition - no deal!;;;;;;;;;;x
 has_valid_province_tt;Has a title §Y[Root.GetFullName]§! is interested in;;;;;;;;;;x
@@ -3239,7 +3245,7 @@ raise_chinese_honor_guard_TT;Has NOT raised the Honor Guard in the past year;;;;
 EVTOPTA_JD_20006;I shall spend ALL NIGHT learning complicated phrases to truly impress!;;;;;;;;;;x
 EVTOPTB_JD_20006;An hour or two to prepare a simple greeting should suffice.;;;;;;;;;;x
 EVTOPTC_ZE_8012;Pah! You are lying - but I will not take this further.;;;;;;;;;;x
-defeated_decadence_revolt;Defeated Decadence Invasion;;;;;;;;;;x
+defeated_decadence_revolt;打败腐化入侵;;;;;;;;;;x
 defeated_decadence_revolt_desc;This character has defeated a decadence invasion - for as long as they rule the largest realm among all of their Dynasty, they will not be considered decadent.;;;;;;;;;;x
 earmarked_regiments_tt;Has NOT already raised the Honor Guard;;;;;;;;;;x
 not_forced_tt;Has NOT been forced to change Succession Law by Liege;;;;;;;;;;x
@@ -3271,18 +3277,18 @@ string_negotiate_cd; - you can negotiate again on: §Y[This.adventurer_negotiate
 EVTOPTA_JD_10130_B;We were misguided in raiding you - instead we shall serve!;;;;;;;;;;x
 increase_council_power_war_desc;The power of the council must be increased - and if war is what it takes, then war we will have!;;;;;;;;;;x
 EVTOPTA_JD_10050_decent;我很高兴我的进贡被认为是得体的。;;;;;;;;;;x
-EVTOPTA_JD_10050_great;I aim to please!;;;;;;;;;;x
+EVTOPTA_JD_10050_great;臣理当为陛下分忧！;;;;;;;;;;x
 EVTOPTA_JD_10050_family;My [person_sent_as_tribute.GetRootRelation] will be missed.;;;;;;;;;;x
 EVTOPTA_JD_10014;Bear with us, [adventurous_spirit.GetFirstName], as my scribes collect all your stories...!;;;;;;;;;;x
 EVTDESC_JD_10018;On the eve of [adventurous_spirit.GetHerHis] return from the [the_protector_general.Offmap.GetFullName], [adventurous_spirit.GetFirstName] and I discuss at length [adventurous_spirit.GetChineseConvoTopic].\n'I'd also like to introduce you to someone', [adventurous_spirit.GetSheHe] says, smiling.;;;;;;;;;;x
 is_landless_male_tt;是个无封地的男性;;;;;;;;;;x
 not_married_or_getting_married_tt;Is NOT married or promised to be married;;;;;;;;;;x
-adult_or_close_relative_of_12_years_tt;Is an adult, OR a close relative who is at least 12 years old;;;;;;;;;;x
+adult_or_close_relative_of_12_years_tt;是成人，或你的12岁以上近亲;;;;;;;;;;x
 is_not_incapable_inbred_or_imbecile_tt;Is NOT §YIncapable§!, §YInbred§!, or an §YImbecile§!;;;;;;;;;;x
 has_the_right_eunuch_traits_tt;Has one of these traits: §YArchitect§!, §YAdministrator§!, §YStrategist§!, §YScholar§!, or §YFaqih§!;;;;;;;;;;x
 is_not_from_china_tt;不是来自中国;;;;;;;;;;x
 is_close_relative_tt;是你的近亲;;;;;;;;;;x
-is_close_relative_or_same_dynasty_tt;Is a close relative of yours, OR of your dynasty;;;;;;;;;;x
+is_close_relative_or_same_dynasty_tt;是你的近亲，或你的加入成员;;;;;;;;;;x
 is_adult_under_45_tt;是小于 §Y45§!岁的成年人;;;;;;;;;;x
 is_not_ascetic_or_celibate_tt;Does NOT have an §YAscetic§! or §YCelibate§! trait;;;;;;;;;;x
 MARTIAL_TRIGGER;Has §YMartial§! $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
@@ -3316,7 +3322,7 @@ String_End_Unrest_Worsened;The period of Unrest in China has dramatically worsen
 String_End_Civil_War_to_Invasion;The Chinese Civil War is over and the last rebel bastion has fallen, yet the turmoil in the [offmap_china.GetFullName] is not over..;;;;;;;;;;x
 EVTDESC_JD_50031_FAMINE;[FromFrom.GetChinaPreviousStatusEnd]. China has recently been suffering from droughts and the people are starving as a Great Famine upsets the harmony in the Divine Land. The caravans and ships of the Silk Road have virtually ceased and the great Chinese artisans are simply trying to survive. China will not be able to assist its Tributary states.;;;;;;;;;;x
 adopt_chinese_imperialism;采用中华帝国制;;;;;;;;;;x
-adopt_chinese_imperialism_desc;Adopt a system of Chinese Imperialism which has one divine Emperor ruling over multiple vassals in a system of regulations and bureaucracy.;;;;;;;;;;x
+adopt_chinese_imperialism_desc;采用中华帝国政体，在这种制度下至高无上的皇帝利用官僚制度和法律法规统治着许多附庸国。;;;;;;;;;;x
 adopt_chinese_imperialism_temple_name_tt;你将得到一个新庙号。;;;;;;;;;;x
 EVT_OPTA_JD_60312;[FromFrom.GetSheHeCap] will be missed.;;;;;;;;;;x
 EVT_DESC_JD_60212;With the death of [FromFrom.GetTitledFirstName], [Root.PrimaryTitle.GetName] has been thrown into disarray. Many call for me to continue in the [FromFrom.Culture.GetName] ways as my [FromFrom.GetRootRelation] had intended but I am not so sure.;;;;;;;;;;x
@@ -3588,7 +3594,7 @@ b_madoi;玛都;;;;;;;;;;x
 b_maduo;玛多;;;;;;;;;;x
 b_maga;Maga;;;;;;;;;;x
 b_maindong;Maindong;;;;;;;;;;x
-b_mainling;Mainling;;;;;;;;;;x
+b_mainling;米林;;;;;;;;;;x
 b_mamba;曼巴;;;;;;;;;;x
 b_mangling;Mangling;;;;;;;;;;x
 b_mangya;茫崖;;;;;;;;;;x
@@ -3640,7 +3646,7 @@ b_pashul;Pashul;;;;;;;;;;x
 b_pelsakya;由萨迦;;;;;;;;;;x
 b_perotse;谢珀;;;;;;;;;;x
 b_phagmodru;Phagmodru;;;;;;;;;;x
-b_phomshen;墨脱县的某村;;;;;;;;;;x
+b_phomshen;达木;;;;;;;;;;x
 b_poindo;Poindo;;;;;;;;;;x
 b_posada;Posada;;;;;;;;;;x
 b_propriano;普罗普里亚诺;;;;;;;;;;x
@@ -3865,8 +3871,8 @@ c_sertar_adj;色达;;;;;;;;;;x
 c_sog_adj;索;;;;;;;;;;x
 c_tanggula_adj;唐古拉;;;;;;;;;;x
 c_tianjun_adj;天峻;;;;;;;;;;x
-c_torres;托尔斯;;;;;;;;;;x
-c_torres_adj;托尔斯;;;;;;;;;;x
+c_torres;托雷斯;;;;;;;;;;x
+c_torres_adj;劳古多罗;;;;;;;;;;x
 c_tsakha_adj;茶卡;;;;;;;;;;x
 c_tsonyi_adj;双子湖;;;;;;;;;;x
 c_ulan_adj;乌兰;;;;;;;;;;x
@@ -3932,7 +3938,7 @@ PROV1572;阿尔金;;;;;;;;;;x
 PROV1573;唐古拉;;;;;;;;;;x
 PROV1574;加卢拉;;;;;;;;;;x
 PROV1575;杂多;;;;;;;;;;x
-PROV1576;托里斯;;;;;;;;;;x
+PROV1576;托雷斯;;;;;;;;;;x
 PROV1577;奇纳尔科;;;;;;;;;;x
 PROV1578;都兰;;;;;;;;;;x
 PROV1579;乃东;;;;;;;;;;x
@@ -3986,7 +3992,7 @@ b_asht;Asht;;;;;;;;;;x
 b_sokh;Sokh;;;;;;;;;;x
 b_kendibadam;Kend-i-Badam;;;;;;;;;;x
 b_tunket;Tunket;;;;;;;;;;x
-b_ilaq;Ilaq;;;;;;;;;;x
+b_ilaq;伊拉克;;;;;;;;;;x
 b_wankath;Wankath;;;;;;;;;;x
 b_miyanrudhan;Miyan Rudhan;;;;;;;;;;x
 b_ardalankath;Ardalankath;;;;;;;;;;x
@@ -4039,27 +4045,27 @@ employ_smith_cd_reset_tt;You will be able to employ a smith at another time of y
 JOB_PROSELYTIZE_SAME_RELIGION;Proselytize: §YProvince already converted.§!;;;;;;;;;;x
 EVTDESC_MNM_9122_B;I was struck with nervous excitement when [From.GetMasterMistressCap] [From.GetFirstName] announced that the [From.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [From.GetMasterMistressCap] in my throne room. As [From.GetSheHe] unveils the armor rack, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;x
 EVTOPTA_JD_70004_TT;§Y[escaped_chinese_noble.GetFirstName]§! leaves your court.;;;;;;;;;;x
-artifact_added_tt;An artifact is added to your inventory.;;;;;;;;;;x
+artifact_added_tt;一件宝物加入了您的库存;;;;;;;;;;x
 EVT_DESC_JD_60003_C;Come the evening things do not go as I planned. The food and drink is not to [FromFrom.GetFullName]'s taste and [FromFrom.GetSheHe] is obviously not enjoying [FromFrom.GetHerselfHimself]. The following morning [FromFrom.GetFullName] departs, likely to not speak highly of me to the [offmap_china.Ruler.GetTitle]. There will be no foreign treasures for me today...;;;;;;;;;;x
 bon_tolerate_indians;Syncretize with Eastern Religions;;;;;;;;;;x
 bon_tolerate_indians_desc;The Bön faith has adopted many aspects of the Buddhist religion. You can choose to draw even closer to your §YEastern§! subjects by personally practicing their rites and partaking in their rituals.;;;;;;;;;;x
 bon_sympathy_eastern;Has a §YCounty§!, §YVassal§! or §YLiege§! of an §YEastern Religion§!;;;;;;;;;;x
-saka;Saka;;;;;;;;;;x
-borrow_money_radhanites;Borrow Money from Radhanite Merchants;;;;;;;;;;x
+saka;沙迦;;;;;;;;;;x
+borrow_money_radhanites;向拉特纳犹太商人借钱;;;;;;;;;;x
 borrow_money_radhanites_desc;Borrow money from Jewish merchants traveling on the Silk Road.;;;;;;;;;;x
 repay_money_radhanites;Repay the 200¤ loan;;;;;;;;;;x
-repay_money_radhanites_desc;I will repay the gold that I owe the Radhanites.;;;;;;;;;;x
-borrowed_from_radhanites;Borrowed Money from the Radhanites;;;;;;;;;;x
+repay_money_radhanites_desc;我会还清我欠拉特纳犹太人的钱。;;;;;;;;;;x
+borrowed_from_radhanites;从拉特纳犹太人那借到了钱;;;;;;;;;;x
 EVTDESC_JD_4100;The Radhanite merchants have cordially asked you to pay back the money you owe to them. They inform you that there is no hurry, but you can clearly tell that they are disappointed by the fact that you have yet to pay them back. It also seems that, for whatever reason, the amount of Radhanite trade going through your realm has reduced significantly...;;;;;;;;;;x
 EVTOPTA_JD_4100;I should have payed them back earlier...;;;;;;;;;;x
-radhanite_quarter_1;Small Radhanite Compound;;;;;;;;;;x
-radhanite_quarter_2;Radhanite Compound;;;;;;;;;;x
-radhanite_quarter_3;Large Radhanite Compound;;;;;;;;;;x
+radhanite_quarter_1;小型拉特纳犹太人聚居地;;;;;;;;;;x
+radhanite_quarter_2;拉特纳犹太人聚居地;;;;;;;;;;x
+radhanite_quarter_3;大型拉特纳犹太人聚居地;;;;;;;;;;x
 radhanite_quarter_1_desc;This fortified trade post is owned by the Radhanites, Jewish merchants known for their extensive trading contacts around the known world.;;;;;;;;;;x
 has_silk_road_trade_post_demesne_tt;Has a Demesne County with a §YSilk Road Trade Post§!;;;;;;;;;;x
 EVTDESC_JD_7000;Your messengers tell of a traveler who recently arrived in [tavern_location.GetName]. The traveler, a [traveling_teacher.Culture.GetName] Scholar by the name of [traveling_teacher.GetFullName], is apparently requesting an audience. [traveling_teacher.GetSheHeCap] claims to be a renowned teacher, willing to impart [traveling_teacher.GetHerHis] knowledge to one of your children!;;;;;;;;;;x
 EVTOPTA_JD_7000;Intriguing, bring [traveling_teacher.GetHerHim] to court!;;;;;;;;;;x
-EVTOPTB_JD_7000;I do not have time for this.;;;;;;;;;;x
+EVTOPTB_JD_7000;我没有时间做这件事。;;;;;;;;;;x
 EVTOPTC_JD_7000;Bring [traveling_teacher.GetHerHim] over for a secluded dinner...;;;;;;;;;;x
 EVTOPTA_JD_7000_TT;You invite the traveling teacher to your court.;;;;;;;;;;x
 EVTOPTB_JD_7000_TT;You are not interested and turn the traveling teacher away.;;;;;;;;;;x
@@ -4111,7 +4117,7 @@ EVTTOOLTIPA_JD_32100;你烧香以纪念他们的过去，并走到哭泣的天�
 EVTOPTB_JD_32100;我不能留恋过去，我需要继续前行。;;;;;;;;;;x
 good_nights_sleep;睡了一夜好觉;;;;;;;;;;x
 good_nights_sleep_desc;过去几夜愉快的住宿生活增进了这个角色的健康和感官。;;;;;;;;;;x
-poisoned;有毒;;;;;;;;;;x
+poisoned;中毒;;;;;;;;;;x
 poisoned_desc;这个角色因为中毒仍然饱受痛苦和身体疼痛的折磨。;;;;;;;;;;x
 EVTDESC_JD_32110;一名骑手走近车队并递给我一封带有[target_host.GetBestName]印章的信。[target_host.GetFirstName]听说了我的旅行，并邀请我们的队伍在温暖的[target_host.GetCapitalHolding][target_host.Capital.Capital.GetName]里休息一会儿。;;;;;;;;;;x
 EVTOPTA_JD_32110;这可能是一个获得公平的机会。;;;;;;;;;;x
@@ -4129,7 +4135,7 @@ EVTOPTC_JD_32111;谢谢你，但是我们需要继续前进。;;;;;;;;;;x
 EVTOPTD_JD_32111;不，你！你...;;;;;;;;;;x
 EVTDESC_JD_32112;当我的意识恢复时，我发现自己在路边的沟里。在我的口袋中，我发现了一封写着最强硬的字迹的信件：“这是对你的最后警告，滚出这里！”。;;;;;;;;;;x
 EVTOPTA_JD_32112;我的全身都疼地快不行了。;;;;;;;;;;x
-EVTTTOOLTIPA_JD_32112;你翻转过来，往沟里清空你的肠子。;;;;;;;;;;x
+EVTTTOOLTIPA_JD_32112;你翻转过来，往沟里清空了你的肠子。;;;;;;;;;;x
 EVTDESCA_JD_32113;'Trust is such a delicate thing', I tell my horse galloping away in the dark night, accompanied by the sound of screams and clattering plates while panic ensues behind us. Some of my servants also had to put their life to it for the whole charade to be believable, but that is an acceptable price to pay.;;;;;;;;;;x
 EVTDESCB_JD_32113;Just as you are about to make your escape into the dead of the night you are apprehended by the Captain of the guard. Sweat started forming on the temples of your head. Any second now.\nThere's the bellowing scream of [target_host.GetTitledFirstName]'s guts exploding. For a split second you notice the shock in the face of the Captain, as someone exclaims that the [target_host.GetTitle] is dead. Then his eyes refocus on you. Without hesitation, the burly man raises his sword and cuts you in half.;;;;;;;;;;x
 EVTDESCC_JD_32113;During the dinner, [target_host.GetTitledFirstName], exclaims that [target_host.GetSheHe] has a present for you. Seconds later a man with an arrow sticking out of his back is dragged into the room. With fear you immediately recognize the man from your company that you ordered to assassinate [target_host.GetFirstName]. With a finger pointed towards your head [target_host.GetFirstName] shouts 'I sentence you all to die for your treachery!'. From every corner of the room, guards with drawn weapons are closing a circle fast around your band.;;;;;;;;;;x
@@ -4150,7 +4156,7 @@ EVTOPTB_JD_32216;参加他们的仪式。;;;;;;;;;;x
 EVTOPTC_JD_32216;大声批评他们的错误的宗教。;;;;;;;;;;x
 EVTOPTD_JD_32216;学习在他们的文章中使用的象征主义。;;;;;;;;;;x
 EVTDESCA_JD_32290;'The [offmap_china.Ruler.GetEmperorEmpress] has kept [offmap_china.Ruler.GetHerHis] eyes on you', the Chief Minister says. '[offmap_china.Ruler.GetSheHeCap] is however very busy and thought it more fitting if you bowed in here instead of the occupied throne room'.;;;;;;;;;;x
-EVTDESCB_JD_32290;“ [offmap_china.Ruler.GetEmperorEmpress] [offmap_china.Ruler.GetHerHis]一直盯着你”，丞相说，“你可以入殿表示归顺，但要干净利落”。;;;;;;;;;;x
+EVTDESCB_JD_32290;“ [offmap_china.Ruler.GetEmperorEmpress] [offmap_china.Ruler.GetHerHis]眼睛会一直盯着你的”，丞相说，“你可以入殿表示臣服，但要干净利落”。;;;;;;;;;;x
 EVTDESCC_JD_32290;The Chief Minister opens the doors to the throne room nodding for me to enter. After I've performed a deep bow in sign of subservience the [offmap_china.Ruler.GetEmperorEmpress] reaches out and touches my forehead.;;;;;;;;;;x
 EVTOPTA_JD_32290;在向[offmap_china.Ruler.GetEmperorEmpress]叙述之前鞠躬。;;;;;;;;;;x
 EVTOPTB_JD_32290;拒绝这种羞辱并拂袖而去。;;;;;;;;;;x
@@ -4159,17 +4165,17 @@ EVTOPTD_JD_32290;我深感荣幸。;;;;;;;;;;x
 kow_tow_travels;往中华帝国朝觐中;;;;;;;;;;x
 kow_tow_travels_desc;这个角色目前正在中国旅行。;;;;;;;;;;x
 kow_tow_completed_tier_1;朝觐;;;;;;;;;;x
-kow_tow_completed_tier_1_desc;这个角色完成了去往中国的旅程并表示了他对[offmap_china.Ruler.GetEmperorEmpress]的从属地位 - [offmap_china.Ruler.GetEmperorEmpress]对他没有什么印象。;;;;;;;;;;x
+kow_tow_completed_tier_1_desc;这个角色完成了去往中国的旅程并表示了他要臣服于[offmap_china.Ruler.GetEmperorEmpress] - [offmap_china.Ruler.GetEmperorEmpress]对他没有什么印象。;;;;;;;;;;x
 kow_tow_completed_tier_2;朝觐;;;;;;;;;;x
-kow_tow_completed_tier_2_desc;这个角色完成了去往中国的旅程并表示了他对[offmap_china.Ruler.GetEmperorEmpress]的从属地位 - [offmap_china.Ruler.GetEmperorEmpress] 很高兴。;;;;;;;;;;x
+kow_tow_completed_tier_2_desc;这个角色完成了去往中国的旅程并表示了他要臣服于[offmap_china.Ruler.GetEmperorEmpress] - [offmap_china.Ruler.GetEmperorEmpress] 很高兴。;;;;;;;;;;x
 kow_tow_completed_tier_3;朝觐;;;;;;;;;;x
-kow_tow_completed_tier_3_desc;这个角色完成了去往中国的旅程并表示了他对[offmap_china.Ruler.GetEmperorEmpress]的从属地位 - [offmap_china.Ruler.GetEmperorEmpress]对他留下了深刻的印象。;;;;;;;;;;x
+kow_tow_completed_tier_3_desc;这个角色完成了去往中国的旅程并表示了他要臣服于[offmap_china.Ruler.GetEmperorEmpress] - [offmap_china.Ruler.GetEmperorEmpress]对他留下了深刻的印象。;;;;;;;;;;x
 EVTDESCA_JD_32299;自从变成敌对状态以来，我无法继续我前往[offmap_china.GetFullName]的旅程。;;;;;;;;;;x
 EVTDESCB_JD_32299;在他们决定封锁边界并赶走外国人之后，我无法继续我前往[offmap_china.GetFullName]的旅程。;;;;;;;;;;x
 EVTDESCC_JD_32299;我无法继续我前往[offmap_china.GetFullName]的旅程。;;;;;;;;;;x
 EVTOPTA_JD_32299;多么不幸啊。;;;;;;;;;;x
 custom_eastern_access;中国附近;;;;;;;;;;x
-kow_tow_tooltip_already_went;并没有表现出他们对[offmap_china.Ruler.GetEmperorEmpress]的从属地位。;;;;;;;;;;x
+kow_tow_tooltip_already_went;并没有表现出他们要臣服于[offmap_china.Ruler.GetEmperorEmpress]的姿态。;;;;;;;;;;x
 chinese_kow_tow_pilgrimage;在[offmap_china.Ruler.GetEmperorEmpress]面前磕头;;;;;;;;;;x
 chinese_kow_tow_pilgrimage_desc;Journey to the inner lands of the §Y[offmap_china.GetFullName]§! and bow before the [offmap_china.Ruler.GetEmperorEmpress] in an act of servitude. Performing a Kowtow will earn you §GGrace§! with the §Y[offmap_china.GetFullName]§!, but it will cost you §RPrestige§! to do so.;;;;;;;;;;x
 EVTTITLE_JD_32113;致命的款待;;;;;;;;;;x
@@ -4183,10 +4189,10 @@ ARTIFACT_AGE_TRIGGER;Age is $COMPARISON$ $VALUE|Y$ years;;;;;;;;;;x
 ARTIFACT_NOT_KNOWN_CREATION_TRIGGER;Creation date is NOT known;;;;;;;;;;x
 ARTIFACT_KNOWN_CREATION_TRIGGER;Creation date is known;;;;;;;;;;x
 SET_LOOTER_HOSTILITY_DAYS;Set days of looting hostility with $WHO|Y$ to $DAYS|Y$;;;;;;;;;;x
-NOT_ALLOWED_TAOIST;Not allowed to play §YTaoist§! characters without the Rajas of India DLC or the Jade Dragon DLC!;;;;;;;;;;x
-NOT_ALLOWED_TAOIST_MP;§Y$PLAYER$§! not allowed to play §YTaoist§! characters without the Rajas of India DLC or the Jade Dragon DLC!;;;;;;;;;;x
-NOT_ALLOWED_BON;Not allowed to play §YBön§! characters without the Old Gods DLC or the Jade Dragon DLC!;;;;;;;;;;x
-NOT_ALLOWED_BON_MP;§Y$PLAYER$§! not allowed to play §YBön§! characters without the Old Gods DLC or the Jade Dragon DLC!;;;;;;;;;;x
+NOT_ALLOWED_TAOIST;如果没有印度罗闍或者玉龙DLC，那么将不能使用 §YTaoist§!  角色;;;;;;;;;;x
+NOT_ALLOWED_TAOIST_MP;如果没有印度罗闍或玉龙DLC，则§Y$PLAYER$§! 不能扮演 §YTaoist§! 角色;;;;;;;;;;x
+NOT_ALLOWED_BON;如果没有逝亡神灵或者玉龙DLC，那么将不能使用 §YBön§! 角色;;;;;;;;;;x
+NOT_ALLOWED_BON_MP;如果没有逝亡神灵或玉龙DLC，则§Y$PLAYER$§! 不能扮演 §YBön§! 角色;;;;;;;;;;x
 NOT_ALLOWED_INDIAN;Not allowed to play §YDharmic§! religions without the Rajas of India DLC!;;;;;;;;;;x
 NOT_ALLOWED_INDIAN_MP;§Y$PLAYER$§! not allowed to play §YDharmic§! religions without the Rajas of India DLC!;;;;;;;;;;x
 RD_NOT_PLAYABLE_WITHOUT_ROI_DLC;The §YDharmic§! religions are not playable without the Rajas of India DLC;;;;;;;;;;x
@@ -4262,34 +4268,34 @@ EVTDESC_JD_10060_B;当我通知我的顾问我有意撰写一本书时，他们�
 EVTDESC_JD_10060_C;我今天有一个愿望，写一本书！ 当我向我的顾问提出这个问题时，他们看上去困惑的样子真好笑。我忽略他们的困惑，大声说道：“让我的抄写员过来！” 我的顾问回答：”当然，我[Root.GetLordLady]，请问这篇伟大的著作是关于......“;;;;;;;;;;x
 EVTDESC_JD_10060_D;撰写文学作品并不是每个人都需要做的。我考虑了很久，决定叫来的我最亲密的顾问和最好的抄写员来讨论这个问题。当他们问起我这本书的主要内容时，我停顿了一秒，回答道...;;;;;;;;;;x
 EVTOPTA_JD_10060;这一本关于战争的军事书籍，或者是相关的内容;;;;;;;;;;x
-EVTOPTA_JD_10060_TT;你选择了一个与§Y军事§!.\n能力挂钩的主题;;;;;;;;;;x
-EVTOPTB_JD_10060;这本书应该用来记录错综复杂的人物关系;;;;;;;;;;x
-EVTOPTB_JD_10060_TT;你选择了一个与§Y外交§!.\n能力和§密谋§!.\n能力挂钩的主题;;;;;;;;;;x
+EVTOPTA_JD_10060_TT;你选择了一个与§Y军事§!.\n相关的主题;;;;;;;;;;x
+EVTOPTB_JD_10060;这本书应该用来记录错综复杂的人际关系;;;;;;;;;;x
+EVTOPTB_JD_10060_TT;你选择了一个与§Y外交§!.\n和§Y密谋§!.\n相关的主题;;;;;;;;;;x
 EVTOPTC_JD_10060;我想写一些管理领地的心得……;;;;;;;;;;x
-EVTOPTC_JD_10060_TT;你选择了一个与§Y财政§!.\n能力挂钩的主题;;;;;;;;;;x
-EVTOPTD_JD_10060;写一些关于[Root.Religion.GetHighGodName]的光辉事迹，或者说是......教育性的内容？;;;;;;;;;;x
-EVTOPTD_JD_10060_TT;你选择了一个与§Y学习§!.\n能力挂钩的主题;;;;;;;;;;x
+EVTOPTC_JD_10060_TT;你选择了一个与§Y财政§!.\n相关的主题;;;;;;;;;;x
+EVTOPTD_JD_10060;表达我对[Root.Religion.GetHighGodName]的赞美与尊敬，相信这是相当具有......教育性的内容？;;;;;;;;;;x
+EVTOPTD_JD_10060_TT;你选择了一个与§Y学习§!.\n相关的主题;;;;;;;;;;x
 EVTOPTG_JD_10060;我只是想打动我的读者;;;;;;;;;;x
 EVTOPTG_JD_10060_TT;泪流满面!\n.;;;;;;;;;;x
-EVTOPTH_JD_10060;我决定用来编写家族的历史;;;;;;;;;;x
-EVTOPTH_JD_10060_TT;这是[Root.GetOnlyDynastyName]家族的荣耀，你选择的主题无关于任何属性\n;;;;;;;;;;x
+EVTOPTH_JD_10060;我决定编写家族的历史;;;;;;;;;;x
+EVTOPTH_JD_10060_TT;这关系到[Root.GetOnlyDynastyName]家族的荣耀和威望，所以你选择的主题无关于任何属性\n;;;;;;;;;;x
 writing_a_book;撰写著作;;;;;;;;;;x
 writing_a_book_desc;With help of their scribes, this character is currently working on a piece of literature.;;;;;;;;;;x
-EVTDESC_JD_10061_A;'My [Root.GetLordLady]' begins a note from my [Root.GetChancellorName], [advisor_target.GetTitledFirstName]. 'The writing of your manuscript has come to a halt. Our eldest scholar and most experienced scribe has passed away...'  [advisor_target.GetSheHeCap] recommends investing in more scribes, or risk a lowered quality of work.;;;;;;;;;;x
-EVTDESC_JD_10061_B;'My [Root.GetLordLady]' begins a note from my council. 'The writing of your tome has come to a halt. Our eldest scholar and most experienced scribe has passed away. My recommended course of action is to invest in more scribes, or risk a lowered quality of work'.;;;;;;;;;;x
+EVTDESC_JD_10061_A;“我[Root.GetLordLady]啊！”我的[Root.GetChancellorName],[advisor_target.GetTitledFirstName]提醒道，“关于您写作的问题，我们最有资格的长者和最有经验的抄写员狗带了......”[advisor_target.GetSheHeCap]建议聘请更多的抄写员，否则你的写作质量会下降;;;;;;;;;;x
+EVTDESC_JD_10061_B;“我[Root.GetLordLady]啊！”我的顾问提醒道，“关于您写作的问题，我们最有资格的长者和最有经验的抄写员狗带了，建议您聘请更多的抄写员，否则您的写作质量会下降。“;;;;;;;;;;x
 EVTOPTA_JD_10061;钱不是问题！;;;;;;;;;;x
 EVTOPTB_JD_10061;也许我可以帮到你？;;;;;;;;;;x
 EVTOPTC_JD_10061;我认为你手头里的资源已经足够用来管理了;;;;;;;;;;x
 higher_quality_of_book_TT;This has a chance of §Graising§! the quality of your work.\n;;;;;;;;;;x
-lower_quality_of_book_TT;This has a risk of §Rlowering§! the quality of your work.\n;;;;;;;;;;x
+lower_quality_of_book_TT;这可能会§R降低§!你的写作质量\n;;;;;;;;;;x
 available_because_trait_erudite_tt;因为你拥有 §YErudite§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_trait_scholar_tt;因为你拥有 §YScholar§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_trait_mastermind_theologian_tt;因为你拥有 §YMastermind Theologian§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_trait_lunatic_tt;因为你拥有 §YLunatic§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_is_dumb_tt;因为你拥有 §YDull§!, §YSlow§!, 或 §YImbecile§!中的一个或多个特质，所以可以选择这一项\n;;;;;;;;;;x
-EVTDESC_JD_10062;My scribes have provided me with the latest draft of my book. Upon reading it, I am not convinced it is moving in the right direction. I could perhaps ask [friendly_advice_target.GetTitledName] for advice on the matter  if nothing else, [friendly_advice_target.GetSheHe] is likely to feel flattered by it.;;;;;;;;;;x
+EVTDESC_JD_10062;关于我那本书，抄写员把最新稿件递给我。我来回地看了几遍，始终没法保证我这个思路是对的。也许我可以听听[friendly_advice_target.GetTitledName]的建议？相信我这么做的话，[friendly_advice_target.GetSheHe]一定会感到受宠若惊吧。;;;;;;;;;;x
 EVTOPTA_JD_10062;我会征求[friendly_advice_target.GetHerHis]的意见;;;;;;;;;;x
-EVTOPTB_JD_10062;我宁愿不让其他人参与这项个人色彩浓厚的工作......！;;;;;;;;;;x
+EVTOPTB_JD_10062;这是我的作品，我不允许其他人插手！;;;;;;;;;;x
 EVTDESC_JD_10063;Having invested myself in this literary endeavor, I have been feeling drained lately. When my scribes ask me what the next section of the book should be about, I throw my hands out in the air. How should I know? You cannot rush these things  I need inspiration!;;;;;;;;;;x
 EVTOPTA_JD_10063;也许我会和我的士兵一起深夜狂欢！;;;;;;;;;;x
 EVTOPTA_JD_10063_TT;花点时间在平民身上可以鼓舞人心，即便有些士兵被认为是粗鲁的...;;;;;;;;;;x
@@ -4331,26 +4337,26 @@ String_having_trouble_understanding_what_I_could_have_done_differently;I stare a
 String_almost_surprised_it_was_finally_finished; '[new_book.GetName], huh?' I scratch my chin, almost surprised that work has finally been finished.;;;;;;;;;;x
 String_filled_with_a_sense_of_well_deserved_pride;Smiling broadly, I can't help but swell with a sense of well-deserved pride.;;;;;;;;;;x
 String_expectation_of_work_fallback;这并不是我所期望的……！;;;;;;;;;;x
-String_what_feels_like_forever;what feels like forever;;;;;;;;;;x
-new_book_added_tt;§Y[new_book.GetName]§! has been added to your Treasury.\n;;;;;;;;;;x
-opinion_strangely_flattered;Strangely Flattered;;;;;;;;;;x
+String_what_feels_like_forever;永恒是怎么样的感受;;;;;;;;;;x
+new_book_added_tt;§Y[new_book.GetName]§!已经被放入你的宝库。\n;;;;;;;;;;x
+opinion_strangely_flattered;莫名其妙的阿谀奉承;;;;;;;;;;x
 how_to_hold_a_sword;怎样握剑;;;;;;;;;;x
 how_to_hold_a_sword_desc;An extensive instruction manual for the aspiring swordsman, written by [From.OriginalOwner.GetTitledName].;;;;;;;;;;x
 how_to_carry_a_bow;如何带弓;;;;;;;;;;x
 how_to_carry_a_bow_desc;A humble instruction manual for the aspiring bowman, written by [Root.GetTitledName].;;;;;;;;;;x
-military_strategy_guide;Military Strategy, according to [From.OriginalOwner.GetBestName];;;;;;;;;;x
+military_strategy_guide;[From.OriginalOwner.GetBestName]兵法;;;;;;;;;;x
 military_strategy_guide_desc;The ingenuity of [From.OriginalOwner.Culture.GetName] military, as seen through the eyes of a [From.OriginalOwner.GetTitle] in charge of them. An inspiration to any military unit.;;;;;;;;;;x
-a_soldiers_life;A Soldier's Life;;;;;;;;;;x
+a_soldiers_life;战士的一生;;;;;;;;;;x
 a_soldiers_life_desc;A down-to-earth retelling of a young [From.OriginalOwner.GetManWoman] joining the army. Surprisingly moving.;;;;;;;;;;x
-a_history_of_armor;A History of Armor;;;;;;;;;;x
-a_history_of_armor_desc;An in-depth accounting of contemporary armor types and best practices.;;;;;;;;;;x
-the_life_of_root;The Life of [From.OriginalOwner.GetBestName];;;;;;;;;;x
+a_history_of_armor;论盔甲的历史与发展;;;;;;;;;;x
+a_history_of_armor_desc;深入研究当代盔甲类型和实用性最佳者。;;;;;;;;;;x
+the_life_of_root;[From.OriginalOwner.GetBestName]的一生;;;;;;;;;;x
 the_life_of_root_desc;Drawing upon [From.OriginalOwner.GetHerHis] own experiences within the military, this is mostly a recounting of various battles.;;;;;;;;;;x
 the_life_of_root_desc_rename;Drawing upon [Root.GetHerHis] own experiences within the military, this is mostly a recounting of various battles in [Root.PrimaryTitle.GetName].;;;;;;;;;;x
 my_fechtbuch;剑典;;;;;;;;;;x
 my_fechtbuch_rename;[Root.GetFirstName]剑典;;;;;;;;;;x
 my_fechtbuch_desc;Composed by [Root.GetBestName] as an instruction manual for close combat fighting, this book is a reliable source of information for anybody interested in the fighting style of a [From.OriginalOwner.Culture.GetName] duelist.;;;;;;;;;;x
-codex_dynasty_name;Codex [From.OriginalOwner.GetOnlyDynastyName];;;;;;;;;;x
+codex_dynasty_name;[From.OriginalOwner.GetOnlyDynastyName]法典;;;;;;;;;;x
 codex_dynasty_name_desc;A compilation of several chapters, each focusing on different weapons and fighting techniques that were common in the era of [From.OriginalOwner.GetTitledName].;;;;;;;;;;x
 the_sword_and_buckler;剑盾手册;;;;;;;;;;x
 the_sword_and_buckler_desc;This manuscript instructs and describes [From.OriginalOwner.Culture.GetName] swordsmanship in detail, with comprehensive step-by-step illustrations.;;;;;;;;;;x
@@ -4361,11 +4367,11 @@ lessons_taught_to_me_by_rival_1;我的敌人启发的经验;;;;;;;;;;x
 lessons_taught_to_me_by_rival_1_desc;In this manuscript, [From.OriginalOwner.GetName] discusses [From.OriginalOwner.GetHerHis] least favorite things about meeting a personal enemy on the field.;;;;;;;;;;x
 lessons_taught_to_me_by_rival_1_desc_rename;[Root.GetTitledName] has long feuded with [dedication_target.GetBestName]. In this rare and personal history, [Root.GetTitledFirstName] spends page upon page listing noteworthy events and lessons from their complicated relationship.;;;;;;;;;;x
 lessons_taught_to_me_by_rival_2;我的敌人给的教训;;;;;;;;;;x
-lessons_taught_to_me_by_rival_2_rename_1;Lessons Taught Me By [dedication_target.GetTitledFirstName];;;;;;;;;;x
-lessons_taught_to_me_by_rival_2_rename_2;The Many Sins of [dedication_target.GetTitledFirstName];;;;;;;;;;x
+lessons_taught_to_me_by_rival_2_rename_1;[dedication_target.GetTitledFirstName]给我的经验教训;;;;;;;;;;x
+lessons_taught_to_me_by_rival_2_rename_2;[dedication_target.GetTitledFirstName]罄竹难书之罪;;;;;;;;;;x
 lessons_taught_to_me_by_rival_2_desc;[From.OriginalOwner.GetName] has long feuded with certain people. In this rare and personal history, [From.OriginalOwner.GetSheHe] spends page upon page listing noteworthy events and lessons from several complicated relationship.;;;;;;;;;;x
 lessons_taught_to_me_by_rival_2_desc_rename;[Root.GetTitledName] has long feuded with [dedication_target.GetBestName]. In this rare and personal history, [Root.GetTitledFirstName] spends page upon page listing noteworthy events and lessons from their complicated relationship.;;;;;;;;;;x
-lessons_taught_to_me_by_rival_3;Lessons Taught Me By My Enemy, by [From.OriginalOwner.GetTitledFirstName];;;;;;;;;;x
+lessons_taught_to_me_by_rival_3;仇敌给我的经验教训，[From.OriginalOwner.GetTitledFirstName]著;;;;;;;;;;x
 lessons_taught_to_me_by_rival_3_desc;This tome discusses the relationship between [From.OriginalOwner.GetTitledFirstName] and [From.OriginalOwner.GetHerHis] worst enemies...;;;;;;;;;;x
 lessons_taught_to_me_by_rival_3_desc_rename;This tome describes the famed rivalry between [Root.GetTitledFirstName] and [dedication_target.GetTitledFirstName], and there are several lessons on personal combat to be gleamed from its pages. The surprising thing is how many of their duels seem to have taken place in various bedchambers...;;;;;;;;;;x
 the_wisdom_of_the_heavens;天堂的智慧;;;;;;;;;;x
@@ -4373,63 +4379,63 @@ the_wisdom_of_the_heavens_desc;A manuscript describing falcons and hunting with 
 ordinary_beasts;一般野兽与如何避开它们;;;;;;;;;;x
 ordinary_beasts_desc;'Their intellect matches their societal status' begins this collection of curious and somewhat mocking observations on the behavior of animals and [From.OriginalOwner.GetCapitalHolding] guards, and the similarities they share.;;;;;;;;;;x
 the_white_animal;白色的[Root.GetRegionalBigAnimalCap];;;;;;;;;;x
-the_white_animal_rename;The White [Root.GetRegionalBigAnimalCap];;;;;;;;;;x
+the_white_animal_rename;白色的[Root.GetRegionalBigAnimalCap];;;;;;;;;;x
 the_white_animal_desc;An epic retelling of hunting a legendary white beast, and how [From.OriginalOwner.GetTitledName] claims to have succeeded in it.;;;;;;;;;;x
-the_white_animal_desc_rename;An epic retelling of hunting the legendary white [Root.GetRegionalBigAnimal], and how [Root.GetTitledName] claims to have succeeded in it.;;;;;;;;;;x
-the_bestiary;The Bestiary;;;;;;;;;;x
-the_bestiary_desc;Written by the great hunter [From.OriginalOwner.GetTitledName], this is a treatise on the topic of the beasts that roam [From.OriginalOwner.Culture.GetName] lands  and how to best them, using your own cunning and bravery.;;;;;;;;;;x
-the_book_of_shadows;The Book of Shadows;;;;;;;;;;x
-the_book_of_shadows_desc;A rare treatise on the art of combat with daggers.;;;;;;;;;;x
-court_etiquette_1;Court Etiquette  Volume 1;;;;;;;;;;x
-court_etiquette_1_desc;This book contains all the political dos and don'ts needed to make it in a modern court. Written by [From.OriginalOwner.GetBestName], it has been critiqued for being a bit too centered on [From.OriginalOwner.Culture.GetName] culture.;;;;;;;;;;x
-court_etiquette_2;Court Etiquette  Volume 2;;;;;;;;;;x
-court_etiquette_2_desc;Written by [From.OriginalOwner.GetTitledFirstName], this book is a must for any up and coming diplomat.;;;;;;;;;;x
-court_etiquette_2_desc_rename;Written by [Root.GetTitledFirstName], this book is a must for any up and coming diplomat, and a good follow-up to the first volume of the series, by [other_author.GetTitledFirstName].;;;;;;;;;;x
-court_etiquette_3;Court Etiquette  Volume 3;;;;;;;;;;x
-court_etiquette_3_desc;Written by [From.OriginalOwner.GetTitledFirstName], this is a continuation and in some ways an in-depth analysis of the other two volumes in the 'Court Etiquette' series.;;;;;;;;;;x
-how_to_write_a_letter;How To Compose a Letter;;;;;;;;;;x
-how_to_write_a_letter_desc;An art-form in itself, writing a proper letter can be a challenge, whether it be to your sister or your liege  these pages offer advice.;;;;;;;;;;x
-fifty_shades_of_root;Fifty Nuances of [From.OriginalOwner.GetOnlyDynastyName];;;;;;;;;;x
-fifty_shades_of_root_desc;A book of nonsense.;;;;;;;;;;x
-fifty_shades_of_root_desc_rename;A book, supposedly written by [Root.GetBestName]. Critiqued by many as somewhat [Root.GetPublicOpinionOfWork].;;;;;;;;;;x
+the_white_animal_desc_rename;记述了狩猎传说中的白[Root.GetRegionalBigAnimal]的过程，以及[Root.GetTitledName]是如何成功的一篇史诗。;;;;;;;;;;x
+the_bestiary;动物寓意论;;;;;;;;;;x
+the_bestiary_desc;由伟大的猎人[From.OriginalOwner.GetTitledName]所著，这是一个主题为游荡在[From.OriginalOwner.Culture.GetName]土地上的各种野兽的论述文，以及你是如何凭借自己的狡猾和勇敢来获得最佳成果的。;;;;;;;;;;x
+the_book_of_shadows;影之书;;;;;;;;;;x
+the_book_of_shadows_desc;关于匕首战斗技艺的罕见论述;;;;;;;;;;x
+court_etiquette_1;宫廷礼仪 卷一;;;;;;;;;;x
+court_etiquette_1_desc;这本书列举了在现代宫庭所有应做的政治工作和不该做的事情。由[From.OriginalOwner.GetBestName]撰写，它因为过于关注[From.OriginalOwner.Culture.GetName]的文化而饱受争议。;;;;;;;;;;x
+court_etiquette_2;宫廷礼仪 卷二;;;;;;;;;;x
+court_etiquette_2_desc;这本书是由[From.OriginalOwner.GetTitledFirstName]所著，对于所有现在以及将来的外交家们都是必备之物。;;;;;;;;;;x
+court_etiquette_2_desc_rename;这本书是由[From.OriginalOwner.GetTitledFirstName]所著，对于所有现在以及将来的外交家们都是必备之物，是[other_author.GetTitledFirstName]对该系列第一卷的良好续作。;;;;;;;;;;x
+court_etiquette_3;宫廷礼仪 卷三;;;;;;;;;;x
+court_etiquette_3_desc;由[From.OriginalOwner.GetTitledFirstName]撰写，这是对“宫廷礼仪”系列中其他两卷的延伸探讨和深入分析。;;;;;;;;;;x
+how_to_write_a_letter;如何正确撰写一封信;;;;;;;;;;x
+how_to_write_a_letter_desc;作为一个艺术形式本身，写一封正确的信可以是一个挑战，无论是对你的姐妹还是你的君主，这本书可为你提供建议。;;;;;;;;;;x
+fifty_shades_of_root;[From.OriginalOwner.GetOnlyDynastyName]的五十度飞;;;;;;;;;;x
+fifty_shades_of_root_desc;胡诌之书;;;;;;;;;;x
+fifty_shades_of_root_desc_rename;一本书，据说由[Root.GetBestName]所著。被许多人评论为有些[Root.GetPublicOpinionOfWork]。;;;;;;;;;;x
 kama_sutra;欲经;;;;;;;;;;x
-kama_sutra_desc;A sought-after classic, some argue that [From.OriginalOwner.GetTitledFirstName] in fact did not write this [From.OriginalOwner.GetHerselfHimself]. The illustrations are beautiful though.;;;;;;;;;;x
-in_honor_of_roots_beloved_1;In Honor of My Beloved;;;;;;;;;;x
-in_honor_of_roots_beloved_1_rename;My Beloved [dedication_target.GetFirstName];;;;;;;;;;x
-in_honor_of_roots_beloved_1_desc;Essentially a long letter to a dear friend of [From.OriginalOwner.GetTitledName]. Critics occasionally debate as to whom this was intended to impress.;;;;;;;;;;x
-in_honor_of_roots_beloved_1_desc_rename_spouse;Essentially a long letter to the [dedication_target.GetHusbandWife] of [Root.GetTitledName]. Critics occasionally debate as to whom this was intended to impress.;;;;;;;;;;x
-in_honor_of_roots_beloved_1_desc_rename_lover;Essentially a long letter to the lover of [Root.GetTitledName]. Critics occasionally debate as to whom this was intended to impress.;;;;;;;;;;x
-in_honor_of_roots_beloved_2;To My Beautiful Love;;;;;;;;;;x
-in_honor_of_roots_beloved_2_rename;To the Beautiful [dedication_target.GetFirstName];;;;;;;;;;x
-in_honor_of_roots_beloved_2_desc;A lengthy ode to marriage, and the importance of family.;;;;;;;;;;x
-in_honor_of_roots_beloved_2_desc_rename_spouse;A lengthy ode to marriage, and [dedication_target.GetFirstName], the [dedication_target.GetHusbandWife] of [Root.GetTitledFirstName].;;;;;;;;;;x
-in_honor_of_roots_beloved_2_desc_rename_lover;A lengthy treatise on the discomforts of marriage, and the importance of finding love wherever you can.;;;;;;;;;;x
-in_honor_of_roots_beloved_3;A [From.OriginalOwner.Culture.GetName] Tale;;;;;;;;;;x
-in_honor_of_roots_beloved_3_rename;A [Root.Culture.GetName] Tale, or '[Root.GetFirstName] and [dedication_target.GetFirstName]';;;;;;;;;;x
-in_honor_of_roots_beloved_3_desc;[From.OriginalOwner.GetTitledFirstName], in honor of [From.OriginalOwner.GetHerHis] great love, few can believe the sincere and passionate words which flow from the pages of this tome.;;;;;;;;;;x
-the_art_of_love;The Art of Love;;;;;;;;;;x
-the_art_of_love_rename_1;Ars Amatoria;;;;;;;;;;x
-the_art_of_love_rename_2;The Art of Love in [Root.Capital.Capital.GetName];;;;;;;;;;x
-the_art_of_love_desc;Written as a collection of poems, the tips presented by [From.OriginalOwner.GetTitledName] are sometimes classy, occasionally crass, but always revealing about the intricacies of [From.OriginalOwner.Culture.GetName] living and loving.;;;;;;;;;;x
-the_hunchback_of_capital;The Hunchback;;;;;;;;;;x
-the_hunchback_of_capital_rename;The Hunchback of [Root.Capital.Capital.GetName];;;;;;;;;;x
-the_hunchback_of_capital_desc;In this autobiographical novel, [From.OriginalOwner.GetTitledName] writes candidly about [From.OriginalOwner.GetHerHis] life as ruler.;;;;;;;;;;x
-the_hunchback_of_capital_desc_rename;In this autobiographical novel, [Root.GetTitledName] writes candidly about [Root.GetHerHis] life as ruler. It also contains sections on [Root.GetRootMatchingPersonalityStreak].;;;;;;;;;;x
-the_illiad;The [From.OriginalOwner.GetFirstName]iad;;;;;;;;;;x
-the_illiad_desc;Also known as the 'Song of [From.OriginalOwner.GetFirstName]', this is a long poem, written in dactylic hexameter, set during a great ancient war.;;;;;;;;;;x
-the_odyssey;The [From.OriginalOwner.GetFirstName]ey;;;;;;;;;;x
-the_odyssey_desc;Drawing upon similar works, this poem is a wild tale of the adventures of [From.OriginalOwner.GetTitledName]. Probably not based on true events.;;;;;;;;;;x
-the_odyssey_desc_rename;Drawing upon the work of [other_author.GetTitledFirstName], this poem is a wild tale of the adventures of [Root.GetTitledName]. It is however, as a sequel, a little [Root.GetPublicOpinionOfWork].;;;;;;;;;;x
-contracts_of_the_romans;Contracts of the [From.OriginalOwner.Culture.GetName];;;;;;;;;;x
-contracts_of_the_romans_desc;A number of old [From.OriginalOwner.Culture.GetName] gubernatorial contracts, carefully collated and analyzed.;;;;;;;;;;x
-how_to_make_allies;How to Make Allies and Influence Vassals;;;;;;;;;;x
-how_to_make_allies_desc;An instructional manuscript on how to interact with men and women of [From.OriginalOwner.Culture.GetName] aristocracy. Sadly, more entertaining than educational.;;;;;;;;;;x
-speculum_regale;Speculum Regale;;;;;;;;;;x
+kama_sutra_desc;一个受欢迎的经典，有人认为实际上这并不是[From.OriginalOwner.GetTitledFirstName][From.OriginalOwner.GetHerselfHimself]写的。PS:插图很漂亮。;;;;;;;;;;x
+in_honor_of_roots_beloved_1;纪念我心爱的人;;;;;;;;;;x
+in_honor_of_roots_beloved_1_rename;我的挚爱[dedication_target.GetFirstName];;;;;;;;;;x
+in_honor_of_roots_beloved_1_desc;本质上是一封写给[From.OriginalOwner.GetTitledName]的挚友的长信。评论者偶尔会辩论这封信打算给对方留下些什么印象。;;;;;;;;;;x
+in_honor_of_roots_beloved_1_desc_rename_spouse;本质上是一封写给[Root.GetTitledName]的[dedication_target.GetHusbandWife]的长信。评论者偶尔会辩论这封信打算给对方留下些什么印象。;;;;;;;;;;x
+in_honor_of_roots_beloved_1_desc_rename_lover;本质上是一封写给[Root.GetTitledName]的爱人的长信。评论者偶尔会辩论这封信打算给对方留下些什么印象。;;;;;;;;;;x
+in_honor_of_roots_beloved_2;致我美丽的爱;;;;;;;;;;x
+in_honor_of_roots_beloved_2_rename;致美丽的[dedication_target.GetFirstName];;;;;;;;;;x
+in_honor_of_roots_beloved_2_desc;一首长长的婚姻颂歌，并叙述了家庭的重要性。;;;;;;;;;;x
+in_honor_of_roots_beloved_2_desc_rename_spouse;一首冗长的有关婚姻和[dedication_target.GetFirstName]的[dedication_target.GetFirstName][dedication_target.GetFirstName]的赞歌。;;;;;;;;;;x
+in_honor_of_roots_beloved_2_desc_rename_lover;关于婚姻苦恼的长篇论文，以及无论在何处都要寻找爱的重要性。;;;;;;;;;;x
+in_honor_of_roots_beloved_3;[From.OriginalOwner.Culture.GetName]的故事;;;;;;;;;;x
+in_honor_of_roots_beloved_3_rename;一段[Root.Culture.GetName]的故事，“[Root.GetFirstName]和[dedication_target.GetFirstName]”;;;;;;;;;;x
+in_honor_of_roots_beloved_3_desc;[From.OriginalOwner.GetTitledFirstName]为了纪念[From.OriginalOwner.GetHerHis]的真爱所作，很少有人能相信从这本书的字里行间流出的真诚和充满激情的话语。;;;;;;;;;;x
+the_art_of_love;爱之艺术;;;;;;;;;;x
+the_art_of_love_rename_1;爱的艺术;;;;;;;;;;x
+the_art_of_love_rename_2;在[Root.Capital.Capital.GetName]的爱之艺术;;;;;;;;;;x
+the_art_of_love_desc;作为一本诗集，[From.OriginalOwner.GetTitledName]展示的技巧有时很优美，有时却很粗俗，但总的来说揭露了[From.OriginalOwner.Culture.GetName]生活和感情的错综复杂。;;;;;;;;;;x
+the_hunchback_of_capital;钟楼怪人;;;;;;;;;;x
+the_hunchback_of_capital_rename;[Root.Capital.Capital.GetName]的钟楼怪人;;;;;;;;;;x
+the_hunchback_of_capital_desc;在这部自传体小说中，身为统治者的[From.OriginalOwner.GetTitledName]坦率地写出了[From.OriginalOwner.GetHerHis]一生。;;;;;;;;;;x
+the_hunchback_of_capital_desc_rename;在这部自传体小说中，身为统治者的[From.OriginalOwner.GetTitledName]坦率地写出了[From.OriginalOwner.GetHerHis]一生。它还包括了[Root.GetRootMatchingPersonalityStreak]的部分。;;;;;;;;;;x
+the_illiad;[From.OriginalOwner.GetFirstName]史诗;;;;;;;;;;x
+the_illiad_desc;也被称作“[From.OriginalOwner.GetFirstName]之歌”，这是一首长诗，采用长短格六步格诗的韵体形式，在一次伟大的古代战争中作成。;;;;;;;;;;x
+the_odyssey;[From.OriginalOwner.GetFirstName]传奇;;;;;;;;;;x
+the_odyssey_desc;借鉴了类似的作品，这首诗是[From.OriginalOwner.GetTitledName]的冒险故事。可能并不是基于真实的事件。;;;;;;;;;;x
+the_odyssey_desc_rename;借鉴[other_author.GetTitledFirstName]的作品，这首诗是[Root.GetTitledName]的冒险故事。但是作为续集，有一点[Root.GetPublicOpinionOfWork]。;;;;;;;;;;x
+contracts_of_the_romans;[From.OriginalOwner.Culture.GetName]契约法;;;;;;;;;;x
+contracts_of_the_romans_desc;一些陈旧的[From.OriginalOwner.Culture.GetName]统治者的契约法，被仔细整理和分析。;;;;;;;;;;x
+how_to_make_allies;外交和御下之道;;;;;;;;;;x
+how_to_make_allies_desc;关于如何与[From.OriginalOwner.Culture.GetName]贵族的男女进行互动的指导性手稿。可悲的是，娱乐意义比教育意义更多。;;;;;;;;;;x
+speculum_regale;王鉴;;;;;;;;;;x
 speculum_regale_desc;An educational work cleverly disguised as a [From.OriginalOwner.GetFatherMother]'s conversation with [From.OriginalOwner.GetHerHis] [From.OriginalOwner.GetDaughterSon].;;;;;;;;;;x
 religious_head_culture_courtesy_rename;[Root.RelHead.Culture.GetName] Courtesy;;;;;;;;;;x
 religious_head_culture_courtesy_desc;A helpful primer on etiquette among the [From.OriginalOwner.RelHead.Culture.GetName] people, from proper dress to styles of address.;;;;;;;;;;x
 religious_head_culture_courtesy_desc_rename;A helpful primer on etiquette among the [Root.RelHead.Culture.GetName] people, from proper dress to styles of address. [Root.RelHead.GetTitledName] is known to have approved of this work.;;;;;;;;;;x
-keeping_government_court;Keeping A Court;;;;;;;;;;x
+keeping_government_court;宫廷纪律;;;;;;;;;;x
 keeping_government_court_rename;Keeping [Root.Government.GetName] Court;;;;;;;;;;x
 keeping_government_court_desc;A study on the practices of various [From.OriginalOwner.Culture.GetName] courts, with emphasis on the proper displays of power, servitude, and allegiance.;;;;;;;;;;x
 keeping_government_court_desc_rename;A study on the practices of various [Root.Government.GetName] courts, with emphasis on the proper displays of power, servitude, and allegiance.;;;;;;;;;;x
@@ -4451,7 +4457,7 @@ shoddy_recipes;Shoddy Recipe Collection, by [From.OriginalOwner.GetTitledFirstNa
 shoddy_recipes_desc;This beautiful leather-bound tome is a curious rarity for any collector of oddities. Read it for an insight into the disorganized mind of [From.OriginalOwner.GetTitledFirstName].;;;;;;;;;;x
 decent_cookbook;Decent Cookbook;;;;;;;;;;x
 decent_cookbook_desc;While critiqued as a little brief, the content of this book might allow an administrator to keep better track of edible resources, as well as their kitchen staff.;;;;;;;;;;x
-honest_recipes;Honest Recipes;;;;;;;;;;x
+honest_recipes;诚挚的食谱;;;;;;;;;;x
 honest_recipes_desc;Sometimes a [From.OriginalOwner.GetTitle] has to use whatever resources [From.OriginalOwner.GetSheHe] has available. It cannot always be pickled boar-heads!;;;;;;;;;;x
 notes_from_a_kitchen;Notes From A Kitchen;;;;;;;;;;x
 notes_from_a_kitchen_desc;An intriguing tale of a kitchen boy who falls in love with a princess. [From.OriginalOwner.GetTitledFirstName] always claimed it was based on a true story.;;;;;;;;;;x
@@ -4459,7 +4465,7 @@ gastronomic_tonics;Gastronomic Tonics;;;;;;;;;;x
 gastronomic_tonics_desc;This discreet, pocket-sized little tome contains a variety of recipes, ranging from delicious drinks to some curious anti-dotes for common poisons.;;;;;;;;;;x
 good_cookbook;Feeding a Realm;;;;;;;;;;x
 good_cookbook_desc;Any administrator would be lucky to get their hands on this tome, filled with house-holding tips for a more economic administration and distribution of essential resources.;;;;;;;;;;x
-the_omnivore;The Omnivore;;;;;;;;;;x
+the_omnivore;杂食者;;;;;;;;;;x
 the_omnivore_desc;There were always rumors surrounding the appetites of [From.OriginalOwner.GetTitledFirstName], as [From.OriginalOwner.GetHerHis] unconventional tome reveals, in grueling detail, and not for the faint of heart.;;;;;;;;;;x
 the_dynasty_cookbook;The [From.OriginalOwner.GetOnlyDynastyName] Cookbook, by [From.OriginalOwner.GetFirstName];;;;;;;;;;x
 the_dynasty_cookbook_desc;Written by [From.OriginalOwner.GetFirstName] of the [From.OriginalOwner.GetOnlyDynastyName], this is supposedly a collection of dishes and delicacies favored by [From.OriginalOwner.GetHerHis] family.;;;;;;;;;;x
@@ -4471,7 +4477,7 @@ cookbook_3_roman_desc;What did the wealthy [From.OriginalOwner.Culture.GetName] 
 cookbook_3_roman_desc_rename;What did the wealthy [Root.Culture.GetName] nobility in [Root.Capital.GetName] eat during the time of [Root.GetTitledFirstName]? This tome contains all the details, neatly organized in sections and subcategories, such as 'The Careful Housekeeper', 'Many Ingredients' and 'The Sea'.;;;;;;;;;;x
 cookbook_3_arabic;Kitab al-Tabikh;;;;;;;;;;x
 cookbook_3_arabic_desc;Aptly named 'The Book of Dishes' this culinary tome contains over a hundred recipes, and provides a fascinating insight into [From.OriginalOwner.Culture.GetName] gastronomy.;;;;;;;;;;x
-cookbook_3_chinese_group;Yinshan Zhengyao;;;;;;;;;;x
+cookbook_3_chinese_group;饮膳正要;;;;;;;;;;x
 cookbook_3_chinese_group_desc;While not only containing an impressive collection of typical [From.OriginalOwner.Culture.GetName] recipes, this book is a source of dietary advice and instructions, intended to inspire mental wellness and improve the health of its readers.;;;;;;;;;;x
 cookbook_3_central_german;Das Buch von guter Speise;;;;;;;;;;x
 cookbook_3_central_german_desc;Intended for the experienced chef, and containing over a hundred recipes, 'The Book of Good Food' is a classic in the [From.OriginalOwner.Culture.GetName] household, or for anyone interested in emulating the eating habits of the aristocracy.;;;;;;;;;;x
@@ -4596,7 +4602,7 @@ String_Lion;狮子;;;;;;;;;;x
 String_Tiger;老虎;;;;;;;;;;x
 String_animalCap_fallback;野兽;;;;;;;;;;x
 write_a_book;写一本书;;;;;;;;;;x
-write_a_book_desc;Provided §Y[Root.GetTitledFirstName]§! possesses some knowledge of the world, you can choose to compose a work of literature.;;;;;;;;;;x
+write_a_book_desc;如果§Y[Root.GetTitledFirstName]§!有一些关于这个世界的想法，那么可以选择写一本书。;;;;;;;;;;x
 this_may_take_some_time_tt;This will take time...\n;;;;;;;;;;x
 choose_a_topic_tt;Choose a topic worthy of discussing.;;;;;;;;;;x
 has_not_explored_all_topics_tt;Has NOT explored all topics available to you;;;;;;;;;;x
@@ -4777,10 +4783,10 @@ EVTOPTBRO_FROM_B;§Y[From.GetFirstName]§!有很高的几率获得§YTimid§!\n�
 EVTTOOLTIP_ZE_11011;派出更多的支援部队来扩编[From.GetFirstName];;;;;;;;;;x
 ADJUST_SIPHON_FACTOR_EFFECT_NEGATIVE;Decreases the payment factor for $TITLE$ by $VALUE1|Y%$ to §Y$VALUE2$%§!.;;;;;;;;;;x
 CONSTRUCTION_TIME_DESC;Construction will take $TIME|Y$ days;;;;;;;;;;x
-DYNASTY_OPINION_MODIFIER_EXPLANATION;(同一家族);;;;;;;;;;x
-MALE_DYNASTY_OPINION_EXPLANATION;(男性家族成员);;;;;;;;;;x
-FEMALE_DYNASTY_OPINION_EXPLANATION;(女性家族成员);;;;;;;;;;x
-REL_HEAD_OPINION_EXPLANATION;(宗教领袖);;;;;;;;;;x
+DYNASTY_OPINION_MODIFIER_EXPLANATION;（同一家族）;;;;;;;;;;x
+MALE_DYNASTY_OPINION_EXPLANATION;（男性家族成员）;;;;;;;;;;x
+FEMALE_DYNASTY_OPINION_EXPLANATION;（女性家族成员）;;;;;;;;;;x
+REL_HEAD_OPINION_EXPLANATION;（宗教领袖）;;;;;;;;;;x
 CHILD_OPINION_MODIFIER_EXPLANATION;（儿童）;;;;;;;;;;x
 MODIFIER_CHURCH_OPINION_EXPLANATION;（神权）;;;;;;;;;;x
 MODIFIER_CASTLE_OPINION_EXPLANATION;（封建）;;;;;;;;;;x
@@ -4795,9 +4801,9 @@ CANNOT_MARRY_DEAD;已经死去的人物不能结婚;;;;;;;;;;x
 CANNOT_MARRY_IMPRISON;处于囚禁状态时不能结婚;;;;;;;;;;x
 CANNOT_MARRY_HIDING;处于藏匿状态时不能结婚;;;;;;;;;;x
 CANNOT_MARRY_LANDLESS;没有土地的统治者不能结婚;;;;;;;;;;x
-CANNOT_MARRY_HOLY_ORDER;神职人员不能结婚.;;;;;;;;;;x
+CANNOT_MARRY_HOLY_ORDER;神职人员不能结婚。;;;;;;;;;;x
 CANNOT_MARRY_TRAITS;拥有不能结婚的特质;;;;;;;;;;x
-CANNOT_MARRY_PRIEST;神职人员不能结婚;;;;;;;;;;x
+CANNOT_MARRY_PRIEST;神职人员不能结婚。;;;;;;;;;;x
 RD_FAIL_READY;§RCannot use Ruler Designer while Ready§!;;;;;;;;;;x
 available_due_to_prestige_tt;此选项可以选择是因为你拥有足够高的§YPrestige§!\n;;;;;;;;;;x
 outcome_will_depend_on_froms_skill_tt;搜索的结果取决于你§Y[From.GetJobTitle] [From.GetFirstName]§!.\n的§YSkills§!和§YTraits§!;;;;;;;;;;x

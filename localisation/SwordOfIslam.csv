@@ -1224,7 +1224,7 @@ EVTOPTB89020;不，我不能这么做...;;;;;;;;;;x
 EVTTOOLTIP89021;死于毒药....;;;;;;;;;;x
 EVTDESC89021;[From.GetFirstName]阿姨，你父亲的一位妻子，递给你一杯茶并坚持让你喝下.不过，这杯茶闻起来有些古怪，你拒绝品尝它.当[From.GetFirstName]想要强迫你喝下去的时候，茶洒在地板上，溅在你的一只宠物猫身上...它很快就死掉了.;;;;;;;;;;x
 EVTOPTA89021;毒-毒药;;;;;;;;;;x
-EVTDESC89022;One of your wives, [From.GetFirstName], has been caught trying to serve a cup of poisoned tea to [Root.Heir.GetFirstName], your [Root.Heir.GetSonDaughter] and heir. Only your [Root.Heir.GetSonDaughter]'s keen senses revealed the beverage for the vile poison it was before [Root.Heir.GetSheHe] drank from the cup. It seems her goal was to make her own son your heir...;;;;;;;;;;x
+EVTDESC89022;你的一个妻子，[From.GetFirstName]，在尝试给[Root.Heir.GetFirstName]，你的 [Root.Heir.GetSonDaughter]和继承人一杯有毒的茶时被捉住了。幸好在[Root.Heir.GetSheHe]喝下去之前，你[Root.Heir.GetSonDaughter]以敏锐的感官发现饮料被下了毒。似乎她目的是为了让她的儿子成为继承人而下毒。;;;;;;;;;;x
 EVTOPTA89022;你想杀死我的儿子你要为此付出代价.;;;;;;;;;;x
 EVTOPTB89022;把她扔到地牢里！;;;;;;;;;;x
 EVTOPTC89022;好吧.下不为例.;;;;;;;;;;x
