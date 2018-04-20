@@ -637,7 +637,7 @@ CANNOT_DECLINE_FAVOR;你不能拒绝，因为§Y[Actor.GetBestName]§!兑现了�
 ASK_TO_DECLARE_WAR_INTERACTION_LONG_DESC;通过兑现一个§Y人情§!，你可以要求你的君主§Y宣战§!并公开你的宣称。;;;;;;;;;;x
 ASK_TO_DECLARE_WAR_INTERACTION_DESC;这兑现了一个§Y人情§!用来要求你的君主§Y宣战§!并公开你的宣称。;;;;;;;;;;x
 ASK_TO_DECLARE_WAR_INTERACTION_LETTER;我要求你通过宣布$CB$反对$RECIPIENT$来偿还你欠我的人情。如果你拒绝我正当的要求，我确保内阁将知道这件事。;;;;;;;;;;x
-COUNCIL_MUST_AGREE;议会必须同意;;;;;;;;;;x
+COUNCIL_MUST_AGREE;内阁必须同意;;;;;;;;;;x
 PRESS_CLAIMS_RECENTLY_REFUSED;$LIEGE|Y$最近没有拒绝发布$ACTOR|Y$的宣称;;;;;;;;;;x
 INTERACTION_REQUIRES_PEACE;$ATTACKER|Y$必须处于和平;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_TRUCE;$ATTACKER|Y$和$DEFENDER|Y$不得休战;;;;;;;;;;x
@@ -838,8 +838,8 @@ faction_increase_council_power_ultimatum_desc;向§Y[Root.Liege.GetBestName]§!�
 faction_increase_council_power_short;扩大内阁的职权;;;;;;;;;;x
 faction_increase_council_power_title;在[This.GetName]扩大内阁的职权;;;;;;;;;;x
 faction_increase_council_power_desc;派系成员们增加内阁能够制定的法令，而不是君主独断专行。当派系积蓄了足够的力量，§Y[From.GetBestName]§!将会向§Y[From.Liege.GetBestName]§!发出最后通牒。;;;;;;;;;;x
-opinion_increased_council_power;扩大议会职权;;;;;;;;;;x
-opinion_decreased_council_power;削减议会职权;;;;;;;;;;x
+opinion_increased_council_power;已增加内阁权力;;;;;;;;;;x
+opinion_decreased_council_power;已削减内阁权力;;;;;;;;;;x
 opinion_likes_new_obligation_law;喜欢新的义务法;;;;;;;;;;x
 opinion_dislikes_new_obligation_law;厌恶新的义务法;;;;;;;;;;x
 out_of_realm_inheritance_law_0;自由继承;;;;;;;;;;x
@@ -962,7 +962,7 @@ law_voting_power_1_desc;这将给委员会授权。\n;;;;;;;;;;x
 law_voting_power_0_option;废除;;;;;;;;;;x
 law_voting_power_1_option;授权;;;;;;;;;;x
 banish_voting_power;驱逐;;;;;;;;;;x
-banish_voting_power_desc;议会有能力干涉从领土中驱逐角色;;;;;;;;;;x
+banish_voting_power_desc;内阁有能力干涉从领土中驱逐人物;;;;;;;;;;x
 banish_voting_power_0;驱逐权;;;;;;;;;;x
 banish_voting_power_1;囚犯驱逐委员会;;;;;;;;;;x
 banish_voting_power_0_desc;君主驱逐囚犯的权力不受干涉。\n;;;;;;;;;;x
@@ -974,33 +974,33 @@ revoke_title_voting_power_desc;内阁有权干涉头衔的销毁;;;;;;;;;;x
 revoke_title_voting_power_0;法理头衔销毁权;;;;;;;;;;x
 revoke_title_voting_power_1;头衔销毁委员会;;;;;;;;;;x
 revoke_title_voting_power_0_desc;君主拥有头衔收回的绝对权力。;;;;;;;;;;x
-revoke_title_voting_power_1_desc;议会成员投票决定头衔收回与否。;;;;;;;;;;x
+revoke_title_voting_power_1_desc;内阁成员投票决定头衔收回与否。;;;;;;;;;;x
 revoke_title_voting_power_0_option;君主;;;;;;;;;;x
-revoke_title_voting_power_1_option;议会;;;;;;;;;;x
+revoke_title_voting_power_1_option;内阁;;;;;;;;;;x
 grant_title_voting_power;赐予头衔权力;;;;;;;;;;x
-grant_title_voting_power_desc;议会影响头衔赐予决议的能力。;;;;;;;;;;x
+grant_title_voting_power_desc;内阁影响头衔赐予决议的能力。;;;;;;;;;;x
 grant_title_voting_power_0;君主全权赐予头衔;;;;;;;;;;x
-grant_title_voting_power_1;议会赐予头衔;;;;;;;;;;x
+grant_title_voting_power_1;头衔授予委员会;;;;;;;;;;x
 grant_title_voting_power_0_desc;君主拥有头衔赐予的绝对权力。;;;;;;;;;;x
-grant_title_voting_power_1_desc;议会成员投票决定头衔赐予与否。;;;;;;;;;;x
+grant_title_voting_power_1_desc;内阁成员投票决定头衔赐予与否。;;;;;;;;;;x
 grant_title_voting_power_0_option;君主;;;;;;;;;;x
-grant_title_voting_power_1_option;议会;;;;;;;;;;x
+grant_title_voting_power_1_option;内阁;;;;;;;;;;x
 imprison_voting_power;监禁权力;;;;;;;;;;x
-imprison_voting_power_desc;议会影响逮捕权力的能力。;;;;;;;;;;x
+imprison_voting_power_desc;内阁影响逮捕权力的能力。;;;;;;;;;;x
 imprison_voting_power_0;君主全权逮捕;;;;;;;;;;x
-imprison_voting_power_1;议会讨论逮捕;;;;;;;;;;x
+imprison_voting_power_1;逮捕委员会;;;;;;;;;;x
 imprison_voting_power_0_desc;君主拥有逮捕决议的绝对权力。;;;;;;;;;;x
-imprison_voting_power_1_desc;议会成员投票决定逮捕与否。;;;;;;;;;;x
+imprison_voting_power_1_desc;内阁成员投票决定逮捕与否。;;;;;;;;;;x
 imprison_voting_power_0_option;君主;;;;;;;;;;x
-imprison_voting_power_1_option;议会;;;;;;;;;;x
+imprison_voting_power_1_option;内阁;;;;;;;;;;x
 war_voting_power;宣战权力;;;;;;;;;;x
-war_voting_power_desc;议会影响宣战的能力。;;;;;;;;;;x
+war_voting_power_desc;内阁影响宣战的能力。;;;;;;;;;;x
 war_voting_power_0;君主全权宣战;;;;;;;;;;x
-war_voting_power_1;议会讨论宣战;;;;;;;;;;x
+war_voting_power_1;宣战委员会;;;;;;;;;;x
 war_voting_power_0_desc;君主拥有对外宣战的绝对权力。;;;;;;;;;;x
-war_voting_power_1_desc;议会成员投票决定宣战与否。;;;;;;;;;;x
+war_voting_power_1_desc;内阁成员投票决定宣战与否。;;;;;;;;;;x
 war_voting_power_0_option;君主;;;;;;;;;;x
-war_voting_power_1_option;议会;;;;;;;;;;x
+war_voting_power_1_option;内阁;;;;;;;;;;x
 opinion_lowered_tribal_organization;更低部落组织度;;;;;;;;;;x
 EVTDESC38315;我说着方言并且随时地尖声喊出猥亵的话语，人们相信我被占据了。;;;;;;;;;;x
 EVTOPTA_ZE_6021;[moving_councillor.GetSheHeCap]应该成为我的[Root.GetChancellorName]。;;;;;;;;;;x
@@ -1298,7 +1298,7 @@ EVTDESCC_ZE_12056;在我睡觉前, 我记得我曾向 [From.GetFirstName] 道歉
 EVTDESCD_ZE_12056;我醒来时, [From.GetFirstName] 在我身边. [From.GetSheHeCap] 给我端来了一杯水, 并将毯子盖在我身上. 我不该这样. 但 [From.GetSheHe] 也许能看到我好的一面...;;;;;;;;;;x
 EVTDESCE_ZE_12056;[From.GetFirstName] 似乎有些沮丧, [From.GetHerHis] 试了很多次依然失败了. [From.GetSheHeCap] 似乎对我的鼓励有些看法.;;;;;;;;;;x
 EVTDESCF_ZE_12056;[From.GetFirstName] 回到房间做 [From.GetHerHis] 擅长的事.;;;;;;;;;;x
-EVTOPTA_ZE_12056;我有过好日子.;;;;;;;;;;x
+EVTOPTA_ZE_12056;我已经今不如昔了;;;;;;;;;;x
 EVTOPTB_ZE_12056;这小子.;;;;;;;;;;x
 EVTOPTC_ZE_12056;我有些悲伤.;;;;;;;;;;x
 EVTOPTD_ZE_12056;我可以改变. 我会改变.;;;;;;;;;;x
@@ -1705,7 +1705,7 @@ CB_NAME_INCREASE_COUNCIL_POWER;增加内阁权力;;;;;;;;;;x
 WAR_NAME_INCREASE_COUNCIL_POWER; $ORDER$$SECOND_ADJ$ 内战用来增加内阁权力;;;;;;;;;;x
 council_off_custom;不能使用 §Y 全境和平 §! ;;;;;;;;;;x
 council_on_custom;解锁额外内阁权力法律\n允许使用 §Y 全境和平 §! ;;;;;;;;;;x
-EVTDESC8215;长久以来，你一直限制着封臣的政治影响。但这一切都将结束，是时候给 [Root.GetCouncilName] 更多的权力！和平地提出这项要求或面对这将带来的后果。最后确认我已经把那些感到不安的人集中了起来……\n\n署名,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8215;长久以来，你一直限制着封臣的政治影响。但这一切都将结束，是时候给 [Root.GetCouncilName] 更多权力了！和平地提出这项要求或面对这将带来的后果。最后确认我已经把那些感到不安的人集中了起来……\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 opinion_childhood_sweetheart;青梅竹马;;;;;;;;;;x
 pattern_loyalist_vote_as_liege_custom_tooltip;这个投票者是保皇派，他会支持领主\n;;;;;;;;;;x
 pattern_pragmatist_weak_opponent_custom_tooltip;敌人比我们弱很多\n;;;;;;;;;;x

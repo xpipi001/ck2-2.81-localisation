@@ -140,7 +140,7 @@ d_baltic_pagan_reformed_adj;洛姆瓦教;;;;;;;;;;x
 d_slavic_pagan_reformed;斯拉夫多神教;;;;;;;;;;x
 d_slavic_pagan_reformed_adj;斯拉夫多神教;;;;;;;;;;x
 d_tengri_pagan_reformed;长生天;;;;;;;;;;x
-d_tengri_pagan_reformed_adj;长生天;;;;;;;;;;x
+d_tengri_pagan_reformed_adj;腾格里;;;;;;;;;;x
 d_finnish_pagan_reformed;索米多神教;;;;;;;;;;x
 d_finnish_pagan_reformed_adj;索米多神教;;;;;;;;;;x
 d_aztec_pagan_reformed;阿兹特克多神教;;;;;;;;;;x
@@ -370,7 +370,7 @@ HAS_LOWER_DYN_REALM_POWER;王朝的疆域统治力量小于 §Y$VAL$%§!;;;;;;;;
 HAS_HIGHER_DYN_REALM_POWER;王朝的疆域统治力量至少是 §Y$VAL$%§!;;;;;;;;;;x
 slavic_pagan;斯拉夫多神教;;;;;;;;;;x
 slavic_pagan_reformed;斯拉夫多神教;;;;;;;;;;x
-tengri_pagan_reformed;长生天;;;;;;;;;;x
+tengri_pagan_reformed;腾格里;;;;;;;;;;x
 baltic_pagan_reformed;洛姆瓦教;;;;;;;;;;x
 finnish_pagan_reformed;索米多神教;;;;;;;;;;x
 aztec_reformed;阿兹特克多神教;;;;;;;;;;x
@@ -1525,7 +1525,7 @@ slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰	主神是雷电之�
 west_african_pagan_reformed_DESC;改革的西非宗教信仰是许多种流行信仰的熔合	有一本圣书记述了创世神话	诸灵	动物图腾和诸神的传说. 该教会有一套标准化的礼拜仪式以及由大祭司(或者女祭司)为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 west_african_pagan_DESC;西非宗教信仰是对撒哈拉沙漠以南的西非部落各种原始宗教的泛称. 以祖先崇拜	泛灵论	图腾崇拜以及萨满教为主	除此还有很多很多的神.;;;;;;;;;;x
 zoroastrian_DESC;祆教崇拜阿胡拉·马兹达	古伊朗先知琐罗亚斯德认为阿胡拉·马兹达是创世神. 直到公元651年穆斯林征服萨珊王朝为止	它是所有波斯帝国的国教(除了希腊的塞琉古帝国). 古老的宗教礼仪包括圣山顶上的圣火	天葬	以及效仿阿胡拉·马兹达和琐罗亚斯德的近亲结婚.;;;;;;;;;;x
-mazdaki_DESC;马自达卡是琐罗亚斯德教的牧师，他声称自己是胡拉·马自达的先知.他尝试以诺斯替元素进行宗教改革，并主张财产公有制和福利项目.他的教义跳出了沙哈撒·卡瓦达一世的狂热，但隐藏了异端在遥远的地方.这个异端没有正式的首脑也没有特殊的游戏机制.;;;;;;;;;;x
+mazdaki_DESC;马自达卡是琐罗亚斯德教的牧师，他声称自己是阿胡拉.马兹达的先知.他尝试以诺斯替元素进行宗教改革，并主张财产公有制和福利项目.他的教义跳出了沙哈撒·卡瓦达一世的狂热，但隐藏了异端在遥远的地方.这个异端没有正式的首脑也没有特殊的游戏机制.;;;;;;;;;;x
 title_cherbi;阇里必;;;;;;;;;;x
 title_cherbi_desc;阇里必是怯薛的首领，蒙古帝国的皇家卫士.他们负责包围重要的贵族们，他们的指挥官地位很高.;;;;;;;;;;x
 title_darkhan;达尔汗;;;;;;;;;;x
@@ -1674,17 +1674,17 @@ EVTDESC39603;你看到[From.GetTitledFirstName]和[FromFrom.GetTitledFirstName]�
 EVTOPTA39603;站在[From.GetFirstName]这边.流放[FromFrom.GetFirstName]..;;;;;;;;;;x
 EVTOPTB39603;站在[FromFrom.GetFirstName]这边.流放[From.GetFirstName].;;;;;;;;;;x
 EVTOPTC39603;我不想因为这个小争吵开除谁.;;;;;;;;;;x
-EVTDESC39604;殿下，我安全抵达了[From.Location.GetName]当地的统治者允许我留下来传播真正的信仰.愿[From.Religion.GetRandomGodName]赐予我力量来感化这些野蛮人...\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39604;大人，我安全抵达了[From.Location.GetName]当地的统治者允许我留下来传播真正的信仰。愿[From.Religion.GetRandomGodName]赐予我力量来感化这些野蛮人...\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39604;祝你好运.;;;;;;;;;;x
 EVTDESC39605;不久后[FromFrom.GetTitledFirstName]到达[FromFrom.Location.GetName]，[From.GetTitledFirstName]下令监禁他.你的[Root.GetLordSpiritualName]在异教徒的手中日渐憔悴.我们应该告诉野蛮人该怎么对他;;;;;;;;;;x
 EVTOPTA39605;邪恶的异教徒！;;;;;;;;;;x
-EVTDESC39606;殿下，我带来了好消息！通过我的努力，[FromFrom.GetTitledFirstName]找到了正确的信仰.我的工作已经完成了，我将马上回到您的宫廷.\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39606;大人，我带来了好消息！通过我的努力，[FromFrom.GetTitledFirstName]找到了正确的信仰.我的工作已经完成了，我将马上回到您的宫廷。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39606;又一个异教徒改邪归正了.;;;;;;;;;;x
-EVTDESC39607;殿下，有个坏消息.虽然我努力使[FromFrom.GetTitledFirstName]抛弃[From.GetHerHis]异端信仰， [FromFrom.GetSheHe]突然改变了心意.我被[FromFrom.Location.GetName]驱逐了，能摆脱他太好了！让这些冥顽不化的野蛮人死后遭受无穷的痛楚吧！\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39607;大人，有个坏消息。虽然我努力使[FromFrom.GetTitledFirstName]抛弃[From.GetHerHis]异端信仰， [FromFrom.GetSheHe]突然改变了心意。我被[FromFrom.Location.GetName]驱逐了，能摆脱他太好了！让这些冥顽不化的野蛮人死后遭受无穷的痛楚吧！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39607;很遗憾.;;;;;;;;;;x
 EVTDESC39608;你收到消息说[From.GetTitledFirstName]被[FromFrom.GetTitledFirstName]囚禁了.看起来[FromFrom.GetTitle]觉得受到了冒犯	因为你的[Root.GetLordSpiritualName]在转化[FromFrom.GetHerHis]的异教徒.;;;;;;;;;;x
 EVTOPTA39608;真该感谢那个傻瓜！;;;;;;;;;;x
-EVTDESC39609;殿下，那个卑鄙的野蛮人[FromFrom.GetTitledFirstName]把我从[FromFrom.GetHerHis]流放了！我和传播别的信仰的牧师发生了点小争吵，[FromFrom.GetFirstName]愚蠢地站在他那边.\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39609;大人，那个卑鄙的野蛮人[FromFrom.GetTitledFirstName]把我从[FromFrom.GetHerHis]流放了！我和传播别的信仰的牧师发生了点小争吵，[FromFrom.GetFirstName]愚蠢地站在他那边。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39609;那将失去[FromFrom.GetHerHim]!;;;;;;;;;;x
 opinion_imprisoned_missionary;被囚禁的传教士;;;;;;;;;;x
 opinion_allowed_missionary;允许传教;;;;;;;;;;x

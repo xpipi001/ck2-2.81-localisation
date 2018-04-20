@@ -83,18 +83,18 @@ EVTDESC_REP_508;无可否认，你的请求值得称赞，但似乎已没有能�
 EVTOPTA_REP_508;不用费心了......;;;;;;;;;;x
 EVTTOOLTIP_REP_508;你告知贵人你已竭尽全力。;;;;;;;;;;x
 EVTTOOLTIP_REP_510;你提出了几个贸易节点的要求。;;;;;;;;;;x
-EVTDESC_REP_510;我为保卫共和国而不懈奋斗，我认为如果能让我的家族直接控制现在被[Root.GetOnlyDynastyName]皇室控制的几个具有战略意义的贸易节点就再好也不为过了。谢谢你能理解.\n\nSigned\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_REP_510;我为保卫共和国而不懈奋斗，我认为如果能让我的家族直接控制现在被[Root.GetOnlyDynastyName]皇室控制的几个具有战略意义的贸易节点就再好也不为过了。谢谢你能理解。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_REP_510;胆大包天！;;;;;;;;;;x
 EVTOPTB_REP_510;我不这么认为。;;;;;;;;;;x
 EVTOPTC_REP_510;毋庸置疑，这一行为有失[From.GetTitle]之身份。;;;;;;;;;;x
 EVTOPTD_REP_510;机不可失，时不再来。我亲爱的[From.GetFirstName]......;;;;;;;;;;x
-EVTDESC_REP_511;好得很！拿走这些贸易节点吧！可恶！你可要知道，风水轮流转！且行且珍惜，我亲爱的[Root.GetTitle].\n\nSigned\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_REP_511;好得很！拿走这些贸易节点吧！可恶！你可要知道，风水轮流转！且行且珍惜，我亲爱的[Root.GetTitle].\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_REP_511;好家伙！;;;;;;;;;;x
 EVTTOOLTIP_REP_512;你继续管理这些贸易节点，相信在你精心经营下，它们将会远比现在繁荣，这真是不言而喻。;;;;;;;;;;x
-EVTDESC_REP_512;我尽量遵照你的要求。这些贸易节点在我开明的经营下将会为共和国更好地服务。我改善管理方式的例证可以说不胜枚举。把它们转手出去我难以做到问心无愧。\n\nSigned\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_REP_512;我尽量遵照你的要求。这些贸易节点在我开明的经营下将会为共和国更好地服务。我改善管理方式的例证可以说不胜枚举。把它们转手出去我难以做到问心无愧。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_REP_512;这回合你赢了，[From.GetFirstName]......;;;;;;;;;;x
 EVTTOOLTIP_REP_513;你用你折冲樽俎之能指出他的请求简直是愚不可及，而且这也会严重威胁共和国的基础。;;;;;;;;;;x
-EVTDESC_REP_513;我亲爱的[Root.GetFirstName]，请允许我分享我多年来纵横捭阖的管窥蠡测之见。作为[Root.GetTitle]，你应该与其他贵人睦邻友好。如果你随意没收他们财产的行为变得路人皆知，他们会作何反应?\n\nSigned\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_REP_513;我亲爱的[Root.GetFirstName]，请允许我分享我多年来纵横捭阖的管窥蠡测之见。作为[Root.GetTitle]，你应该与其他贵人睦邻友好。如果你随意没收他们财产的行为变得路人皆知，他们会作何反应？\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTTOOLTIP_REP_514;在你精心布局下，你已步步为营，稳扎稳打地确保了那些供职于贸易节点的臣属们对你忠贞不渝。;;;;;;;;;;x
-EVTDESC_REP_514;我担心您很难从这些贸易节点中获益，[Root.GetTitle]。在我精心布局下，我能确保那些供职于贸易节点的人忠贞不二。我给他们下了命令，如果统治他们的[Root.GetOnlyDynastyName] 收到威胁，他们就会把这些贸易节点夷为平地......\n\nSigned\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_REP_514;我担心您很难从这些贸易节点中获益，[Root.GetTitle]。在我精心布局下，我能确保那些供职于贸易节点的人忠贞不二。我给他们下了命令，如果统治他们的[Root.GetOnlyDynastyName] 收到威胁，他们就会把这些贸易节点夷为平地......\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 SongsOfProsperityDLC;繁荣之歌;;;;;;;;;;x

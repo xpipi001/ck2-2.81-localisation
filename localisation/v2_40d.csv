@@ -672,7 +672,7 @@ faction_overthrow;推翻可汗;;;;;;;;;;x
 faction_overthrow_title;推翻可汗;;;;;;;;;;x
 faction_overthrow_desc;部族渴望§Y[From.GetBestName]§!成为§Y[This.GetFullName]§!的新首领。当足够强有力的时候，§Y[From.GetBestName]§!或许会提出最后通牒给§Y[From.Liege.GetBestName]§!;;;;;;;;;;x
 WAR_NAME_INSTALLKHAN;拥立$ATTACKER$为$SECOND$可汗;;;;;;;;;;x
-EVTDESC8210;你已经证明了你的软弱，我和所有部族都通过气了，现在是时候请你交出统治权给一位配得上的人。\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8210;你已经证明了你的软弱，我和所有部族都通过气了，现在是时候请你交出统治权给一位配得上的人。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTDESC8211;懦弱的大汗已经同意我们的要求，向我们投降。;;;;;;;;;;x
 EVTDESC8212;由不满的部族首领组成的派系，没有流血就解散了，因为前任可汗已向他们投降。;;;;;;;;;;x
 EVTDESC8213;我向你投降[Root.GetTitledName]，只求你对我和我的家族开恩……;;;;;;;;;;x

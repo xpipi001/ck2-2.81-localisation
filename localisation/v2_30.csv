@@ -56,7 +56,7 @@ EVTOPTA21005;血肉之躯是脆弱的......;;;;;;;;;;x
 EVTDESC21006;[From.GetTitledName]知道了我与[FromFrom.GetTitledFirstName]之间的风流韵事，他也知道了她肚子里的孩子实际上是我亲生的......;;;;;;;;;;x
 EVTOPTA21006;这可能意味着我的厄运将至！;;;;;;;;;;x
 EVTOPTB21006;这可真是尴尬！;;;;;;;;;;x
-EVTDESC21010;那个我付钱雇佣去获取[GetFromRelation][From.GetFirstName]秘密的女佣并没有发现任何有关她的怀孕令人怀疑的地方。;;;;;;;;;;x
+EVTDESC21010;那个我付钱雇佣去获取[GetFromRelation][From.GetFirstName]秘密的侍女并没有发现任何有关她的怀孕令人怀疑的地方。;;;;;;;;;;x
 EVTOPTA21010;这下我就放心了！;;;;;;;;;;x
 EVTOPTB21010;我必须要知道！我要当面质问她！;;;;;;;;;;x
 EVTOPTC21010;雇佣更多的探子！;;;;;;;;;;x
@@ -211,7 +211,7 @@ EVTOPTA_WOL_62_CR;[From.GetSubjectPronounCap]与[From.GetPossPronoun]自己的[G
 EVTDESC_WOL_63;[FromFromFrom.GetBestName]把我的[GetFromRelation][From.GetFirstName]和[FromFrom.GetTitledName]之间的风流韵事给曝光了。;;;;;;;;;;x
 EVTOPTA_WOL_63_CR;[From.GetSubjectPronounCap]与[From.GetPossPronoun]自己的[GetFromVsFromFromRelation]通奸！？;;;;;;;;;;x
 EVTDESC_WOL_81_F;要与每一个为我着迷的男人上床可不是一件易事。吃醋的妻子，警惕的母亲，爱管闲事的廷臣，意外的怀孕 - 在这样危险的海域游刃有余地航行需要高超的技巧！;;;;;;;;;;x
-EVTDESC_WOL_81_M;泡妞可是一件危险的工作。善妒的丈夫，警惕的父母，偷听的女仆......还有那些小杂种。[Root.Religion.GetRandomGodName]在上，我能活到今天简直就是个奇迹！;;;;;;;;;;x
+EVTDESC_WOL_81_M;泡妞可是一件危险的工作。善妒的丈夫，警惕的父母，偷听的侍女......还有那些小杂种。[Root.Religion.GetRandomGodName]在上，我能活到今天简直就是个奇迹！;;;;;;;;;;x
 EVTDESC_WOL_81_HOMO;在这个愚昧的时代，追求其他[Root.GetMenWomen]是充满危险的。即便如此，被传丑闻的风险让这一切更令人兴奋。除此以外，这可没有意外怀孕的风险！;;;;;;;;;;x
 EVTOPTA_WOL_81;我多少学会了一些关于密谋的东西！;;;;;;;;;;x
 EVTDESC_WOL_99;我的自信如山一样高，我的魅力不可抗拒，我的功绩就像传奇一般。我就是[Root.GetFirstName] - 魅惑的化身。;;;;;;;;;;x

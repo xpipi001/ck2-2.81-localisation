@@ -11,8 +11,7 @@ accuse_rival_tooltip;抓住这个机会报复你的对手并且控告 [rival_tar
 apostate_found_tooltip;你把§Y[accused_apostate.GetBestName]§! 带到§Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§!的法庭，[Root.Liege.GetSheHe]将决定背教者的命运！;;;;;;;;;;x
 MNM.70110.d.highly_suspected_society_member;在听取了多位目击者的证词，并且仔细观察了 [accused_apostate.GetHerHis] 的一举一动之后，你已经收集到了足够的证据来指控 [accused_apostate.GetBestName] 是叛教者——[accused_apostate.GetSheHe] 显然效忠于 [accused_apostate.Society.GetName] ！你的 [Root.GetReligionWarriorPlural] 已经准备就绪，随时可以将 [accused_apostate.GetHerHim] 捉拿归案。;;;;;;;;;;x
 MNM.70110.d.suspected_society_member;在听取了众多目击者的陈述，以及对[accused_apostate.GetHerHis]一举一动的严格审查后。你以及设法收集到了足够的证据来表明[accused_apostate.GetFirstName]是一个叛教者，他加入了[accused_apostate.Society.GetName]！你的 [Root.GetReligionWarriorPlural] 已经准备就绪，随时可以将 [accused_apostate.GetHerHim] 捉拿归案。;;;;;;;;;;x
-MNM.70110.d.suspected_apostate;在监视[accused_apostate.GetBestName]时你发现了数不清的异端饰品和书籍。现在你有足够的证据来指责[accused_apostate.GetHerHim]叛教。
-[accused_apostate.GetSheHeCap]称自己是虔诚的[accused_apostate.Religion.GetName]，但[accused_apostate.GetSheHe]明显在说谎。 [accused_apostate.GetSheHe] 在秘密的进行[accused_apostate.GetTrueReligionAdherent] ！你的[Root.GetReligionWarriorPlural]已经备好，正准备将[accused_apostate.GetHerHim]锁着带到你的身边。;;;;;;;;;;x
+MNM.70110.d.suspected_apostate;在监视[accused_apostate.GetBestName]时你发现了数不清的异端饰品和书籍。现在你有足够的证据来指责[accused_apostate.GetHerHim]叛教。[accused_apostate.GetSheHeCap]称自己是虔诚的[accused_apostate.Religion.GetName]，但[accused_apostate.GetSheHe]明显在说谎。 [accused_apostate.GetSheHe] 在秘密的进行[accused_apostate.GetTrueReligionAdherent] ！你的[Root.GetReligionWarriorPlural]已经备好，正准备将[accused_apostate.GetHerHim]锁着带到你的身边。;;;;;;;;;;x
 MNM.70110.d.no_suspicion;在从一些儿童目击者和相关农民那里录完口供后，你已经收集到了一些指向[accused_apostate.GetBestName]是一个叛教者的证据——毫无疑问[accused_apostate.GetFirstName]的灵魂已经被[Root.Religion.GetRandomEvilGodName]污染了！你的[Root.GetReligionWarriorPlural]已经做好了准备，随时可以将[accused_apostate.GetHerHim]缉拿到你面前。;;;;;;;;;;x
 MNM.70110.d.innocent_victim;在从一些儿童目击者和相关农民那里录完口供后，你已经收集到了一些指向[accused_apostate.GetBestName]是一个叛教者的证据——毫无疑问[accused_apostate.GetFirstName]的灵魂已经被[Root.Religion.GetRandomEvilGodName]污染了！你的[Root.GetReligionWarriorPlural]已经做好了准备，随时可以将[accused_apostate.GetHerHim]缉拿到你面前。;;;;;;;;;;x
 MNM.70110.a;抓住[accused_apostate.GetHerHim]！ [accused_apostate.GetSheHeCap]将面临[Root.Liege.GetTitle] [Root.Liege.GetFirstName]的正义审判。;;;;;;;;;;x
@@ -36,8 +35,7 @@ MNM.70320.a;从某方面来说，很幸运。;;;;;;;;;;x
 MNM.70330.d;诅咒那该死的[my_liege.GetLordSpiritualName]，[my_liege.job_spiritual.GetFullName]！[my_liege.job_spiritual.GetSheHeCap]和[my_liege.job_spiritual.GetHerHis]一帮[my_liege.job_spiritual.GetReligionWarriorPlural]冲进了我的[Root.GetChamber]并用枷锁囚禁了我，指控我叛教。足够幸运的是[my_liege.GetBestName]决定放我自由——[my_liege.GetFirstName]相信我是清白的！;;;;;;;;;;x
 MNM.70330.a;我自由了！;;;;;;;;;;x
 MNM.70400.d.executed;这真是灾难啊！一位同你一样在[Root.Society.GetName],[From.GetBestName],的成员已被[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] 和[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]抓到了！他们毫不犹豫立刻把他[From.GetHerHim]烧死在了木架上……;;;;;;;;;;x
-MNM.70400.d.imprisoned;这真是灾难啊！一位同你一样在[Root.Society.GetName],[From.GetBestName],的成员已被[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] 和[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]抓到了！
-[From.GetSheHeCap]现在在[my_liege.GetTitle] [my_liege.GetFirstName]的地牢里烂掉……;;;;;;;;;;x
+MNM.70400.d.imprisoned;这真是灾难啊！一位同你一样在[Root.Society.GetName],[From.GetBestName],的成员已被[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] 和[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]抓到了！[From.GetSheHeCap]现在在[my_liege.GetTitle] [my_liege.GetFirstName]的地牢里烂掉……;;;;;;;;;;x
 MNM.70400.d.caught;这真是灾难啊！一位同你一样在[Root.Society.GetName],[From.GetBestName],的成员已被[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] 和[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]抓到了！他们用烧热的铁具在[From.GetFirstName]的身上烙上叛教者的标志，幸运的是他们饶恕了[From.GetHerHis]的性命……;;;;;;;;;;x
 MNM.70400.a;枪打出头鸟，闷声发大财。;;;;;;;;;;x
 alert_close_gates_name;关闭大门;;;;;;;;;;x
@@ -46,8 +44,7 @@ EVTOPTA_TOG_621_Aztec_Religious_Head;[From.GetBestName]！你邪恶的伪神在�
 String_Muslim;穆斯林;;;;;;;;;;x
 monastic_order_convert_county;对省份传教;;;;;;;;;;x
 monastic_order_convert_county_desc;将来自[From.Society.GetName]的使者派给当地居民，以便将他们转换为[From.Religion.GetName]信仰。;;;;;;;;;;x
-monastic_order_convert_county_power_desc;用§Gright-clicking§!一个伯爵领头衔的盾徽，使当地居民皈依你的宗教。
-;;;;;;;;;;x
+monastic_order_convert_county_power_desc;§G右击§!一个伯爵领头衔的盾徽，使当地居民皈依你的宗教。;;;;;;;;;;x
 EVTDESC_MNM_4990;[From.GetName]的大部分人接受了[Root.Religion.GetName]信仰。;;;;;;;;;;x
 EVTDESC_MNM_4991;一个信使给我带来消息，告诉我 说[FromFrom.GetTitledFirstName] 派出多名使者前去[From.GetName]，在那里他们成功地说服了当地民众接受 [FromFrom.Religion.GetName]信仰。;;;;;;;;;;x
 TRIGGER_ARTIFACT_OWNER;宝物主人;;;;;;;;;;x
@@ -378,8 +375,8 @@ secret_religious_society_druze;睿智的人;;;;;;;;;;x
 secret_religious_society_druze_desc;德鲁兹派教徒遵循智慧书信的教导，其中包括《旧约》，《古兰经》和柏拉图的哲学着作。虔诚的人相信上帝是整个存在，无限和无所不在。为了与宇宙思想联合并达到终极的幸福，德鲁兹派教徒必须经历许多连续的轮回。;;;;;;;;;;x
 secret_religious_society_hurufi;虔诚的赫茹菲派教徒;;;;;;;;;;x
 secret_religious_society_hurufi_desc;赫茹菲教徒遵循《古兰经》的教导，那是默罕默德对安拉转述。他们宣称默罕默德是被安拉选中的第一个充当先知的阿訇。他们传播他们的信念，即安拉通过穆罕默德选择阿里作为他的继承人，并因此成为伊斯兰教的第一个哈里发。他们坚持这是安拉的意志。;;;;;;;;;;x
-secret_religious_society_ibadi;虔诚的伊巴德派教徒;;;;;;;;;;x
-secret_religious_society_ibadi_desc;伊巴底派的信仰据说早于伊斯兰教逊尼派和什叶派。这些后来的分支和正统的伊巴底之间有一些教义上的分歧，如，伊巴底派不相信所有的穆斯林集体都需要一个领袖。但无论如何，他们对真主的狂热信仰是一样的。;;;;;;;;;;x
+secret_religious_society_ibadi;虔诚的伊巴迪派教徒;;;;;;;;;;x
+secret_religious_society_ibadi_desc;伊巴迪派的信仰据说早于伊斯兰教逊尼派和什叶派。这些后来的分支和正统的伊巴迪派之间有一些教义上的分歧，如，伊巴底派不相信所有的穆斯林集体都需要一个领袖。但无论如何，他们对真主的狂热信仰是一样的。;;;;;;;;;;x
 secret_religious_society_kharijite;交换者;;;;;;;;;;x
 secret_religious_society_kharijite_desc;哈瓦利吉派追随《古兰经》的教导，那些据说是穆罕默德在神启下口述的经文。不像其他的穆斯林团体一样，哈瓦利吉派认为任何一个正义且虔诚的穆斯林都可以担任哈里发，而他们的职责就是与一切背离伊斯兰的统治者作斗争。哈瓦利吉派认为能够为安拉殉教是无比的荣耀。;;;;;;;;;;x
 secret_religious_society_samaritan;以色列子民;;;;;;;;;;x
@@ -420,7 +417,7 @@ String_Zikri;兹克黎派;;;;;;;;;;x
 String_Yazidi;雅兹迪派;;;;;;;;;;x
 String_Druze;德鲁兹派;;;;;;;;;;x
 String_Hurufi;胡儒非派;;;;;;;;;;x
-String_Ibadi;伊巴底派;;;;;;;;;;x
+String_Ibadi;伊巴迪派;;;;;;;;;;x
 String_Kharijite;卡菲勒派;;;;;;;;;;x
 String_Samaritan;撒马利亚派;;;;;;;;;;x
 String_Karaite;圣经派;;;;;;;;;;x
@@ -438,8 +435,7 @@ corrupting_magic_major_desc;天下没有白来的力量，黑暗魔法的滥用�
 EVTOPTA_MNM_7051;我知道使用魔力有它的代价，但我从未想到这一点…;;;;;;;;;;x
 EVTDESC_MNM_7051;腐败缓慢地蔓延到我身上-在我意识不到自己身上发生了什么事情之前就已经太迟了。现在 [Root.GetDWDevil]的黑暗卷须的魔力已经侵入了我的意识，腐蚀着我的精力和决心。我被焦虑的情绪弄得无法入睡。;;;;;;;;;;x
 EVTDESC_MNM_7052;我感觉到了！祂在我灵魂深处！那迷人的声音…和深邃黑暗之救主的甜美触碰！这是[Root.GetDWDevil]的恩赐！魔力！汹涌的魔力在我的血管中搏动！啊哈哈哈哈哈哈哈哈！无可阻挡！亦无可违逆！血祭血神！颅献颅座！;;;;;;;;;;x
-EVTOPTA_MNM_7052;[Root.GetDWDevil]! 在我耳边低语你的愿望，它们就会成真！
-;;;;;;;;;;x
+EVTOPTA_MNM_7052;[Root.GetDWDevil]! 在我耳边低语你的愿望，它们就会成真！;;;;;;;;;;x
 EVTOPTA_MNM_7051_TT;黑暗魔法的使用已经腐蚀了你。\n;;;;;;;;;;x
 EVTDESC_MNM_7053;黑暗力量渐渐侵蚀着我的身体——当我意识到的时候一切都已经太晚了。[Root.GetDWDevil]的黑暗魔法触须撬开了我的嘴唇，和我的舌头搅在一起。当我讲话的时候，我的遣词造句令人无法忍受，社交行为变得枯燥无味。;;;;;;;;;;x
 EVTDESC_MNM_7054;肉体腐烂在我身上缓慢地隐隐作痛 ，我太晚意识到在我身上发生的事情。一开始最轻的跛脚伤现在变成了一个可怕的畸形状。 当我擦伤我的脚踝扭伤时，我能感觉到皮肤下面都黑了......;;;;;;;;;;x
@@ -499,8 +495,7 @@ EVTOPTC_MNM_1842_liquid;嘘,孩子。我给你做点什么，从...呃,这里 [G
 EVTOPTC_MNM_1844_herb;让我们去舒适的环境里谈谈这个。;;;;;;;;;;x
 EVTOPTC_MNM_1844_animal_part;我会补偿你的！让我们共享[GetSelectedIngredient_1]里的肉汤。;;;;;;;;;;x
 EVTOPTC_MNM_1844_powder;哦，朋友。 你显然需要这个[GetSelectedIngredient_1]注入我的酿造。;;;;;;;;;;x
-EVTOPTC_MNM_1844_liquid;那么...你会不会介意我制作的一些体验式[GetSelectedIngredient_1]注入啤酒？
-;;;;;;;;;;x
+EVTOPTC_MNM_1844_liquid;那么...你要试一下我实验性的加入 [GetSelectedIngredient_1] 的啤酒吗？;;;;;;;;;;x
 nauseous_from_potion;令人作呕的;;;;;;;;;;x
 nauseous_from_potion_desc;这个角色看上去不太好受。;;;;;;;;;;x
 opinion_apologized;道歉;;;;;;;;;;x
@@ -508,23 +503,23 @@ opinion_cheered_up;高兴起来;;;;;;;;;;x
 opinion_calmed;平静;;;;;;;;;;x
 EVTDESC_MNM_1855;在思考我目前的研究的同时，我发现我有几件物品可以加入实验，以增强我对天堂的理解......！;;;;;;;;;;x
 EVTOPTA_MNM_1855;我会燃烧 [GetSelectedIngredient_1], 让气味淹没我的感官。;;;;;;;;;;x
-EVTOPTB_MNM_1855;我会做一个[GetSelectedIngredient_2]的炖菜…！;;;;;;;;;;x
-EVTOPTC_MNM_1855;我会把[GetSelectedIngredient_2]的金块放在枕头下面睡觉。;;;;;;;;;;x
-EVTOPTD_MNM_1855;我要尝试新的！;;;;;;;;;;x
+EVTOPTB_MNM_1855;我会做一锅 [GetSelectedIngredient_2]…！;;;;;;;;;;x
+EVTOPTC_MNM_1855;我会把一块 [GetSelectedIngredient_2] 放在枕头下面睡觉。;;;;;;;;;;x
+EVTOPTD_MNM_1855;我会试试新东西...！;;;;;;;;;;x
 EVTOPTE_MNM_1855;我宁可不;;;;;;;;;;x
-destroy_all_ingredients_tt;所有§Y成份§!将被摧毁并从宝库中移除。\n;;;;;;;;;;x
-random_ingredients_are_destroyed_tt;一些§Y成份§!将被摧毁并从宝库中移除。\n;;;;;;;;;;x
-ingredients_are_sent_tt;一些§YIngredients§!将被从国库中取出，并送至§Y[From.GetTitledFirstName]§!，为仪式做准备。\n这将会提升你的经验。;;;;;;;;;;x
+destroy_all_ingredients_tt;所有§Y素材§!将被摧毁并从宝库中移除。\n;;;;;;;;;;x
+random_ingredients_are_destroyed_tt;一些§Y素材§!将被摧毁并从宝库中移除。\n;;;;;;;;;;x
+ingredients_are_sent_tt;一些§Y素材§!将被从宝库中取出，并送至 §Y[From.GetTitledFirstName]§! 那里为仪式做准备。\n这将会提升你的经验。;;;;;;;;;;x
 EVTOPTB_MNM_1435_single_ingredient;我会配置简单的药水。;;;;;;;;;;x
-EVTDESC_MNM_5109_hermetic;我最近占有了几种炼金术原料。作为炼金术协会的一员，我想我应该写下某种清单……无论如何，这种[GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;x
-EVTDESC_MNM_5109_other_society;我最近已经被某种“炼金术”的成分占有。我不完全知道该怎么办！ ;;;;;;;;;;x
+EVTDESC_MNM_5109_hermetic;我最近得到了几种炼金术素材。作为炼金术协会的一员，我想我应该把他们分类一下……无论如何，这种[GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;x
+EVTDESC_MNM_5109_other_society;我最近得到了一些炼金素材。我不确定这些该怎么用。不管怎样， [GetSelectedIngredient_1] [GetSelectedIngredient_1_property]。;;;;;;;;;;x
 EVTDESC_MNM_5109_no_society;近期我有了炼金的习惯，虽然我承认我有些着迷了，[GetSelectedIngredient_1] [GetSelectedIngredient_1_property]。;;;;;;;;;;x
-EVTDESC_MNM_5109_child;我被告知，我最近开始拥有炼金技能。虽然我不确定这意味着什么， [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;x
+EVTDESC_MNM_5109_child;我被告知，我最近开始得到了一些"炼金素材"。虽然我不确定那是什么意思， [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;x
 EVTOPTA_MNM_5109;我没有用[GetSelectedIngredient_1]和[GetSelectedIngredient_2]之类的东西。;;;;;;;;;;x
-EVTOPTB_MNM_5109;这些几乎是一端！;;;;;;;;;;x
-EVTOPTC_MNM_5109;我真的不介意让他们在附近。;;;;;;;;;;x
-String_is_surprisingly_fragrant;令人惊讶的芳香;;;;;;;;;;x
-String_are_surprisingly_fragrant;令人惊讶的芬芳;;;;;;;;;;x
+EVTOPTB_MNM_5109;这些几乎是异端邪说！;;;;;;;;;;x
+EVTOPTC_MNM_5109;我真的不介意把他们放在附近。;;;;;;;;;;x
+String_is_surprisingly_fragrant;不可思议地芳香;;;;;;;;;;x
+String_are_surprisingly_fragrant;不可思议地芳香;;;;;;;;;;x
 String_is_faintly_fragrant;淡淡的香气;;;;;;;;;;x
 String_are_faintly_fragrant;淡淡的香气;;;;;;;;;;x
 String_has_turned_to_dust;化为尘土;;;;;;;;;;x
@@ -535,12 +530,12 @@ String_carries_an_unpleasant_smell;带有难闻的气味;;;;;;;;;;x
 String_carry_an_unpleasant_smell;带有难闻的气味;;;;;;;;;;x
 String_is_fantastically_shiny;非常有光泽;;;;;;;;;;x
 String_are_fantastically_shiny;非常有光泽;;;;;;;;;;x
-String_should_not_be_touched;应该不能被触动;;;;;;;;;;x
-String_should_definitely_not_be_touched;绝不可以被触动;;;;;;;;;;x
+String_should_not_be_touched;绝对不可以触摸;;;;;;;;;;x
+String_should_definitely_not_be_touched;绝对绝对不可以触摸;;;;;;;;;;x
 String_would_make_most_people_uncomfortable;会让大多数人感到不舒服;;;;;;;;;;x
-String_is_glass_jar;很恶心，即使是在玻璃瓶里;;;;;;;;;;x
-String_are_in_glass_jar;即使它们被保存在一个玻璃瓶中，也很严重;;;;;;;;;;x
-String_has_an_eerie_color;有一种奇怪的颜色;;;;;;;;;;x
+String_is_glass_jar;即使是在玻璃瓶里也很恶心;;;;;;;;;;x
+String_are_in_glass_jar;即使被保存在玻璃瓶中也很恶心;;;;;;;;;;x
+String_has_an_eerie_color;有一种怪异的颜色;;;;;;;;;;x
 String_have_an_eerie_color;给他们带来一种怪异的颜色;;;;;;;;;;x
 String_is_disgusting;看起来有点恶心;;;;;;;;;;x
 String_are_disgusting;令人厌恶;;;;;;;;;;x
@@ -566,20 +561,20 @@ EVTOPTD_MNM_5110;这就是胡猜乱想;;;;;;;;;;x
 must_have_ingredients_tt;拥有至少两个§Y成份§!;;;;;;;;;;x
 EVTDESC_MNM_5115_self;在这种状态下，我几乎不能对药水的质量有所苛求，然而翻遍抽屉我仍然不知道应该使用哪种配料。我尝试[GetSelectedIngredient_1] [GetSelectedIngredient_1_property]吧;;;;;;;;;;x
 EVTDESC_MNM_5115_other;不管我的药水质量如何，[potion_target.GetTitledFirstName]都会服用。但是在仔细查阅了配方后，我不确定该用哪种原料…不晓得我的[potion_target.GetRootRelation]会对[GetSelectedIngredient_1] [GetSelectedIngredient_1_property]怎么看。;;;;;;;;;;x
-EVTOPTA_MNM_5115_herb;一些压碎的[GetSelectedIngredient_1]感觉是正确的。;;;;;;;;;;x
+EVTOPTA_MNM_5115_herb;一些[GetSelectedIngredient_1]的碎屑感觉是正确的。;;;;;;;;;;x
 EVTOPTA_MNM_5115_animal_part;一些粗糙的地面[GetSelectedIngredient_1]感觉是对的。;;;;;;;;;;x
 EVTOPTA_MNM_5115_powder;几片 [GetSelectedIngredient_1] 感觉对了。;;;;;;;;;;x
 EVTOPTA_MNM_5115_liquid;几片 [GetSelectedIngredient_1] 感觉对了。;;;;;;;;;;x
-EVTOPTB_MNM_5115_herb;一点点的压碎[GetSelectedIngredient_2]会产生这种特殊的气味。;;;;;;;;;;x
+EVTOPTB_MNM_5115_herb;一点点[GetSelectedIngredient_2]的碎屑会产生这种特殊的气味。;;;;;;;;;;x
 EVTOPTB_MNM_5115_animal_part;一些干燥的[GetSelectedIngredient_2]树叶有很强的余味;;;;;;;;;;x
 EVTOPTB_MNM_5115_powder; [GetSelectedIngredient_2] 的某些成分应该奏效的！;;;;;;;;;;x
 EVTOPTB_MNM_5115_liquid;几滴[GetSelectedIngredient_2]可能是最好的选择。;;;;;;;;;;x
-EVTOPTC_MNM_5115_herb;一剂压碎的会使 [GetSelectedIngredient_2]满足。;;;;;;;;;;x
+EVTOPTC_MNM_5115_herb;一瓶[GetSelectedIngredient_2]的粉末应该够了。;;;;;;;;;;x
 EVTOPTC_MNM_5115_animal_part;适当的土地会使[GetSelectedIngredient_2]满足。;;;;;;;;;;x
-EVTOPTC_MNM_5115_powder;一些[GetSelectedIngredient_2]的散落正是我所需要的。;;;;;;;;;;x
+EVTOPTC_MNM_5115_powder;一些[GetSelectedIngredient_2]的粉末正是我所需要的。;;;;;;;;;;x
 EVTOPTC_MNM_5115_liquid;一块[GetSelectedIngredient_2]可能是最好的选择;;;;;;;;;;x
 EVTOPTD_MNM_5115;我可能只是将两者结合起来！;;;;;;;;;;x
-EVTOPTD_MNM_5115_duplicate;我可能只是将两者结合起来！;;;;;;;;;;x
+EVTOPTD_MNM_5115_duplicate;我也可以用到两倍！;;;;;;;;;;x
 EVTOPTE_MNM_5115;事实上，我只是将内阁清空。让他们见鬼去吧！;;;;;;;;;;x
 EVTOPTE_MNM_5115_tt;非常之时需用非常之手段。\n;;;;;;;;;;x
 must_not_already_be_preparing_potion_tt;尚未准备药水;;;;;;;;;;x
@@ -588,7 +583,7 @@ EVTDESC_MNM_4951;花了些时间和[FromFrom.GetTitledFirstName]交谈，我已�
 EVTDESC_MNM_4960;[From.GetTitledFirstName] 在我为[From.GetHerHim] 讲解如何行善时听得非常专注，并且[From.GetSheHe]在和我的谈论之后看上去变得更加[From.GetManWoman].;;;;;;;;;;x
 EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]清楚地解释了[From.GetSheHe]是如何践行美德以度过这时而无情且压力重重的生活的。通过倾听[FromFrom.GetHerHim]的讲述，我已了解如何通过践行美德以更好地修身养性。;;;;;;;;;;x
 monastic_orders_spiritual_guidance;给予精神指导;;;;;;;;;;x
-monastic_orders_spiritual_guidance_desc;你知道[Root.GetTitledFirstName]作为一个罪人。你可以提供精神上的指导帮助摆脱 [Root.GetHerHim] 一个[Root.GetHerHis]恶行。;;;;;;;;;;x
+monastic_orders_spiritual_guidance_desc;你知道 [Root.GetTitledFirstName] 是一个罪人。所以你可以提供精神上的指导帮助摆脱 [Root.GetHerHim] 一个 [Root.GetHerHis] 恶行。;;;;;;;;;;x
 monastic_orders_spiritual_guidance_power_desc;为了使你能够 §Gright-click§! 选中的角色包括你的领地中的臣属，亲戚，跟随你的社团成员。这样做可以改掉他们的恶习，当然这恶习是你自己所不具备的。;;;;;;;;;;x
 opinion_spiritual_guidance;受到精神指导;;;;;;;;;;x
 spiritual_guidance_tooltip;有着 §Y[From.GetTitledFirstName]§! 没有的罪恶;;;;;;;;;;x
@@ -599,11 +594,11 @@ opinion_teach_virtue;教了一个美德;;;;;;;;;;x
 teach_virtue_tooltip;没有 §Y[From.GetTitledFirstName]§! 所拥有的美德;;;;;;;;;;x
 EVTDESC20271;致[Root.GetTitledFirstName]，\n您的发现已经证明是正确的，我现在立即跟随你的脚步并立即转换为[Root.Religion.GetName]信仰。不过，我选择秘密改信，以免隔墙有眼。我劝您也这么做！\n\n臣，[From.GetTitledFirstName]，敬上;;;;;;;;;;x
 EVTOPTA20271;明智的决定。;;;;;;;;;;x
-EVTOPTB20271;隐瞒我是谁？绝不！;;;;;;;;;;x
+EVTOPTB20271;隐瞒我的真实身份？绝不！;;;;;;;;;;x
 secretly_convert_to_province_religion;秘密转换为[Root.Location.Religion.GetName];;;;;;;;;;x
 secretly_convert_to_province_religion_desc;在§Y[Root.Location.GetName]§!信奉§Y[Root.Location.Religion.GetName]§!的人民对他们的信仰的深度和热情使我印象深刻。§Y[Root.Location.Religion.GetRandomGodName]§! 的荣光呼唤着我，因此我产生了秘密皈依的念头……;;;;;;;;;;x
 secretly_convert_to_close_relations_religion;秘密转换为[Root.Religion.GetName];;;;;;;;;;x
-secretly_convert_to_close_relations_religion_desc;§Y[Root.Religion.GetName]§! 持有 §Y[Root.GetFirstName]§! 阴谋针对我。我无法公开，但我可以秘密的转变;;;;;;;;;;x
+secretly_convert_to_close_relations_religion_desc;§Y[Root.GetFirstName]§! 的 §Y[Root.Religion.GetName]§! 让我很是着迷。虽然我无法公开，但我可以秘密地改信...;;;;;;;;;;x
 secret_cathar_community;秘密的卡特里社团;;;;;;;;;;x
 secret_cathar_community_desc;清洁派的忠实信徒们围绕这个地方将一个小型教会社区秘密的组织起来。在那里传播信仰，发展壮大并保护他们自身。;;;;;;;;;;x
 secret_fraticelli_community;秘密的小兄弟会社团;;;;;;;;;;x
@@ -632,25 +627,25 @@ secret_zikri_community;秘密兹克黎派社团;;;;;;;;;;x
 secret_zikri_community_desc;兹克黎派的教徒秘密的在这个地方组织起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自身。;;;;;;;;;;x
 secret_yazidi_community;秘密的雅兹迪派社团;;;;;;;;;;x
 secret_yazidi_community_desc;雅兹迪派的教徒秘密的在这个地方组织起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自身。;;;;;;;;;;x
-secret_ibadi_community;秘密艾巴德派社团;;;;;;;;;;x
-secret_ibadi_community_desc;艾巴德派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自己。;;;;;;;;;;x
+secret_ibadi_community;秘密伊巴迪派社团;;;;;;;;;;x
+secret_ibadi_community_desc;伊巴迪派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自己。;;;;;;;;;;x
 secret_kharijite_community;秘密的哈瓦利及派社团;;;;;;;;;;x
 secret_kharijite_community_desc;哈瓦利及派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_druze_community;德鲁兹派秘密社团;;;;;;;;;;x
 secret_druze_community_desc;德鲁兹派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_hurufi_community;秘密的胡儒非派社团;;;;;;;;;;x
 secret_hurufi_community_desc;私下里，胡鲁菲的信徒们在这个省的一个小教堂里组织了起来。在那里他们互相改变、成长、保护自己。;;;;;;;;;;x
-secret_norse_pagan_community;神秘的日耳曼多神教社区;;;;;;;;;;x
+secret_norse_pagan_community;秘密日耳曼多神教社团;;;;;;;;;;x
 secret_norse_pagan_community_desc;日耳曼多神教的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
-secret_tengri_pagan_community;秘密长生天社团;;;;;;;;;;x
+secret_tengri_pagan_community;秘密腾格里社团;;;;;;;;;;x
 secret_tengri_pagan_community_desc;私下里，长生天的信徒们在这个省的一个小教堂里组织了起来。在那里改变、成长、保护自己。;;;;;;;;;;x
 secret_baltic_pagan_community;秘密洛姆瓦社团;;;;;;;;;;x
 secret_baltic_pagan_community_desc;洛姆瓦教的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_finnish_pagan_community;秘密的索米多神教社团;;;;;;;;;;x
 secret_finnish_pagan_community_desc;索米多神教的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
-secret_aztec_community;秘密阿兹特克群体;;;;;;;;;;x
+secret_aztec_community;秘密阿兹特克社团;;;;;;;;;;x
 secret_aztec_community_desc;私下里，阿兹特克的信徒们在这个省的一个小教堂里组织了起来。在那里改变、成长、保护他们自己。;;;;;;;;;;x
-secret_aztec_reformed_community;秘密阿兹特克社区;;;;;;;;;;x
+secret_aztec_reformed_community;秘密阿兹特克社团;;;;;;;;;;x
 secret_aztec_reformed_community_desc;阿兹特克教的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_slavic_pagan_community;秘密斯拉夫多神教社团;;;;;;;;;;x
 secret_slavic_pagan_community_desc;秘密地，斯拉夫多神教的信徒们在这个省的一个小教堂里组织了起来。在那里改变、成长、保护他们自己。;;;;;;;;;;x
@@ -682,7 +677,7 @@ alert_society_rank_up_possible_instant;§YPossible在society§!的排名;;;;;;;;
 alert_society_rank_up_possible_delayed;在你的社会里你已经获得了足够的影响力，现在你可以要求升到下一等级。;;;;;;;;;;x
 ALLY_ORDER_BUSY_OTHER_CAMPAIGN;这个角色目前无法帮助你，因为他正忙于$WAR|Y$;;;;;;;;;;x
 secret_religious_society_bogomilist;虔诚的波格米勒派教徒;;;;;;;;;;x
-opinion_abducted;拐走;;;;;;;;;;x
+opinion_abducted;被绑架;;;;;;;;;;x
 known_satanist;已知的恶魔崇拜者;;;;;;;;;;x
 known_satanist_desc;这个角色已经被揭露是一个恶魔的崇拜者。;;;;;;;;;;x
 EVTTITLE_MNM_7855;[GetDemonHuntersEventTitle];;;;;;;;;;x
@@ -784,7 +779,7 @@ secretly_convert_to_sunni_holy_site;秘密皈依了逊尼派;;;;;;;;;;x
 secretly_convert_to_sunni_holy_site_desc;The §YSunni§!朝圣者们成群结队地来到圣地§Y[Root.Location.GetName]§!他们的信仰的深度和激情给我留下了深刻的印象。我很想秘密地改变信仰...;;;;;;;;;;x
 secretly_convert_to_shiite_holy_site;秘密皈依了什叶派;;;;;;;;;;x
 secretly_convert_to_shiite_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y什叶派§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
-secretly_convert_to_ibadi_holy_site;秘密皈依了伊巴德派;;;;;;;;;;x
+secretly_convert_to_ibadi_holy_site;秘密皈依了伊巴迪派;;;;;;;;;;x
 secretly_convert_to_ibadi_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y伊巴迪§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_jewish_holy_site;秘密皈依了犹太教;;;;;;;;;;x
 secretly_convert_to_jewish_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y犹太教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x

@@ -104,7 +104,7 @@ title_state_inquisitor_desc;三个国家检察官负责抵御来自内部和外�
 title_high_admiral;海军上将;;;;;;;;;;x
 title_high_admiral_desc;海军上将是首席海军大臣，负责指挥共和国的海军，即便他时常需要依赖一群有能力的幕僚为其出谋划策。;;;;;;;;;;x
 title_high_judge;最高法官;;;;;;;;;;x
-title_high_judge_desc;最高法官是仅需向议会回答大部分法律事项的共和国司法最高官员;;;;;;;;;;x
+title_high_judge_desc;最高法官是在大部分法律事项上仅需向内阁负责的共和国司法最高官员;;;;;;;;;;x
 EXPENSE_FAMILY_DUES;家族税;;;;;;;;;;x
 TRIGGER_CAPITAL_HOLDING;商业首府;;;;;;;;;;x
 EVTDESC60014;伟大的 [Root.GetTitledName] 和所有 [Root.GetHerHis] 封臣拥抱并改信为东方亚述教!;;;;;;;;;;x

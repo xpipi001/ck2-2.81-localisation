@@ -915,7 +915,7 @@ EVTDESC3030;我的禁欲行为使得我的对手开始质疑我的男子气概.;
 EVTOPTA3030;他们怎敢如此!;;;;;;;;;;x
 EVTDESC3035;关于我以及我的禁欲誓言的流言已经变得十分荒唐可笑.必须做些什么，否则的话，作为一个强力的[Root.GetManWoman]以及[Root.GetTitle]，我的声誉将会受损.;;;;;;;;;;x
 EVTOPTA3035;付钱让人传播我的男子气概的故事;;;;;;;;;;x
-EVTOPTB3035;公开的和女仆上床;;;;;;;;;;x
+EVTOPTB3035;公然和侍女上床;;;;;;;;;;x
 EVTOPTC3035;宣布我对我妻子的挚爱;;;;;;;;;;x
 EVTDESC3040;我喜欢在我城堡里举行的一场成功的宴会，这场宴会没花费我一分钱，餐桌上摆满了烤鹅，猪肉，奶酪和足够的葡萄酒.我想我的客人们不可能空腹离开我的餐厅.;;;;;;;;;;x
 EVTOPTA3040;我们过得很愉快!;;;;;;;;;;x
@@ -2097,7 +2097,7 @@ EVTOPTA40006;这不利于我的名声;;;;;;;;;;x
 EVTDESC160;我醒来时，发现一个朦胧的身影正爬过窗口.我大声求救，警卫破门而入，就在他刺中了我的肩膀的那一刻抓住了刺客;;;;;;;;;;x
 EVTOPTA160;[From.GetTitledFirstName]派他来的;;;;;;;;;;x
 EVTOPTA40007;[From.GetSubjectPronoun]受伤了;;;;;;;;;;x
-EVTDESC161;我的新女仆用一个小匕首袭击了我.在卫兵制服她之前，她刺瞎了我的眼睛，在她被处决之前，她说出了她的雇主的名字 - [From.GetBestName];;;;;;;;;;x
+EVTDESC161;我的新侍女用一个小匕首袭击了我.在卫兵制服她之前，她刺瞎了我的眼睛，在她被处决之前，她说出了她的雇主的名字 - [From.GetBestName];;;;;;;;;;x
 EVTOPTA161;我会在[From.GetSubjectPronoun]死之前弄瞎[From.GetFirstName]的！;;;;;;;;;;x
 EVTOPTA40008;至少[From.GetSubjectPronoun]失去了一只眼睛;;;;;;;;;;x
 EVTDESC162;蒙面刺客刺中了我！我的视线模糊了.愿我的亲戚帮我报仇！;;;;;;;;;;x
@@ -3410,7 +3410,7 @@ EVTOPTB73004;这是浪费钱财.;;;;;;;;;;x
 EVTDESC73005;奢侈的服饰是现在流行的.通过不断更换宫廷里的时尚来让你的大臣们保持忙碌怎么样;;;;;;;;;;x
 EVTOPTA73005;在宫廷中引进一种新的时尚;;;;;;;;;;x
 EVTOPTB73005;有更好的方法来花掉税收;;;;;;;;;;x
-EVTDESC73006;我所信任的忠实的外交总管刚刚告知我的一位女仆生下了一个孩子.根据他的说法，这是我儿子的种.;;;;;;;;;;x
+EVTDESC73006;我所信任的忠实的外交总管刚刚告知我的一位侍女生下了一个孩子.根据他的说法，这是我儿子的种.;;;;;;;;;;x
 EVTOPTA73006;那是我的种！;;;;;;;;;;x
 EVTOPTB73006;强迫他收养这个孩子以避免丑闻;;;;;;;;;;x
 EVTOPTC73006;因为他和下人乱搞而揍他一顿;;;;;;;;;;x
@@ -4705,7 +4705,7 @@ HINT_CHAR_VIEW_TEXT_3;游戏里的每个人物都有对其他人的态度.态度
 HINT_CHAR_VIEW_TEXT_4;人物的家族在界面的右上部分显示.一个可行的继承人必须来自您自己的家族.您应该尽力扩展您的家族并确保他们获得尽可能多的头衔. ;;;;;;;;;;x
 HINT_CHAR_VIEW_TEXT_5;有些人物肖像上有小图标，一个五角星表示这是您正在扮演的人物，一个皇冠凸显出您的继承人，一个小血滴则意味着这个人物来自您的家族. ;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TITLE;宫廷界面 ;;;;;;;;;;x
-HINT_COUNCIL_VIEW_TEXT_1;每个统治者都有一个参议会来协助治理领地. 参议会里的五个职位都有一个主要的属性——外交，军事，财政，密谋和学习.这些廷臣的技能值将在领主处理国家事务时直接增加到领主的能力上. ;;;;;;;;;;x
+HINT_COUNCIL_VIEW_TEXT_1;每个统治者都有一个内阁（御前会议）来协助治理领地。内阁里的五个职位都有一个主要的属性——外交，军事，财政，密谋和学习。这些廷臣的技能值将在领主处理国家事务时直接增加到领主的能力上。;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_2;廷臣可以被派遣到地图上的某个地区去执行各种任务.例如，宫廷的宗教导师可以被派遣去把某个区域和其中的人物转换为您的宗教. ;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_3;别的人物被指派为廷臣后会对您更好，但是他们也会在被解职时觉得不满.;;;;;;;;;;x
 HINT_LAW_VIEW_TITLE;法律界面 ;;;;;;;;;;x
@@ -5261,7 +5261,7 @@ EVTNAME911;破坏同领主的关系;;;;;;;;;;x
 EVTDESC911;在我造访[Root.Location.GetName]的当地贵族的宫廷期间，我尽我自己的全力赞美了我的领主大人.但是我倒霉的运气似乎让我的每个动作看起来都鬼鬼祟祟，每个词语都无礼至极.;;;;;;;;;;x
 EVTOPTA911;看来我悲惨地失败了……;;;;;;;;;;x
 EVTTOOLTIP20111;向领主大人写一封信禀告此事;;;;;;;;;;x
-EVTDESCA20110;在[From.GetHerHis]到访我的宫廷期间, [From.Host.PrimaryTitle.GetName],[From.GetTitledName]的[From.GetJobTitle]已经持续关于[From.GetHerHis]领主[From.Host.GetTitledName]真是一个仁慈而平和的统治者.但是宫廷的其他成员告知我[From.GetSheHe]和[From.GetHerHis]领主是多么无耻和虚伪的骗子.;;;;;;;;;;x
+EVTDESCA20110;在[From.GetHerHis]到访我的宫廷期间, [From.Host.PrimaryTitle.GetName],[From.GetTitledName]的[From.GetJobTitle]已经持续关于[From.GetHerHis]领主[From.Host.GetTitledName]真是一个仁慈而平和的统治者.但是宫廷的其他成员告知我[From.GetSheHe]和[From.GetHerHis]领主是多么无耻和虚伪的骗子。;;;;;;;;;;x
 EVTOPTA20110;这当然改善不了我对他们的好感.;;;;;;;;;;x
 EVTOPTA20111;废话，当然有害……;;;;;;;;;;x
 EVTNAME913;成功伪造宣称;;;;;;;;;;x
@@ -5309,7 +5309,7 @@ EVTOPTA20160;真是一个侮辱！;;;;;;;;;;x
 EVTTOOLTIP20161;将怒气通过信件传递给[Root.Liege.GetTitledName]！;;;;;;;;;;x
 EVTDESC20161;[From.GetTitledName]控诉我不信任他，并且宣称握有我不义行为的证据！我不知道他这些想法是哪来的.;;;;;;;;;;x
 EVTOPTA20161;一个白痴！;;;;;;;;;;x
-EVTDESC20162;大人, 我成功离间了[From.GetTitledName]同[From.GetHerHis]领主[From.Liege.GetTitledFirstName]之间的关系. 希望这能让你开心.\n\n您谦逊的[Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;x
+EVTDESC20162;大人, 我成功离间了[From.GetTitledName]同[From.GetHerHis]领主[From.Liege.GetTitledFirstName]之间的关系. 希望这能让你开心.\n\n您卑微的[Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;x
 EVTOPTA20162;很好！;;;;;;;;;;x
 EVTNAME917;发现[Root.GetChancellorName];;;;;;;;;;x
 EVTDESC917;我被派往[From.Location.GetName]挑动当地贵族与其领主不和.不过看来他们中至少有一方已经洞察了我的真实动机，我害怕他会告知他的领主，甚至囚禁我！;;;;;;;;;;x
@@ -5320,9 +5320,9 @@ EVTOPTA20170;逮捕[From.GetHerHim]！;;;;;;;;;;x
 EVTOPTB20170;这是[From.GetHerHis]领主的行为！;;;;;;;;;;x
 EVTDESC20171;[From.GetTitledName]对我对[From.Location.GetName]的访问反应过度，并且打算囚禁我！;;;;;;;;;;x
 EVTOPTA20171;我的下场会是什么样子的;;;;;;;;;;x
-EVTDESC20173;领主大人，我发现[FromFrom.Liege.GetTitledName]的[Root.GetChancellorName]正在[From.Location.GetName]煽动闹事，试图使当地贵族反对您.请确信他的蜚语没在我身上起效，为了确保不造成进一步损害，我已经囚禁了他.\n\n您谦逊的封臣，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC20173;领主大人，我发现[FromFrom.Liege.GetTitledName]的[Root.GetChancellorName]正在[From.Location.GetName]煽动闹事，试图使当地贵族反对您.请确信他的蜚语没在我身上起效，为了确保不造成进一步损害，我已经囚禁了他.\n\n您卑微的封臣，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA20173;[FromFrom.Liege.GetTitledName]将会耳闻此事！;;;;;;;;;;x
-EVTDESC20174;领主大人，我发现[FromFrom.Liege.GetTitledName]的[Root.GetChancellorName]正在[From.Location.GetName]煽动闹事，试图使当地贵族反对您.请确信他的蜚语没在我身上起效.\n\n您谦逊的封臣，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC20174;领主大人，我发现[FromFrom.Liege.GetTitledName]的[Root.GetChancellorName]正在[From.Location.GetName]煽动闹事，试图使当地贵族反对您.请确信他的蜚语没在我身上起效.\n\n您卑微的封臣，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA20174;[FromFrom.Liege.GetTitledName]将会耳闻此事！;;;;;;;;;;x
 EVTOPTA20175;这不太好……;;;;;;;;;;x
 EVTDESC20176;我听到消息称你的[Root.GetChancellorName]企图在[FromFrom.Location.GetName]散布有关我的谎言、煽动贵族叛乱！我向你保证我是不能容忍这种暴行的！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
@@ -5348,7 +5348,7 @@ EVTOPTA20310;我的名誉不会因此受损……;;;;;;;;;;x
 EVTDESC20311;我成功地从暴徒的袭击中幸存下来，但是我也身受重伤.;;;;;;;;;;x
 EVTOPTA20311;很幸运我能活下来……;;;;;;;;;;x
 EVTTOOLTIP20312;我必须向领主大人写一封信禀告此事.;;;;;;;;;;x
-EVTDESC20312;领主大人\n一群暴徒在我[From.Location.GetName]调查和当地一桩阴谋相关的流言期间袭击了我！我好不容易保住一命，但已身受重伤！\n\n您谦逊的间谍总管\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC20312;领主大人\n一群暴徒在我[From.Location.GetName]调查和当地一桩阴谋相关的流言期间袭击了我！我好不容易保住一命，但已身受重伤！\n\n您卑微的间谍总管\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA20312;敌人在暗处！;;;;;;;;;;x
 EVTDESC20313;[Root.GetTitledName]，您的间谍总管[From.GetTitledName]在[From.Location.GetName]调查和当地一桩阴谋相关的流言时被武装暴徒袭击而丧命.;;;;;;;;;;x
 EVTOPTA20313;可怕！;;;;;;;;;;x
@@ -5356,7 +5356,7 @@ EVTNAME932;间谍总管偷窃科技;;;;;;;;;;x
 EVTDESC932;领主大人，[Root.Location.GetName]的科研进度已经超过了我们.但是我已经成功掌握到了他们的科技进展，并且将同[Root.Liege.GetTitledName]领主分享它.;;;;;;;;;;x
 EVTOPTA932;这应该能让[Root.Liege.GetHerHim]开心！;;;;;;;;;;x
 EVTTOOLTIP20320;向[Root.Liege.GetTitledName]送一封信！;;;;;;;;;;x
-EVTDESC20320;领主大人，[From.Location.GetName]的科研进度已经超过了我们.我已经成功掌握到了他们的科技进展，随信附上的文件应该能让我们赶上他们的进度.我希望这些文件能让您满意！\n\n您谦逊的间谍总管，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC20320;领主大人，[From.Location.GetName]的科研进度已经超过了我们.我已经成功掌握到了他们的科技进展，随信附上的文件应该能让我们赶上他们的进度.我希望这些文件能让您满意！\n\n您卑微的间谍总管，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA20320;棒极了！;;;;;;;;;;x
 EVTNAME933;间谍总管被捕！;;;;;;;;;;x
 EVTOPTA933;这不太好……;;;;;;;;;;x
@@ -5371,7 +5371,7 @@ EVTOPTA20332;谢谢！;;;;;;;;;;x
 EVTNAME935;恶毒的流言到处传播;;;;;;;;;;x
 EVTDESC935;[Root.Location.GetName]的间谍网络在彻查一名贵族家室的过程中发现他喜好男色……通过威胁公布这个消息，领主大人可以从他那里得到帮助或者金钱.;;;;;;;;;;x
 EVTOPTA935;我会上交这个消息.;;;;;;;;;;x
-EVTDESC20350;领主大人，通过[From.Location.GetName]的间谍网络的调查，我们得知一名当地贵族是同性恋.我应该怎样处理这个情报\n\n您谦逊的间谍总管\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC20350;领主大人，通过[From.Location.GetName]的间谍网络的调查，我们得知一名当地贵族是同性恋.我应该怎样处理这个情报\n\n您卑微的间谍总管\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA20350;勒索他！;;;;;;;;;;x
 EVTOPTB20350;散布关于他的传言.;;;;;;;;;;x
 EVTOPTC20350;不做任何事;;;;;;;;;;x
@@ -5547,20 +5547,20 @@ city_count_deed;尊贵的;;;;;;;;;;x
 city_baron_deed;尊贵的;;;;;;;;;;x
 emperor_foa;陛下;;;;;;;;;;x
 king_foa;陛下;;;;;;;;;;x
-duke_foa;殿下;;;;;;;;;;x
-count_foa;殿下;;;;;;;;;;x
-baron_foa;殿下;;;;;;;;;;x
+duke_foa;阁下;;;;;;;;;;x
+count_foa;大人;;;;;;;;;;x
+baron_foa;大人;;;;;;;;;;x
 count_foa_female;夫人;;;;;;;;;;x
 baron_foa_female;夫人;;;;;;;;;;x
 city_emperor_foa;陛下;;;;;;;;;;x
 city_king_foa;陛下;;;;;;;;;;x
-city_duke_foa;殿下;;;;;;;;;;x
-city_count_foa;殿下;;;;;;;;;;x
-city_baron_foa;殿下;;;;;;;;;;x
+city_duke_foa;阁下;;;;;;;;;;x
+city_count_foa;大人;;;;;;;;;;x
+city_baron_foa;大人;;;;;;;;;;x
 temple_king_foa;陛下;;;;;;;;;;x
-temple_duke_foa;殿下;;;;;;;;;;x
-temple_count_foa;殿下;;;;;;;;;;x
-temple_baron_foa;殿下;;;;;;;;;;x
+temple_duke_foa;阁下;;;;;;;;;;x
+temple_count_foa;阁下;;;;;;;;;;x
+temple_baron_foa;阁下;;;;;;;;;;x
 empire_of;帝国;;;;;;;;;;x
 kingdom_of;王国;;;;;;;;;;x
 duchy_of;公爵领;;;;;;;;;;x
@@ -16546,7 +16546,7 @@ EVTOPTA7005;付钱让他们离开.;;;;;;;;;;x
 EVTOPTB7005;也许我应该雇佣他们去杀死我的$SPOUSE$;;;;;;;;;;x
 EVTDESC7010;今天午餐时间我的[Root.GetChancellorName]突然闯进门.\n\n“我的$HONORIFIC$，大事不好！您的妻子在骑马外出的时候死于一场意外，$OPPOSITE_HE_SHE$从$OPPOSITE_HIS_HER$马上摔了下来！哦，还有$OPPOSITE_HIS_HER$的马鞍看上去很可能被人做了手脚……”;;;;;;;;;;x
 EVTOPTA7010;哦不！多么可怕的消息……;;;;;;;;;;x
-EVTDESC7015;今天早上，一个女仆突然跑了进来.\n\n“我的$HONORIFIC$，大事不好！您的$SPOUSE$被发现死在楼梯下面，摔断了脖子！显然$OPPOSITE_HE_SHE$从上面滑了下来……”;;;;;;;;;;x
+EVTDESC7015;今天早上，一个侍女突然跑了进来.\n\n“我的$HONORIFIC$，大事不好！您的$SPOUSE$被发现死在楼梯下面，摔断了脖子！显然$OPPOSITE_HE_SHE$从上面滑了下来……”;;;;;;;;;;x
 EVTOPTA7015;天哪！太悲剧了……;;;;;;;;;;x
 EVTDESC7020;今天下午一个警官突然脸色苍白的闯进门.\n\n“坏消息，我的$HONORIFIC$！您的$SPOUSE$在骑马外出的时候被强盗攻击和抢劫！没有一点怜悯心，他们杀害了$OPPOSITE_HIM_HER$并把$OPPOSITE_HIS_HER$尸体留在路边……”;;;;;;;;;;x
 EVTOPTA7020;强盗在我的领地内这个世界怎么了……;;;;;;;;;;x
@@ -16877,7 +16877,7 @@ PROV200;索里亚;;;;;;;;;;x
 PROV201;纳赫拉;;;;;;;;;;x
 PROV202;萨拉戈萨;;;;;;;;;;x
 PROV203;莱里达;;;;;;;;;;x
-PROV204;巴塞隆纳;;;;;;;;;;x
+PROV204;巴塞罗那;;;;;;;;;;x
 PROV205;安普利耶斯;;;;;;;;;;x
 PROV206;乌赫尔;;;;;;;;;;x
 PROV207;上阿拉贡;;;;;;;;;;x
@@ -17667,7 +17667,7 @@ ibadi;伊巴迪派;;;;;;;;;;x
 bektashi;拜克塔什教团;;;;;;;;;;x
 druze;德鲁兹派;;;;;;;;;;x
 hurufi;胡鲁菲派;;;;;;;;;;x
-tengri_pagan;长生天;;;;;;;;;;x
+tengri_pagan;腾格里;;;;;;;;;;x
 baltic_pagan;洛姆瓦教;;;;;;;;;;x
 finnish_pagan;索米多神教;;;;;;;;;;x
 zoroastrian;祆教;;;;;;;;;;x
@@ -19825,8 +19825,8 @@ LEVY_OTHER_OCCUPIED;当§Y$SETTLEMENT$§R被占领时, 我们无法对其征税;
 SIEGE_TO_FEW_MEN;围城将暂时停止，在攻击力量大于防御力量之前无法恢复;;;;;;;;;;x
 COURTIER_MALE;廷臣;;;;;;;;;;x
 COURTIER_FEMALE;廷臣;;;;;;;;;;x
-REL_COUSIN_MALE;同辈堂表亲;;;;;;;;;;x
-REL_COUSIN_FEMALE;同辈堂表亲;;;;;;;;;;x
+REL_COUSIN_MALE;堂表亲;;;;;;;;;;x
+REL_COUSIN_FEMALE;堂表亲;;;;;;;;;;x
 REL_LOVER_MALE;情人;;;;;;;;;;x
 REL_LOVER_FEMALE;情人;;;;;;;;;;x
 REL_FRIEND_MALE;朋友;;;;;;;;;;x

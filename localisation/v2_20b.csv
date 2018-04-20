@@ -74,7 +74,7 @@ EVTDESC_CM_2104;在一个美妙的早晨,你同 [From.GetTitledFirstNameWithNick
 EVTOPTA_CM_2104;不会有问题的啦.;;;;;;;;;;x
 d_yatviags;约特维恩格;;;;;;;;;;x
 d_pechenegs;佩切涅格;;;;;;;;;;x
-e_seljuk_turks;塞琉古帝国;;;;;;;;;;x
+e_seljuk_turks;塞尔柱帝国;;;;;;;;;;x
 action_settle_tribe;定居部落;;;;;;;;;;x
 action_settle_tribe_desc;指派你的 [GetMyTreasurerName] 将部落安顿在伯爵领众, 增加本地文化变成 §Y[Culture.GetName]§!的几率.;;;;;;;;;;x
 EVTNAME925;部落定居;;;;;;;;;;x
@@ -335,7 +335,7 @@ LANDED_PARENT_BONUS;有土地的 [Root.GetFatherMother];;;;;;;;;;x
 LANDED_UNCLE_AUNT_BONUS;有土地的 [Root.GetUncleAunt];;;;;;;;;;x
 LANDED_GRAND_PARENT_BONUS;有土地的祖父母;;;;;;;;;;x
 LANDED_GREAT_GRAND_PARENT_BONUS;有土地的曾祖父母;;;;;;;;;;x
-LANDED_COUSIN_BONUS;有土地的表亲;;;;;;;;;;x
+LANDED_COUSIN_BONUS;有土地的堂表亲;;;;;;;;;;x
 LIEGE_PRESTIGE;封臣建筑提供的威望：§G+$VALUE$§!;;;;;;;;;;x
 INTERACTION_TRIBAL_TITLE_ALLOWS_REVOKATION; §Y$TITLE$§! 的部落体系准许收回头衔;;;;;;;;;;x
 CHRONICLE_FOUNDED_NEW_KINGDOM_OR_EMPIRE;[Root.GetDynName] 展示了 [Root.GetHerHis] 强大的实力,创建了[Root.PrimaryTitle.GetFullName].;;;;;;;;;;x

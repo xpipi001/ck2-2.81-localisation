@@ -3,7 +3,7 @@ ADD_AMBITION_EFFECT;$CHAR$ 获得野心 §Y$OBJECTIVE$§!\n;;;;;;;;;;x
 CANCEL_AMBITION_EFFECT;$CHAR$ 失去野心 §Y$OBJECTIVE$§!\n;;;;;;;;;;x
 ADD_PLOT_EFFECT;$CHAR$ 获得密谋 §Y$OBJECTIVE$§!\n;;;;;;;;;;x
 CANCEL_PLOT_EFFECT;$CHAR$ 失去密谋 §Y$OBJECTIVE$§!\n;;;;;;;;;;x
-HAS_AMBITION;拥有野心;;;;;;;;;;x
+HAS_AMBITION;有野心;;;;;;;;;;x
 HAS_AN_AMBITION;拥有一个野心;;;;;;;;;;x
 HAS_NO_AMBITION;没有野心;;;;;;;;;;x
 HAS_CONFLICTING_AMBITION;与 $CHAR2$ 的野心存在冲突.;;;;;;;;;;x
@@ -16,19 +16,19 @@ BM_KOMNENOS_DYNASTY_DESC;在土耳其入侵者造成了一系列毁坏性的损�
 BM_THE_LATIN_EMPIRE;拉丁帝国;;;;;;;;;;x
 BM_THE_LATIN_EMPIRE_DESC;声名狼藉、受诅咒的第四次十字军东征, 原本的计划是在入侵埃及后收复圣城耶路撒冷,然而却在狡诈的威尼斯人、堕落的十字军领袖和妄图夺回皇位的拜占廷贵族小阿历克修斯的诱导下偏离了道路. 其结果是拜占庭悲剧性的被洗劫，以及随之而来建立在废墟上的所谓拉丁帝国.可笑的是几乎没有一个圣战者踏上耶路撒冷的土地. 与此同时, 狮心王理查德的弟弟，臭名昭著的失地王约翰统治着英格兰, 捍卫基督信仰的伊比利亚诸国正面临强大的阿尔摩哈德王朝的威胁 .;;;;;;;;;;x
 MARRIAGEEFFECT_MAT;§Y$WHO$§! 与 §Y$SPOUSE$§! 举行了母系婚礼.\n;;;;;;;;;;x
-HAS_PLOT;拥有密谋;;;;;;;;;;x
-I_SEE;我明白了...;;;;;;;;;;x
+HAS_PLOT;有阴谋;;;;;;;;;;x
+I_SEE;我懂了...;;;;;;;;;;x
 NOT_DEFENDING_AGAINST_CLAIMANT;不在保卫 §Y$TITLE$§! 对抗 §Y$CLAIMANT$§! 宣称;;;;;;;;;;x
 DEFENDING_AGAINST_CLAIMANT;在保卫 §Y$TITLE$§! 对抗 §Y$CLAIMANT$§! 宣称;;;;;;;;;;x
 AT_WAR_OVER_TITLE_NOT;与 §Y$TITLE$§! 无关的战争;;;;;;;;;;x
 AT_WAR_OVER_TITLE;围绕 §Y$TITLE$§! 的战争;;;;;;;;;;x
-nick_the_jackal;胡狼;;;;;;;;;;x
+nick_the_jackal;豺狼;;;;;;;;;;x
 opinion_foreign_conqueror;外国征服者;;;;;;;;;;x
 IS_CONQUERED;被征服;;;;;;;;;;x
 IS_NOT_CONQUERED;没有被征服;;;;;;;;;;x
 CANCEL_AMBITION;放弃野心;;;;;;;;;;x
 CANNOT_START_NEW_FOR_YEARS;如果你放弃了你的野心, 在 §R$YEARS$§! 年以内你不能选择一个新的野心.;;;;;;;;;;x
-HAS_A_PLOT;拥有一个密谋;;;;;;;;;;x
+HAS_A_PLOT;有一个密谋;;;;;;;;;;x
 HAS_NO_PLOT;没有密谋;;;;;;;;;;x
 TITLE_CREATION_REQ_KINGDOMS;你至少需要持有 §Y$KINGDOMS$§! 个国王头衔.;;;;;;;;;;x
 HAS_CONFLICTING_PLOT;与 $CHAR2$ 密谋有冲突;;;;;;;;;;x
@@ -640,14 +640,14 @@ EVTOPTA6305;这项法律将给整个王国带来救赎.;;;;;;;;;;x
 EVTDESC6306;新的法律已经制订完成，并且你的朝臣们已经在把它分发给你的所有的封臣.你对你亲手写的东西感到非常满意：\n\n"有鉴于裤子不仅限制了下肢和生殖器官，而且限制了人类的灵魂，而且有鉴于裤子对于除人类以外的所有生命都是一种侮辱：\n\n因此，我，[From.GetTitledName]，下令在全国范围内穿裤子为违法，并且将受到死刑的惩罚.所有已有的各种各样的这种衣服必须立刻烧毁，灰烬将被均匀的洒在我们祖先的陵墓上面.";;;;;;;;;;x
 EVTDESC6307;新的法律已经制订完成，并且你的朝臣们已经在把它分发给你的所有的封臣.你对你亲手写的东西感到非常满意：\n\n"有鉴于新鲜空气的积极作用众所周知，并且有鉴于风的流动不应该被人造的建筑阻挡：\n\n因此，我，[From.GetTitledName]，颁布法令规定王国内所有的住宅都必须在墙上留两个洞，每个洞要至少能够容纳一个成年农夫伸直手臂站立其中，两个洞要打在正对的两面墙上以允许风自由穿过.这些洞不允许被木板，窗户，门或者牲口挡住.如果有任何家庭成员患有肠胃气胀，那么洞的数量应该不少于三个.";;;;;;;;;;x
 EVTDESC6308;新的法律已经制订完成，并且你的朝臣们已经在把它分发给你的所有的封臣.你对你亲手写的东西感到非常满意：\n\n"有鉴于王国内的儿童们对暴力感到麻木，并且，有鉴于普通平民似乎已经失去了对于神圣的人类生命的尊重：\n\n因此，我，[From.GetTitledName]，颁布法令规定所有指向其他人的暴力都是非法的，包括死刑，肉刑以及对于犯人，异教徒和外国人的折磨.这些受害的社会群体将被释放，恢复其社会地位.";;;;;;;;;;x
-EVTDESC6315;你正坐在你的卧室的地板上，头上戴着一只鞋作为帽子，突然一只像人一样大小的金花鼠闯进了房间.它打扮得像一个女仆，当你大叫发出警报的时候，这只啮齿动物吱吱叫着惊慌的逃跑了.你追着它跑下楼来到大厅里，却只发现一个吓坏了的女仆畏缩在地板上.;;;;;;;;;;x
+EVTDESC6315;你正坐在你的卧室的地板上，头上戴着一只鞋作为帽子，突然一只像人一样大小的金花鼠闯进了房间.它打扮得像一个侍女，当你大叫发出警报的时候，这只啮齿动物吱吱叫着惊慌的逃跑了.你追着它跑下楼来到大厅里，却只发现一个吓坏了的侍女畏缩在地板上.;;;;;;;;;;x
 EVTOPTA6315;那只金花鼠跑到哪里去了你看见了么;;;;;;;;;;x
 EVTDESC6316;当满月照进一扇窗户的时候，你正在举行一顿晚宴招待本地的达官显贵.浑身颤抖着，你说了一声失礼，然后急忙跑上楼到你的卧室，边跑边撕扯你身上的衣服.当卫兵找到你的时候，你正浑身赤裸着蹲伏在你的阳台上，对着月亮嚎叫.;;;;;;;;;;x
 EVTOPTA6316;嗷嗷嗷嗷嗷嗷嗷呜呜呜呜呜呜呜!!!!!!;;;;;;;;;;x
 EVTDESC6317;你的马总是向你证明它值得信赖，这是一种你觉得你的内阁成员急需的品质。到了做出改变的时候了。你将要任命它为你的新任[Root.GetChancellorName].;;;;;;;;;;x
 EVTOPTA6317;荣耀的马儿，我任命你为王国的[Root.GetChancellorName].;;;;;;;;;;x
 EVTDESC6318;你疯狂的[Root.Liege.GetTitle]基于[Root.Liege.GetHerHis]无尽的智慧已经决定解除你[Root.Liege.GetChancellorName]的职位.[Root.Liege.GetHerHis]亲爱的马，将会接替你的位置.;;;;;;;;;;x
-horse_chancellor;你被迫经受这个耻辱，注视着领主的马被牵进议会大厅并被任命为[Root.Liege.GetChancellorName].;;;;;;;;;;x
+horse_chancellor;你被迫经受这个耻辱，注视着领主的马被牵进内阁大厅并被任命为[Root.Liege.GetChancellorName].;;;;;;;;;;x
 EVTOPTA6318;这次这个疯子做得太过分了...;;;;;;;;;;x
 RAISE_PROVINCE_OWNLEVIES;调集当地征召兵 ( §Y$SIZE$§! Troops )\n;;;;;;;;;;x
 RAISE_PROVINCE_OWNFLEET;调集当地征召舰队 ( §Y$SIZE$§! Ships )\n;;;;;;;;;;x

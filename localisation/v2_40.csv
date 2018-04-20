@@ -202,7 +202,7 @@ PROV1412;阿拉伯海;;;;;;;;;;x
 EVTDESC_HL_101;[From.GetBestName]已经聚集一队战士打算劫掠邻国的土地以创造[From.GetPossPronoun]自己的财富。;;;;;;;;;;x
 EVTDESC_HL_112;[GetRootFromInsult][From.GetBestName]公开宣布[From.GetHerHis]希望通过[From.GetHerHis]那群不法之徒从你的国度攫取土地.;;;;;;;;;;x
 EVTOPTA_HL_112;我们必须要阻止[From.GetHerHim]。;;;;;;;;;;x
-EVTDESC_HL_121;“亲爱的[GetFromReverseRelation]，\n[From.Religion.GetRandomGodNameCap]已经在我最近的冒险活动期间垂青于我。现在我已经拥有如此多的财富以至于我能毫无障碍地花掉它们。尽管如此，我还是希望能得到一片符合我这个级别的战士的自己的国度，因此，我提议我们做一个小交易。\n\n署名，\n你的[GetFromRelation][From.GetFirstName]”;;;;;;;;;;x
+EVTDESC_HL_121;“亲爱的[GetFromReverseRelation]，\n[From.Religion.GetRandomGodNameCap]已经在我最近的冒险活动期间垂青于我。现在我已经拥有如此多的财富以至于我能毫无障碍地花掉它们。尽管如此，我还是希望能得到一片符合我这个级别的战士的自己的国度，因此，我提议我们做一个小交易。\n\n此致，\n你的[GetFromRelation][From.GetFirstName]”;;;;;;;;;;x
 world_europe_west_brittania;不列颠尼亚;;;;;;;;;;x
 world_europe_west_germania;日耳曼尼亚;;;;;;;;;;x
 world_europe_west_francia;法兰克;;;;;;;;;;x
@@ -559,9 +559,9 @@ EVTOPTB_HL_5014;我想我不再需要你的服务了。;;;;;;;;;;x
 EVTDESC_HL_5016;你迈着重重的步子前去当地的旅馆，尘土在你脚下飞扬。当你进去后，你马上注意到[From.GetFirstName]，似乎参与了某种赌博游戏。你靠近[From.GetHerHim]，然后意识到[From.GetSheHe]正在用你的钱赌博……而且还输了。[From.GetFirstName]抬头看着你，带着一丝微笑，说：‘嘿，你的九真好和’。;;;;;;;;;;x
 EVTOPTA_HL_5016;离这群人远点。;;;;;;;;;;x
 EVTOPTB_HL_5016;逮捕这个[From.GetManWoman]。;;;;;;;;;;x
-EVTDESC_HL_5045;[Root.GetTitledFirstName],\n\n我来这里是为了告诉你我要辞去我在你宫廷里的这个职位，因为你对我的待遇实在太糟糕了。\n\n署名\n[From.GetFirstName];;;;;;;;;;x
+EVTDESC_HL_5045;[Root.GetTitledFirstName],\n\n我来这里是为了告诉你我要辞去我在你宫廷里的这个职位，因为你对我的待遇实在太糟糕了。\n\n此致，\n[From.GetFirstName];;;;;;;;;;x
 EVTOPTA_HL_5045;太糟了。;;;;;;;;;;x
-EVTDESC_HL_5048;[Root.GetTitledFirstName]\n\n你的傲慢无礼已经被注意到了。从今以后我会惩罚每一个可能到过你城市的旅行者。\n\n署名，\n皇帝。;;;;;;;;;;x
+EVTDESC_HL_5048;[Root.GetTitledFirstName]\n\n你的傲慢无礼已经被注意到了。从今以后我会惩罚每一个可能到过你城市的旅行者。\n\n此致，\n皇帝。;;;;;;;;;;x
 EVTOPTA_HL_5048;这对贸易来说真是太糟了。;;;;;;;;;;x
 EVTDESC_HL_5050;最近的报告指出商人和旅行者正受到你领土上[Root.GetName]的强盗侵扰。;;;;;;;;;;x
 EVTOPTA_HL_5050;我会睁一只眼闭一只眼，如果他们愿意分我一杯羹。;;;;;;;;;;x
@@ -646,7 +646,7 @@ destroy_title_interaction_TITLE;摧毁;;;;;;;;;;x
 make_primary_title_interaction_TITLE;设为主头衔;;;;;;;;;;x
 make_primary_title_interaction_DESC;我可宣告此为我的主头衔。;;;;;;;;;;x
 UNREFORMED_TRIBAL_VASSAL_OPINION;未改革原始宗教部落的好感;;;;;;;;;;x
-EVTDESC8031;你已限制我们的权利太久.是时候降低部落组织度了！你的摄政[Root.Regent.GetTitledName]也在我的支持者之中，你除了接受已经没有别的选择。\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8031;你已限制我们的权利太久。是时候降低部落组织度了！你的摄政[Root.Regent.GetTitledName]也在我的支持者之中，你除了接受已经没有别的选择。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 tribal_contract_0_option;小;;;;;;;;;;x
 tribal_contract_1_option;普通;;;;;;;;;;x
 tribal_contract_2_option;大;;;;;;;;;;x

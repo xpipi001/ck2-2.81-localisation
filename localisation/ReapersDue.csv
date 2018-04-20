@@ -722,7 +722,7 @@ seek_treatment_tooltip_2;最近没有接受治疗\n;;;;;;;;;;x
 seek_treatment_tooltip_4;你的宫廷医师正在被传召\n;;;;;;;;;;x
 seek_treatment_desc;传召你的宫廷医师来给你做体检以及一些可能的诊断，如果你被确诊为患上了某种疾病，你可以从几种疗法中选择一种。这将会移除现有的治疗修正。;;;;;;;;;;x
 seek_treatment;为疾病寻求疗法;;;;;;;;;;x
-epidemic_present_tooltip;一场疫病正在活跃并以靠近\n;;;;;;;;;;x
+epidemic_present_tooltip;一场疫病正在活跃并已靠近\n;;;;;;;;;;x
 in_seclusion;与廷臣一起隔离;;;;;;;;;;x
 commoners_abandoned;抛弃民众;;;;;;;;;;x
 shut_the_gates;关上宫门;;;;;;;;;;x
@@ -1075,8 +1075,7 @@ DEATH_EXECUTION_BOILING;因$KILLER$的命令被煮死;;;;;;;;;;x
 DEATH_EXECUTION_BOILING_NO_KILLER;被煮死;;;;;;;;;;x
 DEATH_EXECUTION_SAWING;因$KILLER$的命令被锯成两半;;;;;;;;;;x
 DEATH_EXECUTION_SAWING_NO_KILLER;被锯成两半;;;;;;;;;;x
-DEATH_EXECUTION_HUNT;死于一场$KILLER$精心策划的猎杀
-;;;;;;;;;;x
+DEATH_EXECUTION_HUNT;死于一场$KILLER$精心策划的猎杀;;;;;;;;;;x
 DEATH_EXECUTION_HUNT_NO_KILLER;死于一场精心策划的猎杀;;;;;;;;;;x
 DEATH_EXECUTION_LIVE_BURIAL;因$KILLER$的命令被活埋;;;;;;;;;;x
 DEATH_EXECUTION_LIVE_BURIAL_NO_KILLER;被活埋;;;;;;;;;;x
@@ -3472,7 +3471,7 @@ demand_gavelkind_desc;要求§Y[This.GetTitledName]§!制定均分继承法。[T
 demand_gavelkind_use_favor;要求均分继承法;;;;;;;;;;x
 demand_gavelkind_use_favor_desc;要求§Y[This.GetTitledName]§!制定均分继承法。[This.GetSubjectPronounCap]欠我一个人情，所以不能拒绝。;;;;;;;;;;x
 EVTDESC_RIP_30040;致我忠诚的封臣，[Root.GetTitledFirstName]。\n\n为了王国的未来，我必须要求你更改继承法为均分继承法。\n\n致敬,[FromFrom.GetTitledFirstName];;;;;;;;;;x
-EVTOPTB_RIP_30040;[FromFrom.GetSubjectPronounCap]将为此欠我一个大人请！;;;;;;;;;;x
+EVTOPTB_RIP_30040;[FromFrom.GetSubjectPronounCap]将为此欠我一个大人情！;;;;;;;;;;x
 EVTDESC_RIP_30041;致[GetFromRootCompliment]，[Root.GetTitledFirstName]。\n\n我对均分继承法不感兴趣，但我不从不敢妄想拒绝你，我的领主！\n\n你忠诚的封臣，[From.GetTitledFirstName];;;;;;;;;;x
 EVTDESC_RIP_30043;致[GetFromRootCompliment]，[Root.GetTitledFirstName]。\n\n我并不为制定均分继承法而感到兴奋，但如果有一大笔钱作为回报的话我会顺从的。我知道你明白我的意思。\n\n你忠诚的封臣，[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_RIP_30043;那好吧……;;;;;;;;;;x

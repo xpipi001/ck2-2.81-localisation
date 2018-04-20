@@ -648,8 +648,7 @@ CHRONICLE_PILGRIMAGE_TO_KOLN;[Root.GetTitledName]往科隆,进行了一趟说走
 CHRONICLE_PILGRIMAGE_TO_SANTIAGO;[Root.GetTitledName]往圣地亚哥,进行了一场说走就走的朝圣之旅.;;;;;;;;;;x
 CHRONICLE_WENT_ON_HAJJ;[Root.GetTitledName]前往麦加城朝觐.;;;;;;;;;;x
 CHRONICLE_HELD_BLOT;[Root.GetTitledName]在[Root.Location.GetName]举行了一场盛大的牺牲祭典活动.;;;;;;;;;;x
-CHRONICLE_PLAYER_ACQUIRED_NICKNAME;[Root.GetTitledName],由于他的行为与	
-性格,成为了人们众所周知的[Root.GetTitledFirstNameWithNick].;;;;;;;;;;x
+CHRONICLE_PLAYER_ACQUIRED_NICKNAME;[Root.GetTitledName],由于他的行为与	性格,成为了人们众所周知的[Root.GetTitledFirstNameWithNick].;;;;;;;;;;x
 CHRONICLE_HERESY_SPREAD;[From.Religion.GetName] 传播到了这个郡 [From.GetName];;;;;;;;;;x
 CHRONICLE_BECAME_KSHATRIYA;[Root.GetTitledFirstNameWithNick]上升成为了刹帝利种姓,使得[Root.GetHerHis]家族王朝在[Root.Religion.GetName]君主当中,获得了新的威望.;;;;;;;;;;x
 CHRONICLE_CAPTURED_MAJOR_SETTLEMENT_MYSELF; [Root.GetTitledName] 成功地带领着[Root.GetHerHis]军队,从敌人手中夺取了[From.GetName].;;;;;;;;;;x
@@ -984,18 +983,18 @@ EVTDESC_CM_6338;似乎用耍蛇的来刺杀[From.GetTitledName],计划彻底失�
 EVTOPTA_CM_6338;下一次让[From.GetHerHim]好看.;;;;;;;;;;x
 EVTDESC_CM_63399;似乎用耍蛇的来刺杀[From.GetTitledName],计划彻底失败了.更糟的是,耍蛇人被抓住了还供出是谁指使他的.;;;;;;;;;;x
 EVTOPTA_CM_63399;该死!;;;;;;;;;;x
-EVTDESC_CM_6340;我的[Root.GetLordLady], 有一个除掉[Root.PlotTarget.GetTitledName]的机会出现了.我们找到了那人的一位怀有异心的贴身女仆,女仆说她要让[Root.PlotTarget.GetLordLady]付出代价. 我们应该干这一票吗,我的[Root.GetLordLady]?;;;;;;;;;;x
+EVTDESC_CM_6340;我的[Root.GetLordLady], 有一个除掉[Root.PlotTarget.GetTitledName]的机会出现了.我们找到了那人的一位怀有异心的贴身侍女,侍女说她要让[Root.PlotTarget.GetLordLady]付出代价. 我们应该干这一票吗,我的[Root.GetLordLady]?;;;;;;;;;;x
 EVTOPTA_CM_6340;付给她钱才下手杀[Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;x
 EVTOPTB_CM_6340;除了给她钱之外,还要连侍卫一齐收买.;;;;;;;;;;x
 EVTOPTC_CM_6340;我们应该等等.;;;;;;;;;;x
-EVTDESC_CM_6341;似乎It seems as though [From.GetTitledName]找到了一名怀有异心的女仆试图刺杀[Root.PlotTarget.GetTitledName]. 这次或许是除掉[From.PlotTarget.GetHerHim]的好机会.;;;;;;;;;;x
+EVTDESC_CM_6341;似乎It seems as though [From.GetTitledName]找到了一名怀有异心的侍女试图刺杀[Root.PlotTarget.GetTitledName]. 这次或许是除掉[From.PlotTarget.GetHerHim]的好机会.;;;;;;;;;;x
 EVTOPTA_CM_6341;棒棒哒!;;;;;;;;;;x
-EVTTITLE_CM_6343;邪恶妹抖;;;;;;;;;;x
+EVTTITLE_CM_6343;刻薄侍女;;;;;;;;;;x
 EVTDESC_CM_6343;躺在床上,百无聊赖地注视着天花板,没事发生,没事会发生.藏匿处看不到外面的太阳,实在无趣.也没人跟我说话,更是无聊.有没有人!快来个人!啊,妹抖酱你在啊...咦?你怎么拿着条绳子,莫非你想玩捆绑Play?;;;;;;;;;;x
 EVTOPTA_CM_6343;说好的捆绑play呢...;;;;;;;;;;x
-EVTDESC_CM_6344;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的妹抖勒死在[From.GetHerHis]的床上.而且计划没任何人知道.;;;;;;;;;;x
+EVTDESC_CM_6344;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的侍女勒死在[From.GetHerHis]的床上.而且计划没任何人知道.;;;;;;;;;;x
 EVTOPTA_CM_6344;漂亮！棒棒哒!;;;;;;;;;;x
-EVTDESC_CM_6346;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的妹抖勒死在[From.GetHerHis]的床上.不幸的是,女仆被抓住了,还供出了是谁指使.;;;;;;;;;;x
+EVTDESC_CM_6346;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的侍女勒死在[From.GetHerHis]的床上.不幸的是,侍女被抓住了,还供出了是谁指使.;;;;;;;;;;x
 EVTOPTA_CM_6346;好吧.;;;;;;;;;;x
 EVTDESC_CM_6347;躺在床上,百无聊赖地注视着天花板,没事发生,没事会发生.藏匿处看不到外面的太阳,实在无趣.也没人跟我说话,更是无聊.有没有人!快来个人!妹抖酱,你在啊...你在玩什么啊?绳子?这么危险的东西还是给我玩吧.侍卫快来玩捆绑play!;;;;;;;;;;x
 EVTOPTA_CM_6347;好好一个妹子就这样浪费了!;;;;;;;;;;x
@@ -1085,7 +1084,7 @@ norse_pagan;日耳曼多神教;;;;;;;;;;x
 norse_pagan_reformed;日耳曼多神教;;;;;;;;;;x
 EVTDESC8029;就算国内生灵涂炭,[From.GetTitledName]也要发起降低部落组织等级的战争.而您在此次冲突中施以的可贵援助,国家将不会忘记.\n\n最真诚的,\n[FromFrom.GetTitledName];;;;;;;;;;x
 EVTDESC8028;迫于强大派系的压力下,[From.GetTitledName]被迫同意降低王权等级.;;;;;;;;;;x
-EVTDESC8071;就算国内生灵涂炭,孤也决定顺从孤之意愿,加入降低部落组织等级的战争.但趁机勒索这种背信弃义的行为将不会得到原谅...\n\n署名,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8071;为避免陷入内战、国家分裂，寡人决定满足诸位要求，降低部落组织等级。但趁机勒索这种背信弃义的行为将不会得到原谅...\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 lower_tribal_organization_law_desc;§Y$CLAIMANT$§!能在§Y$TITLE$§!的情况下发动降低部落组织度等级的战争.;;;;;;;;;;x
 CB_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;降低部落组织度等级;;;;;;;;;;x
 WAR_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;$ORDER$$SECOND_ADJ$ 降低部落组织度等级之内战;;;;;;;;;;x

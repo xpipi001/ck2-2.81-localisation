@@ -1005,7 +1005,7 @@ XOLOTL;梭罗堤;;;;;;;;;;x
 CHERNOBOG;切尔纳伯格;;;;;;;;;;x
 PLUTO;冥王;;;;;;;;;;x
 AHRIMAN;阿里曼;;;;;;;;;;x
-ANGRA_MAINYU;安勒梅纽;;;;;;;;;;x
+ANGRA_MAINYU;安哥拉.曼纽;;;;;;;;;;x
 ADONAI;上帝;;;;;;;;;;x
 BIRTH_NAME;奶名;;;;;;;;;;x
 suspected_witch;女巫嫌疑犯;;;;;;;;;;x
@@ -1067,7 +1067,7 @@ EVTTITLE_SOA_3039;可怕的梦魇;;;;;;;;;;x
 EVTDESC_SOA_3039;我心爱的[GetFromRelation][From.GetFirstName]死了！ [From.GetSubjectPronounCap]在[From.GetPossPronoun]被发现时已经了无生息，[From.GetPossPronoun]的脸颊淌着血，面部狰狞，表情扭曲。医生检查了遗体却没有发现任何异常，似乎[From.GetSubjectPronoun]死于噩梦的惊吓。有种关于“恶魔之子”的可怕传闻，想到我的[GetFromFromRelation] [FromFrom.GetFirstName],一言难尽…每当身边有可怕的事情发生，[FromFrom.GetSubjectPronoun]就会异常的开心。;;;;;;;;;;x
 EVTOPTA_SOA_3039;有没有谋杀的可能？;;;;;;;;;;x
 EVTTITLE_SOA_3040;可怕的梦魇;;;;;;;;;;x
-EVTDESC_SOA_3040; 我心爱的[GetFromRelation][From.GetFirstName]声称昨晚有什么…东西试图杀死[From.GetObjectPronoun]。[From.GetSubjectPronounCap]醒来时发现有个朦胧的小小轮廓坐在[From.GetPossPronoun]胸前，又嘶嘶作响地跑了，留下了一根可怕的长针。我觉得这只是噩梦罢了——毕竟女仆经常把针乱放。有种关于“恶魔之子”的可怕传闻，想到我的[GetFromFromRelation] [FromFrom.GetFirstName],一言难尽…;;;;;;;;;;x
+EVTDESC_SOA_3040; 我心爱的[GetFromRelation][From.GetFirstName]声称昨晚有什么…东西试图杀死[From.GetObjectPronoun]。[From.GetSubjectPronounCap]醒来时发现有个朦胧的小小轮廓坐在[From.GetPossPronoun]胸前，又嘶嘶作响地跑了，留下了一根可怕的长针。我觉得这只是噩梦罢了——毕竟侍女们经常把针乱放。有种关于“恶魔之子”的可怕传闻，想到我的[GetFromFromRelation] [FromFrom.GetFirstName],一言难尽…;;;;;;;;;;x
 EVTOPTA_SOA_3040;太荒谬了;;;;;;;;;;x
 EVTTITLE_SOA_3041;可怕的梦魇;;;;;;;;;;x
 EVTDESC_SOA_3041;我亲爱的[GetFromRelation] [From.GetFirstName]在昨晚[From.GetPossPronoun]睡梦中受到了袭击。仆人发现[From.GetSubjectPronounCap]在床上流着口涎，一只眼睛充血红肿，嘴里含糊不清地说着，似乎一只小怪物刺伤了[From.GetObjectPronoun]眼睛，然后跑掉了。有种关于“恶魔之子”的可怕传闻，想到我的[GetFromFromRelation] [FromFrom.GetFirstName],一言难尽…每当身边有可怕的事情发生，[FromFrom.GetSubjectPronoun]就会异常的开心。;;;;;;;;;;x

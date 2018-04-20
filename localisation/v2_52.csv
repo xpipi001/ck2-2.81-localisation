@@ -3,27 +3,27 @@ character_owe_favor;此人将会欠你一个 §Y人情§!。;;;;;;;;;;x
 EVTDESC_ZE_22300;正当审判威胁你王座的罪犯时，一个年轻的贵族被带到你面前。你迅速得出了结论：这个人的的确确有罪。向他问罪可能不是最明智的选择，毕竟他是个贵族出身。如果你赦免了这个人，他会证明他自己是对你有用处的，毕竟他欠了你罪债。;;;;;;;;;;x
 EVTOPTA_ZE_22300;放了他！现在，你可别忘了我为你所做的这一切……;;;;;;;;;;x
 EVTOPTB_ZE_22300;王侯将相宁有种乎！跟他一起去地牢吧！;;;;;;;;;;x
-EVTDESC_ZE_22400;在一场格外激烈的议会争论中，正当你快要出丑时，[target_saved_voter.GetTitledFirstName]走进来了。[target_saved_voter.GetSheHeCap]不仅可以为你的观点争辩从而挽回你的掩面，而且还能为你赢得这场争论！显然[target_saved_voter.GetFirstName]的巧舌如簧是你成功的唯一原因，而否认这一点或许会使你声誉不佳。;;;;;;;;;;x
+EVTDESC_ZE_22400;内阁争辩不休，正当你快要出丑时，[target_saved_voter.GetTitledFirstName]走进来了。[target_saved_voter.GetSheHeCap]不仅可以为你的观点争辩从而挽回你的掩面，而且还能为你赢得这场争论！显然[target_saved_voter.GetFirstName]的巧舌如簧是你成功的唯一原因，而否认这一点或许会使你声誉不佳。;;;;;;;;;;x
 EVTOPTA_ZE_22400;谢谢！我确实欠你一回！;;;;;;;;;;x
 EVTOPTB_ZE_22400;我呸！我自己本来能赢得那场争论！;;;;;;;;;;x
-EVTDESC_ZE_22410;在议会争辩不休时, 你走了进来, [From.GetBestName] 感觉 [From.GetHerselfHimself] 受了愚弄. 在你帮助下 [From.GetHerHim] 赢了辩论. 这是很好的手段, 现在 [From.GetSheHe] 欠你一份人情!;;;;;;;;;;x
+EVTDESC_ZE_22410;内阁争辩不休，正当 [From.GetBestName] 快要出丑时，你走了进来。在你帮助下 [From.GetHerHim] 赢了辩论。这是很好的手段，现在 [From.GetSheHe] 欠你一份人情！;;;;;;;;;;x
 EVTOPTA_ZE_22410;现在，何时需要帮忙....;;;;;;;;;;x
-EVTDESC_ZE_22420;在议会争辩不休时, 你走了进来, [From.GetBestName] 感觉 [From.GetHerselfHimself] 受了愚弄. 在你帮助下 [From.GetHerHim] 赢了辩论. 这激怒了 [From.GetHerHim],  [From.GetSheHe] 想依靠 [From.GetHerHis] 的能力赢得辩论! 这样等于公开羞辱 [From.GetFirstName].;;;;;;;;;;x
+EVTDESC_ZE_22420;内阁争辩不休，正当 [From.GetBestName] 快要出丑时，你走了进来。在你帮助下 [From.GetHerHim] 赢了辩论。这激怒了 [From.GetHerHim]， [From.GetSheHe] 想依靠 [From.GetHerHis] 的能力赢得辩论！这样等于公开羞辱 [From.GetFirstName]。;;;;;;;;;;x
 EVTOPTA_ZE_22420;忘恩负义是这个世界的奖励;;;;;;;;;;x
-EVTDESC_ZE_22500;议会讨论结束时，[target_pious_voter.GetTitledFirstName]把你拉到一边。[target_pious_voter.GetSheHeCap]跟你大谈特谈要尊重[Root.Religion.GetScriptureName]在议会中做决定的权威性。显然议会对你怠慢态度看法一致，但幸好[target_pious_voter.GetFirstName]愿意帮你！;;;;;;;;;;x
+EVTDESC_ZE_22500;内阁讨论结束时，[target_pious_voter.GetTitledFirstName]把你拉到一边。[target_pious_voter.GetSheHeCap]跟你大谈特谈要尊重[Root.Religion.GetScriptureName]在内阁中做决定的权威性。显然内阁对你怠慢态度看法一致，但幸好[target_pious_voter.GetFirstName]愿意帮你！;;;;;;;;;;x
 EVTOPTA_ZE_22500;你真为会为我那样做吗？我欠你太多了！;;;;;;;;;;x
 EVTOPTB_ZE_22500;不，没有位置给[Root.Religion.GetScriptureName]从政！;;;;;;;;;;x
-EVTDESC_ZE_22510;议会一致认为[From.GetBestName]的行为非常不虔诚，无视了[Root.Religion.GetScriptureName]许多智训。作为一个虔诚的[Root.GetManWoman]，你决定帮助[From.GetHerHim]不要重蹈覆辙。[From.GetFirstName]对你的帮助十分感激，并且告诉你[From.GetSheHe]欠你许多！;;;;;;;;;;x
+EVTDESC_ZE_22510;内阁一致认为[From.GetBestName]的行为非常不虔诚，无视了[Root.Religion.GetScriptureName]许多智训。作为一个虔诚的[Root.GetManWoman]，你决定帮助[From.GetHerHim]不要重蹈覆辙。[From.GetFirstName]对你的帮助十分感激，并且告诉你[From.GetSheHe]欠你许多！;;;;;;;;;;x
 EVTOPTA_ZE_22510;一颗赛艇！我可以用上这个人情了。;;;;;;;;;;x
-EVTDESC_ZE_22520;议会一致认为[From.GetBestName]的行为非常不虔诚，无视了[Root.Religion.GetScriptureName]许多智训。作为一个虔诚的[Root.GetManWoman]，你决定帮助[From.GetHerHim]不要重蹈覆辙。但[From.GetFirstName]被激怒了因为[From.GetSheHe]以为你在试图诓骗[From.GetHerHim]！;;;;;;;;;;x
+EVTDESC_ZE_22520;内阁一致认为[From.GetBestName]的行为非常不虔诚，无视了[Root.Religion.GetScriptureName]的许多智训。作为一个虔诚的[Root.GetManWoman]，你决定帮助[From.GetHerHim]不要重蹈覆辙。但[From.GetFirstName]被激怒了因为[From.GetSheHe]以为你在试图诓骗[From.GetHerHim]！;;;;;;;;;;x
 EVTOPTA_ZE_22520;还不如一个异教徒...;;;;;;;;;;x
-EVTDESC_ZE_22600;你听到传言说在国外有一位[target_foreign_voter.GetJobTitle]，有超凡才能并且处理[target_foreign_voter.GetHerHis]事务游刃有余。鉴于你本身的能力经常被议会其他人质疑，或许你该写封信给这位'[target_foreign_voter.GetBestName]'，向其寻求[target_foreign_voter.GetHerHis]建议？;;;;;;;;;;x
+EVTDESC_ZE_22600;你听到传言说在国外有一位[target_foreign_voter.GetJobTitle]，有超凡才能并且处理[target_foreign_voter.GetHerHis]事务游刃有余。鉴于你本身的能力经常被同僚质疑，或许你该写封信给这位'[target_foreign_voter.GetBestName]'，向其寻求[target_foreign_voter.GetHerHis]建议？;;;;;;;;;;x
 EVTOPTA_ZE_22600;好，我会写信给[target_foreign_voter.GetHerHim]的！;;;;;;;;;;x
 EVTOPTB_ZE_22600;不，何必呢...;;;;;;;;;;x
-EVTDESC_ZE_22610;致超凡的[Root.GetTitledFirstName],\n\n我是[From.GetTitledFirstName]，[From.Liege.GetTitledFirstName]的[From.GetJobTitle]。\n作为[Root.Liege.GetTitledFirstName]议会中的[Root.GetJobTitle]，你的才能被深远流传。我恳求你给我一些政治方面的建议，使我可以像你一样令人钦佩地为我的领主效劳。\n\n此致敬礼，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_ZE_22610;致超凡的[Root.GetTitledFirstName],\n\n我是[From.GetTitledFirstName]，[From.Liege.GetTitledFirstName]的[From.GetJobTitle]。\n作为[Root.Liege.GetTitledFirstName]内阁中的[Root.GetJobTitle]，你的才能被深远流传。我恳求你给我一些政治方面的建议，使我可以像你一样令人钦佩地为我的领主效劳。\n\n此致敬礼，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_22610;真是感人至深的请求，我会帮助你的！;;;;;;;;;;x
 EVTOPTB_ZE_22610;跟敌人称兄道弟？我看还是算了吧！;;;;;;;;;;x
-EVTDESC_ZE_22620;致[GetFromRootCompliment] [Root.GetFirstName]，\n\n我愿意给你些建议帮助你如何更有效的在议会中效劳。随信附上一本书，讲述了我自己作为一位[From.GetJobTitle]的经验，希望里面的内容可以帮到你！\n\n此致敬礼，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_ZE_22620;致[GetFromRootCompliment] [Root.GetFirstName]，\n\n我愿意给你些建议，使你如何更有效的在内阁中效劳。随信附上一本书，讲述了我自己作为一位[From.GetJobTitle]的经验，希望里面的内容可以帮到你！\n\n此致敬礼，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_22620;真是个伟大的[From.GetManWoman]！;;;;;;;;;;x
 EVTDESC_ZE_22630;致[GetFromRootInsult] [Root.GetFirstName]，\n\n你真的以为我会把我的秘诀告诉你？你这个可悲的[From.GetJobTitle]，我看你不会有长进了！\n\n真挚地\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_22630;我真是自取其辱...;;;;;;;;;;x
@@ -184,8 +184,8 @@ EVTDESC_ZE_8120;阴险的 [pardon_target.GetBestName] 以你欠 [pardon_target.G
 EVTOPTA_ZE_8120;原谅它，忘掉它。;;;;;;;;;;x
 faction_powerful_vassal_takeover_title;推翻 [From.Liege.GetBestName];;;;;;;;;;x
 opinion_abdicated;应要求退位;;;;;;;;;;x
-EVTDESC8220;你是暴君，是 [GetFromRootInsult] ！你一直无视内阁、无视你臣民的福祉，我们将不再袖手旁观。是时候让你让位给 [new_title_holder.GetFullName] 了！和平接受这个提议，不然就让你尝点苦头。\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC8223;为了避免让国家陷入内战、领土分裂，我决定服从你的要求放弃王位。但是这个背信弃义的敲诈行径我永远也不会忘记……\n\n署名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8220;你是暴君，是 [GetFromRootInsult] ！你一直无视内阁、无视你臣民的福祉，我们将不再袖手旁观。是时候让你让位给 [new_title_holder.GetFullName] 了！和平接受这个提议，不然就让你尝点苦头。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8223;为了避免让国家陷入内战、领土分裂，我决定服从你的要求放弃王位。但是这个背信弃义的敲诈行径我永远也不会忘记……\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 faction_powerful_vassal_takeover_ultimatum;要求退位;;;;;;;;;;x
 faction_powerful_vassal_takeover_ultimatum_desc;给 §Y[Root.Liege.GetBestName]§!发出最后通牒，要求 [Root.Liege.GetSheHe] 让位给境内最受欢迎的封臣。如果 [Root.Liege.GetSubjectPronoun] 拒绝遵从，你的派系将会发起反叛。;;;;;;;;;;x
 CB_NAME_POWERFUL_VASSAL_TAKEOVER;推翻统治者;;;;;;;;;;x

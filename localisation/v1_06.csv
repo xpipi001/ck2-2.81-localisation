@@ -663,7 +663,7 @@ EVTOPTA8176;该死的[FromFrom.GetTitledFirstName]!;;;;;;;;;;x
 EVTOPTA8177;为什么? 谁干的? [Root.Religion.GetRandomGodNameCap]...;;;;;;;;;;x
 EVTDESC8178;他想推我! 我会找出谁收买了他以及理由!;;;;;;;;;;x
 EVTOPTA8178;幕后黑手肯定是[FromFrom.GetTitledFirstName]!;;;;;;;;;;x
-EVTDESC8179;那个洗碗女仆想推我下去? 是谁想要我死?;;;;;;;;;;x
+EVTDESC8179;那个洗碗侍女想推我下去? 是谁想要我死?;;;;;;;;;;x
 EVTOPTA8179;我想我可能永远不会知道...;;;;;;;;;;x
 EVTDESC8180;好消息! 我的同谋, [From.GetTitledName], 告诉我[Root.PlotTarget.GetTitledName]不久将会悲剧地从城堡护栏上摔下去...;;;;;;;;;;x
 EVTOPTA8180;飞吧, 小鸟, 飞吧!;;;;;;;;;;x
@@ -829,34 +829,34 @@ EVTOPTA7734;[From.GetFirstName]在巨响中走了.;;;;;;;;;;x
 EVTDESC7735;失败了! [From.GetTitledFirstName]发现了粪堆躲过了爆炸. 我对此事的参与被发现了.;;;;;;;;;;x
 EVTOPTA7735;我在想什么? 粪肥...;;;;;;;;;;x
 EVTDESC7736;失败了! [From.GetTitledFirstName]发现了粪堆躲过了爆炸. 幸运的是, 我的角色依然无人知晓...;;;;;;;;;;x
-EVTDESC7740;如果要让那个崽子[Root.PlotTarget.GetTitledName]死掉, 我们需要买通他身边的人, 比如一个女仆或护卫之类的.;;;;;;;;;;x
+EVTDESC7740;如果要让那个崽子[Root.PlotTarget.GetTitledName]死掉, 我们需要买通他身边的人, 比如一个侍女或护卫之类的.;;;;;;;;;;x
 EVTOPTA7740;我的同谋会筹集必需的资金...;;;;;;;;;;x
-EVTOPTB7740;收买女仆;;;;;;;;;;x
+EVTOPTB7740;收买侍女;;;;;;;;;;x
 EVTOPTC7740;我知道我们该找谁...;;;;;;;;;;x
 EVTDESC7742;我的同谋, [From.GetTitledName], 请求资助收买一个[Root.PlotTarget.GetTitledFirstName]的贴身女佣. 她会让这孩子不再成为问题... 两个都不再, 实际上.;;;;;;;;;;x
 EVTOPTA7742;我想不出更好的点子了. 付钱!;;;;;;;;;;x
-EVTDESC7743;[From.GetTitledFirstName]给了我收买[Root.PlotTarget.GetTitledFirstName]身边女仆所需要的钱.;;;;;;;;;;x
-EVTDESC7744;[From.GetTitledFirstName]拒绝给我收买[Root.PlotTarget.GetTitledFirstName]身边女仆所需要的钱.;;;;;;;;;;x
-EVTDESC7745;当你躺卧在你那小小的儿童床上，凝望着天花板，想象着你自己未来时，你突然发现有个大人走进了你的房间.你认识她, 她是你随身女仆中的一人.但是，你发现她的目光是那么的冰冷、那么的漠然，冷漠得让人毛骨悚然. 她手中拿着一个枕头，慢慢地向你走了过来...;;;;;;;;;;x
+EVTDESC7743;[From.GetTitledFirstName]给了我收买[Root.PlotTarget.GetTitledFirstName]身边侍女所需要的钱.;;;;;;;;;;x
+EVTDESC7744;[From.GetTitledFirstName]拒绝给我收买[Root.PlotTarget.GetTitledFirstName]身边侍女所需要的钱.;;;;;;;;;;x
+EVTDESC7745;当你躺卧在你那小小的儿童床上，凝望着天花板，想象着你自己未来时，你突然发现有个大人走进了你的房间.你认识她, 她是你随身侍女中的一人.但是，你发现她的目光是那么的冰冷、那么的漠然，冷漠得让人毛骨悚然. 她手中拿着一个枕头，慢慢地向你走了过来...;;;;;;;;;;x
 EVTOPTA7745;嘎嘎是你吗?;;;;;;;;;;x
 EVTOPTB7745;*发出震耳欲聋的哀嚎*;;;;;;;;;;x
 EVTTOOLTIP7745;安排下个月对[This.GetTitledFirstName]刺杀.;;;;;;;;;;x
-EVTDESC7746;女仆用枕头蒙住了你的脸, 整个世界都暗了下来. 幸运的话, 或许能重生在一个和谐点的时代吧...;;;;;;;;;;x
+EVTDESC7746;侍女用枕头蒙住了你的脸, 整个世界都暗了下来. 幸运的话, 或许能重生在一个和谐点的时代吧...;;;;;;;;;;x
 EVTOPTA7746;[FromFrom.GetTitledFirstName]让我短暂的生命更短了!;;;;;;;;;;x
 EVTOPTA7747;谁指使她干的?;;;;;;;;;;x
-EVTDESC7748;在女仆走近时, 你深深地吸了一口气, 迸发出一阵尖利的嚎叫, 在周围的房间里回响. 吓到了的女仆扔下枕头, 在别人进来询问之前逃之夭夭了.;;;;;;;;;;x
+EVTDESC7748;在侍女走近时, 你深深地吸了一口气, 迸发出一阵尖利的嚎叫, 在周围的房间里回响. 吓到了的侍女扔下枕头, 在别人进来询问之前逃之夭夭了.;;;;;;;;;;x
 EVTOPTA7748;[FromFrom.GetTitledFirstName]指使她干的!;;;;;;;;;;x
 EVTOPTA7749;她为什么要伤害我?;;;;;;;;;;x
-EVTDESC7750;我的同谋, [From.GetTitledFirstName], 成功地搞定了[Root.PlotTarget.GetTitledFirstName]身边的一个女仆. 看在钱的份上, 她同意解决我们的小问题.;;;;;;;;;;x
+EVTDESC7750;我的同谋, [From.GetTitledFirstName], 成功地搞定了[Root.PlotTarget.GetTitledFirstName]身边的一个侍女. 看在钱的份上, 她同意解决我们的小问题.;;;;;;;;;;x
 EVTOPTA7750;好极了!;;;;;;;;;;x
-EVTDESC7751;[From.GetTitledFirstName]同意了我收买女仆来终结小[From.PlotTarget.GetTitledFirstName]生命的计划.;;;;;;;;;;x
+EVTDESC7751;[From.GetTitledFirstName]同意了我收买侍女来终结小[From.PlotTarget.GetTitledFirstName]生命的计划.;;;;;;;;;;x
 EVTDESC7752;[From.GetTitledFirstName]告诉我小[From.PlotTarget.GetTitledFirstName]短暂的生命将不久结束. A maid close to the child has been bought, and will be solving our mutual problem.;;;;;;;;;;x
-EVTDESC7753;成功了! [From.GetTitledFirstName]已经被我们所买通的那个女仆用枕头给闷死了! 但是，不幸的是，那个女仆在被吊死前供出了我的名字.;;;;;;;;;;x
-EVTDESC7754;成功了! [From.GetTitledFirstName]已经被我们所买通的那个女仆用枕头给闷死了！她没被抓到，所以没人可以把这推到我的头上来.;;;;;;;;;;x
+EVTDESC7753;成功了! [From.GetTitledFirstName]已经被我们所买通的那个侍女用枕头给闷死了! 但是，不幸的是，那个侍女在被吊死前供出了我的名字.;;;;;;;;;;x
+EVTDESC7754;成功了! [From.GetTitledFirstName]已经被我们所买通的那个侍女用枕头给闷死了！她没被抓到，所以没人可以把这推到我的头上来.;;;;;;;;;;x
 EVTOPTA7754;这个世界对儿童太残忍了.;;;;;;;;;;x
-EVTDESC7755;失败了! [From.GetTitledFirstName]用[From.GetHerHis]尖叫吓跑了女仆, 而且她还被抓住了并供出了我.;;;;;;;;;;x
+EVTDESC7755;失败了! [From.GetTitledFirstName]用[From.GetHerHis]尖叫吓跑了侍女, 而且她还被抓住了并供出了我.;;;;;;;;;;x
 EVTOPTA7755;哦天哪.;;;;;;;;;;x
-EVTDESC7756;失败了! [From.GetTitledFirstName]用[From.GetHerHis]尖叫吓跑了女仆, 好在她跑的很干净利落, 没人能怀疑到我.;;;;;;;;;;x
+EVTDESC7756;失败了! [From.GetTitledFirstName]用[From.GetHerHis]尖叫吓跑了侍女, 好在她跑的很干净利落, 没人能怀疑到我.;;;;;;;;;;x
 EVTDESC7760;[Root.PlotTarget.GetTitledName]身陷囹圄这个情况可以促成我们的事情. 或许我们能搞定里面的谁把[Root.PlotTarget.GetHerHim]给杀了, 然后造成一个越狱失败的假象...;;;;;;;;;;x
 EVTOPTA7760;我的同谋会找到所需要的人...;;;;;;;;;;x
 EVTOPTB7760;雇佣一个职业杀手;;;;;;;;;;x

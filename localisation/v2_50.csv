@@ -186,13 +186,13 @@ ASSIGN_VOTER_TITLE_INTERACTION_TITLE;任命内阁;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_0;选择一个荣誉头衔授予给§Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_1;把 §Y[ThirdPartyTitle.GetFullName]§!的头衔授予§Y[Recipient.GetTitledFirstName]§!。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点看法。;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_DESC;用一个荣誉头衔来任命一个角色进入议会。;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和议会位置来安抚你的附庸并且让他们不会加入反对你的派系。;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_DESC;用一个荣誉头衔来任命一个角色进入内阁。;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁职位来安抚你的附庸并且让他们不会加入反对你的派系。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\n我希望任命你进入我的内阁，因而提供给你§Y[ThirdPartyTitle.GetFullName]§!的头衔。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;被任命的内阁成员;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!把§Y[Recipient.GetBestName]§! 任命为[ThirdPartyTitle.GetFullName];;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_TITLE;开除内阁成员;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_DESC;把一个角色从你的议会中开除;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_DESC;把一个角色从你的内阁中开除;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过移除一个角色的内阁头衔来把他们从内阁中开出。;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_0;选择收回§Y[Recipient.GetTitledFirstName]§!的一个头衔。;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_1;收回§Y[Recipient.GetTitledFirstName]§!的§Y[ThirdPartyTitle.GetFullName]§!头衔。;;;;;;;;;;x
@@ -319,7 +319,7 @@ SPLIT_LOADED_ARMY;§R不能分离船上的陆军§!;;;;;;;;;;x
 SPLIT_IN_COMBAT;§R不能分离战斗中的单位§!;;;;;;;;;;x
 SPLIT_SEVERAL_SELECTED;§R必须只选择一个单位§!;;;;;;;;;;x
 SPLIT_SINGLE_SUBUNIT; §R无法分离只有一个次级单位的单位§!;;;;;;;;;;x
-ZeusDLC;宫廷议会;;;;;;;;;;x
+ZeusDLC;御前会议;;;;;;;;;;x
 CANNOT_GRANT_TITLE;不能授予头衔 $TITLE|Y$;;;;;;;;;;x
 CAN_GRANT_TITLE; 能够授予头衔 $TITLE|Y$;;;;;;;;;;x
 NOT_HAS_NON_AGGRESSION_PACT_WITH;对$NAME|Y$签订互不不侵犯条约;;;;;;;;;;x
@@ -507,7 +507,7 @@ EVTDESC_ZE_8016;亲爱的[Root.GetTitledName]，\n我希望这个人没有造成
 EVTOPTA_ZE_8016;一切都好;;;;;;;;;;x
 EVTOPTA_ZE_8013_TOOLTIP;撕毁互不侵犯条约;;;;;;;;;;x
 request_council_position_tooltip;发送请求;;;;;;;;;;x
-request_council_position;要求议会位置;;;;;;;;;;x
+request_council_position;要求内阁职位;;;;;;;;;;x
 request_council_position_desc;我可以联系我领主§Y[Root.GetTitledFirstName]§!，要求在内阁中获得位置。这种事情每两年只能做一次。;;;;;;;;;;x
 requested_council_position;被要求的内阁位置;;;;;;;;;;x
 ask_for_land_tooltip;提出要求;;;;;;;;;;x
@@ -550,7 +550,7 @@ EVTOPTA63001B;[From.GetSheHeCap]能够拥有一个附庸，做为帮助。;;;;;;
 EVTDESC_ZE_8110;你的附庸[target_vassal.GetTitledName]正在与[target_vassal.GetHerHis]的[target_vassal.GetHusbandWifeOpp]争吵。[target_vassal.GetSheHeCapOpp]似乎非常沮丧，他们几乎向彼此尖叫。他们没有注意到你正在观察他们。;;;;;;;;;;x
 EVTOPTA_ZE_8110;我应该干预。;;;;;;;;;;x
 EVTOPTB_ZE_8110;这不关你的事。;;;;;;;;;;x
-EVTDESC_ZE_8111;当你走近这对夫妇，你看向他们然后解释[target_vassal.GetFirstName]最近一定有很多的压力来自于议会施加给[target_vassal.GetHerHim]的全部责任。现在那里没有什么可做的，[target_vassal.GetSheHe]将有时间表示对[target_vassal.GetHerHis][target_vassal.GetHusbandWifeOpp]的欣赏。;;;;;;;;;;x
+EVTDESC_ZE_8111;当你走近这对夫妇，你看向他们然后解释[target_vassal.GetFirstName]最近一定有很多的压力来自于内阁施加给[target_vassal.GetHerHim]的全部责任。现在那里没有什么可做的，[target_vassal.GetSheHe]将有时间表示对[target_vassal.GetHerHis][target_vassal.GetHusbandWifeOpp]的欣赏。;;;;;;;;;;x
 EVTOPTA_ZE_8111;离开。;;;;;;;;;;x
 EVTDESC_ZE_8112;我和我的[Root.GetHusbandWifeOpp]因为不重要的事情而激烈争吵，[From.GetTitledName]给我解围，我的婚姻也因此得到拯救。;;;;;;;;;;x
 EVTOPTA_ZE_8112;我欠[From.GetHerHim]一个人情。;;;;;;;;;;x
@@ -664,8 +664,8 @@ VOTE_RESULT_TOGGLE;§G点击切换投票细节窗口§!;;;;;;;;;;x
 VOTE_SWAYED;这名投票人在这个问题上没有特定的观点且会受到其他投票人的外交能力影响;;;;;;;;;;x
 REQUEST_SUPPORT_INTERACTION_DESC;以人情与 [Recipient.GetBestName] 做交易换取支持.;;;;;;;;;;x
 REQUEST_SUPPORT_INTERACTION_0; 如果 §Y[Recipient.GetBestName]§! 接受你的请求，[Recipient.GetSubjectPronoun] 将在内阁投票中与你一致$MONTHS|Y$ 个月，且你将欠[Recipient.GetObjectPronoun] 一个人情.;;;;;;;;;;x
-REQUEST_SUPPORT_INTERACTION_LETTER; \n\n请支持我在议会投票中与我一致. 如果你同意为我这么做, 我从此欠你一个人情.;;;;;;;;;;x
-EVTDESC522;我会在议会支持你.;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_LETTER; \n\n请支持我在内阁投票中与我一致。如果你同意为我这么做，我从此欠你一个人情。;;;;;;;;;;x
+EVTDESC522;我会在内阁支持你。;;;;;;;;;;x
 EVTOPTA522;太好了;;;;;;;;;;x
-EVTDESC523;对不起，我不能在议会中支持你.;;;;;;;;;;x
+EVTDESC523;对不起，我不能在内阁中支持你。;;;;;;;;;;x
 EVTOPTA523;不好;;;;;;;;;;x

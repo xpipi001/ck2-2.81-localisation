@@ -26,7 +26,7 @@ ze_administration_laws_2_option;帝国;;;;;;;;;;x
 ze_administration_laws_2_desc;这种政治体制类似于罗马帝国时期的体制，是由不同等级的官吏体系以皇帝的名义对国家日常事物进行处理，这种体制通过削弱地方附庸的圈里来使得政权稳固。;;;;;;;;;;x
 SUPPLY_LIMIT_TOOLTIP;补给限制：$VALUE|Y$;;;;;;;;;;x
 MAKE_GREY;$TEXT|g$;;;;;;;;;;x
-Zeus;御前议会;;;;;;;;;;x
+Zeus;御前会议;;;;;;;;;;x
 EVTOPTC_SOA_4032;与[FromFrom.GetObjectPronoun]进行神学辩论;;;;;;;;;;x
 EVTDESC_WOL_55_FF_MARRIED;就在几天前 - 我如常地潜伏了起来 - 我把[FromFrom.GetTitledName]和我的[GetFromRelation] [From.GetFirstName]抓个现行！他们并没有注意到我，但我依然感到非常震惊！[Root.Religion.GetRandomGodName]在上，[FromFrom.GetSubjectPronounCap]可是一位已婚的[FromFrom.GetManWoman]！;;;;;;;;;;x
 maintaining_mercenary_band_2;维持佣兵团2;;;;;;;;;;x
