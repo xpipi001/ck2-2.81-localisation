@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 EVTOPTC72056;一些小钱将让仆人们闭嘴.;;;;;;;;;;x
 VASSAL_RAISE_OPINION_DESC;在非十字军进攻性战争中每使用封臣征召部队§Y$DAYS$§!天,封臣对你的好感§R-1§!;;;;;;;;;;x
 WAR_START_YEAR;开战年份: $YEAR$;;;;;;;;;;x
@@ -85,7 +85,7 @@ opinion_converted_province;成功令省份皈依;;;;;;;;;;x
 EVTDESC3336;[From.GetTitledFirstName]认为太多的冒险行为危及到了我的人身安全,并劝说我不要再做那种事以远离危险.;;;;;;;;;;x
 EVTNAME60010;伊尔汗国改信;;;;;;;;;;x
 EVTOPTA60010;时候到了!;;;;;;;;;;x
-EVTOPTB60010;安拉保佑!;;;;;;;;;;x
+EVTOPTB60010;真主保佑!;;;;;;;;;;x
 EVTOPTC60010;上帝保佑!;;;;;;;;;;x
 EVTOPTD60010;愿主拯救我们!;;;;;;;;;;x
 EVTNAME60020;金帐汗国改信;;;;;;;;;;x

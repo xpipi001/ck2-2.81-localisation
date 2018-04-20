@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 FACTION_LEADER;派系领导人;;;;;;;;;;x
 FACTION_MEMBER;派系成员;;;;;;;;;;x
 opinion_defeated_major_revolt;粉碎重要反叛;;;;;;;;;;x
@@ -47,7 +47,7 @@ EVTDESC8037;伟大的 [Root.GetTitledFirstName]!我和一堆忠诚的士兵已�
 EVTOPTA8037;这可能会很难看...;;;;;;;;;;x
 EVTDESC20369;我的领主, [FromFrom.GetTitledName] 决定不冒险刺激他的封臣 并且承认腐败的指控. 这可能需要花费一点时间来让 [FromFrom.GetHerHis] 恢复声望 ，我很好的收集了相关信息.\n\n你谦卑的间谍总管,\n[From.GetTitledName];;;;;;;;;;x
 EVTTOOLTIP2484;这个孩子需要一个监护者.;;;;;;;;;;x
-EVTOPTD4140;我们确是安拉所掌握的，我们将必归於他;;;;;;;;;;x
+EVTOPTD4140;我们确是真主所掌握的，我们将必归於他;;;;;;;;;;x
 blinded_death;失明引起的并发症;;;;;;;;;;x
 successful_sally;防御部队得到§G10.0%§!士气.\n 防御部队受到§R2.5%§!损失.\n§G敌人:§! 进攻部队受到§R5.0%§!损失.;;;;;;;;;;x
 successful_sally_attacker;进攻部队受到§R5.0%§!损失.\n§G敌人:§! 防御部队得到 §G10.0%§!士气.\n防御部队受到§R2.5%§!损失.;;;;;;;;;;x

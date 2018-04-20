@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 d_nubia;马库里亚;;;;;;;;;;x
 d_nubia_adj;马库里亚;;;;;;;;;;x
 LIEGEPIETY_HEADER;领主之[Player.Religion.GetPietyName];;;;;;;;;;x
@@ -54,7 +54,7 @@ norse_pagan_succ_desc_8;在华海拉英烈祠飨宴。;;;;;;;;;;x
 norse_pagan_reformed_succ_desc_8;在华海拉英烈祠飨宴。;;;;;;;;;;x
 muslim_succ_desc_1;正在极乐园享用白葡萄干。;;;;;;;;;;x
 muslim_succ_desc_2;骑着天园的白骆驼。;;;;;;;;;;x
-muslim_succ_desc_3;被阿拉召唤去了。;;;;;;;;;;x
+muslim_succ_desc_3;被真主召唤去了。;;;;;;;;;;x
 muslim_succ_desc_4;为通往天园铺平道路。;;;;;;;;;;x
 muslim_succ_desc_8;与众天园美女共处;;;;;;;;;;x
 west_african_pagan_succ_desc_1;去追随列祖列宗的英灵。;;;;;;;;;;x

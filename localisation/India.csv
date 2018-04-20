@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 PROV1013;洛里;;;;;;;;;;x
 PROV1112;摩菟来;;;;;;;;;;x
 PROV1113;查盖;;;;;;;;;;x
@@ -232,7 +232,7 @@ PROV1343;马萨瓦;;;;;;;;;;x
 PROV1344;泽拉;;;;;;;;;;x
 PROV1345;密陀波多;;;;;;;;;;x
 PROV1346;阿阇耶弥卢;;;;;;;;;;x
-PROV1348;缅甸;;;;;;;;;;x
+PROV1348;若开山脉;;;;;;;;;;x
 PROV1349;毗迦罗摩补罗;;;;;;;;;;x
 PROV1350;梨尼;;;;;;;;;;x
 PROV1352;娑罗室伐底;;;;;;;;;;x
@@ -538,7 +538,7 @@ b_ghazna;伽色尼;;;;;;;;;;x
 c_bost_adj;博斯特;;;;;;;;;;x
 b_bost;博斯特;;;;;;;;;;x
 b_kandahar;坎大哈;;;;;;;;;;x
-b_zamindawar;扎明德瓦;;;;;;;;;;x
+b_zamindawar;扎民达瓦;;;;;;;;;;x
 c_zaranj_adj;扎兰季;;;;;;;;;;x
 b_zaranj;扎兰季;;;;;;;;;;x
 b_zahak;扎哈克;;;;;;;;;;x
@@ -2463,7 +2463,7 @@ b_pathankot;帕坦科特;;;;;;;;;;x
 b_kaparthula;卡补罗塔拉;;;;;;;;;;x
 b_milwat;密瓦特;;;;;;;;;;x
 b_sarwmanpur;撒曼补罗;;;;;;;;;;x
-b_kangra;坎格拉;;;;;;;;;;x
+b_kangra;甘格;;;;;;;;;;x
 c_gurjaratra;瞿折罗多罗;;;;;;;;;;x
 c_gurjaratra_adj;瞿折罗多罗;;;;;;;;;;x
 b_gurjaratra;瞿折罗多罗;;;;;;;;;;x

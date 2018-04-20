@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 nick_the_inquisitor;审判者;;;;;;;;;;x
 nick_the_purifier;净化者;;;;;;;;;;x
 String_man_at_arm;重骑兵;;;;;;;;;;x
@@ -97,7 +97,7 @@ HAVE_NOT_RELIGION_CHARACTER;并非公开信仰$RELIGION|Y$宗教;;;;;;;;;;x
 HAVE_RELIGION_CHARACTER;公开皈依$RELIGION|Y$信仰;;;;;;;;;;x
 RELIGION_CHANGE_SECRET;$WHERE|Y$开始秘密信仰$NAME|Y$宗教。\n;;;;;;;;;;x
 secret_religious_society_cathar_rank_1_female;忠实;;;;;;;;;;x
-secret_religious_society_cathar_rank_2_female;信徒;;;;;;;;;;x
+secret_religious_society_cathar_rank_2_female;追随者;;;;;;;;;;x
 secret_religious_society_cathar_rank_3_female;传教士;;;;;;;;;;x
 secret_religious_society_cathar_rank_4_female;先驱者;;;;;;;;;;x
 secret_religious_society_cathar_rank_1_male;效忠者;;;;;;;;;;x
@@ -365,20 +365,20 @@ secret_religious_society_monophysite;基督一性论的忠诚;;;;;;;;;;x
 secret_religious_society_monophysite_desc;将他们自己看作追寻以基督之名建造教堂的那些基督先贤脚步的人，并且不准备放弃自己的信仰。甚至当外部压力强迫他们说了违心的话语，他们也将做好自己的本职，建立自己的教会与信仰，坚信那是上帝的旨意！;;;;;;;;;;x
 secret_religious_society_nestorian;景教的忠诚;;;;;;;;;;x
 secret_religious_society_nestorian_desc;将他们自己看作追寻以基督之名建造教堂的那些基督先贤脚步的人，并且不准备放弃自己的信仰。甚至当外部压力强迫他们说了违心的话语，他们也将做好自己的本职，建立自己的教会与信仰，坚信那是上帝的旨意！;;;;;;;;;;x
-secret_religious_society_messalian;穆斯林的忠诚;;;;;;;;;;x
+secret_religious_society_messalian;虔诚祷告派信徒;;;;;;;;;;x
 secret_religious_society_messalian_desc;祷告派是一个基督教派别。他们相信完美只有通过认识上帝才能达到完美，正如他将自己感官自身一样。为了带来这样的启示，唯一的道路就是祷告。教会，洗礼或任何其他圣礼都不能将灵魂的欲望驱离灵魂而上帝产生共鸣。;;;;;;;;;;x
-secret_religious_society_zikri;虔诚的齐克里教徒;;;;;;;;;;x
-secret_religious_society_zikri_desc;泽克瑞兹教徒遵循《古兰经》的教导，坚信那是默罕默德对安拉的转述。他们宣称默罕默德是安拉选中的第一位先知阿訇。;;;;;;;;;;x
+secret_religious_society_zikri;虔诚的诵经派教徒;;;;;;;;;;x
+secret_religious_society_zikri_desc;泽克瑞兹教徒遵循古兰经的教导，坚信那是穆罕默德对真主的转述。他们宣称穆罕默德是真主选中的第一位先知阿訇。;;;;;;;;;;x
 secret_religious_society_yazidi;天使之子;;;;;;;;;;x
 secret_religious_society_yazidi_desc;雅兹迪的教徒相信至高无上的神创造了世界然后谨慎的安排7个天使管理。第一个天使是统治者孔雀天使矛盾的梅勒克，以善恶来管理他的子民。;;;;;;;;;;x
 secret_religious_society_druze;睿智的人;;;;;;;;;;x
 secret_religious_society_druze_desc;德鲁兹派教徒遵循智慧书信的教导，其中包括《旧约》，《古兰经》和柏拉图的哲学着作。虔诚的人相信上帝是整个存在，无限和无所不在。为了与宇宙思想联合并达到终极的幸福，德鲁兹派教徒必须经历许多连续的轮回。;;;;;;;;;;x
 secret_religious_society_hurufi;虔诚的赫茹菲派教徒;;;;;;;;;;x
-secret_religious_society_hurufi_desc;赫茹菲教徒遵循《古兰经》的教导，那是默罕默德对安拉转述。他们宣称默罕默德是被安拉选中的第一个充当先知的阿訇。他们传播他们的信念，即安拉通过穆罕默德选择阿里作为他的继承人，并因此成为伊斯兰教的第一个哈里发。他们坚持这是安拉的意志。;;;;;;;;;;x
+secret_religious_society_hurufi_desc;赫茹菲教徒遵循古兰经的教导，那是穆罕默德对真主转述。他们宣称穆罕默德是被真主选中的第一个充当先知的阿訇。他们传播他们的信念，即真主通过穆罕默德选择阿里作为他的继承人，并因此成为伊斯兰教的第一个哈里发。他们坚持这是真主的意志。;;;;;;;;;;x
 secret_religious_society_ibadi;虔诚的伊巴迪派教徒;;;;;;;;;;x
 secret_religious_society_ibadi_desc;伊巴迪派的信仰据说早于伊斯兰教逊尼派和什叶派。这些后来的分支和正统的伊巴迪派之间有一些教义上的分歧，如，伊巴底派不相信所有的穆斯林集体都需要一个领袖。但无论如何，他们对真主的狂热信仰是一样的。;;;;;;;;;;x
 secret_religious_society_kharijite;交换者;;;;;;;;;;x
-secret_religious_society_kharijite_desc;哈瓦利吉派追随《古兰经》的教导，那些据说是穆罕默德在神启下口述的经文。不像其他的穆斯林团体一样，哈瓦利吉派认为任何一个正义且虔诚的穆斯林都可以担任哈里发，而他们的职责就是与一切背离伊斯兰的统治者作斗争。哈瓦利吉派认为能够为安拉殉教是无比的荣耀。;;;;;;;;;;x
+secret_religious_society_kharijite_desc;哈瓦利吉派追随古兰经的教导，那些据说是穆罕默德在神启下口述的经文。不像其他的穆斯林团体一样，哈瓦利吉派认为任何一个正义且虔诚的穆斯林都可以担任哈里发，而他们的职责就是与一切背离伊斯兰的统治者作斗争。哈瓦利吉派认为能够为真主殉教是无比的荣耀。;;;;;;;;;;x
 secret_religious_society_samaritan;以色列子民;;;;;;;;;;x
 secret_religious_society_samaritan_desc;撒马利坦会认为，他们追随以色列人的真正信仰，就像巴比伦人被囚禁前一样。类似于犹太教，但他们有他们自己的版本的圣经和祈祷。在基利心山，他们认为这是一个真正的圣殿，是神所拣选的。;;;;;;;;;;x
 secret_religious_society_karaite;阅读者;;;;;;;;;;x
@@ -412,8 +412,8 @@ String_Paulician;保禄派 ;;;;;;;;;;x
 String_Miaphysite;科普特;;;;;;;;;;x
 String_Monophysite;基督一性论派;;;;;;;;;;x
 String_Nestorian;聂斯脱里派;;;;;;;;;;x
-String_Messalian;门萨里安派;;;;;;;;;;x
-String_Zikri;兹克黎派;;;;;;;;;;x
+String_Messalian;祷告派;;;;;;;;;;x
+String_Zikri;诵经派;;;;;;;;;;x
 String_Yazidi;雅兹迪派;;;;;;;;;;x
 String_Druze;德鲁兹派;;;;;;;;;;x
 String_Hurufi;胡儒非派;;;;;;;;;;x
@@ -621,16 +621,16 @@ secret_paulician_community;秘密的保罗派社区;;;;;;;;;;x
 secret_paulician_community_desc;保罗派的忠实信徒们围绕这个地方将一个小型教会社区秘密的组织起来。在那里传播信仰，发展壮大并保护他们自身。;;;;;;;;;;x
 secret_nestorian_community;秘密景教社团;;;;;;;;;;x
 secret_nestorian_community_desc;聂斯脱利派的教徒在这个地方秘密的组织一个小的宗教社区，通过它来传播信仰，发展壮大并保护他们自己。;;;;;;;;;;x
-secret_messalian_community;秘密的门萨里安派社团;;;;;;;;;;x
-secret_messalian_community_desc;门萨里安派的教徒秘密的在这个地方组织起小的宗教社区来转播自身的信仰。发展壮大并保护他们自己。;;;;;;;;;;x
-secret_zikri_community;秘密兹克黎派社团;;;;;;;;;;x
-secret_zikri_community_desc;兹克黎派的教徒秘密的在这个地方组织起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自身。;;;;;;;;;;x
+secret_messalian_community;秘密的祷告派社团;;;;;;;;;;x
+secret_messalian_community_desc;祷告派的教徒秘密的在这个地方组织起小的宗教社区来转播自身的信仰。发展壮大并保护他们自己。;;;;;;;;;;x
+secret_zikri_community;秘密诵经派社团;;;;;;;;;;x
+secret_zikri_community_desc;诵经派的教徒秘密的在这个地方组织起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自身。;;;;;;;;;;x
 secret_yazidi_community;秘密的雅兹迪派社团;;;;;;;;;;x
 secret_yazidi_community_desc;雅兹迪派的教徒秘密的在这个地方组织起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自身。;;;;;;;;;;x
 secret_ibadi_community;秘密伊巴迪派社团;;;;;;;;;;x
 secret_ibadi_community_desc;伊巴迪派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们的信仰，发展壮大并保护他们自己。;;;;;;;;;;x
-secret_kharijite_community;秘密的哈瓦利及派社团;;;;;;;;;;x
-secret_kharijite_community_desc;哈瓦利及派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
+secret_kharijite_community;秘密的卡菲勒派社团;;;;;;;;;;x
+secret_kharijite_community_desc;卡菲勒派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_druze_community;德鲁兹派秘密社团;;;;;;;;;;x
 secret_druze_community_desc;德鲁兹派的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自身的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_hurufi_community;秘密的胡儒非派社团;;;;;;;;;;x
@@ -657,8 +657,8 @@ secret_samaritan_community;秘密撒马利亚派社团;;;;;;;;;;x
 secret_samaritan_community_desc;撒马利亚派的教徒秘密的在这个地方建立起一个小的宗教社团来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 secret_karaite_community;暗中信仰圣经派团体;;;;;;;;;;x
 secret_karaite_community_desc;圣经派的教徒秘密的在这个地方建立起一个小的宗教社团来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
-secret_mazdaki_community;马兹达克秘密社团;;;;;;;;;;x
-secret_mazdaki_community_desc;秘密地, 马兹达克派的忠实人士在这个省的一个小教会社区附近组织起来了。再那里传教, 成长和保护他们自己。;;;;;;;;;;x
+secret_mazdaki_community;马兹达教秘密社团;;;;;;;;;;x
+secret_mazdaki_community_desc;秘密地, 马兹达教的忠实人士在这个省的一个小教会社区附近组织起来了。再那里传教, 成长和保护他们自己。;;;;;;;;;;x
 secret_manichean_community;秘密的摩尼教社团;;;;;;;;;;x
 secret_manichean_community_desc;摩尼教的教徒秘密的在这个地方建立起一个小的宗教社区来传播他们自己的信仰并发展壮大以及保护他们自身。;;;;;;;;;;x
 religion_openly_norse_or_reformed_tooltip;公然追随 §YGermanic§!信仰;;;;;;;;;;x

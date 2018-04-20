@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 AIREASON_CAN_PAY_OWN_RANSOM;§Y[GetTitledFirstName]§! 可以负担 [GetHerHis] 自己的赎金;;;;;;;;;;x
 AIREASON_MARRIAGE_DOES_NOT_MATCH_BETROTHAL;婚姻类型与订婚不符;;;;;;;;;;x
 appointment;任命制;;;;;;;;;;x
@@ -111,7 +111,7 @@ EVTDESC39662;罗马，圣彼得的城市，教宗的圣座，被异教徒占领�
 EVTDESC39663;西方基督教的腹地被异教徒攻陷了！绝望的基督教领主们说服了宗座[Root.GetTitledName]在神的名义下联合基督教领主们，用强大的力量驱逐异教徒。大规模的基督教圣战开始了——十字军。;;;;;;;;;;x
 EVTNAME39670;新的杰哈德;;;;;;;;;;x
 EVTDESC39670;伟大的陛下[Root.GetTitledName]已经被[Root.Religion.GetPriestTitle]们说服，现在正是时候宣布穆斯林们新的征服。如同正统哈里发时期那样，伊斯兰世界必须再一次的扩张。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
-EVTOPTA39670;安啦胡阿克巴！;;;;;;;;;;x
+EVTOPTA39670;真主至大！;;;;;;;;;;x
 EVTOPTB39670;真让人烦心。;;;;;;;;;;x
 EVTDESC39671;圣城耶路撒冷，先知夜行登霄之处，已经被异教徒攻陷！伟大的陛下[Root.GetTitledName]绝不会坐视不管！他宣布穆斯林将会像正统哈里发时期一样，再一次开始伟大的征服，守护伊斯兰世界！所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
 EVTDESC39672;难以置信！圣城麦加居然被异教徒攻陷！天房如今正收到异教徒的玷污。伟大的陛下[Root.GetTitledName]宣布全新的杰哈德将要开始，必须不惜一切代价夺回圣城。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
@@ -189,7 +189,7 @@ borrow_money_knights_templar;向圣殿骑士团借 300¤;;;;;;;;;;x
 borrow_money_knights_templar_desc;我可以向圣殿骑士团借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，大团长就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
 borrowed_from_knights_templar;欠圣殿骑士团 300¤;;;;;;;;;;x
 borrow_money_assassins;向哈萨辛借款 300¤;;;;;;;;;;x
-borrow_money_assassins_desc;我可以向哈萨辛借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，大团长就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
+borrow_money_assassins_desc;我可以向哈萨辛借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，长老就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
 borrowed_from_assassins;欠哈萨辛 300¤;;;;;;;;;;x
 borrow_money_bektashi;向拜克塔什教团借 300¤;;;;;;;;;;x
 borrow_money_bektashi_desc;我可以向拜克塔什教团借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，大团长就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
@@ -244,7 +244,7 @@ EVTDESC_SOA_1141;陛下，我们不会忘记您十分慷慨的捐赠。我和教
 EVTDESC_SOA_1153;最正直的[Root.GetTitledFirstName]，骑士团需要更多的城堡来训练部队兵维持开销。我注意到，在您的直辖领地中，[FromFrom.GetName]是一个非常适合地方。我愿意出100金币换取您对我们在此地建筑要塞的许可。\n愿基督保佑您，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTOPTB_SOA_1153;不行，那里是我的地盘;;;;;;;;;;x
 EVTDESC_SOA_1154;医院骑士团在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
-EVTDESC_SOA_1203;祝您平安，伟大的[Root.GetTitledFirstName]。如您所知，我们教团缺少将领。考虑到您欠有我们的债务，我请求您能让您高贵能干的儿子[FromFrom.GetFirstName]加入我们的军团。通常这会让他失去继承权。愿安拉与您同在，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
+EVTDESC_SOA_1203;祝您平安，伟大的[Root.GetTitledFirstName]。如您所知，我们教团缺少将领。考虑到您欠有我们的债务，我请求您能让您高贵能干的儿子[FromFrom.GetFirstName]加入我们的军团。通常这会让他失去继承权。愿真主与您同在，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTTITLE_SOA_1209;拜什塔克教团;;;;;;;;;;x
 EVTOPTA_SOA_1209;他们或许有用……;;;;;;;;;;x
 EVTOPTB_SOA_1209;神秘的战士？呸！;;;;;;;;;;x
@@ -265,7 +265,7 @@ EVTDESC_SOA_1424;尼扎里伊斯玛仪派的哈萨辛在[Root.GetName]建起了�
 EVTDESC_SOA_1431;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入哈萨辛，与异教徒作战。这会让他失去继承权，而王朝也不会再受到来自他的腐化的影响。;;;;;;;;;;x
 EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]加入了哈萨辛。;;;;;;;;;;x
 EVTDESC_SOA_1454;哈萨辛在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
-EVTDESC_SOA_1461;伟大的[Root.PrimaryTitle.GetRulerTitle]，您对我们的敌意是武断的！教团侍奉安拉，而您却对此有所怀疑是吗？\n\n怒火中烧的，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
+EVTDESC_SOA_1461;伟大的[Root.PrimaryTitle.GetRulerTitle]，您对我们的敌意是武断的！教团侍奉真主，而您却对此有所怀疑是吗？\n\n怒火中烧的，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTDESC_SOA_1531;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入令人闻风丧胆的约姆斯维京人，和他们一同冒险。即使这样做会让他失去继承权。;;;;;;;;;;x
 EVTTOOLTIP_SOA_1532;[This.GetTitledFirstName]成为了约姆斯维京人的一员。;;;;;;;;;;x
 EVTDESC_SOA_1541;伟大的[Root.PrimaryTitle.GetRulerTitle]，您慷慨的捐赠极大的帮助了我们为上古之神的荣耀而战的事业！您是我永远的朋友，神明们和祭司们也会与您为友。愿神明垂青您。\n为了众神之父！\n\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
@@ -844,14 +844,14 @@ EVTOPTA_SoA_301;文化有什么用?;;;;;;;;;;x
 EVTDESC_SoA_302;看来犹太人在王国的军队中发挥着比预料中更大的作用。自从颁布了犹太人驱逐法令，军队多个重要管理职务空缺，怎么也找不到可以胜任的人代替。;;;;;;;;;;x
 EVTOPTA_SoA_302;我非得事必躬亲吗?;;;;;;;;;;x
 mutazilite;木塔兹拉教派;;;;;;;;;;x
-mutazilite_desc;此人属于逊尼派木塔兹拉教派，他们推崇理智、理性和自由意志。;;;;;;;;;;x
+mutazilite_desc;此人属于逊尼派穆尔太齐勒教派，他们推崇理智、理性和自由意志。;;;;;;;;;;x
 ashari;艾什尔里;;;;;;;;;;x
 ashari_desc; 此人属于逊尼派艾什尔里教派，他们因袭传统，注重天启说和偶因论。;;;;;;;;;;x
 EVTTOOLTIP_SoA_600; 你皈依了木塔兹拉教派。;;;;;;;;;;x
-EVTDESC_SoA_600; 木塔兹拉教派认为古兰经并非一成不变而是可以被创造的，同时允许对安拉的诫令进行理性思考甚至质疑。受此教派影响，境内有教养的学者们在科学追求方面更有创造力了。;;;;;;;;;;x
+EVTDESC_SoA_600; 木塔兹拉教派认为古兰经并非一成不变而是可以被创造的，同时允许对真主的诫令进行理性思考甚至质疑。受此教派影响，境内有教养的学者们在科学追求方面更有创造力了。;;;;;;;;;;x
 EVTOPTA_SoA_600;此为正道。;;;;;;;;;;x
 EVTTOOLTIP_SoA_601; 你皈依了艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_601; 木塔兹拉教派认为古兰经是精确而永恒的，安拉的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
+EVTDESC_SoA_601; 木塔兹拉教派认为古兰经是精确而永恒的，真主的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
 embrace_mutazila; 皈依木塔兹拉教派;;;;;;;;;;x
 embrace_mutazila_desc;你皈依了木塔兹拉——逊尼派的一支,主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
 embrace_ashari; 皈依艾什尔里教派;;;;;;;;;;x
@@ -861,27 +861,27 @@ EVTDESC_SoA_603;[From.GetTitledFirstName]是木塔兹拉派的追随者，与你
 EVTOPTA_SoA_603;是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_603;不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_604;你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_604;我注意到你追随异端木塔兹拉教派，他们的教义和观点亵渎了安拉和先知(愿宁静与他们同在)的教导。我迫切要求你改奉艾什尔里派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_604;我注意到你追随异端木塔兹拉教派，他们的教义和观点亵渎了真主和先知(愿宁静与他们同在)的教导。我迫切要求你改奉艾什尔里派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
 EVTOPTA_SoA_604;是的，可能这样才最好…;;;;;;;;;;x
 EVTOPTB_SoA_604;绝不！;;;;;;;;;;x
 EVTTOOLTIP_SoA_605;你回信郑重表示皈依艾什尔里教派。;;;;;;;;;;x
 EVTDESC_SoA_605;一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃木塔兹拉派的教义而改奉艾什尔里派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_605;明智之举。;;;;;;;;;;x
 EVTTOOLTIP_SoA_606;你回信表示拒绝改信艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_606;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知(愿真主福安之)的事。我不打算改信异端——艾什尔里教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_606;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与真主及先知(愿真主福安之)的事。我不打算改信异端——艾什尔里教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_606;放肆…！;;;;;;;;;;x
 EVTDESC_SoA_611;[From.GetTitledFirstName]是艾什尔里教派的追随者。与你信奉的木塔兹拉教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
 EVTOPTA_SoA_611; 是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_611; 不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_612; 你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_612; 我注意到你追随异端艾什尔里教派，他们的教义和观点亵渎了安拉和先知(愿真主福安之)的教导。我迫切要求你改奉木塔兹拉派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_612; 我注意到你追随异端艾什尔里教派，他们的教义和观点亵渎了真主和先知(愿真主福安之)的教导。我迫切要求你改奉木塔兹拉派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
 EVTOPTA_SoA_612; 是的，可能这样最好…;;;;;;;;;;x
 EVTOPTB_SoA_612; 绝不！;;;;;;;;;;x
 EVTTOOLTIP_SoA_613; 你回信郑重表示皈依木塔兹拉教派。;;;;;;;;;;x
 EVTDESC_SoA_613; 一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃艾什尔里派的教义而改奉木塔兹拉派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_613;明智之举。;;;;;;;;;;x
 EVTTOOLTIP_SoA_614; 你回信表示拒绝改信木塔兹拉教派。;;;;;;;;;;x
-EVTDESC_SoA_614; 您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知(愿真主福安之)的事。我不打算改信异端——木塔兹拉教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_614; 您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与真主及先知(愿真主福安之)的事。我不打算改信异端——木塔兹拉教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_614;无礼之徒...!;;;;;;;;;;x
 EVTDESC_SoA_620;由于愤世嫉俗，你开始质疑艾什尔里教派的一些基本教义。你对敌对教派木塔兹拉 的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
 EVTOPTA_SoA_620;或许我已经误入歧途…;;;;;;;;;;x
@@ -1106,7 +1106,7 @@ EVTOPTA_SoA_5307;我确信法官审慎行使了职责。;;;;;;;;;;x
 EVTDESC_SoA_5312;到处都谣传，[From.GetTitledFirstName]腐化的生活作风与普通牧师的身份都不相称，更别提他自己的尊贵地位。;;;;;;;;;;x
 EVTOPTA_SoA_5312;让我们祈祷他的灵魂不朽。;;;;;;;;;;x
 EVTDESC_SoA_5314; 到处都谣传，[From.GetTitledFirstName]生活腐化，不配做所有真正穆斯林的精神领袖。;;;;;;;;;;x
-EVTOPTA_SoA_5314;像他这样，必然失去安拉的荣宠。Like this, he will lose Allah's blessing.;;;;;;;;;;x
+EVTOPTA_SoA_5314;像他这样，必然失去真主的荣宠。Like this, he will lose Allah's blessing.;;;;;;;;;;x
 EVTDESC_SoA_5316; 到处都谣传，[From.GetTitledFirstName]的品德和生活方式让人担忧，连个教士身份都配不上，更别提他自己的尊贵地位。;;;;;;;;;;x
 EVTOPTA_SoA_5316;主会不高兴的。;;;;;;;;;;x
 EVTDESC_SoA_5318;到处都谣传，[From.GetTitledFirstName]的品德和生活方式让人担忧，连个萨满身份都配不上，更别提他自己的尊贵地位。;;;;;;;;;;x
@@ -1224,7 +1224,7 @@ COMBATVIEW_PHASE_DESC_NARROW;侧翼指挥官设法找到有利地形、使得战
 NARROW_FLANK_BOTTLENECK;由于我军侧翼薄弱，除非有$MAX_TROOPS$，否则将腹面受敌。;;;;;;;;;;x
 EVTOPTE4140;你将永不被忘记;;;;;;;;;;x
 stop_backing_ambition;被搁置的密谋;;;;;;;;;;x
-succ_gavelkind_desc;领主的头衔将分配及众子, 主头衔则由长子继承。如果领主没有能继承家业的子女, 则会循长子继承法传承。采取本法时，众子即使没有土地，也不会影响你的声望，而且你的直辖领地上限能够多§Y30%§!。均分继承法广受认同, 只有长子会感到不快。均分继承法之下，你不能销毁头衔。;;;;;;;;;;x
+succ_gavelkind_desc;领主的头衔将分配及众子, 主头衔则由长子继承。如果领主没有能继承家业的子女, 则会循长子继承法传承。采取本法时，众子即使没有土地，也不会影响你的声望，而且你的直辖领地上限能够多§Y30%§!。均分继承法广受认同, 只有长子会感到不快。均分继承法之下，你不能收回头衔。;;;;;;;;;;x
 SELECT_VASSAL_TO_TRANSFER;选择要转移的附庸;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_7;§Y[Recipient.GetTitledFirstName]§!是如此的微不足道，没有人会在乎。;;;;;;;;;;x
 FE_CONTENT;内容;;;;;;;;;;x

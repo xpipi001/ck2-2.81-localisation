@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 EVTNAME62951;朗纳尔的诅咒;;;;;;;;;;x
 EVTDESC62951;懦弱的埃拉国王跪在我面前的泥滩里,他不敢看我的眼睛.我的战士们为了好好"招待"他,想出了各种别出心裁的刑罚.我让大家安静下来,顿时四周一片肃穆,但众人的心情都如同在风中鼓动的金乌旗帜一般渴求终结这个大难临头的家伙的性命.现在是为我死去的父亲,郎纳尔复仇的时刻了...;;;;;;;;;;x
 EVTOPTA62951;把这家伙做成血鹰!;;;;;;;;;;x
@@ -15,7 +15,7 @@ opinion_infidel_tribal_liege;异教徒;;;;;;;;;;x
 opinion_heretic_tribal_liege;异端;;;;;;;;;;x
 opinion_related_religion_tribal_liege;宗教差异;;;;;;;;;;x
 AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT;将会消耗我过多的威望;;;;;;;;;;x
-opinion_granted_other_vice_royalty;封建主对任命总督一事的看法;;;;;;;;;;x
+opinion_granted_other_vice_royalty;封建领主对任命总督一事的看法;;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_8;任命总督会降低你所有封建公爵或以上封臣对你的看法：§R$OPINION$§!。;;;;;;;;;;x
 NOT_ANY_PREVIOUS_HOLDER_STARTS;并无前任;;;;;;;;;;x
 tribal_build_zeal_ARMY_OF;$RELIGION$ 狂热者 $CHARACTER$;;;;;;;;;;x

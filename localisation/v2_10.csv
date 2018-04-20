@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 CAN_ONLY_JOIN_X_FACTIONS;§R只能够加入 §Y$NUM$§! 派系!§!;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_ACTOR_TEMPORARY_TITLE;§Y[Actor.GetTitledFirstName]§! 当前不得持有临时头衔;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_RECIPIENT_TEMPORARY_TITLE;§Y[Recipient.GetTitledFirstName]§! 当前不得持有临时头衔;;;;;;;;;;x
@@ -71,7 +71,7 @@ afghan;阿富汗人;;;;;;;;;;x
 baloch;俾路支人;;;;;;;;;;x
 indo_aryan_group;印度雅利安文化;;;;;;;;;;x
 dravidian_group;达罗毗荼文化;;;;;;;;;;x
-indian;印度人;;;;;;;;;;x
+indian;天竺人;;;;;;;;;;x
 bengali;旁伽罗人;;;;;;;;;;x
 hindustani;天竺人;;;;;;;;;;x
 sindhi;信度人;;;;;;;;;;x

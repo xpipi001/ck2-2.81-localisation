@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 INTERACTION_RELIGION_MUST_MARRY_REGULARLY;$RELIGION$ 该角色不能入赘婚姻;;;;;;;;;;x
 INTERACTION_CANNOT_GRANT_CAPITAL_IF_MOVED;迁都后不能送出首都伯爵领;;;;;;;;;;x
 INTERACTION_REVOKE_BEFORE_DATE;不能在§Y$DATE$§!前收回该头衔！;;;;;;;;;;x
@@ -42,7 +42,7 @@ TITLE_CANNOT_USURP_COUNTIES;无可能篡夺伯爵级的封号!;;;;;;;;;;x
 EVTOPTC65155;我成为了什么 ？不要告诉我.;;;;;;;;;;x
 EVTDESC_SoA_561;王国受益于 [From.GetTitledName], 你 犹太人  [Root.GetChancellorName], 已在王国外建立的庞大交流网络. 不知何故 [From.GetSheHe] 总能适应新风俗以及新的外交形式.;;;;;;;;;;x
 EVTOPTA_SoA_561;做得好.;;;;;;;;;;x
-EVTDESC_SoA_563;[From.GetTitledName]，你 [Root.GetTreasurerName]，和拉特纳犹太人有一些关系。犹太商人的商业网延伸到整个已知世界，由西欧到遥远的中国，这些网络极大的发展了国家的经济。;;;;;;;;;;x
+EVTDESC_SoA_563;[From.GetTitledName]，你的 [Root.GetTreasurerName]，和拉特纳犹太人有一些关系。犹太商人的商业网延伸到整个已知世界，由西欧到遥远的中国，这些网络极大的发展了国家的经济。;;;;;;;;;;x
 EVTDESC_SoA_565;你 [Root.GetSpymasterName], [From.GetTitledName],似乎在在欧洲的每个犹太小区中都有朋友和关系. 传信使者到达 [From.GetHerHis] 逗留一日为限, 经常带来由外国传入关于新武器和技术的重要知识.;;;;;;;;;;x
 LOADING_TIP_53;犹太裔的内阁成员有时有利于发明新科技;;;;;;;;;;x
 AIREASON_EXISTING_BETROTHAL;订婚是荣耀的;;;;;;;;;;x

@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 LEDGER_SORT_DELAYED;§G点击后按此栏排序§!;;;;;;;;;;x
 show_true_humility;展示了他的谦逊;;;;;;;;;;x
 shown_true_humility;喜欢我们的谦逊;;;;;;;;;;x
@@ -1300,7 +1300,7 @@ EVTOPTC3720;在别人背后说三道四不好!;;;;;;;;;;x
 EVTDESC3721;“人们对你和你的骄傲说三道四，”[From.GetTitledFirstName]告诉了我这一点，并对我谈论着“骄傲的原罪”和我应该怎样“改正言行”...;;;;;;;;;;x
 EVTOPTA3721;我不知道你在说些什么!;;;;;;;;;;x
 EVTTOOLTIPA3722;听到[Root.GetTitledFirstName]拒绝承认背负原罪时很惊愕;;;;;;;;;;x
-EVTOPTB3721;帮助我摆脱原罪!;;;;;;;;;;x
+EVTOPTB3721;请帮我从恶习中解脱!;;;;;;;;;;x
 EVTTOOLTIPB3722;对于[Root.GetTitledFirstName]决定改正[Root.GetHerHis]言行感到很高兴;;;;;;;;;;x
 EVTDESC3722;在我告诉[From.GetTitledFirstName]关于[From.GetHerHim]的谣言后，我必须等待[From.GetHerHis]反应...;;;;;;;;;;x
 EVTOPTA3722;[From.GetSheHeCap]不知道我在说些什么!;;;;;;;;;;x

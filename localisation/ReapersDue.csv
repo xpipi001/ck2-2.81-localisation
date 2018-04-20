@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 IDLE;停止;;;;;;;;;;x
 ISNT_WICKED;不是邪恶的;;;;;;;;;;x
 IS_WICKED;邪恶的;;;;;;;;;;x
@@ -2807,7 +2807,7 @@ EVTOPTA_WOL_11304;激励士兵，他们能为你入侵地狱;;;;;;;;;;x
 EVTOPTB_WOL_11304;虽然不刺激，但战争最终要靠围城胜利;;;;;;;;;;x
 EVTOPTC_WOL_11304;兵贵神速！;;;;;;;;;;x
 EVTOPTD_WOL_11304;凡人战斗，但[Root.Religion.GetHighGodName]决定胜者！;;;;;;;;;;x
-EVTOPTD_WOL_11304_MUSLIM;安拉胡阿克巴！;;;;;;;;;;x
+EVTOPTD_WOL_11304_MUSLIM;真主至大！;;;;;;;;;;x
 EVTDESC_WOL_11305;进攻还是防守，这是一个问题……;;;;;;;;;;x
 EVTOPTA_WOL_11305;无畏的冲击将击破任何防线！;;;;;;;;;;x
 EVTOPTB_WOL_11305;死人无法再战……;;;;;;;;;;x

@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 haughty;自大;;;;;;;;;;x
 affectionate;亲切;;;;;;;;;;x
 timid;怯懦;;;;;;;;;;x
@@ -913,12 +913,12 @@ EVTOPTB_ZE_13611_CARP;亲吻她的面颊。;;;;;;;;;;x
 EVTOPTB_ZE_13611_FERR;亲吻他的面颊。;;;;;;;;;;x
 EVTOPTC_ZE_13611_CARP;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;x
 EVTOPTC_ZE_13611_FERR;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;x
-revoke_title_law;销毁头衔;;;;;;;;;;x
+revoke_title_law;收回头衔;;;;;;;;;;x
 revoke_title_law_desc;在法律的限制了头衔的销毁;;;;;;;;;;x
-revoke_title_law_0;不允许销毁头衔。;;;;;;;;;;x
+revoke_title_law_0;不允许收回头衔。;;;;;;;;;;x
 revoke_title_law_0_desc;君主在任何情况下都不得干涉世袭头衔的所有权。;;;;;;;;;;x
 revoke_title_law_0_option;无;;;;;;;;;;x
-revoke_title_law_1;允许销毁头衔。;;;;;;;;;;x
+revoke_title_law_1;允许收回头衔。;;;;;;;;;;x
 revoke_title_law_1_desc;君主可以合法地夺取叛徒和私生子的头衔。;;;;;;;;;;x
 revoke_title_law_1_option;允许;;;;;;;;;;x
 revoke_title_law_2;宗教控制授权;;;;;;;;;;x
@@ -969,7 +969,7 @@ banish_voting_power_0_desc;君主驱逐囚犯的权力不受干涉。\n;;;;;;;;;
 banish_voting_power_1_desc;阁僚对驱逐囚犯表决。\n;;;;;;;;;;x
 banish_voting_power_0_option;头衔;;;;;;;;;;x
 banish_voting_power_1_option;内阁;;;;;;;;;;x
-revoke_title_voting_power;销毁头衔;;;;;;;;;;x
+revoke_title_voting_power;收回头衔;;;;;;;;;;x
 revoke_title_voting_power_desc;内阁有权干涉头衔的销毁;;;;;;;;;;x
 revoke_title_voting_power_0;法理头衔销毁权;;;;;;;;;;x
 revoke_title_voting_power_1;头衔销毁委员会;;;;;;;;;;x
@@ -1375,7 +1375,7 @@ EVTOPTA_ZE_14710;我辜负了 [From.GetHerHim].;;;;;;;;;;x
 loyalist_desc;一个忠实的内阁成员会是统治者的忠实仆从. 他们将全力支持统治者的决定, 除非统治者侵犯了他们的利益.;;;;;;;;;;x
 pragmatist_desc;实用主义的阁员永远在增加国土以及攫取自身权力上走阻力最小的路线。他们倾向于支持宣称法理领地以及针对领主同文化国家的战争。他们也可能支持针对弱小对手的战争。这种阁员会反对在领地内创立其他强力的封臣 会支持撤销已有强力封臣的头衔。;;;;;;;;;;x
 glory_hound_desc;荣耀追逐犬式的阁员会一直努力要求国家向光辉荣耀的方向前进。他们会反对攻击弱小的邻国，但如果战争是针对强力的对手，他们不会在意宣战理由，只要这仗能增加国土就好。这种阁员也会更倾向于强大的中央集权;;;;;;;;;;x
-LAWS_TAB_INHERITANCE;遗产;;;;;;;;;;x
+LAWS_TAB_INHERITANCE;继承;;;;;;;;;;x
 LAWS_TAB_COUNCIL;内阁;;;;;;;;;;x
 LAWS_TAB_OBLIGATIONS;义务;;;;;;;;;;x
 LAWS_TAB_REALM;国土;;;;;;;;;;x

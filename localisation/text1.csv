@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! 已经过了生育年龄;;;;;;;;;;x
 AIREASON_OPINION;对 §Y[GetTitledFirstName]§! 的好感度;;;;;;;;;;x
 AIREASON_SKILLS;§Y[GetTitledFirstName]§! 的技能;;;;;;;;;;x
@@ -353,7 +353,7 @@ DIPLOFLAVOR_INSULT_3;愿你的一生短暂而不幸。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_4;愿智慧永远弃你而去。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_0;诅咒你的七代祖宗！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_1;愿你活活被缝进死骆驼的肚子里！;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_2;愿安拉摧毁你的家族！;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_muslim_2;愿真主摧毁你的家族！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_3;你这条污秽的狗。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_0;祝您和您的家人平安。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_1;您的智慧与仁德广为传颂。;;;;;;;;;;x
@@ -2874,7 +2874,7 @@ EVTDESC60000; 我的主君，一个恐怖的消息正在从遥远的东方传来
 EVTOPTA60000; 这故事挺不错!;;;;;;;;;;x
 EVTNAME60001;上帝之鞭的降临;;;;;;;;;;x
 EVTDESC60001; 我的主君，那位大汗已经派遣出了数以百万计的由野蛮人组成的骑兵横扫了中亚和波斯东部.他们的前锋已经征服了巴尔赫，这群异教徒很显然是打算吞并整个穆斯林世界!;;;;;;;;;;x
-EVTOPTB60001; 帮帮我们吧，仁慈的安拉!;;;;;;;;;;x
+EVTOPTB60001; 帮帮我们吧，仁慈的真主!;;;;;;;;;;x
 EVTOPTC60001; 穆斯林们将奋勇反击.;;;;;;;;;;x
 EVTOPTD60001; 也许蒙古的长生天更强大一些.;;;;;;;;;;x
 EVTNAME60002;金帐汗国;;;;;;;;;;x
@@ -3248,7 +3248,7 @@ EVTOPTA62009;把他们通通送进地狱！;;;;;;;;;;x
 EVTOPTA62010;这种进攻会越来越多.;;;;;;;;;;x
 EVTOPTA62011;天堂中降下的旗帜！;;;;;;;;;;x
 EVTOPTA62012;奇迹！;;;;;;;;;;x
-EVTOPTA62013;安拉的旨意;;;;;;;;;;x
+EVTOPTA62013;真主的旨意;;;;;;;;;;x
 EVTDESC62014;异教徒的堡垒依然没有陷落. 我现在要以圣父、圣子、圣灵的名义带领士兵们发起一次冲锋!;;;;;;;;;;x
 EVTOPTA62014;神的旨意！;;;;;;;;;;x
 EVTDESC62015;敌人越来越近，我已知晓了的命运，舍生取义就在今朝!;;;;;;;;;;x
@@ -10604,8 +10604,8 @@ b_montecastrilli;蒙特卡斯特尔尼;;;;;;;;;;x
 b_otricoli;奥特拉里科利;;;;;;;;;;x
 b_amelia;阿梅利亚;;;;;;;;;;x
 b_baschi;巴斯基;;;;;;;;;;x
-d_sardinia;萨丁尼亚;;;;;;;;;;x
-d_sardinia_adj;萨丁尼亚;;;;;;;;;;x
+d_sardinia;撒丁尼亚;;;;;;;;;;x
+d_sardinia_adj;撒丁尼亚;;;;;;;;;;x
 c_corsica_adj;科西嘉;;;;;;;;;;x
 b_ajaccio;阿雅克肖;;;;;;;;;;x
 b_bonifacio;博尼法乔;;;;;;;;;;x
@@ -14493,8 +14493,8 @@ e_sunni_adj;哈里发;;;;;;;;;;x
 e_shiite;什叶哈里发;;;;;;;;;;x
 e_shiite_adj;哈里发;;;;;;;;;;x
 d_hashshashin_adj;哈萨辛派残影刺客;;;;;;;;;;x
-d_sunni_cuman_company;逊尼派钦察佣兵团;;;;;;;;;;x
-d_sunni_cuman_company_adj;逊尼派钦察佣兵团;;;;;;;;;;x
+d_sunni_cuman_company;逊尼派可萨佣兵团;;;;;;;;;;x
+d_sunni_cuman_company_adj;逊尼派可萨佣兵团;;;;;;;;;;x
 d_shiite_cuman_company;什叶派钦察佣兵团;;;;;;;;;;x
 d_shiite_cuman_company_adj;什叶派钦察佣兵团;;;;;;;;;;x
 d_sunni_turkic_company;逊尼派突厥佣兵团;;;;;;;;;;x
@@ -17667,7 +17667,7 @@ ibadi;伊巴迪派;;;;;;;;;;x
 bektashi;拜克塔什教团;;;;;;;;;;x
 druze;德鲁兹派;;;;;;;;;;x
 hurufi;胡鲁菲派;;;;;;;;;;x
-tengri_pagan;腾格里;;;;;;;;;;x
+tengri_pagan;长生天;;;;;;;;;;x
 baltic_pagan;洛姆瓦教;;;;;;;;;;x
 finnish_pagan;索米多神教;;;;;;;;;;x
 zoroastrian;祆教;;;;;;;;;;x
@@ -17675,7 +17675,7 @@ GOD_GOD;上帝;;;;;;;;;;x
 GOD_THE_LORD;主;;;;;;;;;;x
 GOD_JESUS;耶稣;;;;;;;;;;x
 GOD_THE_BLESSED_VIRGIN;圣母玛利亚;;;;;;;;;;x
-GOD_ALLAH;安拉;;;;;;;;;;x
+GOD_ALLAH;真主;;;;;;;;;;x
 GOD_THE_GREATEST;真主;;;;;;;;;;x
 GOD_THE_SPIRITS;通圣;;;;;;;;;;x
 GOD_THE_ANCESTORS;先知;;;;;;;;;;x
@@ -18149,8 +18149,8 @@ HIRED;已被雇佣;;;;;;;;;;x
 TITLE_HISTORY;历史;;;;;;;;;;x
 PLOT_POWER;阴谋力量;;;;;;;;;;x
 CANNOT_CHANGE_AMBITION;我不能改变野心，直到§Y$DATE$§!！;;;;;;;;;;x
-MALE_HONORIFIC_S;尊敬的先生;;;;;;;;;;x
-MALE_HONORIFIC;尊敬的先生;;;;;;;;;;x
+MALE_HONORIFIC_S;尊敬的大人;;;;;;;;;;x
+MALE_HONORIFIC;尊敬的大人;;;;;;;;;;x
 FEMALE_HONORIFIC_S;尊敬的女士;;;;;;;;;;x
 FEMALE_HONORIFIC;尊敬的女士;;;;;;;;;;x
 MALE_SPOUSE;丈夫;;;;;;;;;;x
