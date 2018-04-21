@@ -9,7 +9,7 @@ REVOKE_TITLE_INTERACTION_2B;由于我们拥有宣称权,封臣不会持有异议
 REVOKE_TITLE_INTERACTION_2C;由于§Y$CROWN_TITLE$§!的王权,封臣不能持有异议.;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_2D;由于§Y[Recipient.GetTitledFirstName]§!是叛徒,封臣不会持有异议.;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_2E;由于 §Y[Recipient.GetTitledFirstName]§! 是异教徒, 只有信仰 §Y[Recipient.Religion.GetName]§! 的封臣会感到不满 (§R$OPINION$§!).;;;;;;;;;;x
-LOADING_TIP_28;购买赎罪券以增加虔诚.;;;;;;;;;;x
+LOADING_TIP_28;购买赎罪券以增加虔诚。;;;;;;;;;;x
 mission_holy_war_desc;这个 $ROOT_CHARACTERTITLE$对§Y$TOPOWNERFULLNAME$§!发动了$CRUSADE_NAME$以夺取§Y$PROVINCE$§!!;;;;;;;;;;x
 TOO_MANY_HELD_DUCHIES;持有过多公爵头衔;;;;;;;;;;x
 opinion_failed_plot;失败的阴谋;;;;;;;;;;x

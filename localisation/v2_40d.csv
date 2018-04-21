@@ -186,11 +186,11 @@ REL_CAN_REFORM_DESC;能够进行宗教改革;;;;;;;;;;x
 REL_HEAD_CAN_BE_CREATED_DESC;一名宗教领袖（$HEAD_TITLE$）可通过特殊决议创建;;;;;;;;;;x
 REL_SECULAR_HEAD_DESC;$TITLE_NAME$由世俗统治者兼任的，并且可以正常摧毁或创建;;;;;;;;;;x
 REL_ALWAYS_A_HEAD_DESC;无论是否拥有土地，$HEAD_TITLE$总会存在;;;;;;;;;;x
-REL_NO_HEAD_DESC;不存在（可以存在）宗教领袖;;;;;;;;;;x
+REL_NO_HEAD_DESC;不存在（也无法产生）宗教领袖;;;;;;;;;;x
 REL_CASTE_OPINIONS_DESC;种姓特质对好感影响巨大;;;;;;;;;;x
 REL_PACIFIST_DESC;大幅降低省份叛乱几率\n§Y*§! 大幅提高所有封臣好感\n§Y*§! 统治者能够直辖更多土地\n§Y*§! 统治者不能发起圣战;;;;;;;;;;x
-REL_HEIR_DESIGNATION_DESC;可以钦定任何合法后代为继承人;;;;;;;;;;x
-buddhist_FEATURES;§Y*§! 只可对非印度宗教发动小圣战;;;;;;;;;;x
+REL_HEIR_DESIGNATION_DESC;可以指定任何合法后代为继承人;;;;;;;;;;x
+buddhist_FEATURES;§Y*§! 只可对非印度宗教发动圣战;;;;;;;;;;x
 hindu_FEATURES;§Y*§! 可对非印度宗教发动圣战;;;;;;;;;;x
 cathar_FEATURES;§Y*§! 女性可以担任所有枢密大臣职位\n§Y*§!女性可以带兵作战;;;;;;;;;;x
 nomadic_government_desc;游牧对拥有地产不感兴趣，只喜欢更多的牧场养更多的羊和马。游玩围绕部落的人口及其提供的人力。开阔地形下的空地产格会增加最大人口。游牧也能拥有普通封臣，但他们更注重管理部落中强大的部族。;;;;;;;;;;x

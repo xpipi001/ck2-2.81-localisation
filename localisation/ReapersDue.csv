@@ -722,7 +722,7 @@ seek_treatment_tooltip_2;最近没有接受治疗\n;;;;;;;;;;x
 seek_treatment_tooltip_4;你的宫廷医师正在被传召\n;;;;;;;;;;x
 seek_treatment_desc;传召你的宫廷医师来给你做体检以及一些可能的诊断，如果你被确诊为患上了某种疾病，你可以从几种疗法中选择一种。这将会移除现有的治疗修正。;;;;;;;;;;x
 seek_treatment;为疾病寻求疗法;;;;;;;;;;x
-epidemic_present_tooltip;一场疫病正在活跃并已靠近\n;;;;;;;;;;x
+epidemic_present_tooltip;一场疫病正在蔓延并已接近\n;;;;;;;;;;x
 in_seclusion;与廷臣一起隔离;;;;;;;;;;x
 commoners_abandoned;抛弃民众;;;;;;;;;;x
 shut_the_gates;关上宫门;;;;;;;;;;x

@@ -569,7 +569,7 @@ EVTOPTA_WOL_1104;我爱 [From.GetObjectPronoun]! 或者仅仅是欲望? 谁在�
 EVTOPTB_WOL_1104;对不起亲爱的, 这不只是为了我.;;;;;;;;;;x
 EVTTOOLTIP_WoL_1105;[This.GetFirstName] 依然是我的情人!;;;;;;;;;;x
 EVTDESC_WOL_1105;我用玫瑰铺满了 [From.GetFirstName]的房间并在 [From.GetPossPronoun] 的床上等他而且穿的... 非常少. 这给 [From.GetSubjectPronounCap] 留下了非常深刻的印象.;;;;;;;;;;x
-EVTOPTA_WOL_1105;我依然会拥有他!;;;;;;;;;;x
+EVTOPTA_WOL_1105;我依然拥有它！;;;;;;;;;;x
 EVTDESC_WOL_1106;我用玫瑰铺满了 [From.GetFirstName]的房间并在 [From.GetPossPronoun] 的床上等他而且穿的... 非常少. [From.GetSubjectPronounCap] 只是叹了一口气然后走进了另一间卧室去休息.;;;;;;;;;;x
 EVTOPTA_WOL_1106;我失去了他吗?;;;;;;;;;;x
 converts_to_castle;将转换为 §Y$NAME$§! 当升级到城堡时.;;;;;;;;;;x

@@ -1155,7 +1155,7 @@ EVTOPTA3380;我十分满足;;;;;;;;;;x
 EVTTOOLTIP3381;[This.GetTitledFirstName]喜欢[From.GetTitledFirstName]的理念;;;;;;;;;;x
 EVTDESC3381;在[From.GetTitledFirstName]周围使我感到宁静和满足.[From.GetHerHim]的知足常乐会传染，世上所有的困难看起来都不那么可怕了.;;;;;;;;;;x
 EVTOPTA3381;让我呆在这里;;;;;;;;;;x
-EVTOPTB3381;我感到太没有压力了;;;;;;;;;;x
+EVTOPTB3381;我的压力减轻了;;;;;;;;;;x
 EVTTOOLTIP3382;我喜欢[This.GetTitledFirstName]的达观;;;;;;;;;;x
 EVTDESC3382;我担心[From.GetTitledFirstName]是不是精神失常了, [From.GetSheHe]最近表现的不像[From.GetHerselfHimself]. 为了缓解[From.GetHerHis]病情, 我让[From.GetHerHim]和我一起到花园里放松一下, 只谈论[From.GetSheHe]需要谈论的话题.;;;;;;;;;;x
 EVTOPTA3382;这之后，[From.GetTitledFirstName]感到压力减少了;;;;;;;;;;x
@@ -2883,8 +2883,8 @@ EVTOPTB60002; 上帝保佑我们!;;;;;;;;;;x
 EVTOPTC60002; 是让那些异教徒尝尝苦头的时候了!;;;;;;;;;;x
 EVTOPTD60002; 也许蒙古的长生天更强大一些.;;;;;;;;;;x
 EVTDESC290;我决定开始制定 [From.GetProposedLaw]一类的法律.当然这需要举国上下，包括阁下你，的一致支持.\n\nYour [From.Holder.GetTitle];;;;;;;;;;x
-EVTOPTA290;我支持;;;;;;;;;;x
-EVTOPTB290;我反对;;;;;;;;;;x
+EVTOPTA290;支持;;;;;;;;;;x
+EVTOPTB290;不置可否;;;;;;;;;;x
 EVTDESC291;我决定在[From.GetFullName]实行[From.GetProposedLaw]法. 作为我的封臣你有资格对此事进行表决.\n\n[From.Holder.GetTitledName];;;;;;;;;;x
 EVTDESC292;"我决定在[From.GetFullName]实行[From.GetProposedLaw]法. 因为这事关皇家, 所以作为一名正式的[From.GetName]选侯, 虽然你还不是我的封臣, 你仍可对此进行表决.\n\n[From.Holder.GetTitledName]";;;;;;;;;;x
 EVTDESC600; [Root.GetName]爆发了叛乱! 农民们揭竿而起，反抗我的“暴政”.;;;;;;;;;;x
@@ -3328,8 +3328,8 @@ EVTDESC67000;有的统治者无视耶稣基督赐予神圣教会的法规.;;;;;;
 EVTOPTA67000;要求他们遵从真正的教义;;;;;;;;;;x
 EVTOPTB67000;上帝会惩罚他们的...;;;;;;;;;;x
 EVTTOOLTIP67001;将要阅读教宗的来信.;;;;;;;;;;x
-EVTDESC67001;教宗对我们的自由授职法感到不满，他要求我们改为教宗授职法.;;;;;;;;;;x
-EVTOPTA67001;我们总是遵从圣谕.;;;;;;;;;;x
+EVTDESC67001;教宗对我们的自由授职法感到不满，他要求我们将它改为教宗授职法。;;;;;;;;;;x
+EVTOPTA67001;我们总是遵从圣谕。;;;;;;;;;;x
 EVTOPTB67001;我的领土我作主！;;;;;;;;;;x
 EVTOPTC67001;送给教会一些黄金就能让他们闭嘴.;;;;;;;;;;x
 EVTOPTD67001;以神学理论为基础拒绝;;;;;;;;;;x
@@ -3435,7 +3435,7 @@ EVTDESC8500;为了保护圣地抵御异教徒，我们需要在那里建设一�
 EVTOPTA8500;我马上写一封信;;;;;;;;;;x
 EVTDESC8501;致伟大的[Root.GetTitledFirstName]，\n您的睿智和仁慈已经成了传奇.医院骑士团请求您在对抗异教徒的圣战中伸出援手.为了有助于我们的战斗，我们谦卑的寻求在阿尔克郡建造一座新城堡的许可.;;;;;;;;;;x
 EVTOPTA8501;太好了！我为你们祈福;;;;;;;;;;x
-EVTOPTC8501;我的领土内不要任何宗教骑士团！;;;;;;;;;;x
+EVTOPTC8501;我的领土内不允许任何宗教骑士团！;;;;;;;;;;x
 EVTDESC8502;医院骑士团已经在[Root.GetName]建立起了克拉克骑士城堡.;;;;;;;;;;x
 EVTOPTA8502;让世人知道这件事！;;;;;;;;;;x
 EVTNAME8503;克拉克骑士城堡;;;;;;;;;;x
@@ -4579,7 +4579,7 @@ EVTOPTA75105;我跟一帮士兵能够轻松解决他们！;;;;;;;;;;x
 EVTOPTB75105;……或者也许我不应该以身犯险……;;;;;;;;;;x
 EVTDESC75106;那伙公路强盗变得越来越胆大妄为了，每天都劫掠更多的城镇和定居点.军事总管[From.GetTitledFirstName]提议亲自领导一次攻击来把他们从省内连根铲除.;;;;;;;;;;x
 EVTOPTA75106;给[From.GetHerHim]多余所需的士兵;;;;;;;;;;x
-EVTOPTB75106;高旭[From.GetHerHim]只带[From.GetHerHis]随从;;;;;;;;;;x
+EVTOPTB75106;告诉[From.GetHerHim]只带[From.GetHerHis]随从;;;;;;;;;;x
 EVTOPTA75110;那女孩撒谎！;;;;;;;;;;x
 EVTTOOLTIP75111;由[This.GetTitledFirstName]决定[Root.GetTitledFirstName]是否有罪;;;;;;;;;;x
 EVTOPTA75111;军事总管[From.GetTitledFirstName]将因[From.GetHerHis]罪行被奉！;;;;;;;;;;x
@@ -4701,9 +4701,9 @@ STORE_MUST_RESTART_DESC;已购买DLC需要重启王国风云II才能生效;;;;;;
 HINT_SPLASH_TITLE;欢迎来到王国风云II的世界！ ;;;;;;;;;;x
 HINT_SPLASH_TIME;王国风云II是一个可以随时暂停的即时游戏.这意味着您即可以在游戏暂停时和时间流逝时下达指令.点击右上角的日期或者按空格键来暂停或者继续游戏.使用加号和减号来加速减速. ;;;;;;;;;;x
 HINT_CHAR_VIEW_TITLE;人物界面 ;;;;;;;;;;x
-HINT_CHAR_VIEW_TEXT_3;游戏里的每个人物都有对其他人的态度.态度的弹出提示解释这些态度的详细原因.计算机控制的人物会按照他们的态度行动. ;;;;;;;;;;x
-HINT_CHAR_VIEW_TEXT_4;人物的家族在界面的右上部分显示.一个可行的继承人必须来自您自己的家族.您应该尽力扩展您的家族并确保他们获得尽可能多的头衔. ;;;;;;;;;;x
-HINT_CHAR_VIEW_TEXT_5;有些人物肖像上有小图标，一个五角星表示这是您正在扮演的人物，一个皇冠凸显出您的继承人，一个小血滴则意味着这个人物来自您的家族. ;;;;;;;;;;x
+HINT_CHAR_VIEW_TEXT_3;游戏里的每个人物都有对其他人的态度。态度的弹出提示解释这些态度的详细原因。计算机控制的人物会按照他们的态度行动。;;;;;;;;;;x
+HINT_CHAR_VIEW_TEXT_4;人物的家族在界面的右上部分显示。一个合格的继承人必须来自您自己的家族。您应该尽力扩展您的家族并确保他们获得尽可能多的头衔。;;;;;;;;;;x
+HINT_CHAR_VIEW_TEXT_5;有些人物肖像上有小图标，一个五角星表示这是您正在扮演的人物，一个皇冠凸显出您的继承人，一个小血滴则意味着这个人物来自您的家族。;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TITLE;宫廷界面 ;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_1;每个统治者都有一个内阁（御前会议）来协助治理领地。内阁里的五个职位都有一个主要的属性——外交，军事，财政，密谋和学习。这些廷臣的技能值将在领主处理国家事务时直接增加到领主的能力上。;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_2;廷臣可以被派遣到地图上的某个地区去执行各种任务.例如，宫廷的宗教导师可以被派遣去把某个区域和其中的人物转换为您的宗教. ;;;;;;;;;;x
@@ -9170,7 +9170,7 @@ b_abeyek;阿卜耶克;;;;;;;;;;x
 b_takestan;塔凯斯坦;;;;;;;;;;x
 b_alvand;阿拉瓦德;;;;;;;;;;x
 b_buinzahra;布津扎拉;;;;;;;;;;x
-b_alamut;阿拉穆特;;;;;;;;;;x
+b_alamut;阿拉木图;;;;;;;;;;x
 b_dailam;代拉迈;;;;;;;;;;x
 b_soltaniyeh;苏丹尼耶;;;;;;;;;;x
 b_gheydar;吉耶达;;;;;;;;;;x
@@ -14723,13 +14723,13 @@ LOADING_TIP_6;第二和第三顺序继承人被称作觊觎者，他们容易带
 LOADING_TIP_7;不喜欢你的封臣不会将自己全部的征召兵提供给你.;;;;;;;;;;x
 LOADING_TIP_8;你宣战需要理由，请明智地选择你的开战理由.;;;;;;;;;;x
 LOADING_TIP_9;王权法对一些事实上不属于这个国家的领主也有效果.;;;;;;;;;;x
-LOADING_TIP_10;教宗会给好天主教徒巨大的加成.;;;;;;;;;;x
+LOADING_TIP_10;教宗会给好天主教徒巨大的加成。;;;;;;;;;;x
 LOADING_TIP_11;雇佣兵是职业军人，他们会为你带来胜利——只要你保证好好付钱！;;;;;;;;;;x
 LOADING_TIP_13;按住鼠标中键可以旋转地图.;;;;;;;;;;x
 LOADING_TIP_14;你可以隐藏迷你地图，手动或者自动.;;;;;;;;;;x
-LOADING_TIP_16;如果你是自由授职法，教宗可能会要求你修改该法律.;;;;;;;;;;x
+LOADING_TIP_16;如果你是自由授职法，教宗可能会要求你修改该法律。;;;;;;;;;;x
 LOADING_TIP_17;不要让教宗失望，否则他有可能会将你开除教籍.;;;;;;;;;;x
-LOADING_TIP_18;如果你年老且膝下无子，你的家族成员可能会要求你的头衔.;;;;;;;;;;x
+LOADING_TIP_18;如果你年老且膝下无子，你的家族成员可能会要求你的头衔。;;;;;;;;;;x
 LOADING_TIP_20;一个宗教的宗教权威越高，其对异端的容忍度越低.;;;;;;;;;;x
 LOG_SETTING_LOG;在历史记录中显示.;;;;;;;;;;x
 MESSAGE_IS_LOG;当前消息$TRUTH$将在游戏日志中显示.;;;;;;;;;;x
@@ -17692,7 +17692,7 @@ GOD_THE_GREAT_BEAR;巨熊;;;;;;;;;;x
 GOD_UKKO;乌戈;;;;;;;;;;x
 GOD_PERKELE;火之神;;;;;;;;;;x
 GOD_JUMI;朱米;;;;;;;;;;x
-GOD_AHURA_MAZDA;阿胡拉.马兹达;;;;;;;;;;x
+GOD_AHURA_MAZDA;阿胡拉·马兹达;;;;;;;;;;x
 GOD_MANAH;圣灵正思;;;;;;;;;;x
 THE_BIBLE;圣经;;;;;;;;;;x
 THE_KORAN;古兰经;;;;;;;;;;x
@@ -17814,15 +17814,15 @@ STAT_MARTIAL;国家军事能力;;;;;;;;;;x
 STAT_MARTIAL_DESC;军事能力对将军至关重要，也会影响军事总管执行任务的结果.;;;;;;;;;;x
 STAT_MARTIAL_CHAR_DESC;军事技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$将领.;;;;;;;;;;x
 STAT_DIPLOMACY;国家外交能力;;;;;;;;;;x
-STAT_DIPLOMACY_DESC;外交能力影响其他角色对你的好感，也会影响外交总管执行任务的结果.;;;;;;;;;;x
+STAT_DIPLOMACY_DESC;外交能力影响其他角色对你的好感，也会影响外交总管执行任务的结果。;;;;;;;;;;x
 STAT_DIPLOMACY_CHAR_DESC;外交技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$外交家.;;;;;;;;;;x
 STAT_INTRIGUE;国家密谋能力;;;;;;;;;;x
 STAT_INTRIGUE_CHAR_DESC;密谋技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$阴谋家.;;;;;;;;;;x
 STAT_STEWARDSHIP;国家财政能力;;;;;;;;;;x
-STAT_STEWARDSHIP_DESC;财政能力决定税收数额，是你的财政总管的最重要能力.;;;;;;;;;;x
+STAT_STEWARDSHIP_DESC;财政能力决定税收数额，是你的财政总管的主要属性。;;;;;;;;;;x
 STAT_LEARNING;国家学习能力;;;;;;;;;;x
-STAT_LEARNING_DESC;学习技能是宫廷牧师的最重要能力，影响科技创新速度.;;;;;;;;;;x
-STAT_LEARNING_CHAR_DESC;学习技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$学者.;;;;;;;;;;x
+STAT_LEARNING_DESC;学习能力是宫廷牧师的主要属性，并且影响科技创新速度。;;;;;;;;;;x
+STAT_LEARNING_CHAR_DESC;学习能力§Y$VALUE$§W的§Y[GetTitledFirstName]§W被认为是$DESC$学者。;;;;;;;;;;x
 STAT_DESC_1;不称职的;;;;;;;;;;x
 STAT_DESC_2;差劲的;;;;;;;;;;x
 STAT_DESC_3;像样的;;;;;;;;;;x
@@ -17895,7 +17895,7 @@ CAPTAIN_FOA;佣兵队长;;;;;;;;;;x
 CONDOTTIERO;佣兵队长;;;;;;;;;;x
 CONDOTTIERO_FOA;佣兵队长;;;;;;;;;;x
 CRUSADE;十字军;;;;;;;;;;x
-JIHAD;圣战;;;;;;;;;;x
+JIHAD;吉哈德;;;;;;;;;;x
 HOLY_WAR;圣战;;;;;;;;;;x
 obj_become_chancellor_desc;[This.GetTitledFirstName]希望为[This.GetPossPronoun]领主处理外交事务.;;;;;;;;;;x
 obj_become_marshal_desc;[This.GetTitledFirstName]希望为[This.GetPossPronoun]领主统领军队.;;;;;;;;;;x
@@ -18123,7 +18123,7 @@ ON_SUCCESS;成功时;;;;;;;;;;x
 obj_amass_wealth_title;积蓄财富;;;;;;;;;;x
 obj_amass_wealth_desc;[This.GetTitledFirstName]想要聚积大笔金钱;;;;;;;;;;x
 obj_become_paragon_of_virtue_title;成为美德典范;;;;;;;;;;x
-obj_become_paragon_of_virtue_desc;[This.GetTitledFirstName]努力成为骑士精神与荣誉感的榜样，一个美德典范;;;;;;;;;;x
+obj_become_paragon_of_virtue_desc;[This.GetTitledFirstName]努力成为骑士精神与荣誉感的榜样——一个美德典范。;;;;;;;;;;x
 obj_become_exalted_title;成为高贵之人;;;;;;;;;;x
 obj_get_married_title;结婚;;;;;;;;;;x
 obj_get_married_desc;[This.GetTitledFirstName]渴望结婚;;;;;;;;;;x
@@ -18171,7 +18171,7 @@ VASSAL_RAISE_SHIPS_DESC;动员私人船只;;;;;;;;;;x
 VASSAL_RAISE_ALL_SHIPS_DESC;动员全国船只;;;;;;;;;;x
 static_diplomacy_mod;外交技能;;;;;;;;;;x
 static_intrigue_mod;密谋技能;;;;;;;;;;x
-static_learning_mod;学习技能;;;;;;;;;;x
+static_learning_mod;学习能力;;;;;;;;;;x
 static_stewardship_mod;财政技能;;;;;;;;;;x
 static_martial_mod;军事技能;;;;;;;;;;x
 STAT_CULTURE;文化;;;;;;;;;;x
@@ -18421,11 +18421,11 @@ GENERATING_COAS;正在处理盾徽;;;;;;;;;;x
 REGIMENT;团;;;;;;;;;;x
 FLEET;海军;;;;;;;;;;x
 ARMY;陆军;;;;;;;;;;x
-RAISE_LEVY;§YRaise Levy§!;;;;;;;;;;x
-RAISE_SHIP_LEVY;§YRaise Ships§!;;;;;;;;;;x
+RAISE_LEVY;§Y出动军队§!;;;;;;;;;;x
+RAISE_SHIP_LEVY;§Y征用船只§!;;;;;;;;;;x
 DISMISS_LEVY;§YDismiss Levy§!;;;;;;;;;;x
 DISMISS_SHIP_LEVY;§YDismiss Ships§!;;;;;;;;;;x
-CREATE_BARON;§YCreate New Vassal§!;;;;;;;;;;x
+CREATE_BARON;§Y分封新的领主§!;;;;;;;;;;x
 ARMY_NAME;$NAME$军;;;;;;;;;;x
 FLEET_NAME;$NAME$舰队;;;;;;;;;;x
 LEVY_PERC_WE_OWNER;$TITLE$受$US$控制比例: $PERC$;;;;;;;;;;x
@@ -18505,7 +18505,7 @@ LABEL_SUCCESSION;继承;;;;;;;;;;x
 DE_JURE_DUCHY_DESC;§Y$PROVINCE$§!自古以来就是§Y$DUCHY$§!的一部分. ;;;;;;;;;;x
 DE_JURE_DUCHY_DESC_NO_HOLDER;现在无人是公爵.;;;;;;;;;;x
 DE_JURE_DUCHY_DESC_HOLDER_1;§Y$DUKE$§! 是现任公爵，也是§Y$PROVINCE$§!事实上的控制者.;;;;;;;;;;x
-DE_JURE_DUCHY_DESC_HOLDER_2;§Y$DUKE$§! 是现任公爵，正在试图夺回§Y$PROVINCE$§!的控制权.;;;;;;;;;;x
+DE_JURE_DUCHY_DESC_HOLDER_2;§Y$DUKE$§! 是现任公爵，他正在试图夺回§Y$PROVINCE$§!的控制权。;;;;;;;;;;x
 DE_JURE_KINGDOM_DESC;§Y$PROVINCE$§!自古以来就是§Y$KINGDOM$§!的一部分. ;;;;;;;;;;x
 DE_JURE_KINGDOM_DESC_NO_HOLDER;现在无人是国王.;;;;;;;;;;x
 DE_JURE_KINGDOM_DESC_HOLDER_1;§Y$KING$§!是现任国王，也是§Y$PROVINCE$§!事实上的控制者.;;;;;;;;;;x
@@ -18552,7 +18552,7 @@ GUARDIAN_IRO;监护人是儿童的老师和顾问.监护人的技能，特质，
 WARD_IRO;成年人可以指导两个被监护人，影响他们的技能，特质，文化和宗教.;;;;;;;;;;x
 REGENT_IRO;由于过于年幼，疾病或者不在国内而不能亲自统治领地的君主会任命一个摄政.在摄政期间，摄政者的技能将代替君主的技能.;;;;;;;;;;x
 SPOUSE_IRO;配偶技能的一半将增加给君主以更好地统治领地.;;;;;;;;;;x
-DYNASTY_DRO;这是人物的家族.一些家族比另外一些更显赫，取决于已去世和尚健在的家族成员所拥有的头衔等级和数量.新生儿在出生时将同时得到父母家族威望的一部分.夫妻结婚时也能得到对方家族威望的一部分.;;;;;;;;;;x
+DYNASTY_DRO;这是人物的家族。一些家族比另外一些更显赫，这取决于已去世和尚健在的家族成员所拥有的头衔等级和数量。新生儿在出生时将同时得到父母家族威望的一部分。夫妻结婚时也能得到对方家族威望的一部分。;;;;;;;;;;x
 BETROTHED_IRO;这两人已经订婚，除非撕毁约定，否则不能另寻新欢.;;;;;;;;;;x
 TITLE_CANNOT_USURP_AT_WAR;不能篡夺战争中领主的头衔;;;;;;;;;;x
 ALAS;警报!;;;;;;;;;;x
@@ -18695,7 +18695,7 @@ OPINION_OF_POPE;对教宗的好感;;;;;;;;;;x
 OPINION_OF_SEC_LIEGE;对领主的好感;;;;;;;;;;x
 HINTS_CLOSE;关闭;;;;;;;;;;x
 HINTS_DISABLE_ALL_HINTS;不再显示所有提示;;;;;;;;;;x
-HINTS_DISABLE_HINT;不再显示提示;;;;;;;;;;x
+HINTS_DISABLE_HINT;不再显示这个提示;;;;;;;;;;x
 NO_HEAD;没有领导;;;;;;;;;;x
 MIL_NUM_ARMIES;$NUM$军队;;;;;;;;;;x
 MIL_NUM_NAVIES;$NUM$舰队;;;;;;;;;;x
@@ -19262,7 +19262,7 @@ HAS_LOWER_LEARNING_THAN;学习低于 ;;;;;;;;;;x
 HAS_HIGHER_LEARNING_THAN;学习至少 ;;;;;;;;;;x
 HAS_LOWER_REALM_LEARNING_THAN;国家学习低于 ;;;;;;;;;;x
 HAS_HIGHER_REALM_LEARNING_THAN;国家学习至少 ;;;;;;;;;;x
-NOT_SAME_FAMILY_AS;不同家族与 ;;;;;;;;;;x
+NOT_SAME_FAMILY_AS;与$DYNASTY|Y$为不同家族;;;;;;;;;;x
 SAME_FAMILY_AS;同家族 ;;;;;;;;;;x
 IS_WEALTHIER_THAN_RULER;比领主富裕 ;;;;;;;;;;x
 IS_NOT_WEALTHIER_THAN_RULER;比领主贫穷 ;;;;;;;;;;x
@@ -19561,7 +19561,7 @@ tut_2b_5;外交总管.你的外交顾问，尽量选一个外交能力高的，�
 tut_2b_6;军事总管.你的军事顾问，他将指挥你的军队，所以请尽量选择一个军事能力分值高的.;;;;;;;;;;x
 tut_2b_7;财务总管.您的财务主管，选择一个财务能力出色的，能够增加你的税收收入.;;;;;;;;;;x
 tut_2b_8;间谍总管.这是一个官面上不存在的位置，作为一个隐藏在阴影中的顾问，拥有很高的阴谋技能是很重要的.即便你没有任何暗杀计划，他也能帮你发现叛乱以便更好的应对.;;;;;;;;;;x
-tut_2b_9;宫廷牧师.你的个人信仰顾问，这个顾问的重要特点是学习能力，更高的价值也表现在有助于你的技术研究方面.;;;;;;;;;;x
+tut_2b_9;宫廷牧师。你的个人信仰顾问，这个顾问的重要特点是学习能力，更高的价值也表现在有助于你的技术研究方面。;;;;;;;;;;x
 tut_2c_1;政治 - 高级;;;;;;;;;;x
 tut_2c_2;每个顾问都有三个特有的任务可以完成.当然，同一时间他们只能干其中的一件事.这期间内你仍然可以获得他们带来的能力加值.;;;;;;;;;;x
 tut_2c_3;让我们去看看吧，点击顾问按钮继续.;;;;;;;;;;x
@@ -19840,7 +19840,7 @@ RELIGION_TOOLTIP;$RELIGION1$($RELIGION2$异端);;;;;;;;;;x
 §WReligion;宗教;;;;;;;;;;x
 §WWorld Religions;世界宗教:;;;;;;;;;;x
 §bCapital:;首都:;;;;;;;;;;x
-§bCulture:;文化:;;;;;;;;;;x
+§bCulture:;文化：;;;;;;;;;;x
 §bTax:;税基:;;;;;;;;;;x
 §bRP:;RP:;;;;;;;;;;x
 §bRevolt Risk:;叛乱风险:;;;;;;;;;;x

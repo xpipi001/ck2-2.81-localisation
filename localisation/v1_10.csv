@@ -60,7 +60,7 @@ TECH_DEM_INC_KINGS;§G+$AMOUNT$§! 国王直辖规模;;;;;;;;;;x
 TECH_DEM_INC_DUKES;§G+$AMOUNT$§! 公爵直辖规模;;;;;;;;;;x
 TECH_DEM_INC_COUNTS;§G+$AMOUNT$§! 伯爵直辖规模;;;;;;;;;;x
 TECH_DEM_INC_BARONS;§G+$AMOUNT$§! 男爵直辖规模;;;;;;;;;;x
-HINT_TECH_VIEW_TEXT_2;所以伯爵级以上的统治者在三个组别中基于他们的属性来积累科研点.\n这些科研点可以用来在首府升级科技.\n科技可以通过领地接壤或者是贸易传播到邻近省份.;;;;;;;;;;x
+HINT_TECH_VIEW_TEXT_2;所有伯爵等级以上的统治者基于他们的属性在三个组别中分别积累科研点。\n这些科研点可以用来在首府升级科技。\n科技可以通过领地接壤或者是贸易传播到邻近省份。;;;;;;;;;;x
 UNDER_PLAYER;这个圣地在你的控制之下;;;;;;;;;;x
 RELIGION_UNIT_MODIFIER;这个宗教对其所控制的所有单位的影响:;;;;;;;;;;x
 RELIGION_UNIT_HOME_MODIFIER;这个宗教影响下的省份的额外修正:;;;;;;;;;;x
@@ -430,7 +430,7 @@ EVTOPTA_TOG_1201;我的天	我希望[From.GetSheHe]不是一场意外.;;;;;;;;;;
 EVTDESC_TOG_1203;在多年的精心准备后， [From.GetDynName] 已经组织起了一支庞大的，由流亡者，雇佣兵等组成的军队，宣称对 [From.GetPossPronoun] 的意图，并利用暴力迫使 [From.GetPossPronoun] 就范.;;;;;;;;;;x
 EVTDESC_TOG_1204;经过数年的精密筹划	[FromFrom.GetDynName] 来自 [From.GetTitledName] 的宫廷 已经拉起了一支由浪人 雇佣军 和野心家组成的庞大军队	宣布 [FromFrom.GetPossPronoun] 意图 要武力实现 [FromFrom.GetPossPronoun] 的宣称.;;;;;;;;;;x
 EVTOPTA_TOG_1203;呃...祝他好运!;;;;;;;;;;x
-EVTDESC_TOG_1211;我已经收到信息，一个叫 [From.GetTitledFirstName]的有抱负的冒险者正在组织部队进攻我的领土!;;;;;;;;;;x
+EVTDESC_TOG_1211;我已经收到信息，一个叫 [From.GetTitledFirstName]的有抱负的冒险者正在组织部队进攻我的领土！;;;;;;;;;;x
 EVTOPTA_TOG_1211;我想到了刺杀...;;;;;;;;;;x
 EVTDESC_TOG_1213;在多年的精心准备后， [From.GetDynName] 已经组建出了一支庞大的，由流亡者，雇佣兵等组成的军队，宣布进军 [From.GetPossPronoun] 的意向，建立属于[From.GetPossPronoun] 的地盘...;;;;;;;;;;x
 EVTDESC_TOG_1214;经过数年的精密筹划	[FromFrom.GetDynName] 来自 [From.GetTitledName] 的宫廷 已经拉起了一支由浪人 雇佣军 和野心家组成的庞大军队	宣布 [FromFrom.GetPossPronoun] 意图 要出走 并析置出一块 [FromFrom.GetPossPronoun] 自己的领地...;;;;;;;;;;x
@@ -1640,7 +1640,7 @@ no_holmgang;你克制住了决斗的冲动.;;;;;;;;;;x
 holmgang_prepare;你准备好了决斗.;;;;;;;;;;x
 EVTTOOLTIP_TOG_5002;你接受他的挑战.;;;;;;;;;;x
 EVTTOOLTIP_TOG_5003;你拒绝了他的挑战.;;;;;;;;;;x
-EVTNAME200;[Root.Religion.GetCrusadeName]来自[From.GetBaseName]！;;;;;;;;;;x
+EVTNAME200;[Root.Religion.GetCrusadeName]目标[From.GetBaseName]！;;;;;;;;;;x
 EVTDESC200;陛下，[Root.GetTitledFirstName]，被[From.GetFullName]的基督徒的哭喊打动了.他号召全欧洲的健壮青年拿起武器去对抗邪恶的[New.GetTitledName]，旨在从伊斯兰异教徒的手中拯救[From.GetName].\n\n上帝将在天堂宽恕朝觐者的罪过.;;;;;;;;;;x
 EVTDESC201;陛下，[Root.GetTitledFirstName]，担心[From.GetFullBaseName]的信仰.[New.GetTitledName]的异教徒毫无希望拯救，除非他们能信仰基督否则将遭到无穷的地狱之火的灼烧.所有的基督徒在对抗[New.Religion.GetName]的野蛮人时的罪过都将得到宽??;;;;;;;;;;x
 EVTDESC321;[From.GetFullBaseName]正遭到异端的荼毒.陛下，[Root.GetTitledFirstName]，认为肮脏的[New.GetTitledName]和[New.GetPossPronoun]必须净化，得赶在这些黑点扩散之前！;;;;;;;;;;x
@@ -1649,9 +1649,9 @@ EVTOPTB200;我们不关心...;;;;;;;;;;x
 EVTOPTC200;愚蠢的异端！;;;;;;;;;;x
 EVTOPTD200;拿起武器！;;;;;;;;;;x
 EVTOPTE200;可怕的消息！;;;;;;;;;;x
-EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
+EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
 EVTOPTA320;真主至大！;;;;;;;;;;x
-EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
+EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
 EVTDESC323;至正的[Root.Religion.GetName] [Root.GetTitledFirstName]深深的担心[From.GetFullBaseName]迷失信仰的人们，他们中的多数都难以称之为穆斯林.他号召所有真正的([Root.Religion.GetName])穆斯林为了伊斯兰的荣光拿起武器反抗异教徒[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
 EVTDESC324;伟大的[Root.GetTitledFirstName]认为是时候教教[New.GetTitledName]以及那些信仰钉死在十字架上的神的信徒什么是谦虚.所有自由的[Root.Religion.GetName]都被邀请加入洗劫[From.GetFullBaseName]！\n\n [Root.Religion.GetRandomGodNameCap]与我们同在！;;;;;;;;;;x
 EVTOPTA324;为了[Root.Religion.GetRandomGodName]！;;;;;;;;;;x

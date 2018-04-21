@@ -2,7 +2,7 @@
 EVTOPTC91355;也许我可以求于 [From.GetHerHis] 贪婪的一面...;;;;;;;;;;x
 EVTOPTD91355;[Root.Religion.GetRandomGodName] 也许会欣喜与我捐献的小钱钱.;;;;;;;;;;x
 EVTOPTE91355;也许我可以让 [From.GetHerHis] [From.Spouse.GetHusbandWife] 到我的阵营来.;;;;;;;;;;x
-EVTDESC91372;我的手下给我带来了一条[From.GetTitledFirstName]的消息，他仍不愿放弃[From.GetSheHe]糜烂的生活方式！[From.GetSheHeCap]提出如果我允许[From.GetHerHim]继续[From.GetHerHis]糜烂生活，[From.GetSheHe]将提供给我一个具有强大战斗力的太监。;;;;;;;;;;x
+EVTDESC91372;我的手下给我带来了一条[From.GetTitledFirstName]的消息，他仍不愿放弃[From.GetSheHe]糜烂的生活方式！[From.GetSheHeCap]提出如果我允许[From.GetHerHim]继续[From.GetHerHis]糜烂生活，[From.GetSheHe]将提供给我一个具有强大战斗力的受阉者。;;;;;;;;;;x
 EVTOPTA91372;这样的阉人肯定有用!;;;;;;;;;;x
 EVTDESC91373;[From.GetTitledFirstName] 跟我说 [From.GetSheHe] 选择了要过 [From.GetHerHis] 想要的生活. [From.GetSubjectPronounCap] 试着给我解释我眼中的腐化不过是一种敬仰[From.Religion.GetRandomGodName]的方式. [From.GetSheHeCap] 也提出以我之名捐笔钱给教会以示友好.;;;;;;;;;;x
 EVTOPTA91373;[From.Religion.GetRandomGodName]会认可这捐献的.;;;;;;;;;;x
@@ -122,7 +122,7 @@ vice_royalty_desc;皇帝可以将王国和公国头衔以总督形式冠以封�
 opinion_castrated_close_kin;阉割了近亲;;;;;;;;;;x
 opinion_blinded_close_kin;刺瞎了近亲;;;;;;;;;;x
 TITLE_USURPTION_TEMPORARY_TITLE;临时头衔所有者及其封臣都不能篡夺头衔.;;;;;;;;;;x
-EVTDESC107001;你可以扮演同一家族的成员不断继任.在这个教学战役中, 直到你的君主40岁前,国内都会十分安定. 那时候,[Root.GetFirstName] 会死去 (通常来说角色会死于高龄,暴力或是疾病) 而教学战役会结束. 当 [Root.GetSubjectPronoun] 去世, 你可以 [Root.GetPossPronoun] 继承人的身份继续游戏. 随意尝试游戏中的各个部分,但请注意,如果不按照教学来玩,可能会错过一些帮助提示.;;;;;;;;;;x
+EVTDESC107001;您将扮演同一家族内的继任者，不断延续血脉。在教学战役中，直到您的君主40岁前，国内外都会十分安定。到那时候，[Root.GetFirstName]会死去（通常来说角色会死于高龄、疾病或是暴力）而教学战役会结束。在[Root.GetSubjectPronoun]去世后，您可以扮演[Root.GetPossPronoun]继承人继续游戏。请随意尝试游戏中的各个部分，但请注意，如果不按照教学来玩，可能会错过一些帮助提示。;;;;;;;;;;x
 EVTDESC107303;看来你没有足够的船来运送部队. 有时候在战时, 你和你封臣领地的兵员可能不够. 这时候最好利用雇佣兵. 可以通过选择军事界面的雇佣兵选项招募帮手. 新近招募的雇佣兵会出现在你的首都. 他们不仅雇佣起来十分昂贵,维持雇佣也不便宜. 雇佣前仔细看看兵团的组成. 有些雇佣兵全是海军而有些没有船只. 这里雇一些海军雇佣兵. 他们会在你国度西方的海上出现.;;;;;;;;;;x
 CHRONICLE_JOINED_ALLY_IN_WAR;[Prev.GetTitledName] 支持 [From.GetTitledName]对抗 [From.GetHerHis] 敌人的战事.;;;;;;;;;;x
 CHRONICLE_JOINED_ALLY_IN_WAR_2;[From.GetTitledName] 支持 [Prev.GetTitledName]对抗 [Prev.GetHerHis] 他敌人的战事.;;;;;;;;;;x
@@ -249,7 +249,7 @@ AIREASON_CRUEL;残酷;;;;;;;;;;x
 AIREASON_JUST;正当理由;;;;;;;;;;x
 AIREASON_WROTH;愤怒;;;;;;;;;;x
 vassal_zun_judgement_decision;让尊神制裁[Root.GetTitledFirstName].;;;;;;;;;;x
-vassal_zun_judgement_decision_desc;在沙漠中找个深坑把 [Root.GetTitledFirstName] 扔进去， [Root.GetSheHe] 将会在尊神之下暴露数天，应该能给 [Root.GetSheHe] 应得的“正义”。;;;;;;;;;;x
+vassal_zun_judgement_decision_desc;在沙漠中找个深坑把 [Root.GetTitledFirstName] 扔进去， [Root.GetSheHe] 将会在尊日神之下暴露数天，应该能给 [Root.GetSheHe] 应得的“正义”。;;;;;;;;;;x
 EVTDESCCM15002;守卫今天来见我, 他们就扔了条绳子给我, 我希望有足够力气爬上去.;;;;;;;;;;x
 EVTOPTACM15002;啊,自由!;;;;;;;;;;x
 EVTDESCCM15004;太阳的光辉刺入我破裂流血的皮肤, 我感觉我好像飘在坑顶一般.;;;;;;;;;;x

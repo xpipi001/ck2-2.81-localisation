@@ -125,7 +125,7 @@ EVTDESC3141;所谓杰出的交际能力就是在尔虞我诈的宫廷中能面�
 EVTOPTA3141;向其中一位挑衅.;;;;;;;;;;x
 EVTOPTB3141;和其中一位结交.;;;;;;;;;;x
 EVTOPTC3141;试图赶上他们.;;;;;;;;;;x
-EVTDESC3142;我希望能有宫廷中某些人那样的财政能力. 我想能更好的管理我的财产.;;;;;;;;;;x
+EVTDESC3142;我希望能有宫廷中某些人那样的财政能力。我想能更好的管理我的财产。;;;;;;;;;;x
 EVTOPTA3142;向其中一位挑衅.;;;;;;;;;;x
 EVTOPTB3142;和其中一位结交.;;;;;;;;;;x
 EVTOPTC3142;试图赶上他们.;;;;;;;;;;x
@@ -580,7 +580,7 @@ EVTDESC76022;我屏气静心的等待父亲 [From.GetTitledFirstName] 回复我�
 EVTOPTA76022;...这是妄想!;;;;;;;;;;x
 EVTOPTB76022;...[From.GetSheHe]同意承认我是[From.GetHerHis]合法子嗣;;;;;;;;;;x
 opinion_crestfallen;沮丧;;;;;;;;;;x
-obj_become_exalted_desc;[This.GetTitledFirstName]想要[This.GetHerHis]名字永垂青史.;;;;;;;;;;x
+obj_become_exalted_desc;[This.GetTitledFirstName]想要[This.GetHerHis]名字永垂青史。;;;;;;;;;;x
 EVTDESC76025;自己抚养孩子是很难的事情，抚养一个私生子就更难了.我们令家庭难堪，只有很少人愿意帮助我们.;;;;;;;;;;x
 EVTOPTA76025;我的父亲可能愿意帮助我们;;;;;;;;;;x
 EVTTOOLTIP76026;[Root.GetTitledFirstName]要求她的父亲[This.GetTitledFirstName]帮助她;;;;;;;;;;x

@@ -567,7 +567,7 @@ UNIT_MAX;最大：$MAX|Y$;;;;;;;;;;x
 UNIT_CURRENT;当前：$CURRENT|Y$;;;;;;;;;;x
 UNIT_WILL_REINFORCE;这支陆军现在位于友好的领土之内，将从老家获得每月$REINFORCE|+0$增援。;;;;;;;;;;x
 UNIT_NOT_REINFORCE;如果在友好的领土之内，这支陆军将获得每月$REINFORCE|+0$增援。与其老家最近的友好领土是$FRIENDLY|Y$。;;;;;;;;;;x
-MODIFIER_DEFENSIVE_PLOT_POWER;制订防御计划;;;;;;;;;;x
+MODIFIER_DEFENSIVE_PLOT_POWER;阴谋力量防御;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_TITLE;建立联盟;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_DESC;建立一个联盟;;;;;;;;;;x
 FORM_ALLIANCE_INTERACTION_LONG_DESC;通过建立一个正确的联盟使得你们的关系更加牢固。;;;;;;;;;;x

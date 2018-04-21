@@ -3,7 +3,7 @@ CR_DIFF_LOWER_THAN;§Y$FIRST$§!和§Y$SECOND$§!的决斗等级差值低于§Y$
 CR_DIFF_AT_LEAST;§Y$FIRST$§!和§Y$SECOND$§!的决斗等级差值至少为§Y$VAL$§!;;;;;;;;;;x
 HAS_CR_AT_LEAST;决斗等级至少为;;;;;;;;;;x
 HAS_LOWER_CR_THAN;决斗等级低于;;;;;;;;;;x
-MASTER;情夫;;;;;;;;;;x
+MASTER;大师;;;;;;;;;;x
 MISTRESS;情妇;;;;;;;;;;x
 wol_schemer_1;业余的谋士;;;;;;;;;;x
 desc_wol_schemer_1;该角色野心勃勃，是一位企图通过花言巧语来操控他人的阴谋家。;;;;;;;;;;x
@@ -71,7 +71,7 @@ EVTOPTA_WOL_580;到这来~帅哥~;;;;;;;;;;x
 EVTOPTB_WOL_580;太冒险了。;;;;;;;;;;x
 EVTDESC_WOL_581;狱卒打开牢笼，淫笑着走了进来。就在他开始抚摸我的时候，我向他建议到一个更嗨的地方。他突然大笑起来，用力拍了下我的屁股，对我轻蔑的扫了一眼就离开了。;;;;;;;;;;x
 EVTOPTA_WOL_581;我猜他的主人[Root.Host.GetMasterMistress], [Root.Host.GetTitledFirstNameNoRegnal], 一定会知道这件事的……;;;;;;;;;;x
-EVTDESC_WOL_582;我的女囚, [From.GetTitledName], 尝试勾引狱卒逃跑。幸运的是，狱卒没上她的套。;;;;;;;;;;x
+EVTDESC_WOL_582;我的女囚, [From.GetTitledName], 尝试勾引狱卒逃跑。幸运的是，狱卒没戴她的套。;;;;;;;;;;x
 EVTOPTA_WOL_582;干得漂亮! 我为她准备了个更好的去处。?Quelle audace? Je pense qu'elle m閞ite de meilleurs quartiers.;;;;;;;;;;x
 EVTOPTB_WOL_582;为狱卒的正直奖励他。;;;;;;;;;;x
 EVTOPTC_WOL_582;[GetRootFromInsult]！把她打入死牢。;;;;;;;;;;x
