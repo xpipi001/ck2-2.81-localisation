@@ -38,7 +38,7 @@ alert_can_reform_religion_name;§Y宗教可以改革§!;;;;;;;;;;x
 alert_can_reform_religion_instant;§Y宗教可以改革§!;;;;;;;;;;x
 alert_can_reform_religion_delayed;§Y$RELIGION$§! 可以改造成一个有组织的宗教;;;;;;;;;;x
 HOLYSITE_CONTROL_OURS;§Y$SITENAME$ §!圣地已经完全在§Y$RELIGION$§! 的控制中了;;;;;;;;;;x
-HOLYSITE_CONTROL_PARTIAL;这个圣地§Y$SITENAME$§!在§Y$RELIGION$§!的掌控中，但它现在还是信仰另一个宗教的附庸;;;;;;;;;;x
+HOLYSITE_CONTROL_PARTIAL;这个圣地§Y$SITENAME$§!在§Y$RELIGION$§!的掌控中，但它现在还是信仰另一个宗教的封臣;;;;;;;;;;x
 HOLYSITE_CONTROL_NOT;这个圣地§Y$SITENAME$§!并不在§Y$RELIGION$§!的掌控中;;;;;;;;;;x
 HOLYSITE_LOCATION;圣地§Y$SITENAME$§!位于§Y$COUNTY$§!省份;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_LOOTING_HOSTILITY;当我们在劫掠他们的时候	不能对 §Y[Recipient.GetTitledFirstName]§! 宣战;;;;;;;;;;x
@@ -135,17 +135,17 @@ NUM_TITLE_REALM_PROVS_LESS;小于§Y$TITLE$§! 领土内的§Y$NUM$§! 封国数
 NUM_TITLE_REALM_PROVS_MORE;§Y$TITLE$§! 领土内至少有§Y$NUM$§! 封国;;;;;;;;;;x
 d_norse_pagan_reformed;英雄王国 ;;;;;;;;;;x
 d_norse_pagan_reformed_adj;英雄王国 ;;;;;;;;;;x
-d_baltic_pagan_reformed;洛姆瓦教;;;;;;;;;;x
+d_baltic_pagan_reformed;洛姆瓦教团;;;;;;;;;;x
 d_baltic_pagan_reformed_adj;洛姆瓦教;;;;;;;;;;x
-d_slavic_pagan_reformed;斯拉夫多神教;;;;;;;;;;x
+d_slavic_pagan_reformed;斯拉夫多神教教团;;;;;;;;;;x
 d_slavic_pagan_reformed_adj;斯拉夫多神教;;;;;;;;;;x
-d_tengri_pagan_reformed;长生天教会;;;;;;;;;;x
+d_tengri_pagan_reformed;长生天教团;;;;;;;;;;x
 d_tengri_pagan_reformed_adj;长生天;;;;;;;;;;x
-d_finnish_pagan_reformed;索米多神教;;;;;;;;;;x
+d_finnish_pagan_reformed;索米多神教教团;;;;;;;;;;x
 d_finnish_pagan_reformed_adj;索米多神教;;;;;;;;;;x
-d_aztec_pagan_reformed;阿兹特克多神教;;;;;;;;;;x
+d_aztec_pagan_reformed;阿兹特克多神教教团;;;;;;;;;;x
 d_aztec_pagan_reformed_adj;阿兹特克多神教;;;;;;;;;;x
-d_west_african_pagan_reformed;西非信仰;;;;;;;;;;x
+d_west_african_pagan_reformed;西非信仰教团;;;;;;;;;;x
 d_west_african_pagan_reformed_adj;西非信仰;;;;;;;;;;x
 e_wendish_empire;文德帝国;;;;;;;;;;x
 e_wendish_empire_adj;文德;;;;;;;;;;x
@@ -190,16 +190,16 @@ HEAD_PRIESTESS;女大祭司;;;;;;;;;;x
 HEAD_PRIEST_FOA;你的领袖;;;;;;;;;;x
 TRIBAL;部落;;;;;;;;;;x
 TRIBAL_TITLE;§Y部落头衔§! (不能有法理上的封臣);;;;;;;;;;x
-TRIBAL_TITLE_DESC;部落头衔不能同时拥有法理上的附庸头衔.如果部落的领导者得到一个相同或是更高的等级的，这部落头衔就会永远消失.;;;;;;;;;;x
-TITULAR_TITLE_DESC;只有虚名的头衔并不会拥有任何法理上的附庸.然而，在特定的时间里，附庸的土地跟王国可以变成他们在法理上的附庸，让它变得“有名有实”.;;;;;;;;;;x
+TRIBAL_TITLE_DESC;部落头衔不能同时拥有法理上的封臣头衔.如果部落的领导者得到一个相同或是更高的等级的，这部落头衔就会永远消失.;;;;;;;;;;x
+TITULAR_TITLE_DESC;只有虚名的头衔并不会拥有任何法理上的封臣.然而，在特定的时间里，封臣的土地跟王国可以变成他们在法理上的封臣，让它变得“有名有实”.;;;;;;;;;;x
 ISNT_VALID_PREP_INV_TARGET;§Y$TITLE$§!内§Y$CHAR$§!的地产不能通过准备入侵占有;;;;;;;;;;x
 IS_VALID_PREP_INV_TARGET;§Y$TITLE$§!内§Y$CHAR$§!的地产能通过准备入侵占有;;;;;;;;;;x
 NOT_ENOUGH_AUTHORITY_TO_REFORM_RELIGION;§R§Y$RELIGION$§R的宗教权威至少要有§Y$NEED$§!;;;;;;;;;;x
 NOT_ENOUGH_HOLY_SITES_TO_REFORM_RELIGION;§R你当前只控制着§Y$CURRENT$§R个§Y$RELIGION$§R圣地，而你至少需要§Y$NEED$§!个;;;;;;;;;;x
 NOT_ENOUGH_PIETY_TO_REFORM_RELIGION;§R我们需要至少§Y$NEED$§R$PIETYNAME$§!;;;;;;;;;;x
 REFORM_RELIGION;§Y对 $RELIGION$ 信仰进行改革§!;;;;;;;;;;x
-REFORM_RELIGION_DESC;对$RELIGION$进行改革会将其改变成一个有组织的宗教。除非你已经控制了所有的圣地，这样做需要§Y$AUTHORITY_REQ$§!宗教权威跟对$RELIGION$教圣地§Y$HOLY_SITES_REQ$§!的控制。这需要你§R$PIETY_COST$§![Player.Religion.GetPietyName]。作为一个经过改革的原始宗教领袖会有一个圣战的宣战理由，获得/允许大部分的继承法，不会再在和平期间丢失威望，有异心的附庸也更少给你找麻烦。但是，他们也会失去在本土防御时，宗教敌人的补给上限惩罚，附庸们也会对长时间无理由地征收他们战争税而感到不满。;;;;;;;;;;x
-title_courtesan;妾;;;;;;;;;;x
+REFORM_RELIGION_DESC;对$RELIGION$进行改革会将其改变成一个有组织的宗教。除非你已经控制了所有的圣地，这样做需要§Y$AUTHORITY_REQ$§!宗教权威跟对$RELIGION$教圣地§Y$HOLY_SITES_REQ$§!的控制。这需要你§R$PIETY_COST$§![Player.Religion.GetPietyName]。作为一个经过改革的原始宗教领袖会有一个圣战的宣战理由，获得/允许大部分的继承法，不会再在和平期间丢失威望，有异心的封臣也更少给你找麻烦。但是，他们也会失去在本土防御时，宗教敌人的补给上限惩罚，封臣们也会对长时间无理由地征收他们战争税而感到不满。;;;;;;;;;;x
+title_courtesan;侍妾;;;;;;;;;;x
 REVOLT_SHARED_TICKING_WS_DESC;$PERC$: 叛军已经控制了他们所有的地盘;;;;;;;;;;x
 REFORMED;改革;;;;;;;;;;x
 BM_THE_OLD_GODS;逝往神灵;;;;;;;;;;x
@@ -248,66 +248,66 @@ EVTOPTA62930;我喜欢!;;;;;;;;;;x
 EVTNAME62931;日耳曼王国;;;;;;;;;;x
 EVTDESC62931;在加洛林对东法兰克的统治宣告结束后，这片土地现在被更多的人称为日耳曼王国。;;;;;;;;;;x
 EVTOPTA62931;我喜欢!;;;;;;;;;;x
-ANY_CONSORT_STARTS;任何一个妾;;;;;;;;;;x
+ANY_CONSORT_STARTS;任何一个侍妾;;;;;;;;;;x
 CONSORT_IRO_1;是;;;;;;;;;;x
-CONSORT_IRO_2;s 妾并没有真正的结婚，但她生下来的孩子也有合法继承权.;;;;;;;;;;x
-TAKECONSORTEFFECT;§Y$WHO$§! 变成 §Y$SPOUSE$§!的妾.\n;;;;;;;;;;x
-REMOVECONSORTEFFECT;§Y$CONSORT$§! 不再是 §Y$WHO$§!的妾.\n;;;;;;;;;;x
+CONSORT_IRO_2;s 侍妾并没有真正的结婚，但她生下来的孩子也有合法继承权.;;;;;;;;;;x
+TAKECONSORTEFFECT;§Y$WHO$§! 变成 §Y$SPOUSE$§!的侍妾.\n;;;;;;;;;;x
+REMOVECONSORTEFFECT;§Y$CONSORT$§! 不再是 §Y$WHO$§!的侍妾.\n;;;;;;;;;;x
 IS_PARENT_REL;这不是异端;;;;;;;;;;x
 IS_NOT_PARENT_REL;这是异端;;;;;;;;;;x
 IS_REFORMED_REL;这是改革后的宗教;;;;;;;;;;x
 IS_NOT_REFORMED_REL;这不是改革后的宗教;;;;;;;;;;x
 IS_REFORMED_REL_OF;是§Y$RELIGION$§!教的改革版;;;;;;;;;;x
 IS_NOT_REFORMED_REL_OF;不是§Y$RELIGION$§!教的改革版;;;;;;;;;;x
-IS_NOT_CONSORT;这不是妾;;;;;;;;;;x
+IS_NOT_CONSORT;不是一个侍妾;;;;;;;;;;x
 OLD_RELIGION;旧的;;;;;;;;;;x
 MAKE_PRIMARY_TITLE_EFFECT;§Y$TITLE$§!变成§Y$HOLDER$§!的主要头衔\n;;;;;;;;;;x
-IS_CONSORT;这是妾;;;;;;;;;;x
-IS_NOT_CONSORT_OF;不是 §Y$WHO$§! 的妾;;;;;;;;;;x
-IS_CONSORT_OF;是 §Y$WHO$§!的妾;;;;;;;;;;x
+IS_CONSORT;是一个侍妾;;;;;;;;;;x
+IS_NOT_CONSORT_OF;不是 §Y$WHO$§! 的侍妾;;;;;;;;;;x
+IS_CONSORT_OF;是 §Y$WHO$§!的侍妾;;;;;;;;;;x
 FAM_CONSORT_HUSBAND;男人;;;;;;;;;;x
 CANCEL_JOB_ACTION_EFFECT;取消现在的工作;;;;;;;;;;x
 AIREASON_NOT_MY_LOVER;§Y[GetTitledFirstName]§!是我的情人;;;;;;;;;;x
-AIREASON_NOT_CONSORT_RELIGION;§Y[Religion.GetName]§!信仰不允许迎娶妾;;;;;;;;;;x
+AIREASON_NOT_CONSORT_RELIGION;§Y[Religion.GetName]§!信仰不允许迎娶侍妾;;;;;;;;;;x
 AIREASON_CONSORT_IS_MY_HEIR;这是我的继承者;;;;;;;;;;x
 AIREASON_CONSORT_CHILD;这是我的孩子;;;;;;;;;;x
 AIREASON_CONSORT_CLOSE_RELATIVE;这是我的近亲;;;;;;;;;;x
-AIREASON_CONSORT_TOO_LOW_RANK;§Y[GetTitledFirstName]§! 作为一个高产的妾地位太低了;;;;;;;;;;x
+AIREASON_CONSORT_TOO_LOW_RANK;§Y[GetTitledFirstName]§! 作为一个高产的侍妾地位太低了;;;;;;;;;;x
 AIREASON_NO_WAR_AGAINST_REL_BRETHREN;不能帮着别的宗教的敌人去攻打跟自己一个宗教的兄弟;;;;;;;;;;x
 INTERACTION_CONSORTS_MUST_MARRY_LIEGE;侍妾只能跟她的领主结婚;;;;;;;;;;x
 INTERACTION_IS_VALID_CONSORT;§Y[ThirdPartyCharacter.GetTitledFirstName]§! 可以被纳作侍妾;;;;;;;;;;x
 INTERACTION_CANT_DOW_PREPARED_INVADER;§Y[Recipient.GetTitledFirstName]§! 没有准备入侵你;;;;;;;;;;x
 INTERACTION_PREP_INV_NO_TARGET;没有找到§Y[Recipient.GetTitledFirstName]§!控制着§Y$MIN$§!到§Y$MAX$§!之间地产的有效王国;;;;;;;;;;x
-INTERACTION_REQUIRES_RECIPIENT_NOT_DE_JURE_VASSAL;§Y[Recipient.GetTitledFirstName]§! 不是 [Actor.Religion.GetName] 一个法理上的附庸;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_NOT_DE_JURE_VASSAL;§Y[Recipient.GetTitledFirstName]§! 不是 [Actor.Religion.GetName] 一个法理上的封臣;;;;;;;;;;x
 INTERACTION_PAGANS_CANNOT_DEMAND_CONVERSION; §Y[Actor.GetTitledFirstName]§! 不是一个未经改革的原始宗教;;;;;;;;;;x
 INTERACTION_PREP_INV_REQ_PRESTIGE;§Y[Actor.GetTitledFirstName]§! 至少要有 §Y$PRESTIGE$§! 威望;;;;;;;;;;x
 INTERACTION_PREP_INV_ATT_HOLDING_LIMIT;§Y[Actor.GetTitledFirstName]§!在此领地内不得超过§Y$NUM$§!个地产;;;;;;;;;;x
-REL_CONSORT;妾;;;;;;;;;;x
-CH_CONSORT;成为 $WHO$ 的妾.;;;;;;;;;;x
-CH_REMOVE_CONSORT;不再是 $WHO$ 的妾.;;;;;;;;;;x
+REL_CONSORT;侍妾;;;;;;;;;;x
+CH_CONSORT;成为 $WHO$ 的侍妾.;;;;;;;;;;x
+CH_REMOVE_CONSORT;不再是 $WHO$ 的侍妾.;;;;;;;;;;x
 POTENTIAL_TARGET;潜在目标;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_TITLE;娶妾;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_DESC;找一个女人当你的妾.;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_DESC;找一个女人当你的侍妾.;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_ACCEPT_SETUP;同意娶妾的请求;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§!已经同意让§Y[ThirdPartyCharacter.GetTitledName]§!成为§Y[Actor.GetTitledName]§!的妾.;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§!已经同意让§Y[ThirdPartyCharacter.GetTitledName]§!成为§Y[Actor.GetTitledName]§!的侍妾.;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_DECLINE_SETUP;拒绝娶妾的请求;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_DECLINE_LOG;§Y[Recipient.GetTitledName]§!已经拒绝让§Y[ThirdPartyCharacter.GetTitledName]§!成为§Y[Actor.GetTitledName]§!的妾的请求.;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_OFFER;§Y[Actor.GetTitledName]§!提议，纳§Y[Recipient.GetTitledName]§!为他的妾。;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_OFFER;§Y[Actor.GetTitledName]§!提议，纳§Y[Recipient.GetTitledName]§!为他的侍妾。;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_LETTER;\n\n§Y[ThirdPartyCharacter.GetBestName]§!的美丽与优雅在大陆上广为人知。我们提议，赐予她成为我侍妾的荣誉。;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_0;在§Y[Recipient.GetTitledName]§!的宫廷里选择一位女性作为你的妾.;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_1;让 [ThirdPartyCharacter.GetBestName] 成为你的妾.;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_0;在§Y[Recipient.GetTitledName]§!的宫廷里选择一位女性作为你的侍妾.;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_1;让 [ThirdPartyCharacter.GetBestName] 成为你的侍妾.;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_2;因为她是你的囚徒，她无法拒绝.;;;;;;;;;;x
-MAKE_CONSORT_INTERACTION_3;§Y[Actor.GetBestName]§!会得到§G$PRESTIGE$§!威望.因为通过娶一个贵妇§Y[ThirdPartyCharacter.GetBestName]§!作为妾.;;;;;;;;;;x
+MAKE_CONSORT_INTERACTION_3;§Y[Actor.GetBestName]§!会得到§G$PRESTIGE$§!威望.因为通过娶一个贵妇§Y[ThirdPartyCharacter.GetBestName]§!作为侍妾.;;;;;;;;;;x
 DISMISS_CONSORT_INTERACTION_TITLE;将她打入冷宫;;;;;;;;;;x
-DISMISS_CONSORT_INTERACTION_DESC;将你的妾打入冷宫;;;;;;;;;;x
-DISMISS_CONSORT_INTERACTION_LONG_DESC;妾没有啥特权，当你玩腻了就可以将她搁在一边.;;;;;;;;;;x
+DISMISS_CONSORT_INTERACTION_DESC;将你的侍妾打入冷宫;;;;;;;;;;x
+DISMISS_CONSORT_INTERACTION_LONG_DESC;侍妾没有啥特权，当你玩腻了就可以将她搁在一边.;;;;;;;;;;x
 DISMISS_CONSORT_INTERACTION_ACCEPT_SETUP;将她打入冷宫;;;;;;;;;;x
-DISMISS_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 将他的妾 §Y[Recipient.GetBestName]§!搁一边去了;;;;;;;;;;x
-DISMISS_CONSORT_INTERACTION_OFFER;[Actor.GetBestName] 已经把你搁一边了. 你不再是他的妾!;;;;;;;;;;x
+DISMISS_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 将他的侍妾 §Y[Recipient.GetBestName]§!搁一边去了;;;;;;;;;;x
+DISMISS_CONSORT_INTERACTION_OFFER;[Actor.GetBestName] 已经把你搁一边了. 你不再是他的侍妾!;;;;;;;;;;x
 DISMISS_CONSORT_INTERACTION_LETTER;[Recipient.GetFirstName]	你在旁边实在让我心烦，收拾包袱马上滚蛋吧.\n\n[Actor.GetFirstName];;;;;;;;;;x
 opinion_set_aside;搁在一边;;;;;;;;;;x
 opinion_evil_tyrant;邪恶的暴君;;;;;;;;;;x
-d_zoroastrian;琐罗亚斯德教教堂;;;;;;;;;;x
+d_zoroastrian;琐罗亚斯德教教团;;;;;;;;;;x
 d_zoroastrian_adj;琐罗亚斯德教;;;;;;;;;;x
 HEAD_MOABADAN_MOABAD;摩拜旦-摩拜德;;;;;;;;;;x
 norse;诺斯人;;;;;;;;;;x
@@ -408,18 +408,18 @@ manichean;摩尼教;;;;;;;;;;x
 mazdaki;马兹达教;;;;;;;;;;x
 THE_GREAT_SECRET;惊天秘密;;;;;;;;;;x
 EVTDESC501;和创世时的阿胡拉·马兹达和斯潘达姆一样	[From.GetTitledFirstName]和[From.GetPossPronoun]的[GetFromVsNewRelation][New.GetTitledFirstName]在希瓦多达的见证下成婚	得到富足和秩序的祝福. 我们可以用义务支援皇家的名义来收税以负担这个典礼的费用.;;;;;;;;;;x
-EVTDESC_TOG_1000;在一个心怀不满的退役士兵带领下，[Root.GetName] 的农民已经起义.叛军谋求独立!;;;;;;;;;;x
+EVTDESC_TOG_1000;在一个心怀不满的退役士兵带领下，[Root.GetName] 的农民揭竿而起. 叛军谋求独立!;;;;;;;;;;x
 EVTOPTA_TOG_1000;诅咒那些叛徒!;;;;;;;;;;x
-EVTDESC_TOG_1001;在一个心怀不满的退役士兵带领下，[From.GetName] 的农民已经起义.叛军谋求独立!;;;;;;;;;;x
-EVTDESC_TOG_1010;胡言乱语的一群异端暴民在 [Root.GetName] 爆发起义，对如火如荼的叛乱火上添油!;;;;;;;;;;x
+EVTDESC_TOG_1001;在一个心怀不满的退役士兵带领下，[From.GetName] 的农民揭竿而起. 叛军谋求独立!;;;;;;;;;;x
+EVTDESC_TOG_1010;胡言乱语的一群异端暴民在 [Root.GetName] 爆发叛乱，对如火如荼的叛乱火上添油!;;;;;;;;;;x
 EVTOPTA_TOG_1010;奸诈的混蛋!;;;;;;;;;;x
-EVTDESC_TOG_1011;更多的农民已经在 [From.GetName] 起义，对如火如荼的叛乱火上添油!;;;;;;;;;;x
-EVTDESC_TOG_1020;在一群武装起来的狂信者带领下，异端[Root.Religion.GetName] 在[Root.GetName]起义，如果不尽快镇压的话，星星之火，可以燎原!;;;;;;;;;;x
+EVTDESC_TOG_1011;更多的农民已经在 [From.GetName] 叛乱，对如火如荼的叛乱火上添油!;;;;;;;;;;x
+EVTDESC_TOG_1020;在一群武装起来的狂信者带领下，异端[Root.Religion.GetName] 在[Root.GetName]叛乱，如果不尽快镇压的话，星星之火，可以燎原!;;;;;;;;;;x
 EVTOPTA_TOG_1020;可耻的叛徒!;;;;;;;;;;x
-EVTDESC_TOG_1021;在一群武装起来的狂信者带领下，异端[From.Religion.GetName] 在[From.GetName]起义，如果不尽快镇压的话，星星之火，可以燎原!;;;;;;;;;;x
-EVTDESC_TOG_1030;胡言乱语的一群异端暴民在 [Root.GetName] 爆发起义，对如火如荼的叛乱火上添油!;;;;;;;;;;x
+EVTDESC_TOG_1021;在一群武装起来的狂信者带领下，异端[From.Religion.GetName] 在[From.GetName]叛乱，如果不尽快镇压的话，星星之火，可以燎原!;;;;;;;;;;x
+EVTDESC_TOG_1030;胡言乱语的一群异端暴民在 [Root.GetName] 爆发叛乱，对如火如荼的叛乱火上添油!;;;;;;;;;;x
 EVTOPTA_TOG_1030;谨防异端!;;;;;;;;;;x
-EVTDESC_TOG_1031;胡言乱语的一群异端暴民在 [From.GetName] 爆发起义，对如火如荼的叛乱火上添油!;;;;;;;;;;x
+EVTDESC_TOG_1031;胡言乱语的一群异端暴民在 [From.GetName] 爆发叛乱，对如火如荼的叛乱火上添油!;;;;;;;;;;x
 EVTDESC_TOG_1040;一场危险的暴动已经在 [Root.GetName] 爆发.许多 [Root.Culture.GetName] 杰出的地主已经组织起了一支支由农民组成的军队，经过训练后就由一队职业士兵领导.他们企图恢复 [Root.Kingdom.GetFullBaseName] 的统治!;;;;;;;;;;x
 EVTOPTA_TOG_1040;令人担忧...;;;;;;;;;;x
 EVTDESC_TOG_1041;一场危险的暴动已经在 [From.GetName] 爆发.许多 [From.Culture.GetName] 杰出的地主已经组织起了一支支由农民组成的军队，经过训练后就由一队职业士兵领导.他们企图恢复 [From.Kingdom.GetFullBaseName] 的统治!;;;;;;;;;;x
@@ -454,10 +454,10 @@ temple_baron_female_pagan_group;女祭司;;;;;;;;;;x
 job_spiritual_zoroastrian_group;摩伯特;;;;;;;;;;x
 temple_baron_zoroastrian;荷伯;;;;;;;;;;x
 temple_barony_zoroastrian;瓦朗;;;;;;;;;;x
-temple_barony_of_zoroastrian;乌亚哈恩;;;;;;;;;;x
+temple_barony_of_zoroastrian;瓦朗;;;;;;;;;;x
 temple_baron_zoroastrian_group;荷伯;;;;;;;;;;x
 temple_barony_zoroastrian_group;瓦朗;;;;;;;;;;x
-temple_barony_of_zoroastrian_group;乌亚哈恩;;;;;;;;;;x
+temple_barony_of_zoroastrian_group;瓦朗;;;;;;;;;;x
 king_female_iranian;女沙王;;;;;;;;;;x
 baron_iranian;堡主;;;;;;;;;;x
 barony_iranian;城堡;;;;;;;;;;x
@@ -470,7 +470,7 @@ county_iranian;郡;;;;;;;;;;x
 duchy_iranian;省;;;;;;;;;;x
 kingdom_iranian;沙王国;;;;;;;;;;x
 avar;阿瓦尔;;;;;;;;;;x
-ZOROASTRIAN_CLOSE_KIN_UNION;既然 §Y[ActorExtra.GetFirstName]§! 是 §Y[RecipientExtra.GetFirstName]的§! $RELATION$	这将是个 §Y圣婚§! 联盟	受到琐罗亚斯德附庸们欢迎。;;;;;;;;;;x
+ZOROASTRIAN_CLOSE_KIN_UNION;既然 §Y[ActorExtra.GetFirstName]§! 是 §Y[RecipientExtra.GetFirstName]的§! $RELATION$	这将是个 §Y圣婚§! 联盟	受到琐罗亚斯德封臣们欢迎。;;;;;;;;;;x
 opinion_religious_divine_blood_marriage;神圣的婚礼;;;;;;;;;;x
 opinion_priest_religious_divine_blood_marriage;神圣的婚礼;;;;;;;;;;x
 PROV930;巴尔;;;;;;;;;;x
@@ -603,12 +603,12 @@ CB_NAME_VIKING_INVASION;准备好入侵 [Title.GetBaseName];;;;;;;;;;x
 WAR_NAME_VIKING_INVASION;$ORDER$$FIRST_ADJ$ 准备好入侵 $OTHER_TITLE$;;;;;;;;;;x
 CB_NAME_PEASANT_CONQUEST; [Title.GetBaseName]农民叛乱;;;;;;;;;;x
 WAR_NAME_PEASANT_CONQUEST; $OTHER_TITLE$农民叛乱;;;;;;;;;;x
-peasant_revolt_desc;农民领袖有时会起义并试图将他们的村庄从压迫中“解放”出来 .;;;;;;;;;;x
+peasant_revolt_desc;农民领袖有时会反叛并试图将他们的村庄从压迫中“解放”出来 .;;;;;;;;;;x
 PEASANT_REVOLT;[Root.County.GetAdjective] 农民叛乱;;;;;;;;;;x
 CB_NAME_HERETIC_UPRISING;[Actor.Religion.GetName] 叛乱;;;;;;;;;;x
 WAR_NAME_HERETIC_UPRISING;$ORDER$$SECOND_ADJ$ [Actor.Religion.GetName] 叛乱;;;;;;;;;;x
 heretic_revolt_desc;在正统宗教的宗教权威低下时，异端头目会发动叛乱并以火与剑来传播他们的歪理邪说.;;;;;;;;;;x
-HERETIC_REVOLT;[Root.Religion.GetName] 起义;;;;;;;;;;x
+HERETIC_REVOLT;[Root.Religion.GetName] 叛乱;;;;;;;;;;x
 heresiarch;异端头目;;;;;;;;;;x
 heresiarch_desc;这名角色是异端极端激进宗派的头目.;;;;;;;;;;x
 religious_unrest;宗教动乱;;;;;;;;;;x
@@ -635,10 +635,10 @@ caliphal_subjugation_desc;每 §Y10§! 年，哈里发可以花费§Y200§!虔�
 muslim_county_conquest_desc;穆斯林可以以 §Y50§! 虔诚，不需任何理由来征服一个单领地国家.;;;;;;;;;;x
 viking_invasion_desc;诺斯信仰能宣布将任意法理王国内足够强大的势力作为入侵目标. 这将使得他们通过冒险家们来提高等级，但他们必须在两年内发动攻击.;;;;;;;;;;x
 pagan_holy_war_desc;改革后的原始宗教可以以§Y100§! $PIETYNAME$，用这个理由来夺取其他法理公国中的异教徒头衔.;;;;;;;;;;x
-CANNOT_PLAY_PAGAN_WITHOUT_DLC;你没有安装上古之神DLC，不能使用原始宗教或祆教国家;;;;;;;;;;x
-NOT_ALLOWED_PAGAN;不能玩§Y原始宗教和祆教§!，因为你没有安装上古之神DLC!;;;;;;;;;;x
-NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$§!不能玩§Y原始宗教或祆教§!，因为没有安装上古之神DLC;;;;;;;;;;x
-RD_NOT_PLAYABLE_WITHOUT_PAGAN_DLC;没有安装上古之神DLC 不能使用原始宗教和祆教;;;;;;;;;;x
+CANNOT_PLAY_PAGAN_WITHOUT_DLC;你没有安装逝往神灵DLC，不能使用原始宗教或祆教国家;;;;;;;;;;x
+NOT_ALLOWED_PAGAN;不能玩§Y原始宗教和祆教§!，因为你没有安装逝往神灵DLC!;;;;;;;;;;x
+NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$§!不能玩§Y原始宗教或祆教§!，因为没有安装逝往神灵DLC;;;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_PAGAN_DLC;没有安装逝往神灵DLC 不能使用原始宗教和祆教;;;;;;;;;;x
 PREPARE_INVASION_INTERACTION_TITLE;准备入侵;;;;;;;;;;x
 PREPARE_INVASION_INTERACTION_DESC;准备入侵一个独立领主;;;;;;;;;;x
 PREPARE_INVASION_INTERACTION_LONG_DESC;光荣的诺斯信仰领主会在他们的一生中至少有一次在宣战前准备入侵.在入侵前的两年里，会有大量的甘于冒险投机之徒汇聚在你的战旗之下，你的目标越富有强大人数就在你旗下之人就越多.但若你在两年之后没有发动入侵，你将会为此颜面扫地.;;;;;;;;;;x
@@ -741,11 +741,11 @@ LOOTING_LOOT;这个省份每 §Y$DAYS$§! 天可以被掠夺 §Y$LOOT$§!¤ 。�
 LOOTING_UNIT_LAST;这个单位目前掠夺了 §Y$LOOT$§!;;;;;;;;;;x
 LOOTING_NOUNIT;你没有单位驻扎在省份;;;;;;;;;;x
 LOOTING_NOUNIT_SHORT;有一个单位驻扎在省份;;;;;;;;;;x
-FAM_CONSORTS;妾;;;;;;;;;;x
+FAM_CONSORTS;侍妾;;;;;;;;;;x
 FAM_LOVER;情人;;;;;;;;;;x
 CONCUBINAGE;妾侍制度;;;;;;;;;;x
 CONCUBINAGE_DESC;这是妾侍制度.妾所生下的孩子尽管社会地位较低，但是仍有正常的继承权并且属于父亲的家族.;;;;;;;;;;x
-NUBILE_CONSORTS;适婚的妾 (x§Y$NUM$§!): §G+$PRESTIGE$§!;;;;;;;;;;x
+NUBILE_CONSORTS;适婚的侍妾 (x§Y$NUM$§!): §G+$PRESTIGE$§!;;;;;;;;;;x
 DIVORCE_INTERACTION_0;付出 §R$GOLD$§!¤ 来和 §Y[Recipient.GetTitledFirstName]§! 离婚。[Recipient.GetHerHisCap] 的近亲将会受到侮辱(§R$OPINION$§! 好感度)。;;;;;;;;;;x
 opinion_abducted_spouse;被绑架的配偶;;;;;;;;;;x
 opinion_forced_consort;绑架者;;;;;;;;;;x
@@ -839,7 +839,7 @@ d_meath_adj_north_germanic;都柏林的;;;;;;;;;;x
 k_moravia;大摩拉维亚;;;;;;;;;;x
 k_moravia_adj;摩拉维亚的;;;;;;;;;;x
 PROV622;突厥斯坦;;;;;;;;;;x
-PROV629;阿什哈巴德;;;;;;;;;;x
+PROV629;科奇卡拉;;;;;;;;;;x
 d_turkestan;突厥斯坦;;;;;;;;;;x
 d_turkestan_adj;突厥斯坦;;;;;;;;;;x
 k_turkestan;突厥斯坦;;;;;;;;;;x
@@ -966,7 +966,7 @@ c_thomond_adj_north_germanic;赫利姆雷吉亚;;;;;;;;;;x
 c_ormond_adj_north_germanic;维德拉夫约德尔;;;;;;;;;;x
 c_ulster_adj_north_germanic;斯特朗夫约德尔;;;;;;;;;;x
 d_ulster_adj_north_germanic;斯特朗夫约德尔;;;;;;;;;;x
-samoyed;萨摩耶德人;;;;;;;;;;x
+samoyed;涅涅茨人;;;;;;;;;;x
 mordvin;莫尔多瓦人;;;;;;;;;;x
 khazar;可萨人;;;;;;;;;;x
 bolghar;保加尔人;;;;;;;;;;x
@@ -1068,7 +1068,7 @@ hold_blot_desc;和你的臣属一同举办一场大祭典	为神灵先上牺牲	
 held_blot_modifier;为神灵献上祭品;;;;;;;;;;x
 prepare_blot;你开始准备祭典.;;;;;;;;;;x
 blot_begins;倒吊之神奥丁已经准备好了他的绳子.;;;;;;;;;;x
-feast_begins;附庸的好感度增加了§G+15§!持续 §Y12§!个月。\n你来到了宴会大厅.;;;;;;;;;;x
+feast_begins;封臣的好感度增加了§G+15§!持续 §Y12§!个月。\n你来到了宴会大厅.;;;;;;;;;;x
 ukon_juhla_begins;你看到火焰腾空而起.;;;;;;;;;;x
 uzgavenes_begins;啊	春天将在今年来临.;;;;;;;;;;x
 EVTDESC_TOG_600;你召唤你的臣属前来一同参加祭典.当然那些基督徒和伊斯兰教徒如果交了贡金的话可以免于参与这场神圣的盛典.;;;;;;;;;;x
@@ -1502,10 +1502,10 @@ TITLE_ADJ_REGIMENT;$ADJ$兵团;;;;;;;;;;x
 catholic_DESC;天主教是基督教最古老对欧洲历史影响最大的分支. 该宗教的首领是罗马主教 - 教宗.;;;;;;;;;;x
 waldensian_DESC;瓦勒度派异端原本只是天主教会中的一股改革浪潮，他们反对教职人员，提倡回归财产誓言.他们反对死刑，认为普通教徒也能管理圣礼.这个异端没有正式的领袖和专门对应的的游戏机制;;;;;;;;;;x
 lollard_DESC;罗拉德派异端反对天主教会的腐败.和许多天主教异端一样，他们憎恨生活奢华，拥有大量财富的教职人员，希望回归更原始更纯粹的基督教.这个异端没有正式的领袖和专门对应的的游戏机制.;;;;;;;;;;x
-orthodox_DESC;正教会是另外一个参加查尔西顿会议的基督教主要分支	直到公元1054年还在形式上和天主教会合为一体	虽然两者政治上的分歧可以追溯到公元800年查理曼被教皇利奥三世加冕为罗马人的皇帝	这引起了君士坦丁堡的皇帝的不满. 正教会的名义首领是君士坦丁堡普世牧首	但是他不干涉其他牧首的事务.;;;;;;;;;;x
-miaphysite_DESC;东方正统教会包括科普特教会和亚美尼亚使徒教会. 教徒信奉基督只有神性	而不是既有神性又有人性. 这种观点使他们在公元451年的查尔西顿会议后与主流基督教派分道扬镳. 虽然正教会和天主教会没有认为它是完全的异端	但与它还是有细微的差别. 教会名义上的首领是亚历山大教宗.;;;;;;;;;;x
-monophysite_DESC;基督一性论是早期基督教的一种异端	认为基督只有神性. 这与聂斯脱里派基督二性二位说的观点相反. 与东方正统教派密切相关	一性论教会在游戏里被认为是东方正统教派的一种异端. 一性论教会名义上的首领是亚历山大一性论教宗.;;;;;;;;;;x
-monothelite_DESC;基督一志论是基督论的一种	在681年被宣布为异端. 基督一志论教会发展了东方正统教会和一性论教会的观点	认为基督既有人性又有神性	但是只有一种意志. 一志论教会的名义首领是安条克一志论牧首.;;;;;;;;;;x
+orthodox_DESC;正教会是另外一个参加查尔西顿会议的基督教主要分支	直到公元1054年还在形式上和天主教会合为一体	虽然两者政治上的分歧可以追溯到公元800年查理曼被教宗利奥三世加冕为罗马人的皇帝	这引起了君士坦丁堡的皇帝的不满. 正教会的名义首领是君士坦丁堡普世牧首	但是他不干涉其他牧首的事务.;;;;;;;;;;x
+miaphysite_DESC;合性论基督教包括科普特教会和亚美尼亚使徒教会. 合性论强调基督只有一个性质，而不是既有神性又有人性. 这种观点使他们在公元451年的迦克敦会议后与主流基督教派分道扬镳. 虽然正教会和天主教会没有认为它是完全的异端，但与它还是有细微的差别. 合性论教会名义上的首领是亚历山大教宗;;;;;;;;;;x
+monophysite_DESC;基督一性派是早期基督教的一种异端，认为基督只有神性. 这与聂斯脱里派的基督同时具有神性和人性的观点相反. 与基督合性派密切相关，一性论教会在游戏里被认为是基督合性派的一种异端. 一性论教会名义上的首领是亚历山大一性派教宗;;;;;;;;;;x
+monothelite_DESC;基督一志论是基督论的一种，在681年被宣布为异端. 基督一志论教会发展了基督合性论和一性论教会关于基督只有一个性质的观点，认为基督既有人性又有神性，但是只有一种意志. 一志论教会的名义首领是安条克一志论牧首.;;;;;;;;;;x
 sunni_DESC;伊斯兰逊尼派是至今为止传播最广的宗教. 在伊斯兰教两大派系中逊尼派被认为是正统派	但是逊尼派和什叶派的分裂源头实际上只是政治上的分歧. 逊尼派承认第一个哈里发艾布·伯克尔的合法性	而什叶派拒绝承认他的合法性而认为阿里才是合法的哈里发. 逊尼派穆斯林严格遵循圣训	即穆罕默德说过的话和做过的事	圣训还构成了逊尼派立法的基础. 伊斯兰逊尼派的正式首领是(逊尼派)哈里发.;;;;;;;;;;x
 zikri_DESC;伊斯兰诵经派在游戏中是一个逊尼派的异端. 诵经派是Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.)的追随者;;;;;;;;;;x
 shiite_DESC;什叶派Shi'a是Shi'atul Ali的缩写	或称为阿里派	他们拒绝承认第一个哈里发艾布·伯克尔的合法性而认为阿里才是合法的哈里发. 在伊斯兰两大派系中什叶派比较而言正统性略低	什叶派相信隐遁伊玛目是救世主的观点. 伊斯兰什叶派的正式首领是(什叶派)哈里发.;;;;;;;;;;x
@@ -1516,7 +1516,7 @@ tengri_pagan_reformed_DESC;改革的长生天信仰有一本用鄂尔浑符文�
 tengri_pagan_DESC;腾格里信仰是欧亚大草原上突厥人和蒙古人的游牧部落信奉的宗教. 主神是创世神腾格里天神. 这一宗教具有鲜明的萨满教和泛灵教特征.;;;;;;;;;;x
 baltic_pagan_reformed_DESC;改革的波罗的海信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由Dievs大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 baltic_pagan_DESC;波罗的海原始宗教是一种多神信仰	主神是天神Dievs. 其他主神包括雷电之神Perkunas	和日耳曼人的雷神托尔以及斯拉夫人的雷神Perun十分类似	太阳和繁殖女神Saule	Daugava and Meness.;;;;;;;;;;x
-finnish_pagan_reformed_DESC;改革的芬兰信仰有一本圣书	包括创世神话	诸神相关的章节	以及一本神秘咒语书. 该教会有一套标准化的礼拜仪式以及由Ukko大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
+finnish_pagan_reformed_DESC;改革的芬兰信仰有一本圣书	包括创世神话	诸神相关的章节	以及一本神秘咒语书. 该教会有一套标准化的礼拜仪式以及由乌戈大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 finnish_pagan_DESC;芬兰原始宗教多种多样	不同部落和地区变化很大. 它具有萨满教和泛灵论的特征	崇拜很多神灵	包括Ukko/Perkele	Kuu	以及东方的大地女神Mastor-Ava.;;;;;;;;;;x
 aztec_reformed_DESC;改革的阿兹特克信仰有一本真正的圣书	一套标准化的礼拜仪式和以专门的大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 aztec_DESC;阿兹特克信仰的创世神话里充满着献祭 - 为了让太阳保持运转甚至诸神也要被献祭. 这反映在许多该宗教的节日和仪式里的大规模人祭上. 主神包括战神人祭之神维齐洛波奇特利Huitzilopochtli	雷神雨神特拉洛克Tlaloc	火神修堤库特里	剥皮之主西佩托堤克Xipe Totec	以及智慧之神羽蛇神奎兹特克Quetzalcoatl.;;;;;;;;;;x

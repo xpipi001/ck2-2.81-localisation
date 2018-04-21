@@ -44,7 +44,7 @@ SELECT_PLOT_NO_AVAILABLE;没有适合的密谋可用;;;;;;;;;;x
 FACTIONS;派系;;;;;;;;;;x
 JOIN_FACTION_DESC;加入派系意味着你必须服从派系领袖的决定. 如果这个派系被卷入一场叛乱, 你除了加入战争别无选择.;;;;;;;;;;x
 LEAVE_FACTION;§Y退出派系§!;;;;;;;;;;x
-FACTION_POWER;强度: $MEN$ 军力 (封君的$PERC$% );;;;;;;;;;x
+FACTION_POWER;强度: $MEN$ 人 (领主的$PERC$% );;;;;;;;;;x
 LEADS_FACTION;领导  '§Y$FACTION$§!' 派系;;;;;;;;;;x
 LEADS_A_FACTION;领导一个派系;;;;;;;;;;x
 LEADS_NO_FACTION;不领导派系;;;;;;;;;;x
@@ -98,8 +98,8 @@ EVTDESC8090;为了避免内战撕碎整个国家, [From.GetTitledName] 已经同
 EVTDESC8091;§Y[From.GetTitledName]§!已经同意了§Y分封继承派§!的要求.继承法改变了.;;;;;;;;;;x
 EVTDESC8095;为了避免内战撕碎整个国家, [From.GetTitledName] 已经同意降低王权.你在这次冲突中关键的支持将会被谨记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
 EVTDESC8094;在一个强大派系的压力下, §Y[From.GetTitledName]§!已经同意§Y降低王权§!.;;;;;;;;;;x
-EVTDESC8097;为了避免无价值的内战, [From.GetTitledName] 明智得同意解除我们的附庸义务.你在这次冲突中关键的支持将会被谨记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
-EVTDESC8093;在一个强大的独立派系压力下, [From.GetTitledName] 已经同意解除 [FromFrom.PrimaryTitle.GetFullName] 和其他成员的附庸义务.;;;;;;;;;;x
+EVTDESC8097;为了避免无价值的内战, [From.GetTitledName] 明智得同意解除我们的封臣义务.你在这次冲突中关键的支持将会被谨记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
+EVTDESC8093;在一个强大的独立派系压力下, [From.GetTitledName] 已经同意解除 [FromFrom.PrimaryTitle.GetFullName] 和其他成员的封臣义务.;;;;;;;;;;x
 EVTDESC8098;不可思议! [From.GetTitledName] 已经明智得同意你的要求并接受 [FromFrom.SupportedClaimant.GetTitledName] 作为 [FromFrom.SupportedClaimantTitle.GetName]的领主. 开始庆祝吧!\n\n签署人,\n[FromFrom.GetTitledName];;;;;;;;;;x
 EVTDESC8099;[From.GetTitledName] 已经向派系屈服并且认同 [FromFrom.SupportedClaimant.GetTitledName] 作为 [FromFrom.SupportedClaimantTitle.GetName] 的统治者.;;;;;;;;;;x
 WAR_NAME_FACTION_INDEPENDENCE;$ORDER$$FIRST_ADJ$ 联盟独立战争;;;;;;;;;;x
@@ -185,8 +185,8 @@ NO_TERRAIN_SPEC;没有特殊地形;;;;;;;;;;x
 A_TERRAIN_SPEC;有特殊地形;;;;;;;;;;x
 HAS_TERRAIN_SPEC_IN;在 §Y$TYPE$§! 有特殊地形;;;;;;;;;;x
 DOES_NOT_HAVE_TERRAIN_SPEC_IN;在 §Y$TYPE$§! 没有特殊地形;;;;;;;;;;x
-NO_MORE_LEADERSHIP_TRAITS;无法拥有更多领袖特性;;;;;;;;;;x
-MORE_LEADERSHIP_TRAITS;可以拥有更多领袖特性;;;;;;;;;;x
+NO_MORE_LEADERSHIP_TRAITS;无法拥有更多领袖特质;;;;;;;;;;x
+MORE_LEADERSHIP_TRAITS;可以拥有更多领袖特质;;;;;;;;;;x
 COMBAT_IN_TERRAIN;在 §Y$TERRAIN$§! 战斗 : $PERC$;;;;;;;;;;x
 DAMAGE_COMBAT_MODIFIER;伤害战斗修正: $PERC$;;;;;;;;;;x
 PURSUIT_COMBAT_MODIFIER;追击战斗修正: $PERC$;;;;;;;;;;x
@@ -300,7 +300,7 @@ EVTDESC94052;你的新酒馆事务繁忙，每个人都在准备晚上盛大的�
 EVTOPTA94052;增加10%的盐！;;;;;;;;;;x
 EVTOPTB94052;增加20%的盐！;;;;;;;;;;x
 EVTOPTC94052;增加30%的盐！;;;;;;;;;;x
-EVTOPTD94052;把我们所有的盐都加进去，艹！;;;;;;;;;;x
+EVTOPTD94052;把我们所有的盐都加进去，艹尼玛的！;;;;;;;;;;x
 EVTTOOLTIP94053;萝卜中加入了盐.;;;;;;;;;;x
 EVTDESC94053;你的酒馆很快就要向公众开放了，但是在晚上开张之前还有最后一个细节需要引起你的注意.需要预定一些形式的表演来留住客人.在搜索过本地的娱乐活动之后，你总结出了以下几个待选选项：;;;;;;;;;;x
 EVTOPTA94053;请一位本地牧师做一个冗长的布道讲一讲坏习惯所具有的罪恶.;;;;;;;;;;x

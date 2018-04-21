@@ -66,7 +66,7 @@ RD_FINISH;完成;;;;;;;;;;x
 RD_IS_MALE;人物为男性，点击以改变;;;;;;;;;;x
 RD_IS_FEMALE;人物为女性，点击以改变;;;;;;;;;;x
 RD_NOT_PLAYABLE;§R不能扮演信奉此宗教的人物§!;;;;;;;;;;x
-RD_OPEN_RULER_DESIGNER;打开人物编辑器;;;;;;;;;;x
+RD_OPEN_RULER_DESIGNER;打开人物设计器;;;;;;;;;;x
 RD_CHANGE_GRAPHICAL_CULTURE;更换文化图标;;;;;;;;;;x
 RD_CHANGE_CULTURE;更换文化;;;;;;;;;;x
 RD_CHANGE_RELIGION;更换宗教;;;;;;;;;;x
@@ -79,9 +79,9 @@ RD_EXTRA_CLICK;点击以改变\n按住Shift键以五倍增减\n按住Ctrl键以�
 RD_RESET;重置;;;;;;;;;;x
 RD_FAIL_NO_NAME;你需要设定此人物的名字;;;;;;;;;;x
 RD_FAIL_NO_DYN_NAME;你需要设定此人物的家族名;;;;;;;;;;x
-RD_RULER_DESIGNER;统治者设计器;;;;;;;;;;x
+RD_RULER_DESIGNER;人物设计器;;;;;;;;;;x
 RD_FAIL_NO_UNPLAYABLE;§R不能自定义不可扮演人物§!;;;;;;;;;;x
-RD_FAIL_NO_DLC;§R你需要人物编辑器DLC§!;;;;;;;;;;x
+RD_FAIL_NO_DLC;§R你需要人物设计器DLC§!;;;;;;;;;;x
 RD_FAIL_SAME_NAME;不能与被替换的人物同名;;;;;;;;;;x
 RD_CHANGE_SONS;改变此人物的儿子数量;;;;;;;;;;x
 RD_CHANGE_DAUGHTERS;改变此人物的女儿数量;;;;;;;;;;x

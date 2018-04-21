@@ -113,7 +113,7 @@ hard_of_hearing_desc; [GetHerHis] 的耳膜已经损坏, 严重影响了 [GetHer
 EVTTITLE_ZE_4050;烈焰绵羊;;;;;;;;;;x
 EVTDESC_ZE_4050;你收到了关于 [Root.GetMarshalName] 军事实验结果的报告. 报告称, 试验主要是将大量的羊浇上油, 然后朝羊群放火, 将受到惊吓羊群驱赶向敌人. 不幸的是, 他们无法控制羊群的方向, 工程师被当场烧死. 你的 [Root.GetMarshalName] 勉强保住了 [Root.GetHerHis] 的命.;;;;;;;;;;x
 EVTOPTA_ZE_4050;看来晚饭就要吃烤羊肉了。。;;;;;;;;;;x
-EVTDESC_ZE_4100;你收到报告称 [Root.GetMarshalName] 在 [Root.job_marshal.Location.GetName] 有异常活动.  [Root.job_marshal.GetSheHe] 一直在宣传你病危的消息, 并鼓动农民起义!;;;;;;;;;;x
+EVTDESC_ZE_4100;你收到报告称 [Root.GetMarshalName] 在 [Root.job_marshal.Location.GetName] 有异常活动.  [Root.job_marshal.GetSheHe] 一直在宣传你病危的消息, 并鼓动农民叛乱!;;;;;;;;;;x
 EVTOPTA_ZE_4100;[Root.GetMarshalName]不会是一个叛徒！;;;;;;;;;;x
 EVTOPTB_ZE_4100;[Root.job_marshal.GetHerHim] 还有用.;;;;;;;;;;x
 EVTDESC_ZE_4120;有关 [Root.GetMarshalName] 在 [Root.job_marshal.GetTitledFirstName] 的报告称.  [Root.job_marshal.GetSheHe] 一直在让你的士兵勒索 [Root.job_marshal.Location.GetName] 的农民.;;;;;;;;;;x
@@ -187,7 +187,7 @@ ASSIGN_VOTER_TITLE_INTERACTION_0;选择一个荣誉头衔授予给§Y[Recipient.
 ASSIGN_VOTER_TITLE_INTERACTION_1;把 §Y[ThirdPartyTitle.GetFullName]§!的头衔授予§Y[Recipient.GetTitledFirstName]§!。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点看法。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_DESC;用一个荣誉头衔来任命一个角色进入内阁。;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁职位来安抚你的附庸并且让他们不会加入反对你的派系。;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁职位来安抚你的封臣并且让他们不会加入反对你的派系。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\n我希望任命你进入我的内阁，因而提供给你§Y[ThirdPartyTitle.GetFullName]§!的头衔。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;被任命的内阁成员;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!把§Y[Recipient.GetBestName]§! 任命为[ThirdPartyTitle.GetFullName];;;;;;;;;;x
@@ -373,7 +373,7 @@ ALL_VOTERS;所有投票者;;;;;;;;;;x
 AIREASON_HAS_CASUS_BELLI;拥有针对§Y[GetTitledFirstName]§!的宣战理由;;;;;;;;;;x
 AIREASON_HAS_COMMON_ENEMIES;共同的敌人;;;;;;;;;;x
 AIREASON_SHARE_SAME_INTERESTS;相同的利益;;;;;;;;;;x
-SAME_REALM_CLANS;不再有游牧民族的部落在王国境内了;;;;;;;;;;x
+SAME_REALM_CLANS;不再有游牧部族在领内了;;;;;;;;;;x
 INTERACTION_REQUIRES_VALID_MINOR_TITLE_TO_REVOKE;我们有任意可从§Y[Recipient.GetTitledFirstName]§!处收回的荣誉称号;;;;;;;;;;x
 VOTER_LOST_SETUP;失去投票者;;;;;;;;;;x
 VOTER_LOST_LOG;$VOTER|Y$不再是$OLD_LIEGE|Y$的$TITLE|Y$§!;;;;;;;;;;x
@@ -414,7 +414,7 @@ EVTOPTA_ZE_3010;我无话可说.;;;;;;;;;;x
 EVTOPTB_ZE_3010;它们太多了，赶走它.;;;;;;;;;;x
 EVTDESC_ZE_3011;[steward.GetTitledFirstName]微笑着和你说道'我的领主, 我注意到每当我们的讨论涉及财政问题的时候您就有点昏昏欲睡。我相信如果要让一个人对某件事提起兴趣，就必须让他亲自前去体验一番。或许明天您可以与我一道体验下我一整天的工作？;;;;;;;;;;x
 EVTOPTA_ZE_3011;哦, 事情变得更有趣了.;;;;;;;;;;x
-EVTOPTB_ZE_3011;蛤! 你一定是在开玩笑吧, 我有更重要的事情去做.;;;;;;;;;;x
+EVTOPTB_ZE_3011;哈! 你一定是在开玩笑吧, 我有更重要的事情去做.;;;;;;;;;;x
 EVTDESC_ZE_3012;[steward.GetTitledFirstName] 今天出发去征收税赋. 一些人抱怨着说需要付出更多的收入来交税. [steward.GetTitledFirstName] 平静的解释为什么征收税赋来安抚这些抱怨的人.;;;;;;;;;;x
 EVTOPTA_ZE_3012;赚来的钱可以用来赢得信任.;;;;;;;;;;x
 EVTOPTB_ZE_3012;或许我们可以向他们勒索的更多点?;;;;;;;;;;x
@@ -460,7 +460,7 @@ EVTDESC_ZE_6007;[target_liege.GetTitledName]告诉我[councillor_target.GetTitle
 EVTOPTA_ZE_6007;那条毒蛇！;;;;;;;;;;x
 obj_land_for_son_title;为没有封地的儿子获取土地;;;;;;;;;;x
 obj_land_for_son_desc;你希望获得一些土地给还没有继承什么的一个儿子。;;;;;;;;;;x
-EVTDESC_ZE_6012;你的附庸，[From.GetTitledName]，现在关注[From.GetHerHis]的没有继承权的儿子们。[From.GetSheHeCap]要求你在寻找新的附庸的时候注意他们。;;;;;;;;;;x
+EVTDESC_ZE_6012;你的封臣，[From.GetTitledName]，现在关注[From.GetHerHis]的没有继承权的儿子们。[From.GetSheHeCap]要求你在寻找新的封臣的时候注意他们。;;;;;;;;;;x
 EVTOPTA_ZE_6012;我能够使用更多的好人。;;;;;;;;;;x
 EVTOPTB_ZE_6012;谁要我的土地我也不能放弃。;;;;;;;;;;x
 EVTOPTC_ZE_6012;[From.GetTitledFirstName]将记住这个慷慨。;;;;;;;;;;x
@@ -545,9 +545,9 @@ EVTOPTB38062;我不喜欢这种交易。;;;;;;;;;;x
 EVTDESC50009;[From.GetTitledName]已经显示了仁慈，并会释放我，以换取未来的人情。;;;;;;;;;;x
 EVTOPTA50009;我不会忘记这些。;;;;;;;;;;x
 EVTOPTE50006;释放[From.GetHerHim]，[From.GetSheHe]以后会回报我。;;;;;;;;;;x
-EVTDESC63006B;我主已经同意把一个附庸划给我，但是我将来不得不回报[Root.Liege.GetHerHim]。;;;;;;;;;;x
-EVTOPTA63001B;[From.GetSheHeCap]能够拥有一个附庸，做为帮助。;;;;;;;;;;x
-EVTDESC_ZE_8110;你的附庸[target_vassal.GetTitledName]正在与[target_vassal.GetHerHis]的[target_vassal.GetHusbandWifeOpp]争吵。[target_vassal.GetSheHeCapOpp]似乎非常沮丧，他们几乎向彼此尖叫。他们没有注意到你正在观察他们。;;;;;;;;;;x
+EVTDESC63006B;我主已经同意把一个封臣转移给我，但是我将来不得不回报[Root.Liege.GetHerHim]。;;;;;;;;;;x
+EVTOPTA63001B;[From.GetSheHeCap]能够拥有一个封臣，做为帮助。;;;;;;;;;;x
+EVTDESC_ZE_8110;你的封臣[target_vassal.GetTitledName]正在与[target_vassal.GetHerHis]的[target_vassal.GetHusbandWifeOpp]争吵。[target_vassal.GetSheHeCapOpp]似乎非常沮丧，他们几乎向彼此尖叫。他们没有注意到你正在观察他们。;;;;;;;;;;x
 EVTOPTA_ZE_8110;我应该干预。;;;;;;;;;;x
 EVTOPTB_ZE_8110;这不关你的事。;;;;;;;;;;x
 EVTDESC_ZE_8111;当你走近这对夫妇，你看向他们然后解释[target_vassal.GetFirstName]最近一定有很多的压力来自于内阁施加给[target_vassal.GetHerHim]的全部责任。现在那里没有什么可做的，[target_vassal.GetSheHe]将有时间表示对[target_vassal.GetHerHis][target_vassal.GetHusbandWifeOpp]的欣赏。;;;;;;;;;;x
@@ -633,12 +633,12 @@ HELD_FAVOR_ACTIVATED_ON_NOT_TRIGGER;$CHARACTER|Y$没有持有一个激活的人�
 HELD_FAVOR_ACTIVATED_ON_CHARACTER_TRIGGER;$CHARACTER|Y$从$TARGET|Y$得到一个激活的人情;;;;;;;;;;x
 ANY_FAVOR_HOLDER;所有人情持有者;;;;;;;;;;x
 ANY_FAVOR_OWER;所有人情亏欠者;;;;;;;;;;x
-AMONG_MOST_POWERFUL_VASSALS_TOOLTIP;根据实力属于顶级$VALUE|Y$附庸;;;;;;;;;;x
-MOST_POWERFUL_VASSAL_TOOLTIP;是实力最强的附庸;;;;;;;;;;x
-NOT_AMONG_MOST_POWERFUL_VASSALS_TOOLTIP;根据实力不属于顶级$VALUE|Y$附庸;;;;;;;;;;x
-NOT_MOST_POWERFUL_VASSAL_TOOLTIP;不是实力最强的附庸;;;;;;;;;;x
+AMONG_MOST_POWERFUL_VASSALS_TOOLTIP;根据实力属于顶级$VALUE|Y$封臣;;;;;;;;;;x
+MOST_POWERFUL_VASSAL_TOOLTIP;是实力最强的封臣;;;;;;;;;;x
+NOT_AMONG_MOST_POWERFUL_VASSALS_TOOLTIP;根据实力不属于顶级$VALUE|Y$封臣;;;;;;;;;;x
+NOT_MOST_POWERFUL_VASSAL_TOOLTIP;不是实力最强的封臣;;;;;;;;;;x
 LOOTING_FORBIDDEN_NON_AGGRESSION;因为有与$CHAR|Y$的互不侵犯条约所以不允许掠夺。;;;;;;;;;;x
-IS_A_POWERFUL_VASSAL;§Y被认为是你王国内一个强大的附庸§!;;;;;;;;;;x
+IS_A_POWERFUL_VASSAL;§Y被认为是你领内一个强大的封臣§!;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_INTERACTION_1;撤销§Y[Recipient.GetTitledFirstName]§!的§Y[ThirdPartyTitle.GetFullName]§!头衔。;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_OPINION;这将改变你的[Recipient.GetPossPronoun]评价$OPINION|+$。;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_SPLIT_OPINION;这将改变你的[Recipient.GetPossPronoun]评价$OPINION|+$。（$TITLE_OPINION|+$距离失去头衔，$REVOKE_OPINION|+$距离使得[Recipient.GetObjectPronoun]失望。）;;;;;;;;;;x

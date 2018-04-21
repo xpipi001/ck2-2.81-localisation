@@ -1,6 +1,6 @@
 ﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 NAME_W_NICK;$TITLE$ $NAME$ '$NICK$';;;;;;;;;;x
-VASSAL_RETRACTION_LOG;$TOP_LIEGE$已收回$VASSAL$$OLD_LIEGE$头衔。;;;;;;;;;;x
+VASSAL_RETRACTION_LOG;$上级领主$收回封臣$封臣$从$旧领主$。;;;;;;;;;;x
 opinion_retracted_my_vassal;收回封臣头衔。;;;;;;;;;;x
 opinion_retracted_my_de_jure_vassal;收回我的法理封臣头衔。;;;;;;;;;;x
 opinion_retracted_a_vassal;收回一个封臣的头衔。;;;;;;;;;;x
@@ -44,6 +44,6 @@ GOD_VENUS;维纳斯;;;;;;;;;;x
 GOD_MINERVA;弥涅尔瓦;;;;;;;;;;x
 GOD_VESTA;维斯塔;;;;;;;;;;x
 pagan_DESC;有史以来, 欧洲和中东诞生了数不清的不属于亚伯拉罕宗教的异教信仰;;;;;;;;;;x
-d_aztec_reformed;阿兹特克神庙;;;;;;;;;;x
+d_aztec_reformed;阿兹特克教团;;;;;;;;;;x
 job_spiritual_hellenic_pagan;祭司;;;;;;;;;;x
 job_spiritual_pagan;祭司;;;;;;;;;;x

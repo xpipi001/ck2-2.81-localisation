@@ -697,7 +697,7 @@ disorganised_harass_tactic;没有组织的骚扰战术;;;;;;;;;;x
 STEAL_POPULATION_SCALED_EFFECT;从$FROM|Y$夺取$PERCENTAGE|Y%$§Y人口§!到$TO|Y$\n;;;;;;;;;;x
 CB_NAME_HUMILIATE;羞辱;;;;;;;;;;x
 WAR_NAME_HUMILIATE;$ORDER$$FIRST_ADJ$战争来羞辱$DEFENDER$;;;;;;;;;;x
-nomad_humiliate_cb_desc;羞辱敌人并且夺取他们的人民来强化自己的族群。;;;;;;;;;;x
+nomad_humiliate_cb_desc;羞辱敌人并且夺取他们的人民来强化自己的部族。;;;;;;;;;;x
 DECLINE_LAW;否决;;;;;;;;;;x
 EVTOPTC290;否决;;;;;;;;;;x
 INFAMY_HISTORY_STR;$TEXT$：§Y$VALUE$%§!;;;;;;;;;;x
@@ -850,21 +850,21 @@ out_of_realm_inheritance_law_1_desc;不允许外国人继承封臣头衔;;;;;;;;
 out_of_realm_inheritance_law_1_option;非法;;;;;;;;;;x
 out_of_realm_inheritance_law_desc;制定控制领地继承的法令，可以确保头衔不被忠于另一位君主的人继承。;;;;;;;;;;x
 out_of_realm_inheritance_law;领地继承控制;;;;;;;;;;x
-status_of_women;女性参政权;;;;;;;;;;x
+status_of_women;女性地位;;;;;;;;;;x
 status_of_women_desc;中世纪社会通常在家长式的统治下运行，而女性被排除在权利的核心之外。君主可以颁布相关的法令，提升女性在社会中的地位;;;;;;;;;;x
-status_of_women_0;传统女性参政权;;;;;;;;;;x
+status_of_women_0;传统女性地位;;;;;;;;;;x
 status_of_women_0_desc;女性被禁止担任任何职位。一些政体将会限定继承人为男性;;;;;;;;;;x
 status_of_women_0_option;传统;;;;;;;;;;x
-status_of_women_1;边缘化女性参政权;;;;;;;;;;x
+status_of_women_1;边缘化女性地位;;;;;;;;;;x
 status_of_women_1_desc;女性被允许掌握一定的权力，身居幕后辅佐主事者;;;;;;;;;;x
 status_of_women_1_option;边缘化;;;;;;;;;;x
-status_of_women_2;象征性女性参政权;;;;;;;;;;x
+status_of_women_2;象征性女性地位;;;;;;;;;;x
 status_of_women_2_desc;女性被正式授予政治权力，被允许担任公职;;;;;;;;;;x
 status_of_women_2_option;象征性;;;;;;;;;;x
-status_of_women_3;显著的女性参政权;;;;;;;;;;x
+status_of_women_3;显著的女性地位;;;;;;;;;;x
 status_of_women_3_desc;对女性的限制被正式废止。所有的职位为杰出的女性敞开大门。;;;;;;;;;;x
 status_of_women_3_option;显著的;;;;;;;;;;x
-status_of_women_4;完整女性参政权;;;;;;;;;;x
+status_of_women_4;完整女性地位;;;;;;;;;;x
 status_of_women_4_desc;通过强有力的立法，大众对女性社会地位的偏见最终得以消除。;;;;;;;;;;x
 status_of_women_4_option;完整;;;;;;;;;;x
 TOOLTIP_ALLOW_FEMALE_SPYMASTER;与统治者有关系的女性，被允许担任[Root.Holder.GetSpymasterName]\n;;;;;;;;;;x
@@ -914,7 +914,7 @@ EVTOPTB_ZE_13611_FERR;亲吻他的面颊。;;;;;;;;;;x
 EVTOPTC_ZE_13611_CARP;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;x
 EVTOPTC_ZE_13611_FERR;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;x
 revoke_title_law;收回头衔;;;;;;;;;;x
-revoke_title_law_desc;在法律的限制了头衔的销毁;;;;;;;;;;x
+revoke_title_law_desc;法律限制头衔的收回.;;;;;;;;;;x
 revoke_title_law_0;不允许收回头衔。;;;;;;;;;;x
 revoke_title_law_0_desc;君主在任何情况下都不得干涉世袭头衔的所有权。;;;;;;;;;;x
 revoke_title_law_0_option;无;;;;;;;;;;x
@@ -962,7 +962,7 @@ law_voting_power_1_desc;这将给委员会授权。\n;;;;;;;;;;x
 law_voting_power_0_option;废除;;;;;;;;;;x
 law_voting_power_1_option;授权;;;;;;;;;;x
 banish_voting_power;驱逐;;;;;;;;;;x
-banish_voting_power_desc;内阁有能力干涉从领土中驱逐人物;;;;;;;;;;x
+banish_voting_power_desc;内阁有权干涉驱逐;;;;;;;;;;x
 banish_voting_power_0;驱逐权;;;;;;;;;;x
 banish_voting_power_1;囚犯驱逐委员会;;;;;;;;;;x
 banish_voting_power_0_desc;君主驱逐囚犯的权力不受干涉。\n;;;;;;;;;;x
@@ -970,7 +970,7 @@ banish_voting_power_1_desc;阁僚对驱逐囚犯表决。\n;;;;;;;;;;x
 banish_voting_power_0_option;头衔;;;;;;;;;;x
 banish_voting_power_1_option;内阁;;;;;;;;;;x
 revoke_title_voting_power;收回头衔;;;;;;;;;;x
-revoke_title_voting_power_desc;内阁有权干涉头衔的销毁;;;;;;;;;;x
+revoke_title_voting_power_desc;内阁有权干涉头衔收回;;;;;;;;;;x
 revoke_title_voting_power_0;法理头衔销毁权;;;;;;;;;;x
 revoke_title_voting_power_1;头衔销毁委员会;;;;;;;;;;x
 revoke_title_voting_power_0_desc;君主拥有头衔收回的绝对权力。;;;;;;;;;;x
@@ -978,7 +978,7 @@ revoke_title_voting_power_1_desc;内阁成员投票决定头衔收回与否。;;
 revoke_title_voting_power_0_option;君主;;;;;;;;;;x
 revoke_title_voting_power_1_option;内阁;;;;;;;;;;x
 grant_title_voting_power;赐予头衔权力;;;;;;;;;;x
-grant_title_voting_power_desc;内阁影响头衔赐予决议的能力。;;;;;;;;;;x
+grant_title_voting_power_desc;内阁有权干涉头衔赐予。;;;;;;;;;;x
 grant_title_voting_power_0;君主全权赐予头衔;;;;;;;;;;x
 grant_title_voting_power_1;头衔授予委员会;;;;;;;;;;x
 grant_title_voting_power_0_desc;君主拥有头衔赐予的绝对权力。;;;;;;;;;;x
@@ -986,7 +986,7 @@ grant_title_voting_power_1_desc;内阁成员投票决定头衔赐予与否。;;;
 grant_title_voting_power_0_option;君主;;;;;;;;;;x
 grant_title_voting_power_1_option;内阁;;;;;;;;;;x
 imprison_voting_power;监禁权力;;;;;;;;;;x
-imprison_voting_power_desc;内阁影响逮捕权力的能力。;;;;;;;;;;x
+imprison_voting_power_desc;内阁有权干涉逮捕。;;;;;;;;;;x
 imprison_voting_power_0;君主全权逮捕;;;;;;;;;;x
 imprison_voting_power_1;逮捕委员会;;;;;;;;;;x
 imprison_voting_power_0_desc;君主拥有逮捕决议的绝对权力。;;;;;;;;;;x
@@ -994,7 +994,7 @@ imprison_voting_power_1_desc;内阁成员投票决定逮捕与否。;;;;;;;;;;x
 imprison_voting_power_0_option;君主;;;;;;;;;;x
 imprison_voting_power_1_option;内阁;;;;;;;;;;x
 war_voting_power;宣战权力;;;;;;;;;;x
-war_voting_power_desc;内阁影响宣战的能力。;;;;;;;;;;x
+war_voting_power_desc;内阁有权干涉宣战。;;;;;;;;;;x
 war_voting_power_0;君主全权宣战;;;;;;;;;;x
 war_voting_power_1;宣战委员会;;;;;;;;;;x
 war_voting_power_0_desc;君主拥有对外宣战的绝对权力。;;;;;;;;;;x
@@ -1462,7 +1462,7 @@ EVTDESC750;我已被 [From.GetLawProposer] 说服 要通过 [From.GetProposedLaw
 COUNCIL_LAW_VOTING_DISABLED;§R你在当前法律下不可建议法律更改 §!;;;;;;;;;;x
 COUNCIL_LAW_VOTING_DISABLED_BY_FAVOR_OWNER;§R你不可在欠着人情的时候建议法律更改§!;;;;;;;;;;x
 LAW_VOTE_DISABLED_UNDER_FAVOR;§R你不可在欠着人情的时候就更改法律投票§!;;;;;;;;;;x
-VOTE_AS_FAVOR_OWNER_LOG;$CHARACTER|Y$ 已经投票兹辞 $VOTE$ $LAW|Y$ 由于还人情给 $TARGET|Y$;;;;;;;;;;x
+VOTE_AS_FAVOR_OWNER_LOG;$CHARACTER|Y$ 已经投票支持 $VOTE$ $LAW|Y$ 反还人情给 $TARGET|Y$;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP;要求还人情;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG;$ACTOR|Y$ 已经要求 $RECIPIENT|Y$ 还个人情;;;;;;;;;;x
 BUY_FAVOR_INTERACTION_DECLINE_SETUP;人情不是用来卖的;;;;;;;;;;x
@@ -1470,7 +1470,7 @@ BUY_FAVOR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetDynName]§! 已经拒绝卖�
 LOAD_OLD_SAVE_TO_ZEUS_TITLE;新版本读旧档;;;;;;;;;;x
 LOAD_OLD_SAVE_TO_ZEUS_DESC;你正要在新版本的游戏中读入过去版本的存档。这将导致不可预知的结果 我们不推荐这样做。是否继续？;;;;;;;;;;x
 LOAD_ZEUS_SAVE_TO_OLD_VERSION;§R这个存档创立时使用了秘密会议DLC，继续游戏此DLC。§!;;;;;;;;;;x
-FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$ 不会投票资瓷法律更改;;;;;;;;;;x
+FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$ 不会投票支持法律更改;;;;;;;;;;x
 LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC;你没有内阁法律可选。你需要首先增加部落组织度来解锁它们;;;;;;;;;;x
 LAW_VIEW_NO_COUNCIL_LAWS_DESC;你现在没有内阁法律可选;;;;;;;;;;x
 COUNCIL_JOBS_INSTANT;这里显示影响你国家统计指标的顾问;;;;;;;;;;x

@@ -135,8 +135,8 @@ EVTDESC70012;我军向前推进直至短兵相交,但看到恶敌使我小伙伴
 EVTDESC923;在我监督[Root.Location.GetName]建设期间,我偶遇了一位建筑大师.他的建筑知识似乎无穷无尽,并且无比乐意向我倾囊相授.;;;;;;;;;;x
 EVTOPTA923;这对我的工作大有裨益.;;;;;;;;;;x
 EVTDESC20230;我的领主,在[From.Location.GetName]的建筑工程在一名建筑大师的监督下进展顺利.建筑大师将他的知识和技巧对我倾囊相授,这将对我的工作大有裨益.\n\n您谦卑的总管,\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC80057;因不愿再效忠前任领主,[FromFrom.GetName]的农民起义军已转投[From.County.Holder.GetTitledName],并向其宣誓效忠!;;;;;;;;;;x
-EVTDESC80062;因不愿再效忠前任领主,[Root.GetName]的农民起义军已转投效忠另一名统治者!;;;;;;;;;;x
+EVTDESC80057;因不愿再效忠前任领主,[FromFrom.GetName]的农民叛军已转投[From.County.Holder.GetTitledName],并向其宣誓效忠!;;;;;;;;;;x
+EVTDESC80062;因不愿再效忠前任领主,[Root.GetName]的农民叛军已转投效忠另一名统治者!;;;;;;;;;;x
 EVTDESC60020;我的领主,伟大的[Root.GetTitledName]和[Root.GetHerHis]封臣皈依了天主教!;;;;;;;;;;x
 EVTDESC60021;我的领主,伟大的[Root.GetTitledName]和[Root.GetHerHis]封臣皈依了东正教!;;;;;;;;;;x
 EVTDESC60022;我的领主,伟大的[Root.GetTitledName]和[Root.GetHerHis]封臣皈依了逊尼派!;;;;;;;;;;x

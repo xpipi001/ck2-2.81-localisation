@@ -57,7 +57,7 @@ trade_governor_desc;这个省份的贸易由一位有经验的管理者领导。
 opinion_refused_order;拒绝命令;;;;;;;;;;x
 dung_collector;挑粪工;;;;;;;;;;x
 surge_of_traders;贸易浪潮;;;;;;;;;;x
-chinese_embargo;中国禁运;;;;;;;;;;x
+chinese_embargo;天朝禁运;;;;;;;;;;x
 publicly_humiliated;公众羞辱;;;;;;;;;;x
 NOT_FORBIDDEN_LEAD_SELF;你现在没有禁止自己带领部队。\n§G点击召回并禁止自己带领部队。§!;;;;;;;;;;x
 FORBIDDEN_LEAD_SELF;你现在禁止自己带领部队。\n§G点击允许你自己带领部队。§!;;;;;;;;;;x

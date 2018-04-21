@@ -216,7 +216,7 @@ EVTOPTB39230;赶走这群暴民.;;;;;;;;;;x
 EVTDESC39240;传言有一位基督教领主在宫廷内雇佣了一个异教徒. 这对于教会来说是不可接受的,若是我们不出面干涉,这位世俗领主肯定会永坠地狱.;;;;;;;;;;x
 EVTOPTA39240;要求其永遵圣伯多祿之座的教导!;;;;;;;;;;x
 EVTOPTB39240;我们才管不着这事儿呢.;;;;;;;;;;x
-EVTTOOLTIP392401;会被教皇使者拜访.;;;;;;;;;;x
+EVTTOOLTIP392401;会被教宗使者拜访.;;;;;;;;;;x
 EVTDESC39241;[From.GetTitledFirstName] 派来的使者刚刚抵达了我们宫廷. 据使者所言, 圣父对我们任用异教徒担任顾问深感不安.  教宗要求我们解除异教徒的职位.;;;;;;;;;;x
 EVTOPTB39241;把异教徒关起来!;;;;;;;;;;x
 EVTOPTC39241;朕的国家只有朕说了算!;;;;;;;;;;x
@@ -725,7 +725,7 @@ TITLE_CANNOT_GAIN_INDEPENDENCE;不能创立或篡夺与领主头衔同级或更�
 HAS_CROWN_LAW_TITLE;受王权法影响;;;;;;;;;;x
 HAS_NOT_CROWN_LAW_TITLE;不受王权法影响;;;;;;;;;;x
 EVTNAME60003;钢铁大汗;;;;;;;;;;x
-EVTDESC60003;我的领主, 帖木儿大汗将中亚诸多游牧部落聚集到自己麾下, 想要建立媲美传奇的成吉思汗的大帝国. 他可怕的大军已经在希瓦出现,直指席卷整个波斯.;;;;;;;;;;x
+EVTDESC60003;我的领主, 帖木儿大汗将中亚诸多游牧部族落聚集到自己麾下, 想要建立媲美传奇的成吉思汗的大帝国. 他可怕的大军已经在希瓦出现,直指席卷整个波斯.;;;;;;;;;;x
 EVTOPTB60003;难道游牧部落永远无穷无尽吗?;;;;;;;;;;x
 amphibious_landing;两栖登陆;;;;;;;;;;x
 ACHIEVEMENTS_ENABLED;成就系统已激活;;;;;;;;;;x
@@ -857,7 +857,7 @@ EVTOPTD3593;我不敢让任何人尝试它;;;;;;;;;;x
 EVTOPTA3610;就这样吧!;;;;;;;;;;x
 EVTTOOLTIP3611;[This.GetTitledFirstName] 被用酷刑威胁;;;;;;;;;;x
 EVTDESC75065;[Root.job_treasurer.GetTitledFirstName]的公正严明为混乱的领地带来了平和。犯罪和抱怨越来越少，农民们非常开心！;;;;;;;;;;x
-opinion_count_wrong_gov_vs_liege;错误的统治类型;;;;;;;;;;x
+opinion_count_wrong_gov_vs_liege;错误的政体类型;;;;;;;;;;x
 opinion_excom_lifted;恢复教籍;;;;;;;;;;x
 CHAR_RELATION_CLOSE_DYNASTY;§Y$NAME$§! 是你的家族的近亲 (§Y$REL$§!);;;;;;;;;;x
 opinion_discovered_plotting;被发现参与阴谋;;;;;;;;;;x
@@ -1186,7 +1186,7 @@ opinion_not_participating_in_crusade_bishop;没有参加十字军;;;;;;;;;;x
 opinion_not_participating_in_crusade_vassal;没有参加十字军;;;;;;;;;;x
 EVTDESC80054;[From.GetName]的农民叛军已经变节了并且发誓效忠[From.County.Holder.GetTitledName]!;;;;;;;;;;x
 EVTOPTA80054;这些该死的贱民!;;;;;;;;;;x
-EVTDESC80055;在[From.GetName]的人们再也不会让自己处于异教徒统治者的统治下！农民起义控制了本郡，并叛逃向[From.County.Holder.GetTitledName]宣誓效忠！;;;;;;;;;;x
+EVTDESC80055;在[From.GetName]的人们再也不会让自己处于异教徒统治者的统治下！农民叛乱控制了本省，并叛逃向[From.County.Holder.GetTitledName]宣誓效忠！;;;;;;;;;;x
 EVTDESC80056;[FromFrom.Holder.Liege.PrimaryTitle.GetName]的人民由于文化不同而感到了疏远,[FromFrom.GetName] 的农民已经变节了并且效忠于 [From.County.Holder.GetTitledName]!;;;;;;;;;;x
 EVTDESC80060;The people in [Root.GetName] will no longer let themselves be ruled by someone of another religion! The peasant rebels controlling the county have defected and sworn allegiance to another ruler!;;;;;;;;;;x
 EVTDESC80061;[Root.Holder.Liege.PrimaryTitle.GetName]的人民由于文化不同而感到了疏远,  [Root.GetName] 的农民叛军已经变节了并且宣誓效忠于另一个统治者!;;;;;;;;;;x
@@ -1200,7 +1200,7 @@ EVTOPTB2060;打击一下[From.GetHerHim]的尊严!;;;;;;;;;;x
 EVTOPTC2060;和 [From.GetHerHim] 谈谈仁慈;;;;;;;;;;x
 EVTDESC3436;这是一件相当琐碎的事情，我希望[From.GetTitledFirstName] 解决我和一个卑贱的农民之间的纠纷. 那个农民主张我应该赔偿他那间被我的奶牛弄坏的房子.;;;;;;;;;;x
 REBELS_SPAWNED_SETUP;有叛军出现;;;;;;;;;;x
-REBELS_SPAWNED_LOG;$PROV$的农民已经起义了;;;;;;;;;;x
+REBELS_SPAWNED_LOG;$PROV$的农民已经叛乱了;;;;;;;;;;x
 EVTNAME62000;防御方成功突围;;;;;;;;;;x
 EVTNAME62001;防御方成功突围;;;;;;;;;;x
 EVTNAME62002;防御方突围失败;;;;;;;;;;x

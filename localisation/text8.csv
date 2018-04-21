@@ -21,7 +21,7 @@ AIREASON_EAGER_TO_MURDER;不道德;;;;;;;;;;x
 AIREASON_RELUCTANT_TO_MURDER;道德疑虑;;;;;;;;;;x
 TITLE_CANNOT_USURP_SAME_REALM;无法剥夺同一领地的他人头衔，除非你拥有强宣称;;;;;;;;;;x
 REASONING;推理;;;;;;;;;;x
-RulerDesignerDLC;自定义人物;;;;;;;;;;x
+RulerDesignerDLC;人物设计器;;;;;;;;;;x
 PLOT_CONDITION_FOR_YOU;对你而言一定如此;;;;;;;;;;x
 PLOT_CONDITION_FOR_TARGET;对$TARGET$而言一定如此;;;;;;;;;;x
 ALREADY_HAVE_AMBITION;正在努力实现$PLOT$野心;;;;;;;;;;x
@@ -65,7 +65,7 @@ plot_gain_vassal_title_desc;[From.GetBestName]正在密谋收回[This.GetFullBas
 plot_gain_vassal_title_decision;[Root.GetPlot];;;;;;;;;;x
 plot_gain_vassal_title_decision_desc;将密谋付诸行动，下达最后通牒给[Root.PlotTarget.GetTitledName].;;;;;;;;;;x
 EVTTOOLTIP8030;[Root.PlotTarget.GetTitledName]收到了一封信.;;;;;;;;;;x
-EVTDESC8030;我已经决定 [From.GetPlot]. 领地中的附庸都研究过这个情形中的法律文件，其中的大多数领主都认为我的要求是公正合理、童叟无欺的，要么乖乖地和平下台，要么我就不得不采取军事手段捍卫我的合法权利了.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8030;我已经决定 [From.GetPlot]. 领地中的封臣都研究过这个情形中的法律文件，其中的大多数领主都认为我的要求是公正合理、童叟无欺的，要么乖乖地和平下台，要么我就不得不采取军事手段捍卫我的合法权利了.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
 EVTDESC8068;与其让内战撕碎我们的国家，我宁可向您屈膝，双手奉上我的头衔给你，但是这起阴险毒辣的敲诈行动永远不会被忘记...\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8068;妙极了!;;;;;;;;;;x
 EVTDESC8096;因为不愿意让内战分裂我们的国土, [FromFrom.PlotTarget.GetTitledName]已经同意屈膝投降，让我[FromFrom.GetPlot].在这场冲突中您弥足珍贵的支持绝不会被忘记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
@@ -85,8 +85,8 @@ EVTDESC621;[From.Religion.GetRandomGodNameCap] 似乎不再眷顾 [From.Religion
 TITLE_CREATION_NOT_PRIMARY_TYPE;特殊头衔持有者无法创建或篡夺相等或更高级别的头衔.;;;;;;;;;;x
 IS_NOT_LOCATED_IN_AREA;不在;;;;;;;;;;x
 IS_LOCATED_IN_AREA;在;;;;;;;;;;x
-IS_NOT_DE_JURE_VASSAL_OR_BELOW;不是法理附庸或下属;;;;;;;;;;x
-IS_DE_JURE_VASSAL_OR_BELOW;是法理附庸或下属;;;;;;;;;;x
+IS_NOT_DE_JURE_VASSAL_OR_BELOW;不是法理封臣或更低;;;;;;;;;;x
+IS_DE_JURE_VASSAL_OR_BELOW;是法理封臣或更低;;;;;;;;;;x
 WAR_NAME_CRUSADE;$ORDER$$RELIGION$ $HOLY_WAR$，为了夺取$OTHER_TITLE$;;;;;;;;;;x
 CB_NAME_CLAIM_VASSAL;收回[Title.GetBaseName];;;;;;;;;;x
 HOLDING_TYPE_IS_NOT;持有状态为否;;;;;;;;;;x

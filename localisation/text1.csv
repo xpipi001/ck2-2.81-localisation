@@ -80,8 +80,8 @@ alert_can_imprison_instant;§Y拘禁逮捕§!;;;;;;;;;;x
 alert_can_imprison_delayed;你能拘禁以下人士，而不会得到恶名\n$LIST$;;;;;;;;;;x
 alert_titles_may_pass_from_realm_instant;§Y封臣继承危机§!;;;;;;;;;;x
 alert_titles_may_pass_from_realm_delayed;有封臣面临继承危机\n一旦死亡，他们的头衔会被外国继承：\n$LIST$;;;;;;;;;;x
-alert_can_call_vassals_to_arms_instant;§Y我们可以召唤我们前君主的附庸§!;;;;;;;;;;x
-alert_can_call_vassals_to_arms_delayed;以下附庸可以被召唤来对抗我们的前君主\n$LIST$;;;;;;;;;;x
+alert_can_call_vassals_to_arms_instant;§Y我们可以召唤我们前君主的封臣§!;;;;;;;;;;x
+alert_can_call_vassals_to_arms_delayed;以下封臣可以被召唤来对抗我们的前君主\n$LIST$;;;;;;;;;;x
 CLICK_TO_ROTATE;§G点击以循环检阅列表§!;;;;;;;;;;x
 ALERT_RIGHTCLICK;§G右键点击显示关闭按钮§!;;;;;;;;;;x
 ALERT_DISMISS;从现在起不再显示;;;;;;;;;;x
@@ -1972,11 +1972,11 @@ EVTOPTB5045;我现在已经好了;;;;;;;;;;x
 EVTDESC5046;新猎鹰几乎是完美的.我跟它在一起打猎是一种享受，我的厨师用来烹调兔子的配料都不够了;;;;;;;;;;x
 EVTOPTA5046;我是训鹰人！;;;;;;;;;;x
 EVTOPTB5046;别再做兔肉派了，拜托！;;;;;;;;;;x
-EVTDESC5050;炙手可热的新人来了。;;;;;;;;;;x
+EVTDESC5050;一只从没有见过的鸟儿飞到了马厩，图书馆里有一本关于诗歌写作艺术的新书籍。;;;;;;;;;;x
 EVTOPTA5050;我应该读读这本书;;;;;;;;;;x
 EVTTOOLTIP5051;一本充满胡说的书……;;;;;;;;;;x
 EVTTOOLTIP5052;一本充满灵感的书！;;;;;;;;;;x
-EVTOPTB5050;我应该不让它去打猎;;;;;;;;;;x
+EVTOPTB5050;我应该带她出去打猎的;;;;;;;;;;x
 EVTDESC5051;这本关于诗歌的书实在无聊.里面全是胡说八道，我都想把它从窗口扔出去;;;;;;;;;;x
 EVTOPTA5051;这个不适合我;;;;;;;;;;x
 EVTDESC5052;这本诗集实在太有意思了！让我脑中蹦出无数的灵感;;;;;;;;;;x
@@ -2877,7 +2877,7 @@ EVTDESC60001; 我的主君，那位大汗已经派遣出了数以百万计的由
 EVTOPTB60001; 帮帮我们吧，仁慈的真主!;;;;;;;;;;x
 EVTOPTC60001; 穆斯林们将奋勇反击.;;;;;;;;;;x
 EVTOPTD60001; 也许蒙古的长生天更强大一些.;;;;;;;;;;x
-EVTNAME60002;金帐汗国;;;;;;;;;;x
+EVTNAME60002;金帐汗;;;;;;;;;;x
 EVTDESC60002; 我的主君，另一支恐怖的游牧民族正在一个残暴的可汗的带领之下向西进发. 这个所谓的“金帐汗国”宣称要征服到大西洋为止所有欧洲的土地!;;;;;;;;;;x
 EVTOPTB60002; 上帝保佑我们!;;;;;;;;;;x
 EVTOPTC60002; 是让那些异教徒尝尝苦头的时候了!;;;;;;;;;;x
@@ -3264,12 +3264,12 @@ EVTOPTB63001;让我想想……我拒绝你的要求!;;;;;;;;;;x
 EVTOPTC63001;我觉得我更喜欢另外一名封臣.;;;;;;;;;;x
 EVTOPTD63001;用模糊的许诺先糊弄 [From.GetObjectPronoun] ;;;;;;;;;;x
 EVTTOOLTIP63002;[This.GetTitledName] 成为了 [From.GetTitledName]的封臣;;;;;;;;;;x
-EVTDESC63002;我的主君, [From.GetTitledName],宣布从今以后我将成为 [FromFrom.GetTitledName]的附庸.;;;;;;;;;;x
+EVTDESC63002;我的主君, [From.GetTitledName],宣布从今以后我将成为 [FromFrom.GetTitledName]的封臣.;;;;;;;;;;x
 EVTOPTA63002;好吧;;;;;;;;;;x
 EVTTOOLTIP63003;[This.GetTitledFirstName] 感到很失望;;;;;;;;;;x
-EVTDESC63003;我的主君, [From.GetTitledName], 拒绝了我关于收回我的附庸的请求.;;;;;;;;;;x
+EVTDESC63003;我的主君, [From.GetTitledName], 拒绝了我关于收回我的封臣庸的请求.;;;;;;;;;;x
 EVTOPTA63003;算了，还有其他方法...;;;;;;;;;;x
-EVTDESC63004;[From.GetTitledName] 并没有回应我关于归还我附庸的请求，这不是个好兆头.;;;;;;;;;;x
+EVTDESC63004;[From.GetTitledName] 并没有回应我关于归还我封臣的请求，这不是个好兆头.;;;;;;;;;;x
 EVTOPTA63004;我想造反...;;;;;;;;;;x
 EVTTOOLTIP63005;[This.GetTitledName] 被我的花言巧语糊弄住了;;;;;;;;;;x
 EVTDESC63005;我亲爱的朋友和爱卿！\n\n你是忠诚的基石，王国的柱石！真的，这里支持你对[From.Religion.GetScriptureName]的主张。我知道[From.Religion.GetRandomGodName]将及时的回报你。\n\n[From.GetTitledName];;;;;;;;;;x
@@ -3956,7 +3956,7 @@ EVTTOOLTIP69090;所有的朝臣都认为[This.GetTitledFirstName]缺乏虔诚;;;
 EVTTOOLTIP69091;所有的朝臣都认为[This.GetTitledFirstName]是个懦夫;;;;;;;;;;x
 EVTDESC69080;朝臣们都确信我是一个同性恋者!;;;;;;;;;;x
 EVTOPTA69080;为什么;;;;;;;;;;x
-EVTDESC69081;朝臣们都确信我和我的姐妹乱伦!;;;;;;;;;;x
+EVTDESC69081;朝臣们都确信我和我的姐妹乱伦！;;;;;;;;;;x
 EVTOPTA69081;那真是可笑!;;;;;;;;;;x
 EVTDESC69082;我的妻子和我一直没有孩子,所有人认为我是个性无能!;;;;;;;;;;x
 EVTOPTA69082;我们应该加把力!;;;;;;;;;;x
@@ -4152,7 +4152,7 @@ EVTDESC72085;一些客人被我邀请来参加鸿门宴，我想要他们的头�
 EVTOPTA72085;守卫！把这个人关起来！;;;;;;;;;;x
 EVTOPTB72085;我有恨重要的事情和你讨论……;;;;;;;;;;x
 EVTTOOLTIP72086;[Root.GetTitledFirstName] 试图和[This.GetTitledFirstName]就头衔问题进行谈判;;;;;;;;;;x
-EVTOPTC72085;我的头衔足够多了，我在乎多一个少一个;;;;;;;;;;x
+EVTOPTC72085;我的头衔足够多，我不需要多一个;;;;;;;;;;x
 EVTOPTA72086;是的，我会授予你这个头衔;;;;;;;;;;x
 EVTOPTB72086;我拒绝给出头衔！;;;;;;;;;;x
 EVTTOOLTIP72088;[Root.GetTitledFirstName]拒绝授予[This.GetTitledFirstName]头衔;;;;;;;;;;x
@@ -4446,7 +4446,7 @@ EVTDESC75014;[FromFrom.GetTitledFirstName]制造的指控，我曾不适当地�
 EVTOPTA75014;感谢您相信我！;;;;;;;;;;x
 EVTDESC75015;[From.GetTitledFirstName]驳回了我的关切，[From.GetSheHe]声称[Root.GetChancellorName][From.job_chancellor.GetTitledFirstName]从不会用不当的方式看任何人，当我尽力使[From.GetHerHim] 确信 [From.GetHerHis][Root.GetChancellorName]的罪过时也不会听我的.;;;;;;;;;;x
 EVTOPTA75015;但是，但是……我看见过[From.job_chancellor.GetHerHim]做了！;;;;;;;;;;x
-EVTDESC75020;我作为 [Root.GetChancellorName] 的任务之一就是缓和领主之间的关系. 大多数时候我会努力让其他领主或者我领主的附庸更加喜欢 [Root.Liege.GetHerHim] , 不过有些时候, 比如说今天, 我发现某个人不喜欢 [Root.Liege.GetTitledFirstName] 然后我就开始做了一些微小的工作...;;;;;;;;;;x
+EVTDESC75020;我作为 [Root.GetChancellorName] 的任务之一就是缓和领主之间的关系. 大多数时候我会努力让其他领主或者我领主的封臣更加喜欢 [Root.Liege.GetHerHim] , 不过有些时候, 比如说今天, 我发现某个人不喜欢 [Root.Liege.GetTitledFirstName] 然后我就开始做了一些微小的工作...;;;;;;;;;;x
 EVTOPTA75020;...[Root.Liege.GetTitledFirstName]的一名封臣;;;;;;;;;;x
 EVTTOOLTIP75021;[This.GetTitledFirstName]和[This.GetHerHis]封臣相处得更好了;;;;;;;;;;x
 EVTTOOLTIP75022;[This.GetTitledFirstName]和[Root.Liege.GetTitledFirstName]相处得更好了;;;;;;;;;;x
@@ -4697,7 +4697,7 @@ STORE_ALREADY_BOUGHT;你已购买 §Y$ITEM$§!;;;;;;;;;;x
 CONFIRM_PURCHASE;Do you wish to buy $ITEM$;;;;;;;;;;x
 CONFIRM_PURCHASE_DESC;当前余额: $BALANCE$ \n$ITEM$: $COST$ \n购买后余额: $REMAINING$ ;;;;;;;;;;x
 STORE_MUST_RESTART;需要重启;;;;;;;;;;x
-STORE_MUST_RESTART_DESC;已购买DLC需要重启王国风云2才能生效;;;;;;;;;;x
+STORE_MUST_RESTART_DESC;已购买DLC需要重启王国风云II才能生效;;;;;;;;;;x
 HINT_SPLASH_TITLE;欢迎来到王国风云II的世界！ ;;;;;;;;;;x
 HINT_SPLASH_TIME;王国风云II是一个可以随时暂停的即时游戏.这意味着您即可以在游戏暂停时和时间流逝时下达指令.点击右上角的日期或者按空格键来暂停或者继续游戏.使用加号和减号来加速减速. ;;;;;;;;;;x
 HINT_CHAR_VIEW_TITLE;人物界面 ;;;;;;;;;;x
@@ -4741,7 +4741,7 @@ HINT_BROWSER_VIEW_TEXT_4;“搜索封臣”包括您属下的所有人物. ;;;;;
 HINT_PROV_VIEW_TITLE;省份（伯爵领）界面 ;;;;;;;;;;x
 HINT_PROV_VIEW_TEXT_1;地图被分为许多省份，每个都包含一些土地——城堡，城市和寺院.省份（伯爵领）由伯爵统治，而下属的土地（男爵领）则由男爵（或相应文化中同等的位置）来统治. ;;;;;;;;;;x
 HINT_PROV_VIEW_TEXT_2;男爵领是游戏经济和军事系统的基础.男爵领提供税收和征召兵.城堡拥有最好的征召兵但提供最少的税收.城市很富裕，却没有很好的征召兵.寺院既富裕又提供良好的征召兵.但是很难防守. ;;;;;;;;;;x
-HINT_PROV_VIEW_TEXT_3;伯爵领拥有一个宗教和一种文化，代表着大致的人口层次.伯爵领的人民倾向于不喜欢不同文化或异教的统治者，这可能导致农民起义. ;;;;;;;;;;x
+HINT_PROV_VIEW_TEXT_3;伯爵领拥有一个宗教和一种文化，代表着大致的人口层次.伯爵领的人民倾向于不喜欢不同文化或异教的统治者，这可能导致农民叛乱. ;;;;;;;;;;x
 HINT_PROV_VIEW_TEXT_4;郡也拥有不同的科技进步，这倾向于从一个郡传递到其邻居。;;;;;;;;;;x
 HINT_PROV_VIEW_TEXT_5;伯爵领的首府总是由伯爵控制，其他的男爵领可能被任何人拥有. ;;;;;;;;;;x
 HINT_HOLDING_VIEW_TITLE;男爵领界面 ;;;;;;;;;;x
@@ -5942,7 +5942,7 @@ b_selymbria;瑟利姆布里亚;;;;;;;;;;x
 b_lysimachia;利西马其亚;;;;;;;;;;x
 b_sestus;希斯图斯;;;;;;;;;;x
 b_constantinople;君士坦丁堡;;;;;;;;;;x
-b_hagiasophia;圣索菲亚大教堂;;;;;;;;;;x
+b_hagiasophia;圣索菲亚;;;;;;;;;;x
 b_galata;加拉塔;;;;;;;;;;x
 b_blachernae;布莱克奈尔;;;;;;;;;;x
 b_hieron;希伦;;;;;;;;;;x
@@ -7579,7 +7579,7 @@ b_askala;阿斯卡拉;;;;;;;;;;x
 b_repel;雷佩尔;;;;;;;;;;x
 b_alentagh;阿林塔加;;;;;;;;;;x
 c_torzhok_adj;托尔若克;;;;;;;;;;x
-b_yamskygorodok;亚姆斯基镇;;;;;;;;;;x
+b_yamskygorodok;亚姆斯基戈罗多克;;;;;;;;;;x
 b_shcheremenski;施瑞门斯基;;;;;;;;;;x
 b_kingisepp;金吉谢普;;;;;;;;;;x
 b_volosovo;沃洛索沃;;;;;;;;;;x
@@ -8229,7 +8229,7 @@ b_daulakan;达夫列卡;;;;;;;;;;x
 b_blagovescen;巴拉格威瑟;;;;;;;;;;x
 b_tuimasy;图伊马济;;;;;;;;;;x
 b_janauyl;亚纳乌尔;;;;;;;;;;x
-b_iq;幻想乡;;;;;;;;;;x
+b_iq;契克;;;;;;;;;;x
 b_yamantaw;邪山;;;;;;;;;;x
 c_bashkirs_adj;巴什基尔;;;;;;;;;;x
 b_ufa;乌法;;;;;;;;;;x
@@ -8830,7 +8830,7 @@ b_farava;法拉尔;;;;;;;;;;x
 b_nisa;妮萨;;;;;;;;;;x
 b_abiward;阿比瓦德;;;;;;;;;;x
 b_gokdepe;格克德佩;;;;;;;;;;x
-b_konjikala;空吉卡拉;;;;;;;;;;x
+b_konjikala;科奇卡拉;;;;;;;;;;x
 b_kyzylarvat;克孜勒阿尔瓦特;;;;;;;;;;x
 b_sarahs;萨拉斯;;;;;;;;;;x
 b_ulugdepe;乌鲁格德匹;;;;;;;;;;x
@@ -9107,8 +9107,8 @@ b_sarayan;撒拉亚;;;;;;;;;;x
 b_boshruyeh;博什鲁耶;;;;;;;;;;x
 b_qaen;加延;;;;;;;;;;x
 b_paeenshahr;怕恩沙霍尔;;;;;;;;;;x
-c_farrah_adj;法拉;;;;;;;;;;x
-b_farrah;法拉;;;;;;;;;;x
+c_farrah_adj;法拉赫;;;;;;;;;;x
+b_farrah;法拉赫;;;;;;;;;;x
 b_bakwa;巴克瓦;;;;;;;;;;x
 b_baladuluk;巴拉达鲁克;;;;;;;;;;x
 b_anardara;阿那尔达雷;;;;;;;;;;x
@@ -9159,8 +9159,8 @@ b_kwajaha;科瓦贾哈;;;;;;;;;;x
 b_taywara;塔瓦拉;;;;;;;;;;x
 b_gozareh;古扎雷;;;;;;;;;;x
 b_chanechahan;常察汗;;;;;;;;;;x
-d_kermanshah;克尔曼沙汗;;;;;;;;;;x
-d_kermanshah_adj;克尔曼沙汗;;;;;;;;;;x
+d_kermanshah;克尔曼沙赫;;;;;;;;;;x
+d_kermanshah_adj;克尔曼沙赫;;;;;;;;;;x
 c_qazwin_adj;加兹温;;;;;;;;;;x
 b_lambsar;拉莫萨尔;;;;;;;;;;x
 b_qazwin;加兹温;;;;;;;;;;x
@@ -9526,7 +9526,7 @@ b_aghtamar;阿赫塔马尔;;;;;;;;;;x
 b_bakear;巴克尔;;;;;;;;;;x
 b_hadamakert;哈达马克特;;;;;;;;;;x
 c_dwin_adj;德维尼安;;;;;;;;;;x
-b_lori;萝莉;;;;;;;;;;x
+b_lori;洛利;;;;;;;;;;x
 b_dvin;德维;;;;;;;;;;x
 b_etchmiadzin;埃奇米阿津;;;;;;;;;;x
 b_erebuni;叶布尼;;;;;;;;;;x
@@ -10372,7 +10372,7 @@ b_adria;阿德里亚;;;;;;;;;;x
 b_chioggia;基奥贾;;;;;;;;;;x
 b_rovigo;罗维戈;;;;;;;;;;x
 b_vigonza;维贡扎;;;;;;;;;;x
-d_lombardia;伦巴底;;;;;;;;;;x
+d_lombardia;伦巴第;;;;;;;;;;x
 d_lombardia_adj;伦巴底;;;;;;;;;;x
 c_lombardia_adj;伦巴底;;;;;;;;;;x
 b_milano;米兰;;;;;;;;;;x
@@ -13687,7 +13687,7 @@ b_ruthin;里辛;;;;;;;;;;x
 b_basingwerk;巴辛韦克;;;;;;;;;;x
 b_ewloe;伊洛;;;;;;;;;;x
 b_hawarden;哈登;;;;;;;;;;x
-c_powys_adj;波伊斯;;;;;;;;;;x
+c_powys_adj;波伊斯的;;;;;;;;;;x
 b_caersws;卡亚士维斯;;;;;;;;;;x
 b_mathrafal;玛斯拉法;;;;;;;;;;x
 b_llangollen;兰戈伦;;;;;;;;;;x
@@ -13868,8 +13868,8 @@ b_dunrobin;顿罗宾;;;;;;;;;;x
 b_freswick;弗雷西克;;;;;;;;;;x
 b_golspie;戈尔斯皮;;;;;;;;;;x
 b_latheron;拉瑟伦;;;;;;;;;;x
-d_the_isles;萌岛;;;;;;;;;;x
-d_the_isles_adj;萌岛;;;;;;;;;;x
+d_the_isles;马恩;;;;;;;;;;x
+d_the_isles_adj;马恩;;;;;;;;;;x
 c_ross_adj;罗瑟;;;;;;;;;;x
 b_avoch;奥赫;;;;;;;;;;x
 b_dingwall;丁沃尔;;;;;;;;;;x
@@ -13888,7 +13888,7 @@ b_laggan;拉根;;;;;;;;;;x
 b_dunvegan;邓韦根;;;;;;;;;;x
 b_dunyveg;丹尼维哥堡;;;;;;;;;;x
 b_uig;乌伊格;;;;;;;;;;x
-c_isle_of_man_adj;萌岛;;;;;;;;;;x
+c_isle_of_man_adj;马恩岛;;;;;;;;;;x
 b_peel;皮尔;;;;;;;;;;x
 b_rushen;鲁森;;;;;;;;;;x
 b_maughold;曼霍德;;;;;;;;;;x
@@ -14488,9 +14488,9 @@ k_papal_state;教廷属邦;;;;;;;;;;x
 k_papal_state_adj;教宗;;;;;;;;;;x
 k_orthodox;普世牧首属邦;;;;;;;;;;x
 k_orthodox_adj;普世牧首;;;;;;;;;;x
-e_sunni;逊尼哈里发;;;;;;;;;;x
+e_sunni;逊尼哈里发国;;;;;;;;;;x
 e_sunni_adj;哈里发;;;;;;;;;;x
-e_shiite;什叶哈里发;;;;;;;;;;x
+e_shiite;什叶哈里发国;;;;;;;;;;x
 e_shiite_adj;哈里发;;;;;;;;;;x
 d_hashshashin_adj;哈萨辛派残影刺客;;;;;;;;;;x
 d_sunni_cuman_company;逊尼派可萨佣兵团;;;;;;;;;;x
@@ -15688,10 +15688,10 @@ DIP_SELECT_CHARACTER;选择受害人;;;;;;;;;;x
 ASSASSIN_INFORM;我们发现了一个$ACTOR$派来的刺客，他$SUCCESS$暗杀$TARGET$.\n;;;;;;;;;;x
 SUPPORTREBTITLE;支持叛军;;;;;;;;;;x
 SUPPORTREBREQDESC;你打算支持§Y$PROV$§!的叛军吗\n效果：$EFFECT$，持续：$TIME$天.;;;;;;;;;;x
-SUPPORTREBINFORMDESC;$TARGET$的农民被人煽动得快起义了.\n我们发现了煽动者$NAME$.我们应该怎么处置他;;;;;;;;;;x
+SUPPORTREBINFORMDESC;$TARGET$的农民被人煽动得快叛乱了.\n我们发现了煽动者$NAME$.我们应该怎么处置他;;;;;;;;;;x
 DIP_RELEASE;放了他;;;;;;;;;;x
 SUPPORTREB_DESC_REMOVED;放了他;;;;;;;;;;x
-SUPPORTREB_DESC;试图煽动起义;;;;;;;;;;x
+SUPPORTREB_DESC;试图煽动叛乱;;;;;;;;;;x
 DESECRATE_DESC;试图玷污圣地来打击该地的宗教威望。;;;;;;;;;;x
 DESECRATETITLE;破坏神圣场所;;;;;;;;;;x
 DESECRATEREQDESC;你打算破坏§Y$PROV$§!的神圣场所吗这将会为§Y$RELIGION$§!带来负面影响.\n效果：$EFFECT$，持续：$TIME$天.;;;;;;;;;;x
@@ -15822,7 +15822,7 @@ Location;位置;;;;;;;;;;x
 Power;力量;;;;;;;;;;x
 Provinces;省份;;;;;;;;;;x
 Nations;国家;;;;;;;;;;x
-AUTOSAVING;自动存盘;;;;;;;;;;x
+AUTOSAVING;自动保存;;;;;;;;;;x
 VASALLACCEPT_5;进贡;;;;;;;;;;x
 VASALLWEREJECT_SETUP;当我国拒绝别国的上贡提议;;;;;;;;;;x
 VASALLWEREJECT_3;进贡;;;;;;;;;;x
@@ -16195,7 +16195,7 @@ no_char_avail;未选择人物;;;;;;;;;;x
 SCREENSHOT_TAKEN;截图已保存;;;;;;;;;;x
 UV_SHIPS;船只: ;;;;;;;;;;x
 foreign_rebels;外国支持叛乱;;;;;;;;;;x
-desc_foreign_rebels;一个不友好实力派出特务和本郡内不满于我们统治的权贵人物联系。他们提供金钱，让这些人把不满转化为实际行动。本地叛乱风险略微提升了。;;;;;;;;;;x
+desc_foreign_rebels;一个不那么友好的权贵与本地不满于我们统治的乡绅秘密联络上了。他承诺提供资金来帮助他们把不满转化为实际行动。未来一段时间本地的叛乱风险将会略微上升。;;;;;;;;;;x
 NEED_CASH;我们需要 $CASH$¤ 来做这件事;;;;;;;;;;x
 ICON_VASSAL;要求§Ytribute§!;;;;;;;;;;x
 CHAT_NONE;无;;;;;;;;;;x
@@ -16727,7 +16727,7 @@ PROV50;加洛韦;;;;;;;;;;x
 PROV51;邓巴;;;;;;;;;;x
 PROV52;诺森伯兰;;;;;;;;;;x
 PROV53;坎伯兰;;;;;;;;;;x
-PROV54;萌岛;;;;;;;;;;x
+PROV54;马恩岛;;;;;;;;;;x
 PROV55;威斯特摩兰;;;;;;;;;;x
 PROV56;达勒姆;;;;;;;;;;x
 PROV57;约克;;;;;;;;;;x
@@ -16970,7 +16970,7 @@ PROV295;达尔;;;;;;;;;;x
 PROV296;维根;;;;;;;;;;x
 PROV297;西约特兰;;;;;;;;;;x
 PROV298;斯莫兰;;;;;;;;;;x
-PROV299;法拉;;;;;;;;;;x
+PROV299;法拉赫;;;;;;;;;;x
 PROV300;厄兰;;;;;;;;;;x
 PROV301;哥特兰;;;;;;;;;;x
 PROV302;哈兰;;;;;;;;;;x
@@ -17527,7 +17527,7 @@ PROV897;瑞恩沙漠;;;;;;;;;;x
 PROV898;鄂木斯克;;;;;;;;;;x
 PROV899;蒂斯;;;;;;;;;;x
 PROV900;克孜勒奥尔达;;;;;;;;;;x
-PROV901;希瓦;;;;;;;;;;x
+PROV901;克孜勒库姆;;;;;;;;;;x
 PROV902;达沙古兹;;;;;;;;;;x
 PROV903;撒马尔罕;;;;;;;;;;x
 PROV904;巴尔赫;;;;;;;;;;x
@@ -17565,7 +17565,7 @@ PROV936;基克拉泽斯;;;;;;;;;;x
 PROV937;克里特海;;;;;;;;;;x
 PROV938;埃及海岸;;;;;;;;;;x
 PROV939;尼罗河三角洲;;;;;;;;;;x
-PROV940;巴勒斯坦海;;;;;;;;;;x
+PROV940;培勒舍蒂那海;;;;;;;;;;x
 PROV941;东地中海;;;;;;;;;;x
 PROV942;西爱琴海;;;;;;;;;;x
 PROV943;奈西湖;;;;;;;;;;x
@@ -17708,7 +17708,7 @@ MISSING_BUILDINGS;缺乏以下先决条件的建筑:;;;;;;;;;;x
 BASE_TROOP_SIZE;补给上限:;;;;;;;;;;x
 OUTNUMBERED;超过;;;;;;;;;;x
 WRONG_GOV_TYPE;§W(§R领主错误的统治方式§!);;;;;;;;;;x
-WRONG_GOV_TYPE_SHORT;错误的政府类型;;;;;;;;;;x
+WRONG_GOV_TYPE_SHORT;错误的政体类型;;;;;;;;;;x
 LOADING_MAP_SPRITES;读取地图元素...;;;;;;;;;;x
 LOADING_GUI_DEF;读取用户界面;;;;;;;;;;x
 LOADING_DATABASES;读取数据库;;;;;;;;;;x
@@ -17995,11 +17995,11 @@ LINE_OF_SUCCESSION;§Y继承顺位§!;;;;;;;;;;x
 TITLE_CREATION_HAS_OWNER;头衔已存在!;;;;;;;;;;x
 TITLE_CREATION_DESC;我们需要控制这个法理上的领地的§Y$REQ_PERC$%§! 土地才能创建头衔.目前我们控制了$PERC$($HELD$/§Y$ALL$§!).创建这个头衔将带来§G$PRESTIGE$§!威望，花费§R$GOLD$§!金币.;;;;;;;;;;x
 TITLE_USURPATION_DESC;我们需要控制这个法理上的领地的§Y$REQ_PERC$%§! 土地才能篡夺头衔.目前我们控制$PERC$($HELD$/§Y$ALL$§!).篡夺这个头衔将带来§G$PRESTIGE$§!威望，花费§R$GOLD$§!金币.;;;;;;;;;;x
-TITLE_CANNOT_BE_FREE_TAG;该头衔必须拥有法理上的附庸.;;;;;;;;;;x
+TITLE_CANNOT_BE_FREE_TAG;该头衔必须拥有法理上的封臣.;;;;;;;;;;x
 CONFIRM_TITLE_CREATION;创建 $TITLE$?;;;;;;;;;;x
 CONFIRM_TITLE_USURPATION;篡夺 $TITLE$?;;;;;;;;;;x
 CONFIRM_TITLE_REVOKE;收回头衔 $TITLE$?;;;;;;;;;;x
-CONFIRM_TITLE_CLAIM;宣称头衔 $TITLE$?;;;;;;;;;;x
+CONFIRM_TITLE_CLAIM;宣称 $TITLE$?;;;;;;;;;;x
 TITLE_CREATION_COST_DESC;创建这项头衔将给予你 §G$PRESTIGE$§! 声望 并 花费你 §R$GOLD$§! 金钱.;;;;;;;;;;x
 TITLE_USURPATION_COST_DESC;篡夺这项头衔将给予你 §G$PRESTIGE$§! 声望 并 花费你 §R$GOLD$§! 金钱.;;;;;;;;;;x
 TREE;树木;;;;;;;;;;x
@@ -18496,7 +18496,7 @@ CURRENT_LEADER;现在的将领;;;;;;;;;;x
 SM_CAMERA_TILT;视角倾斜;;;;;;;;;;x
 IMPRISONED_YEARS;监禁§Y$YEARS$§!年;;;;;;;;;;x
 SUPPLY_LIMIT_DESC;补给上限是一个郡能支持的部队数量（以千为单位），超过上限的部队会遭受损耗.;;;;;;;;;;x
-REVOLT_RISK_DESC;叛乱风险是这个郡的农民起义的几率.;;;;;;;;;;x
+REVOLT_RISK_DESC;叛乱风险是这个省份的农民叛乱的几率.;;;;;;;;;;x
 WARO_BATTLES;战斗:;;;;;;;;;;x
 WARO_OCCUPATION;占领:;;;;;;;;;;x
 WARO_WARSCORE;战争分数:;;;;;;;;;;x
@@ -18774,7 +18774,7 @@ convert_to_liege_religion;皈依领主的信仰;;;;;;;;;;x
 convert_to_liege_religion_desc;如果我们有相同的信仰，领主肯定会感到高兴……;;;;;;;;;;x
 convert_to_liege_culture;效法领主的文化;;;;;;;;;;x
 convert_to_liege_culture_desc;我对我的领主所使用的语言和文化习俗印象深刻.我希望我也能变成那样……;;;;;;;;;;x
-job_chancellor;掌玺总管;;;;;;;;;;x
+job_chancellor;外交总管;;;;;;;;;;x
 job_marshal;军事总管;;;;;;;;;;x
 job_treasurer;财政总管;;;;;;;;;;x
 job_spymaster;间谍首领;;;;;;;;;;x
@@ -19223,8 +19223,8 @@ HAS_LOWER_PRESTIGE_THAN;威望低于 ;;;;;;;;;;x
 HAS_HIGHER_PRESTIGE_THAN;威望至少 ;;;;;;;;;;x
 ISNT_FEUDAL;非封建制度;;;;;;;;;;x
 IS_FEUDAL;是封建制度;;;;;;;;;;x
-ISNT_THEOCRACY;非政教合一制;;;;;;;;;;x
-IS_THEOCRACY;政教合一制;;;;;;;;;;x
+ISNT_THEOCRACY;政体不是神权制;;;;;;;;;;x
+IS_THEOCRACY;政体是神权制;;;;;;;;;;x
 ISNT_REPUBLIC;非共和制度;;;;;;;;;;x
 IS_REPUBLIC;共和制度;;;;;;;;;;x
 TRIGGER_LIEGE;领主;;;;;;;;;;x
@@ -19239,7 +19239,7 @@ IS_STATE_RELIGION;信仰与领主一样;;;;;;;;;;x
 NEVER;绝不;;;;;;;;;;x
 ALWAYS;总是;;;;;;;;;;x
 CANNOT_HOLD_TITLE;不能持有头衔 ;;;;;;;;;;x
-CAN_HOLD_TITLE;持有头衔 ;;;;;;;;;;x
+CAN_HOLD_TITLE;可以持有头衔 ;;;;;;;;;;x
 IS_NOT_LAND;不是陆地;;;;;;;;;;x
 IS_LAND;陆地;;;;;;;;;;x
 HAS_LOWER_MARTIAL_THAN;军事低于 ;;;;;;;;;;x
@@ -19509,7 +19509,7 @@ tut_menu_2_description;了解顾问和他们的工作;;;;;;;;;;x
 tut_menu_3;继承;;;;;;;;;;x
 tut_menu_3_description;了解继承、法律和家族;;;;;;;;;;x
 tut_menu_4;外交;;;;;;;;;;x
-tut_menu_4_description;人物好感、特性和联姻;;;;;;;;;;x
+tut_menu_4_description;人物好感、特质和联姻;;;;;;;;;;x
 tut_menu_7;阴谋;;;;;;;;;;x
 tut_menu_7_description;了解野心、叛乱和阴谋界面;;;;;;;;;;x
 tut_menu_8;宗教;;;;;;;;;;x
@@ -19518,14 +19518,14 @@ tut_0a_1;欢迎进入王国风云II的世界;;;;;;;;;;x
 tut_0a_2;本节是王国风云II的序章部分，本游戏是一个以中世纪欧洲为背景的战略游戏，你将以皇帝、国王、公爵或伯爵的身份，创造属于你的辉煌家族! \n 那么该从哪里开始呢 请点击继续.;;;;;;;;;;x
 tut_0a_3;领土窗口;;;;;;;;;;x
 tut_0a_5;角色窗口;;;;;;;;;;x
-tut_0a_7;在右上角可以打开家族和王朝树。在那上面你可以看到一个小小的"W"标志，有时你可以通过这个按钮打开真实觉得的维基百科。你也可以看到头衔和宣称权，以及角色的属性和特性。;;;;;;;;;;x
+tut_0a_7;在右上角可以打开家族和王朝树。在那上面你可以看到一个小小的"W"标志，有时你可以通过这个按钮打开真实觉得的维基百科。你也可以看到头衔和宣称权，以及角色的属性和特质。;;;;;;;;;;x
 tut_0a_8;信息栏;;;;;;;;;;x
 tut_0a_9;这里你可以快速浏览你的王国。;;;;;;;;;;x
 tut_0a_10;从左到右，分别是:;;;;;;;;;;x
 tut_0a_11;财富.你拥有多少金钱，当鼠标悬停在总额数字上时，你能看到每月的收益或者消耗.;;;;;;;;;;x
 tut_0a_12;威望.这是一个对你的成就的衡量值，鼠标悬停在数字上你能看到每月的增减，悬停稍长的时间后还能看到更详细的信息，以弄明白具体的增减来源.;;;;;;;;;;x
 tut_0a_14;直辖领地大小.如果超过限制，你的封臣会厌恶你，并会遭到税效惩罚.作为补救，你可以分封领地以减少私有领地的大小.鼠标悬停在数字上可以看到这个数字由哪些部分构成.;;;;;;;;;;x
-tut_0a_16;国家领土。这是你和你的附庸们控制的总孔数。悬停在数目上可以看到每个附庸控制的孔数。;;;;;;;;;;x
+tut_0a_16;领地面积。这是你和你的封臣们控制的总地产。悬停在数目上可以看到每个封臣控制的地产。;;;;;;;;;;x
 tut_0a_18;地图;;;;;;;;;;x
 tut_0a_19;在世界地图上，你可以看到你的军队、疆域和建筑.你可以将鼠标指针移动到地图边缘或者用键盘上的方向键来移动地图.你能使用鼠标滚轮来缩放地图，默认情况下缩放是以鼠标指针为中心进行的.你可以尝试一下，或者点击“继续”。;;;;;;;;;;x
 tut_0a_20;迷路了？;;;;;;;;;;x
@@ -19627,7 +19627,7 @@ tut_5a_37;省份窗口看起来有些不同了，我们正在围城.你能看到
 tut_5a_38;胜利;;;;;;;;;;x
 tut_5a_39;最终的围城即将结束，因为敌人没有增援部队且你的军队数量大于他的.所以我们知道你会赢的.一旦最终结果在屏幕上显示出来，你会看到胜利之后赢得了多少威信和黄金、你和敌人的伤亡人数等.点击继续以结束本节.;;;;;;;;;;x
 tut_5b_1;军事 - 中级;;;;;;;;;;x
-tut_5b_2;征召兵是王国风云2中最常见的军队类型.在这个中级教程中将讨论其它的类型.你从封臣手里能征召多大数量和哪些种类的军队取决于领地类型和他对你的好感度.点击军事按钮以继续.;;;;;;;;;;x
+tut_5b_2;征召兵是王国风云II中最常见的军队类型.在这个中级教程中将讨论其它的类型.你从封臣手里能征召多大数量和哪些种类的军队取决于领地类型和他对你的好感度.点击军事按钮以继续.;;;;;;;;;;x
 tut_5b_3;征召;;;;;;;;;;x
 tut_5b_5;征召军的构成;;;;;;;;;;x
 tut_5b_6;城堡能给你最多的部队.它们能提供轻骑兵、轻步兵和大量的重步兵.;;;;;;;;;;x

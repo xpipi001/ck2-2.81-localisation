@@ -109,7 +109,7 @@ hospital;医院;;;;;;;;;;x
 nomad_agitation;游牧骚动;;;;;;;;;;x
 nomad_agitation_desc;这片领地曾属于独立的游牧部落。原先的游牧民对于不得不定居在一块土地上感到不满。;;;;;;;;;;x
 EVTDESC_HL_4997;你的前人没能建设足够多的地产来驾驭[new_nomad_province.GetName]的游牧民们，你别无他法只能看着他们从你的领地中脱离。[new_nomad.GetFirstName]和[new_nomad.GetHerHis][new_nomad_province.Culture.GetName]现在统治这片区域。;;;;;;;;;;x
-EVTDESC_HL_4994;一直拥有[new_nomad_province.GetName]的定居者太过软弱，无法约束天性自由的游牧人民继续居住在那里。部落首领[new_nomad.GetFirstName]和[new_nomad.GetHerHis][new_nomad_province.Culture.GetName]已决定加入你的领地，转而向你屈膝！;;;;;;;;;;x
+EVTDESC_HL_4994;一直拥有[new_nomad_province.GetName]的定居者太过软弱，无法约束天性自由的游牧人民继续居住在那里。部族首领[new_nomad.GetFirstName]和[new_nomad.GetHerHis][new_nomad_province.Culture.GetName]已决定加入你的领地，转而向你屈膝！;;;;;;;;;;x
 NOMADSLEAVINGTITLE;反叛的[new_nomad_province.Culture.GetName];;;;;;;;;;x
 worship_cooldown_tooltip;过去10年内未向先祖献祭。;;;;;;;;;;x
 SHIA_CUSTOM_FALLBACK;[Root.Capital.County.GetName];;;;;;;;;;x
@@ -435,7 +435,7 @@ RULE_DEF_ATTRITION_OFF_DESC;在原始宗教地区将不再有特殊的防御损�
 RULE_INVITATION;邀请至宫廷;;;;;;;;;;x
 RULE_INVITATION_DEFAULT_DESC;其他宫廷的角色仅在非常特殊的情况下会接受为你服务的邀请。;;;;;;;;;;x
 RULE_INVITATION_OPEN_DESC;其他宫廷的角色如果足够喜欢你，且不喜欢他们现在的君主，他们就会接受你的工作邀请。;;;;;;;;;;x
-RULE_VASSAL_REPUBLICS;共和国封臣;;;;;;;;;;x
+RULE_VASSAL_REPUBLICS;共和制封臣;;;;;;;;;;x
 RULE_VASSAL_REPUBLICS_RESTRICTED_DESC;你仅能在封臣中保有小比例的共和国。;;;;;;;;;;x
 RULE_VASSAL_REPUBLICS_UNRESTRICTED_DESC;你可以拥有任意数量的共和国封臣。;;;;;;;;;;x
 RULE_VASSAL_THEOCRACIES;宗教封臣;;;;;;;;;;x
@@ -872,7 +872,7 @@ break_non_aggression_pact;打破互不侵犯条约;;;;;;;;;;x
 break_non_aggression_pact_desc;打破你与[Root.GetTitledName]目前的互不侵犯条约将允许[Root.GetHerHim]对你发动战争。;;;;;;;;;;x
 EVTDESC_RIP_11506;自从你被截肢后，你对你看见的事情有了新的见解。动物们似乎认为你不再那么可怕，它们变得比你的廷臣更亲近你。你永远不会知道，这是对你的怜悯还是喜爱。\n\n这只特别的鸟似乎有意成为你最忠诚的朋友。一只讨厌其他人的鹦鹉，却喜欢停在你的肩膀上。;;;;;;;;;;x
 EVTOPTA_RIP_11506;我最好的新朋友！;;;;;;;;;;x
-EVTDESC_RIP_11507;哇咔咔，'好朋友'。;;;;;;;;;;x
+EVTDESC_RIP_11507;rua哇咔咔，'好朋友'。;;;;;;;;;;x
 EVTOPTA_RIP_11507;……;;;;;;;;;;x
 EVTTITLE_RIP_11506;新的开始;;;;;;;;;;x
 pet_parrot;忠诚的鹦鹉;;;;;;;;;;x
@@ -1477,9 +1477,9 @@ EVTOPTB_RIP_22006;把这个蠢蛋处理掉。小心点。;;;;;;;;;;x
 EVTOPTB_RIP_22006_TOOLTIP;试图刺杀§Y[From.GetFirstName]§!。;;;;;;;;;;x
 EVTOPTC_RIP_22006;现在插手已经太迟了，现在只能听天由命吧。;;;;;;;;;;x
 EVTOPTC_RIP_22006_TOOLTIP;允许§Y[From.GetFirstName]§!继续鼓励健康的人们接触病人。\n\n你的所有省份的人口减少速率加快1级。;;;;;;;;;;x
-EVTDSC_RIP_22007;一切都照计划进行。我的特工们干掉了[end_peasant_leader.GetFirstName]而且伪装成他抛弃了他的追随者的样子。他们已经失去了主心骨。希望这样能减慢疾病的传播。;;;;;;;;;;x
+EVTDSC_RIP_22007;一切都照计划进行。我的手下干掉了[end_peasant_leader.GetFirstName]而且伪装成他抛弃了他的追随者的样子。他们已经失去了主心骨。希望这样能减缓疾病的蔓延。;;;;;;;;;;x
 EVTOPTA_RIP_22007;好极了。;;;;;;;;;;x
-EVTDSC_RIP_22008;我派去处理[end_peasant_leader.GetFirstName]的特工当然得手了，但是他们闹得动静太大。现在他所有的追随者都知道我是真凶，尽管我们尽力控制，言论还是如野火一样传播开。现在他们都把我当成恶棍……;;;;;;;;;;x
+EVTDSC_RIP_22008;我派去处理[end_peasant_leader.GetFirstName]的手下当然得手了，但是他们同时也把这件事闹大了。现在他所有的追随者都知道我是真凶，尽管我们极力控制，言论还是如野火一样传播开来。现在他们都把我当成小人…;;;;;;;;;;x
 EVTOPTA_RIP_22008;此事无法善了……;;;;;;;;;;x
 EVTOPTA_RIP_22008_TOOLTIP;你的全部直辖领获得10年的§Y'农民危机'§!，有以下效果：\n本地叛乱风险：§R+15.0%§!\n本地税收修正：§R-75.0%§!\n\n;;;;;;;;;;x
 EVTNAME_RIP_22009;燃烧的世界;;;;;;;;;;x
@@ -1738,7 +1738,7 @@ EVTDESC_RIP_11040_6;黄色粉末闻起来有种很香的味道. 你惊恐地看�
 EVTDESC_RIP_11040_8;[FromFrom.GetTitledFirstName] 拿着一把小刀接近了你. [FromFrom.GetSheHeCap] 紧紧地抓住你的胳膊并且用刀划出了一个精准的切割, 刚刚划破你的皮肤. [FromFrom.GetSheHeCap] 然后将什么东西按在伤口上. 这看起来像被感染的生物组织，你不由自主地瑟瑟发抖.;;;;;;;;;;x
 EVTDESC_RIP_11040_9;[FromFrom.GetTitledFirstName] 给了你一个装上了灰色粉状物的盘子. 明显是一个比你状况还要糟糕的人的结痂磨成的粉末。接着[FromFrom.GetSheHe] 命令你用鼻子凑近然后尽可能的吸进体内，[FromFrom.GetTitledFirstName] 一点都不像是在开玩笑。;;;;;;;;;;x
 EVTDESC_RIP_11041_10;红色的粉末的颜色看起来十分诱人. 一个仆人犯了错误，偷尝了一口纯粉末 - 他的舌头肿胀得老高而且 [FromFrom.GetTitledFirstName] 因此严厉地惩罚了他. [FromFrom.GetTitledFirstName] 将粉末倒入一杯水并且细心地搅拌好, 然后喂了你一勺.;;;;;;;;;;x
-EVTDESC_RIP_11041_11;你的眼睛睁得老大，看见[FromFrom.GetTitledFirstName] 领着一只山羊进入你的卧室。山羊胃肠胀气恶臭导致你们两个都捏住了鼻子, 但是医师把你的手拉开. "抱歉, 我的[Root.GetLordLady], 这就是治疗方法." [FromFrom.GetSheHeCap] 建议你深呼吸.;;;;;;;;;;x
+EVTDESC_RIP_11041_11;当你看见[FromFrom.GetTitledFirstName]领着一只山羊进入你的房间，你的眼睛睁得老大。山羊胃肠胀气产生的恶臭使你们两个都遮住了鼻子, 但是医师把你的手拉开。“抱歉, 我的[Root.GetLordLady]，这就是治疗方法。”[FromFrom.GetSheHeCap] 建议你深呼吸。;;;;;;;;;;x
 EVTDESC_RIP_11042_5;"放缓你的呼吸", [FromFrom.GetTitledFirstName] 指导你. 在 [FromFrom.GetHerHis] 手里的羽毛们看起来如同隐形一般, [FromFrom.GetSheHe] 开始轻轻地在你鼻子下方刷. "恶魔走开!" [FromFrom.GetSheHe]命令道，与此同时你开始打喷嚏.;;;;;;;;;;x
 EVTDESC_RIP_11042_6;[FromFrom.GetTitledFirstName] 以你的名义举办了一个小型仪式. 当你的所有家庭和密友都在大堂里聚集好的时候, [From.Religion.GetPriestTitle] 在讲道的时候着重描述你的美德和仁厚. 他们联合起来的祷告一定会加快你的恢复.;;;;;;;;;;x
 EVTDESC_RIP_11042_7;你和 [FromFrom.GetTitledFirstName] 共同度过了许多夜晚. [FromFrom.GetSheHe] 会讲述来自[Root.Religion.GetScriptureName]的故事, 直到你陷入沉睡。这个生活习惯让痛苦缓和.;;;;;;;;;;x
@@ -1961,7 +1961,7 @@ EVTOPTB_RIP_12055;我不能冒这个险，[captured_sneaker.GetSheHeCap]必须�
 EVTOPTB_RIP_12055_TOOLTIP;虽然你都要相信了[captured_sneaker.GetSheHe]似乎曾染上疾病的故事\n你还是把[captured_sneaker.GetHerHim]送出了大门\n\n;;;;;;;;;;x
 EVTDESC_RIP_12056_A;你半夜被走廊里的一片叫嚷声吵醒。你看到了房外墙面上草叉晃动的阴影，又听到了尖叫声。你关上了身后的门。这些农民是怎么进来的？地道应该很保险才对！我的[secluded_steward.GetTitledFirstName]检查过了！虽然地图可能有点过时……;;;;;;;;;;x
 EVTDESC_RIP_12056_B;你半夜被走廊里的一片叫嚷声吵醒。你看到了房外墙面上草叉晃动的阴影，又听到了尖叫声。你关上了身后的门。这些农民是怎么进来的？地道应该很保险才对！我的[secluded_steward.GetTitledFirstName]检查过了吧？;;;;;;;;;;x
-EVTOPTA_RIP_12056;卫兵兵兵兵兵！武装起来！;;;;;;;;;;x
+EVTOPTA_RIP_12056;卫兵！卫兵！！抄家伙！;;;;;;;;;;x
 EVTOPTA_RIP_12056_TOOLTIP;你抓起武器冲进了黑暗，和那些农民正面交锋！\n\n;;;;;;;;;;x
 EVTDESC_RIP_12057;你吃完夜宵正准备睡觉，听到了背后的走廊里有脚步声。这会儿还会是谁呢？你站住了，假装在欣赏一块壁毯，而脚步声消失了。一定是有谁在跟着你。你走进卧室，掏出了刀，躲在门后等着那个跟踪者。;;;;;;;;;;x
 EVTOPTA_RIP_12057;来啊，我准备好了……;;;;;;;;;;x
@@ -1973,8 +1973,8 @@ EVTOPTB_RIP_12058;啊，呃。我喜欢你，但不是那种喜欢。我们能�
 EVTOPTB_RIP_12058_TOOLTIP;[captured_sneaker.GetFirstName]看上去很失望，红着脸飞快的穿好了[captured_sneaker.GetHerHis]衣服\n\n;;;;;;;;;;x
 EVTOPTC_RIP_12058;你在这儿干嘛呢？出去！;;;;;;;;;;x
 EVTOPTC_RIP_12058_TOOLTIP;[captured_sneaker.GetBestName]逃出了房间，这实在是太尴尬了\n\n;;;;;;;;;;x
-EVTDESC_RIP_12059_A;农民起义军在高喊着他们领袖的名字，[captured_sneaker.GetBestName]。你狂暴的冲向他们，砍倒了一个又一个人。他们确实进了城堡，但他们不会有任何胜算。你和你训练精良的警卫一起，镇压了这些叛贼。随着胜利的到来，你深刻的认识到这世界上没谁可以信任。;;;;;;;;;;x
-EVTDESC_RIP_12059_B;农民起义军在高喊着他们领袖的名字，[captured_sneaker.GetBestName]。你狂暴的冲向他们，砍倒了一个又一个人。他们确实进了城堡，但到此为止了！你和你训练精良的警卫一起，让这些叛贼根本不可能成功。随着胜利的到来，你凝重的思考着它给所有人带来的痛苦;;;;;;;;;;x
+EVTDESC_RIP_12059_A;农民叛军在高喊着他们领袖的名字，[captured_sneaker.GetBestName]。你狂暴的冲向他们，砍倒了一个又一个人。他们确实进了城堡，但他们不会有任何胜算。你和你训练精良的警卫一起，镇压了这些叛贼。随着胜利的到来，你深刻的认识到这世界上没谁可以信任。;;;;;;;;;;x
+EVTDESC_RIP_12059_B;农民叛军在高喊着他们领袖的名字，[captured_sneaker.GetBestName]。你狂暴的冲向他们，砍倒了一个又一个人。他们确实进了城堡，但到此为止了！你和你训练精良的警卫一起，让这些叛贼根本不可能成功。随着胜利的到来，你凝重的思考着它给所有人带来的痛苦;;;;;;;;;;x
 EVTOPTA_RIP_12059;这不是胜利的感觉。;;;;;;;;;;x
 EVTOPTA_RIP_12059_TOOLTIP;叛军被消灭了\n\n;;;;;;;;;;x
 crusched_rebels_from_seclusion;平定城堡叛乱;;;;;;;;;;x
@@ -2200,7 +2200,7 @@ feeble_death;因虚弱体质;;;;;;;;;;x
 vsync;垂直同步;;;;;;;;;;x
 ADDHOLDING_EFFECT;增加$VAL|Y0$地产空格给$NAME|Y$;;;;;;;;;;x
 SET_TRUCE_EFFECT;在$CHAR|Y$和$TARGET|Y$之间执行停战协定直到$DATE|Y$。;;;;;;;;;;x
-GAME_BOOK;十字军之王2游戏书;;;;;;;;;;x
+GAME_BOOK;王国风云II游戏书;;;;;;;;;;x
 PURCHASE_GAME_BOOK;购买游戏书可获得独特内容;;;;;;;;;;x
 HEADER;$KEY|Y$\n;;;;;;;;;;x
 RULED_TOO_LONG_PENALTY;统治过久：$VAL|=+0$;;;;;;;;;;x
@@ -2263,7 +2263,7 @@ make_shieldmaiden_desc;§Y盾娘§!被认为是具有超人勇气和人格力量
 make_shieldmaiden_custom_tooltip_1;必须具有其一§Y'勇敢'§!， §Y'骄傲'§!， §Y'野心勃勃'§!，§Y'勤奋'§!，或 §Y'公正'§!\n;;;;;;;;;;x
 make_shieldmaiden_custom_tooltip_2;必须不具有 §Y'害羞'§!， §Y'安于现状'§!， §Y'懒惰'§!， §Y'嫉妒'§!，或 §Y'暴食'§!\n;;;;;;;;;;x
 make_shieldmaiden_custom_tooltip_3;最近必须没有被解除（或拒绝接受）这一职责。\n;;;;;;;;;;x
-make_shieldmaiden_custom_tooltip_4;如果[Root.GetTitledFirstName]接受你的提议你将失去§R50§!金钱，但会获得§G50§!威望。\n[Root.GetTitledFirstName]将获得 §G100§!威望和特性 §Y'盾娘'§!。\n;;;;;;;;;;x
+make_shieldmaiden_custom_tooltip_4;如果[Root.GetTitledFirstName]接受你的提议你将失去§R50§!金钱，但会获得§G50§!威望。\n[Root.GetTitledFirstName]将获得 §G100§!威望和§Y'盾娘'§!特质。\n;;;;;;;;;;x
 EVTDESC_79007;我第一次出现在训练场时必定还只是孩童，一根木棍就是我的长剑，石头和灌木是我的敌人。虽然我从未完全停止磨练我的技艺，现在我担忧自己停滞不前了。而自从我被任命为盾娘以来，压力进一步增长。我应该要怎样保持体型？;;;;;;;;;;x
 EVTOPTA_79007;每天早上我都要去赛艇！;;;;;;;;;;x
 EVTOPTB_79007;和我的狗一起跑步！这会很好玩！;;;;;;;;;;x
@@ -3000,7 +3000,7 @@ marshal_improves_capital;军事创新;;;;;;;;;;x
 intelligent_steward;经济创新;;;;;;;;;;x
 eunuch_gift_tooltip;一个名叫§Y[eunuch_gift.GetFullName]§!的阉人来到了你的宫廷;;;;;;;;;;x
 DEATH_MISSING;消失无踪;;;;;;;;;;x
-BUILD_HOSPITAL_DESC;医院可以修建在你控制下的任意省份，需要花费§Y$COST$§!。建设医院以增强§Y疾病抵抗力§!，这会减小传染病在省份本地爆发或从外地传入的几率。医院同样会提供防护以对抗§Y人口减少§!;;;;;;;;;;x
+BUILD_HOSPITAL_DESC;医院可以修建在你控制下的任意省份，需要花费§Y$COST$§!¤。建设医院以增强§Y疾病抵抗力§!，这会减小传染病在省份本地爆发或从外地传入的几率。医院同样会提供防护以对抗§Y人口减少§!;;;;;;;;;;x
 EVTDESC_77860;你珍爱的猫咪总是知道你什么时候需要安慰。它仿若凭空出现，只为了跳上你的膝盖，在你的轻抚下发出舒服的呼噜声。;;;;;;;;;;x
 EVTOPTA_77860;有什么礼物能比一只猫咪的爱更好呢？;;;;;;;;;;x
 EVTDESC_RIP_5051;长时间漂泊在海上让我感觉自己生病了，而这并不是晕船的缘故。我感觉非常疲惫，我的腿一直疼，只要我醒着，我的关节就一直痛个不停。;;;;;;;;;;x
@@ -3172,8 +3172,8 @@ nick_twistedbeard;扭曲的胡子;;;;;;;;;;x
 nick_the_faceless;无面;;;;;;;;;;x
 nick_the_destroyer;毁灭者;;;;;;;;;;x
 nick_the_scourge_of_god;[nickname_target.Religion.GetHighGodName]之鞭;;;;;;;;;;x
-nick_the_slayer_of_culture;[nickname_target.Culture.GetName]的杀手;;;;;;;;;;x
-nick_the_terror_of_provincename;[nickname_target.GetName]的恐惧;;;;;;;;;;x
+nick_the_slayer_of_culture;[nickname_target.Culture.GetName]之屠夫;;;;;;;;;;x
+nick_the_terror_of_provincename;[nickname_target.GetName]之恐惧;;;;;;;;;;x
 nick_the_butcher;屠夫;;;;;;;;;;x
 nick_son_of_evilgod;[This.Religion.GetRandomEvilGodName]的[This.GetSonDaughterCap];;;;;;;;;;x
 nick_the_cleansing_flame;净化之火;;;;;;;;;;x
@@ -3192,7 +3192,7 @@ nick_the_bane_of_realmname;[nickname_target.PrimaryTitle.GetName]之灾星;;;;;;
 nick_the_depraved;堕落;;;;;;;;;;x
 nick_the_monster;怪物;;;;;;;;;;x
 nick_the_abomination;憎恶;;;;;;;;;;x
-nick_the_culture_marauder;[nickname_receiver.Culture.GetName]的掠夺者;;;;;;;;;;x
+nick_the_culture_marauder;[nickname_receiver.Culture.GetName]之掠夺者;;;;;;;;;;x
 nick_the_boar;野猪;;;;;;;;;;x
 nick_the_kingslayer;杀死[Root.GetTitle]之人;;;;;;;;;;x
 nick_the_witch;[Root.GetWarlockWitch];;;;;;;;;;x
@@ -3337,7 +3337,7 @@ heir_text_traits_cynical_just;毫不畏惧[Religion.GetHighGodName]，[GetSheHe]
 heir_text_traits_content_arbitrary;作为一个无忧无虑的[GetManWoman]，[GetSheHe]满足于让事物保持原状;;;;;;;;;;x
 heir_text_traits_craven_military_ed;[GetFirstName]倾向于带领着军队离开[GetHerHis]安全的家园，恐怕难以鼓舞士气;;;;;;;;;;x
 heir_text_traits_shy_content;一个孤僻的[GetManWoman]，[GetSheHe]对于[GetHerHis]工作都交由内阁决定完全没有意见——不论好坏;;;;;;;;;;x
-heir_text_traits_zealous_paranoid;看着[Religion.GetRandomEvilGodName]的代理人到处都是，异端和异教徒都应当担心[GetHerHis]的统治;;;;;;;;;;x
+heir_text_traits_zealous_paranoid;看到[Religion.GetRandomEvilGodName]的仆人已然遍及世间的各个角落，任何异端及异教徒都应当担心[GetHerHis]的统治;;;;;;;;;;x
 heir_text_traits_zealous_charitable;[Religion.GetPriestTitle]在[GetHerHis]虔诚而慷慨的统治下很可能变得富有;;;;;;;;;;x
 heir_text_traits_decadent;腐化且放纵，[GetSheHe]给[GetOnlyDynastyName]家族带来了耻辱——对于领地的未来是一个不祥的诅咒;;;;;;;;;;x
 heir_text_traits_proud_brave;[GetFirstName]总穿着闪耀华丽的盔甲，想要每个人在[GetSheHe]冲进战场时都看见[GetHerHim];;;;;;;;;;x
@@ -3492,7 +3492,7 @@ PROVINCE_TOOLTIP_DISEASE_WEIGHT;-$DISEASE|Y$，感染率为$VALUE|R$($UNDEFENDED
 PROVINCE_TOOLTIP_DISEASE_WEIGHT_UNDEFENDED;$VALUE$在$DISEASE_RESISTANCE$的§Y抗病性§!之前;;;;;;;;;;x
 IS_PROVINCE_OWNER_OR_LIEGE;省份由你或你的封臣拥有;;;;;;;;;;x
 GAME_STARTED_IN;游戏开始于$DATE|Y$;;;;;;;;;;x
-GAME_LASTED;游戏已经经行了$LENGTH|Y$年;;;;;;;;;;x
+GAME_LASTED;游戏已经运行了$LENGTH|Y$年;;;;;;;;;;x
 suspected_impaler;嫌疑刺客;;;;;;;;;;x
 change_wards_focus_to_heritage;改变童年焦点为传统;;;;;;;;;;x
 mild_illness;轻微病症;;;;;;;;;;x
@@ -3936,8 +3936,8 @@ IS_NOT_PILGRIM;不是朝圣者;;;;;;;;;;x
 IS_PILGRIM;是朝圣者;;;;;;;;;;x
 SAME_REGNAL_NAME;与$WHO|Y$的名号相同;;;;;;;;;;x
 NOT_SAME_REGNAL_NAME;与$WHO|Y$的名号不相同;;;;;;;;;;x
-HAS_INHERITANCE_BLOCKER;拥有继承阻却特性;;;;;;;;;;x
-HAS_NOT_INHERITANCE_BLOCKER;没有继承阻却特性;;;;;;;;;;x
+HAS_INHERITANCE_BLOCKER;拥有导致失去继承权的特质;;;;;;;;;;x
+HAS_NOT_INHERITANCE_BLOCKER;没有会导致失去继承权的特质;;;;;;;;;;x
 HAS_HIGHER_DYNASTIC_PRESTIGE_THAN;家族威望至少有;;;;;;;;;;x
 HAS_LOWER_DYNASTIC_PRESTIGE_THAN;家族威望低于;;;;;;;;;;x
 MOVE_PREFERRED_CAPITAL;移动首选首都至$CAPITAL|Y$;;;;;;;;;;x
@@ -3950,7 +3950,7 @@ HAS_DLC;$DLC|Y$生效;;;;;;;;;;x
 HAS_NOT_DLC;$DLC|Y$未生效;;;;;;;;;;x
 CONTINUE_FAILED_TITLE;无法继续！;;;;;;;;;;x
 CONTINUE_FAILED_DESC;无法载入最新的存档。这可能是如下原因造成的：\n*存档损坏\n*存档所需的DLC未被激活\n*存档与当前版本不兼容\n*你正在玩一个mod，该mod使用自己设定的文件地址。\n*存档是铁人模式存档，而你的游戏已经改过了，无法获取成就。\n\n如果原因是铁人模式，你依然可以通过加载游戏菜单加载游戏。;;;;;;;;;;x
-ANTIPOPE_POPE_VASSAL;§R当教皇是你的封臣时不能创建伪教皇§!;;;;;;;;;;x
+ANTIPOPE_POPE_VASSAL;§R当教宗是你的封臣时不能创建伪教宗§!;;;;;;;;;;x
 INCREASE_CAMPAIGN_FUND;增加竞选经费;;;;;;;;;;x
 INCREASE_CAMPAIGN_FUND_DESC;点击增加10竞选经费，SHIFT+点击增加50，CTRL+点击增加100。;;;;;;;;;;x
 DECREASE_CAMPAIGN_FUND;降低竞选经费;;;;;;;;;;x

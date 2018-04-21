@@ -55,7 +55,7 @@ clan_opinion_splitted_my_clan;分裂我的家族;;;;;;;;;;x
 clan_opinion_attempted_splitted_my_clan;Tried To Split My Clan;;;;;;;;;;x
 BUILD_TRADE_POST_DESC;贸易站可以由商业共和国内的贵人家族在海岸边花费§Y$COST$§!建造——即使是在外国疆域上。但是，如果丝绸之路经过，任何当地统治者也可以在他们的省份建造贸易站。（请查看§Y贸易区§!地图模式。）;;;;;;;;;;x
 PROVINCE_NOT_UNDER_SIEGE;§Y$PROVINCE$§!不正被围城;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_4;其他部族附庸不会反对同化叛乱家族。;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_4;其他部族封臣不会反对同化叛乱家族。;;;;;;;;;;x
 TECHPOINTS_FROM_BUILDINGS;来自建筑： §Y$AMOUNT$§!\n;;;;;;;;;;x
 RULER_HAS_MOVED_CAPITAL_RECENTLY_NOMAD;§Y[GetTitledFirstName]§!不允许在$MONTHS$个月内再次移动首都。;;;;;;;;;;x
 MANPOWER_BREAKDOWN;当前人力分类;;;;;;;;;;x

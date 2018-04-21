@@ -1,10 +1,10 @@
 ﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 PLOT_POWER_CONTRIB_LOWER_THAN;在$PLOTTER$ $PLOT$这件事上的参与度少于§Y$POWER$%§!\n;;;;;;;;;;x
 PLOT_POWER_CONTRIB_AT_LEAST;在$PLOTTER$的$PLOT$这一阴谋中的参与度大于§Y$POWER$%§!\n;;;;;;;;;;x
-KILLER;凶手;;;;;;;;;;x
+KILLER;杀手;;;;;;;;;;x
 ANY_SPOUSE_STARTS;任意配偶;;;;;;;;;;x
-IS_MAIN_SPOUSE;是正室;;;;;;;;;;x
-IS_NOT_MAIN_SPOUSE;不是正室;;;;;;;;;;x
+IS_MAIN_SPOUSE;是第一夫人;;;;;;;;;;x
+IS_NOT_MAIN_SPOUSE;不是第一夫人;;;;;;;;;;x
 CONQUEST_CULTURE_EFFECT;被§Y$CULTURE$§!文明征服\n;;;;;;;;;;x
 CONQUEST_CULTURE_EFFECT_FREED;摆脱§Y$CULTURE$§!文明的枷锁\n;;;;;;;;;;x
 MAKE_PRIMARY_SPOUSE_EFFECT;$WHO$成为$SPOUSE$的正室.\n;;;;;;;;;;x
@@ -34,7 +34,7 @@ title_chief_qadi_desc;首席卡迪是境内最高法官与伊斯兰法权威. �
 title_court_dwarf;宫廷侏儒;;;;;;;;;;x
 title_court_dwarf_desc;侏儒是魅力与新奇的代名词. 宫廷里是否有一个侏儒事关威望与荣誉.;;;;;;;;;;x
 job_spiritual_muslim;宫廷伊玛目;;;;;;;;;;x
-job_spiritual_shiite;Court 宫廷穆拉;;;;;;;;;;x
+job_spiritual_shiite;宫廷毛拉;;;;;;;;;;x
 job_chancellor_iranian;大维齐尔;;;;;;;;;;x
 job_chancellor_turkish;大维齐尔;;;;;;;;;;x
 PROV911;廷巴克图;;;;;;;;;;x
@@ -442,7 +442,7 @@ b_ciconia;齐克尼亚;;;;;;;;;;x
 b_paganica;帕格尼卡;;;;;;;;;;x
 ANY_POT_TRIBAL_COUNTY_STARTS;任何可能的部落伯爵领;;;;;;;;;;x
 ALL_POT_TRIBAL_COUNTY_STARTS;所有可能的部落伯爵领;;;;;;;;;;x
-ANY_TRAIT_HOLDER_STARTS;任何拥有特性的角色 ;;;;;;;;;;x
+ANY_TRAIT_HOLDER_STARTS;任何拥有特质的角色 ;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_2F;我们的帝国行政法允许我们褫夺公爵头衔而不引起贵族的反对.;;;;;;;;;;x
 DISTANCE_LESS_THAN;距离小于 ;;;;;;;;;;x
 DISTANCE_AT_LEAST;距离至少 ;;;;;;;;;;x

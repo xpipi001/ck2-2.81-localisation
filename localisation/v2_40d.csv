@@ -1,6 +1,6 @@
 ﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 INTERACTION_CANNOT_INVITE_MARRIED;[Recipient.GetTitledFirstName] 不能已婚;;;;;;;;;;x
-INTERACTION_CANNOT_INVITE_CONSORT;[Recipient.GetTitledFirstName] 不能是妾;;;;;;;;;;x
+INTERACTION_CANNOT_INVITE_CONSORT;[Recipient.GetTitledFirstName] 不能是侍妾;;;;;;;;;;x
 AIREASON_LOVER;§Y[GetTitledFirstName]§!是我的情人;;;;;;;;;;x
 AIREASON_FRIEND;§Y[GetTitledFirstName]§!是我的朋友;;;;;;;;;;x
 AIREASON_WITH_LOVER;想与情人——§Y[GetTitledFirstName]§!在一起;;;;;;;;;;x
@@ -76,7 +76,7 @@ NO_VALID_FOCUSES;§R无有效的重心可供选择！§!;;;;;;;;;;x
 AIREASON_WILL_NOT_MARRY_INFIDELS;§Y[GetTitledFirstName]§!不会考虑异教徒的请求;;;;;;;;;;x
 AN_UNKNOWN_LOCATION;一处不明地点;;;;;;;;;;x
 cb_liberate_nomad_duchy_desc;§Y$CLAIMANT$§!能够使用此宣战理由夺取§Y$TITLE$§!法理内野蛮的§Y$TARGET$§!的所有头衔。;;;;;;;;;;x
-nomad_dispute_desc;世仇部落对彼此宣战抢夺一块单独的省份。;;;;;;;;;;x
+nomad_dispute_desc;世仇部族对彼此宣战抢夺一块单独的省份。;;;;;;;;;;x
 CB_NAME_LIBERATE_NOMAD;解放[Title.GetBaseName];;;;;;;;;;x
 WAR_NAME_LIBERATE_NOMAD;$ORDER$$FIRST_ADJ$解放$OTHER_TITLE$;;;;;;;;;;x
 liberate_nomad_cb_succ_tip;§Y[Root.GetTitledFirstName]§!附庸非游牧领主，夺取§Y[This.GetFullBaseName]§!内的其他所有头衔。\n;;;;;;;;;;x
@@ -114,7 +114,7 @@ action_clan_sentiment_desc;派出你的[GetChancellorName]去提高你部族在�
 clan_propaganda_effort;宣传努力;;;;;;;;;;x
 won_tributary_war;赢得附属战争;;;;;;;;;;x
 opinion_driven_from_my_lands;被赶出我的土地;;;;;;;;;;x
-SENTIMENT_CLANS_WANT_MORE_LAND;部落渴望更多土地;;;;;;;;;;x
+SENTIMENT_CLANS_WANT_MORE_LAND;部族渴望更多土地;;;;;;;;;;x
 EVTNAME20235;一次荣耀的陈述;;;;;;;;;;x
 EVTDESC20235;部族中大部分长者们都在[Root.Location.GetName]聚集起来。这是讲述[Root.Liege.GetTitledFirstNameNoRegnal]部族巨大荣耀的黄金时机……;;;;;;;;;;x
 EVTOPTA20235;讲给他们这样一个故事……;;;;;;;;;;x
@@ -179,7 +179,7 @@ REL_DIVINE_BLOOD_DESC;统治者可以嫁娶近亲来提升封臣好感;;;;;;;;;;
 REL_DECADENCE_DESC;$NAME$家族会腐化;;;;;;;;;;x
 REL_NO_MATRI_MARRIAGES_DESC;不允许母系婚姻;;;;;;;;;;x
 REL_POLYGAMY_DESC;$NAME$男性可以最多娶§Y$NUM$§!个妻子（除非被允许纳妾）;;;;;;;;;;x
-REL_CONCUBINAGE_DESC;$NAME$ 男性可以最多纳 §Y$NUM$§!个妾;;;;;;;;;;x
+REL_CONCUBINAGE_DESC;$NAME$ 男性可以最多纳 §Y$NUM$§!个侍妾;;;;;;;;;;x
 REL_DEF_ATTRITION_DESC;非异教（低科技）在$NAME$的省份上只拥有很低的补给上限;;;;;;;;;;x
 REL_PEACE_PRESTIGE_LOSS_DESC;和平时间太长，统治者会失去威望;;;;;;;;;;x
 REL_CAN_REFORM_DESC;能够进行宗教改革;;;;;;;;;;x
@@ -205,15 +205,15 @@ GOV_IGNORES_DE_JURE_LAWS_DESC;法理法律没有影响;;;;;;;;;;x
 GOV_CANNOT_CREATE_KINGDOMS_DESC;无法创建王国;;;;;;;;;;x
 GOV_CANNOT_USURP_K_OR_E_DESC;无法篡夺王国或帝国;;;;;;;;;;x
 GOV_NO_GENDER_SUCC_LAWS_DESC;没有性别继承法;;;;;;;;;;x
-GOV_CONCUBINAGE_DESC;男性统治者可以纳最多 §Y$NUM$§!个妾;;;;;;;;;;x
+GOV_CONCUBINAGE_DESC;男性统治者可以纳最多 §Y$NUM$§!个侍妾;;;;;;;;;;x
 CUL_RAIDING_DESC;统治者可以劫掠邻近的异教徒;;;;;;;;;;x
 CUL_OVERSEAS_RAIDER_DESC;能够乘船跨海劫掠;;;;;;;;;;x
 CUL_BLINDING_DISINHERITS_DESC;失明角色无法继承头衔;;;;;;;;;;x
 NO_SPECIAL_FEATURES;无特殊特征;;;;;;;;;;x
 nomad_ruling_clan_too_powerful;次级部族正在壮大;;;;;;;;;;x
-cb_minor_clan_revolt_desc;强大的‘次级’部落会向上级部落发起反叛索取更多土地。;;;;;;;;;;x
-CB_NAME_MINOR_CLAN_REVOLT;次级部落反叛;;;;;;;;;;x
-WAR_NAME_MINOR_CLAN_REVOLT;次级部落崛起;;;;;;;;;;x
+cb_minor_clan_revolt_desc;强大的‘次级’部族会向上级部族发起反叛索取更多土地。;;;;;;;;;;x
+CB_NAME_MINOR_CLAN_REVOLT;次级部族反叛;;;;;;;;;;x
+WAR_NAME_MINOR_CLAN_REVOLT;次级部族崛起;;;;;;;;;;x
 ISNT_CLOSE_RELATIVE;不是近亲属;;;;;;;;;;x
 IS_CLOSE_RELATIVE;是近亲属;;;;;;;;;;x
 HOLYSITE_LOCATION_COUNTY;§Y$SITENAME$§!拥有圣地;;;;;;;;;;x
@@ -525,7 +525,7 @@ ABSORB_CLAN_INTERACTION_0;此举将降低§Y[Recipient.GetTitledFirstName]§!对
 ABSORB_CLAN_INTERACTION_1;[Recipient.GetHerHis]结拜兄弟§Y$BLOOD_BROTHER$§!对你的部族观感亦将减少§R$VAL$§!。;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_2;其他部族封臣将视之为暴君行为，减少他们对你的观感§R$VAL$§!。;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_3;其他部族封臣将毫不在意，因为他们觉得领地内部族太多了。;;;;;;;;;;x
-opinion_absorbed_my_clan;同化我的部落;;;;;;;;;;x
+opinion_absorbed_my_clan;同化我的部族;;;;;;;;;;x
 EVTDESC503;我虽然内心极为悲伤，但还是恭顺地接受您同化[From.GetOnlyDynastyName]的提议。;;;;;;;;;;x
 EVTDESC504;我不会允许你兵不血刃就偷走我的人民！你不再是我的可汗。;;;;;;;;;;x
 LIEGE_ENDED_OTHER_WAR_PARTICIPATION_SETUP;领主结束参与战争;;;;;;;;;;x
@@ -547,10 +547,10 @@ RESIGN_AS_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!辞去了[Ac
 RESIGN_AS_COMMANDER_INTERACTION_LETTER;我决定不再担任你手下的指挥官。;;;;;;;;;;x
 MINOR_TITLES;次级头衔;;;;;;;;;;x
 allowed_to_hold;拥有者状态;;;;;;;;;;x
-CLAN_OPINION_LOWER_THAN;部落观感低于;;;;;;;;;;x
-CLAN_OPINION_AT_LEAST;部落观感至少;;;;;;;;;;x
-CLAN_OPINION_DIFF_LOWER_THAN;§Y$FIRST$§!以及§Y$SECOND$§!之间部落观感差异小于§Y$VAL$§!;;;;;;;;;;x
-CLAN_OPINION_DIFF_AT_LEAST;§Y$FIRST$§!以及§Y$SECOND$§!之间部落观感差异至少§Y$VAL$§!;;;;;;;;;;x
+CLAN_OPINION_LOWER_THAN;部族观感低于;;;;;;;;;;x
+CLAN_OPINION_AT_LEAST;部族观感至少;;;;;;;;;;x
+CLAN_OPINION_DIFF_LOWER_THAN;§Y$FIRST$§!以及§Y$SECOND$§!之间部族观感差异小于§Y$VAL$§!;;;;;;;;;;x
+CLAN_OPINION_DIFF_AT_LEAST;§Y$FIRST$§!以及§Y$SECOND$§!之间部族观感差异至少§Y$VAL$§!;;;;;;;;;;x
 alert_available_minor_title_instant;§Y可授予特殊次级头衔§!;;;;;;;;;;x
 alert_available_minor_title_delayed;可授予以下特殊次级头衔：\n$LIST$;;;;;;;;;;x
 title_commander_desc;§Y指挥官§!是§Y军事总管§!和统治者之外唯独允许领兵的一群人。;;;;;;;;;;x
@@ -614,7 +614,7 @@ SPLIT_CLAN_INTERACTION_0;分裂§Y[Recipient.Clan.GetName]§!并给新的部族�
 SPLIT_CLAN_INTERACTION_1;这将降低§Y[Recipient.GetTitledFirstName]§!对你的部族观感§R$VAL$§!。;;;;;;;;;;x
 SPLIT_CLAN_INTERACTION_2;[Recipient.GetHerHis]结义兄弟§Y$BLOOD_BROTHER$§!对你的部族忠诚度也会降低§R$VAL$§!。;;;;;;;;;;x
 SPLIT_CLAN_INTERACTION_3;所有的部族封臣都会不满，因为领地内已经有够多的部族了，降低他们对你的观感 §R$VAL$§!。;;;;;;;;;;x
-SPLIT_CLAN_INTERACTION_4;其他附庸部族并不会在意，因为他们认为领地内的部族并不算太多。;;;;;;;;;;x
+SPLIT_CLAN_INTERACTION_4;其他部族封臣并不会在意，因为他们认为领地内的部族并不算太多。;;;;;;;;;;x
 EVTDESC509;我恭顺地接受你的决定，分拆我的部族，尽管这让我非常痛心。;;;;;;;;;;x
 EVTDESC510;我绝不允许不经过战斗就偷走我的民众！你不再是我的大汗。;;;;;;;;;;x
 clan_opinion_created;忠诚的部族;;;;;;;;;;x

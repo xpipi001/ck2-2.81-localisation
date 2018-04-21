@@ -27,8 +27,8 @@ GOVERNMENT_VASSALS_AT_LEAST;拥有至少§Y$NUM$§!§Y$GOVERNMENT$§!的封臣;;
 FEATURES;特点;;;;;;;;;;x
 HINT_SPLASH_2_INTRO;你正在扮演[Culture.GetName][Religion.GetName][PrimaryTitle.GetRulerTitle]！;;;;;;;;;;x
 UNSELECT_CHAR;取消选择角色;;;;;;;;;;x
-tribal_governments_FEATURES;§Y*§! 可以改革成封建制，伊克塔制和商业共和国政体;;;;;;;;;;x
-nomadic_governments_FEATURES;§Y*§! 可以改革成封建政体、伊克塔政体、商业共和国政体\n §Y*§! 可以抢劫聚落来获取财富和科技\n§Y*§! 可以放弃省份来加快人口和人力增长;;;;;;;;;;x
+tribal_governments_FEATURES;§Y*§! 可以改革成封建制，伊克塔制和商业共和制政体;;;;;;;;;;x
+nomadic_governments_FEATURES;§Y*§! 可以改革成封建政体、伊克塔政体、商业共和制政体\n §Y*§! 可以抢劫聚落来获取财富和科技\n§Y*§! 可以放弃省份来加快人口和人力增长;;;;;;;;;;x
 GOVERNMENT_UNLOCKS;政体解锁;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_2G;我们的$GOVERNMENT$管治允许我们收回§Y$TIER$§!头衔时不会有贵族反对。;;;;;;;;;;x
 IS_DIVINE_BLOOD;§Y$DYNASTY$§!家族可以血亲圣婚;;;;;;;;;;x
@@ -42,7 +42,7 @@ b_dandan_uilik;丹丹乌里克;;;;;;;;;;x
 b_korla;坤闾;;;;;;;;;;x
 b_shanguo;山国;;;;;;;;;;x
 b_turfan;吐鲁番;;;;;;;;;;x
-b_tashkurgan;竭盘陀;;;;;;;;;;x
+b_tashkurgan;塔什库尔干;;;;;;;;;;x
 b_yecheng;叶城;;;;;;;;;;x
 b_mazar;麻札;;;;;;;;;;x
 b_jiaohe;交河;;;;;;;;;;x
@@ -64,7 +64,7 @@ b_shangwangguo;山王国;;;;;;;;;;x
 b_xiuxun;休循;;;;;;;;;;x
 b_wulei;乌垒;;;;;;;;;;x
 b_bay;拜城;;;;;;;;;;x
-b_toqsu;它乾;;;;;;;;;;x
+b_toqsu;新和;;;;;;;;;;x
 b_awat;阿瓦提;;;;;;;;;;x
 b_kelpin;阔纳齐兰;;;;;;;;;;x
 b_fukang;阜康;;;;;;;;;;x
@@ -97,7 +97,7 @@ b_kizil;克孜尔;;;;;;;;;;x
 b_subashi;苏巴什;;;;;;;;;;x
 b_kumtura;库木吐喇;;;;;;;;;;x
 b_bezeklik;柏孜克里克;;;;;;;;;;x
-b_astana;阿斯塔纳;;;;;;;;;;x
+b_astana;阿斯塔那;;;;;;;;;;x
 b_manas;马纳思;;;;;;;;;;x
 b_changjo;仰吉八里;;;;;;;;;;x
 b_kara_koshun;喀拉库顺;;;;;;;;;;x
@@ -130,7 +130,7 @@ b_yumen;玉门;;;;;;;;;;x
 CHRONICLE_FOUNDED_MERCHANT_REPUBLIC;[From.GetDynName]在[From.GetHerHis]境内放弃古老的部落风俗，成立商业共和国。;;;;;;;;;;x
 nomadic_emperor_female;可敦;;;;;;;;;;x
 nomadic_king_female;可努;;;;;;;;;;x
-e_chagatai;察合台;;;;;;;;;;x
+e_chagatai;察合台汗;;;;;;;;;;x
 FACTIONS_MENU;§Y派系§!;;;;;;;;;;x
 CLANS_MENU;§Y部族§!;;;;;;;;;;x
 THE_REPUBLIC_MENU;§Y共和国§!;;;;;;;;;;x

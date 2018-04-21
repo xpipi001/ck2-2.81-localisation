@@ -144,7 +144,7 @@ EVTOPTA_RoI_193;让老子瞧瞧！;;;;;;;;;;x
 EVTOPTB_RoI_193;这是迷信.;;;;;;;;;;x
 EVTDESC_RoI_194;你来到了市场.瑜伽士周围聚集了大批人群.他双眼紧闭,看起来确实浮到了空中.有人小声说道他已经保持那个状态好几个小时了.;;;;;;;;;;x
 EVTOPTA_RoI_194;有趣.;;;;;;;;;;x
-EVTOPTB_RoI_194;屌！我要资助这个圣人.;;;;;;;;;;x
+EVTOPTB_RoI_194;善哉！我要资助这个圣人.;;;;;;;;;;x
 EVTOPTC_RoI_194;咱们戳下他,看看会发生啥.;;;;;;;;;;x
 EVTOPTD_RoI_194;我要使劲推下他.;;;;;;;;;;x
 EVTDESC_RoI_195;你离开了施展浮空术的瑜伽士,思考着这些圣人的魔法奥秘.;;;;;;;;;;x
@@ -202,7 +202,7 @@ TRAIT_OPINION_CHRISTIAN_CHURCH;基督教关系: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_SPOUSE;配偶好感: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_SEX_APPEAL;吸引力好感: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_DYNASTY;家族好感: $VALUE$;;;;;;;;;;x
-TRAIT_OPINION_VASSAL;附庸好感: $VALUE$;;;;;;;;;;x
+TRAIT_OPINION_VASSAL;封臣好感: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_LIEGE;君主看法: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_INFIDEL;不同信仰关系: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_SAME_TRAIT;同一特质关系: $VALUE$;;;;;;;;;;x
@@ -243,11 +243,11 @@ obj_buddhist_reject_pride_desc;[This.GetTitledFirstName],作为一个虔诚的�
 obj_buddhist_defeat_fear_title;战胜恐惧;;;;;;;;;;x
 obj_buddhist_defeat_fear_desc;[This.GetTitledFirstName],作为一个虔诚的佛教徒,正在努力学习战胜[This.GetHerHis]这个世界的带来的恐惧.;;;;;;;;;;x
 temple_barony_of_hindu;印度寺庙的;;;;;;;;;;x
-temple_barony_of_buddhist;佛教寺庙的;;;;;;;;;;x
+temple_barony_of_buddhist;佛寺;;;;;;;;;;x
 temple_barony_of_jain;耆那寺庙的;;;;;;;;;;x
 DEATH_SACRIFICED;献祭$KILLER$以供奉神灵;;;;;;;;;;x
-obj_become_paragon_of_enlightenment_title;正法;;;;;;;;;;x
-obj_become_paragon_of_enlightenment_desc;[This.GetTitledFirstName]力臻改善[This.GetHerHis] [This.Religion.GetPietyName]并正觉，而启迪来自他信仰的[This.GetHerHis].;;;;;;;;;;x
+obj_become_paragon_of_enlightenment_title;成为开悟者;;;;;;;;;;x
+obj_become_paragon_of_enlightenment_desc;[This.GetTitledFirstName]广积善缘并欲修得大彻大悟，即对[This.GetHerHis]信仰的真正开悟。;;;;;;;;;;x
 opinion_enlightened;觉悟者;;;;;;;;;;x
 paragon_of_enlightenment;潜心修法;;;;;;;;;;x
 EVTTOOLTIP1_RoI_2001;给[From.GetFullName]回复;;;;;;;;;;x

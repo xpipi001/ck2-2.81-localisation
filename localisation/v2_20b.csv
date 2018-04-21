@@ -2,7 +2,7 @@
 EVTOPTC91355;也许我可以求于 [From.GetHerHis] 贪婪的一面...;;;;;;;;;;x
 EVTOPTD91355;[Root.Religion.GetRandomGodName] 也许会欣喜与我捐献的小钱钱.;;;;;;;;;;x
 EVTOPTE91355;也许我可以让 [From.GetHerHis] [From.Spouse.GetHusbandWife] 到我的阵营来.;;;;;;;;;;x
-EVTDESC91372;My agents have brought me a message from [From.GetTitledFirstName], who still refuses my demands that [From.GetSheHe] straighten up! [From.GetSheHeCap] offered to give me a strong eunuch of great martial ability as a gift if I allow [From.GetHerHim] to persist in [From.GetHerHis] decadence.;;;;;;;;;;x
+EVTDESC91372;我的手下给我带来了一条[From.GetTitledFirstName]的消息，他仍不愿放弃[From.GetSheHe]糜烂的生活方式！[From.GetSheHeCap]提出如果我允许[From.GetHerHim]继续[From.GetHerHis]糜烂生活，[From.GetSheHe]将提供给我一个具有强大战斗力的太监。;;;;;;;;;;x
 EVTOPTA91372;这样的阉人肯定有用!;;;;;;;;;;x
 EVTDESC91373;[From.GetTitledFirstName] 跟我说 [From.GetSheHe] 选择了要过 [From.GetHerHis] 想要的生活. [From.GetSubjectPronounCap] 试着给我解释我眼中的腐化不过是一种敬仰[From.Religion.GetRandomGodName]的方式. [From.GetSheHeCap] 也提出以我之名捐笔钱给教会以示友好.;;;;;;;;;;x
 EVTOPTA91373;[From.Religion.GetRandomGodName]会认可这捐献的.;;;;;;;;;;x
@@ -44,7 +44,7 @@ EVTDESC7966;完蛋了! [From.GetTitledName] 发觉了事情不对,调走了侍�
 title_appointed_regent;指定摄政;;;;;;;;;;x
 title_appointed_regent_desc;境况所迫时,这个角色会成为摄政;;;;;;;;;;x
 INTERACTION_REQ_REC_IS_DJ_LIEGE_OR_ADJ;§Y[Recipient.GetTitledFirstName]§! 必须与我接壤，或者是我首都的法理领主;;;;;;;;;;x
-WELCOME_TEXT;在游戏中,你可以扮演任何时期的中世纪君主, 下至伯爵,上至帝王. 当你的角色去世时, 你需要有一个继承人接任, 如此流传,经久不断. 与其他游戏不同, 开始的状况是符合史实的,也就是说完全没有平衡一说. 查看估算难度再选择君主进入游戏!;;;;;;;;;;x
+WELCOME_TEXT;在本游戏中，您可以扮演任何中世纪时期的统治者，下至伯爵，上至帝王。当您的角色去世时，您需要有一个继承人接任，如此流传，经久不断。与其他游戏不同，本游戏开始时的状况是符合历史的，也就是完全没有平衡一说。请先查看为您的角色估算的难度再选择进入游戏！;;;;;;;;;;x
 tribal_duke;酋长;;;;;;;;;;x
 tribal_duke_female;女大酋长;;;;;;;;;;x
 tribal_duchy_of;部落;;;;;;;;;;x
@@ -118,19 +118,19 @@ CHRONICLE_PLAYER_INHERITANCE_NEW_CULTURE_AND_RELIGION;[From.GetTitledName] [From
 jewish_group;犹太教;;;;;;;;;;x
 zoroastrian_group;祆教;;;;;;;;;;x
 embargo_cb_desc;这个宣战理由准许你摧毁所有 §Y$TARGET$§!在你国度中的贸易战;;;;;;;;;;x
-vice_royalty_desc;皇帝可以将王国和公国头衔以总督形式冠以附庸. 通过这样获取的头衔不能被后代继承,而是在总督死后回归皇帝手中.此法能有效控制不超出附庸上限.;;;;;;;;;;x
+vice_royalty_desc;皇帝可以将王国和公国头衔以总督形式冠以封臣. 通过这样获取的头衔不能被后代继承,而是在总督死后回归皇帝手中.此法能有效控制不超出封臣上限.;;;;;;;;;;x
 opinion_castrated_close_kin;阉割了近亲;;;;;;;;;;x
 opinion_blinded_close_kin;刺瞎了近亲;;;;;;;;;;x
-TITLE_USURPTION_TEMPORARY_TITLE;临时头衔所有者及其附庸都不能篡夺头衔.;;;;;;;;;;x
+TITLE_USURPTION_TEMPORARY_TITLE;临时头衔所有者及其封臣都不能篡夺头衔.;;;;;;;;;;x
 EVTDESC107001;你可以扮演同一家族的成员不断继任.在这个教学战役中, 直到你的君主40岁前,国内都会十分安定. 那时候,[Root.GetFirstName] 会死去 (通常来说角色会死于高龄,暴力或是疾病) 而教学战役会结束. 当 [Root.GetSubjectPronoun] 去世, 你可以 [Root.GetPossPronoun] 继承人的身份继续游戏. 随意尝试游戏中的各个部分,但请注意,如果不按照教学来玩,可能会错过一些帮助提示.;;;;;;;;;;x
-EVTDESC107303;看来你没有足够的船来运送部队. 有时候在战时, 你和你附庸领地的兵员可能不够. 这时候最好利用雇佣兵. 可以通过选择军事界面的雇佣兵选项招募帮手. 新近招募的雇佣兵会出现在你的首都. 他们不仅雇佣起来十分昂贵,维持雇佣也不便宜. 雇佣前仔细看看兵团的组成. 有些雇佣兵全是海军而有些没有船只. 这里雇一些海军雇佣兵. 他们会在你国度西方的海上出现.;;;;;;;;;;x
+EVTDESC107303;看来你没有足够的船来运送部队. 有时候在战时, 你和你封臣领地的兵员可能不够. 这时候最好利用雇佣兵. 可以通过选择军事界面的雇佣兵选项招募帮手. 新近招募的雇佣兵会出现在你的首都. 他们不仅雇佣起来十分昂贵,维持雇佣也不便宜. 雇佣前仔细看看兵团的组成. 有些雇佣兵全是海军而有些没有船只. 这里雇一些海军雇佣兵. 他们会在你国度西方的海上出现.;;;;;;;;;;x
 CHRONICLE_JOINED_ALLY_IN_WAR;[Prev.GetTitledName] 支持 [From.GetTitledName]对抗 [From.GetHerHis] 敌人的战事.;;;;;;;;;;x
 CHRONICLE_JOINED_ALLY_IN_WAR_2;[From.GetTitledName] 支持 [Prev.GetTitledName]对抗 [Prev.GetHerHis] 他敌人的战事.;;;;;;;;;;x
 CHRONICLE_CRUSADE_LOST_NO_HEAD;[From.Religion.GetCrusadeName] 因 [From.Religion.GetName] 失去了宗教领袖而结束.;;;;;;;;;;x
 ASK_FOR_DIVORCE_INTERACTION_1;离异 §Y[Actor.Spouse.GetFirstName]§! 会让你损失 §R$COST$§! 威望.;;;;;;;;;;x
 DIVORCE_INTERACTION_1;离婚会让你损失 §R$COST$§! 威望.;;;;;;;;;;x
 ERA_CHAR_INFO_3096;生在开罗, 穆斯坦绥尔在6岁是成为了哈里发. 早年, 他的母亲阿布塔米姆作为摄政维护她儿子的安全. 到成年时, 他在一群强力的倭色尔簇拥下统治. 他的时代充斥着混乱和饥荒, 嬴弱的国度成为多个突厥大佣兵团的目标.穆斯坦绥尔从未完全掌握实权,但他仍旧是历史上在位最长的哈里发.;;;;;;;;;;x
-ERA_CHAR_INFO_3040;阿尔普 阿斯兰,塞琉古的曾孙, 出生时叫穆罕穆德 本 达乌 察合里. 但他因他的强大,优秀的作战技巧和勇气而得名, 意为"勇敢的狮子". 早年,他继承了父亲成为呼罗珊的统领. 在1064年继承危机时他通过武力取得了苏丹的名号, 后来统治了广袤的塞琉古帝国. 他对拜占庭帝国发起战争并在曼齐刻尔特战役里彻底击败了他们, 捕获了拜占庭皇帝. 这场胜利铺垫了日后突厥人在安纳托利亚的崛起, 也是触发十字军东征的原因之一. 他死也未辱其名, 在42岁时, 拒绝守卫的帮助对付一名叛军囚犯时死在了.;;;;;;;;;;x
+ERA_CHAR_INFO_3040;阿尔普 阿斯兰,塞尔柱的曾孙, 出生时叫穆罕穆德 本 达乌 察合里. 但他因他的强大,优秀的作战技巧和勇气而得名, 意为"勇敢的狮子". 早年,他继承了父亲成为呼罗珊的统领. 在1064年继承危机时他通过武力取得了苏丹的名号, 后来统治了广袤的塞尔柱帝国. 他对拜占庭帝国发起战争并在曼齐刻尔特战役里彻底击败了他们, 捕获了拜占庭皇帝. 这场胜利铺垫了日后突厥人在安纳托利亚的崛起, 也是触发十字军东征的原因之一. 他死也未辱其名, 在42岁时, 拒绝守卫的帮助对付一名叛军囚犯时死在了.;;;;;;;;;;x
 ERA_CHAR_INFO_457620;作为卡斯提尔和列昂的国王, 费德南是再征服运动中最重要的一个人物,最终将穆斯林从伊比利亚赶了出去. 卡斯提尔在费德南的统治下收纳了大片南西班牙的领土, 不仅通过武力,还使用外交手段征服了安达卢西亚人的城市,例如科尔多巴和塞维利亚. 他死后四百年, 费迪南被教宗克莱芒十世勘定为圣人, 纳入史册.;;;;;;;;;;x
 ERA_CHAR_INFO_167219;汉萨联盟是由一群由吕贝克主导日耳曼城市所组成,取代维斯比成为在中世纪以及后来时代主导波罗的海贸易的商业力量.他们的办事处,"孔托", 遍布主要的贸易港口和城市, 西至伦敦,东至诺夫哥罗德. 最终联盟强大到了能直接挑战大国, 一个例子便是在14世纪,他们占领和洗劫了丹麦首都哥本哈根.;;;;;;;;;;x
 ERA_CHAR_INFO_212513;被同时代的人成为世间奇迹, 弗里德里希二世是神圣罗马帝国在中世纪最强大的皇帝之一. 他的统治常常伴随着与教廷的战争. 弗里德里希被绝罚过四次, 教宗额我略九世甚至指认他为敌基督. 他在第六次十字军运动中参与了少许战斗,但成功的商定了让基督徒控制耶路撒冷. 1250年,50岁的他的死伴随着同族的消亡,最终为霍亨斯陶芬王朝画上了句号.;;;;;;;;;;x
@@ -139,8 +139,8 @@ ERA_CHAR_INFO_454500;爱德华三世从许多方面来说都是一个勇士. 132
 ERA_CHAR_INFO_455500;幸运的菲利普是来自瓦卢瓦王朝的第一个法国国王. 在他的统治下,法国人见证了后世所称的百年战争. 即便被叫做幸运的菲利普, 历史上的他并没有什么好运气. 在克雷西会战时, 法国的军队几乎全数被英国人歼灭. 在他统治的晚期, 黑死病第一次出现在了法国. 全国三分之一的人口染上了这致命的疫病, 包括菲利普的王后乔安.;;;;;;;;;;x
 ERA_CHAR_INFO_476500;乌尔汗, 作为奥斯曼王朝奠基者的奥斯曼一世之子, 在父亲死后继承了父业. 他最初提出与其兄第阿拉丁共治, 但阿拉丁拒绝,最终成为了乌尔汗手下的大维奇尔, 直到1332年.在乌尔汗的统治下, 奥斯曼,乘拜占庭帝国苦于内战时在安纳托利亚西北大幅扩张.;;;;;;;;;;x
 ERA_CHAR_INFO_480000;穆罕默德 月即别是金帐汗国在位时间最长的可汗，在他的治理下蒙古各国达到了权利的巅峰。早年月即别皈依了伊斯兰教，在他即位后他钦点伊斯兰教为国教。月即别还有容纳基督徒的美名，教宗若望十二世甚至给他写过亲笔信表达感谢。;;;;;;;;;;x
-ERA_CHAR_INFO_170258;穆罕默德而是是图格鲁克族长, 他在印度建立了一个广大的穆斯林帝国. 在他的统治下, 帝国起初掌握了在印度的临时统治, 但本意并非长久维持下去. 穆罕默德以冷酷无情出名, 他对帝国课以重税. 运作帝国的同时他还面临无数起义的挑战, 当他死时, 帝国几近分崩离析.;;;;;;;;;;x
-ERA_SELECTION_TEXT;每个时代都有其特点和挑战. 每个时代其中一些有趣的是:\n- 早期中世: 加洛林帝国, 皮克特人, 最早的维京劫掠, 建立神圣罗马帝国, 拜占庭帝国和圣象破坏运动.\n- 维京时代: 维京人国度, 犹太教可萨人, 加洛林帝国的继任者, 倭马亚和罗湿陀罗拘陀.\n- 中世盛世: 征服者威廉, 塞琉古突厥, 基辅罗斯, 分裂的西班牙和拉贾斯坦. 拜占庭最晚可用年份.\n- 蒙古时代: 金帐汗国, 伊尔汗国, 印度的穆斯林古拉姆.\n- 晚期中世: 百年战争, 奥斯曼, 立陶宛, 蒙古汗国, 图格鲁克王朝, 基督教下的西班牙.;;;;;;;;;;x
+ERA_CHAR_INFO_170258;穆罕默德而是是图格鲁克族长, 他在印度建立了一个广大的穆斯林帝国. 在他的统治下, 帝国起初掌握了在印度的临时统治, 但本意并非长久维持下去. 穆罕默德以冷酷无情出名, 他对帝国课以重税. 运作帝国的同时他还面临无数叛乱的挑战, 当他死时, 帝国几近分崩离析.;;;;;;;;;;x
+ERA_SELECTION_TEXT;每个时代都有其特点和挑战. 每个时代其中一些有趣的是:\n- 早期中世: 加洛林帝国, 皮克特人, 最早的维京劫掠, 建立神圣罗马帝国, 拜占庭帝国和圣象破坏运动.\n- 维京时代: 维京人国度, 犹太教可萨人, 加洛林帝国的继任者, 倭马亚和罗湿陀罗拘陀.\n- 中世盛世: 征服者威廉, 塞尔柱突厥, 基辅罗斯, 分裂的西班牙和拉贾斯坦. 拜占庭最晚可用年份.\n- 蒙古时代: 金帐汗国, 伊尔汗国, 印度的穆斯林古拉姆.\n- 晚期中世: 百年战争, 奥斯曼, 立陶宛, 蒙古汗国, 图格鲁克王朝, 基督教下的西班牙.;;;;;;;;;;x
 convert_to_parent_religion;皈依正统宗教;;;;;;;;;;x
 raise_tribal_units;召集部落军队;;;;;;;;;;x
 raise_tribal_units_desc;我可以召集忠心的 [Root.Culture.GetName]勇士以助战事. 我的名声在外,影响广泛,他们定会前来. 但和平到来,他们便会回家种田. 他们为荣誉而不是财富作战,但负责补给的仍然是我.;;;;;;;;;;x
@@ -230,12 +230,12 @@ tb_militia_barracks_desc;在这里,我们的人民为战斗做准备.;;;;;;;;;;x
 CB_NAME_DECADENCE_USURPTION;腐化夺权;;;;;;;;;;x
 WAR_NAME_DECADENCE_USURPTION;$ORDER$$FIRST_ADJ$ 腐化夺权;;;;;;;;;;x
 cb_decadence_usurption_desc;穆斯林可以用这个战争理由篡夺腐化的同族头衔.;;;;;;;;;;x
-tribal_organization_desc;部落组织法正如封建王权法. 只不过即便组织良好的部落仍然缺乏对附庸的控制.;;;;;;;;;;x
-tribal_organization_0_desc;低组织时,部落对附庸几乎没有任何控制.;;;;;;;;;;x
-tribal_organization_1_desc;酋长对附庸有少许控制.;;;;;;;;;;x
-tribal_organization_2_desc;附庸与酋长的权利大致平衡;;;;;;;;;;x
-tribal_organization_3_desc;酋长对附庸有权威;;;;;;;;;;x
-tribal_organization_4_desc;酋长通过类似封建的方式控制着附庸;;;;;;;;;;x
+tribal_organization_desc;部落组织法正如封建王权法. 只不过即便组织良好的部落仍然缺乏对封臣的控制.;;;;;;;;;;x
+tribal_organization_0_desc;低组织时,部落对封臣几乎没有任何控制.;;;;;;;;;;x
+tribal_organization_1_desc;酋长对封臣有少许控制.;;;;;;;;;;x
+tribal_organization_2_desc;封臣与酋长的权利大致平衡;;;;;;;;;;x
+tribal_organization_3_desc;酋长对封臣有权威;;;;;;;;;;x
+tribal_organization_4_desc;酋长通过类似封建的方式控制着封臣.;;;;;;;;;;x
 adopt_republicanism;建立商业共和国;;;;;;;;;;x
 form_new_kingdom_requirement_tooltip;拥有3个公国头衔\n;;;;;;;;;;x
 form_new_empire_requirement_tooltip;拥有3个王国头衔\n;;;;;;;;;;x
@@ -261,7 +261,7 @@ EVTOPTACM15006;我将会证明我有资格成为 [Root.Religion.GetHighGodName] 
 EVTDESCCM15007;哦,我的背, 顶着太阳挺直吧. 这坑是一场折磨, 炎热像数千刀片一般刮着我的皮肤. 我渴望救赎和自由, 我希望关押我的人能放我出去. 但心底里我开始明白..;;;;;;;;;;x
 EVTOPTACM15007;我的新主人大尊,才能将我从凡世的痛苦煎熬中解救!;;;;;;;;;;x
 CANNOT_PLAY_CHARLEMANGE_BOOKMARK_WITHOUT_DLC;查理曼DLC;;;;;;;;;;x
-CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;需要远古之神DLC;;;;;;;;;;x
+CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;需要逝往神灵DLC;;;;;;;;;;x
 frisian;弗里斯兰人;;;;;;;;;;x
 tribal_duke_frisian;酋长;;;;;;;;;;x
 tribal_duke_female_frisian;女酋长;;;;;;;;;;x
@@ -348,4 +348,4 @@ EVTDESC_CM_1172;你母亲来见你. '我的 [Root.GetSonDaughter], 我很担忧.
 EVTOPTA_CM_1172;母亲,你是对的. [From.GetJobTitle] 必须下台.;;;;;;;;;;x
 EVTOPTB_CM_1172;我不会让[From.GetTitledFirstName]走的.;;;;;;;;;;x
 EVTOPTC_CM_1172;你闹够了!去修女那呆着!;;;;;;;;;;x
-TRIBAL_VASSAL_TAX_MODIFIER;部落附庸税;;;;;;;;;;x
+TRIBAL_VASSAL_TAX_MODIFIER;部落封臣税;;;;;;;;;;x

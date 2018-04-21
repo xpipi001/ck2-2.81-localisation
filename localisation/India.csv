@@ -29,7 +29,7 @@ PROV1137;曼苏拉;;;;;;;;;;x
 PROV1138;巴卡尔;;;;;;;;;;x
 PROV1139;莫克兰;;;;;;;;;;x
 PROV1140;婆拿婆赐;;;;;;;;;;x
-PROV1141;憍罗;;;;;;;;;;x
+PROV1141;柯尔;;;;;;;;;;x
 PROV1142;波罗提湿檀那;;;;;;;;;;x
 PROV1143;伽莲尼;;;;;;;;;;x
 PROV1144;憍梨波稽;;;;;;;;;;x
@@ -224,7 +224,7 @@ PROV1335;科斯提;;;;;;;;;;x
 PROV1336;毗者努多;;;;;;;;;;x
 PROV1337;邬脂;;;;;;;;;;x
 PROV1338;木尔坦;;;;;;;;;;x
-PROV1339;罗旬补罗;;;;;;;;;;x
+PROV1339;罗阇补罗;;;;;;;;;;x
 PROV1340;迦卢罗;;;;;;;;;;x
 PROV1341;难陀那;;;;;;;;;;x
 PROV1342;佛楼沙;;;;;;;;;;x
@@ -268,7 +268,7 @@ PROV1381;奔那伐弹那;;;;;;;;;;x
 PROV1413;吠那菟;;;;;;;;;;x
 PROV1414;屈多娑罗;;;;;;;;;;x
 PROV1415;毗多补罗;;;;;;;;;;x
-PROV1416;憍罗诃补罗;;;;;;;;;;x
+PROV1416;戈尔哈布尔;;;;;;;;;;x
 PROV1417;瓦格;;;;;;;;;;x
 PROV1418;诃卢毗湿伐罗;;;;;;;;;;x
 PROV1419;弥萨罗;;;;;;;;;;x
@@ -284,10 +284,10 @@ PROV1428;达莫特;;;;;;;;;;x
 PROV1429;贝格姆德尔;;;;;;;;;;x
 PROV1430;钦察;;;;;;;;;;x
 PROV1431;讹答剌;;;;;;;;;;x
-PROV1432;葛罗逯;;;;;;;;;;x
+PROV1432;葛逻逯;;;;;;;;;;x
 PROV1433;哈萨克;;;;;;;;;;x
 PROV1434;巴尔喀什;;;;;;;;;;x
-PROV1435;基马克;;;;;;;;;;x
+PROV1435;乞马克;;;;;;;;;;x
 PROV1436;拉科美尔扎;;;;;;;;;;x
 PROV1437;提格利尼亚;;;;;;;;;;x
 PROV908;鲁卜哈利沙漠;;;;;;;;;;x
@@ -482,7 +482,7 @@ c_syr_darya_adj;锡尔河;;;;;;;;;;x
 b_syganak;斯罕纳克;;;;;;;;;;x
 b_yangikent;仰吉罕;;;;;;;;;;x
 b_djend;珍德;;;;;;;;;;x
-c_kyzylkum_adj;赤沙;;;;;;;;;;x
+c_kyzylkum_adj;克孜勒库姆;;;;;;;;;;x
 c_guryev_adj;阿特劳;;;;;;;;;;x
 c_inder_adj;因德尔;;;;;;;;;;x
 c_kangly_adj;康里;;;;;;;;;;x
@@ -627,13 +627,13 @@ b_karatal;卡腊塔尔;;;;;;;;;;x
 b_kapchagai;汲察改;;;;;;;;;;x
 b_koksu;科克苏;;;;;;;;;;x
 b_matay;马台;;;;;;;;;;x
-c_karluk_adj;葛罗逯;;;;;;;;;;x
+c_karluk_adj;葛逻逯;;;;;;;;;;x
 b_nushibi;弩失毕;;;;;;;;;;x
 b_ulug_ok;胡禄屋;;;;;;;;;;x
 b_alishi;阿利施;;;;;;;;;;x
 b_sakla_baga;索葛莫贺;;;;;;;;;;x
 b_saryshaghan;萨雷沙甘;;;;;;;;;;x
-b_zhaylaukol;斋老科尔;;;;;;;;;;x
+b_zhaylaukol;扎伊奥科尔;;;;;;;;;;x
 c_narim_adj;纳林;;;;;;;;;;x
 b_narim;纳林;;;;;;;;;;x
 b_kolta;科尔塔;;;;;;;;;;x
@@ -664,10 +664,10 @@ b_zhezkazgan;杰兹卡兹甘;;;;;;;;;;x
 b_karsakpay;卡尔萨克帕伊;;;;;;;;;;x
 b_jezkazgan;杰兹卡兹汗;;;;;;;;;;x
 b_kengir;肯吉尔;;;;;;;;;;x
-d_kimak;基马克;;;;;;;;;;x
-d_kimak_adj;基马克;;;;;;;;;;x
-c_kimak_adj;基马克;;;;;;;;;;x
-b_kimak;基马克;;;;;;;;;;x
+d_kimak;乞马克;;;;;;;;;;x
+d_kimak_adj;乞马克;;;;;;;;;;x
+c_kimak_adj;乞马克;;;;;;;;;;x
+b_kimak;乞马克;;;;;;;;;;x
 b_tengiz;田吉兹;;;;;;;;;;x
 b_atasu;阿塔苏;;;;;;;;;;x
 b_arkalyk;阿尔卡雷克;;;;;;;;;;x
@@ -677,7 +677,7 @@ b_almaty;阿拉木图;;;;;;;;;;x
 b_bestobe;别斯托别;;;;;;;;;;x
 b_seletyteniz;色烈提田尼兹;;;;;;;;;;x
 b_teke;铁克;;;;;;;;;;x
-b_kishkenekol;小海子;;;;;;;;;;x
+b_kishkenekol;基什克内科尔 ;;;;;;;;;;x
 c_balkhash_adj;巴尔喀什;;;;;;;;;;x
 b_balkhash;巴尔喀什;;;;;;;;;;x
 b_gulshat;古尔莎特;;;;;;;;;;x
@@ -885,7 +885,7 @@ b_kadungallur;迦顿迦卢尔;;;;;;;;;;x
 c_venadu;吠那菟;;;;;;;;;;x
 c_venadu_adj;吠那菟;;;;;;;;;;x
 b_vizhinjam;毗只旬;;;;;;;;;;x
-b_kollam;憍楞;;;;;;;;;;x
+b_kollam;故临;;;;;;;;;;x
 b_kanya_kumari;甘耶 具摩尼;;;;;;;;;;x
 b_anantasayanam;阿那多萨耶兰;;;;;;;;;;x
 b_kandalur;甘陀卢尔;;;;;;;;;;x
@@ -942,7 +942,7 @@ b_bagalkot;巴加尔科特;;;;;;;;;;x
 c_srirangapatna;室利兰伽波多那;;;;;;;;;;x
 c_srirangapatna_adj;室利兰伽波多那;;;;;;;;;;x
 b_srirangapatna;室利兰伽波多那;;;;;;;;;;x
-b_shravanabelagola;什罗瓦那贝拉戈拉;;;;;;;;;;x
+b_shravanabelagola;圣白泽城;;;;;;;;;;x
 b_periyapatna;佩里亚帕提纳;;;;;;;;;;x
 b_panasoge;波那索戈;;;;;;;;;;x
 b_nanjarayapattana;难加罗亚帕提塔纳;;;;;;;;;;x
@@ -1184,9 +1184,9 @@ b_tuljapur;图尔贾普尔;;;;;;;;;;x
 b_paranda;帕兰达;;;;;;;;;;x
 b_karmala;卡尔马拉;;;;;;;;;;x
 b_dharaseo;达拉斯;;;;;;;;;;x
-c_kolhapur;憍罗诃补罗;;;;;;;;;;x
-c_kolhapur_adj;憍罗诃补罗;;;;;;;;;;x
-b_kolhapur;憍罗诃补罗;;;;;;;;;;x
+c_kolhapur;戈尔哈布尔;;;;;;;;;;x
+c_kolhapur_adj;戈尔哈布尔的;;;;;;;;;;x
+b_kolhapur;戈尔哈布尔;;;;;;;;;;x
 b_kurundaka;库伦塔克;;;;;;;;;;x
 b_karahataka;卡拉荷塔克;;;;;;;;;;x
 b_pranala;普罗纳拉;;;;;;;;;;x
@@ -1492,7 +1492,7 @@ c_bikrampur_adj;威德城;;;;;;;;;;x
 b_bikrampur;威德城;;;;;;;;;;x
 b_sutrapur;须陀罗城;;;;;;;;;;x
 b_dhakeshwari_jatiya_mandir;达卡女神庙;;;;;;;;;;x
-b_loricol;萝莉控;;;;;;;;;;x
+b_loricol;洛利孔;;;;;;;;;;x
 b_shakhari_bazar;释诃利市集;;;;;;;;;;x
 b_hajiganj;诃耆犍阇;;;;;;;;;;x
 c_kumara_mandala;鸠摩罗曼陀罗;;;;;;;;;;x
@@ -1884,7 +1884,7 @@ b_lalkot;拉尔科特;;;;;;;;;;x
 b_narela;那梨罗;;;;;;;;;;x
 b_siri;斯利;;;;;;;;;;x
 b_jahanpanah;贾汉帕那赫;;;;;;;;;;x
-b_lori_berd;萝莉堡;;;;;;;;;;x
+b_lori_berd;洛利堡;;;;;;;;;;x
 b_dzegh;迪撒格;;;;;;;;;;x
 b_dmanis;迪曼尼斯;;;;;;;;;;x
 b_agarak;阿加拉克;;;;;;;;;;x

@@ -280,7 +280,7 @@ EVTDESC_WOL_3053;我的[GetFromRelation][From.GetTitledFirstNameNoRegnal]拒绝�
 EVTOPTA_WOL_3053;真是蠢货！;;;;;;;;;;x
 EVTDESC_WOL_3054;我的[GetFromRelation][From.GetTitledFirstNameNoRegnal]拒绝了我的建议。这样就不会跟[target_first.GetTitledName]和解了。;;;;;;;;;;x
 EVTDESC_WOL_3055;我的[GetFromRelation][From.GetTitledFirstNameNoRegnal]拒绝了[target_initiator.GetTitledFirstNameNoRegnal]的让我们一起在[target_initiator.Capital.Capital.GetName]度过一段美好家庭时光的邀请……;;;;;;;;;;x
-EVTOPTA_WOL_3055;[From.GetObjectPronoun]真是个傻屌！;;;;;;;;;;x
+EVTOPTA_WOL_3055;[From.GetObjectPronoun]真是太傻了！;;;;;;;;;;x
 EVTDESC_WOL_3056;[From.GetTitledFirstNameNoRegnal]，[target_initiator.GetFirstName]和我在一起度过了一段美好的时光！我感觉我们一起加强了家族的亲情。;;;;;;;;;;x
 EVTOPTA_WOL_3056;过段时间咱们再来一次吧。;;;;;;;;;;x
 EVTDESC_WOL_3057;[From.GetFirstName], [FromFrom.GetFirstName]和我在一起度过了一段美好的时光！我确定他们更加喜欢彼此了。;;;;;;;;;;x
@@ -426,7 +426,7 @@ CANCEL_FOCUS;取消生活重心;;;;;;;;;;x
 CANNOT_CANCEL_FOCUS;该生活重心无法取消;;;;;;;;;;x
 NO_VALID_FOCUS;没有有效的生活重心;;;;;;;;;;x
 CHOOSE_FOCUS;§G点击选择一个生活重心§!;;;;;;;;;;x
-VASSAL_LIMIT_NOT_USED_BY_TIER;如此低等级的角色无需附庸上限。;;;;;;;;;;x
+VASSAL_LIMIT_NOT_USED_BY_TIER;如此低等级的角色无需封臣上限。;;;;;;;;;;x
 pet_hunting_dog;猎狗;;;;;;;;;;x
 pet_hunting_dog_desc;你忠诚的猎狗在很小的时候就被你收养，并在你的照顾下长大。他是你最忠实的仆人和伙伴。;;;;;;;;;;x
 EVTDESC_WoL_5202;你的[GetFromRelation]，[From.GetTitledFirstName]，送给了你一份礼物。那是一条小狗，但由于拥有最为高贵的血统，他命中注定将成长为一条伟大的猎狗。;;;;;;;;;;x

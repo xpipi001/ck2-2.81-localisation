@@ -230,7 +230,7 @@ RELEASE_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetTitledName]§! 拒接 §
 RELEASE_VASSAL_INTERACTION_OFFER;[Actor.GetTitledName]承认你的独立;;;;;;;;;;x
 RELEASE_VASSAL_INTERACTION_LETTER;我将你移除直辖封臣并不再是你的领主。 [Actor.Religion.GetRandomGodNameCap] 祝你拥有一个美好的未来!;;;;;;;;;;x
 VASSAL_RELEASED_SETUP;附庸关系结束;;;;;;;;;;x
-VASSAL_RELEASED_LETTER;尊敬的 $VASSAL$,基于政治考虑，我将解除你的附庸身份并允许你完全独立.祝你好运!\n\n$LIEGE$;;;;;;;;;;x
+VASSAL_RELEASED_LETTER;尊敬的 $VASSAL$,基于政治考虑，我将解除你的封臣身份并允许你完全独立.祝你好运!\n\n$LIEGE$;;;;;;;;;;x
 VASSAL_RELEASED_LOG;§Y$LIEGE$§!已经承认§Y$VASSAL$§!的独立;;;;;;;;;;x
 ca_wall_q_1_desc;这条围绕着城堡的浅护城河增加了另一个需要进攻者克服的障碍。;;;;;;;;;;x
 ca_wall_q_2_desc;这些狭窄的箭孔能让守军将箭雨洒向敌军而不会受到回击。;;;;;;;;;;x
