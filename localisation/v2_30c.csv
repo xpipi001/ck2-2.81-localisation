@@ -225,7 +225,7 @@ EVTOPTB_WOL_10306;但是我也喜欢摧毁一些东西。;;;;;;;;;;x
 EVTDESC_WoL_7030;我一直和[Root.GetMenWomen]度过我们的生活，通过层层障碍，尽我所能来取得成功。尽管如此，我们所做的一切发生在[Root.Religion.GetRandomGodName]，我们必须小心，免得[Root.Religion.GetRandomEvilGodName]的影响，进入我们的生活。;;;;;;;;;;x
 EVTOPTA_WoL_7030;事实上，的确如此。;;;;;;;;;;x
 EVTOPTB_WoL_7030;我应该更深入地思考这件事。;;;;;;;;;;x
-EVTOPTC_WoL_7030;这些宗教的实物让我头痛。;;;;;;;;;;x
+EVTOPTC_WoL_7030;这些宗教事物让我头痛。;;;;;;;;;;x
 EVTDESC_WoL_7042;还有一些人在你的领域崇拜别的神。例如，你的[From.GetTitledName]公开追随[From.Religion.GetName]信仰。在你与这些人交往中你开始逐渐了解[Root.Religion.GetRandomGodName]。;;;;;;;;;;x
 EVTOPTA_WoL_7042;我们的相同点要多与不同点。;;;;;;;;;;x
 EVTOPTB_WoL_7042;我对这些异教妄想不感兴趣。;;;;;;;;;;x
@@ -320,8 +320,8 @@ EVTDESC_WoL_12506;无论是实至名归还是如何, 你在廷议上的决策给
 EVTDESC_WoL_12507;你的封臣们开始尊重你的统治, 尽管他们并不总是同意你的决定. 没人质疑你的统治权.;;;;;;;;;;x
 EVTDESC_WoL_4161_gamer;跟一群同志畅饮狂欢实在太棒了. 你很嗨, 绝对嗨, 而这意味着是时候拿出那块旧游戏板来了.;;;;;;;;;;x
 EVTDESC_WoL_4161_non_gamer;跟一群妙人们畅饮狂欢太棒了. 当酒杯被再次加满时,[From.GetTitledFirstName]拿出了一块奇怪的板子, 带着一些精美的片片, 介绍说这是一种战棋. [From.GetSheHe]保证说一边喝酒一边玩这个会是非常不错的体验.;;;;;;;;;;x
-EVTOPTA_WoL_4161;我们玩钱吧!;;;;;;;;;;x
-EVTOPTB_WoL_4161;为了荣誉我们玩吧!;;;;;;;;;;x
+EVTOPTA_WoL_4161;让我们加点赌注吧！;;;;;;;;;;x
+EVTOPTB_WoL_4161;我们将为了荣誉而战！;;;;;;;;;;x
 EVTDESC_WoL_4162_money_i_suggest;你对[From.GetTitledFirstName]提议玩你拿出来的板子和片子，看看谁在战略上更胜一筹. 在赌钱的情况下, [From.GetSheHe]同意了.;;;;;;;;;;x
 EVTDESC_WoL_4162_not_money_i_suggest;你对[From.GetTitledFirstName]提议玩你拿出来的板子和片子，看看谁在战略上更胜一筹. [From.GetSheHe]同意了, 但是坚持你们只为了荣誉而玩.;;;;;;;;;;x
 EVTDESC_WoL_4162_money_they_suggest;[From.GetTitledFirstName]拿出了板子和片子向你提议说来玩几局看看谁在战略上更胜一筹. [From.GetSheHe]还坚持你们得赌钱.;;;;;;;;;;x

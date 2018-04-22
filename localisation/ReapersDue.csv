@@ -13,22 +13,22 @@ SM_DEATH_SOUND;人物死亡音效;;;;;;;;;;x
 ReapersDLC;死神索命;;;;;;;;;;x
 release_tributary;释放附庸;;;;;;;;;;x
 release_tributary_desc;你可以选择不再保护向你效忠的附庸。这会降低你的威望，但你将能够再次攻打他们;;;;;;;;;;x
-employ_court_physician;雇佣宫廷医师;;;;;;;;;;x
-employ_court_physician_desc;下令派出信使寻找§Y宫廷医师§!的候选人。你或许不得不花费一些钱财来劝诱他们到你的宫廷。如果你已经有了一位§Y宫廷医师§!并且选择雇佣一个新的医师，那么原宫廷医师会辞去他或她的职务。;;;;;;;;;;x
-employ_court_physician_tooltip;让全国范围内都知道你在寻找宫廷医师的候选人。\n;;;;;;;;;;x
+employ_court_physician;雇佣宫廷医生;;;;;;;;;;x
+employ_court_physician_desc;下令派出信使寻找§Y宫廷医生§!的候选人。你或许不得不花费一些钱财来劝诱他们到你的宫廷。如果你已经有了一位§Y宫廷医生§!并且选择雇佣一个新的医生，那么原宫廷医生会辞去他或她的职务。;;;;;;;;;;x
+employ_court_physician_tooltip;让全国范围内都知道你在寻找宫廷医生的候选人。\n;;;;;;;;;;x
 EVTDESC_RIP_11050;你派出了许多信使和探子，在领地各处寻找愿意在宫内服务的名医。如有收获，立即禀报。但希望他们不会带回来庸医……;;;;;;;;;;x
 EVTOPTA_RIP_11050;我希望我不用等太长时间。;;;;;;;;;;x
 EVTOPTA_RIP_11053;我改主意了，我不需要[recruited_physician_target.GetHerHis]为我服务。;;;;;;;;;;x
-EVTDESC_RIP_11053_VILLAGE_DRUNKARD;你的探子禀报说一位医术高超的医师住在临近的村子里。尽管[recruited_physician_target.GetSheHe]没有正规学习过医术而且还是一个酒鬼，但农民们都发誓说[recruited_physician_target.GetSheHe]能治百病。这位'[recruited_physician_target.GetFullName]'很容易就能被说服去你的宫廷里任职。;;;;;;;;;;x
+EVTDESC_RIP_11053_VILLAGE_DRUNKARD;你的探子禀报说一位医术高超的医生住在临近的村子里。尽管[recruited_physician_target.GetSheHe]没有正规学习过医术而且还是一个酒鬼，但农民们都发誓说[recruited_physician_target.GetSheHe]能治百病。这位'[recruited_physician_target.GetFullName]'很容易就能被说服去你的宫廷里任职。;;;;;;;;;;x
 EVTOPTB_RIP_11053;我愿意冒这个险。;;;;;;;;;;x
-EVTDESC_RIP_11053_SHIPS_PHYSICIAN;一份报告称一艘船刚刚停泊在[physician_port_target.GetName]。这艘船被称为'暴风之[recruited_physician_target.Religion.GetRandomGodNameCap]'，并且在船上有一位叫[recruited_physician_target.GetFirstNameWithNick]的医术高超的医师，目前受雇于此船的船长。如果你赠予贪婪的医师大量的黄金，[recruited_physician_target.GetSheHe]就必定会转而到你的宫廷任职！;;;;;;;;;;x
+EVTDESC_RIP_11053_SHIPS_PHYSICIAN;一份报告称一艘船刚刚停泊在[physician_port_target.GetName]。这艘船被称为'暴风之[recruited_physician_target.Religion.GetRandomGodNameCap]'，并且在船上有一位叫[recruited_physician_target.GetFirstNameWithNick]的医术高超的医生，目前受雇于此船的船长。如果你赠予贪婪的医生大量的黄金，[recruited_physician_target.GetSheHe]就必定会转而到你的宫廷任职！;;;;;;;;;;x
 EVTOPTC_RIP_11053;为了健康花再多钱我也愿意。;;;;;;;;;;x
-EVTDESC_RIP_11053_WISE_DWARF;你的探子禀报说有一位医术高超的医师可能住在[physician_forest_target.GetName]的深林中。这位医师，是一个叫[recruited_physician_target.GetFirstName]的侏儒，只会在治疗附近村子里的孩子时才会出山。在恩威并施之下，[recruited_physician_target.GetSheHe]会不情愿地答应来到你的宫廷任职。;;;;;;;;;;x
+EVTDESC_RIP_11053_WISE_DWARF;你的探子禀报说有一位医术高超的医生可能住在[physician_forest_target.GetName]的深林中。这位医生是一个叫[recruited_physician_target.GetFirstName]的侏儒，只会在治疗附近村子里的孩子时才会出山。在恩威并施之下，[recruited_physician_target.GetSheHe]会不情愿地答应来到你的宫廷任职。;;;;;;;;;;x
 EVTOPTD_RIP_11053;[recruited_physician_target.GetManWoman]是一个奇怪的侏儒，但是医术高明！把[recruited_physician_target.GetHerHim]带到我的宫廷里。;;;;;;;;;;x
-EVTDESC_RIP_11053_JEWISH_EXILE;在你寻求招募宫廷医师的消息传出去不久，一个被流放的犹太人来到你的宫廷。这位被流放的犹太人自称[recruited_physician_target.GetHerselfHimself]为[recruited_physician_target.GetFullName]并且解释说[recruited_physician_target.GetSheHe]曾任多位统治者的医师，如果报酬丰厚，也将提供[recruited_physician_target.GetHerHis]服务。;;;;;;;;;;x
+EVTDESC_RIP_11053_JEWISH_EXILE;在你寻求招募宫廷医生消息传出去不久，一个被流放的犹太人来到你的宫廷。这位被流放的犹太人自称[recruited_physician_target.GetHerselfHimself]为[recruited_physician_target.GetFullName]并且解释说[recruited_physician_target.GetSheHe]曾任多位统治者的医生，如果报酬丰厚，也将提供[recruited_physician_target.GetHerHis]服务。;;;;;;;;;;x
 EVTOPTE_RIP_11053;我接受你慷慨的提议！;;;;;;;;;;x
 EVTDESC_RIP_11053_CONDEMNED_SORCERER;你的[Root.GetSpymasterName]，[Root.job_spymaster.GetTitledFirstName]报告说一个异端术士在[sorcerer_city_target.GetName]被抓住关进了牢里。这个'术士'看上去治好了其他的囚犯。尽管[recruited_physician_target.GetSheHe]将于午时斩首，但你可以赦免[recruited_physician_target.GetHerHim]并且雇佣[recruited_physician_target.GetHerHim]。;;;;;;;;;;x
-EVTOPTF_RIP_11053;虽然他是一个叛经离道的异端……但我确实需要一位医师！;;;;;;;;;;x
+EVTOPTF_RIP_11053;虽然他是一个叛经离道的异端……但我确实需要一位医生！;;;;;;;;;;x
 EVTDESC_RIP_11053_CYNICAL_CLERGYMAN;在你放出消息，希望招募一名宫廷医师不久后，一位来自[clergyman_temple_target.GetName]的[Root.Religion.GetPriestTitle]来到了你的宫廷。这位愤世嫉俗的[Root.Religion.GetPriestTitle]自称[recruited_physician_target.GetHerselfHimself]为[recruited_physician_target.GetFirstNameWithNick]，表达了希望侍奉你的愿望。然而，其他[Root.Religion.GetPriestTitle]都对此人唯恐避之不及，宗教当局恐怕不会满意……;;;;;;;;;;x
 EVTOPTG_RIP_11053;离开你布满尘土的旧书卷，来我的宫廷！;;;;;;;;;;x
 EVTDESC_RIP_11053_CHINESE_DOCTOR;你的探子在[chinese_silk_road_target.GetName]的丝绸之路市场上打探时，遇到一位中国旅行者。这个旅人叫[recruited_physician_target.GetFirstName]，声称自己是位云游四方的医生兼诗人，拥有远近闻名的医术——但这些都无法查证。如果你适当给予些报酬，[recruited_physician_target.GetSheHeCap]就会到你的宫廷。;;;;;;;;;;x
@@ -48,7 +48,7 @@ EVTOPTN_RIP_11053;那么最坏的情况是怎样的？;;;;;;;;;;x
 EVTDESC_RIP_11053_WELL_TRAVELLED_PILGRIM;你的一个探子回报说，一名朝圣者刚刚来到[Root.Capital.GetName]。这名朝圣者，人称[recruited_physician_target.GetFirstName]，一直在进行虔诚的任务，拜访所有[recruited_physician_target.Religion.GetName]的圣地，现在要在此结束[recruited_physician_target.GetHerHis] 旅程。在[recruited_physician_target.GetHerHis]旅途中，[recruited_physician_target.GetSheHe]积累了广博的医学知识，并且现在正希望发挥[recruited_physician_target.GetHerHis]作用。;;;;;;;;;;x
 EVTOPTO_RIP_11053;我要招募这个朝圣者！;;;;;;;;;;x
 EVTDESC_RIP_11053_STUDENT_OF_MEDICINE;一位来自[student_city_target.GetName]城市的使者带来了有关于你搜寻医师的消息。使者告诉你说，那里有一名潜力很大的医师学徒名叫[recruited_physician_target.GetFirstName]。年轻的[recruited_physician_target.GetManWoman]前不久治好了当地一位大商人的女儿，代价仅仅是过程中失去一只眼睛！强迫[recruited_physician_target.GetHerHim]加入你的宫廷是十分容易的。;;;;;;;;;;x
-EVTOPTP_RIP_11053;年轻有为，把[recruited_physician_target.GetHerHim]带到宫廷来！;;;;;;;;;;x
+EVTOPTP_RIP_11053;年轻且训练有素，把[recruited_physician_target.GetHerHim]带到宫廷来！;;;;;;;;;;x
 EVTDESC_RIP_11053_BLIND_MIRACLE_WORKER;探子带来消息说，有一个神秘的瞎眼[recruited_physician_target.GetManWoman]，似乎会创造奇迹！[recruited_physician_target.GetSheHeCap]出现在附近的村子，治好了农民们所有的疾病。甚至有传言说[recruited_physician_target.GetSheHe]治好了一个瘸子！村民们叫[recruited_physician_target.GetHerHim]为[recruited_physician_target.GetFirstNameWithNick]。送一些金子作为礼物可以说服[recruited_physician_target.GetHerHim]到你的宫廷。;;;;;;;;;;x
 EVTOPTQ_RIP_11053;他将在我的宫廷里创造奇迹！;;;;;;;;;;x
 EVTDESC_RIP_11053_FIELD_SURGEON;你的探子说有一伙佣兵团抵达了[Root.Capital.GetName]。和他们在一起战地医生[recruited_physician_target.GetFirstName]久负盛名，因为[recruited_physician_target.GetHerHis]医疗实力能迅速的给重伤的士兵截肢并救活他们的。尽管佣兵们总是贪婪的，但雇佣[recruited_physician_target.GetHerHim]相较起来好像很便宜！;;;;;;;;;;x
@@ -61,8 +61,8 @@ EVTDESC_RIP_11053_WITCH;你的探子禀报说有一个可疑的女巫住在领�
 EVTOPTU_RIP_11053;一小瓶我的血？我没觉得有什么不妥！;;;;;;;;;;x
 EVTDESC_RIP_11053_HORSE_MD;当你在庭院里睡觉时，突然你被一阵马蹄声惊醒。你起身看见一个男人从马上下来向你鞠躬。他解释说他是一名久负盛名的宫廷医师，离开了自己的家乡，从远方行游至此，只为了侍奉你！不过你早已有了决定……;;;;;;;;;;x
 EVTOPTV_RIP_11053;那匹马真健壮！来我的宫廷！;;;;;;;;;;x
-3_year_physician_cooldown;每隔§Y3§!年才能寻访医师;;;;;;;;;;x
-educated_court_physician;是位受过训练的宫廷医师\n;;;;;;;;;;x
+3_year_physician_cooldown;每隔§Y3§!年才能寻访医生;;;;;;;;;;x
+educated_court_physician;是位受过训练的宫廷医生\n;;;;;;;;;;x
 inaccessible_tooltip;不在躲藏或隔离状态\n;;;;;;;;;;x
 EVTOPTB39400;受诅咒的异教徒！;;;;;;;;;;x
 become_vaishya;变为吠舍种姓;;;;;;;;;;x
@@ -610,7 +610,7 @@ EVTDESC_RIP_11021;你的咳嗽症状已经减轻，让人忧心忡忡的高烧�
 EVTDESC_RIP_11022;你身体的疼痛已经消失，你快恢复成病前的状态了。你已不再受梅毒困扰。;;;;;;;;;;x
 EVTDESC_RIP_11023;这真是奇迹！你的四肢又有知觉了。你从麻风病中幸存了下来;;;;;;;;;;x
 EVTDESC_RIP_11024;你醒来之后发现自己精力充沛。你感到难以置信，一会儿过后你才意识到你的烧已经退了，你的胃口也已经回来了。你已经从痨病中幸存下来;;;;;;;;;;x
-EVTDESC_RIP_11025;你的精神错乱已经消除，体温也已经恢复正常。你战胜了慢热。;;;;;;;;;;x
+EVTDESC_RIP_11025;你的精神错乱已经消除，体温也已经恢复正常。你战胜了慢性热。;;;;;;;;;;x
 EVTDESC_RIP_11026;身上已经没有最近的病症造成的疼痛感，你又恢复了活力。你已经从露营热中幸存了下来。;;;;;;;;;;x
 EVTDESC_RIP_11027;你不知道你到底是怎样痊愈的，但是你的皮肤已经恢复成健康肤色，脓肿也已经消失。你似乎从大瘟疫中幸存了下来。;;;;;;;;;;x
 EVTDESC_RIP_11028;前阵子你一直高烧不退。现在不烧了，你感觉精力充沛。同时你的疹子也消失了。;;;;;;;;;;x
@@ -640,11 +640,11 @@ EVTDESC_RIP_11045_has_tuberculosis_horse;[From.GetTitledName]考虑到你的声�
 EVTDESC_RIP_11045_has_tuberculosis_certain;[From.GetTitledName]说[From.GetHerHis]丰富的行医经验让[From.GetHerHim]得出结论：你得了痨病。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
 EVTDESC_RIP_11045_has_tuberculosis_sure;[From.GetTitledName]坚信你得了痨病。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
 EVTDESC_RIP_11045_has_tuberculosis_uncertain;[From.GetTitledName]支支吾吾地说：你可能得了痨病或者其他类似的病。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
-EVTDESC_RIP_11045_has_typhoid_fever; [From.GetTitledName]非常确信你感染了慢热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
-EVTDESC_RIP_11045_has_typhoid_fever_horse;[From.GetTitledName]非常确信你感染了慢热，尽管到目前为止你情况稳定。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
-EVTDESC_RIP_11045_has_typhoid_fever_certain;[From.GetTitledName]说[From.GetHerHis]丰富的行医经验让[From.GetHerHim]得出结论：你感染了伤寒。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
-EVTDESC_RIP_11045_has_typhoid_fever_sure;[From.GetTitledName]坚信你感染了慢热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
-EVTDESC_RIP_11045_has_typhoid_fever_uncertain;[From.GetTitledName]支支吾吾地说：你可能感染了慢热或者其他类似的病。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
+EVTDESC_RIP_11045_has_typhoid_fever; [From.GetTitledName]非常确信你感染了慢性热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
+EVTDESC_RIP_11045_has_typhoid_fever_horse;[From.GetTitledName]非常确信你感染了慢性热，尽管到目前为止你情况稳定。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
+EVTDESC_RIP_11045_has_typhoid_fever_certain;[From.GetTitledName]说[From.GetHerHis]丰富的行医经验让[From.GetHerHim]得出结论：你感染了慢性热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
+EVTDESC_RIP_11045_has_typhoid_fever_sure;[From.GetTitledName]坚信你感染了慢性热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
+EVTDESC_RIP_11045_has_typhoid_fever_uncertain;[From.GetTitledName]支支吾吾地说：你可能感染了慢性热或者其他类似的病。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
 EVTDESC_RIP_11045_has_typhus;[From.GetTitledName]非常确信你感染了露营热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示。;;;;;;;;;;x
 EVTDESC_RIP_11045_has_typhus_horse;[From.GetTitledName]非常确信你感染了露营热，一种会导致精神状态改变的疾病。[From.GetSheHeCap]短时间中断了陈述，甩了甩[From.GetHerHis]鬃毛，又在地板上跺了几下蹄子，之后又警告你小心出现精神错乱。[From.GetTitledName]坚持让你嘶鸣以听从[From.GetHerHis]指示。;;;;;;;;;;x
 EVTDESC_RIP_11045_has_typhus_certain;[From.GetTitledName]说[From.GetHerHis]丰富的行医经验让[From.GetHerHim]得出结论：你感染了露营热。[From.GetSheHeCap]坚持让你听从[From.GetHerHis]指示;;;;;;;;;;x
@@ -795,7 +795,7 @@ EVTDESC_RIP_13005;[worried_courtier.GetFirstName]本应该看管好[worried_cour
 EVTOPTA_RIP_13005;操你妈的，[worried_courtier.GetFirstName]！;;;;;;;;;;x
 EVTDESC_RIP_13006;一只正在接受检查的猫似乎很喜欢你。每次你经过它的笼子时，都会引发可爱的喵叫，不管什么时候当你靠近它时，都会发出软绵绵的咕噜声。;;;;;;;;;;x
 EVTOPTA_RIP_13006;我要叫她'维斯克丝'，我的甜心。;;;;;;;;;;x
-EVTOPTB_RIP_13006;我要叫她'米特丝'，我的甜心。;;;;;;;;;;x
+EVTOPTB_RIP_13006;我要叫她'咪咪'，我的甜心。;;;;;;;;;;x
 EVTOPTC_RIP_13006;我要叫她'布丝'，我的甜心。;;;;;;;;;;x
 EVTOPTD_RIP_13006;人们不会同意的。;;;;;;;;;;x
 EVTDESC_RIP_13007;[From.GetTitledName]已要求应立即驱除所有的猫，但你非常享受与猫咪一起在宫廷玩耍玩耍的时间，事情可能会很难收拾。;;;;;;;;;;x
@@ -1126,7 +1126,7 @@ nick_the_youthful;青春;;;;;;;;;;x
 nick_the_alchemist;炼金术士;;;;;;;;;;x
 EVTOPTA_RIP_21013;让我们听这女人说完。;;;;;;;;;;x
 EVTDSC_RIP_21019_INTRIGUE_A;这名老妇自称[From.GetTitledFirstName]并接着告诉你关于炼金术的高贵艺术。她宣称拥有秘密的知识，可将基本金属转化成黄金和创造她所谓的“万能溶剂”。不管怎样，更重要的是，她向你讲述不可思议的贤者之石会授予它的创造者永恒的生命的传奇故事。如果你接受她的任务，她承诺与你分享她的秘密。\n\n虽然不可能知道这个所谓的神秘主义者说的是否是实话，但至少她的外表看起来信得过。从她的皱纹和驼背判断她一定很老了。但她真的是不朽的吗……？;;;;;;;;;;x
-EVTDSC_RIP_21019_INTRIGUE_B;这年老，怪异的妇人自称[From.GetTitledFirstName]。她的话带着扭曲的外国口音——至少你认为是这样。她宣称拥有秘密的知识将基本金属转化成黄金，更重要的是，她向你讲述不可思议的贤者之石的传奇故事。如果你相信她的话，它将授予创造者永恒的生命。n\n她的话激起了你的兴趣，而你通常不会倾向于相信一个这样的女人。无论如何她的外表看起来信得过——从她的皱纹和驼背判断她一定很老了。但她真的是不朽的吗……？;;;;;;;;;;x
+EVTDSC_RIP_21019_INTRIGUE_B;这年老，怪异的妇人自称[From.GetTitledFirstName]。她的话带着扭曲的外国口音——至少你认为是这样。她宣称拥有隐秘的知识能将基本金属转化成黄金，更重要的是，她向你讲述不可思议的贤者之石的传奇故事。如果你相信她的话，它将授予创造者永恒的生命。\n\n她的话激起了你的兴趣，而你通常不会倾向于相信一个这样的女人。无论如何她的外表看起来信得过——从她的皱纹和驼背判断她一定很老了。但她真的是不朽的吗……？;;;;;;;;;;x
 EVTNAME_RIP_21300;肉体的试炼;;;;;;;;;;x
 EVTDSC_RIP_21300;[From.GetTitledFirstName]解释说，你需要获得成分被称为三大要素，第一种是盐。当你让仆人去厨房拿来时，她反对了。“炼金术的艺术不仅仅是收集材料和混合药剂。为了创造贤者之石，你还必须创造一个更好的自己。”\n这老太婆坚持认为你必须通过掌握偷窃的艺术来克服你的身体。因为出身贵族，你从来没有需要采取这种手段，不过你对自己灵巧的双手有自信。这并不是那么难，不是吗？;;;;;;;;;;x
 EVTOPTA_RIP_21300;聪明的女人，把你所有的诡计都教给我！;;;;;;;;;;x
@@ -1360,7 +1360,7 @@ expelled_me_from_seclusion;把我赶出藏身地;;;;;;;;;;x
 let_us_stay_in_seclusion;让我们呆在藏身地;;;;;;;;;;x
 expelled_lover_from_seclusion;把情人赶出藏身地;;;;;;;;;;x
 consorts_with_mystics;神秘者配偶;;;;;;;;;;x
-consorts_with_infidels;异教徒配偶;;;;;;;;;;x
+consorts_with_infidels;与异教徒接触;;;;;;;;;;x
 peasant_crisis;农民危机;;;;;;;;;;x
 renewed_faith;重拾信念;;;;;;;;;;x
 peasant_pleased_witch_hunt;农民对猎巫行动很满意;;;;;;;;;;x
@@ -1744,7 +1744,7 @@ EVTDESC_RIP_11042_6;[FromFrom.GetTitledFirstName] 以你的名义举办了一个
 EVTDESC_RIP_11042_7;你和 [FromFrom.GetTitledFirstName] 共同度过了许多夜晚. [FromFrom.GetSheHe] 会讲述来自[Root.Religion.GetScriptureName]的故事, 直到你陷入沉睡。这个生活习惯让痛苦缓和.;;;;;;;;;;x
 EVTDESC_RIP_11042_8;[FromFrom.GetTitledFirstName] 请求 [From.Religion.GetPriestTitle] 把宫廷里最好的歌手找来, 歌手居然是个男高音的小孩. 接下来的几天, 你在这个小孩的歌声中入眠. 多么令人宽心.;;;;;;;;;;x
 EVTDESC_RIP_11042_9;当 [FromFrom.GetTitledFirstName] 把蜂蜜放进冒着蒸汽的热水里的时候,蜂蜜立刻融化了. 但是 [FromFrom.GetSheHe] 搅拌了很长时间. “就这样？”，你终于忍不住问. [FromFrom.GetSheHeCap] 点了点头,然后你喝了茶.;;;;;;;;;;x
-EVTDESC_RIP_11042_10;[FromFrom.GetTitledFirstName] 把绿色粉末放到热水里搅拌,水杯里的热气慢慢上升着。[FromFrom.GetSheHeCap] 长编大论地解释了这些草药的治疗效果, 然后让你喝下去. "根部也在里头", [FromFrom.GetSheHe] 得意洋洋地说到.;;;;;;;;;;x
+EVTDESC_RIP_11042_10;[FromFrom.GetTitledFirstName]把绿色粉末放到热水里搅拌，水杯里的热气慢慢上升着。[FromFrom.GetSheHeCap]长篇大论地解释了这些草药的治疗效果，然后让你喝下去。“病根也在里头”，[FromFrom.GetSheHe]得意洋洋地说到。;;;;;;;;;;x
 EVTDESC_RIP_10016;大瘟疫在波斯地区的传播似乎更频繁了, 因此往东方去的贸易路线逐渐变得人烟稀少. 整个整个的村庄全部死于瘟疫, 当地曾经的财富和好收成也无法阻止. 现实是那么严峻无情, 绝望在为继续蔓延的死亡铺路.;;;;;;;;;;x
 EVTDESC_RIP_10017;不祥的阴影笼罩着中东地区，大瘟疫过后仅有悲剧幸存。信息十分稀少，但听到的情况，都来自独自行走在道路上的难民，他们往往是家庭中唯一的幸存者。人们的心被撕扯，为什么[Root.Religion.GetHighGodName]会允许这种情况发生。;;;;;;;;;;x
 EVTDESC_RIP_10019;宫廷的气氛开始紧张，因为大瘟疫在小亚细亚肆虐的消息已经传来此处。一个广泛流传故事进一步扰乱民众——幸存者们讨论着受诅咒的船，死去的船长带着活尸招募船员……每当一个沿海的城市被疫情毁灭，故事就更加可信。;;;;;;;;;;x
@@ -1813,7 +1813,7 @@ EVTOPTA_RIP_21008_TOOLTIP;§Y[From.GetTitledFirstName]§!会好好用这笔钱�
 EVTOPTB_RIP_21008;你觉得我是在运营一个慈善机构？用好你的三寸不烂之舌。;;;;;;;;;;x
 EVTOPTB_RIP_21008_TOOLTIP;§Y[From.GetTitledFirstName]§!看起来有点沮丧。\n;;;;;;;;;;x
 EVTNAME_RIP_21009;为你的通道付款;;;;;;;;;;x
-EVTDSC_RIP_21009;“我不会说我相信这些故事，但我们已经选出了一些很有潜力的信息，我的[Root.GetLordLady]”[Root.job_marshal.GetTitledFirstName]说道。“然而，我们如果要到更远的地方去搜索，就需要更多物资。实际上，我将直接发信去雇佣一些遥远区域的探子，如果我们还想要跟进线索并继续这个……任务。”[From.GetSheHeCap]在门口停下，[From.GetHerHis]全身立正。“当然了，也有其他获得永生的方法，”[From.GetSheHe]轻叹一声。你正准备开口回应，[From.GetSheHe]很不礼貌地打断了你：“我接到这工作就是这种态度了，[Root.GetMasterMistress]。我很抱歉。”\n\n你的[Root.GetMarshalName]离开了房间，[From.GetHerHis]脚步声越来越轻，而你在思考可能的选择。;;;;;;;;;;x
+EVTDSC_RIP_21009;“我不会说我相信这些故事，但我们已经找到了一些可能的情报，我的[Root.GetLordLady]”[Root.job_marshal.GetTitledFirstName]说道。“然而，如果我们想要把这件事更加深入下去，就需要更多资金。实际上，我可能需要雇佣一些远方的探子，如果我们还想要跟进线索并继续这个……任务。”[From.GetSheHeCap]在门口停下，[From.GetHerHis]身子立得笔直。“当然了，也有其他获得永生的方法，”[From.GetSheHe]轻叹一声。你正准备开口回应，[From.GetSheHe]很不礼貌地打断了你：“我接到这工作就是这种态度了，主人。我很抱歉。”\n\n你的[Root.GetMarshalName]离开了房间，[From.GetHerHis]脚步声越来越轻，而你在思考可能的选择。;;;;;;;;;;x
 EVTOPTA_RIP_21009;我将通告世界，如果必须如此。;;;;;;;;;;x
 EVTOPTA_RIP_21009_TOOLTIP;§Y[From.GetTitledFirstName]§!和[From.GetHerHis]队伍必会感谢你的慷慨！\n;;;;;;;;;;x
 EVTOPTB_RIP_21009;好的！我想改善军械。;;;;;;;;;;x
@@ -2283,7 +2283,7 @@ lost_dog_desc;'最后出现在树林里'，启事最后写道，前文则希望�
 EVTDESC_79009;在[Root.Location.GetName]战役中我瞄到一个如猛犸般巨大的男人，轰隆隆地冲向我的领主[my_liege.GetTitledFirstName]。可是，[my_liege.GetTitle]正忙于其他方向上的战斗，并且似乎对于这只野兽在靠近毫无觉察。我的大脑疯狂运转。那把斧头只需要一下就能轻易将[my_liege.GetFirstName]切成两半。;;;;;;;;;;x
 EVTOPTA_79009;我要将自己的盾牌扔向这个巨人！;;;;;;;;;;x
 EVTOPTA_79009_TOOLTIP;根据你的战斗技能，你或许能也或许不能击倒你的敌人。\n;;;;;;;;;;x
-EVTOPTA_79009_TOOLTIP_1;你的盾牌砸中了目标。你也会获得§G1§!军事。\n;;;;;;;;;;x
+EVTOPTA_79009_TOOLTIP_1;你的盾牌砸中了目标。你也会获得 §G1§! 军事。\n;;;;;;;;;;x
 EVTOPTA_79009_TOOLTIP_2;你的盾牌偏离目标，击中了你的领主。\n;;;;;;;;;;x
 EVTOPTB_79009;我的长矛会让这只野兽变成独眼龙！;;;;;;;;;;x
 EVTOPTB_79009_TOOLTIP;根据你的战斗技能，你或许能也或许不能发出完美一掷。\n;;;;;;;;;;x
@@ -2553,7 +2553,7 @@ EVTOPTB_RIP_29105;嗯，主意不错，但这不会有点……疯狂么？;;;;;
 EVTOPTB_RIP_29105_TOOLTIP;庆典安然结束。\n所有宾客和§Y[Root.GetTitledFirstName]§!的关系在§Y10§!年内改善§G10§!点。§Y(假面舞会大获成功)§!\n;;;;;;;;;;x
 EVTDSC_RIP_29106;我要求所有人都安静下来听我宣布公告。交谈逐渐沉寂，所有人朝我看了过来。首先，我感谢他们出席，他们脸上仍挂着客套的漂亮笑容。但当你说出你的命令，他们那柔软无疤的脸蛋好似被你抽了一巴掌。;;;;;;;;;;x
 EVTOPTA_RIP_29106;嗯，我是说真的！不许摘下面具。永远！;;;;;;;;;;x
-EVTOPTA_RIP_29106_TOOLTIP;你宣布：所有人都不许摘下他们的面具，永远。\n\n所有来宾对于§Y[Root.GetTitledFirstName]§!的看法§R-30§! §Y(疯狂的领主)§!\n\n所有来宾得到'§Y强制戴着面具§!'修正，并受到以下影响：\n外交： §R-3§!\n异性吸引： §R-10§!\n;;;;;;;;;;x
+EVTOPTA_RIP_29106_TOOLTIP;你宣布：所有人都不许摘下他们的面具，永远。\n\n所有来宾对于§Y[Root.GetTitledFirstName]§!的看法§R-30§! §Y(疯狂的领主)§!\n\n所有来宾得到'§Y强制戴着面具§!'修正，并受到以下影响：\n外交： §R-3§!\n吸引力： §R-10§!\n;;;;;;;;;;x
 EVTDSC_RIP_29107;我正在参加的假面舞会出现了一个可怕的转折，我们的东道主及领主，[From.GetTitledFirstName]，命令我们所有人必须继续戴着面具。永远戴着！一开始我们都觉得[From.GetSheHe]只是开玩笑，结果[From.GetSheHe]非常认真……;;;;;;;;;;x
 EVTOPTA_RIP_29107_TOOLTIP;§Y[From.GetTitledFirstName]§! 强迫你永远戴着假面\n;;;;;;;;;;x
 EVTOPTA_RIP_29107;这他娘是什么事！;;;;;;;;;;x
@@ -2686,15 +2686,15 @@ EVTOPTD_RIP_4033_TOOLTIP;你与你的赞助者§Y[FromFrom.GetTitledFirstName]§
 opinion_mother_of_my_child;我孩子的母亲;;;;;;;;;;x
 EVTDESC_RIP_4041_BOOKS;我的宫廷医师[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些关于解剖学和药草学的书籍，这可以让[physician.GetSheHe]提高[physician.GetHerHis]技能。;;;;;;;;;;x
 EVTDESC_RIP_4041_HERBS;我的宫廷医师[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些异域的草药等珍贵原料，这可以让[physician.GetSheHe]混合出高级的药水和热敷剂。;;;;;;;;;;x
-EVTDESC_RIP_4041_TOOLS;我的宫廷医师[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些更好的手术器具，这可以让[physician.GetSheHe]实施更高级的治疗手段。;;;;;;;;;;x
-EVTDESC_RIP_4041_LAB_EQUIPMENT;我的宫廷医师[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些新的设备给[physician.GetHerHis]实验室，这可以让[physician.GetSheHe]进行更高级的实验。;;;;;;;;;;x
+EVTDESC_RIP_4041_TOOLS;我的宫廷医生[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些更好的手术器具，这可以让[physician.GetSheHe]实施更高级的治疗手段。;;;;;;;;;;x
+EVTDESC_RIP_4041_LAB_EQUIPMENT;我的宫廷医生[physician.GetTitledFirstName]建议我买给[physician.GetHerHim]一些新的设备给[physician.GetHerHis]实验室，这可以让[physician.GetSheHe]进行更高级的实验。;;;;;;;;;;x
 EVTOPTA_RIP_4041;嗯，我觉着不错，准了。;;;;;;;;;;x
 EVTOPTA_RIP_4041_TOOLTIP;花钱买新物资给§Y[physician.GetTitledFirstName]§!。这或许能让[physician.GetHerHim]提高[physician.GetHerHis]技能，但也说不准。\n;;;;;;;;;;x
 EVTOPTB_RIP_4041;[physician.GetFirstName]凑合着用[physician.GetSheHe]现有的吧。;;;;;;;;;;x
 EVTOPTB_RIP_4041_TOOLTIP;不买新物资给§Y[physician.GetTitledFirstName]§!。\n;;;;;;;;;;x
 EVTDESC_RIP_4042_BOOKS;我的领主[From.GetTitledFirstName]为我购置了些解剖学和草药学方面的书。阅读的同时我的脑中就已充满了各种新点子！我已经等不及开始付诸实际了！;;;;;;;;;;x
 EVTDESC_RIP_4042_HERBS;我的领主[From.GetTitledFirstName]为我购置了些异域草本和稀有药材。我总算可以尝试调制那些我以前梦寐以求的药剂、药膏了！;;;;;;;;;;x
-EVTDESC_RIP_4042_TOOLS;我的领主[From.GetTitledFirstName]为我购置了些新手术器材。这极大提高了我做手术的效率！此时的我做手术与之前有天壤之别，我现在是更优秀的医师。;;;;;;;;;;x
+EVTDESC_RIP_4042_TOOLS;我的领主[From.GetTitledFirstName]为我购置了些新手术器材。这极大提高了我做手术的效率！此时的我做手术与之前有天壤之别，我现在是更优秀的医生。;;;;;;;;;;x
 EVTDESC_RIP_4042_LAB_EQUIPMENT;我的领主[From.GetTitledFirstName]为我的实验室购置些新实验器材。我已经在一些极为复杂的实验中收获了大量成果！我每时每刻都在突破自己、都在不断汲取全新的知识！;;;;;;;;;;x
 EVTOPTA_RIP_4042;何等恩惠！;;;;;;;;;;x
 EVTDESC_RIP_4043_BOOKS;我的宫廷医师[From.GetTitledFirstName]让我知道，我买给[From.GetHerHim]的新书非常有帮助，因此[From.GetSheHe]现在有了海量的新想法，[From.GetSheHe]希望实践。;;;;;;;;;;x
@@ -2807,7 +2807,7 @@ EVTOPTA_WOL_11304;激励士兵，他们能为你入侵地狱;;;;;;;;;;x
 EVTOPTB_WOL_11304;虽然不刺激，但战争最终要靠围城胜利;;;;;;;;;;x
 EVTOPTC_WOL_11304;兵贵神速！;;;;;;;;;;x
 EVTOPTD_WOL_11304;凡人战斗，但[Root.Religion.GetHighGodName]决定胜者！;;;;;;;;;;x
-EVTOPTD_WOL_11304_MUSLIM;真主至大！;;;;;;;;;;x
+EVTOPTD_WOL_11304_MUSLIM;安拉至大！;;;;;;;;;;x
 EVTDESC_WOL_11305;进攻还是防守，这是一个问题……;;;;;;;;;;x
 EVTOPTA_WOL_11305;无畏的冲击将击破任何防线！;;;;;;;;;;x
 EVTOPTB_WOL_11305;死人无法再战……;;;;;;;;;;x
@@ -3012,10 +3012,10 @@ EVTOPTA_RIP_5055;呃...门轴？;;;;;;;;;;x
 scurvy;坏血病;;;;;;;;;;x
 scurvy_desc;这个角色得了坏血病——疲惫、出血、皮下瘀点，如果继续不采取治疗还可能导致牙齿脱落、发烧，最终甚至死亡。;;;;;;;;;;x
 scurvy_death;坏血病;;;;;;;;;;x
-EVTDESC_RIP_4501;不断有朝圣者们经过位于[pilgrim_physician_hospital.Location.GetName]的医院。但是你听到传言，有一位朝圣者在医院停留了好几天，照顾那些生病和受伤的人们，并且帮助任何需要帮助的人。他们说[pilgrim_physician.GetSheHe]是一位技术精湛的医师，或许值得被重用。;;;;;;;;;;x
+EVTDESC_RIP_4501;不断有朝圣者们经过位于[pilgrim_physician_hospital.Location.GetName]的医院。但是你听到传言，有一位朝圣者在医院停留了好几天，照顾那些生病和受伤的人们，并且帮助任何需要帮助的人。他们说[pilgrim_physician.GetSheHe]是一位技术精湛的医生，或许值得被重用。;;;;;;;;;;x
 EVTOPTA_RIP_4501;把这位[pilgrim_physician.GetManWoman]请过来。;;;;;;;;;;x
 EVTOPTB_RIP_4501_A;我并不需要[pilgrim_physician.GetHerHis]服务。;;;;;;;;;;x
-EVTOPTB_RIP_4501_B;我已经有一位医师了。;;;;;;;;;;x
+EVTOPTB_RIP_4501_B;我已经有一位医生了。;;;;;;;;;;x
 EVTDESC_RIP_4504;在[hospital_location.GetName]的医院发现近期寻求食物和庇护所的人数有所增加。医院几乎不能满足食物需求。也许这是我塑造形象的好机会？;;;;;;;;;;x
 EVTOPTA_RIP_4504;我应该马上做好准备。;;;;;;;;;;x
 EVTOPTB_RIP_4504;我的钱最好花在别的地方。;;;;;;;;;;x
@@ -3037,10 +3037,10 @@ EVTOPTA_RIP_4520;我会支付修缮工作的费用。;;;;;;;;;;x
 EVTOPTB_RIP_4520;他们应该同时收到钱和食物！;;;;;;;;;;x
 EVTOPTC_RIP_4520;只支付基本材料的费用。;;;;;;;;;;x
 EVTOPTD_RIP_4520;谁在乎那些穷鬼？;;;;;;;;;;x
-EVTDESC_RIP_4530;你的医师[learning_physician.GetFirstName]向你请求许可，他想去位于[hospital_location.GetName]的医院学习一段时间。[learning_physician.GetSheHeCap]需要一些资金来支付路上和在那家医院停留期间的花销。;;;;;;;;;;x
+EVTDESC_RIP_4530;你的医生[learning_physician.GetFirstName]向你请求许可，他想去位于[hospital_location.GetName]的医院学习一段时间。[learning_physician.GetSheHeCap]需要一些资金来支付路上和在那家医院停留期间的花销。;;;;;;;;;;x
 EVTOPTA_RIP_4530;很好的提议！;;;;;;;;;;x
 EVTOPTB_RIP_4530;不，我更需要你留在这里。;;;;;;;;;;x
-EVTDESC_RIP_4532;你的医师[learning_physician.GetFirstName]今天从[learning_physician.GetHerHis]医院进修之旅回来了。[learning_physician.GetSheHeCap]极其详尽的解释了各种各样的健康状况、疾病以及相应的治疗方法。虽然你连一半都没听懂，但是简而言之，[learning_physician.GetSheHe]似乎是学到了不少东西。;;;;;;;;;;x
+EVTDESC_RIP_4532;你的医生[learning_physician.GetFirstName]今天从[learning_physician.GetHerHis]医院进修之旅回来了。[learning_physician.GetSheHeCap]极其详尽的解释了各种各样的健康状况、疾病以及相应的治疗方法。虽然你连一半都没听懂，但是简而言之，[learning_physician.GetSheHe]似乎是学到了不少东西。;;;;;;;;;;x
 EVTDESC_RIP_4533;在[hospital_location.GetName]的医院停留了一段时间后，你的医师[learning_physician.GetFirstName]今天回到了你的宫廷。这趟进修虽然并没有[learning_physician.GetSheHe]希望的那样富有成效，但是依然学到了一两样新东西。;;;;;;;;;;x
 EVTDESC_RIP_4534;你收到消息说你的医师[learning_physician.GetFirstName]今天一早回来了。看起来[learning_physician.GetSheHe]在医院外花费了很多时间，也因此，没学到任何[learning_physician.GetSheHe]以前不知道的事情;;;;;;;;;;x
 damaged_hospital;医院受损;;;;;;;;;;x
@@ -3882,7 +3882,7 @@ EVTOPTB_RIP_29510;太好了，一切按计划进行。;;;;;;;;;;x
 opinion_ungrateful;不感激;;;;;;;;;;x
 EVT527_TOOLTIP;§Y[From.GetTitledFirstName]§!在你的内阁中获得一席之地。;;;;;;;;;;x
 EVTDSC_RIP_5060_TUBERCULOSIS;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，过去两个星期中身体变得越发虚弱，而我刚刚得知[From.GetHerHis]感染其实是肺结核。;;;;;;;;;;x
-EVTDSC_RIP_5060_TYPHOID;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，过去几天中高烧不退，而我刚刚得知[From.GetHerHis]感染其实是伤寒。;;;;;;;;;;x
+EVTDSC_RIP_5060_TYPHOID;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，过去几天中高烧不退，而我刚刚得知[From.GetHerHis]感染其实是慢性热。;;;;;;;;;;x
 EVTDSC_RIP_5060_TYPHUS;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，过去数个星期中苦于奇怪的红疹和不时出现的谵妄，而我刚刚得知[From.GetHerHis]感染其实是斑疹伤寒。;;;;;;;;;;x
 EVTDSC_RIP_5060_PLAGUE;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，一直苦于高烧和呕吐不停，我们已经做了最坏的打算。猜疑终究还是证实了，[From.GetHerHis]感染其实是最受恐惧的那个大瘟疫。;;;;;;;;;;x
 EVTDSC_RIP_5060_MEASLES;黑暗的时日。我的[GetFromRelation]，[From.GetTitledFirstName]，一直苦于奇怪的红疹和高烧，而我刚刚得知[From.GetHerHis]感染其实是麻疹。;;;;;;;;;;x

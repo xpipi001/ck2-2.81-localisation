@@ -139,7 +139,7 @@ TERRAIN_BONUS;如果战斗在此处爆发，防御方将获得防御加成;;;;;;
 twin_desc;这名角色有幸生为双胞胎之一，双胞胎之间相互好感更高。;;;;;;;;;;x
 EVTDESC38054;[From.GetTitledFirstName]致[Root.GetTitledFirstName]：由于你对真正信仰所犯下的罪行，我等将不再为你所用，你当幡然悔悟，并接受[From.Religion.GetRandomGodName]的指引。;;;;;;;;;;x
 EVTOPTA38054;一群蠢货！;;;;;;;;;;x
-LOADING_TIP_31;在均分继承法下，你不会因未分封的儿子而受声望惩罚;;;;;;;;;;x
+LOADING_TIP_31;在均分继承法下，你不会因未分封的儿子而受声望惩罚。;;;;;;;;;;x
 LOADING_TIP_32;均分继承法可使你直辖更多领地。;;;;;;;;;;x
 LOADING_TIP_33;当抵抗异教徒或异端侵略时，你雇佣的圣战士不花费维护费用。;;;;;;;;;;x
 GAVELKIND_DEMESNE_BONUS;均分继承法：§G+$BONUS$§!(§G$PERC$%§!);;;;;;;;;;x
@@ -538,7 +538,7 @@ STEAL_TECH_EFFECT;§Y$TECH$§!科技在§Y$CAPITAL$§!提高了§Y$VALUE$§!。\
 CHANGE_RANDOM_TECH;§Y$TECH$§!科技在§Y$WHERE$§!改变了$VALUE$\n;;;;;;;;;;x
 b_agricento;阿格里真托;;;;;;;;;;x
 buy_indulgence_for_sins_desc;向教宗写信，祈求宽恕我们的罪孽，并提高我们的虔诚。;;;;;;;;;;x
-EVTDESC8026;王权已经限制我们的权利和自由太久, 是时候降王权了! 在我的支持者面前, 你和你的摄政[Root.Regent.GetTitledName]别无选择只能接受.\n\n签名,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8026;王权已经限制我们的权利和自由太久, 是时候降王权了! 在我的支持者面前, 你和你的摄政[Root.Regent.GetTitledName]别无选择只能接受.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8026;我真的别无选择么……;;;;;;;;;;x
 EVTDESC75030;我的懒惰使我陷入了麻烦，我的领主[Root.Liege.GetTitledFirstName]认为我不是称职的[Root.Liege.GetChancellorName]，因为我尽最大的可能避免做实际工作。[Root.Liege.GetTitledFirstName]是这么认为的，虽然我不这样认为。;;;;;;;;;;x
 EVTOPTA75030;好吧……;;;;;;;;;;x

@@ -66,11 +66,11 @@ plot_gain_vassal_title_decision;[Root.GetPlot];;;;;;;;;;x
 plot_gain_vassal_title_decision_desc;将密谋付诸行动，下达最后通牒给[Root.PlotTarget.GetTitledName].;;;;;;;;;;x
 EVTTOOLTIP8030;[Root.PlotTarget.GetTitledName]收到了一封信.;;;;;;;;;;x
 EVTDESC8030;我已经决定 [From.GetPlot]. 领地中的封臣都研究过这个情形中的法律文件，其中的大多数领主都认为我的要求是公正合理、童叟无欺的，要么乖乖地和平下台，要么我就不得不采取军事手段捍卫我的合法权利了.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC8068;与其让内战撕碎我们的国家，我宁可向您屈膝，双手奉上我的头衔给你，但是这起阴险毒辣的敲诈行动永远不会被忘记...\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8068;与其让内战撕碎我们的国家，我宁可向您屈膝，双手奉上我的头衔给你，但是这起阴险毒辣的敲诈行动永远不会被忘记...\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8068;妙极了!;;;;;;;;;;x
 EVTDESC8096;因为不愿意让内战分裂我们的国土, [FromFrom.PlotTarget.GetTitledName]已经同意屈膝投降，让我[FromFrom.GetPlot].在这场冲突中您弥足珍贵的支持绝不会被忘记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
 EVTOPTA8096;好得很;;;;;;;;;;x
-EVTDESC8118;你这可耻的敲诈企图绝不会得逞.无论你收买了多少腐败的卑鄙小人来支持你的阴谋，我绝不会不战而降.我的就是我的，你休想夺走!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8118;你这可耻的敲诈企图绝不会得逞.无论你收买了多少腐败的卑鄙小人来支持你的阴谋，我绝不会不战而降.我的就是我的，你休想夺走!\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8118;那就让战争来裁决吧!;;;;;;;;;;x
 CRUSADE_DESC_IRO;陛下, §Y$POPE$§!发起了一场$CRUSADE$以收复§Y$TITLE$§!所有的被§Y$ENEMY$§!占领的部分;;;;;;;;;;x
 CRUSADE_DESC_DRO_1;既然§Y$TITLE$§!的王冠已经被[Religion.GetName]的统治者 - §Y[GetTitledFirstName]§!所持有 - [GetObjectPronoun]将获得所有的战利品.;;;;;;;;;;x

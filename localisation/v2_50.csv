@@ -182,7 +182,7 @@ EVTOPTA_ZE_9131;呃，非常好。;;;;;;;;;;x
 EVTDESC_ZE_9132; [Root.GetTitledFirstName],\n\n你这个最糟糕的败类居然用卑鄙的方式攻击那些忠贞对你的人。你这个[GetFromRootInsult]，我希望不再别人不幸到与你签订协定。.\n\n真诚而失望的,\n[From.GetTitledName];;;;;;;;;;x
 broken_non_aggression_pact;协定破坏;;;;;;;;;;x
 STOP_ASSAULT_DESC;停止进攻;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_TITLE;任命内阁;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_TITLE;任命为内阁成员;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_0;选择一个荣誉头衔授予给§Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_1;把 §Y[ThirdPartyTitle.GetFullName]§!的头衔授予§Y[Recipient.GetTitledFirstName]§!。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点看法。;;;;;;;;;;x
@@ -331,7 +331,7 @@ INTERACTION_RECIPIENT_NOT_NON_AGGRESSION_PACT;§Y[Recipient.GetTitledFirstName]�
 NO_NON_AGGRESSION_PACT_FROM_MARRIAGE;我们将不会从此婚姻中获得§Y互不侵犯条约§!;;;;;;;;;;x
 GAINED_NON_AGGRESSION_PACTS;将导致§Y互不侵犯条约§!;;;;;;;;;;x
 GAINED_NON_AGGRESSION_PACTS_WITH; §Y将导致互不侵犯条约，对象是§!;;;;;;;;;;x
-PACTS_TAB_IRO;§Y君主对$NAME$§!有条约签订;;;;;;;;;;x
+PACTS_TAB_IRO;§Y与 $NAME$ 有签订条约的领主§!;;;;;;;;;;x
 NON_AGG_BETROTHED;§Y(订婚)§!;;;;;;;;;;x
 NON_AGG_SPOUSE;§Y(配偶)§!;;;;;;;;;;x
 MARRIAGE_TIES_DESC;这个条约由你的追随者签订:;;;;;;;;;;x

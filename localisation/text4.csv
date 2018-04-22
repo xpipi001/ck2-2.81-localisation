@@ -25,7 +25,7 @@ EVTOPTB621;真可怜...;;;;;;;;;;x
 WARSCORE_LESS_THAN;战争分数低于;;;;;;;;;;x
 WARSCORE_MORE_THAN;战争分数高于;;;;;;;;;;x
 TACTICAL_ADVANTAGE;对抗§Y$TACTIC$的战术加成§!: $PERC$;;;;;;;;;;x
-LEADER_MARTIAL_SKILL;§Y$WHO$§!的统率技能: $PERC$;;;;;;;;;;x
+LEADER_MARTIAL_SKILL;§Y$WHO$§!的军事技能: $PERC$;;;;;;;;;;x
 FLANKING_BONUS;侧翼进攻加成: $PERC$;;;;;;;;;;x
 AI_REJECT_STILL_A_NO;我还是不能接受你的提议;;;;;;;;;;x
 PLAYER_SUCCESSOR_CHANGED_LOG;你拥有了一个新继承人.当前人物死亡后你将扮演§Y$NEW_SUCCESSOR$§!;;;;;;;;;;x
@@ -36,7 +36,7 @@ OWN_TROOPS_CURRENT;$CHAR$的现有兵力:§Y$TROOPS$§!;;;;;;;;;;x
 RELATIVE_STRENGTH;相对力量: §Y$STRENGTH$§!;;;;;;;;;;x
 CURRENT_RELATIVE_STRENGTH;现相对力量: §Y$STRENGTH$§!;;;;;;;;;;x
 VASSAL_HOLDINGS;封臣产业:§Y$HOLDINGS$§!;;;;;;;;;;x
-LOADING_LOCAL_SAVE;读取本地存档中...;;;;;;;;;;x
+LOADING_LOCAL_SAVE;读取本地存档……;;;;;;;;;;x
 CB_NAME_DEPOSE_LIEGE;废黜领主;;;;;;;;;;x
 WAR_NAME_DEPOSE_LIEGE;$ORDER$$FIRST_ADJ$废黜$DEFENDER$战争;;;;;;;;;;x
 depose_liege_desc;§Y$CLAIMANT$§!可以尝试废黜§Y$TARGET$§!并拥立§Y$CLAIMANT$§!中意的继承人;;;;;;;;;;x
@@ -85,7 +85,7 @@ opinion_converted_province;成功令省份皈依;;;;;;;;;;x
 EVTDESC3336;[From.GetTitledFirstName]认为太多的冒险行为危及到了我的人身安全,并劝说我不要再做那种事以远离危险.;;;;;;;;;;x
 EVTNAME60010;伊尔汗国改信;;;;;;;;;;x
 EVTOPTA60010;时候到了!;;;;;;;;;;x
-EVTOPTB60010;真主保佑!;;;;;;;;;;x
+EVTOPTB60010;安拉保佑!;;;;;;;;;;x
 EVTOPTC60010;上帝保佑!;;;;;;;;;;x
 EVTOPTD60010;愿主拯救我们!;;;;;;;;;;x
 EVTNAME60020;金帐汗国改信;;;;;;;;;;x
@@ -103,7 +103,7 @@ EVTDESC8723;我允许你赠与他们领地.\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8723;那就这样做吧!;;;;;;;;;;x
 EVTDESC8724;我不允许你给条顿骑士团送去分寸领地!\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8724;我将收回我的提议;;;;;;;;;;x
-EVTDESC8725;伟大的[Root.GetTitledFirstName],\n你的胆识有若传奇.我希望能够为您抗击异教徒的英勇战斗尽一份绵力,特此向骑士团赠与一个郡.\n\n签署人,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8725;伟大的[Root.GetTitledFirstName],\n你的胆识有若传奇.我希望能够为您抗击异教徒的英勇战斗尽一份绵力,特此向骑士团赠与一个郡.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 alert_truce_expiring_instant;§Y休战协议即将到期§!;;;;;;;;;;x
 alert_truce_expiring_delayed;以下休战协议即将到期:$LIST$;;;;;;;;;;x
 alert_no_ambition_instant;§Y选择目标§!;;;;;;;;;;x

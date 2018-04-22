@@ -177,7 +177,7 @@ FROM_HOLDINGS;来自领地: §G$AMOUNT$§!\n;;;;;;;;;;x
 CUSTOM_MAPMODE_DESC;§Y自定义地图模式§!\n拖拽地图至此方便使用;;;;;;;;;;x
 SHOW_MAPMODES_TOGGLE;切换地图模式界面;;;;;;;;;;x
 MAPMODE_DRAG;§G把这个按钮拖拽到下方的自定义插槽以便于访问§!;;;;;;;;;;x
-SHORTCUT_DESC;快捷方式: §G$SHORTCUT$§!;;;;;;;;;;x
+SHORTCUT_DESC;快捷键：§G$SHORTCUT$§!;;;;;;;;;;x
 MAPMODE_TRADE_REGIONS;§Y贸易区域§!;;;;;;;;;;x
 MAPMODE_TRADE_REGIONS_DESC;在你没有领地的贸易区域建立商栈要更贵一点;;;;;;;;;;x
 region_east_med;东地中海贸易区;;;;;;;;;;x
@@ -353,7 +353,7 @@ EVTDESC_REP_012;位于[Root.MercRepCapital.GetName]码头的一座属于你的�
 EVTOPTA_REP_012;杯具啊;;;;;;;;;;x
 EVTDESC_REP_014;一位富有的本地贵族想要逃避他的几次轻率行为的后果，他冒犯了[From.GetOnlyDynastyName]家族的一位女性.他想支付一大笔钱来坐你的船去一座外国的港口，在那里他可以隐姓埋名呆上几年.;;;;;;;;;;x
 EVTOPTA_REP_014;当然可以.马上去安排这件事.;;;;;;;;;;x
-EVTDESC_REP_015;负责为你的船队装货卸货的码头工人们已经变得十分有效率.下船的船员经常抱怨他们几乎没有足够的时间在[Root.MercRepCapital.GetName]好好喝上一顿，他们的浆帆船就已经准备好起航了.;;;;;;;;;;x
+EVTDESC_REP_015;负责为你的船队装卸货物的码头工人们已经变得十分有效率。下船的船员经常抱怨他们几乎没有足够的时间在[Root.MercRepCapital.GetName]好好喝上一顿，他们的浆帆船就已经准备好起航了。;;;;;;;;;;x
 EVTOPTA_REP_015;继续保持这样的工作效率，伙计们.;;;;;;;;;;x
 EVTDESC_REP_016;一艘[Root.GetOnlyDynastyName]的浆帆船在[Root.MercRepCapital.GetName]的港口发现了一艘失踪几个世纪的已经腐烂的沉船遗迹.为你家族工作的潜水员们成功地从中找到了一个装满金条的小财宝箱！;;;;;;;;;;x
 EVTOPTA_REP_016;来看看属于我的那份吧！;;;;;;;;;;x

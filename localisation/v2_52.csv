@@ -7,7 +7,7 @@ EVTDESC_ZE_22400;内阁争辩不休，正当你快要出丑时，[target_saved_v
 EVTOPTA_ZE_22400;谢谢！我确实欠你一回！;;;;;;;;;;x
 EVTOPTB_ZE_22400;我呸！我自己本来能赢得那场争论！;;;;;;;;;;x
 EVTDESC_ZE_22410;内阁争辩不休，正当 [From.GetBestName] 快要出丑时，你走了进来。在你帮助下 [From.GetHerHim] 赢了辩论。这是很好的手段，现在 [From.GetSheHe] 欠你一份人情！;;;;;;;;;;x
-EVTOPTA_ZE_22410;现在，何时需要帮忙....;;;;;;;;;;x
+EVTOPTA_ZE_22410;现在，何时去兑现人情呢。。。;;;;;;;;;;x
 EVTDESC_ZE_22420;内阁争辩不休，正当 [From.GetBestName] 快要出丑时，你走了进来。在你帮助下 [From.GetHerHim] 赢了辩论。这激怒了 [From.GetHerHim]， [From.GetSheHe] 想依靠 [From.GetHerHis] 的能力赢得辩论！这样等于公开羞辱 [From.GetFirstName]。;;;;;;;;;;x
 EVTOPTA_ZE_22420;忘恩负义是这个世界的奖励;;;;;;;;;;x
 EVTDESC_ZE_22500;内阁讨论结束时，[target_pious_voter.GetTitledFirstName]把你拉到一边。[target_pious_voter.GetSheHeCap]跟你大谈特谈要尊重[Root.Religion.GetScriptureName]在内阁中做决定的权威性。显然内阁对你怠慢态度看法一致，但幸好[target_pious_voter.GetFirstName]愿意帮你！;;;;;;;;;;x
@@ -239,7 +239,7 @@ too_honest;诚实过度;;;;;;;;;;x
 impious_teachings;不虔诚的教义;;;;;;;;;;x
 opinion_hypocrite;伪君子;;;;;;;;;;x
 opinion_boring;无聊;;;;;;;;;;x
-EVTOPTC_ZE_13620;[From.GetFirstName] 必须靠 [From.GetHerHis] .;;;;;;;;;;x
+EVTOPTC_ZE_13620;[From.GetFirstName]必须靠[From.GetHerHis]自己。;;;;;;;;;;x
 EVTDESC_ZE_13625;[From.GetSheHe] 逐渐地长大，我觉得可以在擅长的领域内对 [From.GetFirstName] 进行一些指导。这可能费力不讨好，也是为了 [From.GetFirstName] 的利益作出一些自我牺牲的机会。;;;;;;;;;;x
 EVTDESC_ZE_13620;[From.GetSheHe] 逐渐地长大, 我觉得可以在外交领域内对 [From.GetFirstName] 进行一些指导, 为了 [From.GetHerHis] 的教育, 我能提供什么?;;;;;;;;;;x
 EVTDESC_ZE_13621;[From.GetSheHe] 逐渐地长大, 我觉得可以在军事领域内对 [From.GetFirstName] 进行一些指导, 为了 [From.GetHerHis] 的教育, 我能提供什么?;;;;;;;;;;x
@@ -344,7 +344,7 @@ gov_elective_muslim_aristocratic_autocracy;选举贵族帝国专制;;;;;;;;;;x
 INTERACTION_COALITION_RANGE;对我们的威胁近在眼前;;;;;;;;;;x
 GAME_SETUP_COALITIONS_TARGET_ICON;是一个或多个 §Y共同防御协定§! 的针对目标 总共有 $NUM_MEMBERS|Y$ 位成员.;;;;;;;;;;x
 GAME_SETUP_COALITIONS_MEMBER_ICON;Is in a §YDefensive Pact§! against $TARGET|Y$. A total of $NUM_MEMBERS|Y$ characters have joined §YDefensive Pacts§! against the same target.;;;;;;;;;;x
-alert_high_infamy_delayed;§Y威胁度§! 效果:\n\n- 当超过 $COALITION_INFAMY_LIMIT|%Y0$ §Y威胁度§!时 其他领主会签订 §Y共同防御协定§! 来保护自己. 每个宗教组有各自分开的 §Y共同防御协定§! 且只会保卫成员来自相同的 §Y共同防御协定§!.\n\n- 当超过 $OTHER_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§! 所有 §Y共同防御协定§! 来自其他宗教组 将会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$ §Y威胁度§!时 所有 §Y共同防御协定§! 包括您自己的宗教组 也会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§!时 你将被认为臭名昭著 连你自己的宗教首领 和本宗教的骑士团 会主动加入 针对你的 §Y共同防御协定§! .\n\n- 随着你 §Y威胁度§! 的提升, 更大或者更遥远的国度 将被允许加入针对你的 §Y共同防御协定§! .\n\n- 当你的 §Y威胁度§! 下降时, 更大或者更遥远的国度 将被强制离开 针对你的 §Y共同防御协定§! .\n\n--------------\n§Y威胁度§! 随着时间会缓慢下降 但是你可以手动降低它 通过给予非法理领地的独立.;;;;;;;;;;x
+alert_high_infamy_delayed;§Y威胁度§! 效果:\n\n- 当超过 $COALITION_INFAMY_LIMIT|%Y0$ §Y威胁度§!时 其他领主会签订 §Y共同防御协定§! 来保护自己. 每个宗教组有各自分开的 §Y共同防御协定§! 且只会保卫成员来自相同的 §Y共同防御协定§!.\n\n- 当超过 $OTHER_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§! 所有 §Y共同防御协定§! 来自其他宗教组 将会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$ §Y威胁度§!时 所有 §Y共同防御协定§! 包括您自己的宗教组 也会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§!时 你将被认为臭名昭著 连你自己的宗教首领 和本宗教的圣战士 会主动加入 针对你的 §Y共同防御协定§! .\n\n- 随着你 §Y威胁度§! 的提升, 更大或者更遥远的国度 将被允许加入针对你的 §Y共同防御协定§! .\n\n- 当你的 §Y威胁度§! 下降时, 更大或者更遥远的国度 将被强制离开 针对你的 §Y共同防御协定§! .\n\n--------------\n§Y威胁度§! 随着时间会缓慢下降 但是你可以手动降低它 通过给予非法理领地的独立.;;;;;;;;;;x
 INTERACTION_COALITION_REQUIRES_COUNTY_COMPARE;§Y[Actor.GetTitledFirstName]§! 最大可以达到§Y[Recipient.GetTitledFirstName]§!土地大小的$RATIO|Y%0$;;;;;;;;;;x
 COUNCIL_ELECTIVE;内阁选举制;;;;;;;;;;x
 WANTS_PARDON;我不想坐牢;;;;;;;;;;x

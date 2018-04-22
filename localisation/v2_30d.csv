@@ -34,6 +34,6 @@ duel_tooltip_valid_target;你的文化和宗教允许与其决斗.\n;;;;;;;;;;x
 duel_tooltip_recent_duel;决斗的任意一方没有正在参与其他决斗.\n;;;;;;;;;;x
 dishonest_duel_tooltip;这在决斗中是不诚信的行为,其他人会因之而不满.;;;;;;;;;;x
 EVTOPTB_WOL_11110;不,我不想打我的朋友.;;;;;;;;;;x
-is_not_ascetic;不是苦行僧\n;;;;;;;;;;x
+is_not_ascetic;不是苦行者\n;;;;;;;;;;x
 wol_duel_training;决斗训练;;;;;;;;;;x
 desc_wol_duel_training;这人最近接受了决斗的训练。;;;;;;;;;;x

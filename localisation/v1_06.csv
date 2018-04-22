@@ -195,7 +195,7 @@ EVTOPTD76041;你爸生下你就是个错误;;;;;;;;;;x
 EVTOPTB61146;[Root.Religion.GetRandomGodNameCap]赐福我等, [Root.Liege.GetLadLass]得踞高位...;;;;;;;;;;x
 EVTOPTB61226; 以[Root.Religion.GetRandomGodName]之名, 你将葬身于此.;;;;;;;;;;x
 EVTOPTB61223;我的[Root.Religion.GetRandomGodName]啊,我都干了点啥? 我不会再参与到这场疯狂中去.;;;;;;;;;;x
-EVTDESC7509;我看这不过是又一个低劣的玩笑，大人. 不论是谁提的要求，我都不会放弃本应属于我的东西，以[Root.Religion.GetRandomGodName]之名!\n\n签名,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC7509;我看这不过是又一个低劣的玩笑，大人. 不论是谁提的要求，我都不会放弃本应属于我的东西，以[Root.Religion.GetRandomGodName]之名!\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTB3636;一叉子动物排泄物!;;;;;;;;;;x
 EVTTOOLTIP3638;[Root.GetTitledFirstName]已选好了决斗武器: 一叉子动物排泄物;;;;;;;;;;x
 EVTDESC3638;当[From.GetTitledFirstName]的副手告诉我我们的决斗武器是什么时，我简直无法相信自己的耳朵: 一叉子动物排泄物!;;;;;;;;;;x
@@ -721,7 +721,7 @@ EVTNAME60121;蒙古人洗劫了麦加!;;;;;;;;;;x
 EVTDESC60121;圣城麦加焚毁于蒙古异教徒无情的火把之下. 远方为向真主表示虔诚而来的朝觐者们在城门处能看到的只有死亡. 时代将记住这不可饶恕的亵渎;;;;;;;;;;x
 EVTOPTA60121;没有任何一个参与这次亵渎的异教徒能逍遥法外;;;;;;;;;;x
 EVTOPTB60121;神啊阻止这场灾难向西蔓延吧...;;;;;;;;;;x
-EVTOPTB60100;他们不会来这里的, 真主保佑;;;;;;;;;;x
+EVTOPTB60100;他们不会来这里的, 安拉保佑;;;;;;;;;;x
 EVTOPTB60101;愿北方的冰雪惩罚他们;;;;;;;;;;x
 EVTOPTB60102;这些骑手懂得如何作战!;;;;;;;;;;x
 EVTOPTB60103;他们的城墙不够坚固...;;;;;;;;;;x

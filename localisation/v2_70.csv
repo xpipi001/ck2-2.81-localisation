@@ -459,7 +459,7 @@ String_Kidney;肾脏;;;;;;;;;;x
 String_Eyeballs;眼球;;;;;;;;;;x
 String_Cloven_hooves;偶蹄;;;;;;;;;;x
 String_Antlers;鹿角;;;;;;;;;;x
-String_Snout;吻部;;;;;;;;;;x
+String_Snout;鼻子;;;;;;;;;;x
 String_Heart;心脏;;;;;;;;;;x
 String_Liver;肝脏;;;;;;;;;;x
 String_Intestines;肠子;;;;;;;;;;x
@@ -662,7 +662,7 @@ secret_mazdaki_community_desc;马兹达教忠实信徒们在这个省份秘密�
 secret_manichean_community;秘密的摩尼教社团;;;;;;;;;;x
 secret_manichean_community_desc;摩尼教的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 religion_openly_norse_or_reformed_tooltip;公然追随 §YGermanic§!信仰;;;;;;;;;;x
-religion_openly_baltic_or_reformed_tooltip;公开皈依了 §YRomuva§!;;;;;;;;;;x
+religion_openly_baltic_or_reformed_tooltip;公开皈依了 §Y洛姆瓦§!;;;;;;;;;;x
 religion_openly_finnish_or_reformed_tooltip;公开信奉§Y索米多神教§!;;;;;;;;;;x
 religion_openly_slavic_or_reformed_tooltip;公然追随 §YSlavic§! 信仰;;;;;;;;;;x
 religion_openly_tengri_or_reformed_tooltip;公然追随 §Y长生天§!信仰;;;;;;;;;;x
@@ -673,7 +673,7 @@ FOLLOWS_SECRET_RELIGION_TOOLTIP;这个角色秘密信仰$RELIGION|Y$宗教;;;;;;
 CAN_SEE_SECRET_RELIGION;知道$WHO|Y$秘密信仰一个宗教;;;;;;;;;;x
 CANNOT_SEE_SECRET_RELIGION;无从知晓 $WHO|Y$ 是否在秘密信仰一个宗教;;;;;;;;;;x
 FILTER_HAS_SECRET_RELIGION;拥有秘密宗教;;;;;;;;;;x
-alert_society_rank_up_possible_instant;§YPossible在society§!的排名;;;;;;;;;;x
+alert_society_rank_up_possible_instant;§Y可能提高在社团内的地位§!;;;;;;;;;;x
 alert_society_rank_up_possible_delayed;在你的社会里你已经获得了足够的影响力，现在你可以要求升到下一等级。;;;;;;;;;;x
 ALLY_ORDER_BUSY_OTHER_CAMPAIGN;这个角色目前无法帮助你，因为他正忙于$WAR|Y$;;;;;;;;;;x
 secret_religious_society_bogomilist;虔诚的波格米勒派教徒;;;;;;;;;;x

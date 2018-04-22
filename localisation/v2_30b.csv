@@ -4,7 +4,7 @@ CR_DIFF_AT_LEAST;§Y$FIRST$§!和§Y$SECOND$§!的决斗等级差值至少为§Y
 HAS_CR_AT_LEAST;决斗等级至少为;;;;;;;;;;x
 HAS_LOWER_CR_THAN;决斗等级低于;;;;;;;;;;x
 MASTER;大师;;;;;;;;;;x
-MISTRESS;情妇;;;;;;;;;;x
+MISTRESS;夫人;;;;;;;;;;x
 wol_schemer_1;业余的谋士;;;;;;;;;;x
 desc_wol_schemer_1;该角色野心勃勃，是一位企图通过花言巧语来操控他人的阴谋家。;;;;;;;;;;x
 wol_schemer_2;谋士;;;;;;;;;;x
@@ -71,7 +71,7 @@ EVTOPTA_WOL_580;到这来~帅哥~;;;;;;;;;;x
 EVTOPTB_WOL_580;太冒险了。;;;;;;;;;;x
 EVTDESC_WOL_581;狱卒打开牢笼，淫笑着走了进来。就在他开始抚摸我的时候，我向他建议到一个更嗨的地方。他突然大笑起来，用力拍了下我的屁股，对我轻蔑的扫了一眼就离开了。;;;;;;;;;;x
 EVTOPTA_WOL_581;我猜他的主人[Root.Host.GetMasterMistress], [Root.Host.GetTitledFirstNameNoRegnal], 一定会知道这件事的……;;;;;;;;;;x
-EVTDESC_WOL_582;我的女囚, [From.GetTitledName], 尝试勾引狱卒逃跑。幸运的是，狱卒没戴她的套。;;;;;;;;;;x
+EVTDESC_WOL_582;我的女囚, [From.GetTitledName], 尝试勾引狱卒逃跑。幸运的是，狱卒没上她的套。;;;;;;;;;;x
 EVTOPTA_WOL_582;干得漂亮! 我为她准备了个更好的去处。?Quelle audace? Je pense qu'elle m閞ite de meilleurs quartiers.;;;;;;;;;;x
 EVTOPTB_WOL_582;为狱卒的正直奖励他。;;;;;;;;;;x
 EVTOPTC_WOL_582;[GetRootFromInsult]！把她打入死牢。;;;;;;;;;;x
@@ -646,7 +646,7 @@ EVTDESC_WoL_6322;一天早上，你的[GetFromRelation][From.GetTitledFirstName]
 EVTOPTA_WoL_6322;我只看得上美妙的星空。;;;;;;;;;;x
 EVTOPTB_WoL_6322;那里有许多新奇的事物，我想看他们！;;;;;;;;;;x
 EVTOPTC_WoL_6322;你听到的都是谎话。;;;;;;;;;;x
-EVTDESC_WoL_6330;你所致力于的研究是你相信在银河彼岸又更多新奇的事物。然而既没有资料也没人同你分享知识。不过你听传言说在阿拉伯沙漠里住着一位学富五车的超日然学者。;;;;;;;;;;x
+EVTDESC_WoL_6330;你在天文台进行的研究已经使你确信，在已知的宇宙之外还存在着许多难以置信的事物。 然而，对此既没有相关的资料亦没有人能与你进行讨论。 但是你听说在阿拉伯沙漠中有一位古怪的老学者，据说他对这些怪诞的事物有着广泛的研究。;;;;;;;;;;x
 EVTOPTA_WoL_6330;我要去找他。;;;;;;;;;;x
 EVTOPTB_WoL_6330;不，这太恐怖了。还是算了。;;;;;;;;;;x
 EVTTITLE_WoL_6331;死灵之书;;;;;;;;;;x

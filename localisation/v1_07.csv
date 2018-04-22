@@ -37,7 +37,7 @@ alert_no_ambition_delayed;你可以选择一个野心;;;;;;;;;;x
 CLICK_TO_SELECT_PLOT;单击选择一个密谋;;;;;;;;;;x
 CLICK_TO_SELECT_AMBITION;单击选择一个野心;;;;;;;;;;x
 SELECT_AMBITION_DESC;你应该为你的角色选择一个生活中的野心 - 如果成功会带来多种益处.;;;;;;;;;;x
-SELECT_PLOT_DESC;你可以发起一个密谋 - 但是要留意，如果你的密谋技能很低或是你的间谍总管不可靠的话.;;;;;;;;;;x
+SELECT_PLOT_DESC;你可以发起一个密谋——但是如果你的密谋技能很低或者间谍总管不值得信任，就需要多加留意了。;;;;;;;;;;x
 SUCCESS_CONDITION;成功条件;;;;;;;;;;x
 SUCCESS_EFFECT;成功效果;;;;;;;;;;x
 SELECT_PLOT_NO_AVAILABLE;没有适合的密谋可用;;;;;;;;;;x
@@ -142,7 +142,7 @@ faction_claimant_ultimatum;要求兑现宣称;;;;;;;;;;x
 faction_claimant_ultimatum_desc;向 §Y[Root.Liege.GetBestName]§! 发出最后通牒,要求扶植§Y[Root.SupportedClaimant.GetBestName]§! 登上§Y[Root.SupportedClaimantTitle.GetName]§! 的宝座. 如果 [Root.Liege.GetSubjectPronoun] 不应允, 这个派系会诉诸武力.;;;;;;;;;;x
 REVOLT_DISTANCE_LESS_THAN;叛乱距离少于 ;;;;;;;;;;x
 REVOLT_DISTANCE_AT_LEAST;最小叛乱距离 ;;;;;;;;;;x
-LOADING_TIP_51;在男性优先继承制下, 有儿子的小女儿继承顺位高于没有儿子的大女儿.;;;;;;;;;;x
+LOADING_TIP_51;在男性优先继承法下，有儿子的小女儿的继承顺位高于没有儿子的大女儿。;;;;;;;;;;x
 OPINION_DIFF_LOWER_THAN;对§Y$FIRST$§! 和 §Y$SECOND$§!  好感的差值少于 §Y$VAL$§!;;;;;;;;;;x
 OPINION_DIFF_AT_LEAST;对§Y$FIRST$§! 和 §Y$SECOND$§! 好感的差值最少是 §Y$VAL$§!;;;;;;;;;;x
 FACTION_CANCELLED_SETUP;派系解散;;;;;;;;;;x
@@ -725,7 +725,7 @@ EVTOPTG9002;也许最好不要让这种事情有机会发生...;;;;;;;;;;x
 EVTOPTH9002;这只是虚张声势.;;;;;;;;;;x
 EVTTOOLTIP9003;你拒绝了这项过分的要求.;;;;;;;;;;x
 EVTTOOLTIP9004;你决定完全地屈从于这项要求.;;;;;;;;;;x
-EVTDESC9004;尊敬的[Root.GetTitle]，\n\n虽然我想要诅咒你的名字，我还是会屈从你的不公平的要求.只要...你能够守住这些敏感信息的秘密.\n\n签名，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC9004;尊敬的[Root.GetTitle]，\n\n虽然我想要诅咒你的名字，我还是会屈从你的不公平的要求.只要...你能够守住这些敏感信息的秘密.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA9004;好极了.;;;;;;;;;;x
 EVTDESC9005;我亲爱的[Root.GetTitle]，\n\n请允许我提醒你作为我的封臣发誓承担的责任和义务.成立一个阴谋派系将会直接违背这些誓言，而且我必须得到你的许诺以后绝不再犯.\n\n签名，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA9005;好的.密谋不是一件荣誉的事情.;;;;;;;;;;x
@@ -813,7 +813,7 @@ EVTOPTA94187;必须终结这种堕落.;;;;;;;;;;x
 EVTDESC249;一片混战之中, 你的军队成功包围了[From.GetTitledFirstName]! 在[From.GetHerHim]被杀死之前, [From.GetSheHeCap]进行了勇敢的抵抗.;;;;;;;;;;x
 EVTOPTA249;好消息！;;;;;;;;;;x
 PART_SCALED_DECADENCE_EFFECT;§Y$WHO$§!: $DIRECTION$ $VALUE$ 腐化因为战争的缘故.\n;;;;;;;;;;x
-NEWBORN_PURPLE_SETUP;出生显赫的孩子;;;;;;;;;;x
+NEWBORN_PURPLE_SETUP;孩子生于紫室;;;;;;;;;;x
 NEWBORN_PURPLE_LOG;一个§Y$SEX$§! 由 §Y$CHAR1$§! 和 §Y$CHAR2$§!结合而出生显赫的孩子, 名为§Y$CHILD$§!.;;;;;;;;;;x
 NEWBORN_PURPLE_LETTER;$MOTHER$ 在产房里生出了一个 $SEX$ . 这个孩子的名字将是 $CHILD$;;;;;;;;;;x
 NEWBORN_PURPLE_TO_PLAYER;孩子出生了$SEX$!$CHAR2$为这个孩子命名.:;;;;;;;;;;x

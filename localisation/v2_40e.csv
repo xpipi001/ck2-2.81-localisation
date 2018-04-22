@@ -20,7 +20,7 @@ WAR_NAME_NOMAD_EXPANSION;$ORDER$$FIRST_ADJ$目标$OTHER_TITLE$的战争;;;;;;;;;
 POLL_TAX_DESC;其他宗教的民众上交吉茲亚税;;;;;;;;;;x
 CLAN_SIZE;§Y部族数量达到上限§!;;;;;;;;;;x
 CLAN_SIZE_DESC;最大部族数量由领土大小决定。过多部族会令所有部族对其领主的§Y部族观感§!产生消极影响。部族数量的绝对最大值为§Y$MAX$§!个部族，此时你不能§Y分裂部族§!并且任何被征服的§Y游牧§!会成为转而§Y部落§!封臣。;;;;;;;;;;x
-succ_nomad_succession;游牧继承;;;;;;;;;;x
+succ_nomad_succession;游牧继承法;;;;;;;;;;x
 recent_county_uprising;最近叛乱;;;;;;;;;;x
 prisoner_to_oubilette;扔进密牢;;;;;;;;;;x
 prisoner_to_oubilette_desc;将§Y[Root.GetTitledFirstName]§!扔进地牢内最深的洞穴里，完全忘掉[Root.GetObjectPronoun]。没人能从密牢里逃跑！（[Root.GetPossPronounCap]预期寿命在里面将急剧下降）。;;;;;;;;;;x

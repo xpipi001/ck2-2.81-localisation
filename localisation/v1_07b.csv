@@ -9,8 +9,8 @@ action_uncover_plots;密谋;;;;;;;;;;x
 miaphysite;基督合性派;;;;;;;;;;x
 monothelite;基督一志派;;;;;;;;;;x
 d_miaphysite;基督合性派宗主教;;;;;;;;;;x
-d_miaphysite_adj;科普特派宗主教;;;;;;;;;;x
-COPTIC_POPE;科普特派宗主教;;;;;;;;;;x
+d_miaphysite_adj;科普特派宗 主教;;;;;;;;;;x
+COPTIC_POPE;科普特派宗 主教;;;;;;;;;;x
 INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;不能从你的宗教领袖剥夺唯一宗教领地。;;;;;;;;;;x
 d_monophysite;基督一性派宗主教;;;;;;;;;;x
 d_monophysite_adj;基督一性派教宗;;;;;;;;;;x

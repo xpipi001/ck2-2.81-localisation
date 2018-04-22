@@ -41,7 +41,7 @@ EVTDESC7500;我的[Root.GetTitle]，包括我在内的许多忠实的封臣都�
 EVTOPTA7500;一个值得赞扬的倡议。;;;;;;;;;;x
 EVTOPTB7500;我将不会参与这场密谋。;;;;;;;;;;x
 EVTTOOLTIP7500;[Root.TopLiege.GetTitledFirstName]收到一封信。;;;;;;;;;;x
-EVTDESC7501;我们都对[Root.PlotTarget.GetTitledName]的膨胀中的实力感到担忧。为了国家的安宁，我们应该立刻联系[Root.PlotTarget.GetHerHim]，以实现你的计划。\n\n此致\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC7501;我们都对[Root.PlotTarget.GetTitledName]的膨胀中的实力感到担忧。为了国家的安宁，我们应该立刻联系[Root.PlotTarget.GetHerHim]，以实现你的计划。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA7501;妙极了！;;;;;;;;;;x
 EVTTOOLTIP7501;得到你的肯定答复。;;;;;;;;;;x
 EVTDESC7502;别做个傻子，[Root.GetFirstName]！我不希望看到国家由于密谋诡计而支离破碎。现在给我停止这场阴谋，否则我发誓你将会为此后悔！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
@@ -58,7 +58,7 @@ EVTOPTC7505;由于没有合适的封臣，你自己将得到这个头衔。;;;;;
 EVTTOOLTIP7505;[Root.PlotTarget.GetTitledName]收到一封信。;;;;;;;;;;x
 EVTDESC7506;即便我敢肯定我将一直咒骂汝名、至死方休，可为了和平，我还是不得不接受你的要求。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA7506;妙极了。;;;;;;;;;;x
-EVTDESC7507;比起向[Root.PlotTargetTitle.GetFullName]投降，我更愿意拿起武器。如果你和你的小伙伴们能鼓起勇气来面对我，我会很高兴吧你们杀到一个都不剩！放马过来吧！\n\n此致\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC7507;比起向[Root.PlotTargetTitle.GetFullName]投降，我更愿意拿起武器。如果你和你的小伙伴们能鼓起勇气来面对我，我会很高兴吧你们杀到一个都不剩！放马过来吧！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA7507;你会为你这番话后悔的，我亲爱的[From.GetTitle]。;;;;;;;;;;x
 EVTOPTB7507;也许我不应该冒险一战……;;;;;;;;;;x
 EVTTOOLTIP7507;拒绝接受最后通牒。;;;;;;;;;;x

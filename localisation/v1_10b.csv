@@ -20,7 +20,7 @@ TOGGLE_LOOTER_FAIL_INOWNLAND;部队正在友邦行进;;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_MERC;部队无雇佣军;;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_ISATTACHED;该部队未配属于另一部队;;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_HASATTACHED;该部队无任何附属部队;;;;;;;;;;x
-INTERACTION_GRANT_GAVELKIND_EXPLOIT;§Y$NAME$§!作为你的长子, 在均分继承法下不能被授予§Y$TITLE$§!;;;;;;;;;;x
+INTERACTION_GRANT_GAVELKIND_EXPLOIT;§Y$NAME$§!作为你的长子，在均分继承法下不能被授予§Y$TITLE$§!;;;;;;;;;;x
 ca_steppe_barracks_1;蒙古勇士军营;;;;;;;;;;x
 ca_steppe_barracks_2;蒙古勇士军营;;;;;;;;;;x
 ca_steppe_barracks_3;蒙古勇士军营;;;;;;;;;;x
@@ -54,7 +54,7 @@ norse_pagan_succ_desc_8;在华海拉英烈祠飨宴。;;;;;;;;;;x
 norse_pagan_reformed_succ_desc_8;在华海拉英烈祠飨宴。;;;;;;;;;;x
 muslim_succ_desc_1;正在极乐园享用白葡萄干。;;;;;;;;;;x
 muslim_succ_desc_2;骑着天园的白骆驼。;;;;;;;;;;x
-muslim_succ_desc_3;被真主召唤去了。;;;;;;;;;;x
+muslim_succ_desc_3;蒙安拉宠召;;;;;;;;;;x
 muslim_succ_desc_4;为通往天园铺平道路。;;;;;;;;;;x
 muslim_succ_desc_8;与众天园美女共处;;;;;;;;;;x
 west_african_pagan_succ_desc_1;去追随列祖列宗的英灵。;;;;;;;;;;x

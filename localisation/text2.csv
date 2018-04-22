@@ -9,15 +9,15 @@ ANY_WARD_STARTS;任何被监护人;;;;;;;;;;x
 TITLE_CANNOT_USURP_BEFORE;在 §Y$DATE$§!之前不能篡夺头衔;;;;;;;;;;x
 fair;魅力非凡;;;;;;;;;;x
 c_grassland_cheremisa_adj;克尔热涅茨;;;;;;;;;;x
-c_mountain_cheremisa_adj;克里米斯;;;;;;;;;;x
+c_mountain_cheremisa_adj;切列米莎;;;;;;;;;;x
 PROV589;克尔热涅茨;;;;;;;;;;x
-PROV591;克里米斯;;;;;;;;;;x
+PROV591;切列米莎;;;;;;;;;;x
 black_honor;违反封建义务;;;;;;;;;;x
 EVTOPTF40020;揭发刺客的雇主!;;;;;;;;;;x
 EVTTOOLTIP40026;刺客雇主的身份被揭发.;;;;;;;;;;x
 EVTDESC40026;我们的刺客不仅被发现了, 还供出了我们是幕后主使.  如今 [From.GetBestName] 正在向 [Root.PrimaryTitle.GetFullName] 的每一个人展示我们违背对封臣的封建义务的证据.;;;;;;;;;;x
 EVTOPTA40026;真是个坏消息...;;;;;;;;;;x
-deceitful_martial;徒有其表的统率;;;;;;;;;;x
+deceitful_martial;徒有其表的军事;;;;;;;;;;x
 deceitful_stewardship;虚假的财政能力;;;;;;;;;;x
 deceitful_diplomacy;有名无实的交际;;;;;;;;;;x
 deceitful_learning;赝劣的学识;;;;;;;;;;x
@@ -285,7 +285,7 @@ CANNOT_DISBAND_IN_COMBAT;§R(在战斗中不能被解散)§!;;;;;;;;;;x
 plot_gain_title_title;获取 [This.GetFullName];;;;;;;;;;x
 plot_gain_title_desc;[From.GetBestName] 正在密谋计划成为 [This.GetFullName].;;;;;;;;;;x
 LOAD_OLD_SAVE_TITLE;旧存档警告;;;;;;;;;;x
-LOAD_OLD_SAVE_DESC;你选择的存档是基于$VERSION$版本,当前版本是$VERSION$.\n读取此存档可能导致奇怪的行为甚至崩溃.一定要读取吗?;;;;;;;;;;x
+LOAD_OLD_SAVE_DESC;你选择的存档是基于$VERSION$版本，当前版本是$VERSION$。\n读取此存档可能导致奇怪的行为甚至崩溃。一定要读取吗？;;;;;;;;;;x
 UNKNOWN;未知;;;;;;;;;;x
 EVTDESC4075;今天完全没有收获, 我和我的客人们度过了一次毫无意义的狩猎, 就在我为此脸红的时候猎场管理人告诉我一处鹿苑.;;;;;;;;;;x
 EVTDESC4105;各种各样的艺人来到了 [Root.Location.GetName] 的夏季集市.一阵欢笑传来,把我的注意力引导了一场人偶戏表演中, 观众们正在边大笑别狂吹口哨. 看了一会儿之后, 我发现其中一个角色演得就是我!;;;;;;;;;;x
@@ -403,8 +403,8 @@ IMAM;伊玛目;;;;;;;;;;x
 IMAM_FOA;殿下;;;;;;;;;;x
 LOADING_TIP_22;孩子出生时就拥有其父母家族威望的一部分.;;;;;;;;;;x
 LOADING_TIP_23;男性继承法意味着只有男性有继承权.;;;;;;;;;;x
-LOADING_TIP_24;男性优先继承法意味着女性只在没有男性继承人时拥有权继承.;;;;;;;;;;x
-LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权.;;;;;;;;;;x
+LOADING_TIP_24;男性优先继承法意味着女性只在没有男性继承人时拥有权继承。;;;;;;;;;;x
+LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权。;;;;;;;;;;x
 LOADING_TIP_26;长子继承法意味着最年长的合法孩子有继承权.;;;;;;;;;;x
 LOADING_TIP_27;分封继承法意味着继承权在所有孩子之间分割.;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_LETTER;我们决定即刻剥夺你的[ThirdPartyTitle.GetFullName]头衔. 拒绝和平交出头衔将引发战争.;;;;;;;;;;x
@@ -651,7 +651,7 @@ opinion_liege_has_heretic_advisor;领主任用异端顾问;;;;;;;;;;x
 EVTDESC39445;我的领主任命一个异教徒作[Root.Liege.GetHerHis]顾问!;;;;;;;;;;x
 EVTOPTA39445;令人震惊!我要上书!;;;;;;;;;;x
 EVTOPTB39445;反正和我没关系;;;;;;;;;;x
-EVTDESC39446;我的领主,我对您任命异教徒担任顾问十分忧虑.\n\n此致\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39446;我的领主,我对您任命异教徒担任顾问十分忧虑.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39446;这太糟糕了;;;;;;;;;;x
 AIREASON_POSITIVE_OPINION;对§Y[GetTitledFirstName]§!好感为正值;;;;;;;;;;x
 AIREASON_NEGATIVE_OPINION;对§Y[GetTitledFirstName]§!好感为负值;;;;;;;;;;x
@@ -663,7 +663,7 @@ UPGRADING_TO;升级为:;;;;;;;;;;x
 CONSTRUCTION_STALLED;§R由于被敌军占领而暂停建造§!;;;;;;;;;;x
 desc_job_chancellor; §Y$JOB$§!是你在外交事务上的顾问.这个职位在传统上被认为是宫廷最高职务.;;;;;;;;;;x
 desc_job_marshal; §Y$JOB$§!是主管军事的重臣.当统治者不能或者不愿意指挥军队时, §Y$JOB$§! 将担任统率.;;;;;;;;;;x
-desc_job_treasurer; §Y$JOB$§!帮助你收税和管理直辖领地.;;;;;;;;;;x
+desc_job_treasurer; §Y$JOB$§!帮助你收税和管理直辖领地。;;;;;;;;;;x
 desc_job_spymaster; §Y$JOB$§!是非正式职务.这个职位负责所有阴谋和诡计.;;;;;;;;;;x
 desc_job_spiritual; §Y$JOB$§!是你在宗教信仰上的私人顾问，不过并不一定由教士担任.;;;;;;;;;;x
 job_spiritual_pagan_group;首席占卜师;;;;;;;;;;x
@@ -1214,7 +1214,7 @@ EVTNAME62009;强盗袭击了营地;;;;;;;;;;x
 EVTNAME62010;塔斯肯袭击者;;;;;;;;;;x
 EVTNAME62014;我来带队强攻;;;;;;;;;;x
 EVTNAME62015;我需要决定是否亲自率领强攻;;;;;;;;;;x
-STAT_WEALTH_DESC;这是你的私人财富;;;;;;;;;;x
+STAT_WEALTH_DESC;这是你的私人财富。;;;;;;;;;;x
 LEDGER_FORTLEVEL;要塞等级;;;;;;;;;;x
 LEDGER_PROVINCE_MAXSETTLEMENTS;最大值;;;;;;;;;;x
 LEDGER_OPINION;好感;;;;;;;;;;x

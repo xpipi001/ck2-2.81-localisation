@@ -7,8 +7,8 @@ SPLIT_IN_HALF_UNIT;平分部队;;;;;;;;;;x
 SPLIT_IN_HALF_UNIT_DRO;将这支部队分为实力大致相同的两支。如果部队中有兵力很大的军团，那么新分出的两支部队可能实力会不均等。;;;;;;;;;;x
 succ_appointment;任命制;;;;;;;;;;x
 succ_appointment_desc;封臣死亡时，头衔将全部归还给他的领主。;;;;;;;;;;x
-papal_succession;教宗选举制;;;;;;;;;;x
-succ_papal_succession;教宗选举制;;;;;;;;;;x
+papal_succession;教宗选任法;;;;;;;;;;x
+succ_papal_succession;教宗选任法;;;;;;;;;;x
 succ_papal_succession_desc;教宗由枢机主教团根据年龄、虔诚、声望及其他因素选出。;;;;;;;;;;x
 COMMANDER;指挥官;;;;;;;;;;x
 FAMILY_PALACE;家族宫殿;;;;;;;;;;x
@@ -111,7 +111,7 @@ EVTDESC39662;罗马，圣彼得的城市，教宗的圣座，被异教徒占领�
 EVTDESC39663;西方基督教的腹地被异教徒攻陷了！绝望的基督教领主们说服了宗座[Root.GetTitledName]在神的名义下联合基督教领主们，用强大的力量驱逐异教徒。大规模的基督教圣战开始了——十字军。;;;;;;;;;;x
 EVTNAME39670;新的吉哈德;;;;;;;;;;x
 EVTDESC39670;伟大的陛下[Root.GetTitledName]已经被[Root.Religion.GetPriestTitle]们说服，现在正是时候宣布穆斯林们新的征服。如同正统哈里发时期那样，伊斯兰世界必须再一次的扩张。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
-EVTOPTA39670;真主至大！;;;;;;;;;;x
+EVTOPTA39670;安拉至大！;;;;;;;;;;x
 EVTOPTB39670;真让人烦心。;;;;;;;;;;x
 EVTDESC39671;圣城耶路撒冷，先知夜行登霄之处，已经被异教徒攻陷！伟大的陛下[Root.GetTitledName]绝不会坐视不管！他宣布穆斯林将会像正统哈里发时期一样，再一次开始伟大的征服，守护伊斯兰世界！所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
 EVTDESC39672;难以置信！圣城麦加居然被异教徒攻陷！天房如今正收到异教徒的玷污。伟大的陛下[Root.GetTitledName]宣布全新的吉哈德将要开始，必须不惜一切代价夺回圣城。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
@@ -981,7 +981,7 @@ bad_priest_zoroastrian_desc; 这个神甫的性格和品行与他的地位极不
 bad_priest_aztec;下流巫师;;;;;;;;;;x
 bad_priest_aztec_desc; 这个巫师的性格和品行与他的地位极不相称，更糟糕的是，他竟无能掩饰这一点以至进入了公众视线。;;;;;;;;;;x
 CAPITAL_COUNTY;郡领地;;;;;;;;;;x
-CAPITAL_DUCHY;公爵领;;;;;;;;;;x
+CAPITAL_DUCHY;首都所在公爵领;;;;;;;;;;x
 CAPITAL_KINGDOM;王都;;;;;;;;;;x
 CAPITAL_EMPIRE;帝都;;;;;;;;;;x
 OUTSIDE_CAPITAL_REGIONS;都外地区;;;;;;;;;;x
@@ -1249,7 +1249,7 @@ FE_LOCAL;本地;;;;;;;;;;x
 FE_REMOTE;云端;;;;;;;;;;x
 SPLIT_QUICK_MENU;分离特别部队;;;;;;;;;;x
 SPLIT_MERCENARIES_OPTION;分离雇佣兵;;;;;;;;;;x
-SPLIT_HOLY_ORDERS_OPTION;分离骑士团;;;;;;;;;;x
+SPLIT_HOLY_ORDERS_OPTION;分离圣战士;;;;;;;;;;x
 SPLIT_RETINUES_OPTION;分离随员;;;;;;;;;;x
 SPLIT_EVENT_SPAWNED_OPTION;分离事件产生部队;;;;;;;;;;x
 VASSAL_OPINION_CHANGE;所有封臣对§Y$ACTIVE$§!的好感都改变了$MUCH$;;;;;;;;;;x

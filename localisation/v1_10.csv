@@ -769,7 +769,7 @@ EVTOPTA412;好消息亲爱的!;;;;;;;;;;x
 EVTDESC413;命运向我微笑	我的侍妾 [From.GetFirstName] 怀孕了!;;;;;;;;;;x
 EVTTOOLTIP413;告诉[Root.FatherOfUnborn.GetFirstName] 他将成为父亲;;;;;;;;;;x
 SEARCH_COURT;搜索宫廷;;;;;;;;;;x
-HINT_MIL_VIEW_TEXT_4;'骑士团' 标签页列出了伟大的宗教圣战士.他们能够像雇佣军那样雇佣，但是召集它将花费[Player.Religion.GetPietyName]而不是金钱，但你还是要支付他们的维护费.圣战士的出现以他们历史上的时间为基准.;;;;;;;;;;x
+HINT_MIL_VIEW_TEXT_4;'圣战士' 标签页列出了伟大的宗教圣战士.他们能够像雇佣军那样雇佣，但是召集它将花费[Player.Religion.GetPietyName]而不是金钱，但你还是要支付他们的维护费.圣战士的出现以他们历史上的时间为基准.;;;;;;;;;;x
 LOADING_TIP_12;圣战士只能与异端和异教徒战斗.在战斗中小心使用他们!;;;;;;;;;;x
 EVTDESC62300;你对抗 [From.GetTitledName]的入侵计划不再有可能性.入侵在它开始前就已经失败了....;;;;;;;;;;x
 EVTOPTA62300;奥丁恕罪!;;;;;;;;;;x
@@ -1161,7 +1161,7 @@ EVTOPTB_TOG_651;*hic* 我...听….听过这首歌！;;;;;;;;;;x
 EVTDESC_TOG_653;侍者们开始上菜之后，你的嘴巴就一直没有停.其他的客人一直在聊天，而你这边却一直在打嗝.你突然感到一阵恶心，于是匆匆忙忙想离开，但是只爬到了[From.GetTitledFirstName]的腿旁...;;;;;;;;;;x
 EVTOPTA_TOG_653;啊啊啊啊奥奥奥奥奥...;;;;;;;;;;x
 EVTTOOLTIP_TOG_654;呕吐物;;;;;;;;;;x
-EVTDESC_TOG_654; [From.GetTitledFirstName][From.GetSheHe]贪婪地喂饱[From.GetHerselfHimself]	将食物塞进胃里，把食物和剔净的骨头到处乱扔.突然间 [From.GetHerHis] 的脸上出现了奇怪的绿色，[From.GetSheHe]直接冲向出口，在[From.GetSheHe]之后，[From.GetHerHis] 却只移动到了你的座位旁，将胃里的食物吐在你的身边...;;;;;;;;;;x
+EVTDESC_TOG_654;[From.GetTitledFirstName][From.GetSheHe]贪婪地喂饱[From.GetHerselfHimself]将食物塞进胃里，把食物和剔净的骨头到处乱扔。突然间[From.GetHerHis]的脸上出现了奇怪的绿色，[From.GetSheHe]直接冲向出口，在[From.GetSheHe]之后，[From.GetHerHis]却只移动到了你的座位旁，将胃里的食物吐在你的身边……;;;;;;;;;;x
 EVTOPTA_TOG_654;那条是我最喜欢的裤子!;;;;;;;;;;x
 EVTDESC_TOG_655;[From.GetTitledFirstName]贪婪的把桌上的佳肴装进[From.GetHerselfHimself]的胃里	在[From.GetSheHe]身边食物残渣和啃的干干净净的骨头四溅. [From.GetHerHis]脸色突然发绿	[From.GetSheHe]冲向出口	但是刚跑到[FromFrom.GetTitledFirstName]的座位旁边[From.GetSheHe]就开始呕吐	[From.GetHerHis]呕吐物全都吐在了[FromFrom.GetFirstName]的腿上...;;;;;;;;;;x
 EVTOPTA_TOG_655;那本有可能是我...;;;;;;;;;;x
@@ -1499,7 +1499,7 @@ BM_RISE_OF_THE_HANSA;汉萨同盟的兴起;;;;;;;;;;x
 BM_RISE_OF_THE_HANSA_DESC;德国北部的帝国自由市吕贝克和汉堡的市民刚刚组成了一个贸易联盟，这就是之后著名的汉萨同盟.同时，可怕的蒙古部落像一把镰刀一样扫过东欧，不费吹灰之力的消灭了所有的抵抗.就在连罗马帝国皇帝弗里德里希二世都由于害怕而退缩的时候，这场入侵突然莫名其妙的结束了，因为金帐汗国的拔都汗和伊尔汗国的旭烈兀汗都返回喀喇昆仑去选出一位新的大汗.;;;;;;;;;;x
 REGIMENT_OF_LEADER;$LEADER$的兵团;;;;;;;;;;x
 TITLE_ADJ_REGIMENT;$ADJ$兵团;;;;;;;;;;x
-catholic_DESC;天主教是基督教最古老对欧洲历史影响最大的分支. 该宗教的首领是罗马主教 - 教宗.;;;;;;;;;;x
+catholic_DESC;天主教是基督教最古老对欧洲历史影响最大的分支。该宗教的首领是罗马主教——教宗。;;;;;;;;;;x
 waldensian_DESC;瓦勒度派异端原本只是天主教会中的一股改革浪潮，他们反对教职人员，提倡回归财产誓言.他们反对死刑，认为普通教徒也能管理圣礼.这个异端没有正式的领袖和专门对应的的游戏机制;;;;;;;;;;x
 lollard_DESC;罗拉德派异端反对天主教会的腐败.和许多天主教异端一样，他们憎恨生活奢华，拥有大量财富的教职人员，希望回归更原始更纯粹的基督教.这个异端没有正式的领袖和专门对应的的游戏机制.;;;;;;;;;;x
 orthodox_DESC;正教会是另外一个参加查尔西顿会议的基督教主要分支	直到公元1054年还在形式上和天主教会合为一体	虽然两者政治上的分歧可以追溯到公元800年查理曼被教宗利奥三世加冕为罗马人的皇帝	这引起了君士坦丁堡的皇帝的不满. 正教会的名义首领是君士坦丁堡普世牧首	但是他不干涉其他牧首的事务.;;;;;;;;;;x
@@ -1650,7 +1650,7 @@ EVTOPTC200;愚蠢的异端！;;;;;;;;;;x
 EVTOPTD200;拿起武器！;;;;;;;;;;x
 EVTOPTE200;可怕的消息！;;;;;;;;;;x
 EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
-EVTOPTA320;真主至大！;;;;;;;;;;x
+EVTOPTA320;安拉至大！;;;;;;;;;;x
 EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
 EVTDESC323;至正的[Root.Religion.GetName] [Root.GetTitledFirstName]深深的担心[From.GetFullBaseName]迷失信仰的人们，他们中的多数都难以称之为穆斯林.他号召所有真正的([Root.Religion.GetName])穆斯林为了伊斯兰的荣光拿起武器反抗异教徒[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
 EVTDESC324;伟大的[Root.GetTitledFirstName]认为是时候教教[New.GetTitledName]以及那些信仰钉死在十字架上的神的信徒什么是谦虚.所有自由的[Root.Religion.GetName]都被邀请加入洗劫[From.GetFullBaseName]！\n\n [Root.Religion.GetRandomGodNameCap]与我们同在！;;;;;;;;;;x
@@ -1793,7 +1793,7 @@ viking_desc;这个角色获得了可怕的维京海盗称号;;;;;;;;;;x
 EVTNAME39640;什叶派的崛起;;;;;;;;;;x
 EVTDESC39640;伊斯兰的宗派分裂要追溯到早期.大多是逊尼派信徒长期虐待阿里的追随者——什叶派，迫使他们躲起来.游击队寻找阿里的后人来领导他们，但他们却被迫保守他们血统的秘密.不过现在，什叶派聚集到了一个孩子周围，声称他是阿里的后人和伊玛目.其他伊斯兰法学家说这个孩子是个骗子，但对于追随者来说他就是他们一直在等的人，并聚集到了他的旗帜下.;;;;;;;;;;x
 EVTOPTA39640;他不过是个小孩子！;;;;;;;;;;x
-EVTOPTB39640;为了真主和阿里！;;;;;;;;;;x
+EVTOPTB39640;为了安拉和阿里！;;;;;;;;;;x
 EVTOPTC39640;分裂者必须被摧毁.;;;;;;;;;;x
 EVTOPTD39640;哈！傻瓜才回去打假.;;;;;;;;;;x
 count_female_pagan_group;女酋长;;;;;;;;;;x

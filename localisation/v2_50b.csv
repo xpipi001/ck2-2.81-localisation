@@ -550,7 +550,7 @@ CHILDHOOD_FOCUS_FAITH;童年重点：信仰;;;;;;;;;;x
 CHILDHOOD_FOCUS_STRUGGLE;童年重点：奋斗;;;;;;;;;;x
 CHILDHOOD_FOCUS_HERITAGE;童年重点：传统;;;;;;;;;;x
 EDUCATION_FOCUS_DIPLOMACY;教育重点：外交;;;;;;;;;;x
-EDUCATION_FOCUS_MARTIAL;教育重点：武力;;;;;;;;;;x
+EDUCATION_FOCUS_MARTIAL;教育重点：军事;;;;;;;;;;x
 EDUCATION_FOCUS_STEWARDSHIP;教育重点：管理;;;;;;;;;;x
 EDUCATION_FOCUS_INTRIGUE;教育重点：计谋;;;;;;;;;;x
 EDUCATION_FOCUS_LEARNING;教育重点：学习;;;;;;;;;;x
@@ -568,7 +568,7 @@ LOG_IN;登陆;;;;;;;;;;x
 LOG_OUT;登出;;;;;;;;;;x
 NOT_LOGGED_IN;未登录;;;;;;;;;;x
 LOGGED_IN;已登录;;;;;;;;;;x
-NEWSFEED_LOADING;加载动态消息...;;;;;;;;;;x
+NEWSFEED_LOADING;读取动态消息……;;;;;;;;;;x
 PARADOX_ACCOUNT;Paradox账号;;;;;;;;;;x
 CREATE_ACCOUNT;创建账号;;;;;;;;;;x
 PERFORMING_LOGIN;登录中...;;;;;;;;;;x
@@ -1192,12 +1192,12 @@ EVTOPTE_ZE_12070;我可以逗她.;;;;;;;;;;x
 EVTOPTF_ZE_12070;努力工作是好习惯.;;;;;;;;;;x
 EVTOPTE_ZE_12070_TOOLTIP1;园丁怕痒.;;;;;;;;;;x
 EVTOPTE_ZE_12070_TOOLTIP2;园丁不喜欢挠痒痒.;;;;;;;;;;x
-EVTDESCA_ZE_12072;当我告诉 [From.GetFirstName] 该回家时, [From.GetSheHe] 笑盈盈地看着我 [From.GetHerHis] 告诉我, 看谁先跑回家. 说完 [From.GetHerHim] 就跑了, 留下一地的东西让我背回去.;;;;;;;;;;x
+EVTDESCA_ZE_12072;当我告诉[From.GetFirstName]该回家时，[From.GetSheHe]笑盈盈地看着我，并且告诉我，让我与[From.GetHerHim]赛跑回家。说完[From.GetHerHim]就跑了，留下一地的东西让我背回去。;;;;;;;;;;x
 EVTDESCB_ZE_12072;经过几个小时后我终于追上了 [From.GetFirstName]. 当我与 [From.GetHerHim] 一起走在回家的路上时,  [From.GetSheHe] 默默地拿了一个包帮我提着.;;;;;;;;;;x
 EVTDESCC_ZE_12072;[playful_events_char_2.GetFirstName] 拿出一枚金币说 '我赌这枚金币, 你无法屏住呼吸直到我走出去'.;;;;;;;;;;x
 EVTDESCD_ZE_12072;[From.GetFirstName] 不在 [From.GetHerHis] 的房间让我有些担心. 当 [From.GetSheHe] 回应我时, 我发现 [From.GetHerHim] 盯着一名窃贼并试图隐瞒我.;;;;;;;;;;x
-EVTOPTA_ZE_12072;跑 [From.GetHerHim].;;;;;;;;;;x
-EVTOPTB_ZE_12072;告诉 [From.GetHerHim] 要做所做的事承担责任.;;;;;;;;;;x
+EVTOPTA_ZE_12072;和[From.GetHerHim]赛跑。;;;;;;;;;;x
+EVTOPTB_ZE_12072;训斥[From.GetHerHim]要为所做的事承担责任。;;;;;;;;;;x
 EVTOPTC_ZE_12072;保佑这个孩子.;;;;;;;;;;x
 EVTOPTD_ZE_12072;一些小钱.;;;;;;;;;;x
 EVTOPTE_ZE_12072;通知 [playful_events_char_2.GetFirstName].;;;;;;;;;;x
@@ -1467,7 +1467,7 @@ CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP;要求还人情;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG;$ACTOR|Y$ 已经要求 $RECIPIENT|Y$ 还个人情;;;;;;;;;;x
 BUY_FAVOR_INTERACTION_DECLINE_SETUP;人情不是用来卖的;;;;;;;;;;x
 BUY_FAVOR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetDynName]§! 已经拒绝卖人情给 §Y[Actor.GetDynName]§!;;;;;;;;;;x
-LOAD_OLD_SAVE_TO_ZEUS_TITLE;新版本读旧档;;;;;;;;;;x
+LOAD_OLD_SAVE_TO_ZEUS_TITLE;读取旧版本存档;;;;;;;;;;x
 LOAD_OLD_SAVE_TO_ZEUS_DESC;你正要在新版本的游戏中读入过去版本的存档。这将导致不可预知的结果 我们不推荐这样做。是否继续？;;;;;;;;;;x
 LOAD_ZEUS_SAVE_TO_OLD_VERSION;§R这个存档创立时使用了秘密会议DLC，继续游戏此DLC。§!;;;;;;;;;;x
 FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$ 不会投票支持法律更改;;;;;;;;;;x
@@ -1509,7 +1509,7 @@ EVTDESC_SOA_4113;成功镇压了 [Root.GetName] 的异端之后，宗教裁判�
 EVTDESC_SOA_4131;派往 [Root.GetName] 的神学家 代表 [FromFrom.PrimaryTitle.GetRulerTitle] 灰溜溜夹着尾巴回来了 ;;;;;;;;;;x
 EVTDESC_SOA_4133;派往 [Root.GetName] 的神学家 代表 [FromFrom.PrimaryTitle.GetRulerTitle] 得胜归来了。异端放弃了他们错误的信仰！;;;;;;;;;;x
 RESIGN_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 已经解除了 §Y[Recipient.GetTitledFirstName]§!  [Recipient.GetHerHis]职务 作为一位指挥官;;;;;;;;;;x
-EVTDESCdiploresponse.1;[From.GetBestName]，接受了你组成联盟的邀请;;;;;;;;;;x
+EVTDESCdiploresponse.1;我，[From.GetBestName]，接受你组建联盟的邀请！;;;;;;;;;;x
 EVTDESCdiploresponse.2;[From.GetBestName]，很遗憾拒绝了你的结盟邀约！;;;;;;;;;;x
 EVTOPTC_ZE_12002;我该稍后给[From.GetHerHim]带一些糖来;;;;;;;;;;x
 EVTDESC_ZE_3001;一位商人来到了宫廷 并恳切请求为 [target_treasurer.GetTitledFirstName] 最近的一笔贷款作出偿还计划。似乎[target_treasurer.GetHerHis]劳动成果可能被夸大了，而这笔贷款是登记在你的名下，你必须要连本带息偿还债务。对于[target_treasurer.GetTitledFirstName]会有什么后果呢？;;;;;;;;;;x

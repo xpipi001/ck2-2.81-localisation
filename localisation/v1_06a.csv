@@ -29,7 +29,7 @@ EVTNAME20043;[Root.Liege.GetLordSpiritualName] 已被暴民所蹂躏;;;;;;;;;;x
 EVTNAME20048;[Root.Liege.GetLordSpiritualName] 私吞善款;;;;;;;;;;x
 EVTNAME902;异教徒攻击[Root.Liege.GetLordSpiritualName];;;;;;;;;;x
 EVTOPTA8300;上帝所愿!;;;;;;;;;;x
-EVTOPTA8301;赞美真主!;;;;;;;;;;x
+EVTOPTA8301;赞美安拉!;;;;;;;;;;x
 EVTDESC8300;我们的军队正蓄势待发为了 [Root.Location.Kingdom.GetFullBaseName] 而参加 [Root.Religion.GetCrusadeName] .;;;;;;;;;;x
 ca_culture_west_african_1;小型兵营;;;;;;;;;;x
 ca_culture_west_african_2;兵营;;;;;;;;;;x
@@ -110,7 +110,7 @@ EVTOPTA86825;我们要有信心.;;;;;;;;;;x
 EVTOPTB86825;哈哈... 井当然是干的...;;;;;;;;;;x
 EVTTOOLTIP86826;坐下来祷告.;;;;;;;;;;x
 EVTDESC86826;当你坐下来祷告时, 你认出不远处有另一支队伍. 虽然你怀疑那只是海市唇楼, 但你们还是决定跟随他们, 结果他们把你们带到了另一处绿洲, 就在你先前认为的绿洲所在地的东南一点的位置.;;;;;;;;;;x
-EVTOPTA86826;赞美真主！;;;;;;;;;;x
+EVTOPTA86826;赞美安拉！;;;;;;;;;;x
 EVTTOOLTIP86827;已经绝望了.;;;;;;;;;;x
 EVTDESC86827;经历了愤怒和绝望后, 你捡起一块大石头奋力地扔过沙丘的顶端, 却听到对面传来一声尖叫. 你穿过去后才发现, 那是一块有着清澈水源的真正的绿洲... 旁边还有一个不省人事的贝都因人.;;;;;;;;;;x
 EVTOPTA86827;好吧... 谁想到呢;;;;;;;;;;x

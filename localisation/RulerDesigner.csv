@@ -47,7 +47,7 @@ RD_LINK_COLOR;连接所有栏位的颜色;;;;;;;;;;x
 RD_MARRIED;勾选以使人物处于已婚状态;;;;;;;;;;x
 RD_CLEARTRAITS;移除所有特征\n右击某项特质以单独去除;;;;;;;;;;x
 RD_DIPLOMACY;外交:;;;;;;;;;;x
-RD_MARTIAL;统率:;;;;;;;;;;x
+RD_MARTIAL;军事:;;;;;;;;;;x
 RD_STEWARDSHIP;财政:;;;;;;;;;;x
 RD_INTRIGUE;智谋:;;;;;;;;;;x
 RD_LEARNING;学识:;;;;;;;;;;x
