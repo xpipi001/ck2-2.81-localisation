@@ -7,8 +7,8 @@ nomad_population_boom;人口爆炸;;;;;;;;;;x
 nomad_population_boom_spillover;人口过载流失;;;;;;;;;;x
 PROVINCE_ABANDONED_TOOLTIP;放弃这个省份，让一个邻国获得它。;;;;;;;;;;x
 ANY_SETTLEMENT;任意地产;;;;;;;;;;x
-CB_NAME_INSTALLKHAN;拥立大汗;;;;;;;;;;x
-cb_install_khan_desc;各部族可以武力废黜大汗并用更有实力的人代替。;;;;;;;;;;x
+CB_NAME_INSTALLKHAN;拥立可汗;;;;;;;;;;x
+cb_install_khan_desc;各部族可以武力废黜可汗并用更有实力的人代替。;;;;;;;;;;x
 elephant_trample_tactic;战象践踏战术;;;;;;;;;;x
 INTERACTION_NOT_ALREADY_ENEMIES;不是敌人;;;;;;;;;;x
 CLAN_SAME_FAITH;相同的信仰;;;;;;;;;;x
@@ -36,7 +36,7 @@ EMPTY_PROVINCES_IN_REALM;领土内的游牧省份;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_1N;收回§Y[ThirdPartyTitle.GetFullName]§!会消耗§R$PRESTIGE$§!声望。这将会降低§Y[Recipient.GetTitledFirstName]§!对你的§R$OPINION$§!好感，与其他非游牧封臣§R$OPINION2$§!好感。;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_LONG_DESC;被驱逐出境的角色可以活着离开，但他们的被迫放弃全部头衔，并且财产将被没收。;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_2;无理由驱逐封臣统治者会被视为暴君，降低其他封臣对你§R$OPINION$§!好感。;;;;;;;;;;x
-declare_feud_desc;若和其他部族有世仇，允许你发动争夺战争（除非你是大汗——你无法对下属部族发动战争或劫掠。）;;;;;;;;;;x
+declare_feud_desc;若和其他部族有世仇，允许你发动争夺战争（除非你是可汗——你无法对下属部族发动战争或劫掠。）;;;;;;;;;;x
 SETTLE_FEUD_INTERACTION_DESC;提出和解并结束我们与 [Recipient.Clan.GetName] 的世仇。这将花费我们§R$COST$§!¤;;;;;;;;;;x
 SETTLE_FEUD_INTERACTION_LONG_DESC;提出和解并支付给[Recipient.Clan.GetName]一大笔钱——血腥钱……;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_DESC;同化§Y[Recipient.Clan.GetName]§!部族——如果你有很多部族的话这会非常有用。;;;;;;;;;;x

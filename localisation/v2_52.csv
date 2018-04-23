@@ -48,39 +48,39 @@ EVTOPTA_ZE_22702;我该向[target_unlanded_friend.GetHerHim]提供土地！;;;;;
 EVTOPTB_ZE_22702;唉，[target_unlanded_friend.GetFirstName]从未想过要当个统治者...;;;;;;;;;;x
 indebted_to_family_tooltip;§Y[target_unlanded_friend.GetFirstName]§!对你所有§Y王朝成员§!的看法改变了§G50§! §Y(忠实的仆人)§!\n;;;;;;;;;;x
 INFAMY;§Y威胁值§!;;;;;;;;;;x
-INFAMY_DESC;§Y威胁值§!是一个表示对某领域畏惧程度的量。这个值越高，附近的统治者就越可能签订§Y防御性协议§!来阻碍其进一步扩张。领域向外扩张太快会增加§Y威胁值§!——领域面积越大，就会得到更多的§Y威胁值§!。当领域面积收缩，§Y威胁值§!也会降低，随着时间的推移而衰退。领域实力越强大，衰退就越慢。;;;;;;;;;;x
+INFAMY_DESC;§Y威胁值§!是一个表示对某领域畏惧程度的量。这个值越高，附近的统治者就越可能签订§Y共同防御协定§!来阻碍其进一步扩张。领域向外扩张太快会增加§Y威胁值§!——领域面积越大，就会得到更多的§Y威胁值§!。当领域面积收缩，§Y威胁值§!也会降低，随着时间的推移而衰退。领域实力越强大，衰退就越慢。;;;;;;;;;;x
 INTERACTION_CANT_DOW_IN_COALITION;作为防御性协议的一方，没有在战斗;;;;;;;;;;x
-INTERACTION_CANT_LEAVE_COALITION_AT_WAR;不是反§Y[Recipient.GetTitledFirstName]§!防御性协议战争中的成员;;;;;;;;;;x
-MAPMODE_COALITIONS;§Y防御性协议§!;;;;;;;;;;x
-MAPMODE_COALITIONS_DESC;这个地图模式可以显示出任何已签订的针对所选领域的防御性协议。;;;;;;;;;;x
-COALITION_TARGET;已签订针对这个领域的防御性协议;;;;;;;;;;x
-VALID_COALITION_TARGET;形成足够的威胁从而签订一个防御性协议来与之对抗;;;;;;;;;;x
-COALITION_TARGETS;参与反$TARGETS|Y$的防御性协议;;;;;;;;;;x
-PACTS_TAB_DRO;联盟，互不侵犯协议，防御性协议等协议在这里显示。;;;;;;;;;;x
-REMOVE_ACTOR_FROM_COALITION;这会把我从反§Y[Recipient.GetTitledFirstName]§!的防御性协议中踢出。;;;;;;;;;;x
-REMOVE_RECIPIENT_FROM_COALITION;这会把§Y[Recipient.GetTitledFirstName]§!从反我方的防御性协议中踢出。;;;;;;;;;;x
-JOINED_WAR_DEFENSIVE_COALITION_SETUP;加入防御性协议战争;;;;;;;;;;x
-JOINED_WAR_DEFENSIVE_COALITION_LOG;$ALLY|Y$已经接受$CALLER|Y$的反$TARGET|Y$军事召唤。由于防御性协议，$ALLY|Y$别无选择。;;;;;;;;;;x
-START_COALITION;签订防御性协议与之对抗;;;;;;;;;;x
-LEAVE_COALITION;撤出防御性协议;;;;;;;;;;x
-JOIN_COALITION;加入现存的防御性协议;;;;;;;;;;x
-START_COALITION_LONG_DESC;防御性协议是一个联合的群体去对抗一个扩张过大以至于形成巨大威胁的公敌。如果防御性协议的目标攻打任何一个协议成员，所有成员将会在战争中联合去阻止他们的公敌。;;;;;;;;;;x
-start_coalition_opposing;你要开始一个反$TARGET|Y$的防御性协议吗？;;;;;;;;;;x
-leave_coalition_opposing;你要撤出反$TARGET|Y$的防御性协议吗？;;;;;;;;;;x
-join_coalition_opposing;你要加入现存的反$TARGET|Y$防御性协议吗？;;;;;;;;;;x
-coalition_title;反对$TARGET$的防御协定;;;;;;;;;;x
-RELATION_COALITION_TARGET;$TARGET|Y$是防御性协议的针对目标，$MEMBER|Y$是协议中的一员。;;;;;;;;;;x
-RELATION_COALITION_MEMBER;$MEMBER|Y$是反$TARGET|Y$的防御性协议的一员;;;;;;;;;;x
-COALITION_STARTED_SETUP;防御性协议已签订;;;;;;;;;;x
-COALITION_STARTED_LOG;$MEMBER|Y$签订了反$TARGET|Y$的防御性协议;;;;;;;;;;x
-COALITION_JOINED_SETUP;已加入防御性协议;;;;;;;;;;x
-COALITION_JOINED_LOG;§Y$MEMBER$§!加入现存的反§Y$TARGET$§!防御性协议;;;;;;;;;;x
-COALITION_LEFT_SETUP;撤出了防御性协议;;;;;;;;;;x
-COALITION_LEFT_LOG;§Y$MEMBER$§!撤出了反§Y$TARGET$§!的防御性协议;;;;;;;;;;x
-COALITION_DISSOLVED_SETUP;防御性协议解散;;;;;;;;;;x
-COALITION_DISSOLVED_LOG;反§Y$TARGET$§!的防御性协议已解散。;;;;;;;;;;x
-GAME_SETUP_COALITION_TARGET_ICON;是有$NUM_MEMBERS|Y$个成员组成的防御性协议的目标;;;;;;;;;;x
-GAME_SETUP_COALITION_MEMBER_ICON;是与其他$NUM_MEMBERS|Y$个成员组成的反$TARGET|Y$的防御性协议。;;;;;;;;;;x
+INTERACTION_CANT_LEAVE_COALITION_AT_WAR;不是反§Y[Recipient.GetTitledFirstName]§!共同防御协定战争中的成员;;;;;;;;;;x
+MAPMODE_COALITIONS;§Y共同防御协定§!;;;;;;;;;;x
+MAPMODE_COALITIONS_DESC;这个地图模式可以显示出任何已签订的针对所选领域的共同防御协定。;;;;;;;;;;x
+COALITION_TARGET;已签订针对这个领域的共同防御协定;;;;;;;;;;x
+VALID_COALITION_TARGET;形成足够的威胁从而签订一个共同防御协定来与之对抗;;;;;;;;;;x
+COALITION_TARGETS;参与反$TARGETS|Y$的共同防御协定;;;;;;;;;;x
+PACTS_TAB_DRO;联盟，互不侵犯协议，共同防御协定等协议在这里显示。;;;;;;;;;;x
+REMOVE_ACTOR_FROM_COALITION;这会把我从反§Y[Recipient.GetTitledFirstName]§!的共同防御协定中踢出。;;;;;;;;;;x
+REMOVE_RECIPIENT_FROM_COALITION;这会把§Y[Recipient.GetTitledFirstName]§!从反我方的共同防御协定中踢出。;;;;;;;;;;x
+JOINED_WAR_DEFENSIVE_COALITION_SETUP;加入共同防御协定战争;;;;;;;;;;x
+JOINED_WAR_DEFENSIVE_COALITION_LOG;$ALLY|Y$已经接受$CALLER|Y$的反$TARGET|Y$军事召唤。由于共同防御协定，$ALLY|Y$别无选择。;;;;;;;;;;x
+START_COALITION;签订共同防御协定与之对抗;;;;;;;;;;x
+LEAVE_COALITION;撤出共同防御协定;;;;;;;;;;x
+JOIN_COALITION;加入现存的共同防御协定;;;;;;;;;;x
+START_COALITION_LONG_DESC;共同防御协定是一个联合的群体去对抗一个扩张过大以至于形成巨大威胁的公敌。如果防御性协议的目标攻打任何一个协议成员，所有成员将会在战争中联合去阻止他们的公敌。;;;;;;;;;;x
+start_coalition_opposing;你要开始一个反$TARGET|Y$的共同防御协定吗？;;;;;;;;;;x
+leave_coalition_opposing;你要撤出反$TARGET|Y$的共同防御协定吗？;;;;;;;;;;x
+join_coalition_opposing;你要加入现存的反$TARGET|Y$共同防御协定吗？;;;;;;;;;;x
+coalition_title;反对$TARGET$的共同防御协定;;;;;;;;;;x
+RELATION_COALITION_TARGET;$TARGET|Y$是共同防御协定的针对目标，$MEMBER|Y$是协议中的一员。;;;;;;;;;;x
+RELATION_COALITION_MEMBER;$MEMBER|Y$是反$TARGET|Y$的共同防御协定的一员;;;;;;;;;;x
+COALITION_STARTED_SETUP;共同防御协定已签订;;;;;;;;;;x
+COALITION_STARTED_LOG;$MEMBER|Y$签订了反$TARGET|Y$的共同防御协定;;;;;;;;;;x
+COALITION_JOINED_SETUP;已加入共同防御协定;;;;;;;;;;x
+COALITION_JOINED_LOG;§Y$MEMBER$§!加入现存的反§Y$TARGET$§!共同防御协定;;;;;;;;;;x
+COALITION_LEFT_SETUP;撤出了共同防御协定;;;;;;;;;;x
+COALITION_LEFT_LOG;§Y$MEMBER$§!撤出了反§Y$TARGET$§!的共同防御协定;;;;;;;;;;x
+COALITION_DISSOLVED_SETUP;共同防御协定解散;;;;;;;;;;x
+COALITION_DISSOLVED_LOG;反§Y$TARGET$§!的共同防御协定已解散。;;;;;;;;;;x
+GAME_SETUP_COALITION_TARGET_ICON;是有$NUM_MEMBERS|Y$个成员组成的共同防御协定的目标;;;;;;;;;;x
+GAME_SETUP_COALITION_MEMBER_ICON;是与其他$NUM_MEMBERS|Y$个成员组成的反$TARGET|Y$的共同防御协定。;;;;;;;;;;x
 BADBOY_EFFECT;$DIRECTION$ $VALUE$ 威胁值。\n;;;;;;;;;;x
 TRANSFER_INFAMY;从$SOURCE$的威胁值;;;;;;;;;;x
 INFAMY_NON_RULER_DESC;不能获得威胁值因为$CHARACTER|Y$不是统治者。;;;;;;;;;;x
@@ -287,7 +287,7 @@ EVTOPTB_ZE_22902;没有必要.;;;;;;;;;;x
 EVTDESC_ZE_22903;当 [introduced_heir.GetFirstName] 介绍 [introduced_heir.GetHerselfHimself] 给 [compliment_vassal.GetBestName] 的时候  [introduced_heir.GetSheHe] 不止优雅地介绍了 [introduced_heir.GetHerselfHimself] , 也成功地令 [compliment_vassal.GetFirstName] 印象深刻 通过有技巧地向 [compliment_vassal.GetHerHim] 拍马屁!;;;;;;;;;;x
 EVTOPTA_ZE_22903;我教给 [introduced_heir.GetHerHim] 一切 [introduced_heir.GetSheHe] 所知道的!;;;;;;;;;;x
 EVTDESC_ZE_22904;当 [introduced_heir.GetFirstName] 介绍 [introduced_heir.GetHerselfHimself] 给 [insult_vassal.GetBestName] 的时候 [introduced_heir.GetSheHe] 不仅不小心把饮料撒到 [insult_vassal.GetFirstName] 的鞋子上, 还冒犯了 [insult_vassal.GetFirstName] 所有的祖先!;;;;;;;;;;x
-EVTOPTA_ZE_22904;这熊孩子就是个丧门星!;;;;;;;;;;x
+EVTOPTA_ZE_22904;这熊孩子就是个祸患！;;;;;;;;;;x
 EVTDESC_ZE_22905;看上去好像 [introduced_heir.GetFirstName] 开始跟一个来访封臣的小孩相处的非常融洽 ! 毫无疑问, 很显然 [introduced_heir.GetFirstName] 和 [befriended_child.GetBestName] 很快成了好朋友.;;;;;;;;;;x
 EVTOPTA_ZE_22905;真不错!;;;;;;;;;;x
 EVTDESC_ZE_22906;你正在惬意地与人交谈 忽然被一阵鬼哭狼嚎所打断, 打探一下发现好像是 [introduced_heir.GetFirstName] 跟一位来访封臣的小孩打起来了! 你把两个小孩分开, 但很显然 [introduced_heir.GetFirstName] 跟 [rival_child.GetBestName] 在这次遭遇之后再也不可能成为朋友了...;;;;;;;;;;x
@@ -343,7 +343,7 @@ gov_elective_muslim_despotic_autocracy;选举独裁帝国专制;;;;;;;;;;x
 gov_elective_muslim_aristocratic_autocracy;选举贵族帝国专制;;;;;;;;;;x
 INTERACTION_COALITION_RANGE;对我们的威胁近在眼前;;;;;;;;;;x
 GAME_SETUP_COALITIONS_TARGET_ICON;是一个或多个 §Y共同防御协定§! 的针对目标 总共有 $NUM_MEMBERS|Y$ 位成员.;;;;;;;;;;x
-GAME_SETUP_COALITIONS_MEMBER_ICON;Is in a §YDefensive Pact§! against $TARGET|Y$. A total of $NUM_MEMBERS|Y$ characters have joined §YDefensive Pacts§! against the same target.;;;;;;;;;;x
+GAME_SETUP_COALITIONS_MEMBER_ICON;处于针对 $TARGET|Y$的§Y共同防御协定§!中。总共 $NUM_MEMBERS|Y$ 角色已加入§Y共同防御协定§!对抗同一目标。;;;;;;;;;;x
 alert_high_infamy_delayed;§Y威胁度§! 效果:\n\n- 当超过 $COALITION_INFAMY_LIMIT|%Y0$ §Y威胁度§!时 其他领主会签订 §Y共同防御协定§! 来保护自己. 每个宗教组有各自分开的 §Y共同防御协定§! 且只会保卫成员来自相同的 §Y共同防御协定§!.\n\n- 当超过 $OTHER_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§! 所有 §Y共同防御协定§! 来自其他宗教组 将会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$ §Y威胁度§!时 所有 §Y共同防御协定§! 包括您自己的宗教组 也会在您发动进攻某个成员时集体反击.\n\n- 当超过 $EVERY_COALITION_JOIN_INFAMY|%Y0$ §Y威胁度§!时 你将被认为臭名昭著 连你自己的宗教首领 和本宗教的圣战士 会主动加入 针对你的 §Y共同防御协定§! .\n\n- 随着你 §Y威胁度§! 的提升, 更大或者更遥远的国度 将被允许加入针对你的 §Y共同防御协定§! .\n\n- 当你的 §Y威胁度§! 下降时, 更大或者更遥远的国度 将被强制离开 针对你的 §Y共同防御协定§! .\n\n--------------\n§Y威胁度§! 随着时间会缓慢下降 但是你可以手动降低它 通过给予非法理领地的独立.;;;;;;;;;;x
 INTERACTION_COALITION_REQUIRES_COUNTY_COMPARE;§Y[Actor.GetTitledFirstName]§! 最大可以达到§Y[Recipient.GetTitledFirstName]§!土地大小的$RATIO|Y%0$;;;;;;;;;;x
 COUNCIL_ELECTIVE;内阁选举制;;;;;;;;;;x

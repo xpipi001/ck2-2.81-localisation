@@ -52,7 +52,7 @@ FORT_CONTROL_OVER_PROVINCE;控制或者围困§Y$PROVINCE$§!;;;;;;;;;;x
 TRIGGER_SUZERAIN;宗主;;;;;;;;;;x
 FORT_CONSTRUCTION_ABANDONED_SETUP;堡垒建造丢失;;;;;;;;;;x
 FORT_CONSTRUCTION_ABANDONED_LOG;§Y$BUILDER$§!在§Y$PROV$§!的敌军领土上正在建造的堡垒被放弃了。;;;;;;;;;;x
-succ_nomad_succession_desc;在游牧继承法中，通常拥有最多威望的儿子或者兄弟继承，不过声威卓著的部族领袖也有机会，如果他们的部族人口比大汗还多。错误文化的角色无权继承，大人比小孩有优先权。如果大汗的第一继承人还是个孩子，那么大汗国将会被其中一个部族领袖继承。部族领袖如果比继承人有更多的威望将会获得大汗国的宣称。;;;;;;;;;;x
+succ_nomad_succession_desc;在游牧继承法中，通常拥有最多威望的儿子或者兄弟继承，不过声威卓著的部族领袖也有机会，如果他们的部族人口比可汗还多。错误文化的角色无权继承，大人比小孩有优先权。如果可汗的第一继承人还是个孩子，那么可汗国将会被其中一个部族领袖继承。部族领袖如果比继承人有更多的威望将会获得可汗国的宣称。;;;;;;;;;;x
 CLAN_LIMIT_FORMULA;§Y部族数量§!;;;;;;;;;;x
 COUNTIES_PER_CLAN;每个部族渴望的省份;;;;;;;;;;x
 MAX_NR_OF_CLANS;部族最大数量;;;;;;;;;;x
@@ -76,7 +76,7 @@ MONTHLY_POPULATION_DECLINE;每月人口下降;;;;;;;;;;x
 MAXIMUM_CIVILIAN_POPULATION;最大人口;;;;;;;;;;x
 STAT_MANPOWER_DESC;人力是游牧国最重要的一部分，因其可以用来招募游牧军并且增员他们。每个月，它都会增减，而你的§Y最大人力§!则由当前§Y人口§!决定。你不能超上限的招募游牧军，而如有必要，你应该保证自己有足够的§Y未用人力§!来增员游牧军。你的§Y未用人力§!也与§Y人口数量§!一同参与计算每月§Y游牧税§!。此外，你的§Y未用人力§!还会增强首都的§Y守军§!。;;;;;;;;;;x
 POPULATION_AND_MANPOWER_OF;§Y$CLAN$部族的人口和人力§!;;;;;;;;;;x
-NOMAD_LAND_OVERRUN_GENERIC_DESC;如果大汗和其他部族比起来多出太多土地，将会影响他们的§Y部族观感§!，而且将会有一场§Y次级部族叛乱§!的叛乱，一个弱小的部族将会揭竿而起，试图从主流部族那里夺取他们的正当地位……;;;;;;;;;;x
+NOMAD_LAND_OVERRUN_GENERIC_DESC;如果可汗和其他部族比起来多出太多土地，将会影响他们的§Y部族观感§!，而且将会有一场§Y次级部族叛乱§!的叛乱，一个弱小的部族将会揭竿而起，试图从主流部族那里夺取他们的正当地位……;;;;;;;;;;x
 RETINUE_COST;亲卫队：§R-$VALUE$§!;;;;;;;;;;x
 INTERACTION_NOT_AT_MAX_CLAN_SIZE;还没有达到最大部族数量;;;;;;;;;;x
 HORDE_RETTYPE_CAV1;轻装劫掠队;;;;;;;;;;x

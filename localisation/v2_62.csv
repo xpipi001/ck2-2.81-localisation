@@ -5,9 +5,9 @@ opinion_humiliated_close_kin;被羞辱的近亲;;;;;;;;;;x
 gov_mercenary;雇佣兵军团;;;;;;;;;;x
 RULE_NOMAD_STABILITY;§B马上之王：§! 游牧稳定度;;;;;;;;;;x
 RULE_OPTION_NOMAD_STABILITY_UNSTABLE;不稳定;;;;;;;;;;x
-RULE_OPTION_NOMAD_STABILITY_UNSTABLE_DESC;游牧部落的封臣在大汗的继承中有机会宣布独立。后续统治者则可以正当地重新宣称其土地。;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_UNSTABLE_DESC;游牧部落的封臣在可汗的继承中有机会宣布独立。后续统治者则可以正当地重新宣称其土地。;;;;;;;;;;x
 RULE_OPTION_NOMAD_STABILITY_STABLE;稳定;;;;;;;;;;x
-RULE_OPTION_NOMAD_STABILITY_STABLE_DESC;游牧封臣在大汗的继承中没有机会独立。;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_STABLE_DESC;游牧封臣在可汗的继承中没有机会独立。;;;;;;;;;;x
 RULE_DE_JURE_REQUIREMENT;法理要求;;;;;;;;;;x
 RULE_DE_JURE_REQUIREMENT_DEFAULT_DESC;有法理领地的头衔无论何种情况都会被保留。;;;;;;;;;;x
 RULE_OPTION_DE_JURE_REQUIREMENT_REQUIRED;必须拥有;;;;;;;;;;x
@@ -58,15 +58,15 @@ sea_queen_desc;这个角色声名远扬、被人畏惧。哪里有咸水，哪�
 88017.cannibal;[From.GetBestName]令人遗憾，但至少我还有点心吃！;;;;;;;;;;x
 8469.a;赞颂[Root.Religion.GetHighGodNameCap]！;;;;;;;;;;x
 tengri_warrior;天之骄子;;;;;;;;;;x
-tengri_warrior_desc;作为草原战士的典范，这个角色为腾格里的荣耀而战。;;;;;;;;;;x
+tengri_warrior_desc;作为草原战士的典范，这个角色为长生天的荣耀而战。;;;;;;;;;;x
 romuvas_own;迪瓦猎犬;;;;;;;;;;x
 romuvas_own_desc;这个角色为保卫圣林而战。;;;;;;;;;;x
 ukkos_shield;乌戈之锤;;;;;;;;;;x
 ukkos_shield_desc;动如乌戈之雷霆，这个角色为索米信仰而战。;;;;;;;;;;x
 eagle_warrior;雄鹰战士;;;;;;;;;;x
 eagle_warrior_desc;阿兹特克战士一生不断征战，雄鹰战士则是其中最为勇猛可畏的。他们的主要任务是捕俘祭神。;;;;;;;;;;x
-peruns_chosen;佩伦选民;;;;;;;;;;x
-peruns_chosen_desc;选民们的斧头以佩伦闪电的力量劈砍斯拉夫信仰的敌人。;;;;;;;;;;x
+peruns_chosen;佩龙选民;;;;;;;;;;x
+peruns_chosen_desc;选民们的斧头以佩龙闪电的力量劈砍斯拉夫信仰的敌人。;;;;;;;;;;x
 nyames_shield;尼亚姆之盾;;;;;;;;;;x
 nyames_shield_desc;这个角色被选中为西非信仰而战的战士。;;;;;;;;;;x
 sun_warrior;太阳武士;;;;;;;;;;x
@@ -270,7 +270,7 @@ EVTDESC_RIP_30224_A;通常，你在深夜拖着沉重疲乏的身躯回到卧室
 EVTDESC_RIP_30224_B;如同平常一般，你在深夜拖着沉重疲乏的身躯回到卧室。今天也是如此。但是不同以往你劳累一天后便会倒头就睡，最近睡眠好像在刻意避开你一般。你坐在你的书房中，呆滞地移动着棋盘上的棋子，不时小抿一口红酒希望依靠酒精重获睡意。突然，你听见身后好像有人走动，你在椅子上转过身来。看见了几天前和你散步的[From.GetManWoman]。“晚上好[Root.GetLordLady]。我还没自我介绍呢。我是死神，我是来这收割你的灵魂的。”你看到[From.GetHerHis]的手中握着一把闪亮的匕首……;;;;;;;;;;x
 EVTDESC_RIP_30224_C;如同平常一般，你在深夜拖着沉重疲乏的身躯回到卧室。今天也是如此。但是不同以往你劳累一天后便会倒头就睡，最近睡眠好像在刻意避开你一般。你坐在你的书房中，呆滞地移动着棋盘上的棋子，不时小抿一口红酒希望依靠酒精重获睡意。突然，你听见身后好像有人走动，你在椅子上转过身来。一个你从没见过的[From.GetManWoman]站在那。“晚上好，我的[Root.GetLordLady]。我是死神，我是来这收割你的灵魂的。”你看到[From.GetHerHis]的手中握着一把闪亮的匕首……" A dagger is glinting in [From.GetHerHis] hand…;;;;;;;;;;x
 EVTOPTA_RIP_30224;我...我要向你挑战下棋！;;;;;;;;;;x
-EVTOPTA_RIP_30224_TOOLTIP;你试图通过挑战§Y[From.GetFirstName]§!下棋来续命。;;;;;;;;;;x
+EVTOPTA_RIP_30224_TOOLTIP;你试图向§Y[From.GetFirstName]§!挑战棋艺来延长你的寿命。;;;;;;;;;;x
 EVTOPTB_RIP_30224;想得美！;;;;;;;;;;x
 EVTOPTB_RIP_30224_TOOLTIP;冲向§Y[From.GetFirstName]§!试图撞倒[From.GetHerHim]。\n;;;;;;;;;;x
 EVTOPTB_RIP_30224_TOOLTIP_SURVIVE;努力活过刺杀，然而你很可能在缠斗过程中受伤。;;;;;;;;;;x
@@ -407,13 +407,13 @@ pick_main_deity_tooltip;§Y[Root.GetTitledFirstName]§!开始选择崇拜一个�
 pick_main_deity_timer_tooltip;10年未选择守护神。\n;;;;;;;;;;x
 pick_main_deity;选择守护神;;;;;;;;;;x
 pick_main_deity_desc;有许多男女神祇管理我们生活的方方面面。虽然对他们均应适当尊崇，但人们常常选择一位守护神并更常祈祷献祭。;;;;;;;;;;x
-EVTDESC_TOG_7110;有很多神供你选择敬拜。是雷神佩伦，最强大的战士呢？还是他永远的对手，冥神维列斯？春日生育之神亚利洛和他的姐妹冬日死亡与新生之神莫拉娜也有强大的力量。;;;;;;;;;;x
-EVTOPTA_TOG_7110;我以战斧向佩伦立誓，向他的荣耀奉献生命！;;;;;;;;;;x
+EVTDESC_TOG_7110;有很多神供你选择敬拜。是雷神佩龙，最强大的战士呢？还是他永远的对手，冥神维列斯？春日生育之神亚利洛和他的姐妹冬日死亡与新生之神莫拉娜也有强大的力量。;;;;;;;;;;x
+EVTOPTA_TOG_7110;我以战斧向佩龙立誓，向他的荣耀奉献生命！;;;;;;;;;;x
 EVTOPTB_TOG_7110;尊崇智慧的维列斯，无人能欺骗他！;;;;;;;;;;x
 EVTOPTC_TOG_7110;愿亚利洛为这些土地带来财富和欢乐！;;;;;;;;;;x
 EVTOPTD_TOG_7110;强大的莫拉娜，和我分享秘密，我将保守它们。;;;;;;;;;;x
-follower_of_perun;佩伦的信徒;;;;;;;;;;x
-follower_of_perun_desc;这个角色是斯拉夫雷神佩伦的虔诚信徒。此神也掌管火焰、山脉和战争。;;;;;;;;;;x
+follower_of_perun;佩龙的信徒;;;;;;;;;;x
+follower_of_perun_desc;这个角色是斯拉夫雷神佩龙的虔诚信徒。此神也掌管火焰、山脉和战争。;;;;;;;;;;x
 follower_of_veles;维列斯的信徒;;;;;;;;;;x
 follower_of_veles_desc;这个角色是斯拉夫冥神维列斯的虔诚信徒。此神也掌管水域、音乐和诡诈。;;;;;;;;;;x
 follower_of_jarilo;亚利洛的信徒;;;;;;;;;;x
@@ -488,7 +488,7 @@ EVTDESC_TOG_7500_YEMOJA;你在事业中虔诚努力，遵循叶玛亚之道。�
 EVTDESC_TOG_7501_PERKUNAS;你在事业中虔诚努力，遵循佩尔库纳斯之道。以他之名你训练你的用斧技巧，并花大量时间与你的指挥官在沙盒边运筹帷幄。结果，你的军事技能提升了。;;;;;;;;;;x
 EVTDESC_TOG_7501_TM;你在事业中虔诚努力，遵循塔皮奥和米耶利基之道。以他们之名，你安排大型狩猎、频频在荒野中追踪。结果，你的军事技能提升了。;;;;;;;;;;x
 EVTDESC_TOG_7501_SHANGO;你在事业中虔诚努力，遵循桑戈之道。以他之名，你勤练掷矛，在沙盒边和将领运筹帷幄。结果，你的军事技能提升了。;;;;;;;;;;x
-EVTDESC_TOG_7501_PERUN;你在事业中虔诚努力，遵循佩伦之道。以他之名，你锻炼斧术，在沙盒边和将领运筹帷幄。结果，你的军事技能提升了。;;;;;;;;;;x
+EVTDESC_TOG_7501_PERUN;你在事业中虔诚努力，遵循佩龙之道。以他之名，你锻炼斧术，在沙盒边和将领运筹帷幄。结果，你的军事技能提升了。;;;;;;;;;;x
 EVTDESC_TOG_7502_ZEMYNA;你满怀虔诚，在追随泽米娜的道路上苦苦辛劳。你已经以她的名义筹备了收获的祭典与丰产的仪式，并花费了大量的时间巡查[Root.Capital.GetName]的土地。因此，你的财政能力得以增加了。;;;;;;;;;;x
 EVTDESC_TOG_7502_UKKO;你满怀虔诚，在追随乌戈的道路上苦苦辛劳。你已经以他的名义筹备了收获的祭典与丰产的仪式，并花费了大量的时间巡查[Root.Capital.GetName]的土地。因此，你的财政能力得以增加了。;;;;;;;;;;x
 EVTDESC_TOG_7502_EKWENSU;你在事业中虔诚努力，遵循埃克文苏之道。以他之名，你在领地巡查市场和商路，安排收获节和丰产仪式，还数次投资商业冒险。结果，你的财政技能提升了。;;;;;;;;;;x
@@ -573,7 +573,7 @@ EVTOPTB_TOG_7515_VELNIAS;[From.GetFirstName]很显然不是维尔尼阿斯选中
 EVTDESC_TOG_7516_PERKUNAS;你作为佩尔库纳斯忠实追随者的名声到处传遍。许多伟大老练的战士长途跋涉来到[Root.Capital.GetName]向你效忠。;;;;;;;;;;x
 EVTDESC_TOG_5716_TM;你作为塔皮奥和米耶里基忠实追随者的名声到处传遍。许多伟大老练的战士长途跋涉来到[Root.Capital.GetName]向你效忠。;;;;;;;;;;x
 EVTDESC_TOG_7516_SHANGO;你作为桑戈忠实追随者的名声到处传遍。许多伟大老练的战士长途跋涉来到[Root.Capital.GetName]向你效忠。;;;;;;;;;;x
-EVTDESC_TOG_7516_PERUN;你作为佩伦忠实追随者的名声到处传遍。许多伟大老练的战士长途跋涉来到[Root.Capital.GetName]向你效忠。;;;;;;;;;;x
+EVTDESC_TOG_7516_PERUN;你作为佩龙忠实追随者的名声到处传遍。许多伟大老练的战士长途跋涉来到[Root.Capital.GetName]向你效忠。;;;;;;;;;;x
 EVTOPTA_TOG_7516_A;赞美归于猎手和女猎手！;;;;;;;;;;x
 EVTOPTA_TOG_7516_B;荣耀归于雷神！;;;;;;;;;;x
 inspired_warriors_desc;老练的战士长途跋涉而来，为了真正信仰而战。;;;;;;;;;;x
@@ -606,7 +606,7 @@ EVTOPTA_TOG_7522_B;也许我该警告[god_plot_target.GetHerHim]。;;;;;;;;;;x
 EVTOPTA_TOG_7522_C;如果这是神的意思。;;;;;;;;;;x
 EVTDESC_TOG_7524_ORUNMILA;在你以奥隆米拉之名追寻智慧的过程中，你多次获得了关于你土地福祉的顿悟。传播这些知识不仅有利于你的统治，本身也是一项神圣的职责。;;;;;;;;;;x
 EVTDESC_TOG_7524_MORANA;在你以莫雷纳之名追寻智慧的过程中，你多次获得了关于你土地福祉的顿悟。传播这些知识不仅有利于你的统治，本身也是一项神圣的职责。;;;;;;;;;;x
-EVTOPTA_TOG_7524;女神的智慧无穷无尽。赞美归于她！;;;;;;;;;;x
+EVTOPTA_TOG_7524;女神的智慧无穷无尽。她应得赞美！;;;;;;;;;;x
 hunters_physique;猎人的体魄;;;;;;;;;;x
 hunters_physique_desc;由于长期在野外打猎，这名角色获得了力量与韧性，以及致命的准度。;;;;;;;;;;x
 EVTDESC_TOG_7517;每次打猎之后你确保留下一份给塔皮奥和米耶里基的祭品来感谢他们的慷慨。他们肯定非常满意，你注意到最近你的箭比以前更能射中想要的目标。你已经被祝福拥有力量和致命的准度。;;;;;;;;;;x
@@ -617,7 +617,7 @@ EVTDESC_TOG_7526;你的[From.GetJobTitle]，[From.GetTitledFirstName]，建议�
 EVTOPTA_TOG_7526_PERKUNAS;我将竖起纪念碑，荣耀佩尔库纳斯。;;;;;;;;;;x
 EVTOPTA_TOG_7526_TM;我将竖起纪念碑，荣耀塔皮奥和米耶里基;;;;;;;;;;x
 EVTOPTA_TOG_7526_SHANGO;我将竖起纪念碑，荣耀桑戈;;;;;;;;;;x
-EVTOPTA_TOG_7526_PERUN;我将竖起纪念碑，荣耀佩伦;;;;;;;;;;x
+EVTOPTA_TOG_7526_PERUN;我将竖起纪念碑，荣耀佩龙;;;;;;;;;;x
 EVTOPTA_TOG_7526_DIEVAS;我将竖起纪念碑，荣耀季耶瓦斯;;;;;;;;;;x
 EVTOPTA_TOG_7526_AKKA;我将竖起纪念碑，荣耀阿卡;;;;;;;;;;x
 EVTOPTA_TOG_7526_YEMOJA;我将竖起纪念碑，荣耀叶玛亚;;;;;;;;;;x
@@ -638,7 +638,7 @@ EVTDESC_TOG_7527_ANCESTORS;终于纪念碑建成了。跟你所预想的一样�
 EVTDESC_TOG_7527_PERKUNAS;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀佩尔库纳斯，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
 EVTDESC_TOG_7527_TM;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀塔皮奥和米耶里基，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
 EVTDESC_TOG_7527_SHANGO;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀桑戈，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
-EVTDESC_TOG_7527_PERUN;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀佩伦，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
+EVTDESC_TOG_7527_PERUN;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀佩龙，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
 EVTDESC_TOG_7527_DIEVAS;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀季耶瓦斯，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
 EVTDESC_TOG_7527_AKKA;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀阿卡，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x
 EVTDESC_TOG_7527_YEMOJA;终于纪念碑建成了。跟你所预想的一样，或者说甚至超出了预期。为了庆祝它的完工，举办了一场盛大的庆典，荣耀叶玛亚，真是一场盛事！这个故事将被代代传颂，只要纪念碑耸立着，俯瞰着[Root.Capital.GetName]整座城市。;;;;;;;;;;x

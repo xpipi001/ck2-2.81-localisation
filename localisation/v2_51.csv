@@ -36,10 +36,10 @@ ASK_REALM_PEACE_INTERACTION_LONG_DESC;你可以用§Y[Recipient.GetTitledFirstNa
 ASK_REALM_PEACE_INTERACTION_LETTER;\n为了让你还我的人情，我要求你在境内执行和平。;;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_LETTER_GET;\n执行境内和平。;;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!用§Y[Recipient.GetBestName]§!的人情强迫他们执行§Y全境和平§!。;;;;;;;;;;x
-ASK_COUNCIL_POSITION_INTERACTION_TITLE;索要议会职位;;;;;;;;;;x
-ASK_COUNCIL_POSITION_INTERACTION_DESC;用一个§Y人情§!跟你的领主索要一个§Y议会§!职位。;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_TITLE;索要内阁职位;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_DESC;用一个§Y人情§!跟你的领主索要一个§Y内阁§!职位。;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_LONG_DESC;你可以用§Y[Recipient.GetTitledFirstName]§!欠你§Y人情§!强迫他们在§Y内阁§!中授予你一个职位。;;;;;;;;;;x
-ASK_COUNCIL_POSITION_INTERACTION_LETTER;\n为了让你还我的人情，我要求你在议会中授予我一个合法的职位。;;;;;;;;;;x
+ASK_COUNCIL_POSITION_INTERACTION_LETTER;\n为了让你还我的人情，我要求你在内阁中授予我一个合法的职位。;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_LETTER_GET;\n作为你欠我的回报，授予我一个你内阁中的职位。;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!用§Y[Recipient.GetBestName]§!的人情得到了$POSITION|Y$职位$FIRED$;;;;;;;;;;x
 COUNCIL_POSITION_FIRED;，与此同时$FIRED|Y$被解雇;;;;;;;;;;x

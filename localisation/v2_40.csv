@@ -411,9 +411,9 @@ HORDE_RETINUE_EXPL_DEL;你的游牧军是你的私人专业且常设部队，随
 RETINUE_EXPL_DEL;你的亲卫队是一支随时待命并仅服从于你命令的专业部队。不同于征召兵，亲卫队将持续出现在地图上并缓慢补充兵力。亲卫队军团的最大数目取决于你的§Y军事组织§!科技以及你领地内征召兵的总兵力。;;;;;;;;;;x
 HORDE_SPLIT_RETINUES_OPTION;游牧军分离;;;;;;;;;;x
 nomadic_king;可汗;;;;;;;;;;x
-nomadic_emperor;大汗;;;;;;;;;;x
-nomadic_empire;大汗国;;;;;;;;;;x
-nomadic_empire_of;大汗国;;;;;;;;;;x
+nomadic_emperor;可汗;;;;;;;;;;x
+nomadic_empire;可汗国;;;;;;;;;;x
+nomadic_empire_of;可汗国;;;;;;;;;;x
 nomadic_kingdom;汗国;;;;;;;;;;x
 nomadic_kingdom_of;汗国;;;;;;;;;;x
 REMOVE_TRIBUTARY_EFFECT;§Y$TRIBUTARY$§!不再是§Y$OVERLORD$§!的附属;;;;;;;;;;x

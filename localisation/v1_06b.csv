@@ -11,13 +11,13 @@ duke_female_turkish;贝勒巴彦;;;;;;;;;;x
 count_female_turkish;巴彦;;;;;;;;;;x
 baron_female_turkish;巴彦;;;;;;;;;;x
 job_chancellor_west_african;大总督;;;;;;;;;;x
-emperor_arabic;大沙王;;;;;;;;;;x
+emperor_arabic;巴迪沙阿;;;;;;;;;;x
 CALIPHA;哈里发;;;;;;;;;;x
 PIETY_LAW_PASSED_SETUP;制订穆斯林的法律;;;;;;;;;;x
 PIETY_LAW_PASSED_LOG;§Y$RULER$§!在§Y$TITLE$§!制订了§Y$LAW$§!法。;;;;;;;;;;x
 DISBAND_EVENT_FORCES;由事件所产生的军队已经被解散;;;;;;;;;;x
 iqta_contract;兵役;;;;;;;;;;x
-iqta_contract_desc;伊克塔征募法控制了征募的范围因此穆斯林的诸侯领主必须为他们的君主服务.;;;;;;;;;;x
+iqta_contract_desc;伊克塔征募法决定了穆斯林封臣必须为领主所提供的征召兵比例。;;;;;;;;;;x
 iqta_contract_0;最低兵役;;;;;;;;;;x
 iqta_contract_0_option;最低;;;;;;;;;;x
 iqta_contract_0_desc;领主需向君主提供过超半数的兵员.;;;;;;;;;;x
@@ -31,7 +31,7 @@ iqta_contract_3;最高兵役;;;;;;;;;;x
 iqta_contract_3_option;最高;;;;;;;;;;x
 iqta_contract_3_desc;领主有义务提供全部兵员.;;;;;;;;;;x
 iqta_tax;邑税;;;;;;;;;;x
-iqta_tax_desc;不同于基督教的封建领主，诸侯领主穆斯林是不被免税的, 不过他们比平民纳税要少.;;;;;;;;;;x
+iqta_tax_desc;不同于基督教的封建领主，穆斯林封臣是不被免税的, 不过他们比平民纳税要少。;;;;;;;;;;x
 iqta_tax_0;最低邑税;;;;;;;;;;x
 iqta_tax_0_option;无;;;;;;;;;;x
 iqta_tax_0_desc;免除领主的邑税 - 这是他们所喜欢的样子.;;;;;;;;;;x

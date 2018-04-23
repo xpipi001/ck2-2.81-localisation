@@ -268,7 +268,7 @@ HINT_REL_VIEW_TEXT_4_JEWISH;如果犹太教领主控制了应许之地，他就�
 HINT_REL_VIEW_TEXT_3_PAGAN;原始宗教信仰与其他信仰不同，毫无凝聚力就如同一盘散沙，也不存在宗教领袖。信仰这种未经过改革信仰的领主们只能使用均分继承法，而且无法发动圣战。不过未经改革的原始宗教徒们在防御外敌时，可以让其他宗教的敌人他们省份受到补给惩罚。另外这些领主一生中还能发动一次征讨其他原始宗教徒的战争。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_4_PAGAN;原始宗教在满足一定条件后可以进行教改。教改可以通过掌握三个宗教圣地并保持至少50%宗教权威，或是直接控制全部五个宗教圣地来进行。某些情况下，改革宗教的领主将会成为宗教领袖。不过要小心，你的封臣并不一定都能接受改革，有些人会将你视作异端。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_3_MUSLIM;穆斯林家族有可能会越来越腐化。让家族成员持有土地或是打胜仗可以避免这一点。腐化的增长可以通过消除腐化成员，或是封地给他们来防止。;;;;;;;;;;x
-HINT_REL_VIEW_TEXT_4_MUSLIM;穆斯林领主拥有对不信真主的邻国发动入侵的宣战理由。成功的入侵不仅会给你宣战的省份，还会让你获得你占领的土地。;;;;;;;;;;x
+HINT_REL_VIEW_TEXT_4_MUSLIM;穆斯林领主拥有对不信安拉的邻国发动入侵的宣战理由。成功的入侵不仅会给你宣战的省份，还会让你获得你占领的土地。;;;;;;;;;;x
 DECADENCE_DESC;低于伯爵级别的所有成年穆斯林男子都有获得§Y腐化§!特质的风险，特别是那些人品卑劣的。这些男子对他们家族造成的腐化度，由他们的社会地位连同家族控制地产的总量决定。腐化度影响你直辖领的税收以及直辖领征召兵在战斗中受到的士气伤害。遏制或降低腐化度的方法有：\n§G*§! 将头衔授予家族成员\n§G*§! 成功劝说家族成员放弃他们罪恶的生活方式。\n§G*§! 逮捕，驱逐或杀死腐化的家族成员\n§G（宗教界面中包含腐朽家族成员名单。）§!;;;;;;;;;;x
 opinion_favorite;最喜爱的;;;;;;;;;;x
 FILTER_SAME_REL;同宗教;;;;;;;;;;x
@@ -380,7 +380,7 @@ ERA_CHAR_INFO_90104;当“虔诚者”路易一死，加洛林帝国就在他的
 ERA_CHAR_INFO_90107;当和他的兄弟签订了凡尔登条约后，路德维希统治了东法兰克和巴伐利亚。在他父亲死前他就统治着这些国度。在这之后，他一直努力在法兰克帝国内扩张，时而和他的兄弟“秃头”查理结盟，时而和他作对。他参与对抗了萨克森的叛乱，又与摩尔多瓦人作战。他是教会的支持者，尽其所能压制信仰原始宗教的子民。而德国在他的统治下也慢慢显露出新的文化认同。;;;;;;;;;;x
 ERA_CHAR_INFO_1700;“马其顿人”巴西尔作为一个普通农户的儿子在马其顿出生。度过不安定的早年，他最后进入了为皇室成员服务的部门中任职。时间一长，他成了皇帝米海尔的忠实好友。利用其特殊地位。他不久就成为了共治皇帝，随后谋杀了米海尔，从而成为帝国唯一的皇帝。取得权力后，因其对帝国管理的效率和贡献，他获得了良好的声誉。他重新恢复了与教宗的良好关系，在与保罗派异端和阿拉伯人鏖战之余，还加强了东部的边防。;;;;;;;;;;x
 ERA_CHAR_INFO_34014;穆塔兹年仅19岁便在866年成为哈里发。当时的阿巴斯帝国权力混乱，派系纷争不断。在经历了与他敌人的血腥对抗后，他似乎就要成功了。但那时他的国库已空，士兵叛乱让其命运彻底改变。最终他被俘虏，在遭到殴打后被关在房间里饿死，年仅24岁。;;;;;;;;;;x
-ERA_CHAR_INFO_140;“征服者”威廉，维京首领罗洛的后代，在年轻——并且还是个私生子——时就成为了诺曼底公爵，最初他一直被公国内互相对立的派系当作棋子利用，他的许多监护人都因此而遭到谋杀。当他成年时，他被迫征战多年以取得对公国的完全控制、1066年，他成功入侵英格兰，获得了英国王位。他利用其余下的统治时间去巩固和改革他的新王国，有时甚至要面对激烈的反对。;;;;;;;;;;x
+ERA_CHAR_INFO_140;“征服者”威廉，维京首领罗洛的后代，在年轻——并且还是个私生子——时就成为了诺曼底公爵，最初他一直被公国内互相对立的派系当作棋子利用，他的许多监护人都因此而遭到谋杀。当他成年时，他被迫征战多年以取得对公国的完全控制、1066年，他成功入侵英格兰，获得了英格兰王位。他利用其余下的统治时间去巩固和改革他的新王国，有时甚至要面对激烈的反对。;;;;;;;;;;x
 ERA_CHAR_INFO_1128;罗伯特·吉斯卡尔是一个小诺曼领主唐克里·德·奥特维尔的第六子。如同他的兄弟，他带着少许士兵离开诺曼底前去意大利追求未来。作为一个冷酷又天才的领袖，他花费多年时间成为有名的佣兵。而变幻多端的意大利政局，使得教总任命他为阿普利亚公爵。接下来他通过作战占领了西西里，与萨拉森人和拜占庭人作战以取得控制。于是，他便在南意大利建立了诺曼人的统治，而他的征服对当地影响深远。;;;;;;;;;;x
 ERA_CHAR_INFO_98003;贝拉四世来自统治匈牙利的阿帕德家族悠长的血脉。他拒绝向蒙古的窝阔台汗臣服，因此面临蒙古人大举入侵匈牙利的困境。在绝望之际得到了拯救——窝阔台在1242年过世，而金帐汗国的拔都决定让军队撤回亚洲守卫新大汗的选举。之后的岁月，贝拉不断地坚实其王国、为下一次蒙古入侵作准备，他被认为是这个国家的第二奠基人。;;;;;;;;;;x
 ERA_CHAR_INFO_478011;旭烈兀是成吉思汗的孙子。当他的兄长蒙哥成为大汗，旭烈兀被任命去征服西亚剩下的穆斯林领土。为这次战役，他被授予蒙古最大的部队，而他则重创了穆斯林世界重镇巴格达和大马士革。这直接导致穆斯林的中心西移至马穆留克的开罗。他同时也摧毁了哈萨辛。被征服的土地成为了中东大国——伊尔汗国——的基础。;;;;;;;;;;x
@@ -391,7 +391,7 @@ EVTOPTA_CM_1070;欢迎带来神之启示之人!;;;;;;;;;;x
 EVTOPTB_CM_1070;我不需要他这种人.;;;;;;;;;;x
 tribal_count;首领;;;;;;;;;;x
 tribal_county_of;首领地;;;;;;;;;;x
-EVTDESC_CM_2000;我的 [Root.GetLordLady], 有一个贵族勇士在门前. 他说他是久经沙场的老兵,希望能成为您麾下的战事. 他赞美您的智慧和荣耀,并且决定只要接纳他,便始终守护您和您的家族.;;;;;;;;;;x
+EVTDESC_CM_2000;我的[Root.GetLordLady]，有一个贵族勇士在门前。他说他是久经沙场的老兵，希望能成为您麾下的战士。他赞美您的智慧和荣耀，并且决定只要接纳他，便始终守护您和您的家族。;;;;;;;;;;x
 EVTOPTA_CM_2000;来吧!;;;;;;;;;;x
 EVTOPTB_CM_2000;哦,没空房了.;;;;;;;;;;x
 EVTDESC_CM_2012;你在家族守卫的陪伴下巡回你的国度.当你渡桥穿越激流时, 一个身着黑色盔甲的勇士提剑站在桥上. 即便被挑战,他也拒绝挪开一步,只是说道:"无人通行".;;;;;;;;;;x
@@ -646,7 +646,7 @@ CHRONICLE_PILGRIMAGE_TO_ROME;[Root.GetTitledName]往罗马,进行了一场说走
 CHRONICLE_PILGRIMAGE_TO_CANTERBURY;[Root.GetTitledName]往坎特伯雷,进行了一趟说走就走的朝圣之旅.;;;;;;;;;;x
 CHRONICLE_PILGRIMAGE_TO_KOLN;[Root.GetTitledName]往科隆,进行了一趟说走就走的朝圣之旅.;;;;;;;;;;x
 CHRONICLE_PILGRIMAGE_TO_SANTIAGO;[Root.GetTitledName]往圣地亚哥,进行了一场说走就走的朝圣之旅.;;;;;;;;;;x
-CHRONICLE_WENT_ON_HAJJ;[Root.GetTitledName]前往麦加城朝觐.;;;;;;;;;;x
+CHRONICLE_WENT_ON_HAJJ;[Root.GetTitledName]前往麦加城朝圣.;;;;;;;;;;x
 CHRONICLE_HELD_BLOT;[Root.GetTitledName]在[Root.Location.GetName]举行了一场盛大的牺牲祭典活动.;;;;;;;;;;x
 CHRONICLE_PLAYER_ACQUIRED_NICKNAME;[Root.GetTitledName],由于他的行为与	性格,成为了人们众所周知的[Root.GetTitledFirstNameWithNick].;;;;;;;;;;x
 CHRONICLE_HERESY_SPREAD;[From.Religion.GetName] 传播到了这个郡 [From.GetName];;;;;;;;;;x
@@ -703,7 +703,7 @@ EVTDESC_CM_4101;孤之爱卿, Dear vassal,\n孤于此特别邀请你前来[From.
 EVTOPTA_CM_4101;我十分期待!;;;;;;;;;;x
 EVTDESC_CM_4102;你的封臣, [From.GetTitledName],拒绝前来参与太阳节庆典.;;;;;;;;;;x
 EVTDESC_CM_4120;太阳节庆祝活动就要开始,而为了秉承传统,节庆要在日出时分开始.大量的人群聚集到广场,司祭们为人们献上以[Root.Religion.GetRandomGodName]为名的祝福.;;;;;;;;;;x
-EVTOPTA_CM_4120;赞美[Root.Religion.GetRandomGodName]!;;;;;;;;;;x
+EVTOPTA_CM_4120;赞美[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTDESC_CM_4196;本次的太阳节庆典结束.[Root.Religion.GetRandomGodName]之名倍受人们赞颂,而他的子民继续在他耀眼的光芒下盼望着大好未来.;;;;;;;;;;x
 EVTOPTA_CM_4196;期待下一次!;;;;;;;;;;x
 EVTTITLE_CM_4130;日下步走;;;;;;;;;;x
@@ -716,7 +716,7 @@ EVTOPTA_CM_4133;我的智慧人生因此启发!;;;;;;;;;;x
 EVTDESC_CM_4135;为了赞颂[Root.Religion.GetRandomGodName]之名,你在太阳下步走了数小时.你的四肢变得越发的酸痛,你的心脏剧烈跳动的感觉直冲脑门.你却开始感觉有一种陌生的东西正进入你的意识当中.对,对...那些居住黑暗地下的小恶魔,正悄悄的坐在你的肩上,轻声告诉你一些奇异的秘密.;;;;;;;;;;x
 EVTOPTA_CM_4135;此刻世间万物都显得如此异样!;;;;;;;;;;x
 EVTDESC_CM_4137;为了赞颂[Root.Religion.GetRandomGodName]之名,你在太阳下步走了数小时.你的四肢变得越发的酸痛,你的心脏剧烈跳动的感觉直冲脑门,接着你将脸朝上对着太阳.忽而感觉,阳光如此温暖仿佛像穿透你的肉体和意识,给你注入犹如兴奋感觉一般的颤抖.此时你终于感觉什么是大彻大悟! you turn your face upwards towards the Sun. You feel the light and warmth coarse through your mind and body, and shudder with excitement. Only now have you fully understood!;;;;;;;;;;x
-EVTOPTA_CM_4137;赞美太阳神圣的光辉!;;;;;;;;;;x
+EVTOPTA_CM_4137;赞美太阳神圣的光辉！;;;;;;;;;;x
 EVTDESC_CM_4139;为了赞颂[Root.Religion.GetRandomGodName]之名,你在太阳下步走了数小时.尽管你的四肢变得越发的酸痛,你的心脏剧烈跳动的感觉直冲脑门,你却依旧前行.你感觉这是一场考验你并给你全新力量的严酷试炼.或许有必要在节日之后加强类似的训练?;;;;;;;;;;x
 EVTOPTA_CM_4139;本次仪式使我越发强壮!;;;;;;;;;;x
 EVTDESC_CM_4141;为了赞颂[Root.Religion.GetRandomGodName]之名,你在太阳下步走了数小时.尽管你的四肢变得越发的酸痛,你的心脏剧烈跳动的感觉直冲脑门,你的意识开始四处漫游并开始从新的角度看待同一样事物.或许你该开始用不平常的思维思考人生了?;;;;;;;;;;x
@@ -724,7 +724,7 @@ EVTOPTA_CM_4141;哼嗯...;;;;;;;;;;x
 EVTDESC_CM_4143;为了赞颂[Root.Religion.GetRandomGodName]之名,你在太阳下步走了数小时.你的四肢变得越发的酸痛,你的心脏剧烈跳动的感觉直冲脑门,接着你将脸朝上对着太阳.你感到太阳的温暖拥抱着你,张开双眸凝视太阳,忽觉你看到其中神圣的秘密.就这样,你凝视良久...;;;;;;;;;;x
 EVTOPTA_CM_4143;等等...怎么所有东西都乌漆墨黑.;;;;;;;;;;x
 EVTDESC_CM_4190;正义使者尊的感恩仪式在寺庙的院子中召开。参加者们脱帽并双膝跪地感谢祂将光明，温暖，正义，智慧以及丰饶赐予祂虔诚的崇拜者。崇拜者们轮流传递并食用由神圣藏红花调味的面包。;;;;;;;;;;x
-EVTOPTA_CM_4190;赞美[Root.Religion.GetRandomGodName]!;;;;;;;;;;x
+EVTOPTA_CM_4190;赞美[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 opinion_renounced_iconoclasm;放弃圣像破坏主义;;;;;;;;;;x
 renounce_iconoclasm;放弃圣像破坏主义;;;;;;;;;;x
 renounce_iconoclasm_desc;在你的领国内外,有许多人都表示强烈反对圣像破坏主义教条,也就是反对禁止创设和拥有任何相关宗教的图像和偶像崇拜的教条.你可以选择放弃圣像破坏主义并声称其为异端,并转投兴趣于实用主义.;;;;;;;;;;x
@@ -941,7 +941,7 @@ EVTOPTA_63104;[From.GetPossPronoun]是正确的...;;;;;;;;;;x
 IS_MULTIPLAYER;是多人游戏;;;;;;;;;;x
 IS_NOT_MULTIPLAYER;不是多人游戏;;;;;;;;;;x
 other_invasion_succ_tip;§Y[Root.GetTitledFirstName]§!夺取或附庸所有在§Y[This.GetFullBaseName]§!属于§Y[From.GetTitledFirstName]§!的头衔.\n;;;;;;;;;;x
-buddhist_holy_war_desc;§Y$CLAIMANT$§!能用这个宣战口实以夺取§Y$TITLE$§!.;;;;;;;;;;x
+buddhist_holy_war_desc;§Y$CLAIMANT$§!能以这个宣战理由夺取§Y$TITLE$§!.;;;;;;;;;;x
 SEARCH;搜索:;;;;;;;;;;x
 EVTDESC_CM_6320;我的[Root.GetLordLady]， 有一个除掉[Root.PlotTarget.GetTitledName]的机会出现了。我们有个手下和那人的侍卫打好了关系，可以借机进入那人的藏身之地。该动手吗，我的[Root.GetLordLady]？;;;;;;;;;;x
 EVTOPTA_CM_6320;收买那侍卫去干掉[Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;x
@@ -1155,21 +1155,21 @@ norse_pagan_DESC;在中世纪早期，古日耳曼的信仰在斯堪的纳维亚
 d_pskov_adj;普斯科夫;;;;;;;;;;x
 tribal_emperor_altaic;可汗;;;;;;;;;;x
 tribal_emperor_female_altaic;可敦;;;;;;;;;;x
-tribal_empire_of_altaic;大汗国;;;;;;;;;;x
+tribal_empire_of_altaic;可汗国;;;;;;;;;;x
 tribal_king_altaic;汗;;;;;;;;;;x
 tribal_king_female_altaic;可敦;;;;;;;;;;x
 tribal_kingdom_of_altaic;汗国;;;;;;;;;;x
 tribal_king_arabic;苏丹;;;;;;;;;;x
 tribal_king_female_arabic;苏丹娜;;;;;;;;;;x
 tribal_kingdom_of_arabic;苏丹国;;;;;;;;;;x
-tribal_emperor_arabic;大沙王;;;;;;;;;;x
+tribal_emperor_arabic;巴迪沙阿;;;;;;;;;;x
 tribal_emperor_russian;沙皇;;;;;;;;;;x
 tribal_emperor_female_russian;女沙皇;;;;;;;;;;x
-tribal_emperor_dravidian_group;圣王;;;;;;;;;;x
+tribal_emperor_dravidian_group;僧罗吒;;;;;;;;;;x
 tribal_emperor_female_dravidian_group;圣后;;;;;;;;;;x
-tribal_king_dravidian_group;大王;;;;;;;;;;x
+tribal_king_dravidian_group;摩诃罗阇;;;;;;;;;;x
 tribal_king_female_dravidian_group;王后;;;;;;;;;;x
-tribal_duke_dravidian_group;王;;;;;;;;;;x
+tribal_duke_dravidian_group;罗阇;;;;;;;;;;x
 tribal_duke_female_dravidian_group;夫人;;;;;;;;;;x
 tribal_count_dravidian_group;多俱罗;;;;;;;;;;x
 tribal_count_female_dravidian_group;多俱罗妮;;;;;;;;;;x
@@ -1183,11 +1183,11 @@ tribal_barony_dravidian_group;庄园;;;;;;;;;;x
 tribal_duchy_of_dravidian_group;国;;;;;;;;;;x
 tribal_county_of_dravidian_group;提迦那;;;;;;;;;;x
 tribal_barony_of_dravidian_group;庄园;;;;;;;;;;x
-tribal_emperor_indo_aryan_group;圣王;;;;;;;;;;x
+tribal_emperor_indo_aryan_group;僧罗吒;;;;;;;;;;x
 tribal_emperor_female_indo_aryan_group;圣后;;;;;;;;;;x
-tribal_king_indo_aryan_group;大王;;;;;;;;;;x
+tribal_king_indo_aryan_group;摩诃罗阇;;;;;;;;;;x
 tribal_king_female_indo_aryan_group;王后;;;;;;;;;;x
-tribal_duke_indo_aryan_group;王;;;;;;;;;;x
+tribal_duke_indo_aryan_group;罗阇;;;;;;;;;;x
 tribal_duke_female_indo_aryan_group;夫人;;;;;;;;;;x
 tribal_count_indo_aryan_group;多俱罗;;;;;;;;;;x
 tribal_count_female_indo_aryan_group;多俱罗妮;;;;;;;;;;x

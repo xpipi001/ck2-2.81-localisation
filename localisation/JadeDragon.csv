@@ -118,7 +118,7 @@ GOV_RELIGION_TOLERATED_BY_OTHERS_DESC;异教徒不会降低好感;;;;;;;;;;x
 GOV_NO_VASSAL_GOVERNMENT_PENALTIES_DESC;不会因政体不同而受到封臣好感惩罚;;;;;;;;;;x
 TITLE_USURPTION_DISALLOWED;不是可篡夺的头衔;;;;;;;;;;x
 succ_offmap_succession;儒家官僚制;;;;;;;;;;x
-offmap_succession;任命制;;;;;;;;;;x
+offmap_succession;选任法;;;;;;;;;;x
 INTERACTION_ACTOR_NOT_COALITION;§Y[Actor.GetTitledFirstName]§! 不在针对§Y[Recipient.GetTitledFirstName]§!的防御协定里;;;;;;;;;;x
 ATTRITION_AT_SEA;海军损耗：$VALUE|R$%;;;;;;;;;;x
 OUT_OF_SUPPLIES_ATTRITION;来自缺乏补给的损耗: $VALUE|R$%;;;;;;;;;;x
@@ -139,7 +139,7 @@ DEMESNE_SIZE_PERCENTAGE;已有领地大小占领地上限的§Y$COMPARISON$ $VAL
 TRIBUTARY_RELATIONSHIP;§Y$SUZERAIN$§!的$TYPE|Y$;;;;;;;;;;x
 GOV_CANNOT_CREATE_EMPIRES_DESC;无法创建帝国;;;;;;;;;;x
 GOVERNMENT_CANNOT_CREATE_EMPIRES;无法创建帝国;;;;;;;;;;x
-OFFMAP_VIEW_BUTTON_INSTANT;$OFFMAP|Y$\n开始与 §Y中国$OFFMAP_SHORT$朝§! 进行互动。;;;;;;;;;;x
+OFFMAP_VIEW_BUTTON_INSTANT;$OFFMAP|Y$\n开始与 §Y中国$OFFMAP_SHORT$§! 进行互动。;;;;;;;;;;x
 NOT_EQUAL;不等于;;;;;;;;;;x
 RELATIVE_REALM_SIZE;领地大小相对于$WHO|Y$的领地大小是 §Y$COMPARISON$ $VALUE$%§!;;;;;;;;;;x
 TOTAL_REALM_SIZE;领地规模: $SIZE|Y$;;;;;;;;;;x
@@ -243,7 +243,7 @@ GetGovernorLetterGreeting_string;[From.Offmap.Ruler.GetChineseComplimentAdjectiv
 EVTDESC_JD_20022;[Root.GetGovernorLetterGreeting]。[Root.GetChineseLetterBlessing].\n\n 至高无上的 [From.Offmap.Ruler.GetLongChineseEmperorName] 皇帝陛下仁慈而慷慨地决定，将来自 [From.Offmap.Ruler.GetHerHis] ，以其精湛医术而享有盛名的医生 [chinese_doctor.GetDynName] 赐予你，他定能给予你莫大的帮助。;;;;;;;;;;x
 EVTOPTA_JD_20022;向[From.Offmap.Ruler.GetTitle]致以最诚挚的谢意。;;;;;;;;;;x
 EVTOPTA_JD_20022_TT;§Y[chinese_doctor.GetDynName]§!出现在你的宫廷。;;;;;;;;;;x
-chinese_grace_doctor;请求得到一位天朝医生;;;;;;;;;;x
+chinese_grace_doctor;请赐中国医生;;;;;;;;;;x
 chinese_grace_doctor_allow_tt;没有宫廷医生;;;;;;;;;;x
 GetLongChineseEmperorName_string; [This.PrimaryTitle.GetFullName]的[This.GetOnlyDynastyName] [This.GetBirthName], [This.GetTitle] [This.GetFirstName];;;;;;;;;;x
 GetMediumChineseEmperorName_string;[This.PrimaryTitle.GetFullName] [This.GetTitle] [This.GetFirstName];;;;;;;;;;x
@@ -259,7 +259,7 @@ EVTDESC_JD_20026;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessin
 chinese_grace_peace_deal_allow_tt;和§Y[Root.Offmap.GetFullName]§! 与§Y[Root.Offmap.Governor.GetTitle]§!没有互不侵犯条约或和平协定\n;;;;;;;;;;x
 chinese_grace_peace_deal;请求和平;;;;;;;;;;x
 chinese_grace_peace_deal_effect_tt;\n在和平协议期限内，§Y[Root.Offmap.GetFullName]§!以及它的§Y[Root.Offmap.Governor.GetTitle]§!将不会对你宣战。这将持续§Y50§!年或者直到[Root.Offmap.Ruler.GetOnlyDynastyName]家族的[Root.Offmap.Ruler.GetTitle]朝统治终结。;;;;;;;;;;x
-chinese_grace_become_tributary;成为藩属国;;;;;;;;;;x
+chinese_grace_become_tributary;成为朝贡国;;;;;;;;;;x
 chinese_grace_become_tributary_allow_governor_neighbor_tt;领地有省份与[Root.PrimaryTitle.GetFullName]接壤\n;;;;;;;;;;x
 chinese_grace_become_tributary_allow_tributary_neighbor_tt;领地有省份与[Root.Offmap.GetFullName]的朝贡国接壤\n;;;;;;;;;;x
 chinese_grace_become_tributary_allow_eastern_border_tt;领地拥有在地图东部边界的省份\n;;;;;;;;;;x
@@ -310,10 +310,10 @@ jd_administrative_outpost_desc;一位受过教育的官僚和他的助手在这�
 jd_blast_furnace;高炉;;;;;;;;;;x
 jd_blast_furnace_desc;这座巨大的中国高炉提供了大量的优质铁。;;;;;;;;;;x
 china_offmap_decisions_enabled_trigger_war_tt;与§Y[From.GetTitledFirstName]§!处于和平状态;;;;;;;;;;x
-jd_strategist;天朝军事家;;;;;;;;;;x
+jd_strategist;天朝兵法家;;;;;;;;;;x
 jd_strategist_desc;这位将军系统全面地学习过中国兵法。;;;;;;;;;;x
-chinese_strategist;请赐将军;;;;;;;;;;x
-chinese_strategist_effect_tt;一位将军加入了你的宫廷。他偶尔会把中国兵法传授给其他指挥官。;;;;;;;;;;x
+chinese_strategist;请赐兵法家;;;;;;;;;;x
+chinese_strategist_effect_tt;一位兵法家加入了你的宫廷。他偶尔会把中国兵法传授给其他指挥官。;;;;;;;;;;x
 EVTOPTA_JD_20040_TT;§Y[chinese_strategist.GetDynName]§!出现在你的宫廷。;;;;;;;;;;x
 EVTDESC_JD_20040;[Root.GetGovernorLetterGreeting].。[Root.GetChineseLetterBlessing]。\n\n神圣的[From.Offmap.Ruler.GetLongChineseEmperorName]，已经仁慈地满足了你的愿望。[chinese_strategist.GetDynName]的技艺将在你的掌握之中，在沙盘之中亦或在战场之上。;;;;;;;;;;x
 EVTDESC_JD_20041_A;§Y[commander_teacher.GetDynName]§!教给了你的指挥官§Y[commander_student.GetTitledFirstName]§!中国的兵法。§Y[commander_student.GetTitledFirstName]§!得到了§Y'龙韬'§!特质。;;;;;;;;;;x
@@ -342,12 +342,12 @@ EVTDESC_JD_20048_DECISIVE;每个人都对[From.GetChineseComplimentAdjective]的
 EVTDESC_JD_20048_SOCIABLE;每个人都对天朝From.GetChineseComplimentAdjective][From.GetPrincessPrince][From.GetDynName]殿下的到来感到惊奇。不过[From.GetSheHe]一丁点也不对[Root.GetCapitalLocation]宫廷里夜以继日的准备工作而感到奇怪，反倒是宫廷里的人们对于[From.GetHerHis]宏伟的队伍感到震惊。当那些站在你身边的人开始对那些丝绸旗帜和帝国士兵闪闪发光的盔甲低声细语时，你的目光则越过那精心装饰的肩舆，看向了你未来的[From.GetHusbandWife]。\n[From.GetFirstName][From.GetPrincessPrince]的脸像太阳一样煜煜生辉，[From.GetSheHe]走下来迎接你。[From.GetHerHisCap]目光穿过人群，扫过你宫廷中的每一位扈从，然后与你的目光交汇。赞同的低语证实了你不是唯一被[From.GetPrincessPrince]的魅力打动的人。;;;;;;;;;;x
 EVTDESC_JD_20048_CONSERVATIVE;每个人都对[From.GetChineseComplimentAdjective]天朝[From.GetPrincessPrince][From.GetDynName]殿下的到来感到惊奇。不过[From.GetSheHe]一丁点也不对[Root.GetCapitalLocation]宫廷里夜以继日的准备工作而感到奇怪，反倒是宫廷里的人们对于[From.GetHerHis]宏伟的队伍感到震惊当那些站在你身边的人开始对那些丝绸旗帜和帝国士兵闪闪发光的盔甲低声细语时，你的目光则越过那精心装饰的肩舆，看向了你未来的[From.GetHusbandWife]。\n\n从肩舆中走下来的不仅仅是一个普通的[From.GetManWoman]性，而是一位纯洁、优雅的[From.GetManWoman]性。所以[From.GetSheHe]没有穿过院子来见你。而当你看着[From.GetHerHis]不露声色的脸时，你感到一丝惶恐和敬畏。像你这样的人怎么会配得上这样一位高贵的[From.GetBrideGroom]？;;;;;;;;;;x
 EVTOPTA_JD_20049_TT;§Y[imperial_marriage_spouse_1.GetTitledFirstName]§!和§Y[imperial_marriage_spouse_2.GetTitledFirstName]§!现在结婚了。\n;;;;;;;;;;x
-EVTDESC_JD_20049;我的[GetFromRelation]，[From.GetTitledFirstName]，已经与帝国的[imperial_marriage_spouse_2.GetPrincessPrince] [imperial_marriage_spouse_2.GetPrincessPrince] 结成姻亲。宏大的典礼和这位异国 [imperial_marriage_spouse_2.GetPrincessPrince]将在未来许多年里成为境内人民谈论的话题。;;;;;;;;;;x
+EVTDESC_JD_20049;我的[GetFromRelation]，[From.GetTitledFirstName]，已经与帝国的[imperial_marriage_spouse_2.GetPrincessPrince] [imperial_marriage_spouse_2.GetDynName] 结成姻亲。宏大的典礼和这位异国 [imperial_marriage_spouse_2.GetPrincessPrince]将在未来许多年里成为境内人民谈论的话题。;;;;;;;;;;x
 EVTOPTA_JD_20049;我祝愿他们幸福美满，早生贵子。;;;;;;;;;;x
 taoist;道教;;;;;;;;;;x
 taoist_DESC;道教是一种发源于中华的多神教。虽然传统上被认为是由太上老君——老子在公元前四世纪建立的，但一些元素和实践可以追溯到遍布中原的史前民间宗教。其追随者尊崇“道”——宇宙的内在自然秩序；而其主观表现形式则是“德”——个人内在的德性。比起死后的世界，道教信徒更注重生前，他们相信通过包括精神修习和炼丹术在内的各种方法可以求得长生。在游戏中，对道教社会内善治的强烈关注体现为所有道教人物都得到了管理能力的奖励。;;;;;;;;;;x
 GOD_HEAVENLY_ORDER;天命;;;;;;;;;;x
-GOD_YANSHIH_TIENTSUN;元始天尊（创世之初的天界仙人）;;;;;;;;;;x
+GOD_YANSHIH_TIENTSUN;元始天尊;;;;;;;;;;x
 THE_ANCESTORS;祖先;;;;;;;;;;x
 THE_THREE_PURITIES;三清;;;;;;;;;;x
 KING_YAN;阎王;;;;;;;;;;x
@@ -423,30 +423,30 @@ china_plague;大瘟疫;;;;;;;;;;x
 china_golden_age;盛世;;;;;;;;;;x
 TXT_GRACE;皇恩;;;;;;;;;;x
 title_china_emperor;皇帝;;;;;;;;;;x
-tang_china;唐;;;;;;;;;;x
-jin_china;金;;;;;;;;;;x
-wei_china;魏;;;;;;;;;;x
-qi_china;齐;;;;;;;;;;x
-zhou_china;周;;;;;;;;;;x
-han_china;汉;;;;;;;;;;x
-qin_china;秦;;;;;;;;;;x
-yan_china;燕;;;;;;;;;;x
-zhao_china;赵;;;;;;;;;;x
-liao_china;辽;;;;;;;;;;x
-yuan_china;元;;;;;;;;;;x
-xia_china;夏;;;;;;;;;;x
-qing_china;清;;;;;;;;;;x
-dai_china;代;;;;;;;;;;x
-cheng_china;成;;;;;;;;;;x
-liang_china;梁;;;;;;;;;;x
-song_china;宋;;;;;;;;;;x
-ming_china;明;;;;;;;;;;x
-shu_china;蜀;;;;;;;;;;x
-wu_china;吴;;;;;;;;;;x
-chu_china;楚;;;;;;;;;;x
-yue_china;越;;;;;;;;;;x
-yin_china;殷;;;;;;;;;;x
-shun_china;顺;;;;;;;;;;x
+tang_china;大唐;;;;;;;;;;x
+jin_china;大金;;;;;;;;;;x
+wei_china;大魏;;;;;;;;;;x
+qi_china;大齐;;;;;;;;;;x
+zhou_china;大周;;;;;;;;;;x
+han_china;大汉;;;;;;;;;;x
+qin_china;大秦;;;;;;;;;;x
+yan_china;大燕;;;;;;;;;;x
+zhao_china;大赵;;;;;;;;;;x
+liao_china;大辽;;;;;;;;;;x
+yuan_china;大元;;;;;;;;;;x
+xia_china;大夏;;;;;;;;;;x
+qing_china;大清;;;;;;;;;;x
+dai_china;大代;;;;;;;;;;x
+cheng_china;大成;;;;;;;;;;x
+liang_china;大梁;;;;;;;;;;x
+song_china;大宋;;;;;;;;;;x
+ming_china;大明;;;;;;;;;;x
+shu_china;大蜀;;;;;;;;;;x
+wu_china;大吴;;;;;;;;;;x
+chu_china;大楚;;;;;;;;;;x
+yue_china;大越;;;;;;;;;;x
+yin_china;大殷;;;;;;;;;;x
+shun_china;大顺;;;;;;;;;;x
 china_china;中华;;;;;;;;;;x
 china_china_full;中华帝国;;;;;;;;;;x
 EVTDESC_JD_10011;我的[adventurous_spirit.GetRootRelation] [adventurous_spirit.GetFirstName]提议前往[the_protector_general.Offmap.GetFullName]，执行一项给[Root.PrimaryTitle.GetFullName]增添荣耀的任务。“求求您，我的[Root.GetLordLady]，“[adventurous_spirit.GetSheHe]说，“让一位谦卑的仆人加深您与[the_protector_general.Offmap.Ruler.GetShortChineseEmperorName]的关系！“;;;;;;;;;;x
@@ -546,7 +546,7 @@ String_personality_poet;诗歌，头韵，和我们最喜欢的诗节;;;;;;;;;;x
 String_personality_falconer;我应该多花些时间和我的猎鹰在一起，不知像他们那样翱翔在天空会是什么样的感觉;;;;;;;;;;x
 String_personality_mystic;我们对现实生活中无形的素质知之甚少。;;;;;;;;;;x
 String_personality_learned;遇见一位学者的喜悦;;;;;;;;;;x
-String_personality_council_member;作为一名议员，在公园里并不总是散步，但最终还是值得的。;;;;;;;;;;x
+String_personality_council_member;作为一名内阁成员，在公园里并不总是散步，但最终还是值得的。;;;;;;;;;;x
 String_personality_council_member_same_liege;[Root.Liege.GetTitledName]的内阁成员有时会有点麻烦;;;;;;;;;;x
 String_personality_fallback;与去年相比，这是一个令人惊讶的温和天气。;;;;;;;;;;x
 String_GetMediumDisabilityDesc_one_legged;独腿;;;;;;;;;;x
@@ -556,7 +556,7 @@ String_GetMediumDisabilityDesc_clubfooted;下肢畸形;;;;;;;;;;x
 String_GetMediumDisabilityDesc_hunchback;无法保持背部挺直;;;;;;;;;;x
 String_GetMediumDisabilityDesc_dwarf;比平均身高矮很多;;;;;;;;;;x
 chinese_grace_offer_concubine;进贡侍妾;;;;;;;;;;x
-chinese_grace_offer_concubine_desc;将一位侍女送去§Y[Root.Offmap.GetFullName]§!为天朝皇帝服务，她将在中国度过她的余生。\n;;;;;;;;;;x
+chinese_grace_offer_concubine_desc;将一位廷臣送去§Y[Root.Offmap.GetFullName]§!为天朝皇帝服务，他将在中国度过余生。\n;;;;;;;;;;x
 china_tribute_send_concubine_cooldown_tt;过去20年里没有进贡侍妾;;;;;;;;;;x
 chinese_grace_offer_eunuch;进贡宦官;;;;;;;;;;x
 chinese_grace_offer_eunuch_desc;把你的一个廷臣送去§Y[Root.Offmap.GetFullName]§!为天朝皇帝服务，他将在中国度过他的余生。\n;;;;;;;;;;x
@@ -586,7 +586,7 @@ String_eunuch_is_strong_decent;虽然看起来缺乏智谋，但[person_sent_as_
 String_eunuch_is_smart_decent;这位名为[person_sent_as_tribute.GetTitledFirstName]的宦官表现很不错，我们很满意。;;;;;;;;;;x
 String_eunuch_is_attractive_decent;感谢你送来的这位颇有魅力的宦官，他很适合这里的工作。;;;;;;;;;;x
 String_eunuch_is_architect_decent;但愿我们能接受你派遣给我们的建筑师;;;;;;;;;;x
-String_eunuch_is_strategist_decent;但愿我们能接受你派遣给我们的军事家;;;;;;;;;;x
+String_eunuch_is_strategist_decent;但愿我们能接受你派遣给我们的兵法家;;;;;;;;;;x
 String_eunuch_is_scholar_decent;祈祷我们能享受到[person_sent_as_tribute.GetTitledFirstName];;;;;;;;;;x
 String_eunuch_is_faqih_decent;但愿我们能接受你派遣给我们的教法学家;;;;;;;;;;x
 String_eunuch_has_top_education;[person_sent_as_tribute.GetTitledFirstName]通过他受过的优异教育，给人留下了深刻的印象;;;;;;;;;;x
@@ -600,7 +600,7 @@ String_eunuch_is_strong;我们一定会为[person_sent_as_tribute.GetManWoman]�
 String_eunuch_is_smart;我们很高兴，这位名为[person_sent_as_tribute.GetTitledFirstName]的宦官实在有趣。;;;;;;;;;;x
 String_eunuch_is_attractive;我们很高兴您送了这么赏心悦目的臣民为我们服务;;;;;;;;;;x
 String_eunuch_is_architect;我们将任用你派遣的建筑师;;;;;;;;;;x
-String_eunuch_is_strategist;我们将任用你派遣的军事家;;;;;;;;;;x
+String_eunuch_is_strategist;我们将任用你派遣的兵法家;;;;;;;;;;x
 String_eunuch_is_scholar;我们已经欣赏了[person_sent_as_tribute.GetTitledFirstName]的学术思想。;;;;;;;;;;x
 String_eunuch_is_faqih;我们将任用你派遣的教法学家;;;;;;;;;;x
 String_eunuch_fallback_bad;虽然我们很失望，但我们会尽量利用宦官;;;;;;;;;;x
@@ -626,7 +626,7 @@ String_concubine_is_strong_decent;尽管她显著地缺乏过人的智力，[per
 String_concubine_is_smart_decent; [person_sent_as_tribute.GetTitledFirstName]的机敏让她成为了一名妙不可言的伴侣;;;;;;;;;;x
 String_concubine_is_attractive_decent;你为我们做了一件大好事，不错。;;;;;;;;;;x
 String_concubine_is_architect_decent;我们希望能欣赏你派给我们的建筑师。;;;;;;;;;;x
-String_concubine_is_strategist_decent;我们希望能享受你们派给我们的军事家;;;;;;;;;;x
+String_concubine_is_strategist_decent;我们希望能享受你们派给我们的兵法家;;;;;;;;;;x
 String_concubine_is_scholar_decent;祈祷我们喜欢 [person_sent_as_tribute.GetTitledFirstName]的学术观点;;;;;;;;;;x
 String_concubine_is_faqih_decent;我们将欣然接受你送给我们的教法学家。;;;;;;;;;;x
 String_concubine_has_top_education;[person_sent_as_tribute.GetTitledFirstName]一定会对[person_sent_as_tribute.GetHerHis]的教育印象深刻;;;;;;;;;;x
@@ -640,7 +640,7 @@ String_concubine_is_strong;我们一定会为[person_sent_as_tribute.GetTitledFi
 String_concubine_is_smart; [person_sent_as_tribute.GetTitledFirstName]作为一名聪明的女孩令人心情愉悦;;;;;;;;;;x
 String_concubine_is_attractive;我们非常乐意地接受你送来侍奉的这位美丽尤物;;;;;;;;;;x
 String_concubine_is_architect;我们很欣赏你送来的建筑师;;;;;;;;;;x
-String_concubine_is_strategist;我们将欣然接受你送给我们的军事家。;;;;;;;;;;x
+String_concubine_is_strategist;我们将欣然接受你送给我们的兵法家。;;;;;;;;;;x
 String_concubine_is_scholar;我们已经受到了[person_sent_as_tribute.GetTitledFirstName]的学术思想的启发;;;;;;;;;;x
 String_concubine_is_faqih;我们将任用你给我们派遣的教法学家。;;;;;;;;;;x
 String_concubine_fallback_bad;虽然很失望，但我们还是要尽量利用好这个侍妾。;;;;;;;;;;x
@@ -773,7 +773,7 @@ ducal_county_conquest_desc;你拥有§Y$TARGET$§!公国的宣称。 通过花�
 CB_NAME_LIBERATE_RELIGION;对[Title.GetBaseName]的宗教解放;;;;;;;;;;x
 WAR_NAME_LIBERATE_RELIGION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ 宗教解放 [Title.GetBaseName] 战争;;;;;;;;;;x
 liberate_religion_desc;§Y$TARGET$§!是个异教徒，但是他领地里的人民却尊崇真正的神明。我们应当让那些受压迫的人得到解放！;;;;;;;;;;x
-religious_liberation_cb_succ_tip;§Y[This.GetFullBaseName]§!将会被来自§Y[Root.Religion.GetName]§! 信仰的新领主所解放!这位领主将会成为您的§Y附庸国§!;;;;;;;;;;x
+religious_liberation_cb_succ_tip;§Y[This.GetFullBaseName]§!将会被来自§Y[Root.Religion.GetName]§! 信仰的新领主所解放!这位领主将会成为您的§Y朝贡国§!;;;;;;;;;;x
 EVTDESC_JD_2100;当我听说[liberate_target.GetBestName]领地内的[Root.Religion.GetName] 信徒们的灵魂受到压迫时，心中顿时充满了火热与痛苦。虽然[Root.Religion.GetHighGodName] 定意要让他所有真信徒能自由地决定自己的命运, 但如果 [Root.Religion.GetHighGodName] 专注神圣的事业,那我是否应该执行 [Root.Religion.GetHighGodName]的旨意?;;;;;;;;;;x
 EVTOPTA_JD_2100;我必须解放我的 [Root.Religion.GetName] 同胞！;;;;;;;;;;x
 EVTOPTB_JD_2100;我有更好的事情做……;;;;;;;;;;x
@@ -816,7 +816,7 @@ tributary_offmap_cb_desc;中国可以通过战争迫使国家向他们朝贡.;;;
 TRIBUTARY_OFFMAP_NAME;帝国的朝贡国;;;;;;;;;;x
 TRIBUTARY_OFFMAP_PLURAL;帝国朝贡国;;;;;;;;;;x
 SUZERAIN_OFFMAP_NAME;帝国领主;;;;;;;;;;x
-TRIBUTARY_NOMADIC_NAME;游牧附庸;;;;;;;;;;x
+TRIBUTARY_NOMADIC_NAME;游牧的朝贡国;;;;;;;;;;x
 TRIBUTARY_NOMADIC_PLURAL;游牧的朝贡国;;;;;;;;;;x
 SUZERAIN_NOMADIC_NAME;游牧领主;;;;;;;;;;x
 offmap_submission_tip;§Y[Root.GetTitledFirstName]§!用武力强制§Y[This.GetTitledName]§!臣服并成为他们的境内之民。\n§Y[Root.GetTitledFirstName]§! 将篡夺§Y伯爵领§! 直到[Root.GetHerHis]达到§Y直辖领§!的上限！\n;;;;;;;;;;x
@@ -825,17 +825,17 @@ CB_NAME_PERMANENT_TRIBUTARY;建立朝贡国;;;;;;;;;;x
 WAR_NAME_PERMANENT_TRIBUTARY;$ORDER$$FIRST_ADJ$ 令 $DEFENDER$ 朝贡战争;;;;;;;;;;x
 tributary_permanent_cb_desc;§Y$TARGET$§!十分虚弱，但是如果他们用金钱和士兵向你交付贡税，就可以被你保护起来！\n\n你可以通过战争强迫任何位于你或你的§Y朝贡国§!边界的邻国缴纳§Y20%§!收入和 §Y15%§!的增援力量以作为贡赋。\n只有在§Y宗主国§! 拥有§R负§! §Y威望§!， §R不是§! §Y独立领主§!，或 §Y领土规模§!§R小§!于 §Y朝贡国§!的情况下，或者是§R拒绝防御性§! §Y朝贡国§!的§Y参战要求§!的时候才会脱离朝贡。\n这种类型的§Y朝贡国§!§R不§! 可以被召入战争。;;;;;;;;;;x
 tributary_cb_desc;§Y$TARGET$§! 很富裕因此应当向你朝贡!\n\n你可以通过战争强迫任何位于你边界的邻国缴纳§Y40%§!收入以作为贡赋。\n在§Y宗主§! 死亡的情况下会§R脱离朝贡§!。\n这种类型的§Y朝贡国§!可以被召入战争;;;;;;;;;;x
-CB_NAME_NOMAD_TRIBUTARY;建立附庸国;;;;;;;;;;x
+CB_NAME_NOMAD_TRIBUTARY;建立朝贡关系;;;;;;;;;;x
 WAR_NAME_NOMAD_TRIBUTARY;$ORDER$$FIRST_ADJ$ 令 $DEFENDER$ 朝贡战争;;;;;;;;;;x
 tributary_nomad_cb_desc;§Y$TARGET$§!的领域如此虚弱，根本不是我的对手，是时候让他们朝贡了，否则我的雷霆铁蹄将会碾碎他们！\n\n你可以通过战争强迫任何位于你或你的§Y朝贡国§!边界的邻国缴纳§Y50%§!收入以作为贡赋。\n只有在§Y宗主§! 拥有§R负§! §Y威望§!的情况下才会脱离朝贡。\n这种类型的§Y朝贡国§!可以被召入战争，不过你并不一定要响应他们的§Y参战要求§!。;;;;;;;;;;x
-tributary_independence_normal;停止支付贡品;;;;;;;;;;x
+tributary_independence_normal;停止进贡;;;;;;;;;;x
 tributary_independence_normal_desc;我的§Y宗主§!软弱无力，无法阻止我不向他们进贡;;;;;;;;;;x
 EVTDESC_JD_2200;我们的朝贡国[From.PrimaryTitle.GetName]决定停止向我们朝贡 —— [From.GetTitledFirstName] 称我们“软弱”并宣称我们“无法保护[From.GetHerHis]国境”，多么可笑！;;;;;;;;;;x
 EVTOPTA_JD_2200;也许是时候做出决定了。让[From.GetHerHim]回到队伍里……;;;;;;;;;;x
 tributary_independence_china;终止进贡;;;;;;;;;;x
 tributary_independence_china_desc;§Y[offmap_china.GetName]§!正在变得虚弱，他们无力阻挡我国脱离朝贡体系了;;;;;;;;;;x
 MODIFIER_SAME_RELIGION_OPINION;同宗好感;;;;;;;;;;x
-chinese_grace_offer_artifact;赠送宝物;;;;;;;;;;x
+chinese_grace_offer_artifact;进贡宝物;;;;;;;;;;x
 chinese_grace_offer_artifact_desc;奉上一件无价的宝物给§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!.;;;;;;;;;;x
 china_tribute_send_artifact_cooldown_tt;没有在10年内送出宝物;;;;;;;;;;x
 d_han_massive;青龙军;;;;;;;;;;x
@@ -927,7 +927,7 @@ OFFMAP_TMP_POWER_FLAG_TRIGGER_NOT;没有一个临时标志$FLAG|Y$;;;;;;;;;;x
 OFFMAP_POWER_FLAG_TRIGGER;拥有标记 $FLAG|Y$;;;;;;;;;;x
 OFFMAP_POWER_FLAG_TRIGGER_NOT;没有标志 $FLAG|Y$;;;;;;;;;;x
 TRIBUTARY_LOST_UNLANDED_SETUP;失去朝贡国;;;;;;;;;;x
-TRIBUTARY_LOST_UNLANDED_LOG;因为$UNLANDED|Y$已经没有土地，$TRIBUTARY|Y$不再是$SUZERAIN|Y$的附庸国。;;;;;;;;;;x
+TRIBUTARY_LOST_UNLANDED_LOG;因为$UNLANDED|Y$已经没有土地，$TRIBUTARY|Y$不再是$SUZERAIN|Y$的朝贡国。;;;;;;;;;;x
 TRIBUTARY_LOST_VASSALIZED_SETUP;失去朝贡国;;;;;;;;;;x
 TRIBUTARY_LOST_VASSALIZED_LOG;$TRIBUTARY|Y$ 不再是$SUZERAIN|Y$的朝贡国，因为$CHAR|Y$成为了$LIEGE|Y$的封臣。;;;;;;;;;;x
 TRIBUTARY_TRANSFER_INHERITANCE_SETUP;朝贡国转移;;;;;;;;;;x
@@ -980,7 +980,7 @@ NEW_ARTIFACT_RECEIVED_LOG;$CHARACTER|Y$获得了全新而精美的$ARTIFACT|Y$�
 INHERITANCE_LOST_ARTIFACTS_SETUP;宝物在继承过程中被损坏;;;;;;;;;;x
 INHERITANCE_LOST_ARTIFACTS_MULTIPLE_SETUP;多个宝物在继承过程中被损坏;;;;;;;;;;x
 INHERITANCE_LOST_ARTIFACTS_MULTIPLE_LOG;在交接权力时，$CHARACTER$失去了他们的$ARTIFACT$及其它物品。\n清单：$FULL_LIST$;;;;;;;;;;x
-CB_NAME_RELIGIOUS_MINOR;小型圣战目标[Title.GetBaseName];;;;;;;;;;x
+CB_NAME_RELIGIOUS_MINOR;[Title.GetBaseName]小型圣战;;;;;;;;;;x
 RETTYPE_CUL_TIBET;喜马拉雅山民;;;;;;;;;;x
 mountain_ambush_tactic;山地伏击战术;;;;;;;;;;x
 ca_culture_tibetan_1;山民学院;;;;;;;;;;x
@@ -1023,7 +1023,7 @@ PROV1471;库马查尔;;;;;;;;;;x
 PROV1472;久姆拉;;;;;;;;;;x
 PROV1473;多蒂;;;;;;;;;;x
 PROV1474;蓝毗尼;;;;;;;;;;x
-PROV1475;博克拉;;;;;;;;;;x
+PROV1475;博卡拉;;;;;;;;;;x
 PROV1476;芒域;;;;;;;;;;x
 PROV1477;贾纳克布尔;;;;;;;;;;x
 PROV1478;加德满都;;;;;;;;;;x
@@ -1044,7 +1044,7 @@ PROV1492;萨迦;;;;;;;;;;x
 PROV1493;措勤;;;;;;;;;;x
 PROV1494;改则;;;;;;;;;;x
 PROV1495;桑多;;;;;;;;;;x
-PROV1496;匹播;;;;;;;;;;x
+PROV1496;达孜;;;;;;;;;;x
 PROV1497;江孜;;;;;;;;;;x
 PROV1498;逻娑;;;;;;;;;;x
 PROV1499;日喀则;;;;;;;;;;x
@@ -1081,8 +1081,8 @@ c_gyantse;江孜;;;;;;;;;;x
 c_gyantse_adj;江孜;;;;;;;;;;x
 c_shigatse;日喀则;;;;;;;;;;x
 c_shigatse_adj;日喀则;;;;;;;;;;x
-c_taktse;匹播;;;;;;;;;;x
-c_taktse_adj;匹播;;;;;;;;;;x
+c_taktse;达孜;;;;;;;;;;x
+c_taktse_adj;达孜;;;;;;;;;;x
 d_bhutan;不丹;;;;;;;;;;x
 d_bhutan_adj;不丹;;;;;;;;;;x
 c_bumthang;布姆唐;;;;;;;;;;x
@@ -1167,8 +1167,8 @@ c_limbuwan;林布旺;;;;;;;;;;x
 c_limbuwan_adj;林布旺;;;;;;;;;;x
 d_gorkha;廓尔喀;;;;;;;;;;x
 d_gorkha_adj;廓尔喀;;;;;;;;;;x
-c_pokhara;博克拉;;;;;;;;;;x
-c_pokhara_adj;博克拉;;;;;;;;;;x
+c_pokhara;博卡拉;;;;;;;;;;x
+c_pokhara_adj;博卡拉;;;;;;;;;;x
 c_jumla;久姆拉;;;;;;;;;;x
 c_jumla_adj;久姆拉;;;;;;;;;;x
 c_doti;多蒂;;;;;;;;;;x
@@ -1478,7 +1478,7 @@ b_tashilhunpo;扎什伦布寺;;;;;;;;;;x
 b_shalu;夏鲁寺;;;;;;;;;;x
 b_deleg;德勒;;;;;;;;;;x
 b_naktsang;塔克桑;;;;;;;;;;x
-b_taktse;匹播;;;;;;;;;;x
+b_taktse;达孜;;;;;;;;;;x
 b_zetang;泽当;;;;;;;;;;x
 b_samye;桑耶寺;;;;;;;;;;x
 b_tradruk;昌珠;;;;;;;;;;x
@@ -1591,7 +1591,7 @@ likes_concubines;侍妾;;;;;;;;;;x
 likes_eunuchs;宦官;;;;;;;;;;x
 likes_wealth;财富;;;;;;;;;;x
 likes_tributaries;朝贡国;;;;;;;;;;x
-likes_indians;天竺文化;;;;;;;;;;x
+likes_indians;印度文化;;;;;;;;;;x
 likes_dravidians;达罗毗荼文化;;;;;;;;;;x
 likes_tibetans;吐蕃文化;;;;;;;;;;x
 likes_germanics;日耳曼文化;;;;;;;;;;x
@@ -1628,7 +1628,7 @@ OFFMAP_LIKES_TOOLTIP;皇帝喜欢 $CURRENT|Y$;;;;;;;;;;x
 OFFMAP_LIKES_AND_DISLIKES_DESC;§L天朝皇帝有着不同的兴趣和品味。这对所有试图获取皇恩的的行为有着很大的影响。皇帝会同时关注你的特质（例如文化）和你的特别贡品（例如侍妾）...§!;;;;;;;;;;x
 OFFMAP_DISLIKES_TOOLTIP;皇帝不喜欢 $CURRENT|Y$;;;;;;;;;;x
 OFFMAP_DYNASTY_DESC;现在的皇朝是$DYNASTY|Y$，出自$CULTURE|Y$。;;;;;;;;;;x
-OFFMAP_RULER_DESC;§YEmperor $NAME$§!\n年龄：$AGE|Y$\n文化：$CULTURE|Y$\n宗教：$RELIGION|Y$;;;;;;;;;;x
+OFFMAP_RULER_DESC;§Y皇帝 $NAME$§!\n年龄：$AGE|Y$\n文化：$CULTURE|Y$\n宗教：$RELIGION|Y$;;;;;;;;;;x
 SET_OFFMAP_LIKE_RANDOM;$OFFMAP|Y$ 现在喜爱其他东西;;;;;;;;;;x
 SET_OFFMAP_LIKE;$OFFMAP|Y$ 现在喜爱 $LIKE|Y$;;;;;;;;;;x
 SET_OFFMAP_DISLIKE_RANDOM;$OFFMAP|Y$ 现在喜欢其他东西了;;;;;;;;;;x
@@ -1733,7 +1733,7 @@ EVTDESC_JD_50021_OPEN;天朝现在放弃了 [FromFrom.GetPrevPolicy] 的政策�
 EVTDESC_JD_50021_ISO;中国已从[FromFrom.GetPrevPolicy]转向闭关锁国。中华帝国的皇帝[FromFrom.Ruler.GetDynName]为了[GetChinaIsolationPastime]，已对围绕着中土的蛮夷关闭了边境。;;;;;;;;;;x
 EVTDESC_JD_50021_EXP;中国伟大的[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]突然对世界的其他部分有了兴趣，特别是西方。这个新的扩张政策将警告着那些还没给中国朝贡的邻国君主。\n\n巨龙醒了。;;;;;;;;;;x
 EVTOPT_JD_50021_ISO;留给[FromFrom.Ruler.GetEmperorEmpress] 完成[FromFrom.Ruler.GetPossPronoun] 的时间不多了……;;;;;;;;;;x
-String_Iso_Peach_Gardens;注意帝国的桃园;;;;;;;;;;x
+String_Iso_Peach_Gardens;注重皇家桃园;;;;;;;;;;x
 String_Iso_Giant_Mausoleum;建造一个巨大的陵墓;;;;;;;;;;x
 String_Iso_Calligraphy;练习书法艺术;;;;;;;;;;x
 String_Iso_I_Ching;占卜易经的秘密;;;;;;;;;;x
@@ -1768,15 +1768,15 @@ EVTDESC_JD_50141_BOOST;在中国已经遭受[offmap_china.GetPrevStatus]之际�
 EVTDESC_JD_50141_PENALTY;正当中国正在经历一场几乎前所未有的[offmap_china.GetPrevStatus]时，一个庞大的蒙古部落已经越过边界进入河北，意图征服整个帝国，但巨龙是强大有力的，凶悍的草原勇士陷入了艰巨的斗争中。;;;;;;;;;;x
 EVTOPT_JD_50141;大凶之兆！;;;;;;;;;;x
 INTERESTING;有趣……;;;;;;;;;;x
-EVTDESC_JD_50161;经过多年不断的涉及数十万的士兵的冲突与较量，久经沙场的中国军队最终还是赢得了在[GetRandomChineseRegion]附近的决战。蒙古大汗被杀，他的怯薜卫士也无人生还。;;;;;;;;;;x
+EVTDESC_JD_50161;经过多年不断的涉及数十万的士兵的冲突与较量，久经沙场的中国军队最终还是赢得了在[GetRandomChineseRegion]附近的决战。蒙古可汗被杀，他的怯薜卫士也无人生还。;;;;;;;;;;x
 EVTOPT_JD_50161;小心东方的巨龙……;;;;;;;;;;x
-EVTDESC_JD_50162;经过连年的战乱不休、尸骨遍地，蒙古人成为了最后的赢家。关键战役发生在[GetRandomChineseRegion]。现在蒙古大汗[offmap_china.Ruler.GetDynName][offmap_china.Ruler.GetEmperorEmpress] 坐在龙椅上，成为一个新王朝的开创者!然而，中国很可能会在未来的许多年里遭受动荡……;;;;;;;;;;x
+EVTDESC_JD_50162;经过连年的战乱不休、尸骨遍地，蒙古人成为了最后的赢家。关键战役发生在[GetRandomChineseRegion]。现在蒙古可汗[offmap_china.Ruler.GetDynName][offmap_china.Ruler.GetEmperorEmpress] 坐在龙椅上，成为一个新王朝的开创者!然而，中国很可能会在未来的许多年里遭受动荡……;;;;;;;;;;x
 EVTOPT_JD_50162;蒙古人真的很可怕！;;;;;;;;;;x
 EVTDESC_JD_50181_BOOST;在中国经历了[FromFrom.GetPrevStatus]的浩劫后，又一则噩耗被呈给了中原王朝的权力中枢——一位伟大的可汗完成了对鸭绿江畔的女真部落的统一。由凶悍的马上战士组成的游牧大队正穿过东北向帝国内部进发。很明显，这不是一次对帝国边境防御的普通袭扰。;;;;;;;;;;x
 EVTDESC_JD_50181_PENALTY;中国正在经历一场前所未有的[FromFrom.GetPrevStatus]，此刻一支强大的女真部落已经渡过辽水，直欲径取幽燕。然而天朝上国幅员万里，民丰物赡，带甲百万，岂能轻易向蛮夷屈服？凶猛的草原战士已经陷入了一场鏖战...;;;;;;;;;;x
-EVTDESC_JD_50201;经过多年不断的涉及数十万的士兵的冲突与较量，久经沙场的中国军队终于在邻近 [GetRandomChineseRegion]的地方成功地赢得了一场决定性的战役。女真大汗被杀，他的精锐卫队也无人生还。;;;;;;;;;;x
+EVTDESC_JD_50201;经过多年不断的涉及数十万的士兵的冲突与较量，久经沙场的中国军队终于在邻近 [GetRandomChineseRegion]的地方成功地赢得了一场决定性的战役。女真可汗被杀，他的精锐卫队也无人生还。;;;;;;;;;;x
 EVTOPT_JD_50201;龙之咆哮……;;;;;;;;;;x
-EVTDESC_JD_50202;经过多年不断的涉及数十万的士兵的冲突与较量，女真人终于胜利了。这场决定性的战役是在[GetRandomChineseRegion]附近进行的。现在，女真大汗坐在龙椅上被当作[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]，一个新王朝的开创者!然而，中国很可能会在未来的许多年里遭受动荡……;;;;;;;;;;x
+EVTDESC_JD_50202;经过多年不断的涉及数十万的士兵的冲突与较量，女真人终于胜利了。这场决定性的战役是在[GetRandomChineseRegion]附近进行的。现在，女真可汗坐在龙椅上被当作[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]，一个新王朝的开创者!然而，中国很可能会在未来的许多年里遭受动荡……;;;;;;;;;;x
 EVTOPT_JD_50202;这些女真人听上去很危险...;;;;;;;;;;x
 EVTDESC_JD_50281_UNREST;中国长期的动乱与分散的农民叛乱已经爆发成全面内战！许多人认为[FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName]虚弱不堪，已经失去了天命。当[FromFrom.Ruler.GetSubjectPronoun]逃到了[GetRandomChineseRegion]，大量的叛军仍在进军，攻击忠于朝廷的城池。然而，叛军还未被团结到一个领袖的旗帜下，仍在因为起各种内讧而甚至攻击彼此。丝绸之路的获益减半，朝贡国可以利用这次机会自由脱离，因为中国现在无法帮助被攻击的朝贡国。;;;;;;;;;;x
 EVTOPT_JD_50281;一个家族分裂了...;;;;;;;;;;x
@@ -1967,7 +1967,7 @@ b_huxinba;湖心坝;;;;;;;;;;x
 b_donghuamen;东华门;;;;;;;;;;x
 b_shikeng;石坑;;;;;;;;;;x
 b_beilanzhuang;北兰庄;;;;;;;;;;x
-b_xiafang;下方;;;;;;;;;;x
+b_xiafang;狭方;;;;;;;;;;x
 b_pailouxia;牌楼下;;;;;;;;;;x
 b_huachuantsun;花川村;;;;;;;;;;x
 b_dingjiazhai;丁家寨;;;;;;;;;;x
@@ -2034,8 +2034,8 @@ GetRelation_Concubine;侍妾;;;;;;;;;;x
 emperor_likes_THIS_tt;(§G皇帝喜欢 [This.GetLike]§!);;;;;;;;;;x
 emperor_dislikes_THIS_tt;(§R皇帝不喜歡 [This.GetDislike]§!);;;;;;;;;;x
 emperor_has_ambiguous_feelings_of_THIS_tt;(§G皇帝喜欢 [This.GetLike]§! 但 §R不喜欢 [This.GetDislike]§!);;;;;;;;;;x
-send_eunuch_potential_tt;§Y宦官要求§!:\n必须是有卓越才能的成年男性，或者是你年满十二岁的近亲\n不可持有领地\n不可有以下任何特质：§Y无能§!， §Y近亲缺陷§!，或者§Y低能§！;;;;;;;;;;x
-send_concubine_potential_tt;§Y侍妾要求§!:\n必须是你的近亲\n必须成年\n必须小于45岁\n不能结婚或者订婚\n不可有以下任何特质：§Y无能§!， §Y近亲缺陷§!，或者§Y低能§！;;;;;;;;;;x
+send_eunuch_potential_tt;§Y宦官要求§!：\n必须是有卓越才能的成年男性，或者是你年满十二岁的近亲\n不可持有领地\n不可有以下任何特质：§Y无能§!， §Y近亲缺陷§!，或者§Y低能§!;;;;;;;;;;x
+send_concubine_potential_tt;§Y侍妾要求§!:\n必须是你的近亲\n必须成年\n必须小于45岁\n不能结婚或者订婚\n不可有以下任何特质：§Y无能§!， §Y近亲缺陷§!，或者§Y低能§!;;;;;;;;;;x
 SAVE_LOAD_RESTART_NEEDED;§R加载多个存档会导致OOS问题。\n重启游戏或主机以选择其它的剧本或存档§!;;;;;;;;;;x
 OFFMAP_VIEW_BUTTON_DELAYED;单击§G右键§!打开$OFFMAP_SHORT|Y$§G地图模式。;;;;;;;;;;x
 DEATH_IN_CHINA_NO_KILLER;死于中国;;;;;;;;;;x
@@ -2077,7 +2077,7 @@ REVOLT_DISTANCE_TRIGGER;叛乱距离是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 SETTLEMENT_AGE_TRIGGER;领地是$COMPARISON$ $VALUE|Y$年;;;;;;;;;;x
 TITLE_RATING_TRIGGER;拥有头衔的评级是$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 HOLY_SITES_TRIGGER;控制$COMPARISON$ $VALUE|Y$个圣地;;;;;;;;;;x
-NUM_VASSALS_TRIGGER;拥有 $COMPARISON$ $VALUE|Y$ 附属;;;;;;;;;;x
+NUM_VASSALS_TRIGGER;拥有 $COMPARISON$ $VALUE|Y$ 封臣;;;;;;;;;;x
 NUM_PLOT_BACKERS_TRIGGER;拥有$COMPARISON$ $VALUE|Y$个阴谋支持者;;;;;;;;;;x
 NUM_PRISONERS_TRIGGER;拥有$COMPARISON$ $VALUE|Y$个囚犯;;;;;;;;;;x
 DAYS_IMPRISONED_TRIGGER;已被监禁$COMPARISON$ $VALUE|Y$天;;;;;;;;;;x
@@ -2092,7 +2092,7 @@ AGE_COMPARISON_TRIGGER;年龄是 $COMPARISON$ $TARGET|Y$;;;;;;;;;;x
 WARSCORE_TRIGGER;战争分数为$COMPARISON$ $VALUE|Y$%;;;;;;;;;;x
 NUM_BUILDINGS_TRIGGER;$COMPARISON$ $VALUE|Y$在$WHERE|Y$建造;;;;;;;;;;x
 OVER_MAX_DEMESNE_SIZE_TRIGGER;超过最大领地数量$COMPARISON$ $VALUE|Y$;;;;;;;;;;x
-OVER_MAX_VASSAL_SIZE_TRIGGER;超过最大封臣限制;;;;;;;;;;x
+OVER_MAX_VASSAL_SIZE_TRIGGER;超过最大封臣数量限制;;;;;;;;;;x
 OPINION_TRIGGER;好感度是 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 PERSONAL_OPINION_TRIGGER;个人好感度是 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
 CLAN_OPINION_TRIGGER;部族看法 $COMPARISON$ $VALUE|Y$;;;;;;;;;;x
@@ -2232,7 +2232,7 @@ TRIBUTARY_BREAKS_ON_REALM_CHANGE;*当任意一方成为另一国附庸时朝贡�
 TRIBUTARY_CAN_CALL_SUZERAIN;* 朝贡国可以请求宗主国加入战争;;;;;;;;;;x
 TRIBUTARY_SUZERAIN_MUST_DEFEND;* 宗主不能回绝加入防御性战争的请求;;;;;;;;;;x
 TRIBUTARY_CAN_CALL_TRIBUTARY;* 宗主国可以召唤朝贡国加入战争;;;;;;;;;;x
-TRIBUTARY_TRIBUTARY_MUST_DEFEND;附庸国不能拒绝加入防御战争;;;;;;;;;;x
+TRIBUTARY_TRIBUTARY_MUST_DEFEND;* 朝贡国不能拒绝加入防御战争;;;;;;;;;;x
 TRIBUTARY_TRIBUTARIES_CAN_INFIGHT;* 朝贡国可以打其他朝贡国;;;;;;;;;;x
 TRIBUTARY_SUZERAIN_CAN_JOIN_INFIGHTING;* 宗主国可以干涉朝贡国之间的战斗;;;;;;;;;;x
 TRIBUTARY_TRIBUTARIES_CAN_UNITE;*朝贡国可以召唤其它朝贡国一同反叛它们的宗主国;;;;;;;;;;x
@@ -2242,11 +2242,11 @@ HAVE_NOT_RELIGION_GROUP;不在$RELIGION_GROUP|Y$宗教组;;;;;;;;;;x
 HAVE_RELIGION_GROUP;在$RELIGION_GROUP|Y$宗教组;;;;;;;;;;x
 MAKE_TRIBUTARY_EFFECT;$TRIBUTARY|Y$成为$OVERLORD|Y$的$TRIBUTARY_TYPE|Y$;;;;;;;;;;x
 TRADEPOST_COST_OP_OWN_EFFECT;你拥有这个省份: $EFFECT$;;;;;;;;;;x
-NAVY_TARGET_INLAND;§RCannot sail inland§!;;;;;;;;;;x
-NAVY_NOT_ALLOWED_ON_MAJOR_RIVERS;§RCannot sail on rivers§!;;;;;;;;;;x
-NAVY_NOT_ALLOWED_MAJOR_RIVERS_FORT_LEVEL;§RFort level prevents sailing on this river§!;;;;;;;;;;x
+NAVY_TARGET_INLAND;§R无法向内陆航行§!;;;;;;;;;;x
+NAVY_NOT_ALLOWED_ON_MAJOR_RIVERS;§R无法在河上航行§!;;;;;;;;;;x
+NAVY_NOT_ALLOWED_MAJOR_RIVERS_FORT_LEVEL;§R因要塞等级无法在这条河上航行§!;;;;;;;;;;x
 ARMY_TARGET_SEA;§R无法向大海行军§!;;;;;;;;;;x
-UNIT_NO_VALID_PATH;§RNo valid path to this province§!;;;;;;;;;;x
+UNIT_NO_VALID_PATH;§R无法到达这个省分§!;;;;;;;;;;x
 opinion_imprisoned;在监狱;;;;;;;;;;x
 EVTDESC_JD_70002;今日一个名为[escaped_chinese_noble.GetFullName]的贵族来到你的宫中寻求庇护。[escaped_chinese_noble.GetSheHeCap]声称自己在皇帝下令诛灭[escaped_chinese_noble.GetHerHis]满门后逃出中国。“伟大的[Root.GetTitle]，你的仁德名扬四方。我恳求你同意我避难。这会是道不尽的恩情！”;;;;;;;;;;x
 EVTOPTA_JD_70002;当然欢迎你留下;;;;;;;;;;x
@@ -2336,8 +2336,8 @@ request_to_rank_up_within_society_virtues2;持有者必须有至少两个§Y美�
 request_to_rank_up_within_society_virtues3;持有者必须有至少三个§Y美德§!\n;;;;;;;;;;x
 GetSocietyRankUpTooltip2_MOBuddhistJain_Rank1;无 §Y残忍§!属性.\n;;;;;;;;;;x
 GetSocietyRankUpTooltip2_MOBuddhistJain_Rank2;不能为§Y残忍§!或§Y愤世嫉俗§!\n;;;;;;;;;;x
-GetSocietyRankUpTooltip2_MOBuddhistJain_Rank3;没有§Y残忍§!、§Y愤世嫉俗§!或其它§Y罪行§!\;;;;;;;;;;x
-EVTDESC20272;至[Root.GetTitledFirstName]，\ n \ n您是最明智的，我今后将继续我的[From.SecretReligion.GetName]秘密实验。\ n \ n您的[From.GetTrueReligionHighGod]的追随者，\ n [From.GetTitledFirstName];;;;;;;;;;x
+GetSocietyRankUpTooltip2_MOBuddhistJain_Rank3;没有§Y残忍§!、§Y愤世嫉俗§!或其它§Y恶习§!\;;;;;;;;;;x
+EVTDESC20272;致[Root.GetTitledFirstName]，\n \n您是最明智的，我今后将继续秘密修行[From.SecretReligion.GetName]。\n\n您的[From.GetTrueReligionHighGod]的追随者，\n [From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA20272;我知道[From.GetSheHe] 会明白的！;;;;;;;;;;x
 EVTDESC20273;给[Root.GetTitledFirstName],\n\n我不会因为退缩并躲藏在恐惧里，我会锻炼我的[From.Religion.GetName]信仰给全世界看，和那些有强烈的意愿公开加入我的人们。\n\n您的[From.GetTrueReligionHighGod]同主仆人,\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA20273;真是个傻瓜！[From.GetSheHeCap] 会因我而死！;;;;;;;;;;x
@@ -2365,7 +2365,7 @@ EVTOPT39831_SCHOLAR_TT;因为你拥有 §Y神学家§!, §Y清高的牧师§!, �
 EVTOPT39831_GREG_TT;因为你拥有 §Y合群§!, §Y魅力非凡的说客§! 或 §Y狡猾的无赖§! 特质，所以可以选择这一项。;;;;;;;;;;x
 EVT_DESC_JD_60011; [From.GetTitle] 的 [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] 写了一封信给背叛者 [Root.GetTitle] 的 [Root.PrimaryTitle.GetFullName]。\n\n至高无上的[From.Offmap.Ruler.GetLongChineseEmperorName]，希望你能理解 [From.Offmap.Ruler.GetSheHe] 不能容忍[From.Offmap.Ruler.GetHerHis] 朝贡国如此无耻且不忠的背叛。\n 你的行径将被处理。;;;;;;;;;;x
 EVT_OPTA_JD_60011;他们不怕我们！;;;;;;;;;;x
-EVTDESCB20110;在 [From.GetHerHis] 拜访我的宫廷期间， [From.GetJobTitle] [From.Host.PrimaryTitle.GetName], [From.GetTitledName]，不停地说诸侯[From.Host.GetTitledName] 是一个多么仁慈和蔼的统治者。但宫廷的其他人却告诉我 [From.GetSheHe]和我的诸侯是多么无耻，狡诈的骗子。;;;;;;;;;;x
+EVTDESCB20110;在 [From.GetHerHis] 拜访我的宫廷期间， [From.GetJobTitle] [From.Host.PrimaryTitle.GetName]，[From.GetTitledName]，不停地吹嘘我们的领主 [From.Host.GetTitledName] 是一个多么仁慈和蔼的统治者。但宫廷的其他人却告诉我无论是[From.GetSheHe]还是我的领主都是十分无耻狡诈的骗子。;;;;;;;;;;x
 confess_faith_already_has_secret_rel_tt;[Root.GetTitledName] 仍然在秘密修习[Root.SecretReligion.GetName] ;;;;;;;;;;x
 EVTDESCB_MNM_6993;看起来就算是[satanists_inductor.GetBestName]也不能把我从牢房中救出去，真令人失望。我很好奇我们会在哪见面，我尝试去适应我的新家，希望当我自由时能再次见到[satanists_inductor.GetHerHim] 。;;;;;;;;;;x
 EVTOPTB_MNM_6993;[satanists_inductor.GetDWDevil]有着多么强大的力量啊……;;;;;;;;;;x
@@ -2422,7 +2422,7 @@ b_kot_waras;欧特沃若斯;;;;;;;;;;x
 b_palasi;帕腊斯;;;;;;;;;;x
 b_bhaminpur;巴曼普尔;;;;;;;;;;x
 b_katewala;蹴鞠;;;;;;;;;;x
-b_chenga;蹴鞠;;;;;;;;;;x
+b_chenga;陈旮;;;;;;;;;;x
 b_nautasal;瑙塔莎尔;;;;;;;;;;x
 b_rihana_sahu;蕾哈纳沙笏;;;;;;;;;;x
 b_basti_basira;巴斯蒂 巴茜拉;;;;;;;;;;x
@@ -2441,20 +2441,20 @@ ca_government_monastery_3;贡巴寺院;;;;;;;;;;x
 ca_government_monastery_4;贡巴寺院;;;;;;;;;;x
 ca_government_monastery_1_desc;筑防的贡巴保护坐落其内的寺院与学舍.;;;;;;;;;;x
 OFFMAP_GIFTS_DESC;如果§Y[offmap_china.GetName]§!有意与异邦结交，你可以派遣使者向皇帝献上顺从的象征。进贡能提升你的§Y皇恩§!。;;;;;;;;;;x
-chinese_siege_engineers_effect_tt;三位围城工程师加入了你的宫廷。他们精通于使用炸药暗中破坏防御工事以及建造攻城塔来攀登城墙。;;;;;;;;;;x
-chinese_siege_engineers;请求围城工程师;;;;;;;;;;x
-chinese_siege_engineers_desc;§Y[Root.Offmap.GetFullName]§!因为他们的战争与工程学院而声名远播，你可以请求几名围城工程师作为你的将军为你的战争服务。这些角色都有§Y豹韬§!特质(围攻速度: §G50%§!).;;;;;;;;;;x
+chinese_siege_engineers_effect_tt;三位围城专家加入了你的宫廷。他们精通于使用炸药暗中破坏防御工事以及建造攻城塔来攀登城墙。;;;;;;;;;;x
+chinese_siege_engineers;请赐围城专家;;;;;;;;;;x
+chinese_siege_engineers_desc;§Y[Root.Offmap.GetFullName]§!因为他们的战争与工程学院而声名远播，你可以请求几名围城专家担任你的指挥官为你作战。这些角色都有§Y豹韬§!特质(围攻速度: §G50%§!).;;;;;;;;;;x
 EVTDESC_JD_3001;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n天子陛下[From.Offmap.Ruler.GetLongChineseEmperorName]将和蔼地满足你的心愿。匠作大将[chinese_siege_engineer_1.GetDynName]及[chinese_siege_engineer_1.GetHerHis]两位学徒，[chinese_siege_engineer_2.GetDynName]和[chinese_siege_engineer_3.GetDynName]，也已前往你的宫廷;;;;;;;;;;x
 EVTOPTA_JD_3001;向[From.Offmap.Ruler.GetTitle]致以衷心的感谢。;;;;;;;;;;x
 EVTOPTB_JD_3001;我会立即使用它们！;;;;;;;;;;x
-EVTOPTB_JD_3001_tt;围城工程师将会占用一个未使用的指挥官名额，如果没有空余的指挥官名额，请尽快空出一个来！;;;;;;;;;;x
-EVTOPTA_JD_3001_tt;将所有目前开放的指挥官名额分配给围城工程师。;;;;;;;;;;x
+EVTOPTB_JD_3001_tt;围城专家将会占用一个未使用的指挥官名额，如果没有空余的指挥官名额，请尽快空出一个来！;;;;;;;;;;x
+EVTOPTA_JD_3001_tt;将所有目前开放的指挥官名额分配给围城专家。;;;;;;;;;;x
 chinese_grace_offer_physician;派遣医生;;;;;;;;;;x
 chinese_grace_offer_physician_desc;因为§Y[Root.Offmap.GetFullName]§!正在被一场毁灭性的瘟疫蹂躏，您可以建议送出一名受过医学教育的学者并保护皇室远离疾病和感染的威胁。这项行动一个角色只能接受一次;;;;;;;;;;x
 china_tribute_send_physician_tt;尚未派送医生;;;;;;;;;;x
 send_physician_potential_tt;§Y医生要求§!:\n必须是你当前在职的宫廷医生或者有著名医生，学者，神秘主义者其中一个特质\n不能有封地\n不能订婚或已婚\n不能是头衔继承人\n不能有以下特质:§Y无能§!，§Y近亲缺陷§!，§Y痴呆§!;;;;;;;;;;x
 chinese_grace_become_tributary_allow_chinese_influence_tt;这个国家在中国影响的范围内\n;;;;;;;;;;x
-taoist_opinion;道教意见;;;;;;;;;;x
+taoist_opinion;道教观点;;;;;;;;;;x
 EVTDESC_JD_3011;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n天子[From.Offmap.Ruler.GetLongChineseEmperorName]已经欣然接收了你的救灾远征队。他们带来的物资会被好好使用。天朝不会忘记[Root.GetOnlyDynastyName]王朝的慷慨。;;;;;;;;;;x
 EVTOPTA_JD_3011;只要能取悦[From.Offmap.Ruler.GetTitle]。;;;;;;;;;;x
 chinese_grace_send_relief;派遣救援队;;;;;;;;;;x
@@ -2465,7 +2465,7 @@ chinese_request_invasion_desc;请求 §Y[Root.Offmap.GetFullName]§! 向另一�
 sui_china;隋;;;;;;;;;;x
 destabilization_china_cb_desc;中国可以通过战争来粉碎他们认为太大的领域。;;;;;;;;;;x
 CB_NAME_DESTABILIZATION_CHINA;粉碎领土;;;;;;;;;;x
-WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ 战争为了破坏 $DEFENDER$的领域;;;;;;;;;;x
+WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ 裂分 $DEFENDER$ 战争;;;;;;;;;;x
 destabilization_china_success_tt;所有的王国和帝国都被摧毁。;;;;;;;;;;x
 EVTDESC_JD_3021;Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n神圣的[From.Offmap.Ruler.GetLongChineseEmperorName]同意你明智的判断，[chinese_invasion_target.GetFullName]威胁到世界的稳定。[From.Offmap.GetFullName]的将士已经准备出师。;;;;;;;;;;x
 EVTDESC_JD_3022_A;听信了[chinese_invasion_instigator.GetBestName]的小人谗言，[From.Offmap.GetName]宣战意图粉碎我们光荣的家园！[From.Offmap.Ruler.Culture.GetName]军准备发兵[chinese_invasion_target.PrimaryTitle.GetName]，我们必须准备一场长久血腥的抗争。;;;;;;;;;;x
@@ -2474,16 +2474,16 @@ EVTOPTC_JD_3022;一切照计划进行...;;;;;;;;;;x
 OFFMAP_BOONS_DESC;如果和§Y[offmap_china.GetName]§!是朝贡关系且过去一年内没有提出过请求，你可以派遣使者请求皇帝赐下他认为你应得的赏赐。请求将消耗§Y皇恩§!。;;;;;;;;;;x
 chinese_grace_peace_deal_desc;向§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!发送一个请求，请求和§Y[Root.Offmap.GetFullName]§!与它的§Y[Root.Offmap.Governor.GetTitle]§!一个和平关系，拥有一个 §Y和平协议§! 确保§Y[Root.Offmap.GetFullName]§! 不会在他们的征途上把你的领地当作目标。;;;;;;;;;;x
 chinese_grace_doctor_desc;§Y[Root.Offmap.GetFullName]§!因为他们知识丰富的居民而声名远播，你可以请求一名当地学者来到你的宫廷成为你的私人医生。这个角色一定会有 §Y医生§!特质;;;;;;;;;;x
-chinese_strategist_desc;在过去的几个世纪里，§Y[Root.Offmap.GetFullName]§!的军事天赋使他掌握了战争的艺术。你可以要求一个精通中国战略的指挥官加入你的法庭。这个§Y军事家§!将会教导你现有的指挥官们关于中国的军事战术，给予他们特殊的§Y指挥官特质§!。;;;;;;;;;;x
+chinese_strategist_desc;在过去的几个世纪里，§Y[Root.Offmap.GetFullName]§!的军事天赋使他掌握了战争的艺术。你可以要求一个精通中国战略的指挥官加入你的宫廷。这个§Y兵法家§!将会教导你现有的指挥官们关于中国的军事战术，给予他们特殊的§Y指挥官特质§!。;;;;;;;;;;x
 chinese_administrator_desc;通过严格的科举,§Y[Root.Offmap.GetFullName]§!造就了一批受过良好教育的士大夫。您可以请求其中一个作为大臣为你服务。雇佣一个§Y士大夫§!会减少§G建造花费§!和§G建设时间§!。;;;;;;;;;;x
-chinese_master_engineer_desc;§Y[Root.Offmap.GetFullName]§! 是无数奇妙技术的发源地。 你可以邀请一位中国的总工程师加入你的宫廷。 一位 §Y总工程师§! 会为你的领地提供强力的 §G省份加成§!。;;;;;;;;;;x
+chinese_master_engineer_desc;§Y[Root.Offmap.GetFullName]§! 是无数奇妙技术的发源地。 你可以邀请一位中国的总工程师加入你的宫廷。 一位 §Y将作大匠§! 会为你的领地提供强力的 §G省份加成§!。;;;;;;;;;;x
 chinese_silk_road_favored_status_desc;请求一份皇家贸易合同，这样我们的贸易站就将吸引了四面八方的商人来贩卖异国商品。一份§Y皇家贸易合同§!将提高您在§Y丝路贸易站§! §G100%§!的贸易价值，持续 §Y25年§!。;;;;;;;;;;x
 chinese_imperial_marriage_desc;被§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!真心喜欢的人可以以代表自己的人或近亲请求嫁娶皇帝的亲戚。举行一场§Y皇室联姻§!将增加你§G500§! §Y威望§!同时与天朝签订§G和平协议§!。公主或王子的配偶可以在战争时招募§G仪仗队§!。;;;;;;;;;;x
 opinion_forced_tributary;使我成为朝贡国;;;;;;;;;;x
 recently_made_tributary_tt;§Y15年§!以内没有成为过朝贡国，或者原宗主已死;;;;;;;;;;x
 EVTOPTA_JD_3021;我们将鞠躬尽瘁地辅佐皇帝！;;;;;;;;;;x
 d_army_light;光之军;;;;;;;;;;x
-chinese_artifact;请求得到中国宝物;;;;;;;;;;x
+chinese_artifact;请赐中国宝物;;;;;;;;;;x
 chinese_artifact_desc;§Y[Root.Offmap.GetFullName]§!的工匠和艺术家以创造高超和美丽的艺术而闻名。 您可以要求获得一件宝物。 你将会随机收到一个品质从§Y1§! 到 §Y3§!的宝物。;;;;;;;;;;x
 chinese_artifact_has_all_tt;已经没有任何等级 §Y1§ 到 等级  §Y3§ 的中国宝物了;;;;;;;;;;x
 chinese_artifact_effect_tt;您将收到一个 §Y中国宝物§!!;;;;;;;;;;x
@@ -2500,19 +2500,19 @@ chinese_ji;戟;;;;;;;;;;x
 chinese_ji_desc;一个饰有新月形刀片的漂亮的长矛。;;;;;;;;;;x
 chinese_serpent_spear;丈八蛇矛;;;;;;;;;;x
 chinese_serpent_spear_desc;一种有弯曲的尖端的矛，像一条滑溜溜的蛇，是一种既漂亮又具有威胁性的武器。;;;;;;;;;;x
-chinese_crossbow;诸葛弩;;;;;;;;;;x
+chinese_crossbow;诸葛连弩;;;;;;;;;;x
 chinese_crossbow_desc;一种精巧的机械装置，即使只用一只手也能快速射出箭。;;;;;;;;;;x
-chinese_bronze_sculpture;青铜雕塑;;;;;;;;;;x
+chinese_bronze_sculpture;青铜像;;;;;;;;;;x
 chinese_bronze_sculpture_name;[offmap_china.GetShortName]青铜像;;;;;;;;;;x
 chinese_bronze_sculpture_desc;这件雕塑用浪漫主义手法烘托了骏马矫健的英姿和风驰电掣的神情，给人们丰富的想象力和感染力。既有力的感觉，又有动的节奏。;;;;;;;;;;x
 chinese_book_health;中医纲要;;;;;;;;;;x
 chinese_book_health_name;[offmap_china.GetShortName]医学纲要;;;;;;;;;;x
 chinese_book_health_desc;这本装帧精美的书会教你许多关于中医的引人入胜的知识以及各种各样的应用。;;;;;;;;;;x
-chinese_book_law;中国律法;;;;;;;;;;x
-chinese_book_law_name;[offmap_china.GetShortName]律;;;;;;;;;;x
+chinese_book_law;中国律令;;;;;;;;;;x
+chinese_book_law_name;[offmap_china.GetShortName]律令;;;;;;;;;;x
 chinese_book_law_desc;一件装饰着丝绸的华丽书籍。其漂亮的文字和优雅的措辞描绘了儒家法律的迷人的细节。;;;;;;;;;;x
-chinese_book_history;中国史书;;;;;;;;;;x
-chinese_book_history_name; [offmap_china.GetShortName]史;;;;;;;;;;x
+chinese_book_history;中国史籍;;;;;;;;;;x
+chinese_book_history_name; [offmap_china.GetShortName]史籍;;;;;;;;;;x
 chinese_book_history_desc;一本详细记述中国历代皇帝起居的书。这本书读起来并不激动人心，但它确实激发了人们“大丈夫当如是也”的想法。;;;;;;;;;;x
 chinese_book_economy;中国食货志;;;;;;;;;;x
 chinese_book_economy_name;[offmap_china.Governor.GetFirstName]书食货志;;;;;;;;;;x
@@ -2528,9 +2528,9 @@ chinese_tapestry_grand_desc;这是一块华丽的织锦，表现了天朝和天�
 k_xixia;西夏;;;;;;;;;;x
 k_xixia_adj;西夏;;;;;;;;;;x
 primary_defender_or_attacker_tt;必须是战争的§Y主进攻方§!或者§Y主防御方§!;;;;;;;;;;x
-chinese_grace_offer_commander;派遣指挥官;;;;;;;;;;x
-chinese_grace_offer_commander_desc;当 §Y[Root.Offmap.GetFullName]§！正处于动荡期时，你能派遣你最有天赋的将军加入[Root.Offmap.GetShortName]军队成为一名辅助官。;;;;;;;;;;x
-china_tribute_send_commander_cooldown_tt;20年内没有派遣指挥官;;;;;;;;;;x
+chinese_grace_offer_commander;进贡指挥官;;;;;;;;;;x
+chinese_grace_offer_commander_desc;当 §Y[Root.Offmap.GetFullName]§! 正处于动荡期时，你能派遣你最有天赋的将军加入[Root.Offmap.GetShortName]军队成为一名辅助官。;;;;;;;;;;x
+china_tribute_send_commander_cooldown_tt;20年内没有进贡指挥官;;;;;;;;;;x
 send_commander_potential_tt;§Y指挥官要求§!：\n必须是一个拥有十二点以上军事能力的指挥官\n必须是不拥有任何土地的\n必须是没有结婚或订婚的\n必须不是任意头衔的继承人\n必须没有以下这些特质： §Y无能§!，§Y近亲缺陷§!，或者 §Y弱智§!;;;;;;;;;;x
 china_commander_cd;§Y最近赠送了指挥官§!;;;;;;;;;;x
 china_commander_cd_desc;你最近已经送过一个指挥官给中国，如果中国内乱持续，你将能继续送另一个指挥官: §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;;;;;;;;;x
@@ -2538,16 +2538,16 @@ reclaim_nomad_province;解放游牧区;;;;;;;;;;x
 reclaim_nomad_province_desc;在这个县有自由奔放的游牧民 - 现在，当我们控制住我们的时候，我们不会让他们被久坐的霸主所压迫！;;;;;;;;;;x
 EVTDESC_JD_20046_C;[Root.GetGovernorLetterGreeting]。[Root.GetChineseLetterBlessing]。\n\n天子陛下[From.Offmap.Ruler.GetShortChineseEmperorName]现已决定将至上的荣耀赐予[Root.GetOnlyDynastyName]家族。[From.Offmap.Ruler.GetHerHisCap]侄女，[imperial_marriage_spouse_2.GetChineseComplimentAdjective]公主[imperial_marriage_spouse_2.GetFirstName]，将会成为[imperial_marriage_spouse_1.GetTitledFirstName]的新娘。;;;;;;;;;;x
 INC_PER_YEAR_SHORT;/ 每年增加 §Y0.1§!;;;;;;;;;;x
-chinese_grace_supply_horses;提供马匹;;;;;;;;;;x
+chinese_grace_supply_horses;进贡马匹;;;;;;;;;;x
 chinese_grace_supply_horses_desc;游牧国家可以通过持续进贡马匹来取悦§Y[Root.Offmap.GetFullName]§!。只要你还提供马匹，你就能以§Y人力§!为代价，持续得到§G皇恩§! 。你可以随时停止马匹的进贡，但直到你扮演其他角色前，就不能再次进贡。当你进贡马匹时中国不太可能进攻你。;;;;;;;;;;x
-china_supply_horses;向中国提供马匹;;;;;;;;;;x
-china_supply_horses_desc;这个游牧统治者正在给中国提供马匹;;;;;;;;;;x
-chinese_grace_supply_horses_not_already_supplying_tt;没有正在提供马匹;;;;;;;;;;x
-chinese_grace_supply_horses_stopped_supplying_tt;之前没有选择停止提供马匹;;;;;;;;;;x
-EVTDESC_JD_3041;Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\n至尊的[From.Offmap.Ruler.GetLongChineseEmperorName],非常优雅地接受了你进贡的[From.Offmap.Ruler.GetHerHis] 带有骏马的军队。;;;;;;;;;;x
+china_supply_horses;向中国进贡马匹;;;;;;;;;;x
+china_supply_horses_desc;这个游牧统治者正在给中国进贡马匹;;;;;;;;;;x
+chinese_grace_supply_horses_not_already_supplying_tt;没有正在进贡马匹;;;;;;;;;;x
+chinese_grace_supply_horses_stopped_supplying_tt;之前没有选择停止进贡马匹;;;;;;;;;;x
+EVTDESC_JD_3041;[Root.GetGovernorLetterGreeting]。 [Root.GetChineseLetterBlessing].\n\n至尊的[From.Offmap.Ruler.GetLongChineseEmperorName],非常优雅地接受了你进贡的[From.Offmap.Ruler.GetHerHis] 带有骏马的军队。;;;;;;;;;;x
 EVTOPTA_JD_3041;愿他们碾碎你的敌人！;;;;;;;;;;x
-chinese_grace_stop_supply_horses;停止提供马匹;;;;;;;;;;x
-chinese_grace_stop_supply_horses_desc;如果你不需要 §Y[Root.Offmap.GetFullName]§! 的恩赐，你可以选择不再给他们提供马匹。你将不能再次以这个角色提供马匹;;;;;;;;;;x
+chinese_grace_stop_supply_horses;停止进贡马匹;;;;;;;;;;x
+chinese_grace_stop_supply_horses_desc;如果你不需要 §Y[Root.Offmap.GetFullName]§! 的皇恩，你可以选择不再给他们进贡马匹。你将不能再次以这个角色进贡马匹;;;;;;;;;;x
 d_han_massive_adj;青龙军;;;;;;;;;;x
 d_han_large_adj;火凤军;;;;;;;;;;x
 d_han_mid_adj;麒麟佣兵团;;;;;;;;;;x
@@ -2626,12 +2626,12 @@ dismantle_pretender_china_success_tt;[This.GetTitledName] 将有 [This.GetHerHis
 EVTDESC_JD_60208_A;从东方传来消息，[offmap_china.Ruler.GetShortChineseEmperorName]已经命令[offmap_china.Governor.GetTitledFirstName]调集[offmap_china.Governor.GetHerHis]军队，准备迫使我们承认那个冒牌[offmap_china.Ruler.GetEmperorEmpress]。天无二日，我们将会证明[offmap_china.GetShortName]才是真正的[chinese_invasion_target.GetTitledName]。;;;;;;;;;;x
 EVTDESC_JD_60208_B;从东方传来消息，[offmap_china.Ruler.GetShortChineseEmperorName]已经命令[offmap_china.Governor.GetTitledFirstName]调集[offmap_china.Governor.GetHerHis]部队，准备荡平自命不凡的觊觎者。天无二日，[offmap_china.Ruler.GetLongChineseEmperorName]准备用武力证明，[offmap_china.Ruler.GetHerHim]才是真正的天命所归。;;;;;;;;;;x
 EVTDESC_JD_60209_A;[From.GetTitledFirstName]死后，没有人做好继承天子之位的准备，[From.PrimaryTitle.GetName]化为一片废墟。这个传承自万年之前的古老帝国轰然崩塌，[From.GetEmperorEmpress]的封臣们纷纷脱离了帝国的掌控。\n而在更遥远的东方，据说[offmap_china.Ruler.GetLongChineseEmperorName]十分欣见于这种局面，因为终于，再一次只有一条巨龙存在于世间。;;;;;;;;;;x
-EVTDESC_JD_60209_B;[From.GetTitledFirstName]击败了[FromFrom.GetTitledFirstName]之后，[FromFrom.PrimaryTitle.GetName]头衔已被撤销。附庸们现在已经摆脱了[FromFrom.GetTitle]的节度，获得了独立。\n据说在遥远的东方，[offmap_china.Ruler.GetLongChineseEmperorName]对这个结果非常满意，因为[offmap_china.GetShortName]再次展现了龙的威力。;;;;;;;;;;x
+EVTDESC_JD_60209_B;[From.GetTitledFirstName]击败了[FromFrom.GetTitledFirstName]之后，[FromFrom.PrimaryTitle.GetName]头衔已被撤销。封臣们现在已经摆脱了[FromFrom.GetTitle]的节度，获得了独立。\n据说在遥远的东方，[offmap_china.Ruler.GetLongChineseEmperorName]对这个结果非常满意，因为[offmap_china.GetShortName]再次展现了龙的威力。;;;;;;;;;;x
 EVT_OPTA_JD_60209;他们不是 [offmap_china.GetFullName]的对手。;;;;;;;;;;x
-EVTDESC_JD_60211;[offmap_china.Ruler.GetLongChineseEmperorName]，不再是唯一能够统治的真龙天子。 大体上[From.GetOnlyDynastyName] [From.GetBirthName]已完成[From.GetHerHis]征服并已加冕[From.GetHerselfHimself] [From.GetTitledName]！ [From.GetSheHeCap]声称自己是真正的天子和万岁爷。\ n来自东方的商人们说[offmap_china.Ruler.GetShortChineseEmperorName]对欺骗最感到愤怒。这个新的[From.PrimaryTitle.GetFullName]的未来仍然存在问题，但没有人可以对[From.GetTitledFirstName]的入侵结果进行争辩......;;;;;;;;;;x
+EVTDESC_JD_60211;[offmap_china.Ruler.GetLongChineseEmperorName]，不再是唯一能够统治的真龙天子。 大体上[From.GetOnlyDynastyName] [From.GetBirthName]已完成[From.GetHerHis]征服并已加冕[From.GetHerselfHimself] [From.GetTitledName]！ [From.GetSheHeCap]声称自己是真正的天子和万岁爷。\n来自东方的商人们说[offmap_china.Ruler.GetShortChineseEmperorName]对欺骗最感到愤怒。这个新的[From.PrimaryTitle.GetFullName]的未来仍然存在问题，但没有人可以对[From.GetTitledFirstName]的入侵结果进行争辩......;;;;;;;;;;x
 EVT_OPTA_JD_60211;于是我们向巨龙屈服。;;;;;;;;;;x
 EVT_OPTB_JD_60211;于是他们屈服于巨龙。;;;;;;;;;;x
-china_golden_age_effect_desc;§Y*§! 丝绸之路的价值 §G翻倍§!了\n§Y*§! 中国的§Y军事家§!，  §Y士大夫§! 以及 §Y总工程师§! 获得 §G翻倍§!的加成\n§Y*§！ 中国的龙虎之师空前强大！;;;;;;;;;;x
+china_golden_age_effect_desc;§Y*§!丝绸之路的价值§G翻倍§!了\n§Y*§!中国的§Y兵法家§!，§Y士大夫§!以及§Y将作大匠§! 获得§G翻倍§!的加成\n§Y*§!中国的龙虎之师空前强大！;;;;;;;;;;x
 IS_INDESTRUCTIBLE_TRIGGER;坚不可摧;;;;;;;;;;x
 IS_NOT_INDESTRUCTIBLE_TRIGGER;不是不可摧毁的;;;;;;;;;;x
 familial_kinslayer;家族弑亲者;;;;;;;;;;x
@@ -2782,8 +2782,8 @@ chinese_favored_in_trade;在丝绸之路上很受欢迎;;;;;;;;;;x
 chinese_favored_in_trade_desc;由于他们的君主控制了丝绸之路，商人们可以享受贸易带来的利润了。;;;;;;;;;;x
 String_offmap_cost_prestige_king_nomad;每月1威望;;;;;;;;;;x
 String_offmap_cost_prestige_emperor_nomad;每月3威望;;;;;;;;;;x
-EVTDESC_MNM_1221_C;所以我猜测这幻觉是关于我怎么得[From.GetDisease]的。我知道会有坏事发生!;;;;;;;;;;x
-EVTDESC_MNM_1221_D;大概这幻视展示了我是怎么得[From.GetDisease]的…这样一来就明白多了！;;;;;;;;;;x
+EVTDESC_MNM_1221_C;所以我猜测这幻象是关于我怎么得[From.GetDisease]的。我知道会有坏事发生!;;;;;;;;;;x
+EVTDESC_MNM_1221_D;大概这幻象展示了我是怎么得[From.GetDisease]的…这样一来就明白多了！;;;;;;;;;;x
 title_china_emperor_female;女皇;;;;;;;;;;x
 opinion_infiltration_companion;滲透指南;;;;;;;;;;x
 EVTOPTB39821;我不会参加火节！;;;;;;;;;;x
@@ -3095,13 +3095,13 @@ k_yemen;也门;;;;;;;;;;x
 k_yemen_adj;也门;;;;;;;;;;x
 d_taizz;塔伊兹;;;;;;;;;;x
 d_taizz_adj;塔伊兹;;;;;;;;;;x
-d_hadramut;哈得拉姆;;;;;;;;;;x
-d_hadramut_adj;哈得拉姆;;;;;;;;;;x
+d_hadramut;哈得拉毛;;;;;;;;;;x
+d_hadramut_adj;哈得拉毛;;;;;;;;;;x
 b_dam;达姆;;;;;;;;;;x
 b_hali;哈利;;;;;;;;;;x
 b_as_suqaiq;阿斯苏恰克;;;;;;;;;;x
 b_attar;玫瑰油;;;;;;;;;;x
-b_bays;贝斯;;;;;;;;;;x
+b_bays;贝伊;;;;;;;;;;x
 b_harad;哈拉德;;;;;;;;;;x
 k_iraq;伊拉克;;;;;;;;;;x
 k_iraq_adj;伊拉克的;;;;;;;;;;x
@@ -3131,15 +3131,15 @@ d_mafaza;玛法杂;;;;;;;;;;x
 d_mafaza_adj;玛法杂;;;;;;;;;;x
 k_khiva;河中;;;;;;;;;;x
 k_khiva_adj;河中;;;;;;;;;;x
-k_mesopotamia;大贾兹拉;;;;;;;;;;x
-k_mesopotamia_adj;大贾兹拉;;;;;;;;;;x
+k_mesopotamia;贾兹拉;;;;;;;;;;x
+k_mesopotamia_adj;贾兹拉;;;;;;;;;;x
 k_afghanistan;喀布里斯坦;;;;;;;;;;x
 k_afghanistan_adj;喀布尔;;;;;;;;;;x
 k_baluchistan;锡斯坦;;;;;;;;;;x
 k_baluchistan_adj;锡斯坦;;;;;;;;;;x
 d_baluchistan;莫克兰;;;;;;;;;;x
 d_baluchistan_adj;莫克兰;;;;;;;;;;x
-d_amman;大巴林;;;;;;;;;;x
+d_amman;巴林;;;;;;;;;;x
 d_amman_adj;巴林;;;;;;;;;;x
 d_medina;麦地那;;;;;;;;;;x
 d_medina_adj;汉志;;;;;;;;;;x
@@ -3162,12 +3162,12 @@ EVTDESC_JD_4020_normal_raid_outcome_character;我们派去 [offmap_china.GetFull
 EVTOPT_JD_4020_normal_raid_outcome_character;绝世美人！;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_character_b;我要让 [captured_character.GetHerHim] 成为我的侍妾;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_siege_engineer;我们派去[offmap_china.GetFullName]的劫掠者回来了。这次他们洗劫了一个围攻工程师的工坊，在那里他们设法捉住了工程师的一个弟子。这个徒弟，[captured_engineer.GetFullName]，被带回来为你服务了。;;;;;;;;;;x
-EVTOPT_JD_4020_normal_raid_outcome_siege_engineer;我自己的围城工程师？这太棒了！;;;;;;;;;;x
+EVTOPT_JD_4020_normal_raid_outcome_siege_engineer;我自己的围城专家？这太棒了！;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_siege_engineer_b;立刻让他做指挥官。;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_extra;我们派去[offmap_china.GetFullName] 的劫掠者已经回来了。从中国回来的路上，他们遇到了一个满载珍贵丝绸和瓷器的商队—— [Root.Religion.GetHighGodName] 真的对他们微笑了！;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_extra;好极了！我全都要！;;;;;;;;;;x
 artifact_raid_tt;一件中国宝物加入了您的库存。;;;;;;;;;;x
-fire_commander_tt;开除一位现有的指挥官以让围城工程师就任;;;;;;;;;;x
+fire_commander_tt;开除一位现有的指挥官以让围城专家就任;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_extra_plus;我们派去 [offmap_china.GetFullName] 的劫掠队回来了——他们带回了数不清的财宝！他们辨识出了一个微服出行的汉人贵族并劫持了他，之后用他勒索了巨额的黄金、丝绸和瓷器！;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_extra_plus;那些财宝 [offmap_china.GetShortName] 都是我的！;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_bad;我们派去 [offmap_china.GetFullName]的劫掠队被[offmap_china.GetShortName]的巡逻队攻击了，几乎全军覆没！只有一个幸存者逃了回来，告诉了我他们惨败的消息……;;;;;;;;;;x
@@ -3218,8 +3218,8 @@ defeated_decadence_revolt_desc;这个角色已经击败了腐化的侵蚀——�
 earmarked_regiments_tt;没有召集过亲卫队;;;;;;;;;;x
 not_forced_tt;没有被领主强迫变更继承法;;;;;;;;;;x
 forced_elective_tt;没有被法律要求选举继承法;;;;;;;;;;x
-not_swapping_tt;当前不在调动阁臣中;;;;;;;;;;x
-china_tributary_cd;§Y最近不当苟了§!;;;;;;;;;;x
+not_swapping_tt;当前不在调动内阁成员中;;;;;;;;;;x
+china_tributary_cd;§Y最近不再是中国的朝贡国§!;;;;;;;;;;x
 china_tributary_cd_desc;你自由了，不再是中国的朝贡国了。你可以请求再次成为中国的朝贡国：§Y[Root.chinese_grace_tributary_timer.GetExpiryDate]§!;;;;;;;;;;x
 EVTDESC_ADV_3_C;至值得尊敬的[Root.GetTitledFirstName]，\n我的[Root.GetLordLady]，您是一个拥有美丽家族的[Root.GetManWoman]！能够照顾您的[marriage_child.GetDaughterSon]，[marriage_child.GetTitledFirstName]是我的荣幸。这能够确保你我之间长久的和平。\n\n 此致，\n [From.GetTitledName];;;;;;;;;;x
 alert_non_playable_heir_delayed;你的继承人，$HEIR$，最近皈依了一个你不能进行游戏的宗教。继承后他们将会转回你之前角色的宗教。;;;;;;;;;;x
@@ -3243,7 +3243,7 @@ the_prodigy;浪子;;;;;;;;;;x
 succ_offmap_succession_desc;每当上一任都护去世，中原就会派来一位新任都护。 都护一直是称职的管理者。;;;;;;;;;;x
 string_negotiate_cd;你可以再次就§Y[This.adventurer_negotiate_cd.GetExpiryDate]§!进行协商;;;;;;;;;;x
 EVTOPTA_JD_10130_B;我们是被误导来劫掠您的 —— 为表歉意我们将为您服务！;;;;;;;;;;x
-increase_council_power_war_desc;议会的权力必须加强 —— 如果战争是必要的，那么我们就开战！;;;;;;;;;;x
+increase_council_power_war_desc;内阁权力必须加强 —— 如果战争是必要的，那么我们就开战！;;;;;;;;;;x
 EVTOPTA_JD_10050_decent;我很高兴我的进贡被认为是得体的。;;;;;;;;;;x
 EVTOPTA_JD_10050_great;臣理当为陛下分忧！;;;;;;;;;;x
 EVTOPTA_JD_10050_family;大家都会思念我的[person_sent_as_tribute.GetRootRelation]。;;;;;;;;;;x
@@ -3306,7 +3306,7 @@ JOB_PROSELYTIZE_DIFFERENT_RELIGION;传教：§G省份信仰可被转化。当前
 JOB_PROSELYTIZE_CONVERT_INDEPENDENT;传教：§G独立领主信仰可被转化。当前宗教：§!§Y[Root.Holder.Religion.GetName]§!;;;;;;;;;;x
 AIREASON_PLAYER_CONTROLS_MARRIAGE;朝廷依你;;;;;;;;;;x
 AIREASON_ANOTHER_PLAYER_CONTROLS_MARRIAGE;被其他玩家控制的婚姻;;;;;;;;;;x
-DISABLE_MARRIAGE_AI;§Y限制婚姻§！;;;;;;;;;;x
+DISABLE_MARRIAGE_AI;§Y限制婚姻§!;;;;;;;;;;x
 DISABLE_MARRIAGE_AI_DESC;§Y你现在还未决定这个角色将与谁结婚！§!\n启用§Y限制婚姻§!意味着即使他们有封地，你也将完全控制他的婚姻。角色不会接受任何结婚提议，除了您发送的结婚提议。以此来确保你的家族后代只结下你认可的婚姻。注意，由事件和决议引发的婚姻仍然会发生。;;;;;;;;;;x
 ENABLE_MARRIAGE_AI;无限制的婚姻;;;;;;;;;;x
 ENABLE_MARRIAGE_AI_DESC;§Y你现在可以决定这个角色可以结婚的人是谁！§!\n无拘无束的婚姻意味着这个角色将能够再次决定与谁结婚。;;;;;;;;;;x
@@ -3392,7 +3392,7 @@ b_cona;错那;;;;;;;;;;x
 b_cona_b;错那;;;;;;;;;;x
 b_cuowa;措瓦;;;;;;;;;;x
 b_dabuxun;达布逊;;;;;;;;;;x
-b_dadi;大帝;;;;;;;;;;x
+b_dadi;达笛;;;;;;;;;;x
 b_dagele;大格勒;;;;;;;;;;x
 b_dagze;达孜;;;;;;;;;;x
 b_daklhagampo;达拉岗布;;;;;;;;;;x
@@ -3667,7 +3667,7 @@ b_shama;沙马;;;;;;;;;;x
 b_shangbatang;上坝塘;;;;;;;;;;x
 b_sharma;夏尔马;;;;;;;;;;x
 b_shatuo;沙陀;;;;;;;;;;x
-b_shenqi;神器;;;;;;;;;;x
+b_shenqi;申齐;;;;;;;;;;x
 b_shey;薛依;;;;;;;;;;x
 b_shinaihai;石尕亥;;;;;;;;;;x
 b_siling;色林;;;;;;;;;;x
@@ -3724,7 +3724,7 @@ b_xiaxihao;夏曦浩;;;;;;;;;;x
 b_xiewu;邪雾;;;;;;;;;;x
 b_xiligou;西里沟;;;;;;;;;;x
 b_xinghu;星湖;;;;;;;;;;x
-b_xinyuan;心远;;;;;;;;;;x
+b_xinyuan;新远;;;;;;;;;;x
 b_xitishan;席提山;;;;;;;;;;x
 b_xoi;雪;;;;;;;;;;x
 b_xueshan;雪山;;;;;;;;;;x
@@ -3832,7 +3832,7 @@ c_nedong_adj;乃东;;;;;;;;;;x
 c_nyemo_adj;尼木;;;;;;;;;;x
 c_ogliastra;奥利亚斯特拉;;;;;;;;;;x
 c_ogliastra_adj;奥利亚斯特拉;;;;;;;;;;x
-c_qaidam_adj;柴旦;;;;;;;;;;x
+c_qaidam_adj;柴达木;;;;;;;;;;x
 c_qangtang_adj;羌塘;;;;;;;;;;x
 c_qumarleb_adj;曲麻莱;;;;;;;;;;x
 c_sertar_adj;色达;;;;;;;;;;x
@@ -3913,7 +3913,7 @@ PROV1579;乃东;;;;;;;;;;x
 sumpa;苏毗人;;;;;;;;;;x
 zhangzhung;象雄人;;;;;;;;;;x
 d_palmyra;巴尔米拉;;;;;;;;;;x
-PROV662;阿拉木图;;;;;;;;;;x
+PROV662;阿拉穆特;;;;;;;;;;x
 PROV665;代兰;;;;;;;;;;x
 PROV712;拉巴;;;;;;;;;;x
 b_khunaj;洪季;;;;;;;;;;x
@@ -3970,7 +3970,7 @@ b_washjird;瓦希尔德;;;;;;;;;;x
 b_qobadhiyan;卡巴迪亚岩;;;;;;;;;;x
 b_munk;蒙克;;;;;;;;;;x
 b_ishkashim;伊什卡希姆;;;;;;;;;;x
-b_daritubat;大蝙蝠;;;;;;;;;;x
+b_daritubat;达里土巴特;;;;;;;;;;x
 b_sughnan;苏格南;;;;;;;;;;x
 b_khorog;霍罗格;;;;;;;;;;x
 b_sast;赛斯特;;;;;;;;;;x
@@ -4130,7 +4130,7 @@ EVTOPTA_JD_32290;在向[offmap_china.Ruler.GetEmperorEmpress]叙述之前鞠躬�
 EVTOPTB_JD_32290;拒绝这种羞辱并拂袖而去。;;;;;;;;;;x
 EVTOPTC_JD_32290;在[offmap_china.Ruler.GetEmperorEmpress]沉默之前急忙磕头。;;;;;;;;;;x
 EVTOPTD_JD_32290;我深感荣幸。;;;;;;;;;;x
-kow_tow_travels;往中华帝国朝觐中;;;;;;;;;;x
+kow_tow_travels;朝觐中;;;;;;;;;;x
 kow_tow_travels_desc;这个角色目前正在中国旅行。;;;;;;;;;;x
 kow_tow_completed_tier_1;朝觐;;;;;;;;;;x
 kow_tow_completed_tier_1_desc;这个角色完成了去往中国的旅程并表示了他要臣服于[offmap_china.Ruler.GetEmperorEmpress] - [offmap_china.Ruler.GetEmperorEmpress]对他没有什么印象。;;;;;;;;;;x
@@ -4144,7 +4144,7 @@ EVTDESCC_JD_32299;我无法继续我前往[offmap_china.GetFullName]的旅程。
 EVTOPTA_JD_32299;多么不幸啊。;;;;;;;;;;x
 custom_eastern_access;中国附近;;;;;;;;;;x
 kow_tow_tooltip_already_went;并没有表现出他们要臣服于[offmap_china.Ruler.GetEmperorEmpress]的姿态。;;;;;;;;;;x
-chinese_kow_tow_pilgrimage;去朝觐[offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;x
+chinese_kow_tow_pilgrimage;朝觐[offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;x
 chinese_kow_tow_pilgrimage_desc;去§Y[offmap_china.GetFullName]§! 腹地的旅行和向[offmap_china.Ruler.GetEmperorEmpress]鞠躬是恭顺的行为。跪拜礼将给你赢得§Y[offmap_china.GetFullName]§!的§G皇恩§!，但是这么做也会话花费你的§R威望§! 。;;;;;;;;;;x
 EVTTITLE_JD_32113;致命的款待;;;;;;;;;;x
 EVTTOOLTIP_JD_BAD_INFLUENCE_ON_EMPEROR_EVALUATION;在皇帝眼中，这可能反映了你的表现§G不好§!。;;;;;;;;;;x
@@ -4257,7 +4257,7 @@ EVTOPTC_JD_10061;我认为你手头里的资源已经足够用来管理了;;;;;;
 higher_quality_of_book_TT;这有可能 §G提升§! 你的工作效率。\n;;;;;;;;;;x
 lower_quality_of_book_TT;这可能会§R降低§!你的写作质量\n;;;;;;;;;;x
 available_because_trait_erudite_tt;因为你拥有 §Y博学§!特质，所以可以选择这一项\n;;;;;;;;;;x
-available_because_trait_scholar_tt;因为你拥有 §YScholar§!特质，所以可以选择这一项\n;;;;;;;;;;x
+available_because_trait_scholar_tt;因为你拥有 §Y学者§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_trait_mastermind_theologian_tt;因为你拥有 §Y神学的大师§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_trait_lunatic_tt;因为你拥有 §Y精神错乱§!特质，所以可以选择这一项\n;;;;;;;;;;x
 available_because_is_dumb_tt;因为你拥有 §Y笨拙§!, §Y迟钝§!, 或 §Y痴呆§!中的一个或多个特质，所以可以选择这一项\n;;;;;;;;;;x
@@ -4366,7 +4366,7 @@ how_to_write_a_letter_desc;作为一个艺术形式本身，写一封正确的�
 fifty_shades_of_root;[From.OriginalOwner.GetOnlyDynastyName]的五十度飞;;;;;;;;;;x
 fifty_shades_of_root_desc;胡诌之书;;;;;;;;;;x
 fifty_shades_of_root_desc_rename;一本书，据说由[Root.GetBestName]所著。被许多人评论为有些[Root.GetPublicOpinionOfWork]。;;;;;;;;;;x
-kama_sutra;欲经;;;;;;;;;;x
+kama_sutra;印度爱经;;;;;;;;;;x
 kama_sutra_desc;一个受欢迎的经典，有人认为实际上这并不是[From.OriginalOwner.GetTitledFirstName][From.OriginalOwner.GetHerselfHimself]写的。PS:插图很漂亮。;;;;;;;;;;x
 in_honor_of_roots_beloved_1;纪念我心爱的人;;;;;;;;;;x
 in_honor_of_roots_beloved_1_rename;我的挚爱[dedication_target.GetFirstName];;;;;;;;;;x
@@ -4465,7 +4465,7 @@ what_do_monks_wear;僧侣穿什么;;;;;;;;;;x
 what_do_monks_wear_desc;在关于[From.OriginalOwner.Religion.GetHighGodName]的子民所遵循的众多习俗的话题上，[From.OriginalOwner.GetTitledFirstName]似乎十分了解，这本书中详细的记载了各种修道组织的相似点与区别。;;;;;;;;;;x
 in_honor_of_highgod;虔敬[From.OriginalOwner.Religion.GetHighGodName];;;;;;;;;;x
 in_honor_of_highgod_desc;由[From.OriginalOwner.GetTitledName]所著，这本风格谦逊的书收集了一些偶然押韵的诗节，尽管韵律不符合当下的标准。;;;;;;;;;;x
-faith_eternal;信仰永恒;;;;;;;;;;x
+faith_eternal;永恒信仰;;;;;;;;;;x
 faith_eternal_desc;[From.OriginalOwner.GetTitledName]描绘了[From.OriginalOwner.GetHerselfHimself]的一幕光荣画面，在这个据称是自传式的宗教内省故事中。;;;;;;;;;;x
 hymns_to_highgod;[From.OriginalOwner.Religion.GetHighGodName]的赞美诗;;;;;;;;;;x
 hymns_to_highgod_desc;一本老套的书，包含用于宗教仪式的诗歌和赞美诗。意象很美，比喻迷人。;;;;;;;;;;x
@@ -4488,11 +4488,11 @@ learning_languages_4_desc;你想了解过的[From.OriginalOwner.Culture.GetName]
 the_not_actual_holy_book;[From.OriginalOwner.Religion.GetScriptureName]修注;;;;;;;;;;x
 the_not_actual_holy_book_desc;尽管据说[From.OriginalOwner.GetTitle]在这本书的荒诞故事中找到了极大的慰藉，但是当地的宗教首领对这个作品是出了名的不满意。;;;;;;;;;;x
 the_republic_desc;受古罗马启发，[From.OriginalOwner.GetTitledFirstName] 深入研究了社会的哲学方面，特别是[From.OriginalOwner.GetHerHis]自己在其中扮演的角色，作为一个现代[From.OriginalOwner.GetManWoman] 与[From.OriginalOwner.GetTitle]。;;;;;;;;;;x
-unnatural_history;不自然的历史;;;;;;;;;;x
+unnatural_history;奇妙的历史;;;;;;;;;;x
 unnatural_history_desc;尽管老普林尼把他的《自然历史》归为描述自然世界和生活的自拍作品，但是与之相反，在这本书里[From.OriginalOwner.GetTitledName]花了大量篇幅讨论“上界之幕”和所有生灵的死亡。;;;;;;;;;;x
 the_confessions_of_root;[From.OriginalOwner.GetTitledFirstName]忏悔录;;;;;;;;;;x
 the_confessions_of_root_desc;这被认为是年轻的[From.OriginalOwner.GetTitle]的自传，是一个与诱惑抗争的感人故事。它也提供了一些建议，教你如何趁还不算太迟的时候去避免和处理这些问题。;;;;;;;;;;x
-the_book_of_healing;治疗论;;;;;;;;;;x
+the_book_of_healing;治疗论（灵魂治疗大全）;;;;;;;;;;x
 the_book_of_healing_desc;《治愈之术》致力于启迪心智。这本百科全书里涵盖了广泛的内容，从自然科学，到关于[From.OriginalOwner.Religion.GetHighGodName]存在的神学讨论。;;;;;;;;;;x
 human_anatomy;人体解剖;;;;;;;;;;x
 human_anatomy_desc;虽然有可怕的一面，但是根据当代学者的描述，它相当准确。;;;;;;;;;;x
@@ -4583,7 +4583,7 @@ has_intrigue_education_tt;拥有 §Y学习§! 教育背景;;;;;;;;;;x
 has_learning_education_tt;拥有 §Y学习§! 教育背景;;;;;;;;;;x
 EVTDESC_JD_15002;“站住！”，我们快走到桥上时一个尖锐的声音说。\n“我是[other_ruler.GetTitledName]。我们正在守卫这条通往[offmap_china.GetFullName]的路... 您，尊贵的[Root.GetLordLady]，需要付一点过桥费。”那个[other_ruler.GetManWoman]脸上的诡笑让我犹豫了。;;;;;;;;;;x
 EVTOPTA_JD_15002;无论我们身在何处......;;;;;;;;;;x
-EVTOPTA_JD_15002_tt;你和你的随行人员都可以通过。\ n;;;;;;;;;;x
+EVTOPTA_JD_15002_tt;你和你的随行人员都可以通过。\n;;;;;;;;;;x
 EVTOPTC_JD_15002;我们不会接受这个;;;;;;;;;;x
 EVTOPTC_JD_15002_tt;在[other_ruler.GetTitle]还没来的及完成傻笑前，你投掷的长矛贯穿了[other_ruler.GetTitle]。;;;;;;;;;;x
 EVTOPTB_JD_15002;我不会屈服于怠惰。卫兵，把我的剑给我，现在！;;;;;;;;;;x
@@ -4622,9 +4622,9 @@ EVTOPTA_JD_15015_TT;大臣们被你的热情所激励！\n;;;;;;;;;;x
 EVTOPTB_JD_15015;实际上，我已经很熟悉《管子》了，我的大人。;;;;;;;;;;x
 EVTOPTB_JD_15015_TT;你的知识使大臣们敬仰。\n;;;;;;;;;;x
 EVTOPTC_JD_15015;废话！我想看看宫殿四周  也许是一次旅行？;;;;;;;;;;x
-EVTOPTC_JD_15015_TT;要员们看到你们在首都公共场合相伴经过。\ n;;;;;;;;;;x
+EVTOPTC_JD_15015_TT;要员们看到你们在首都公共场合相伴经过。\n;;;;;;;;;;x
 EVT_OPTA_JD_60208;能称万世之君的只能有一个人。;;;;;;;;;;x
-String_siege_engineer;围攻工程师;;;;;;;;;;x
+String_siege_engineer;围城专家;;;;;;;;;;x
 String_chinese_royalty;天朝皇室;;;;;;;;;;x
 String_chinese_character_role_fallback;廷臣;;;;;;;;;;x
 EVT_DESC_JD_60312;[Root.GetGovernorLetterGreeting]。[Root.GetChineseLetterBlessing]。\n\n天子[From.Offmap.Ruler.GetLongChineseEmperorName]，对[FromFrom.GetTitledName]，你的[FromFrom.GetChineseCharacterRole]，的去世表示深深的悲痛，对你致以最深切的慰问。“;;;;;;;;;;x
@@ -4648,7 +4648,7 @@ EVTOPTD_JD_15017;商人，阿谀奉承令你显的毫无价值。;;;;;;;;;;x
 EVTOPTD_JD_15017_TT;有更重要的事情等着你去做。\n;;;;;;;;;;x
 String_dangerous;危险;;;;;;;;;;x
 String_valuable;珍贵的;;;;;;;;;;x
-EVTDESC86320;老人开始告诉你，Ka'b ibn Malik报告说，安拉的使者，愿真主保佑他并且给予他平安，他说，“放任两只饥饿的狼在羊群间所造成的伤害都不及一个人对金钱和名声的欲望对他的信仰所造成的伤害大。”;;;;;;;;;;x
+EVTDESC86320;老人开始告诉你，Ka'b ibn Malik报告说，安拉的使者，愿安拉保佑他并且给予他平安，他说，“放任两只饥饿的狼在羊群间所造成的伤害都不及一个人对金钱和名声的欲望对他的信仰所造成的伤害大。”;;;;;;;;;;x
 uninspired;平庸;;;;;;;;;;x
 uninspired_desc;此人现在并没有进行创作性追求的心情。;;;;;;;;;;x
 is_inaccessible_tooltip;没有处在藏匿、被软禁、旅行状态\n;;;;;;;;;;x
@@ -4745,7 +4745,7 @@ EVTTOOLTIPD_JD_32111;房间开始旋转，你失去了意识。;;;;;;;;;;x
 EVTTITLE_JD_KOWTOW;前往中国朝觐;;;;;;;;;;x
 EVTDESC_JD_30045_INDIA;据我的顾问透露，来自中国的宝船舰队携带了大量陆军，用以支援他们的西方边境，现已经穿过了孟加拉湾海域。我倚靠在战争桌上一言不发，只希望我的沉默能给我的顾问带来一点信心。但在我心中，我依然感到了一丝恐慌。;;;;;;;;;;x
 EVTOPTBRO_FROM;§Y[From.GetFirstName]§!有很高的几率获得§Y沉思§!\n§Y[From.GetFirstName]§!有很低的几率获得§Y怯懦§!;;;;;;;;;;x
-EVTOPTBRO_FROM_B;§Y[From.GetFirstName]§!有很高的几率获得§Y怯懦§!\n§[From.GetFirstName]§!有很低的几率获得§Y沉思§!;;;;;;;;;;x
+EVTOPTBRO_FROM_B;§Y[From.GetFirstName]§!有很高的几率获得§Y怯懦§!\n§Y[From.GetFirstName]§!有很低的几率获得§Y沉思§!;;;;;;;;;;x
 EVTTOOLTIP_ZE_11011;派出更多的支援部队来扩编[From.GetFirstName];;;;;;;;;;x
 ADJUST_SIPHON_FACTOR_EFFECT_NEGATIVE;降低了$TITLE$的花费，从$VALUE1|Y%$到§Y$VALUE2$%§!。;;;;;;;;;;x
 CONSTRUCTION_TIME_DESC;建设将花费$TIME|Y$天;;;;;;;;;;x
@@ -4767,10 +4767,10 @@ CANNOT_MARRY_DEAD;已经死去的人物不能结婚;;;;;;;;;;x
 CANNOT_MARRY_IMPRISON;处于囚禁状态时不能结婚;;;;;;;;;;x
 CANNOT_MARRY_HIDING;处于藏匿状态时不能结婚;;;;;;;;;;x
 CANNOT_MARRY_LANDLESS;没有土地的统治者不能结婚;;;;;;;;;;x
-CANNOT_MARRY_HOLY_ORDER;圣战士不能结婚。;;;;;;;;;;x
+CANNOT_MARRY_HOLY_ORDER;圣职者不能结婚。;;;;;;;;;;x
 CANNOT_MARRY_TRAITS;拥有不能结婚的特质;;;;;;;;;;x
 CANNOT_MARRY_PRIEST;神职人员不能结婚。;;;;;;;;;;x
 RD_FAIL_READY;§R准备就绪时无法使用人物设计器 §!;;;;;;;;;;x
 available_due_to_prestige_tt;此选项可以选择是因为你拥有足够高的§Y威望§!\n;;;;;;;;;;x
-outcome_will_depend_on_froms_skill_tt;搜索的结果取决于你§Y[From.GetJobTitle] [From.GetFirstName]§!.\n的§Y技能§!和§Y特质§!;;;;;;;;;;x
-outcome_will_depend_on_roots_skill_tt;搜索的结果取决于你§Y[Root.GetJobTitle] [Root.GetTitledFirstName]§!.\n的§Y技能§!和§Y特质§!;;;;;;;;;;x
+outcome_will_depend_on_froms_skill_tt;搜索的结果取决于你§Y[From.GetJobTitle] [From.GetFirstName]§!的§Y技能§!和§Y特质§!。\n;;;;;;;;;;x
+outcome_will_depend_on_roots_skill_tt;搜索的结果取决于你§Y[Root.GetJobTitle] [Root.GetTitledFirstName]§!的§Y技能§!和§Y特质§!。\n;;;;;;;;;;x

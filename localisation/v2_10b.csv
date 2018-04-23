@@ -186,15 +186,15 @@ PEACE;和平;;;;;;;;;;x
 d_tamil_band;泰米尔大队;;;;;;;;;;x
 d_tamil_band_adj;泰米尔大队的;;;;;;;;;;x
 d_marathi_company;摩罗提军团;;;;;;;;;;x
-d_marathi_company_adj;摩罗提军团的;;;;;;;;;;x
+d_marathi_company_adj;摩罗提军团;;;;;;;;;;x
 d_marathi_band;摩罗提邦;;;;;;;;;;x
 d_marathi_band_adj;摩罗提大队的;;;;;;;;;;x
 d_bengal_company;旁伽罗军团;;;;;;;;;;x
-d_bengal_company_adj;旁伽罗军团的;;;;;;;;;;x
+d_bengal_company_adj;旁伽罗军团;;;;;;;;;;x
 d_bengal_band;旁伽罗大队;;;;;;;;;;x
 d_bengal_band_adj;旁伽罗大队的;;;;;;;;;;x
 d_rajput_company;罗阇富多军团;;;;;;;;;;x
-d_rajput_company_adj;罗阇富多军团的;;;;;;;;;;x
+d_rajput_company_adj;罗阇富多军团;;;;;;;;;;x
 d_rajput_band;罗阇富多大队;;;;;;;;;;x
 d_rajput_band_adj;罗阇富多大队的;;;;;;;;;;x
 TRAIT_OPINION_CHURCH;教会关系: $VALUE$;;;;;;;;;;x
@@ -242,9 +242,9 @@ obj_buddhist_reject_pride_title;学会不骄傲;;;;;;;;;;x
 obj_buddhist_reject_pride_desc;[This.GetTitledFirstName],作为一个虔诚的佛教徒, 正在努力学习保持谦虚.;;;;;;;;;;x
 obj_buddhist_defeat_fear_title;战胜恐惧;;;;;;;;;;x
 obj_buddhist_defeat_fear_desc;[This.GetTitledFirstName],作为一个虔诚的佛教徒,正在努力学习战胜[This.GetHerHis]这个世界的带来的恐惧.;;;;;;;;;;x
-temple_barony_of_hindu;印度寺庙的;;;;;;;;;;x
+temple_barony_of_hindu;印度教寺庙;;;;;;;;;;x
 temple_barony_of_buddhist;佛寺;;;;;;;;;;x
-temple_barony_of_jain;耆那寺庙的;;;;;;;;;;x
+temple_barony_of_jain;耆那教寺庙;;;;;;;;;;x
 DEATH_SACRIFICED;献祭$KILLER$以供奉神灵;;;;;;;;;;x
 obj_become_paragon_of_enlightenment_title;成为开悟者;;;;;;;;;;x
 obj_become_paragon_of_enlightenment_desc;[This.GetTitledFirstName]广积善缘并欲修得大彻大悟，即对[This.GetHerHis]信仰的真正领悟。;;;;;;;;;;x

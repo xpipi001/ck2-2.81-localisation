@@ -67,8 +67,8 @@ k_perm;彼尔姆;;;;;;;;;;x
 k_perm_adj;彼尔姆;;;;;;;;;;x
 k_taurica;陶里加;;;;;;;;;;x
 k_taurica_adj;陶里加;;;;;;;;;;x
-k_alania;阿兰;;;;;;;;;;x
-k_alania_adj;阿兰;;;;;;;;;;x
+k_alania;阿兰尼亚;;;;;;;;;;x
+k_alania_adj;阿兰尼亚;;;;;;;;;;x
 e_britannia;不列颠尼亚;;;;;;;;;;x
 e_britannia_adj;不列颠;;;;;;;;;;x
 e_spain;西班牙;;;;;;;;;;x
@@ -90,9 +90,9 @@ e_france_adj;法兰克;;;;;;;;;;x
 mujahid;圣战士;;;;;;;;;;x
 mujahid_desc;此人乃是吉哈德老兵.;;;;;;;;;;x
 hajjaj;哈伊;;;;;;;;;;x
-hajjaj_desc;此人曾去麦加朝觐过.;;;;;;;;;;x
-on_hajj;朝觐中;;;;;;;;;;x
-on_hajj_desc;此人正在前往麦加朝觐的路上.;;;;;;;;;;x
+hajjaj_desc;此人曾去麦加朝圣过.;;;;;;;;;;x
+on_hajj;朝圣中;;;;;;;;;;x
+on_hajj_desc;此人正在前往麦加朝圣的路上.;;;;;;;;;;x
 faqih;教法学家;;;;;;;;;;x
 faqih_desc;此人受过正规的伊斯兰教法的训练.;;;;;;;;;;x
 hafiz;哈菲兹;;;;;;;;;;x
@@ -119,7 +119,7 @@ city_duchy;共和国;;;;;;;;;;x
 city_county;自由市;;;;;;;;;;x
 city_barony;城市;;;;;;;;;;x
 temple_kingdom_catholic;神权国;;;;;;;;;;x
-temple_kingdom_orthodox;宗主教区;;;;;;;;;;x
+temple_kingdom_orthodox;牧首区;;;;;;;;;;x
 temple_kingdom_muslim;哈里发国;;;;;;;;;;x
 temple_kingdom_pagan_group;神权国;;;;;;;;;;x
 temple_duchy_christian;大主教区;;;;;;;;;;x
@@ -132,7 +132,7 @@ temple_barony_christian;教区;;;;;;;;;;x
 temple_barony_muslim;清真寺;;;;;;;;;;x
 temple_barony_pagan_group;神殿;;;;;;;;;;x
 count_arabic_female;谢赫艾哈;;;;;;;;;;x
-empire_altaic;汗国;;;;;;;;;;x
+empire_altaic;可汗国;;;;;;;;;;x
 kingdom_altaic;汗国;;;;;;;;;;x
 barony_arabic;威剌雅赫;;;;;;;;;;x
 county_arabic;谢赫国;;;;;;;;;;x
@@ -718,7 +718,7 @@ EVTDESC60120;在肥沃的尼罗河三角洲一路劫掠, 鞑靼大军已兵临�
 EVTOPTA60120;他们还要脸吗?;;;;;;;;;;x
 EVTOPTB60120;人死光了谁来交税呢?;;;;;;;;;;x
 EVTNAME60121;蒙古人洗劫了麦加!;;;;;;;;;;x
-EVTDESC60121;圣城麦加焚毁于蒙古异教徒无情的火把之下. 远方为向真主表示虔诚而来的朝觐者们在城门处能看到的只有死亡. 时代将记住这不可饶恕的亵渎;;;;;;;;;;x
+EVTDESC60121;圣城麦加焚毁于蒙古异教徒无情的火把之下. 远方为向安拉表示虔诚而来的朝圣者们在城门处能看到的只有死亡. 时代将记住这不可饶恕的亵渎;;;;;;;;;;x
 EVTOPTA60121;没有任何一个参与这次亵渎的异教徒能逍遥法外;;;;;;;;;;x
 EVTOPTB60121;神啊阻止这场灾难向西蔓延吧...;;;;;;;;;;x
 EVTOPTB60100;他们不会来这里的, 安拉保佑;;;;;;;;;;x
@@ -991,7 +991,7 @@ EVTTOOLTIP7845;准备让[This.GetTitledFirstName]从[This.GetHerHis]的阳台上
 EVTDESC7846;正当你靠着栏杆探出去的时候, 你突然听到了一个木头裂开的声音. 木头断得很彻底, 你从边缘翻了出去. 直直地冲着地面掉落，你用生命的最后时光认识了引力....;;;;;;;;;;x
 EVTOPTA7846;[FromFrom.GetTitledFirstName]派人破坏了栏杆!;;;;;;;;;;x
 EVTOPTA7847;我做鬼也要缠着做了那个栏杆的木匠...;;;;;;;;;;x
-EVTDESC7848;你检查了栏杆发现有人锯断了它的支撑点! 再小的接触都有可能让整个东西翻个面. 倘若你像往常一样靠上去...;;;;;;;;;;x
+EVTDESC7848;你检查了栏杆发现有人锯断了它的支撑点！再小的接触都有可能让整个东西翻个面。倘若你像往常一样靠上去...…;;;;;;;;;;x
 EVTOPTA7848;[FromFrom.GetTitledFirstName]派人破坏了栏杆!;;;;;;;;;;x
 EVTOPTA7849;谁会做这样的事呢... 为什么要这么做?;;;;;;;;;;x
 EVTDESC7850;我的同谋, [From.GetTitledFirstName], 雇人把[Root.PlotTarget.GetTitledFirstName]常去的阳台上的栏杆的支撑部给锯断了. 某人不久要翻个小筋斗了...;;;;;;;;;;x

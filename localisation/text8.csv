@@ -79,7 +79,7 @@ PARTICIPATION_SCORE;为$CRUSADE$作出贡献;;;;;;;;;;x
 CLICK_TO_OPEN_WAR_VIEW;§G点击打开战争一览§!;;;;;;;;;;x
 EVTNAME620;[Root.GetBaseName][From.Religion.GetCrusadeName]大功告成!;;;;;;;;;;x
 EVTDESC620;在对抗[New.GetTitledName]的[Root.GetBaseName][From.Religion.GetCrusadeName]中，[From.Religion.GetRandomGodNameCap]赢得了[From.GetTitledName] 胜利. [From.RelHead.GetTitledName]谕令整个[From.Religion.GetGroupName]世界欢庆一个月!;;;;;;;;;;x
-EVTOPTA620;赞美[From.Religion.GetRandomGodName]!;;;;;;;;;;x
+EVTOPTA620;赞美[From.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTNAME621;对[Root.GetBaseName]的[From.Religion.GetCrusadeName]失败了!;;;;;;;;;;x
 EVTDESC621;[From.Religion.GetRandomGodNameCap] 似乎不再眷顾 [From.Religion.GetGroupName] 了。 在反复的拉锯和转进之后，[From.GetTitledName] 下令取消了对抗 [New.GetTitledName] 旨在夺取 [Root.GetBaseName] 的 [From.Religion.GetCrusadeName]。;;;;;;;;;;x
 TITLE_CREATION_NOT_PRIMARY_TYPE;特殊头衔持有者无法创建或篡夺相等或更高级别的头衔.;;;;;;;;;;x
@@ -875,7 +875,7 @@ EVTOPTA100214;那么我就什么都做不了;;;;;;;;;;x
 EVTTOOLTIPA100215;[Root.GetTitledFirstName]否决[This.GetTitledFirstName]的建议;;;;;;;;;;x
 EVTOPTB100214;如果那是最好的办法，我将不得不照做;;;;;;;;;;x
 EVTTOOLTIPB100215;受雇帮助[Root.GetTitledFirstName]推倒旧的建筑并建造新的建筑;;;;;;;;;;x
-EVTDESC100215;在我告诉[From.GetTitledFirstName]最好的办法是推倒那些建筑物以及包含了我的佣金的建造新建筑物的花销之后，[From.GetTitledFirstName]沉默了很久. 我刚要轻推一下[From.GetTitledFirstName]提醒[From.GetSheHe]我已经在[From.GetHerHim]身边站了很久的时候, [From.GetSheHe]开口了.;;;;;;;;;;x
+EVTDESC100215;在我告诉[From.GetTitledFirstName]最好的办法是推倒那些建筑物以及包含了我的佣金的建造新建筑物的花销之后，[From.GetTitledFirstName]沉默了很久。我刚要轻推一下[From.GetTitledFirstName]提醒[From.GetSheHe]我已经在[From.GetHerHim]身边站了很久的时候，[From.GetSheHe]开口了。;;;;;;;;;;x
 EVTOPTA100215;[From.GetTitledFirstName]不同意并且否决我的想法;;;;;;;;;;x
 EVTOPTB100215;[From.GetTitledFirstName]同意并愿意为我提供一笔酬劳;;;;;;;;;;x
 EVTDESC100220;最近我的食物尝起来总有点奇怪，由于担心被下毒、我开始吃得越来越少。我并不相信我的[Root.GetSpymasterName]能够找到那个投毒者，我唯一能够依赖的就只有我的朋友。;;;;;;;;;;x

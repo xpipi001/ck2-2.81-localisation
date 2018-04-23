@@ -10,7 +10,7 @@ EVTDESC75041;[Root.GetLordSpiritualName] [From.GetTitledFirstName] 说:'主君! 
 EVTDESC75042;[Root.GetLordSpiritualName] [From.GetTitledFirstName] 说:'主君! 宫廷里有异教徒.'\n'我要求你将他驱逐出去!';;;;;;;;;;x
 EVTDESC75051;[Root.GetLordSpiritualName] [From.GetTitledFirstName] 悄悄告诉我:'主君! 宫廷里有异端.'\n'我认为你最好将他处以火刑, 以儆效尤!';;;;;;;;;;x
 TITLE_HAS_NO_HOLDER;不可剥夺无主头衔.;;;;;;;;;;x
-LOADING_TIP_54;穆斯林可以去麦加朝觐, 以摆脱腐化特质.;;;;;;;;;;x
+LOADING_TIP_54;穆斯林可以去麦加朝圣, 以摆脱腐化特质.;;;;;;;;;;x
 TITLE_CANNOT_USURP_PRIMARY_OFF_OTHER_REL;§R当异教角色仍拥有头衔法理下领地时无法篡夺.§!;;;;;;;;;;x
 age_child;幼年;;;;;;;;;;x
 age_teen;少年;;;;;;;;;;x
@@ -119,11 +119,11 @@ EVTDESC91360;我的 [GetFromRelation] [From.GetTitledFirstName] 劝说我摒弃�
 EVTOPTA91360;我看起来是个善男信女吗?;;;;;;;;;;x
 EVTOPTB91360;我要加入拜克塔什教团苦修!;;;;;;;;;;x
 EVTOPTC91360;我要加入哈萨辛组织赎罪!;;;;;;;;;;x
-EVTOPTD91360;我要去麦加朝觐!;;;;;;;;;;x
+EVTOPTD91360;我要去麦加朝圣!;;;;;;;;;;x
 EVTOPTE91360;我要去作天课!;;;;;;;;;;x
-EVTDESC91361;我殷切的教诲终于感化我的 [GetFromRelation] [From.GetTitledFirstName]. [From.GetSubjectPronounCap] 决定要加入教团, 以便待奉真主!;;;;;;;;;;x
+EVTDESC91361;我殷切的教诲终于感化我的 [GetFromRelation] [From.GetTitledFirstName]. [From.GetSubjectPronounCap] 决定要加入教团, 以便待奉安拉!;;;;;;;;;;x
 EVTOPTA91361;[From.GetSubjectPronounCap] 真令我自豪!;;;;;;;;;;x
-EVTDESC91362;我殷切的教诲终于感化我的 [GetFromRelation] [From.GetTitledFirstName], 他决定马上出发到圣地朝觐, 净化心灵.;;;;;;;;;;x
+EVTDESC91362;我殷切的教诲终于感化我的 [GetFromRelation] [From.GetTitledFirstName], 他决定马上出发到圣地朝圣, 净化心灵.;;;;;;;;;;x
 EVTOPTA91362;多么虔诚!;;;;;;;;;;x
 EVTDESC91363;我坚定的信仰感化了我的 [GetFromRelation] [From.GetTitledFirstName]. [From.GetPossPronoun] 不但洗心革面, 更成为慷慨的大慈善家.;;;;;;;;;;x
 EVTOPTA91363;[From.GetObjectPronoun] 有希望了!;;;;;;;;;;x
@@ -138,7 +138,7 @@ EVTOPTA91368;朽木不可雕!;;;;;;;;;;x
 EVTTOOLTIP91351;叫 [This.GetFirstName] 注意言行!;;;;;;;;;;x
 EVTTOOLTIP91352;向 [This.GetFirstName] 保证一定会改正行为!;;;;;;;;;;x
 EVTTOOLTIP91355;尝试导 [This.GetFirstName] 向善;;;;;;;;;;x
-EVTTOOLTIP91360;给 [This.GetFirstName] 讲论真主的道理;;;;;;;;;;x
+EVTTOOLTIP91360;给 [This.GetFirstName] 讲论安拉的道理;;;;;;;;;;x
 EVTTOOLTIP91365;给 [This.GetFirstName] 安排一场 [From.GetPossPronoun] room;;;;;;;;;;x
 patron_shiva;守护神: 湿婆神;;;;;;;;;;x
 patron_vishnu;守护神: 毗湿奴;;;;;;;;;;x
@@ -299,7 +299,7 @@ THE_ASCETICUS;灵修书;;;;;;;;;;x
 THE_PANTOKRATOR;万有主宰;;;;;;;;;;x
 GENERAL_CLOSE_KIN_UNION;因为§Y[ActorExtra.GetFirstName]§!是§Y[RecipientExtra.GetFirstName]的§!$RELATION$,这将是一个神圣的结合,所有的封臣感到欣喜。;;;;;;;;;;x
 EVTDESC502;如同原初之时亚当与夏娃的子女, [From.GetTitledFirstName] 与 [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] 神圣结合, 以取悦[From.Religion.GetRandomGodName]. 我们可以征税一笔王家补助税来支附婚礼的花费.;;;;;;;;;;x
-PAULICIAN_PATRIARCH;保禄牧首;;;;;;;;;;x
+PAULICIAN_PATRIARCH;保禄派牧首;;;;;;;;;;x
 d_saint_addai;圣亚戴骑士团;;;;;;;;;;x
 d_saint_addai_adj;圣亚戴骑士团;;;;;;;;;;x
 expelled_d_saint_addai;驱逐圣亚戴骑士团;;;;;;;;;;x
@@ -349,11 +349,11 @@ EVTOPTC60306;这些马上雄主可真难对付!;;;;;;;;;;x
 IS_NOT_WITHIN_DIPLO_RANGE;不在外交范围内;;;;;;;;;;x
 IS_WITHIN_DIPLO_RANGE;在外交范围内;;;;;;;;;;x
 manifest_destiny_invasion_desc;我的宣称允许我入侵 §Y$TARGET$§!. 如果成功，任何 §Y$TARGET$§!控制的 §Y$TITLE$§! 将会被夺走或成为附庸.;;;;;;;;;;x
-emperor_dravidian_group;圣王;;;;;;;;;;x
+emperor_dravidian_group;僧罗吒;;;;;;;;;;x
 emperor_female_dravidian_group;圣后;;;;;;;;;;x
-king_dravidian_group;大王;;;;;;;;;;x
+king_dravidian_group;摩诃罗阇;;;;;;;;;;x
 king_female_dravidian_group;王后;;;;;;;;;;x
-duke_dravidian_group;王;;;;;;;;;;x
+duke_dravidian_group;罗阇;;;;;;;;;;x
 duke_female_dravidian_group;夫人;;;;;;;;;;x
 count_dravidian_group;多俱罗;;;;;;;;;;x
 count_female_dravidian_group;多俱罗尼;;;;;;;;;;x
@@ -367,11 +367,11 @@ barony_dravidian_group;庄园;;;;;;;;;;x
 duchy_of_dravidian_group;国 ;;;;;;;;;;x
 county_of_dravidian_group;提迦那 ;;;;;;;;;;x
 barony_of_dravidian_group;庄园 ;;;;;;;;;;x
-emperor_indo_aryan_group;圣王;;;;;;;;;;x
+emperor_indo_aryan_group;僧罗吒;;;;;;;;;;x
 emperor_female_indo_aryan_group;圣后;;;;;;;;;;x
-king_indo_aryan_group;大王;;;;;;;;;;x
+king_indo_aryan_group;摩诃罗阇;;;;;;;;;;x
 king_female_indo_aryan_group;王后;;;;;;;;;;x
-duke_indo_aryan_group;王;;;;;;;;;;x
+duke_indo_aryan_group;罗阇;;;;;;;;;;x
 duke_female_indo_aryan_group;夫人;;;;;;;;;;x
 count_indo_aryan_group;多俱罗;;;;;;;;;;x
 count_female_indo_aryan_group;多俱罗尼;;;;;;;;;;x
@@ -637,9 +637,9 @@ EVTOPTA_RoI_1179;这确实是一个快乐的时刻！;;;;;;;;;;x
 EVTDESC_RoI_1181;仆人尖叫着，他被守卫抓住拖向迦梨的伟大偶前像。神殿守卫在大殿前将他压伏，一个祭司抽出奎师梵剑，从他身体的右侧刺穿了心脏。然后，他的喉咙被切断，血液被收集在人头骨碗中传递给客人们饮用。;;;;;;;;;;x
 EVTTITLE_RoI_1183;用鲜血进行一个庆典;;;;;;;;;;x
 EVTDESC_RoI_1183;一个大型的大象被领进大厅。它被绳索和铁链拴住，然后用剑刺伤，它尖叫着，直到它死亡。客人观看惊悚的魅力。死亡的一个长期的，血腥的，不和谐的演唱会 - 该过程，用九个大象重复。结束后，地板变成血湖。几个法师迈步向前，拿着刷子，在血液中行走。他们在血液中浸刷子然后开始画壁画，用可怕的，湿的和深色油漆最终覆盖它们。气味令人作呕。;;;;;;;;;;x
-EVTOPTA_RoI_1183;赞美迦梨, 我们的母亲!;;;;;;;;;;x
+EVTOPTA_RoI_1183;赞美迦梨, 我们的母亲！;;;;;;;;;;x
 EVTDESC_RoI_1188;一些黑山羊由祭司带进来。山羊被放置在一个大型雕像前，然后他们的喉咙被切开。血液被收集在用人类头骨制成的碗里呈现给人群。一个吟诵出现，然后欢呼，因为向死亡女神，时间女神，黑夜女神进行的神圣献祭已经完成;;;;;;;;;;x
-EVTOPTA_RoI_1188;赞美迦梨, 我们的母亲!;;;;;;;;;;x
+EVTOPTA_RoI_1188;赞美迦梨, 我们的母亲！;;;;;;;;;;x
 horse_archers_offensive;弓骑兵攻击;;;;;;;;;;x
 horse_archers_defensive;弓骑兵防御;;;;;;;;;;x
 horse_archers_morale;弓骑兵士气;;;;;;;;;;x
@@ -647,7 +647,7 @@ UNSUPPORTED_VERSION_2_1;§RPre 2.1§!;;;;;;;;;;x
 EVTDESC_RoI_2000;你已经决定组织一个老虎狩猎。你会邀请你的封臣和你一起享受这个时刻。;;;;;;;;;;x
 EVTOPTA_RoI_2000;让人去发出邀请函.;;;;;;;;;;x
 EVTTOOLTIP1_RoI_2000;邀请函已经发出.;;;;;;;;;;x
-EVTDESC_RoI_2001;亲爱的诸侯们,\n\n我准备召集诸位进行一次盛大的打虎活动, 在此邀请各位参加.\n\n[From.GetFullName];;;;;;;;;;x
+EVTDESC_RoI_2001;亲爱的封臣们,\n\n我准备召集诸位进行一次盛大的打虎活动, 在此邀请各位参加。\n\n[From.GetFullName];;;;;;;;;;x
 EVTOPTA_RoI_2001;打老虎! 好的我要去.;;;;;;;;;;x
 EVTOPTB_RoI_2001;我没有时间做无用功.;;;;;;;;;;x
 EVTDESC_RoI_2002;我的君主,\n\n你的智慧与仁慈美名远扬. 我将很高兴同你一起去打老虎.\n\n[From.GetFullName];;;;;;;;;;x

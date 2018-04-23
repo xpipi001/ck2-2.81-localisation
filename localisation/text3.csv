@@ -9,10 +9,10 @@ ADD_LOVER_EFFECT;$WHO$与§Y$SPOUSE$§!堕入爱河。\n;;;;;;;;;;x
 EVTDESC3315;我在夜里尖叫着醒来。黑暗令我恐惧，我止不住怀疑我还能在这场战役中支持多久。;;;;;;;;;;x
 EVTOPTA3315;我觉得有人听到了;;;;;;;;;;x
 EVTOPTB3315;我的士兵将不再尊重我。;;;;;;;;;;x
-EVTDESC60004;大汗派出了更多勇士协助我们的征服！;;;;;;;;;;x
+EVTDESC60004;伟大的可汗派出了更多勇士协助我们的征服！;;;;;;;;;;x
 EVTOPTA40021;我会给[From.GetObjectPronoun]对行凶者头衔的宣称权。;;;;;;;;;;x
-SETTLEMENT_YOUNGER_THAN;领地少于$AGE$年。\n;;;;;;;;;;x
-SETTLEMENT_AT_LEAST;领地至少$AGE$年。\n;;;;;;;;;;x
+SETTLEMENT_YOUNGER_THAN;统治少于$AGE$年。\n;;;;;;;;;;x
+SETTLEMENT_AT_LEAST;统治至少$AGE$年。\n;;;;;;;;;;x
 AIREASON_IS_GUARDIANS_CHILD;监护人是§Y[GetTitledFirstName]§!的父母;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_0;释放§Y[Recipient.GetBestName]§!出狱。;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_1;你的封臣会为你的宽大为怀所感动，提高对你的好感§G$VAL$§!。;;;;;;;;;;x
@@ -41,7 +41,7 @@ tp_barracks_3;修道院民兵军营;;;;;;;;;;x
 tp_barracks_4;修道院民兵军营;;;;;;;;;;x
 tp_barracks_5;修道院民兵军营;;;;;;;;;;x
 tp_barracks_6;修道院民兵军营;;;;;;;;;;x
-k_andalusia_adj;安达卢斯;;;;;;;;;;x
+k_andalusia_adj;安达卢西亚人;;;;;;;;;;x
 DIFFRATING_0;不可能;;;;;;;;;;x
 DIFFRATING_10;几乎不可能;;;;;;;;;;x
 DIFFRATING_20;非常困难;;;;;;;;;;x
@@ -418,7 +418,7 @@ EXECUTE_IMPRISONED_INTERACTION_5;处决将花费§R$PIETY$§!$PIETYNAME$.;;;;;;;
 CANNOT_AFFORD_TITLE_COST;你负担不起 §R$GOLD$§!¤;;;;;;;;;;x
 MENU_BAR_EXIT_DEL;退出至桌面;;;;;;;;;;x
 MENU_BAR_RESIGN_DEL;放弃游戏并返回主菜单;;;;;;;;;;x
-MENU_BAR_PDX_CONNECT_DEL;打开P社连接;;;;;;;;;;x
+MENU_BAR_PDX_CONNECT_DEL;打开Paradox网络;;;;;;;;;;x
 MENU_BAR_MESSAGE_SETTINGS_DEL;设置消息显示;;;;;;;;;;x
 MENU_BAR_GAME_OPTIONS_DEL;设置游戏选项;;;;;;;;;;x
 MENU_BAR_SAVE_GAME_DEL;储存游戏;;;;;;;;;;x
@@ -505,7 +505,7 @@ EVTDESC75004;There is no [Root.job_spiritual.GetManWoman] better at increasing t
 EVTDESC75052;[Root.GetLordSpiritualName] [From.GetTitledFirstName]在我的宫廷中发现了一个异端，并建议我将其流放，使异端永远在死一般的痛苦中，无法回到家乡。;;;;;;;;;;x
 EVTDESC75054;如果领主对我的话置若罔闻，我当[From.GetLordSpiritualName]有什么好处？尽管我百般恳求[From.GetTitledFirstName]，异端还是没有被烧死在火刑柱上。;;;;;;;;;;x
 EVTDESC20000;大人，很荣幸告诉您我在[From.Location.GetName]的任务大获成功。当地的大部分人民都皈依了[From.Religion.GetName]！\n您谦卑的[Root.GetLordSpiritualName]，\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC20011;报告您一个好消息我的大人, 您误入歧途的臣民[From.GetTitledName]已经皈依了[From.Religion.GetName]. 赞美[From.Religion.GetRandomGodName]!\n\n您谦卑的[Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;x
+EVTDESC20011;我的大人，我要向您报告一个好消息，您误入歧途的臣民[From.GetTitledName]已经皈依了[From.Religion.GetName]。赞美[From.Religion.GetRandomGodName]！\n\n您谦卑的[Root.GetLordSpiritualName]，\n[Root.job_spiritual.GetTitledName];;;;;;;;;;x
 EVTDESC20012;我的领主, 我已被别省的 [From.GetLordSpiritualName] 说服, 皈依[From.Religion.GetName]！\n\n您谦卑的仆人,\n[From.GetTitledName];;;;;;;;;;x
 EVTDESC20023;[Root.GetTitledName]，您的[Root.GetLordSpiritualName] [From.GetTitledName]在[From.Location.GetName]传播神圣的信仰时，被异教徒杀害。;;;;;;;;;;x
 EVTTOOLTIP20032;写信给[From.Host.GetTitledName]解释[From.Host.GetHerHis] [From.GetLordSpiritualName]的错误;;;;;;;;;;x

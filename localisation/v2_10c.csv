@@ -5,8 +5,8 @@ form_the_hre_desc;我拥有了堪比查理曼的领土,因此我是他真正的�
 buddhist_DESC;佛教是由佛，乔达摩悉达多在公元前5世纪创立的，在印度东北部。宗教在印度兴盛了1500余年，建立了庞大的图书馆和修道院复合建筑物，直到穆斯林入侵和婆罗门种姓的不断增长的势力而离开印度次大陆。在游戏中，佛教徒得到显著的学习属性奖励，这意味着他们的技术研究将更加快速。;;;;;;;;;;x
 jain_DESC;耆那教是不可思议的古代宗教，由印度的苦行沙门传统所产生，耆那教反对婆罗门祭司和种姓制度。耆那教的指导原则是非暴力主义 - 非暴力 - 并且比任何其他宗教都执行的更彻底。在游戏中，耆那教很难发动进攻性战争，但他们的非凡气度意味着耆那教的统治者更受到他人的喜欢。;;;;;;;;;;x
 IndiaDLC;印度罗闍;;;;;;;;;;x
-TurkishUnitPackDLC;土耳其单位包;;;;;;;;;;x
-TurkishPortraitDLC;土耳其肖像包;;;;;;;;;;x
+TurkishUnitPackDLC;突厥单位包;;;;;;;;;;x
+TurkishPortraitDLC;突厥肖像包;;;;;;;;;;x
 SongsOfIndiaDLC;印度之歌;;;;;;;;;;x
 THREAT;威胁;;;;;;;;;;x
 THREAT_FACTION_LEADER;派系领袖：§Y$FACTION$§!;;;;;;;;;;x
@@ -32,19 +32,19 @@ REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!从§Y[Rec
 CANNOT_BUY_RET_TEMP_TITLE;\n你不能创造这种随从,因为你持有的是临时头衔.;;;;;;;;;;x
 CANNOT_PLAY_INDIAN_WITHOUT_DLC;在没有印度罗闍情况下你不能选择印度宗教游玩;;;;;;;;;;x
 CANNOT_PLAY_JUDAISM_WITHOUT_DLC;在没有亚伯拉罕之裔情况下你不能选择信仰犹太教的角色进行游戏;;;;;;;;;;x
-DESIGNATE_HEIR_ALLOWED_SUCCESSION;继承法必须为均分继承法,长子继承法,幼子继承法和土耳其继承法中的一种;;;;;;;;;;x
+DESIGNATE_HEIR_ALLOWED_SUCCESSION;继承法必须为均分继承法,长子继承法,幼子继承法和突厥继承法中的一种;;;;;;;;;;x
 DESIGNATE_HEIR_ALLOWED_GENDER;继承人的指定必须遵循性别继承法;;;;;;;;;;x
 GRANT_LANDED_TITLE_CORRECT_CASTE;人物拥有正确的种姓;;;;;;;;;;x
 opinion_former_lover;旧情人;;;;;;;;;;x
 IS_NOT_FORMER_LOVER_OF;不是§Y$WHO$§!的昔日情人;;;;;;;;;;x
 IS_FORMER_LOVER_OF;是§Y$WHO$§!的昔日情人;;;;;;;;;;x
-EVTDESC60400;一个杰出的土耳其奴兵,曾经的奴隶苏布克特勤率领他的骑兵完成了多次战役与突袭,由此使自己闻名.我的指挥官认为我应该给予他一个更有权力的职务.;;;;;;;;;;x
+EVTDESC60400;一个杰出的突厥奴兵,曾经的奴隶苏布克特勤率领他的骑兵完成了多次战役与突袭,由此使自己闻名.我的指挥官认为我应该给予他一个更有权力的职务.;;;;;;;;;;x
 EVTOPTA60401;犍陀罗最合适！;;;;;;;;;;x
 EVTOPTB60401;木尔坦很原始;;;;;;;;;;x
 EVTOPTC60401;罗婆补罗附属而弱小;;;;;;;;;;x
 EVTOPTD60401;巴卡尔是第一个!;;;;;;;;;;x
 EVTNAME60406;伽色尼的崛起;;;;;;;;;;x
-EVTDESC60406;一个前土耳其奴兵,雇佣兵,在阿富汗人的土地上崛起.苏布克特勤,是一个积极反对异教徒的人,致力于建立一个堪比古时哈里发的帝国. 他刚刚毁掉了 [FromFrom.GetTitledName] 在一次残忍的战争中,数以万计的凶悍部落青年因此聚集到了他的军旗之下！;;;;;;;;;;x
+EVTDESC60406;一个前突厥奴兵,雇佣兵,在阿富汗人的土地上崛起.苏布克特勤,是一个积极反对异教徒的人,致力于建立一个堪比古时哈里发的帝国. 他刚刚毁掉了 [FromFrom.GetTitledName] 在一次残忍的战争中,数以万计的凶悍部落青年因此聚集到了他的军旗之下！;;;;;;;;;;x
 EVTOPTA60406;颤抖吧,异端!;;;;;;;;;;x
 EVTOPTB60406;多么麻烦的一个地区...;;;;;;;;;;x
 EVTOPTC451;[From.GetSheHeCap]不是我的菜;;;;;;;;;;x

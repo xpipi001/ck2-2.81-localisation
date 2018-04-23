@@ -14,26 +14,26 @@ PROV589;克尔热涅茨;;;;;;;;;;x
 PROV591;切列米莎;;;;;;;;;;x
 black_honor;违反封建义务;;;;;;;;;;x
 EVTOPTF40020;揭发刺客的雇主!;;;;;;;;;;x
-EVTTOOLTIP40026;刺客雇主的身份被揭发.;;;;;;;;;;x
-EVTDESC40026;我们的刺客不仅被发现了, 还供出了我们是幕后主使.  如今 [From.GetBestName] 正在向 [Root.PrimaryTitle.GetFullName] 的每一个人展示我们违背对封臣的封建义务的证据.;;;;;;;;;;x
-EVTOPTA40026;真是个坏消息...;;;;;;;;;;x
+EVTTOOLTIP40026;刺客雇主的身份被揭发。;;;;;;;;;;x
+EVTDESC40026;我们的刺客不仅被发现了，还供出了我们是幕后主使. 。如今 [From.GetBestName] 正在向 [Root.PrimaryTitle.GetFullName] 的每一个人展示我们违背对封臣的封建义务的证据。;;;;;;;;;;x
+EVTOPTA40026;真是个坏消息......;;;;;;;;;;x
 deceitful_martial;徒有其表的军事;;;;;;;;;;x
 deceitful_stewardship;虚假的财政能力;;;;;;;;;;x
 deceitful_diplomacy;有名无实的交际;;;;;;;;;;x
 deceitful_learning;赝劣的学识;;;;;;;;;;x
-EVTDESC3260;我并不是一个很够格的统率,有时甚至连身为一个称职的骑士应有表现都拿不出来. 幸运的是,我知道如何操纵人心...;;;;;;;;;;x
-EVTOPTA3260;也就是随口一说,随口一说..;;;;;;;;;;x
-EVTOPTB3260;就让 [Root.job_marshal.GetTitledFirstName] 去背黑锅吧.;;;;;;;;;;x
-EVTDESC3261;我已经忍受不了日复一日的处理领地的政务了. 我可以依赖别人去处理公务, 同时得让他们相信我是在忙更棘手的要务.;;;;;;;;;;x
-EVTOPTA3261;也就是随口一说,随口一说..;;;;;;;;;;x
-EVTOPTB3261;让 [Root.job_treasurer.GetTitledFirstName] 来解决那堆麻烦事吧.;;;;;;;;;;x
-EVTDESC3262;有时候我在外交上的疏忽使我处在尴尬的状态. 不过, 只要控制一下舆论, 我可以让我的廷臣来代我承担指责.;;;;;;;;;;x
-EVTOPTA3262;他们毕竟是我的得力助手..;;;;;;;;;;x
-EVTOPTB3262;就该是 [Root.job_chancellor.GetTitledFirstName] 背锅的时候了.;;;;;;;;;;x
-EVTDESC3263;我不是一个饱读诗书的人,如果在一些学识讨论中我不能小心谨慎地尽量避免发言的话,全宫廷很快就会发现这一点.;;;;;;;;;;x
-EVTOPTA3263;也就是随口一说,随口一说..;;;;;;;;;;x
-EVTOPTB3263;[Root.job_spiritual.GetTitledFirstName] 肯定不会乐见这事的.;;;;;;;;;;x
-EVTDESC73200;真可恶, [Root.Liege.GetTitledFirstName] 任命 [Root.job_marshal.GetTitledFirstName] 作为[Root.Liege.GetHerHis]元帅. 我明明比他更有能力当元帅!;;;;;;;;;;x
+EVTDESC3260;我并不是一个很够格的统率,有时甚至连身为一个称职的骑士应有表现都拿不出来. 幸运的是,我知道如何操纵人心……;;;;;;;;;;x
+EVTOPTA3260;也就是随口一说,随口一说……;;;;;;;;;;x
+EVTOPTB3260;就让 [Root.job_marshal.GetTitledFirstName] 去背黑锅吧。;;;;;;;;;;x
+EVTDESC3261;我已经忍受不了日复一日的处理领地的政务了. 我可以依赖别人去处理公务, 同时得让他们相信我是在忙更棘手的要务。;;;;;;;;;;x
+EVTOPTA3261;也就是随口一说,随口一说……;;;;;;;;;;x
+EVTOPTB3261;让 [Root.job_treasurer.GetTitledFirstName] 来解决那堆麻烦事吧。;;;;;;;;;;x
+EVTDESC3262;有时候我在外交上的疏忽使我处在尴尬的状态.。不过,，只要控制一下舆论，我可以让我的廷臣来代我承担指责。;;;;;;;;;;x
+EVTOPTA3262;他们毕竟是我的得力助手......;;;;;;;;;;x
+EVTOPTB3262;就该是 [Root.job_chancellor.GetTitledFirstName] 背锅的时候了。;;;;;;;;;;x
+EVTDESC3263;我不是一个饱读诗书的人,如果在一些学识讨论中我不能小心谨慎地尽量避免发言的话,全宫廷很快就会发现这一点。;;;;;;;;;;x
+EVTOPTA3263;也就是随口一说,随口一说……;;;;;;;;;;x
+EVTOPTB3263;[Root.job_spiritual.GetTitledFirstName] 肯定不会乐见这事的。;;;;;;;;;;x
+EVTDESC73200;真可恶, [Root.Liege.GetTitledFirstName] 任命 [Root.job_marshal.GetTitledFirstName] 作为[Root.Liege.GetHerHis]元帅.。我明明比他更有能力当元帅！;;;;;;;;;;x
 EVTOPTA73200;我会向领主申诉!;;;;;;;;;;x
 EVTTOOLTIP73201;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;;x
 EVTDESC73201;[From.GetBestName] 声称[From.GetSheHe]比 [Root.job_marshal.GetTitledFirstName] 更适合担任元帅,并且认为 [Root.PrimaryTitle.GetFullName] 应当把元帅的职位授予给[From.GetSheHe].;;;;;;;;;;x
@@ -41,11 +41,11 @@ EVTOPTA73201;现在[From.GetSheHeCap]就是我的新元帅了;;;;;;;;;;x
 EVTOPTB73201;再多给 [Root.job_marshal.GetFirstName] 一次机会!;;;;;;;;;;x
 EVTTOOLTIP73202;会听说我们的耐心.;;;;;;;;;;x
 EVTOPTC73201;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
-EVTDESC73202;我的领主 [From.GetBestName] 并不是很满意我作为 [Root.PrimaryTitle.GetFullName] 元帅的表现, 正在考虑撤换我..;;;;;;;;;;x
+EVTDESC73202;我的领主 [From.GetBestName] 并不是很满意我作为 [Root.PrimaryTitle.GetFullName] 元帅的表现, 正在考虑撤换我……;;;;;;;;;;x
 EVTOPTA73202;我必须证明自己!;;;;;;;;;;x
 EVTOPTB73202;我能做什么?;;;;;;;;;;x
 EVTDESC73203;时间已经过的够久了, 我理当成为 [Root.PrimaryTitle.GetFullName] 的元帅, [Root.Liege.GetTitledFirstName] 会授予我元帅职位!;;;;;;;;;;x
-EVTOPTA73203;我急迫的期待[Root.Liege.GetHerHis]回音.;;;;;;;;;;x
+EVTOPTA73203;我急迫的期待[Root.Liege.GetHerHis]的回音。;;;;;;;;;;x
 EVTTOOLTIP73204;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;;x
 EVTOPTA73204;现在[From.GetSheHeCap]就是我的新元帅了;;;;;;;;;;x
 EVTOPTC73204;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
@@ -57,9 +57,9 @@ EVTTOOLTIP73211;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;
 EVTDESC73211;[From.GetBestName] 声称[From.GetSheHe]比 [Root.job_spymaster.GetTitledFirstName] 更适合担任间谍头目,并且认为 [Root.PrimaryTitle.GetFullName] 应当把间谍头目的职位授予给[From.GetSheHe].;;;;;;;;;;x
 EVTOPTA73211;现在[From.GetSheHeCap]就是我的新间谍头目了;;;;;;;;;;x
 EVTOPTB73211;再多给 [Root.job_spymaster.GetTitledFirstName] 一次机会!;;;;;;;;;;x
-EVTTOOLTIP73212;会听说我们的耐心.;;;;;;;;;;x
+EVTTOOLTIP73212;会听说我们的耐心。;;;;;;;;;;x
 EVTOPTC73211;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
-EVTDESC73212;我的领主 [From.GetBestName] 并不是很满意我作为 [Root.PrimaryTitle.GetFullName] 的间谍头目的表现, 正在考虑撤换我..;;;;;;;;;;x
+EVTDESC73212;我的领主 [From.GetBestName] 并不是很满意我作为 [Root.PrimaryTitle.GetFullName] 的间谍头目的表现, 正在考虑撤换我……;;;;;;;;;;x
 EVTOPTA73212;我必须证明自己!;;;;;;;;;;x
 EVTOPTB73212;我该怎么办?;;;;;;;;;;x
 EVTDESC73213;时间已经过的够久了, 我理当成为 [Root.PrimaryTitle.GetFullName] 的间谍头目,[Root.Liege.GetTitledFirstName] 会授予我间谍头目职位!;;;;;;;;;;x
@@ -68,14 +68,14 @@ EVTTOOLTIP73214;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;
 EVTOPTA73214;现在[From.GetSheHeCap]就是我的新间谍头目了;;;;;;;;;;x
 EVTOPTC73214;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
 EVTDESC73215;我亲爱的和值得信赖的[This.GetBestName]。\n我在此赐予你[Root.PrimaryTitle.GetFullName]的间谍首领之头衔。;;;;;;;;;;x
-EVTOPTA73215;这是我应得的..;;;;;;;;;;x
+EVTOPTA73215;这是我应得的……;;;;;;;;;;x
 EVTDESC73220;真可恶, [Root.Liege.GetTitledFirstName] 任命 [Root.job_treasurer.GetTitledFirstName] 作为[Root.Liege.GetHerHis]总管. 我明明比他更有能力当总管!;;;;;;;;;;x
 EVTOPTA73220;我会向领主申诉!;;;;;;;;;;x
 EVTTOOLTIP73221;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;;x
 EVTDESC73221;[From.GetBestName] 声称[From.GetSheHe]比 [Root.job_treasurer.GetTitledFirstName] 更适合担任总管, 认为 [Root.PrimaryTitle.GetFullName] 应当把总管的职位授予[From.GetSheHe].;;;;;;;;;;x
 EVTOPTA73221;现在[From.GetSheHeCap]就是我的新总管了;;;;;;;;;;x
 EVTOPTB73221;再多给 [Root.job_treasurer.GetFirstName] 一次机会!;;;;;;;;;;x
-EVTTOOLTIP73222;会听说我们的耐心.;;;;;;;;;;x
+EVTTOOLTIP73222;会听说我们的耐心。;;;;;;;;;;x
 EVTOPTC73221;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
 EVTDESC73222;我的领主 [From.GetBestName] 并不是很满意我作为 [Root.PrimaryTitle.GetFullName] 的总管的表现, 正在考虑撤换我..;;;;;;;;;;x
 EVTOPTA73222;我必须证明自己!;;;;;;;;;;x
@@ -96,7 +96,7 @@ EVTOPTB73232;我该怎么办?;;;;;;;;;;x
 EVTOPTA73233;我急迫的期待[Root.Liege.GetHerHis]回音.;;;;;;;;;;x
 EVTTOOLTIP73234;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;;x
 EVTOPTC73234;我才是 [Root.PrimaryTitle.GetFullName] 说了算的人!;;;;;;;;;;x
-EVTOPTA73235;这是我应得的..;;;;;;;;;;x
+EVTOPTA73235;这是我应得的……;;;;;;;;;;x
 EVTDESC73240;真可恶, [Root.Liege.GetTitledFirstName] 任命 [Root.job_chancellor.GetTitledFirstName] 作为[Root.Liege.GetHerHis][Root.GetChancellorName]. 我明明比他更有能力当[Root.GetChancellorName]!;;;;;;;;;;x
 EVTOPTA73240;我会向领主申诉!;;;;;;;;;;x
 EVTTOOLTIP73241;会听取我们的申诉,希望他做出明智的决定;;;;;;;;;;x
@@ -118,7 +118,7 @@ EVTOPTA73245;这是我应得的..;;;;;;;;;;x
 EVTOPTB3220;骄者必败...;;;;;;;;;;x
 EVTOPTA3237;我再也不需要[From.GetHerHis]建议了.;;;;;;;;;;x
 EVTDESC3140;我知道我不是国内最好的战士,但是非常期望能到达那个高度.还有人比我更优秀,我希望我和他们一样!;;;;;;;;;;x
-EVTOPTA3140;向其中一位挑衅.;;;;;;;;;;x
+EVTOPTA3140;向其中一位挑衅。;;;;;;;;;;x
 EVTOPTB3140;和其中一位结交.;;;;;;;;;;x
 EVTOPTC3140;试图赶上他们.;;;;;;;;;;x
 EVTDESC3141;所谓杰出的交际能力就是在尔虞我诈的宫廷中能面带微笑的讲着甜言蜜语. 我很羡慕那些人的能力, 真希望自己也有这种能力.;;;;;;;;;;x
@@ -160,8 +160,8 @@ EVTOPTA3281;从此我和[From.GetHerHim]形同陌路..;;;;;;;;;;x
 EVTDESC3282;我徘徊于自己施展计谋的能力和性格中的诚实之间. 想要两全其美实在是太过困难, 许多时候我完全不知该如何是好.;;;;;;;;;;x
 EVTOPTA3282;我还是应该用更加光明正大的方式来处理问题.;;;;;;;;;;x
 EVTOPTB3282;诚实是可耻的!;;;;;;;;;;x
-EVTDESC3283;我知道如何去评判一个统治者, 而我的领主, [Root.Liege.GetTitledFirstName] 是一位真正德行高尚的[Root.Liege.GetManWoman]. [Root.Liege.GetSheHeCap]理应得到尊重和赞美.;;;;;;;;;;x
-EVTOPTA3283;公开的赞美[Root.Liege.GetHerHim]!;;;;;;;;;;x
+EVTDESC3283;我知道如何去评判一个统治者，而我的领主，[Root.Liege.GetTitledFirstName]是一位真正德行高尚的[Root.Liege.GetManWoman]。[Root.Liege.GetSheHeCap]理应得到尊重和赞美。;;;;;;;;;;x
+EVTOPTA3283;公开赞美[Root.Liege.GetHerHim]！;;;;;;;;;;x
 EVTTOOLTIP3284;会听说我们的演讲.;;;;;;;;;;x
 EVTOPTB3283;向 [Root.Liege.GetTitledFirstName] 发出一封私信.;;;;;;;;;;x
 EVTTOOLTIP3285;会读到我的信...;;;;;;;;;;x
@@ -724,7 +724,7 @@ e_timurids_adj;帖木儿;;;;;;;;;;x
 TITLE_CANNOT_GAIN_INDEPENDENCE;不能创立或篡夺与领主头衔同级或更高级的头衔;;;;;;;;;;x
 HAS_CROWN_LAW_TITLE;受王权法影响;;;;;;;;;;x
 HAS_NOT_CROWN_LAW_TITLE;不受王权法影响;;;;;;;;;;x
-EVTNAME60003;钢铁大汗;;;;;;;;;;x
+EVTNAME60003;铁汗;;;;;;;;;;x
 EVTDESC60003;我的领主, 帖木儿大汗将中亚诸多游牧部族落聚集到自己麾下, 想要建立媲美传奇的成吉思汗的大帝国. 他可怕的大军已经在希瓦出现,直指席卷整个波斯.;;;;;;;;;;x
 EVTOPTB60003;难道游牧部落永远无穷无尽吗?;;;;;;;;;;x
 amphibious_landing;两栖登陆;;;;;;;;;;x

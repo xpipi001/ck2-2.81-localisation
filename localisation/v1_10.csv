@@ -370,7 +370,7 @@ HAS_LOWER_DYN_REALM_POWER;王朝的疆域统治力量小于 §Y$VAL$%§!;;;;;;;;
 HAS_HIGHER_DYN_REALM_POWER;王朝的疆域统治力量至少是 §Y$VAL$%§!;;;;;;;;;;x
 slavic_pagan;斯拉夫多神教;;;;;;;;;;x
 slavic_pagan_reformed;斯拉夫多神教;;;;;;;;;;x
-tengri_pagan_reformed;腾格里;;;;;;;;;;x
+tengri_pagan_reformed;长生天;;;;;;;;;;x
 baltic_pagan_reformed;洛姆瓦教;;;;;;;;;;x
 finnish_pagan_reformed;索米多神教;;;;;;;;;;x
 aztec_reformed;阿兹特克多神教;;;;;;;;;;x
@@ -378,7 +378,7 @@ west_african_pagan;西非信仰;;;;;;;;;;x
 west_african_pagan_reformed;西非信仰;;;;;;;;;;x
 TT_NOT_UNREFORMED_PAGAN;是改革过的异教徒\n;;;;;;;;;;x
 REBELS;叛军;;;;;;;;;;x
-GOD_PERUN;佩伦;;;;;;;;;;x
+GOD_PERUN;佩龙;;;;;;;;;;x
 GOD_VELES;韦莱斯;;;;;;;;;;x
 GOD_JARILO;雅里洛;;;;;;;;;;x
 GOD_SVAROG;斯瓦罗格;;;;;;;;;;x
@@ -833,7 +833,7 @@ EVTDESC_TOG_020;我们庞大的帝国疆土没有满足于超过亚历山大大�
 EVTNAME_TOG_021;开罗陷落;;;;;;;;;;x
 EVTDESC_TOG_021;一支蒙古部队在富饶的尼罗河三角洲上驰骋，到达了吉萨大金字塔并且攻破了开罗城门.即使是最残忍的法老将也停下脚步，由于被强加给城内颓废和愚蠢的人们的悲痛和苦难.;;;;;;;;;;x
 EVTNAME_TOG_022;麦加陷落;;;;;;;;;;x
-EVTDESC_TOG_022;穆斯林的圣城麦加现在被蒙古战士们点燃了.从远方而来膜拜真主的朝圣者在接近城门时等待他们的只有死亡.这次亵渎将百年难忘，希望给那些反抗强大的蒙古军队的城市上了重要的一课.;;;;;;;;;;x
+EVTDESC_TOG_022;穆斯林的圣城麦加现在被蒙古战士们点燃了.从远方而来膜拜安拉的朝圣者在接近城门时等待他们的只有死亡.这次亵渎将百年难忘，希望给那些反抗强大的蒙古军队的城市上了重要的一课.;;;;;;;;;;x
 d_slesvig_adj_german;石勒苏益格的;;;;;;;;;;x
 d_meath_adj_north_germanic;都柏林的;;;;;;;;;;x
 k_moravia;大摩拉维亚;;;;;;;;;;x
@@ -906,7 +906,7 @@ EVTDESC_TOG_551;你委托制作的符石已经完成了，被立在了你指定�
 EVTDESC_TOG_552;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	在有生之年竖立此石纪念[Root.GetHerselfHimself].老实说[Root.GetHerHis]最爱蜂蜜酒和烈酒	嗜酒如命.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
 EVTDESC_TOG_553;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]所生	竖立此石在[Root.GetHerHis]有生之年.确实[Root.GetHerHis]美貌在大陆有人烟的地方找不出第二个了.奥拉夫雕刻	艾纳上色.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
 EVTDESC_TOG_554;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖立此石纪念[Root.GetHerHis].尽管[Root.GetSheHe]体型稍小	但是[Root.GetFirstName]有大愿望.欧德雕刻此纪念碑[Root.GetSheHe]还活着的时候\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_555;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n由[Root.GetFirstName]所立之碑	[Root.Father.GetFirstName]的[Root.GetSonDaughter]	为了赞美[Root.GetHerHis]伟大的智慧.真的是举世无双，前无古人.雕刻者托克.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
+EVTDESC_TOG_555;你委托制作的符石已经完成了，并立在你指定的位置。你检查符石：\n\n由[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]所立之碑，以赞美[Root.GetHerHis]的伟大智慧。真的是举世无双，前无古人。雕刻者托克。\n\n你离开了符石，几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧。;;;;;;;;;;x
 EVTDESC_TOG_556;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n不幸的[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	想方设法为了看到这块纪念[Root.GetHerHis]石碑.很多人说[Root.GetSheHe]是卑微的而且毫无价值，很可能他们说对了.有着传奇性对付女人技巧的裘蒙德带着遗憾刻下了这些字.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
 EVTDESC_TOG_557;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	命令竖立此碑在[Root.GetHerHis]一生中.说真的[Root.GetSheHe]以一当十n	没人有敢于反对他的说法.碑石由沃姆所刻.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
 EVTDESC_TOG_558;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石s:\n\n博学的[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	要求以[Root.GetHerHis]名字竖立此石.[Root.GetSheHe]拥有世上的知识被所有人羡慕.罗尔夫雕下了这些字.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
@@ -1421,13 +1421,13 @@ opinion_jarilo;举办亚利罗节;;;;;;;;;;x
 opinion_refused_jarilo;拒绝庆祝亚利罗;;;;;;;;;;x
 opinion_represented_jarilo;亚利罗替身;;;;;;;;;;x
 hold_jarilo;举办亚利罗节;;;;;;;;;;x
-hold_jarilo_desc;庆祝丰收之神亚利罗，雷电神佩伦之子，以及春天的到来.;;;;;;;;;;x
+hold_jarilo_desc;庆祝丰收之神亚利罗，雷电神佩龙之子，以及春天的到来.;;;;;;;;;;x
 prepare_jarilo;你开始为亚利罗节做准备.;;;;;;;;;;x
 jarilo_deliberations;开始考虑.;;;;;;;;;;x
 EVTDESC_TOG_800;邀请你的封臣们参加亚利罗节的庆典的请柬已经送出.你已经决定要让今年的这个节日成为独一无二的，让诸神和参加的人回味多年.;;;;;;;;;;x
 EVTTOOLTIP_TOG_801;送出邀请参加亚利罗节的请柬.;;;;;;;;;;x
 EVTDESC_TOG_801;你的领主[From.GetTitledFirstName]已经邀请你同[From.GetHerHim]一起参加丰收之神亚利罗的庆典.这会是一场宏大的庆典来预示春天的到来.;;;;;;;;;;x
-EVTDESC_TOG_802;[From.GetTitledFirstName]拒绝了你的节日邀请！显然[From.GetSheHe]不信仰亚利罗，佩伦或者其他诸神，而是信奉一些其他陌生宗教的奇怪仪式.;;;;;;;;;;x
+EVTDESC_TOG_802;[From.GetTitledFirstName]拒绝了你的节日邀请！显然[From.GetSheHe]不信仰亚利罗，佩龙或者其他诸神，而是信奉一些其他陌生宗教的奇怪仪式.;;;;;;;;;;x
 EVTDESC_TOG_803;你的封臣们都已经到了，现在是时候开始你的亚利罗庆典了.作为每年的传统，他们中的一个会被选为亚利罗的替身游行.应该选谁呢;;;;;;;;;;x
 EVTOPTA_TOG_803;让我们决定.;;;;;;;;;;x
 EVTDESC_TOG_804;庆祝亚利罗和春天到来的节日终于开始了.作为每年的传统，你们中的一个会被选为亚利罗的替身并四处游行.应该选谁呢;;;;;;;;;;x
@@ -1436,10 +1436,10 @@ EVTDESC_TOG_806;随着外面的庆典渐近尾声，你和你的领主以及[Fro
 EVTDESC_TOG_807;这个季节你对亚利罗的祭拜已经结束了，你的封臣们正在回家的路上.他们中的大部分人都认为这次赶来参加亚利罗庆典十分值得.;;;;;;;;;;x
 EVTDESC_TOG_808;这个季节你对亚利罗的祭拜已经结束了，宴会也接近尾声.你和其他的封臣正在回家的路上，但是你们全都认为这次赶来参加亚利罗庆典十分值得.;;;;;;;;;;x
 EVTDESC_TOG_845;经过深思熟虑，你被选为亚利罗的替身！你被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，你四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
-EVTOPTA_TOG_845;佩伦之子亚利罗万岁！;;;;;;;;;;x
+EVTOPTA_TOG_845;佩龙之子亚利罗万岁！;;;;;;;;;;x
 EVTOPTB_TOG_845;我感觉自己像个八嘎.;;;;;;;;;;x
 EVTDESC_TOG_846;今年[From.GetTitledFirstName]被选为亚利罗的替身！他被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，[From.GetFirstName]四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
-EVTOPTA_TOG_846;佩伦之子亚利罗万岁！;;;;;;;;;;x
+EVTOPTA_TOG_846;佩龙之子亚利罗万岁！;;;;;;;;;;x
 EVTOPTB_TOG_846;看那个傻逼.;;;;;;;;;;x
 EVTDESC_TOG_848;因为没有合适的封臣，今年有你自己来做亚利罗的替身.你被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，你四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
 EVTDESC_TOG_3200;一个声称自己是渥尔娃女巫的女人被带到你面前，她请求加入你的宫廷.如果她的巫术像她声称的那样厉害而且她确实能预测未来，她的价值是不可估量的...;;;;;;;;;;x
@@ -1509,19 +1509,19 @@ monothelite_DESC;基督一志论是基督论的一种，在681年被宣布为异
 sunni_DESC;伊斯兰逊尼派是至今为止传播最广的宗教。在伊斯兰教两大派系中逊尼派被认为更为正统，但是逊尼派和什叶派的分裂源头实际上只是政治上的分歧。逊尼派承认第一个哈里发艾布·伯克尔的合法性，而什叶派拒绝承认他的合法性而认为阿里才是合法的哈里发。逊尼派穆斯林严格遵循圣训-即穆罕默德说过的话和做过的事。这同时也构成了逊尼派立法的基础。 伊斯兰逊尼派的正式首领是(逊尼派)哈里发。;;;;;;;;;;x
 zikri_DESC;伊斯兰诵经派在游戏中是一个逊尼派的异端. 诵经派是Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.)的追随者;;;;;;;;;;x
 shiite_DESC;什叶派Shi'a是Shi'atul Ali的缩写	或称为阿里派	他们拒绝承认第一个哈里发艾布·伯克尔的合法性而认为阿里才是合法的哈里发. 在伊斯兰两大派系中什叶派比较而言正统性略低	什叶派相信隐遁伊玛目是救世主的观点. 伊斯兰什叶派的正式首领是(什叶派)哈里发.;;;;;;;;;;x
-bektashi_DESC;拜克塔什教团是一个苏菲神秘主义教团	中心信条是Wahdat-ul-Wujood。	即真主穆罕默德阿里合一。在游戏中它被认为是一种异端。;;;;;;;;;;x
+bektashi_DESC;拜克塔什教团是一个苏菲神秘主义教团	中心信条是Wahdat-ul-Wujood。	即安拉穆罕默德阿里合一。在游戏中它被认为是一种异端。;;;;;;;;;;x
 druze_DESC;德鲁兹派源自伊斯兰什叶派的伊斯玛仪教派	在亚伯拉罕宗教的基础上又吸收了诺斯替主义和新柏拉图主义的特点。;;;;;;;;;;x
 norse_pagan_reformed_DESC;改革的诺斯原始宗教信仰有一本如尼字母写成的圣书	包括创世	诸神	诸神的黄昏	以及神秘咒语'galdrs'等章节. 它的教会有一套标准化的礼拜仪式和以Fylkir为首领的正规教会结构	Fylkir相当于伊斯兰教的哈里发	对信徒来说既是世俗的统治者又是宗教的首领.;;;;;;;;;;x
 tengri_pagan_reformed_DESC;改革的长生天信仰有一本用鄂尔浑符文写成的圣书	一套标准化的礼拜仪式和以长生天大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
-tengri_pagan_DESC;腾格里信仰是欧亚大草原上突厥人和蒙古人的游牧部落信奉的宗教. 主神是创世神腾格里天神. 这一宗教具有鲜明的萨满教和泛灵教特征.;;;;;;;;;;x
+tengri_pagan_DESC;长生天信仰是欧亚大草原上突厥人和蒙古人的游牧部落信奉的宗教. 主神是创世神腾格里大神. 这一宗教具有鲜明的萨满教和泛灵教特征.;;;;;;;;;;x
 baltic_pagan_reformed_DESC;改革的波罗的海信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由Dievs大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
-baltic_pagan_DESC;波罗的海原始宗教是一种多神信仰	主神是天神Dievs. 其他主神包括雷电之神Perkunas	和日耳曼人的雷神托尔以及斯拉夫人的雷神Perun十分类似	太阳和繁殖女神Saule	Daugava and Meness.;;;;;;;;;;x
+baltic_pagan_DESC;波罗的海原始宗教是一种多神信仰，主神是天神季耶瓦斯。其他主神包括雷电之神佩尔库纳斯，和日耳曼人的雷神托尔以及斯拉夫人的雷神佩龙十分类似，其他重要神明包括太阳和繁殖女神绍莱，道加瓦和墨涅斯;;;;;;;;;;x
 finnish_pagan_reformed_DESC;改革的芬兰信仰有一本圣书	包括创世神话	诸神相关的章节	以及一本神秘咒语书. 该教会有一套标准化的礼拜仪式以及由乌戈大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 finnish_pagan_DESC;芬兰原始宗教多种多样	不同部落和地区变化很大. 它具有萨满教和泛灵论的特征	崇拜很多神灵	包括Ukko/Perkele	Kuu	以及东方的大地女神Mastor-Ava.;;;;;;;;;;x
 aztec_reformed_DESC;改革的阿兹特克信仰有一本真正的圣书	一套标准化的礼拜仪式和以专门的大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 aztec_DESC;阿兹特克信仰的创世神话里充满着献祭 - 为了让太阳保持运转甚至诸神也要被献祭. 这反映在许多该宗教的节日和仪式里的大规模人祭上. 主神包括战神人祭之神维齐洛波奇特利Huitzilopochtli	雷神雨神特拉洛克Tlaloc	火神修堤库特里	剥皮之主西佩托堤克Xipe Totec	以及智慧之神羽蛇神奎兹特克Quetzalcoatl.;;;;;;;;;;x
-slavic_pagan_reformed_DESC;改革的斯拉夫信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由佩伦大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
-slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰，主神是雷电之神佩伦，类似日耳曼人的雷神托尔. 其他重要的神灵包括大地水和冥界之神维列斯，火神斯瓦洛格，繁衍植物生长战争与丰收之神亚利洛以及Svantevit。此外许多部落崇拜当地的神灵。;;;;;;;;;;x
+slavic_pagan_reformed_DESC;改革的斯拉夫信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由佩龙大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
+slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰，主神是雷电之神佩龙，类似日耳曼人的雷神托尔. 其他重要的神灵包括大地水和冥界之神维列斯，火神斯瓦洛格，繁衍植物生长战争与丰收之神亚利洛以及Svantevit。此外许多部落崇拜当地的神灵。;;;;;;;;;;x
 west_african_pagan_reformed_DESC;改革的西非宗教信仰是许多种流行信仰的熔合	有一本圣书记述了创世神话	诸灵	动物图腾和诸神的传说. 该教会有一套标准化的礼拜仪式以及由大祭司(或者女祭司)为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 west_african_pagan_DESC;西非宗教信仰是对撒哈拉沙漠以南的西非部落各种原始宗教的泛称. 以祖先崇拜	泛灵论	图腾崇拜以及萨满教为主	除此还有很多很多的神.;;;;;;;;;;x
 zoroastrian_DESC;祆教崇拜阿胡拉·马兹达	古伊朗先知琐罗亚斯德认为阿胡拉·马兹达是创世神. 直到公元651年穆斯林征服萨珊王朝为止	它是所有波斯帝国的国教(除了希腊的塞琉古帝国). 古老的宗教礼仪包括圣山顶上的圣火	天葬	以及效仿阿胡拉·马兹达和琐罗亚斯德的近亲结婚.;;;;;;;;;;x
@@ -1641,7 +1641,7 @@ holmgang_prepare;你准备好了决斗.;;;;;;;;;;x
 EVTTOOLTIP_TOG_5002;你接受他的挑战.;;;;;;;;;;x
 EVTTOOLTIP_TOG_5003;你拒绝了他的挑战.;;;;;;;;;;x
 EVTNAME200;[Root.Religion.GetCrusadeName]目标[From.GetBaseName]！;;;;;;;;;;x
-EVTDESC200;陛下，[Root.GetTitledFirstName]，被[From.GetFullName]的基督徒的哭喊打动了.他号召全欧洲的健壮青年拿起武器去对抗邪恶的[New.GetTitledName]，旨在从伊斯兰异教徒的手中拯救[From.GetName].\n\n上帝将在天堂宽恕朝觐者的罪过.;;;;;;;;;;x
+EVTDESC200;陛下，[Root.GetTitledFirstName]，被[From.GetFullName]的基督徒的哭喊打动了.他号召全欧洲的健壮青年拿起武器去对抗邪恶的[New.GetTitledName]，旨在从伊斯兰异教徒的手中拯救[From.GetName].\n\n上帝将在天堂宽恕朝圣者的罪过.;;;;;;;;;;x
 EVTDESC201;陛下，[Root.GetTitledFirstName]，担心[From.GetFullBaseName]的信仰.[New.GetTitledName]的异教徒毫无希望拯救，除非他们能信仰基督否则将遭到无穷的地狱之火的灼烧.所有的基督徒在对抗[New.Religion.GetName]的野蛮人时的罪过都将得到宽??;;;;;;;;;;x
 EVTDESC321;[From.GetFullBaseName]正遭到异端的荼毒.陛下，[Root.GetTitledFirstName]，认为肮脏的[New.GetTitledName]和[New.GetPossPronoun]必须净化，得赶在这些黑点扩散之前！;;;;;;;;;;x
 EVTOPTA200;因父之名！;;;;;;;;;;x
@@ -1649,10 +1649,10 @@ EVTOPTB200;我们不关心...;;;;;;;;;;x
 EVTOPTC200;愚蠢的异端！;;;;;;;;;;x
 EVTOPTD200;拿起武器！;;;;;;;;;;x
 EVTOPTE200;可怕的消息！;;;;;;;;;;x
-EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
+EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的安拉！;;;;;;;;;;x
 EVTOPTA320;安拉至大！;;;;;;;;;;x
-EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
-EVTDESC323;至正的[Root.Religion.GetName] [Root.GetTitledFirstName]深深的担心[From.GetFullBaseName]迷失信仰的人们，他们中的多数都难以称之为穆斯林.他号召所有真正的([Root.Religion.GetName])穆斯林为了伊斯兰的荣光拿起武器反抗异教徒[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
+EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的安拉！;;;;;;;;;;x
+EVTDESC323;至正的[Root.Religion.GetName] [Root.GetTitledFirstName]深深的担心[From.GetFullBaseName]迷失信仰的人们，他们中的多数都难以称之为穆斯林.他号召所有真正的([Root.Religion.GetName])穆斯林为了伊斯兰的荣光拿起武器反抗异教徒[New.GetTitledName].\n\n 仁慈的安拉！;;;;;;;;;;x
 EVTDESC324;伟大的[Root.GetTitledFirstName]认为是时候教教[New.GetTitledName]以及那些信仰钉死在十字架上的神的信徒什么是谦虚.所有自由的[Root.Religion.GetName]都被邀请加入洗劫[From.GetFullBaseName]！\n\n [Root.Religion.GetRandomGodNameCap]与我们同在！;;;;;;;;;;x
 EVTOPTA324;为了[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTDESC325;[Root.GetTitledFirstName]梦见了[Root.Religion.GetRandomGodName]，命令[Root.GetObjectPronoun]宣布伟大的[Root.Religion.GetCrusadeName]在[New.GetTitledName].所有自由的[Root.Religion.GetName]人都被邀请到圣地的盛宴中！\n\n [Root.Religion.GetRandomGodNameCap]伟大！;;;;;;;;;;x

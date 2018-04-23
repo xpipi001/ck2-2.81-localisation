@@ -353,7 +353,7 @@ DIPLOFLAVOR_INSULT_3;愿你的一生短暂而不幸。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_4;愿智慧永远弃你而去。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_0;诅咒你的七代祖宗！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_1;愿你活活被缝进死骆驼的肚子里！;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_2;愿真主降灾于你全家！;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_muslim_2;愿安拉降灾于你全家！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_3;你这条污秽的狗。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_0;祝您和您的家人平安。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_1;您的智慧与仁德广为传颂。;;;;;;;;;;x
@@ -1181,7 +1181,7 @@ EVTTOOLTIP3407;[Root.GetTitledFirstName]要求[This.GetTitledFirstName]讲话;;;
 EVTOPTB3406;这有些讨人喜欢，真的;;;;;;;;;;x
 EVTTOOLTIP3408;[This.GetTitledFirstName]看起来认为我的意见很有价值!;;;;;;;;;;x
 EVTOPTA3407;神父认为这意见太不公正了;;;;;;;;;;x
-EVTDESC3408;当[From.GetTitledFirstName]告诉神父[From.GetSheHe]对彩色玻璃窗户的意见如何之后，他们都看着我等着我说话，我设法用[From.GetTitledFirstName]的观点来赞美这些窗户.神父看起来满意了，[From.GetTitledFirstName]对着我眉开眼笑.;;;;;;;;;;x
+EVTDESC3408;当[From.GetTitledFirstName]告诉神父[From.GetSheHe]对彩色玻璃窗户的意见如何之后，他们都看着我等着我说话，我设法用[From.GetTitledFirstName]的观点来赞美这些窗户。神父看起来满意了，[From.GetTitledFirstName]对着我眉开眼笑。;;;;;;;;;;x
 EVTOPTA3408;似乎我得到了一个崇拜者;;;;;;;;;;x
 EVTDESC3410;我的任性刚刚让我损失了好几个金币!;;;;;;;;;;x
 EVTOPTA3410;我损失太大了...;;;;;;;;;;x
@@ -2737,7 +2737,7 @@ EVTOPTB39021;诅咒 [From.GetSubjectPronoun] 并拒绝 [From.GetPossPronoun] 异
 EVTOPTC39021;卫兵! 把 [From.GetObjectPronoun] 扔进地牢!;;;;;;;;;;x
 EVTOPTD39021;委婉地拒绝;;;;;;;;;;x
 EVTDESC39022;我亲爱的 [GetFromRelation] [From.GetFirstName] 同意改宗了!;;;;;;;;;;x
-EVTOPTA39022;赞美神!;;;;;;;;;;x
+EVTOPTA39022;赞美神！;;;;;;;;;;x
 EVTDESC39023;我的[GetFromRelation] [From.GetFirstName] 让我考虑重新皈依 [From.Religion.GetName] 信仰.;;;;;;;;;;x
 EVTOPTA39023;绝不!;;;;;;;;;;x
 EVTOPTB39023;[From.GetSubjectPronounCap] 是对的.;;;;;;;;;;x
@@ -2795,7 +2795,7 @@ EVTDESC39223; [From.GetTitledFirstName]的祈祷并没有被得接受，这会�
 EVTOPTA39223;我不能让一个上帝的孩子被关押.;;;;;;;;;;x
 EVTOPTB39223;他不过是一个叛徒...;;;;;;;;;;x
 EVTDESC39224;[From.GetTitledFirstName] 开始介入此事并写了一封口气严厉的信给 [Root.Host.GetTitledFirstName] 要求我们释放俘虏.;;;;;;;;;;x
-EVTOPTA39224;赞美神!;;;;;;;;;;x
+EVTOPTA39224;赞美神！;;;;;;;;;;x
 EVTTOOLTIP39226;我敢肯定 [Root.Host.GetTitledFirstName] 这回会释放我们了.;;;;;;;;;;x
 EVTDESC39225;[From.GetTitledFirstName]的密使来了 ,他告诉我们圣父对此无能为力..;;;;;;;;;;x
 EVTOPTA39225;我的上帝，我的上帝，您为什么要抛弃我？;;;;;;;;;;x
@@ -2809,7 +2809,7 @@ EVTDESC39301;一位天才的年轻画家正在创作一幅有关我主耶稣基�
 EVTOPTA39301;全能的耶稣领导我们的灵魂!;;;;;;;;;;x
 EVTOPTB39301;我付不起这笔钱.;;;;;;;;;;x
 EVTDESC39302;一位天才的年轻画家正在创作一幅有关圣彼得的精美画作.如果我们能资助他，这幅惊世之作将会放置在我们的礼拜堂里!;;;;;;;;;;x
-EVTOPTA39302;他是我主赞美的使徒!;;;;;;;;;;x
+EVTOPTA39302;他是我主赞美的使徒！;;;;;;;;;;x
 EVTOPTB39302;我们付不起钱.;;;;;;;;;;x
 EVTDESC39303;一位天才的年轻画家正在创作一幅有关施洗者约翰的精美画作.如果我们能资助他，这幅惊世之作将会放置在我们的礼拜堂里!;;;;;;;;;;x
 EVTOPTA39303;如果约翰能引领耶稣，他也能引领我.;;;;;;;;;;x
@@ -2840,7 +2840,7 @@ EVTOPTA50006;让 [From.GetObjectPronoun] 烂在牢里吧;;;;;;;;;;x
 EVTOPTB50006;很好，我将仁慈地改善你的待遇;;;;;;;;;;x
 EVTOPTC50006;更合适的待遇，别去牢房了，去地牢怎么样!;;;;;;;;;;x
 EVTDESC50007;[From.GetTitledFirstName] 亲切地接受了我的要求! 我被移往塔楼中的一个套间软禁.;;;;;;;;;;x
-EVTOPTA50007;赞美 [Root.Religion.GetRandomGodName]!;;;;;;;;;;x
+EVTOPTA50007;赞美 [Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTDESC50008;残忍的 [Root.Host.GetTitledFirstName] 决定把我扔进暗无天日的地牢里! 我完了！..;;;;;;;;;;x
 EVTDESC50010;我开始考虑怎么处置我地牢里的那些囚犯们了. 他们在祈求我的怜悯，并为可能的刑讯而感到恐惧... 看到他们惊恐的眼神，听着他们惨烈的哀嚎，这一切都让我感到....;;;;;;;;;;x
 EVTOPTA50010;克制我那愚蠢的冲动！;;;;;;;;;;x
@@ -2870,10 +2870,10 @@ EVTOPTA55004;这是一个很重要的进步;;;;;;;;;;x
 EVTDESC55005;精明的我发现了一件很重要的事情. 为了更好地管理我的领地，我必须让我的封臣们想我所想，念我所念，如果我们使用的语言相同那将会大大有益于此. ;;;;;;;;;;x
 EVTOPTA55005;有些时候我都会被我超人的洞察力所震惊.;;;;;;;;;;x
 EVTNAME60000;万汗之汗;;;;;;;;;;x
-EVTDESC60000; 我的主君，一个恐怖的消息正在从遥远的东方传来.据说一位伟大可汗统一了整个大草原并带领着数以百万计的铁骑攻打着契丹国. 也许这位大汗之后将会威胁到整个文明世界..;;;;;;;;;;x
+EVTDESC60000; 我的主君，一个恐怖的消息正在从遥远的东方传来。据说一位伟大可汗统一了整个大草原并带领着数以百万计的铁骑攻打着契丹国。也许这位可汗之后将会威胁到整个文明世界……;;;;;;;;;;x
 EVTOPTA60000; 这故事挺不错!;;;;;;;;;;x
 EVTNAME60001;上帝之鞭的降临;;;;;;;;;;x
-EVTDESC60001; 我的主君，那位大汗已经派遣出了数以百万计的由野蛮人组成的骑兵横扫了中亚和波斯东部.他们的前锋已经征服了巴尔赫，这群异教徒很显然是打算吞并整个穆斯林世界!;;;;;;;;;;x
+EVTDESC60001; 我的主君，那位伟大的可汗已经派遣出了数以百万计的由野蛮人组成的骑兵横扫了中亚和波斯东部.他们的前锋已经征服了巴尔赫，这群异教徒很显然是打算吞并整个穆斯林世界!;;;;;;;;;;x
 EVTOPTB60001; 帮帮我们吧，仁慈的安拉!;;;;;;;;;;x
 EVTOPTC60001; 穆斯林们将奋勇反击.;;;;;;;;;;x
 EVTOPTD60001; 也许蒙古的长生天更强大一些.;;;;;;;;;;x
@@ -3214,7 +3214,7 @@ EVTOPTA6207;我会做的. ;;;;;;;;;;x
 EVTDESC6208;我试着证明我的想法给他看，但是我知道这是自欺欺人. 我总是为这些蜗角琐事而争.;;;;;;;;;;x
 EVTOPTA6208;主宽恕我吧.;;;;;;;;;;x
 EVTDESC6209;我感到我的灵魂中充满了主的爱. 救主耶稣教导我这才是通向天国的正道.;;;;;;;;;;x
-EVTOPTA6209;赞美神.;;;;;;;;;;x
+EVTOPTA6209;赞美神;;;;;;;;;;x
 EVTDESC6210;那里有一只狮子，我想当街将其杀死,突然那只狮子开口对我说“让你的懒惰离你而去！” 我突然意识到那只狮子是谁了.;;;;;;;;;;x
 EVTOPTA6210;我会您的命令去做;;;;;;;;;;x
 EVTDESC6211;我听见他在我耳边轻语, 告诉我这是尊奉光荣的主的秘密. 我应该变得更加勤勉.;;;;;;;;;;x
@@ -3523,7 +3523,7 @@ EVTOPTA65011;...[Root.Spouse.GetFirstName]身上;;;;;;;;;;x
 EVTTOOLTIPA65012;[Root.GetFirstName]将[Root.GetHerHis]怒火发泄在[Root.Spouse.GetFirstName]身上;;;;;;;;;;x
 EVTOPTB65011;...我的继承人[Root.Heir.GetFirstName]身上;;;;;;;;;;x
 EVTTOOLTIPB65012;[Root.GetFirstName]将[Root.GetHerHis]怒火发泄在[Root.GetHerHis]继承人[Root.Heir.GetFirstName]身上;;;;;;;;;;x
-EVTOPTC65011;...我的一位顾问身上;;;;;;;;;;x
+EVTOPTC65011;...我的内阁成员之一;;;;;;;;;;x
 EVTTOOLTIPC65012;[Root.GetFirstName]将[Root.GetHerHis]怒火发泄在一位顾问身上;;;;;;;;;;x
 EVTOPTD65011;...一位大臣身上;;;;;;;;;;x
 EVTTOOLTIPD65012;[Root.GetFirstName]将[Root.GetHerHis]怒火发泄在一位大臣身上;;;;;;;;;;x
@@ -3734,7 +3734,7 @@ EVTOPTB8465;绝不！;;;;;;;;;;x
 EVTDESC8466;几个被开除教籍的人选择拿起剑对抗异教徒并且加入了十字军.;;;;;;;;;;x
 EVTOPTA8466;为他们撤销开除教籍的惩罚;;;;;;;;;;x
 EVTDESC8467;我已经接到你参加十字军作为忏悔的决定，兹于此撤销对你开除教籍的惩罚.;;;;;;;;;;x
-EVTDESC55006;我的领主劝说我接受这种风靡全领的英国学说;;;;;;;;;;x
+EVTDESC55006;我的领主劝说我接受这种风靡全领的英格兰学说;;;;;;;;;;x
 EVTOPTA55006;哦，我说，有人去打板球么;;;;;;;;;;x
 EVTDESC80000;劫掠[Root.GetName]郡的农民军正在焚毁建筑物！;;;;;;;;;;x
 EVTOPTA80000;有什么东西是他们不会毁坏的么;;;;;;;;;;x
@@ -4374,7 +4374,7 @@ EVTDESC6229;我耐心地听着一个骑士向我讲解为什么这个世界的�
 EVTOPTA6229;你知道他是对的.;;;;;;;;;;x
 EVTDESC6230;一名仆人端着的肉掉在了地下，几只狗马上扑了过去.虽然这个废物仆人惹怒了我，但是我还是尽量按捺下了自己的脾气，这时那个同以前一样轻柔的耳语声再次响起：为何你要忍受他的愚蠢;;;;;;;;;;x
 EVTOPTA6230;是的，我不会心慈手软.;;;;;;;;;;x
-EVTDESC6231;在一次布道时，神父向教众赞美我的谦逊.之后路西法的声音在我的耳边响起，他告诉我神父只是愚弄我而已.这个所谓的神父不过一个在穷人挨饿时，自己却吃的肥肠满脑的有钱人而已.;;;;;;;;;;x
+EVTDESC6231;在一次布道时，神父向教众赞美我的谦逊。之后路西法的声音在我的耳边响起，他告诉我神父只是愚弄我而已。这个所谓的神父不过是一个在穷人挨饿时，自己却吃的脑满肠肥的有钱人而已。;;;;;;;;;;x
 EVTOPTA6231;我的眼界更加广阔了;;;;;;;;;;x
 EVTDESC6232;我坐着陷入了对生活的沉思，思考着为什么我没有得到我所应得的东西.然后响起了一个耳语声，我能听出这是路西法的声音，他告诉我一个凌驾于云巅之上、统治世界的王座和我再相符不过.;;;;;;;;;;x
 EVTOPTA6232;他是对的.;;;;;;;;;;x
@@ -4688,7 +4688,7 @@ FE_SMALL_DYNASTY;小家族;;;;;;;;;;x
 FE_SAVE_DELETE_TITLE;删除存档;;;;;;;;;;x
 FE_SAVE_DELETE_DESC;你确定要删除这个存档删除后将无法恢复.;;;;;;;;;;x
 FE_INGAME_STORE;游戏内商店;;;;;;;;;;x
-FE_MUST_LOG_IN;为了使用游戏内商店，你必须登陆P社网络;;;;;;;;;;x
+FE_MUST_LOG_IN;为了使用游戏内商店，你必须登陆Paradox网络;;;;;;;;;;x
 STORE_ALREADY_BOUGHT_LIST;已经购买;;;;;;;;;;x
 STORE_NOT_ENOUGH_DUCATS;你还需要至少 §Y$DUCATS_DIFF$§! 才能购买 §Y$ITEM$§!;;;;;;;;;;x
 STORE_INVALID_VIRTUALGOODS;未选择物品. 从左侧列表选择一个物品;;;;;;;;;;x
@@ -5258,7 +5258,7 @@ EVTDESC20100;在[From.GetHerHis]造访宫廷期间，[From.Host.PrimaryTitle.Get
 EVTOPTA20100;感谢[From.Host.GetTitledName]！;;;;;;;;;;x
 EVTOPTA20101;完美！;;;;;;;;;;x
 EVTNAME911;破坏同领主的关系;;;;;;;;;;x
-EVTDESC911;在我造访[Root.Location.GetName]的当地贵族的宫廷期间，我尽我自己的全力赞美了我的领主大人.但是我倒霉的运气似乎让我的每个动作看起来都鬼鬼祟祟，每个词语都无礼至极.;;;;;;;;;;x
+EVTDESC911;在我造访[Root.Location.GetName]的当地贵族的宫廷期间，我尽我自己的全力赞美了我的领主大人。但是我倒霉的运气似乎让我的每个动作看起来都鬼鬼祟祟，每个词语都无礼至极。;;;;;;;;;;x
 EVTOPTA911;看来我悲惨地失败了……;;;;;;;;;;x
 EVTTOOLTIP20111;向领主大人写一封信禀告此事;;;;;;;;;;x
 EVTDESCA20110;在[From.GetHerHis]到访我的宫廷期间, [From.Host.PrimaryTitle.GetName],[From.GetTitledName]的[From.GetJobTitle]已经持续关于[From.GetHerHis]领主[From.Host.GetTitledName]真是一个仁慈而平和的统治者.但是宫廷的其他成员告知我[From.GetSheHe]和[From.GetHerHis]领主是多么无耻和虚伪的骗子。;;;;;;;;;;x
@@ -5577,7 +5577,7 @@ city_duchy_of;共和国;;;;;;;;;;x
 city_county_of;城邦;;;;;;;;;;x
 city_barony_of;城市;;;;;;;;;;x
 temple_kingdom_of_catholic;总主教区;;;;;;;;;;x
-temple_kingdom_of_orthodox;总牧首区;;;;;;;;;;x
+temple_kingdom_of_orthodox;牧首区;;;;;;;;;;x
 temple_kingdom_of_muslim;哈里发国;;;;;;;;;;x
 temple_kingdom_of_pagan_group;教区;;;;;;;;;;x
 temple_kingdom_of_jewish_group;教区;;;;;;;;;;x
@@ -5590,14 +5590,14 @@ temple_county_of_muslim;酋长国;;;;;;;;;;x
 temple_county_of_pagan_group;教区;;;;;;;;;;x
 temple_county_of_jewish_group;教区;;;;;;;;;;x
 temple_barony_of_christian;主教区;;;;;;;;;;x
-temple_barony_of_muslim;清真寺于;;;;;;;;;;x
+temple_barony_of_muslim;清真寺;;;;;;;;;;x
 temple_barony_of_pagan_group;神庙;;;;;;;;;;x
 temple_barony_of_jewish_group;神庙;;;;;;;;;;x
 emperor_altaic;可汗;;;;;;;;;;x
 emperor_female_altaic;可敦;;;;;;;;;;x
 king_altaic;可汗;;;;;;;;;;x
 king_female_altaic;可敦;;;;;;;;;;x
-kingdom_of_altaic;可汗国;;;;;;;;;;x
+kingdom_of_altaic;汗国;;;;;;;;;;x
 emperor_german;皇帝;;;;;;;;;;x
 emperor_female_german;女皇;;;;;;;;;;x
 duke_greek;公爵;;;;;;;;;;x
@@ -5623,7 +5623,7 @@ duke_turkish;贝伊勒贝伊;;;;;;;;;;x
 duchy_of_turkish;贝勒依贝里国;;;;;;;;;;x
 king_turkish;苏丹;;;;;;;;;;x
 kingdom_of_turkish;苏丹国;;;;;;;;;;x
-emperor_turkish;大沙王;;;;;;;;;;x
+emperor_turkish;帕迪沙阿;;;;;;;;;;x
 emperor_iranian;万王之王;;;;;;;;;;x
 baron_mongol;太师;;;;;;;;;;x
 barony_of_mongol;太师领地;;;;;;;;;;x
@@ -14525,8 +14525,8 @@ d_pecheneg_company;佩切涅格人佣兵团;;;;;;;;;;x
 d_pecheneg_company_adj;佩切涅格人佣兵团;;;;;;;;;;x
 d_bulgarian_company;保加利亚人佣兵团;;;;;;;;;;x
 d_bulgarian_company_adj;保加利亚人佣兵团;;;;;;;;;;x
-d_turkic_company;土耳其人佣兵团;;;;;;;;;;x
-d_turkic_company_adj;土耳其人佣兵团;;;;;;;;;;x
+d_turkic_company;突厥人佣兵团;;;;;;;;;;x
+d_turkic_company_adj;突厥人佣兵团;;;;;;;;;;x
 d_breton_company;布列塔尼佣兵团;;;;;;;;;;x
 d_breton_company_adj;布列塔尼佣兵团;;;;;;;;;;x
 d_swiss_company;瑞士佣兵团;;;;;;;;;;x
@@ -14570,8 +14570,8 @@ d_pecheneg_band;佩切涅格人大队;;;;;;;;;;x
 d_pecheneg_band_adj;佩切涅格人大队;;;;;;;;;;x
 d_bulgarian_band;保加利亚人大队;;;;;;;;;;x
 d_bulgarian_band_adj;保加利亚人大队;;;;;;;;;;x
-d_turkic_band;土耳其人大队;;;;;;;;;;x
-d_turkic_band_adj;土耳其人大队;;;;;;;;;;x
+d_turkic_band;突厥人大队;;;;;;;;;;x
+d_turkic_band_adj;突厥人大队;;;;;;;;;;x
 succ_primogeniture;长子继承法;;;;;;;;;;x
 succ_primogeniture_desc;君主最年长的孩子继承所有的头衔.你的继承人会喜欢这个法律，但是你家族其他成员都会对此法律有少许反感.;;;;;;;;;;x
 succ_seniority;年长者继承法;;;;;;;;;;x
@@ -14579,7 +14579,7 @@ succ_seniority_desc;家族里最年长的成员继承所有的头衔.你最年�
 succ_feudal_elective;选举继承法;;;;;;;;;;x
 succ_feudal_elective_desc;君主和下级领主（比如君主是国王的话下级领主就是公爵）可以从下级领主以及现任领主的合法子嗣兄弟之中提名继任者.公爵是王国选举者的同时也可以是帝国的选举者.封臣们会很喜欢选举继承，但是如果君主个人拥有的选举继承法头衔过多的话他们也会很不满.;;;;;;;;;;x
 succ_gavelkind;分封继承法;;;;;;;;;;x
-succ_turkish_succession;土耳其继承法;;;;;;;;;;x
+succ_turkish_succession;突厥继承法;;;;;;;;;;x
 succ_turkish_succession_desc;由君主最强大的儿子继承，但是其他强大的儿子可能会干涉。这个法律会受到你所有孩子的欢迎（除了长子），其他家族成员也会认同这个法律。;;;;;;;;;;x
 succ_open_elective;开放选举法;;;;;;;;;;x
 succ_open_elective_desc;所有的封臣和courtiers都有选举权和被选举权.;;;;;;;;;;x
@@ -15807,7 +15807,7 @@ DEFICIT_WHEN;我们的现金将在$WHEN$消耗一空.;;;;;;;;;;x
 FAM_RIVALS;对手;;;;;;;;;;x
 FAM_FRIENDS;朋友;;;;;;;;;;x
 FAM_CHILDREN;子嗣;;;;;;;;;;x
-FAM_SIBLINGS;兄弟;;;;;;;;;;x
+FAM_SIBLINGS;兄弟姐妹;;;;;;;;;;x
 FAM_MOTHER;母亲;;;;;;;;;;x
 FAM_FATHER;父亲;;;;;;;;;;x
 SAVE_LOADED;读取储存的游戏……;;;;;;;;;;x
@@ -16154,7 +16154,7 @@ LEDGER_NATION_ARMIES;国家陆军;;;;;;;;;;x
 LEDGER_NATION_NAVIES;国家海军;;;;;;;;;;x
 LEDGER_COST_OVERVIEW;支出概况;;;;;;;;;;x
 LEDGER_INCOME_OVERVIEW;收入概况;;;;;;;;;;x
-LEDGER_ARMY_REGIMENTS;陆军团队;;;;;;;;;;x
+LEDGER_ARMY_REGIMENTS;陆军单位;;;;;;;;;;x
 LEDGER_INCOME_GRAPH;收入图示;;;;;;;;;;x
 LEDGER_ECONOMY_OVERVIEW;经济概况;;;;;;;;;;x
 LEDGER_DIPLOMACY_OVERVIEW;外交概况;;;;;;;;;;x
@@ -17687,7 +17687,7 @@ GOD_TENGRI;长生天;;;;;;;;;;x
 GOD_ERLIK_KHAN;死亡之神;;;;;;;;;;x
 GOD_TUNG-AK;神;;;;;;;;;;x
 GOD_GABIJA;灶火女神;;;;;;;;;;x
-GOD_PERKUNAS;雷神柏库那斯;;;;;;;;;;x
+GOD_PERKUNAS;雷神佩尔库纳斯;;;;;;;;;;x
 GOD_THE_GREAT_BEAR;巨熊;;;;;;;;;;x
 GOD_UKKO;乌戈;;;;;;;;;;x
 GOD_PERKELE;火之神;;;;;;;;;;x
@@ -17945,7 +17945,7 @@ feudal_elective;选举继承法;;;;;;;;;;x
 gavelkind;均分继承法;;;;;;;;;;x
 seniority;长者继承法;;;;;;;;;;x
 primogeniture;长子继承法;;;;;;;;;;x
-turkish_succession;土耳其继承法;;;;;;;;;;x
+turkish_succession;突厥继承法;;;;;;;;;;x
 open_elective;开放选举法;;;;;;;;;;x
 catholic_bishopric;教区法;;;;;;;;;;x
 AGNATIC;父系;;;;;;;;;;x
@@ -18090,10 +18090,10 @@ DISMISS_PROVINCE_SHIPS;遣散船只;;;;;;;;;;x
 PROV_BUILD_NEW;建造新的;;;;;;;;;;x
 AMVASSAL;是$LIST$的封臣.;;;;;;;;;;x
 BALANCE;平衡;;;;;;;;;;x
-NUDGE_0;城市;;;;;;;;;;x
-NUDGE_1;单位;;;;;;;;;;x
-NUDGE_2;宫廷;;;;;;;;;;x
-NUDGE_3;文本;;;;;;;;;;x
+NUDGE_0;City;;;;;;;;;;x
+NUDGE_1;Unit;;;;;;;;;;x
+NUDGE_2;Councillor;;;;;;;;;;x
+NUDGE_3;Text;;;;;;;;;;x
 CHAR_LIEGE;领主;;;;;;;;;;x
 CHAR_AGE;年龄;;;;;;;;;;x
 CHAR_OPINION;好感;;;;;;;;;;x
@@ -18303,7 +18303,7 @@ nick_the_gentle;文雅者;;;;;;;;;;x
 nick_the_proud;骄傲者;;;;;;;;;;x
 nick_the_silent;沉默者;;;;;;;;;;x
 nick_the_warlike;好战者;;;;;;;;;;x
-nick_the_great;大帝;;;;;;;;;;x
+nick_the_great;伟人;;;;;;;;;;x
 nick_the_effeminate;柔弱者;;;;;;;;;;x
 nick_the_clueless;无知者;;;;;;;;;;x
 nick_the_ill_tempered;暴躁者;;;;;;;;;;x
@@ -18409,7 +18409,7 @@ TITLE_PRESTIGE;每月威望;;;;;;;;;;x
 TITLE_PIETY;每月[Player.Religion.GetPietyName];;;;;;;;;;x
 LOST_CONTROL;失去 §Y$TOWN$§!在§Y$PROVINCE$§!;;;;;;;;;;x
 HAS_CONTROL;占领§Y$TOWN$§!在§Y$PROVINCE$§!;;;;;;;;;;x
-NUDGE_4;港口;;;;;;;;;;x
+NUDGE_4;Port;;;;;;;;;;x
 UNKNOWN_LOCATION;地点未知.;;;;;;;;;;x
 LIEGE_LONG_REIGN;长期统治;;;;;;;;;;x
 LIEGE_SHORT_REIGN;短暂统治;;;;;;;;;;x
