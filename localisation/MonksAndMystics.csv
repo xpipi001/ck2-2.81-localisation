@@ -127,7 +127,7 @@ EVTOPTC_7004;这些努力只是白费 [From.GetFirstName]被[From.GetHerHis]蒙�
 EVTDESC_MNM_7005;“如果我告诉你，你所被教育而笃信的一切都是谎言呢？” [satanists_recruiter.GetFirstName] 继续说道，谨慎地扫视了我们四周然后撸起了 [satanists_recruiter.GetHerHis] 袖子，露出了一个五芒星形的伤疤。 “[Root.Religion.GetHighGodNameCap] 在伊甸园向亚当撒了谎。 拒绝那个专制伪神，让 [Root.Religion.GetRandomEvilGodName] 指引你的步伐...”;;;;;;;;;;x
 EVTOPTA_7005;那你真的是一个[satanists_recruiter.GetDWMagician]？你可以[Root.GetDWReasonToJoin]？;;;;;;;;;;x
 EVTOPTA_7005_TT;你向§Y[satanists_recruiter.GetTitledFirstName]§!请教如何才能开始自己探寻禁忌知识的旅程。\n;;;;;;;;;;x
-EVTOPTB_7005;这是渎神，[satanists_recruiter.GetFirstName]！在我叫守卫之前，从我眼前消失！;;;;;;;;;;x
+EVTOPTB_7005;这是渎神，[satanists_recruiter.GetFirstName]！在我呼叫卫兵之前，从我眼前消失！;;;;;;;;;;x
 EVTOPTB_7005_TT;你解雇了§Y[satanists_recruiter.GetTitledFirstName]§! 并且装作无事发生。\n;;;;;;;;;;x
 EVTDESC_MNM_7006;当我露出我小臂上的烙印，期望这最后的手段能够让对方理解时，[From.GetFirstName] 颤抖着，震惊地后退了半步，作出自我防护的手势。“这是严重的亵渎，[Root.GetFirstName]。”[From.GetSheHe]大喊道，双眼圆睁。“在我喊来我的卫士们之前，滚出我的视线！”尽管十分不满，我还是匆忙地退了出去。;;;;;;;;;;x
 EVTOPTA_7006;如果我不能改变 [From.GetHerHim]，没有人可以。;;;;;;;;;;x
@@ -144,7 +144,7 @@ EVTOPTA_7009_TT;你继续等待着下一步的指示。\n;;;;;;;;;;x
 EVTOPTB_7009;我不敢相信我曾如此轻信他人。;;;;;;;;;;x
 EVTOPTC_7009;我开始感觉到自己错过了什么……;;;;;;;;;;x
 EVTOPTD_7009;为什么我们总是把别人的需求置于我们自己的需求之前？;;;;;;;;;;x
-EVTDESC_MNM_7010_A;今天早晨我在卧室的门上发现了一串用血液书写的潦草字迹。 而警卫报告说，他们在夜间没有看到任何人进入，我不敢命令我的[Root.GetMyLordSpiritualName]解读它。 因为，我想我明白......五芒星...... 这是[Root.Religion.GetRandomEvilGodName]的标志。;;;;;;;;;;x
+EVTDESC_MNM_7010_A;今天早晨我在卧室的门上发现了一串用血液书写的潦草字迹。 而卫兵报告说，他们在夜间没有看到任何人进入，我不敢命令我的[Root.GetMyLordSpiritualName]解读它。 因为，我想我明白......五芒星...... 这是[Root.Religion.GetRandomEvilGodName]的标志。;;;;;;;;;;x
 EVTOPTA_7010;当然，必须达成协议！;;;;;;;;;;x
 EVTOPTA_7010_TT_1;你在自己手臂上刻了一颗五芒星，就像§Y[satanists_recruiter.GetTitledFirstName]§!撸起袖子给你看的那颗一样。\n;;;;;;;;;;x
 EVTOPTA_7010_TT_2;你把此物刺入手臂，这是一颗被圆环环绕的星辰，一个取自你的禁忌研究中的符号。;;;;;;;;;;x
@@ -172,7 +172,7 @@ EVTOPTB_7018;这是一个必要的恶行。;;;;;;;;;;x
 EVTOPTB_7018_TT;你成为[satanists_inductor.Society.GetName]的成员。\n;;;;;;;;;;x
 EVTDESC_MNM_7019_A;我放开了[satanists_inductor.GetFirstName]的手，[satanists_inductor.GetHerHis]的微笑消失了。“你在做什么？”，这尤物问道。 “我很抱歉，[satanists_inductor.GetFirstName]。这不是我要走的路。” [satanists_inductor.GetSheHeCap]在转身离开前，再次捧起我的手，但只是轻吻了一下。 “只有[satanists_inductor.GetDWDevil]才知道，我会记住你的，[Root.GetFirstName]。” [satanists_inductor.GetSheHeCap]犹豫了一下，补充道：“我觉得你很特别。”;;;;;;;;;;x
 EVTOPTA_7019;[Root.Religion.GetHighGodNameCap] 可能因此惩罚我，但我也会记住你的。;;;;;;;;;;x
-EVTOPTA_7019_TT;在你最忠诚的侍卫的帮助下，§Y[satanists_inductor.Society.GetName]§!被分别护送离开了你的[Root.GetCapitalHolding]。“迷路的旅客”，你说道。\n;;;;;;;;;;x
+EVTOPTA_7019_TT;在你最忠诚的卫兵的帮助下，§Y[satanists_inductor.Society.GetName]§!被分别护送离开了你的[Root.GetCapitalHolding]。“迷路的旅客”，你说道。\n;;;;;;;;;;x
 EVTDESC_MNM_7019_B;我的眼睛几乎无法忍受这种渎圣的场景。[satanists_inductor.GetFirstName] [satanists_inductor.GetSocietyRank] 看起来很失望。我终于缓过神来并把门闩上。“兄弟们，姐妹们，追上[Root.GetHerHim]！[Root.GetFirstName]，我们要好好谈谈！”这声音在我身后回响，我一路跑开。我到底在想什么，居然搅入[Root.GetDWDarkMagic]？！正在我慌张的逃跑的时候，我跌倒了。;;;;;;;;;;x
 EVTOPTB_7019;卫兵！卫——兵——！！！;;;;;;;;;;x
 EVTOPTB_7019_TT;[satanists_inductor.Society.GetNameCap]从你的[Root.GetCapitalHolding]逃脱了。\n你在混乱中受伤了。\n;;;;;;;;;;x
@@ -301,7 +301,7 @@ EVTOPTA_MNM_6001;借 50 金钱;;;;;;;;;;x
 EVTOPTB_MNM_6001;借 250 金钱;;;;;;;;;;x
 EVTOPTC_MNM_6001;借 500 金钱;;;;;;;;;;x
 EVTOPTD_MNM_6001;什么也不借;;;;;;;;;;x
-assassins_debt;欠刺客钱;;;;;;;;;;x
+assassins_debt;欠阿萨辛债务;;;;;;;;;;x
 assassins_debt_desc;欠阿萨辛钱。;;;;;;;;;;x
 assassins_donate_money;向阿萨辛捐赠300¤;;;;;;;;;;x
 EVTDESC_MNM_6005;愿平安常伴你， [Root.GetSocietyRank] [Root.GetFirstName]，\n\n你慷慨献给组织的礼物永远不会被忘记。这些钱将在抵抗威胁真信的不义之徒中被妥善利用。\n\n赞美安拉！\n 此致，大长老 [From.GetFirstName];;;;;;;;;;x
@@ -399,9 +399,9 @@ secretly_finnish_pagan;秘密索米多神教信徒;;;;;;;;;;x
 secretly_finnish_pagan_desc;这名角色私下里信奉着索米多神教。;;;;;;;;;;x
 secretly_finnish_pagan_reformed;秘密改革索米多神教信徒;;;;;;;;;;x
 secretly_finnish_pagan_reformed_desc;这名角色私下里信奉着索米多神教。;;;;;;;;;;x
-secretly_slavic_pagan;秘密斯拉夫教信徒;;;;;;;;;;x
+secretly_slavic_pagan;秘密斯拉夫多神教信徒;;;;;;;;;;x
 secretly_slavic_pagan_desc;这名角色私下里信奉着斯拉夫多神教。;;;;;;;;;;x
-secretly_slavic_pagan_reformed;秘密改革斯拉夫教信徒;;;;;;;;;;x
+secretly_slavic_pagan_reformed;秘密改革斯拉夫多神教信徒;;;;;;;;;;x
 secretly_slavic_pagan_reformed_desc;这名角色私下里信奉着斯拉夫多神教。;;;;;;;;;;x
 secretly_tengri_pagan;秘密长生天信徒;;;;;;;;;;x
 secretly_tengri_pagan_desc;这名角色私下里信奉着长生天。;;;;;;;;;;x
@@ -409,11 +409,11 @@ secretly_tengri_pagan_reformed;秘密改革长生天信徒;;;;;;;;;;x
 secretly_tengri_pagan_reformed_desc;这名角色私下里信奉着长生天。;;;;;;;;;;x
 secretly_aztec;秘密阿兹特克教信徒;;;;;;;;;;x
 secretly_aztec_desc;这名角色私下里信奉着阿兹特克信仰。;;;;;;;;;;x
-secretly_aztec_reformed;秘密改革阿兹特克教信徒;;;;;;;;;;x
+secretly_aztec_reformed;秘密改革阿兹特克信仰信徒;;;;;;;;;;x
 secretly_aztec_reformed_desc;这名角色私下里信奉着阿兹特克信仰。;;;;;;;;;;x
-secretly_west_african_pagan;秘密西非信仰信徒;;;;;;;;;;x
+secretly_west_african_pagan;秘密西非泛灵教信徒;;;;;;;;;;x
 secretly_west_african_pagan_desc;这名角色私下里信奉着西非信仰。;;;;;;;;;;x
-secretly_west_african_pagan_reformed;秘密改革西非信仰信徒;;;;;;;;;;x
+secretly_west_african_pagan_reformed;不为人知的新西非原始信仰;;;;;;;;;;x
 secretly_west_african_pagan_reformed_desc;这名角色私下里信奉着西非信仰。;;;;;;;;;;x
 secretly_zun_pagan;秘密尊日神教信徒;;;;;;;;;;x
 secretly_zun_pagan_desc;这名角色私下里信奉着尊日神教。;;;;;;;;;;x
@@ -425,7 +425,7 @@ secretly_pagan;秘密原始宗教信徒;;;;;;;;;;x
 secretly_pagan_desc;这名角色秘密信奉着原始泛灵教。;;;;;;;;;;x
 assassins_recruit;招募阿萨辛;;;;;;;;;;x
 assassins_recruit_desc;尝试去探明 §Y[Root.GetTitledFirstName]§! 是否对教团的事业抱有同情。如果是，你可以邀请 [Root.GetHerHim]成为一名刺客。;;;;;;;;;;x
-assassins_recruit_block_tooltip;以前还没有被暗杀者接近。;;;;;;;;;;x
+assassins_recruit_block_tooltip;以前还没有被刺客接近过。;;;;;;;;;;x
 EVTDESC_MNM_6020_A;当清晨来临时大多数客人都离开了，然而[assassins_recruiter.GetTitledFirstName] 和我还在深入地交谈。我们在讨论宗教，正义，和如何做正确的事情。[assassins_recruiter.GetFirstName] 表明，施舍和禁食必然使得人类更接近神。;;;;;;;;;;x
 EVTDESC_MNM_6020_B;夜晚已变成清晨，大多数的来宾已经离去，但我与[assassins_recruiter.GetTitledFirstName]仍旧沉浸于谈话之中。我们正在讨论 [assassins_recruiter.GetFirstName] 最近正在阅读的圣训。[assassins_recruiter.GetSheHeCap] 暗示圣训的传述者，艾布·胡莱伊勒可能是不可靠的，并质问难道阿里记录的圣训不是更好的。;;;;;;;;;;x
 EVTOPTA_6020_NOTMUSLIM;这确实是高尚的行为。;;;;;;;;;;x
@@ -525,7 +525,7 @@ EVTOPTA_MNM_6202;悉听尊便，[From.GetSocietyRank].;;;;;;;;;;x
 EVTOPTA_MNM_6202_TOOLTIP;接受暗杀 §Y[assassins_target.GetTitledFirstName]§的任务！\n;;;;;;;;;;x
 EVTOPTB_MNM_6202;恐怕我并不能完成这次任务。;;;;;;;;;;x
 EVTOPTB_MNM_6202_TOOLTIP;放弃暗杀 §Y[assassins_target.GetTitledFirstName]§的任务！\n;;;;;;;;;;x
-DEATH_MURDER_KNOWN_HASHSHASHIN;死于哈萨辛成员$KILLER$之手;;;;;;;;;;x
+DEATH_MURDER_KNOWN_HASHSHASHIN;死于哈萨辛教徒$KILLER$之手;;;;;;;;;;x
 EVTDESC_MNM_6100_A;在不断地研究 [plot_target.GetTitledFirstName]的行为习惯后，我确信我已经找到了干掉 [plot_target.GetHerHis] 的完美机会。 一周之内，只要 [plot_target.GetFirstName] 在 [plot_target.GetReligiousRite] 后离开[plot_target.GetHouseOfWorship] ...;;;;;;;;;;x
 EVTDESC_MNM_6100_B;即使 [plot_target.Host.GetTitledFirstName]的监狱厚重的围墙也无法保护 [plot_target.GetTitledFirstName] 免受来自安拉的审判。经过了数个夜晚观察守卫的轮换并从各个角度研究 [plot_target.Host.GetCapitalHolding] 后, 我想我已经找到了切入点……;;;;;;;;;;x
 EVTDESC_MNM_6100_C;懦弱的[plot_target.GetTitledFirstName]已经藏匿起来了。但在安拉的怒火下，没有任何墙壁或伪装可以保护[plot_target.GetHerHim]。 我已经确定了给[plot_target.GetHerHim]传递消息的仆人，并且昨晚我跟踪着[Root.GetHerHim]一直到了[plot_target.GetFirstName]的藏身处。;;;;;;;;;;x
@@ -579,7 +579,7 @@ EVTOPTA_MNM_6110;反正[plot_target.GetTitledFirstName]会处理。;;;;;;;;;;x
 EVTOPTA_MNM_6110_TOOLTIP; §Y[plot_target.GetTitledFirstName]§! 的死亡已经被追查到你的头上。\n;;;;;;;;;;x
 EVTDESC_MNM_6111_A;“我在此是为了带来安拉的审判，[Root.GetFirstName]。[Root.GetAssassinsCrimeOutcry]！”那个在我上方的[assassin.GetManWoman]从[assassin.GetHerHis]法袍中掏出一把匕首。我扑了上去，将匕首从[assassin.GetHerHis]的手中击落。我大声呼喊，吸引附近人的注意，转瞬之间那个攻击我的人就被拉开了。;;;;;;;;;;x
 EVTDESC_MNM_6111_B;"没人能逃的过安拉的审判，也没人逃得过阿萨辛。“当[assassin.GetManWoman]举起了[assassin.GetHerHis]匕首，我做了我脑子里唯一能想到的事。我把[assassin.GetHerHim]摔在肮脏的地板上，转身就跑。我逃跑时吵醒了正在打呼的狱卒。[Host.GetSheHeCap]马上就抓住了我，但至少刺客离开了。;;;;;;;;;;x
-EVTDESC_MNM_6111_C;我急切的想从枕头下面抽出我的匕首，但不速之客的突然袭击让我的手指不听使唤。我尽可能的大叫，同时滚下床来躲避刺来的匕首，这时破门而入的警卫们救了我一命。当我能颤抖着从地上爬起来时，刺客已经不见了。;;;;;;;;;;x
+EVTDESC_MNM_6111_C;我急切的想从枕头下面抽出我的匕首，但不速之客的突然袭击让我的手指不听使唤。我尽可能的大叫，同时滚下床来躲避刺来的匕首，这时破门而入的卫兵们救了我一命。当我能颤抖着从地上爬起来时，刺客已经不见了。;;;;;;;;;;x
 EVTDESC_MNM_6111_D;“现在接受安拉的审判吧！” 说着，[assassin.GetManWoman]将手伸进[assassin.GetHerHis]的长袍里掏出了武器。然后我被一个人拉到身后。我的一个卫兵将刺客撞倒。我看到了血，但不是刺客的。过了一会儿，[assassin.GetSheHe]不见了。;;;;;;;;;;x
 EVTDESC_MNM_6111_E;“没人能逃的过安拉的审判，也没人逃得过阿萨辛。”我什么都做不了，只能尖叫，所以我尖叫了，十分大声。外面回荡着脚步声和金属碰撞的声音。在行刺者得以成功前，四个守卫破门而入通过了[Root.GetChamberOpening]。陌生的[assassin.GetManWoman] 看了我一眼然后[assassin.GetManWoman] 离开了。;;;;;;;;;;x
 EVTOPTA_MNM_6111;我现在安全了，但刺客们一定会再来。;;;;;;;;;;x
@@ -1048,7 +1048,7 @@ action_sabotage_province;省份破坏;;;;;;;;;;x
 action_sabotage_province_desc;已派遣[GetSpymasterName]前往当地从事渗透、蓄意破坏工作。;;;;;;;;;;x
 action_hunt_heretics;异端猎杀;;;;;;;;;;x
 action_hunt_heretics_desc;[GetLordSpiritualName]会搜捕亵渎者与异端社团，并拯救那些沉沦于黑暗的灵魂。;;;;;;;;;;x
-ENDGAME_TEXT_PAGAN;你已经转变为原始宗教，因此如果你没有逝往神灵神扩展包，游戏将结束。;;;;;;;;;;x
+ENDGAME_TEXT_PAGAN;你已经将自己的信仰转变为原始信仰，因此如果你没有逝往神灵神扩展包，游戏将结束。;;;;;;;;;;x
 OPEN_TREASURY_EMPTY;§R无法打开，宝库中什么也没有§!;;;;;;;;;;x
 OPEN_TREASURY;§Y宝库§!\n打开宝库看这个角色收集的宝物。;;;;;;;;;;x
 ARTIFACT_CREATED;创建;;;;;;;;;;x
@@ -1123,7 +1123,7 @@ String_Buddha;佛;;;;;;;;;;x
 String_Adi_Shankara;阿迪·商羯罗;;;;;;;;;;x
 String_Acharya_Kundakunda;君陀君陀阿阇黎;;;;;;;;;;x
 String_monastery;修道院;;;;;;;;;;x
-String_matha;马塔;;;;;;;;;;x
+String_matha;摩陀;;;;;;;;;;x
 String_temple;寺院;;;;;;;;;;x
 String_the_Rule_of_Saint_Benedict;圣本笃会规;;;;;;;;;;x
 String_the_Rule_of_Saint_Augustine;圣奥古斯丁会规;;;;;;;;;;x
@@ -1463,7 +1463,7 @@ EVTNAME_MNM_8050;抵达鹿野苑;;;;;;;;;;x
 EVTDESC_MNM_8050;从圣城瓦腊纳西出发的短暂旅程，其目的地是鹿野苑。这里是佛陀初次讲经布道的园地，他在这里初转佛法轮，给他的追随者传授了四圣谛，并成立了僧伽本身。如今，公园有壮丽的答枚克佛塔，同时也是一千多名牧师和僧侣们的家园。\n\n这里是印度最繁华的佛教教义中心之一，也是以佛陀本身命名的一个名副其实的朝圣之地。;;;;;;;;;;x
 EVTOPTA_MNM_8050;我必须找到一个折衷的办法。;;;;;;;;;;x
 EVTNAME_MNM_8051;菩提伽耶;;;;;;;;;;x
-EVTDESC_MNM_8051;你终于到达了菩提伽耶，这个被许多人视为佛教圣地的地方。 正是在这里，佛陀坐在启蒙之树下，冥想着宇宙的奥秘。 几个世纪以来，在印度和更远的地方，统治者和有影响力的人在这个职位上贡献了许多寺庙，修道院和神龛。 到目前为止，菩提伽耶的僧侣们已经在这里保留了一个巨大的菩提树，这是一个巨大的菩提树右边的“钻石王座”，这是另一个时代的统治者为纪念这一事件而建造的。\n\n当你接近巨大的摩诃菩提寺的蓝色瓷砖墙时，你会反思佛陀当年来到这里时，这个遗址的不同之处。 在那一点上，他与你无异，是一位简单的寻求启蒙的禁欲主义者。;;;;;;;;;;x
+EVTDESC_MNM_8051;你终于来到了菩提伽耶，这个被许多人视为佛教圣地的所在。 正是在这里，佛陀跌坐于启蒙之树下，冥想着宇宙的奥秘。 几个世纪以来，印度与四方诸国的王公和权贵们在这里修建了许多庙宇，寺庙和神龛。 当今菩提伽耶的僧侣们在这里养护着一棵巨大的菩提树，其左侧则是“金刚座”，另一个时代的王侯为纪念此事而建造的石像。\n\n当你轻轻触碰恢弘的摩诃菩提寺那蓝色瓷砖墙时，你心中的思绪却飘向千百年前佛陀来到这里时那个看上去与现今截然不同的质朴所在。 在那时，他与你无异，仅仅是一位一心寻求开悟的禁欲主义者。;;;;;;;;;;x
 EVTOPTA_MNM_8051;我也在寻求启示;;;;;;;;;;x
 EVTNAME_MNM_8052;桑吉;;;;;;;;;;x
 EVTDESC_MNM_8052;你最终抵达了世界上最古老的佛教宗教中心之一的桑吉。相传此处最早的佛塔是阿育王在维迪斯哈女王德维的坚持下建造。自从僧侣来这里寻找秘境静修，几百年来数不清的的寺庙，佛塔和寺院在这个出家的理想地点不断涌现。\n\n当您接近古代大帝精心制作的阿育王大佛塔，你不禁回想起在你面前走的这条路，曾走过许多代的善男信女，这里也是萨里普拉和马哈茂拉纳的遗迹所在之处。;;;;;;;;;;x
@@ -1625,23 +1625,23 @@ devil_worshipers_invite_disciple_of_devil;邀请[Root.GetDWDevil]弟子;;;;;;;;;
 devil_worshipers_invite_disciple_of_devil_desc;作为[Root.Society.GetName]的[Root.GetSocietyRank]，§Y[Root.GetTitledFirstName]§!能够邀请一位[Root.GetDWDevil]的追随者加入[Root.GetHerHis]的宫廷。;;;;;;;;;;x
 EVTOPTA_MNM_4400_GOD;赞美[Root.GetMOGod]!;;;;;;;;;;x
 EVTOPTA_MNM_4400_NOGOD;从现在起我会付出双倍的努力！;;;;;;;;;;x
-EVTDESC_4400_REMOVE_CYNICAL;我希望成为一个更好的[Root.GetReligiousPerson]让我变成[Root.GetMOCode]。虽然我一开始很怀疑，但我发现[Root.GetMOSaint]的训导中有很多的真理。这确实是一条值得践行的道路。我不再怀疑了。;;;;;;;;;;x
-EVTDESC_4400_REMOVE_GLUTTONOUS;我希望成为一个更好的[Root.GetReligiousPerson]来让我变成[Root.GetMOCode]。当我沿着这条神圣的道路努力行进时，我已经压制了我的身体对食物或是其他肉欲的渴望。;;;;;;;;;;x
-EVTDESC_4400_REMOVE_GREEDY;我希望成为一个更好的[Root.GetReligiousPerson]来让我变成[Root.GetMOCode]。当我沿着这条神圣道路行进时，我感到我对物质的需求减少了。我不再渴望过瘾和放纵。;;;;;;;;;;x
+EVTDESC_4400_REMOVE_CYNICAL;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。虽然我一开始很怀疑，但我发现[Root.GetMOSaint]的训导中有很多的真理。这确实是一条值得践行的道路。我不再怀疑了。;;;;;;;;;;x
+EVTDESC_4400_REMOVE_GLUTTONOUS;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。当我沿着这条神圣的道路努力行进时，我已经压制了我的食欲以及其他的身体欲望。;;;;;;;;;;x
+EVTDESC_4400_REMOVE_GREEDY;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。当我沿着这条神圣道路行进时，我感到我对物质的需求减少了。我不再渴望过瘾和放纵。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_SLOTHFUL;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。追随[Root.GetMOSaint]的脚步已经成为我内心深处的动力，使我把花在打盹和游戏上的时间转移到更有意义的事情上。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_ENVIOUS;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。当我努力变得更像[Root.GetMOSaint] 时。我也意识到我很少嫉妒别人的财富了。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_WROTH;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。我过去经常因为一些琐碎的事情而发怒，但最近我尽力去做得更像[Root.GetMOSaint]，并且我现在几乎不去注意那些过去常使我生气的事情了。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_PROUD;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。为了力求变得更像[Root.GetMOSaint]，我尽力去更少地考虑自己，并且更多地考虑他人。那曾经束缚着我的骄傲感消失了。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_DECEITFUL;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。曾经，我用谎言和欺骗来摆脱困境，并满足我的欲望。遵循[Root.GetMOSaint]的道路使我受益良多。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_CRUEL;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。学习[Root.GetMOSaint]的行为和生活让我意识到我生活方式中的错误。我答应我自己要待人和蔼、慈悲。;;;;;;;;;;x
-EVTDESC_4400_ADD_HUMBLE;为了变成更好的[Root.GetReligiousPerson]，我逐渐变得[Root.GetMOCode]。自从我开始了这条正确的道路，我开始注意到我以往的生活中几乎磨灭了我的自尊心和自我认同感。无论如何，从现在开始我会把精力放在更加重要的事情上。;;;;;;;;;;x
+EVTDESC_4400_ADD_HUMBLE;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。自从我开始了这条正确的道路，我开始注意到我的自负心烟消云散了。无论如何，从现在开始我会把精力放在更加重要的事情上。;;;;;;;;;;x
 EVTDESC_4400_ADD_CHARITABLE;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。自从加入了[Root.Society.GetName]，我日行一善，然而直到今天我才意识到我真的很乐意去捐献我的个人财产。帮助那些需要帮助的人真是令人愉悦。;;;;;;;;;;x
 EVTDESC_4400_ADD_CHASTE;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。戒除肉欲让我与他人建立更深层次的联系。并且，我发现我的精神变得比以前更加澄澈、平静。;;;;;;;;;;x
 EVTDESC_4400_ADD_KIND;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。追随着[Root.GetMOSaint]的步伐，我认识到仁慈的价值。每一个慈悲的表现都将我带至一个更纯洁、更温和、更神圣的世界。;;;;;;;;;;x
 EVTDESC_4400_ADD_TEMPERATE;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。在我像[Root.GetMOSaint]一样生活着的追求中，我避免了放纵以及任性的行为。每当我被考验后，我的自控能力就会上升，并且现在我能够轻易抗拒绝大多数我不曾经历过的诱惑。;;;;;;;;;;x
 EVTDESC_4400_ADD_HONEST;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。在这条神圣的道路上，我发现了对自己、对他人诚实的价值。我曾经以谎言来掩盖我的罪孽和羞耻，然而，我已不再认为我有什么东西需要掩盖的了。;;;;;;;;;;x
 EVTDESC_4400_REMOVE_AMBITIOUS;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。这花费了时间和努力，但在最后，学习[Root.GetMOSaint]的生活方式展示了我生活方式的错误。我将不再尽力去获得个人的荣誉。我活着就是为了服务[Root.Society.GetName]。;;;;;;;;;;x
-EVTDESC_4400_ADD_CONTENT;我希望成为一个更优秀的[Root.GetReligiousPerson]让我变成了[Root.GetMOCode]。通过遵循这条圣洁的道路，我逐一摆脱了我肉体的情欲、眼目的情欲并今生的骄傲。现在我真正满足于我在这个世界的位置，不再渴望更多。;;;;;;;;;;x
+EVTDESC_4400_ADD_CONTENT;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。通过遵循这条圣洁的道路，我逐一摆脱了我的物欲和自大。现在我对我在这个世界的位置感到了真正的满足，并且不再有更多的渴求。;;;;;;;;;;x
 EVTDESC_4400_ADD_PATIENT;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。通过学习[Root.GetMOSaint]的生活，我发现了耐心和接受的价值。这一认识赐予了我从未想过会拥有的心平气和。;;;;;;;;;;x
 EVTDESC_4400_ADD_DILIGENT;我成为一名更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。我不再需要满足一己私欲了，我宁愿为了每个人而努力将这个世界变得更美好。在工作中，我发现了与神明的真正连接。;;;;;;;;;;x
 doing_penance;进行忏悔;;;;;;;;;;x
@@ -1746,7 +1746,7 @@ EVTOPTB_MNM_4420_TOOLTIP;§Y[Root.GetTitledFirstName]§!花了一些时间去安
 EVTOPTC_MNM_4420;我现在没有时间，[interrupting_child.GetFirstName]。;;;;;;;;;;x
 EVTOPTC_MNM_4420_TOOLTIP_SUCCESS;§Y[interrupting_child.GetTitledFirstName]§!表示理解并且§Y[Root.GetTitledFirstName]§!可以重新回到[Root.Religion.GetScriptureName]上来。\n;;;;;;;;;;x
 EVTOPTC_MNM_4420_TOOLTIP_FAILURE;§Y[interrupting_child.GetTitledFirstName]§!不仅对§Y[Root.GetTitledFirstName]§无法产生兴趣还遭受到了极大的精神痛苦，这导致对[Root.GetMOPenanceMeditation]的进展产生了不好的影响。;;;;;;;;;;x
-EVTDESC_MNM_4422;[interrupting_child.GetFirstName]在我从[Root.Religion.GetScriptureName]中读取时仔细聆听。 我完成后，[interrupting_child.GetSheHe]有很多问题，我们已经彻底讨论过了。 虽然[interrupting_child.GetFirstName]仍然太年轻以至于无法掌握更细微的细微差别，但我确实认为[interrupting_child.GetSheHe]学到了一些重要的东西。 帮助我的[interrupting_child.GetDaughterSon]真的很有意义。;;;;;;;;;;x
+EVTDESC_MNM_4422;在我读[Root.Religion.GetScriptureName]时，[interrupting_child.GetFirstName]一直仔细聆听。读完以后，[interrupting_child.GetSheHe]问了很多我们之前彻底讨论过的问题。虽然[interrupting_child.GetFirstName]还太小，无法掌握其中的微言大义，但我确实认为[interrupting_child.GetSheHe]学到了一些重要的东西。帮助我的[interrupting_child.GetDaughterSon]真的很有意义。;;;;;;;;;;x
 EVTOPTA_MNM_4422;我为你感到骄傲，我的 [interrupting_child.GetDaughterSon]！;;;;;;;;;;x
 cruel_parent;严父严母;;;;;;;;;;x
 EVTDESC_MNM_4423;我给[interrupting_child.GetFirstName]读了我在[Root.Religion.GetScriptureName]中最喜欢的一段文章，尽管我很快就察觉到[interrupting_child.GetSheHe]这神圣的文字毫无兴趣。接下来我试图与我[interrupting_child.GetDaughterSon]谈论这段文章的努力也失败了，我想我是被击败了，只好让[interrupting_child.GetHerHim]走[interrupting_child.GetHerHis]自己的路。;;;;;;;;;;x
@@ -2326,7 +2326,7 @@ EVTDESC_MNM_3226_P;当我走向祭坛的时候，人们仔细地看着我，他�
 EVTOPTA_MNM_3226;[Root.TrueReligion.GetHighGodName]指引着我，即使是现在。;;;;;;;;;;x
 EVTDESC_MNM_3227_A;当我向圣坛走去，人们小心地看着我，他们依靠我，就像[Root.GetTitle]和我与[Root.Religion.GetHighGodName]的联系联系一样，引导着他们。[Root.Religion.GetPriestTitle]郑重地向我点头。我抬头仰望装饰着[Root.GetHouseOfWorship]的窗户，默默向[Root.TrueReligion.GetHighGodName]祈求一些突发的灵感。他永远不会到来，而我的心也逐渐下沉。我跑下了圣坛，留下一群困惑的人们。;;;;;;;;;;x
 EVTDESC_MNM_3227_D;当我从祭坛上站起身来，[Root.Religion.GetGroupName]们小心谨慎地看着我。他们需要我作为[Root.GetTitle]去指引他们，正因为我与神所联系。[Root.Religion.GetPriestTitle]庄严地向我点头致敬。我仰头望着[Root.GetHouseOfWorship]的花窗，默默向[Root.TrueReligion.GetHighGodName]乞求哪怕只有一丝的涌动于心的灵感福音不曾降临于我，而我的内心亦是跌落谷底。我在人们困惑的目光中跑下祭坛。;;;;;;;;;;x
-EVTDESC_MNM_3227_E;随着我迈出的每一步，我的信心都在消退。我转过身去看我的人民，发现他们的眼神惶恐。他们需要我，作为 [Root.GetTitle]，以及我与 [Root.Religion.GetHighGodName] 的联系来指引他们。 [Root.Religion.GetPriestTitle] 庄严地向我点头。我抬头看着 [Root.GetHouseOfWorship] 的装饰窗，默默祈求 [Root.TrueReligion.GetHighGodName] 给我一些启示——可什么都没有。我冲下台阶，留下身后的人群困惑不已。;;;;;;;;;;x
+EVTDESC_MNM_3227_E;每当我向前走一步，我都感觉我的信心在消退。我回过头去瞥了一眼我的人民，只收到他们诚惶诚恐的眼神。他们需要我，需要我作为[Root.GetTitle]，以及我同[Root.Religion.GetHighGodName]之间的联系，来指引他们前进。[Root.Religion.GetPriestTitle]严肃地看着我，赞许地点了点头。我放空自己，目光投向[Root.GetHouseOfWorship]的花窗，默默地祈求[Root.TrueReligion.GetHighGodName]降下启示——然而，它并没有显灵。我尴尬地逃离了现场，只留下困惑不已群众。;;;;;;;;;;x
 EVTDESC_MNM_3227_F;当我从祭坛上站起身来，[Root.Religion.GetGroupName]们小心谨慎地看着我。他们需要我作为[Root.GetTitle]去指引他们，正因为我与神所联系。[Root.Religion.GetPriestTitle]庄严地向我点头致敬。我仰头望着[Root.GetHouseOfWorship]的花窗，默默向[Root.TrueReligion.GetHighGodName]乞求哪怕只有一丝的涌动于心的灵感福音不曾降临于我。我在人们困惑的目光中跑下祭坛。;;;;;;;;;;x
 EVTDESC_MNM_3227_G;我在雕像的附近撒满花瓣，而崇拜者则在我的面前低语。 [Root.Religion.GetPriestTitle]向我点头，然后我在装饰雕塑前鞠躬。我能告诉他们什么？在我的心中，我祈祷[Root.TrueReligion.GetHighGodName]以获得一些灵感？但它永远不会来。我匆匆离开圣殿，留下我的人民一脸困惑。;;;;;;;;;;x
 EVTDESC_MNM_3227_J;我在雕像的附近撒满花瓣，而崇拜者则在我的面前低语。 [Root.Religion.GetPriestTitle]怀疑地瞥了我一眼，我深深吸了一口气，研究墙上的装饰和雕刻。 [Root.Religion.GetHighGodName]不是复仇之神吗？这座美丽的寺庙突然令我感到太拥挤。感到自己这刻的虚弱，我匆匆离开圣殿，留下崇拜者一脸困惑。;;;;;;;;;;x
@@ -2418,7 +2418,7 @@ EVTDESC_MNM_3237_COURT;[From.GetTitledFirstName]提议协助我进行秘密典�
 EVTOPTA_MNM_3237;我欣赏这个举动。;;;;;;;;;;x
 EVTOPTA_MNM_3237_TT;我会留意准备工作的。\n;;;;;;;;;;x
 EVTOPTB_MNM_3237;不，我现在没有时间做这个。;;;;;;;;;;x
-EVTDESC_MNM_3239_TRAGIC_FAIL;我刚点起一支蜡烛，[unfortunate_interrupter.GetTitledName] 就走进来撞见了我们，[unfortunate_interrupter.GetSheHeCap] 看到我们异国的仪式倒抽一口冷气，但在 [unfortunate_interrupter.GetSheHe] 有时间呼叫卫兵之前 [From.GetFirstName] 摔倒了 [unfortunate_interrupter.GetHerHim]。 [unfortunate_interrupter.GetManWoman] 的 [unfortunate_interrupter.GetHerHis] 头一定是撞在什么上面了， 当血开始溅到地板上时， [From.GetFirstName] 惊恐地退缩了。;;;;;;;;;;x
+EVTDESC_MNM_3239_TRAGIC_FAIL;我刚点起一支蜡烛，[unfortunate_interrupter.GetTitledName] 就走进来撞见了我们，[unfortunate_interrupter.GetSheHeCap] 看到我们异国的仪式倒抽一口冷气，但在 [unfortunate_interrupter.GetSheHe] 有时间呼叫卫兵之前 [From.GetFirstName] 撞倒了 [unfortunate_interrupter.GetHerHim]。 [unfortunate_interrupter.GetManWoman] 的 [unfortunate_interrupter.GetHerHis] 头一定是撞在什么上面了， 当血开始溅到地板上时， [From.GetFirstName] 惊恐地退缩了。;;;;;;;;;;x
 EVTOPTA_MNM_3239_TRAGIC_FAIL;这太可怕了！你做了什么？！;;;;;;;;;;x
 EVTOPTA_MNM_3239_TRAGIC_FAIL_TT;因为发生了不幸的事故，[Root.TrueReligion.GetHighGodName]的祭祀仪式彻底失败了。;;;;;;;;;;x
 EVTDESC_MNM_3239_SMALL_FAIL;[From.GetFirstName]点亮了蜡烛， 我正藏匿在密室中向[Root.TrueReligion.GetHighGodName]祈祷时，我仍然能够听见外面人们的声音。在我觉得一切都是那样顺利之前，我更想知道这是否值得我冒险。我叹了口气，无视掉[From.GetFirstName]的白眼，紧紧攥住了我的吊坠。;;;;;;;;;;x
@@ -2567,7 +2567,7 @@ secret_religions_induct_character;引导到[From.TrueReligion.GetName]信仰中;
 secret_religions_induct_character_desc;[Root.GetTitledFirstName]试图成为一个[From.TrueReligion.GetName]信仰的秘密信徒。;;;;;;;;;;x
 secret_religions_induct_character_cd_tt;近期还没有被人接触并招募去另一个信仰\n;;;;;;;;;;x
 secret_religions_induct_character_effect_tt;§Y[From.GetTitledFirstName]§! 尝试寻找方法，让§Y[Root.GetTitledFirstName]§!考虑 [From.TrueReligion.GetName] 信仰。\n;;;;;;;;;;x
-EVTDESC_MNM_3408;我已经安排我的一名密探在 [secret_religion_inductee.GetChamber] 的 [secret_religion_inductee.GetTitledFirstName]中的一卷书上 [Root.GetTrueReligionScriptureName] 留下匿名笔记。 如果这卷书被翻开并留在 [secret_religion_inductee.GetFirstName] 认为很重要的一页上， 我对 [secret_religion_inductee.GetSheHe] 将找到圣言中的真理抱有希望，  但什么才能吸引 [secret_religion_inductee.GetHerHis] 注意力呢...？;;;;;;;;;;x
+EVTDESC_MNM_3408;我已经安排我的一名密探在 [secret_religion_inductee.GetChamber] 的 [secret_religion_inductee.GetTitledFirstName] 中的一卷 [Root.GetTrueReligionScriptureName] 留下匿名笔记。 如果这卷书被翻开并留在 [secret_religion_inductee.GetFirstName] 认为很重要的一页上， 我对 [secret_religion_inductee.GetSheHe] 将找到圣言中的真理抱有希望——但什么才能吸引 [secret_religion_inductee.GetHerHis] 注意力呢...？;;;;;;;;;;x
 EVTOPTA_MNM_3408;一部歌颂传奇的武士的史诗。;;;;;;;;;;x
 EVTOPTA_MNM_3408_TT; 把[Root.GetTrueReligionScriptureName] 翻开在有关战争和勇士的章节留给 §Y[secret_religion_inductee.GetTitledFirstName]§!，希望这能引起他的兴趣.\n;;;;;;;;;;x
 EVTOPTB_MNM_3408;强调社区重要性的东西。;;;;;;;;;;x
@@ -3037,7 +3037,7 @@ EVTDESC_WOL_11008;你很清楚与[From.GetTitledFirstName]的决斗是一个很�
 String_the_four_Purusartha;四大追求;;;;;;;;;;x
 String_long;长;;;;;;;;;;x
 quest_monastic_order_donate_to_charity_tooltip;欲完成这项任务，请选择§Y'慈善捐赠'§!。;;;;;;;;;;x
-EVTDESC_4400_REMOVE_LUSTFUL;我希望成为一个更好的[Root.GetReligiousPerson]，这让我变成[Root.GetMOCode]。 我试图追随[Root.GetMOSaint]的脚步，这使我意识到了我的欲望的罪恶本质。 从现在开始，我会尝试把[Root.GetMenWomenPreference]看做他们本身，而不是我欲望的对象。;;;;;;;;;;x
+EVTDESC_4400_REMOVE_LUSTFUL;我成为一个更好的[Root.GetReligiousPerson]的愿望引领我走向[Root.GetMOCode]。我试图追随[Root.GetMOSaint]的脚步，这使我意识到了我的肉欲的罪恶本质。 从现在开始，我会尝试把[Root.GetMenWomenPreference]看做他们本身，而不是简单地看作我欲望的对象。;;;;;;;;;;x
 EVTDESC88000_ASSASSIN;最终，正义的新时代来临了。多年来，我们一直在耕耘于黑暗，但现在我们不再是窃窃私语中的传说。阿拉木图的山中堡垒征服者的名字，‘哈桑·萨巴赫’，是众所周知的[Root.PrimaryTitle.GetName]并声名远播。忠诚和温顺的人会在我们的翅膀下找到藏身之处，而不虔诚者和异教徒则会害怕我们的愤怒！;;;;;;;;;;x
 EVTDESC88001_ASSASSIN;组织顺利地占领了位于叙利亚的山中要塞马斯亚夫，这一消息很快便传了出去。我们的敌人，那些异教徒们开始意识到他们面对的是怎样的敌人了。愿他们永远在恐惧中颤抖。;;;;;;;;;;x
 EVTDESC88002_ASSASSIN;随着我们最后的据点的陷落，我们的组织被迫隐藏起来。有些人可能认为这就是终结，但他们是傻瓜。我们以前曾在阴影中活着，将来还会这样做。有一天，我们将再次崛起，比以往更加强大！;;;;;;;;;;x
@@ -3096,7 +3096,7 @@ jain_opinion;耆那教徒好感;;;;;;;;;;x
 buddhist_opinion;佛教徒好感;;;;;;;;;;x
 indian_group_opinion;印度宗教好感;;;;;;;;;;x
 orthodox_opinion;东正教好感;;;;;;;;;;x
-pagan_group_opinion;原始宗教好感;;;;;;;;;;x
+pagan_group_opinion;原始信仰好感;;;;;;;;;;x
 aztec_opinion;阿兹特克教徒好感;;;;;;;;;;x
 OPINION_SOCIETY_RANK_DIFFERENCE;在$SOCIETY|Y$内的位阶差异：$VALUE$;;;;;;;;;;x
 MODIFIER_MURDER_PLOT_POWER;阴谋力量;;;;;;;;;;x
@@ -3505,7 +3505,7 @@ sword_tier_2;长剑;;;;;;;;;;x
 sword_tier_2_desc;一把精钢铸成的长剑，可以对敌人造成巨大的伤害。;;;;;;;;;;x
 sword_tier_3_heartseeker;贯心者;;;;;;;;;;x
 sword_tier_3_heartseeker_desc;一把精良的角斗剑，以其能刺穿任何盔甲的能力命名被赐名为贯心者，它肯定会让敌人迅速毙命。;;;;;;;;;;x
-sword_tier_3_vengeance;复仇;;;;;;;;;;x
+sword_tier_3_vengeance;复仇剑;;;;;;;;;;x
 sword_tier_3_vengeance_desc;剑用最好的钢材锻造，它被命名为复仇，将给任何背叛者带来注定的毁灭。;;;;;;;;;;x
 sword_tier_3_fury;狂怒;;;;;;;;;;x
 sword_tier_3_fury_desc;狂怒是一把巨大而华丽的剑。它一定会给挥舞它的人带来胜利，无论是在决斗抑或战场中。;;;;;;;;;;x
@@ -3680,7 +3680,7 @@ necronomicon;《死灵之书》;;;;;;;;;;x
 necronomicon_desc;一本神秘的书，讲述着不可名状的领域。许多奇怪和邪恶的真理被记载在它的书页上…;;;;;;;;;;x
 finger_of_st_john;圣约翰的指骨;;;;;;;;;;x
 finger_of_st_john_desc;一个属于施洗者圣约翰的手指。圣约翰是弥赛亚的先知，也是施洗耶稣的人。;;;;;;;;;;x
-famous_head;[This.GetArtifactSourceCap]的头;;;;;;;;;;x
+famous_head;[This.GetArtifactSourceCap]的头骨;;;;;;;;;;x
 famous_head_desc;这是可敬的[This.GetArtifactSource]的头，它曾经饱含智慧。;;;;;;;;;;x
 famous_tongue;[This.GetArtifactSourceCap]的舌头;;;;;;;;;;x
 famous_tongue_desc;这是可敬的[This.GetArtifactSource]的舌头，它曾道出无数有说服力的真理。;;;;;;;;;;x
@@ -3826,7 +3826,7 @@ EVTDESC_MNM_4614;我在深夜里悄悄溜进了保存圣遗物的房间。 当�
 EVTOPTA_MNM_4614;你抓住我了……我服从骑士团的判决。;;;;;;;;;;x
 EVTOPTA_MNM_4614_TT;向§Y[monastic_artifact_witness.GetTitledFirstName]§!投降并且公开忏悔你的罪行来赎罪。\n;;;;;;;;;;x
 EVTOPTB_MNM_4614;出其不意！溜了溜了！;;;;;;;;;;x
-EVTOPTB_MNM_4614_TT;你确信你能够逃离，然而，这种行为会让你的兄弟姐妹非常不高兴，而你那安宁的生活也将离你远去...永远。\n;;;;;;;;;;x
+EVTOPTB_MNM_4614_TT;你确信你能够逃离，然而，这种行为会让你的兄弟姐妹非常不高兴，而你那安宁的生活也将离你远去...…永远。\n;;;;;;;;;;x
 EVTOPTC_MNM_4614;不要留下任何目击者！;;;;;;;;;;x
 EVTOPTC_MNM_4614_TT;尝试谋杀§Y[monastic_artifact_witness.GetTitledFirstName]§!！\n;;;;;;;;;;x
 EVTDESC_MNM.4619;我做到了！我拥有了遗物，没有留下任何谋杀证据。我尽可能的消灭了证据。似乎没有人怀疑我杀了人， [monastic_artifact_witness.GetSocietyRank] [monastic_artifact_witness.GetFirstName]并且拿走了遗物。;;;;;;;;;;x
@@ -3958,10 +3958,10 @@ String_Mistress;女能手;;;;;;;;;;x
 String_Master;大师;;;;;;;;;;x
 String_King;国王;;;;;;;;;;x
 String_saint;圣徒;;;;;;;;;;x
-String_famous_holy_man;著名的圣人;;;;;;;;;;x
+String_famous_holy_man;著名圣人;;;;;;;;;;x
 String_great_hero;大英雄;;;;;;;;;;x
 String_Saint_cap;圣徒;;;;;;;;;;x
-String_Famous_Holy_Man_cap;著名的圣人;;;;;;;;;;x
+String_Famous_Holy_Man_cap;著名圣人;;;;;;;;;;x
 String_Great_Hero_cap;大英雄;;;;;;;;;;x
 String_Slav;斯拉夫多神教徒;;;;;;;;;;x
 String_Romuvan;洛姆瓦教徒;;;;;;;;;;x
@@ -4009,7 +4009,7 @@ hermetics_wrote_magnum_opus_duplicate_contemplative_theurgy_tooltip;未拥有沉
 hermetics_wrote_magnum_opus_duplicate_stellar_astrology_tooltip;未拥有恒星占星学方面的杰作\n;;;;;;;;;;x
 hermetics_wrote_magnum_opus_duplicate_planetary_astrology_tooltip;未拥有行星占星学方面的杰作\n;;;;;;;;;;x
 hermetics_wrote_magnum_opus_duplicate_panacea_alchemy_tooltip;未拥有万灵药方面的杰作\n;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_transmutation_alchemy_tooltip;未拥有转化炼金术方面的巨著\n;;;;;;;;;;x
+hermetics_wrote_magnum_opus_duplicate_transmutation_alchemy_tooltip;未拥有转化炼金术方面的杰作\n;;;;;;;;;;x
 writing_magnum_opus;写一部杰作;;;;;;;;;;x
 writing_magnum_opus_desc;此人物正在创作杰作。;;;;;;;;;;x
 EVTDESC_MNM_1610;我在写字台上与世隔绝着，我一手持羽毛笔，另一手拿着一瓶墨水，我发现自己正凝视着那张空白羊皮纸。我即将开始的任务规模巨大，我需要记录下我的知识，同时也要隐去那些并不值得的人……;;;;;;;;;;x
@@ -4048,37 +4048,37 @@ EVTDESC_MNM_1608;完成了！完成了！经过一年的汗水和辛劳，我终
 EVTOPTA_MNM_1608;“完美是没有疾病和岁月的身体！”;;;;;;;;;;x
 EVTDESC_MNM_1609;完成了！完成了！经过一年的汗水和辛劳，我终于成功地完成了一项关于变形炼金术的伟大工作。这本书将经得起岁月的考验，确保我的知识和名字能战胜时间。它将为我的继任者服务，也许他们有一天能够将他们的知识添加到我的著作中。;;;;;;;;;;x
 EVTOPTA_MNM_1609;“把金属变成金子，灵魂也一样！”;;;;;;;;;;x
-magnum_opus_theurgy_ritual_1;神秘仪式巨著;;;;;;;;;;x
+magnum_opus_theurgy_ritual_1;《魔法仪式》;;;;;;;;;;x
 magnum_opus_theurgy_ritual_1_desc;这本巨著包含了许多神秘仪式的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_ritual_2;神秘仪式巨著;;;;;;;;;;x
+magnum_opus_theurgy_ritual_2;《魔法仪式》;;;;;;;;;;x
 magnum_opus_theurgy_ritual_2_desc;这本品质优良的巨著包含了许多神秘仪式的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_ritual_3;神秘仪式巨著;;;;;;;;;;x
+magnum_opus_theurgy_ritual_3;《魔法仪式》;;;;;;;;;;x
 magnum_opus_theurgy_ritual_3_desc;这本品质非凡的巨著包含了许多神秘仪式的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_ritual_4;神秘仪式巨著;;;;;;;;;;x
+magnum_opus_theurgy_ritual_4;《魔法仪式》;;;;;;;;;;x
 magnum_opus_theurgy_ritual_4_desc;这本绝无仅有的巨著包含了许多神秘仪式的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_1;冥想学巨著;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_1;《神秘冥想》;;;;;;;;;;x
 magnum_opus_theurgy_contemplation_1_desc;这本巨著包含了许多冥想学的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_2;冥想学巨著;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_2;《神秘冥想》;;;;;;;;;;x
 magnum_opus_theurgy_contemplation_2_desc;这本品质优良的巨著包含了许多冥想学的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_3;冥想学巨著;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_3;《神秘冥想》;;;;;;;;;;x
 magnum_opus_theurgy_contemplation_3_desc;这本品质非凡的巨著包含了许多冥想学的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_theurgy_contemplation_4;冥想学巨著;;;;;;;;;;x
+magnum_opus_theurgy_contemplation_4;《神秘冥想》;;;;;;;;;;x
 magnum_opus_theurgy_contemplation_4_desc;这本绝无仅有的巨著包含了许多冥想学的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_stars_1;恒星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_stars_1;《恒星占星术》;;;;;;;;;;x
 magnum_opus_astrology_stars_1_desc;这本巨著包含了许多恒星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_stars_2;恒星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_stars_2;《恒星占星术》;;;;;;;;;;x
 magnum_opus_astrology_stars_2_desc;这本品质优良的巨著包含了许多恒星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_stars_3;恒星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_stars_3;《恒星占星术》;;;;;;;;;;x
 magnum_opus_astrology_stars_3_desc;这本品质非凡的巨著包含了许多恒星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_stars_4;有关恒星占星术的巨著;;;;;;;;;;x
+magnum_opus_astrology_stars_4;《恒星占星术》;;;;;;;;;;x
 magnum_opus_astrology_stars_4_desc;这本绝无仅有的巨著包含了许多恒星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_planets_1;行星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_planets_1;《行星占星术》;;;;;;;;;;x
 magnum_opus_astrology_planets_1_desc;这本巨著包含了许多行星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_planets_2;行星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_planets_2;《行星占星术》;;;;;;;;;;x
 magnum_opus_astrology_planets_2_desc;这本品质优良的巨著包含了许多行星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_planets_3;行星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_planets_3;《行星占星术》;;;;;;;;;;x
 magnum_opus_astrology_planets_3_desc;这本品质非凡的巨著包含了许多行星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_astrology_planets_4;行星占星术巨著;;;;;;;;;;x
+magnum_opus_astrology_planets_4;《行星占星术》;;;;;;;;;;x
 magnum_opus_astrology_planets_4_desc;这本杰出的巨著包含了许多行星占星术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
 magnum_opus_alchemy_panacea_1;《万用灵药》;;;;;;;;;;x
 magnum_opus_alchemy_panacea_1_desc;这本巨著包含了许多炼金术万能药的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
@@ -4088,13 +4088,13 @@ magnum_opus_alchemy_panacea_3;《万用灵药》;;;;;;;;;;x
 magnum_opus_alchemy_panacea_3_desc;这本品质非凡的巨著包含了许多炼金术万能药的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
 magnum_opus_alchemy_panacea_4;《万用灵药》;;;;;;;;;;x
 magnum_opus_alchemy_panacea_4_desc;这本杰出的巨著包含了许多炼金术万能药的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_alchemy_transmutation_1;炼金术嬗变的巨著;;;;;;;;;;x
+magnum_opus_alchemy_transmutation_1;《转化炼金术》;;;;;;;;;;x
 magnum_opus_alchemy_transmutation_1_desc;这本巨著包含了许多变形炼金术的秘密，但是它已经被密码精心的加密了，只允许最聪明的人破译它。;;;;;;;;;;x
-magnum_opus_alchemy_transmutation_2;炼金术嬗变的巨著;;;;;;;;;;x
+magnum_opus_alchemy_transmutation_2;《转化炼金术》;;;;;;;;;;x
 magnum_opus_alchemy_transmutation_2_desc;这部品质优良的巨著包含了许多嬗变炼金术的秘诀，但是它已经用密码精心加密过了，只有最聪明的人才能破解它。;;;;;;;;;;x
-magnum_opus_alchemy_transmutation_3;Magnum Opus on Transmutative Alchemy;;;;;;;;;;x
+magnum_opus_alchemy_transmutation_3;《转化炼金术》;;;;;;;;;;x
 magnum_opus_alchemy_transmutation_3_desc;这个非凡品质的巨著包含了许多嬗变炼金术的秘密，但是它已经用一个精心设计的密码加密了，只有最聪明的人才能破解它。;;;;;;;;;;x
-magnum_opus_alchemy_transmutation_4;Magnum Opus on Transmutative Alchemy;;;;;;;;;;x
+magnum_opus_alchemy_transmutation_4;《转化炼金术》;;;;;;;;;;x
 magnum_opus_alchemy_transmutation_4_desc;这部杰作巨著包含了许多嬗变炼金术的秘密，但是它已经被用密码精心加密了，只有最聪明的人才能破解它。;;;;;;;;;;x
 EVTDESC_RIP_12099_NOTE;你的 [From.GetJobTitle]，§Y[From.GetTitledFirstName]§! 已经在§Y[From.Location.GetName]§!策划阴谋了，因此现在无法执行 [From.GetPossPronoun] 任务。;;;;;;;;;;x
 decision_abduct;尝试绑架;;;;;;;;;;x
@@ -4145,7 +4145,7 @@ EVTOPTB_WOL_2080_TOOLTIP;公开谴责§Y[target_spy_on.GetTitledFirstName]§!！
 OFFER_CONSORT_INTERACTION_TITLE;提供侍妾;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_DESC;纳个小妾;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_LONG_DESC;你可以将你宫廷内一位适龄的女性作为侍妾送去;;;;;;;;;;x
-OFFER_CONSORT_INTERACTION_0;挑选一位可能的侍妾。与你关系亲近的女性会提供一个奖励性提议(§G+$OPINION$§!).;;;;;;;;;;x
+OFFER_CONSORT_INTERACTION_0;挑选一位潜在的侍妾。与你关系亲近的女性会带来好感加成 (§G+$OPINION$§!)。;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_1;建议§Y[Recipient.GetBestName]§!纳§Y[ThirdPartyCharacter.GetTitledFirstName]§!为妾。;;;;;;;;;;x
 PRESTIGIOUS_CONSORT;因为她是你的近亲，他会非常感谢(§G+$OPINION$§!)。;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_ACCEPT_SETUP;同意纳妾请求;;;;;;;;;;x
@@ -4233,9 +4233,9 @@ quest_hermetics_build_laboratory_tooltip;欲完成此任务，需在密谋界面
 EVTDESC_MNM_1121;致[Root.GetSocietyRank] [Root.GetFirstName]，\n\n您仍然缺乏一间正式的炼金室的事引起了我的注意！没有合适的工具和成员您怎么能够揭示[Root.GetHermesThriceBlessed]的奥秘呢？请您应该建一座炼金室，要不你的工作将默默无闻。\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1121_apprentice;致[Root.GetSocietyRank] [Root.GetFirstName]，\n\n大师，我感觉我们因为缺乏一座正式的炼金室而推迟了进展。如果我们想揭开[Root.GetHermesThriceBlessed]的奥秘，我们就需要合适的工具和炼金场所。除非您建了一座实验室，否则我们的工作将默默无闻。\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1122_normal;有了我自己的实验室，我就可以进行比以前更大的工作了。如果没有一个专用的工作空间和正确的工具，我将永远无法理解。[Root.GetHermesThriceBlessed]的秘密，将是我的。;;;;;;;;;;x
-EVTDESC_MNM_1122_rich;我的新实验室折服了我身边所有的人，我打赌就算是[Root.GetHermesThriceBlessed]都会被这个实验室所打动。现在，我可以利用这个实验室去探索物质和精神的奥秘了。;;;;;;;;;;x
+EVTDESC_MNM_1122_rich;我的新实验室折服了我身边所有的人，我打赌就算是[Root.GetHermesThriceBlessed]他自己都会被这个实验室所打动。现在，我可以利用这个实验室去探索物质和精神的奥秘了。;;;;;;;;;;x
 EVTOPTA_MNM_1122;我的工作刚刚开始。;;;;;;;;;;x
-String_hermes_trismegistus;赫尔墨斯，三倍有福。;;;;;;;;;;x
+String_hermes_trismegistus;赫尔墨斯，三倍有福;;;;;;;;;;x
 String_idris;翻译家伊德里斯;;;;;;;;;;x
 EVTDESC_MNM_1113;整个城堡都在摇晃着，使我从几个小时的实验室准备工作后的睡梦中惊醒。难道我忘记锁门了吗？;;;;;;;;;;x
 EVTOPTA_MNM_1113;啊，为了科学牺牲！;;;;;;;;;;x
@@ -4468,7 +4468,7 @@ nice_adventure;不错的冒险;;;;;;;;;;x
 emerald_tablet;翠玉录;;;;;;;;;;x
 EVTDESC_MNM_1418;致[Root.GetFromThisHermeticsRank] [Root.GetFirstName]，\n\n我的[Root.GetSisterBrother]，我有一个你可能会感兴趣的提议。不久前一封信落到了我的手里，它详细描述了一些遗失的赫尔墨斯文献的可能地点。如果你资助这场探险，我们可以一起寻找这些宝藏！\n\n 正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致， [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1420_A;给[Root.GetFromThisHermeticsRank][Root.GetFirstName]，\n信上提到了三个遗失的文本: 一卷本地古董商那里的厚书，一个藏在[temple_site.GetName]的[temple_site.Holder.GetHouseOfWorship]的卷轴，以及位于[ruin_site.Holder.TopLiege.PrimaryTitle.GetName]的[ruin_site.GetName]古图书馆遗址的一块碑。在远方和过去进一步探险，我们可能会发现更大的秘密。由你来做决定。\n\n签名， [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
-EVTDESC_MNM_1420_B;请勿机翻！这将导致你的账号被封禁！;;;;;;;;;;x
+EVTDESC_MNM_1420_B;致 [Root.GetFromThisHermeticsRank] [Root.GetFirstName],\n我有一个好消息！自从我们上次通信后，我获得了一张通往亚历山大大图书馆废墟的一个幸存房间的地图。尽管之前的选项依然可以考虑。一本古籍在 [Root.Capital.GetName], 一份卷轴在 [temple_site.GetName] 以及一块碑在 [ruin_site.Holder.TopLiege.PrimaryTitle.GetName] 我认为这是一个绝好的机会，不能放弃。.\n\n此致, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_1420;确实不错！我们将前往亚历山大！;;;;;;;;;;x
 EVTOPTA_MNM_1420_TT;你和 §Y[From.GetTitledFirstName]§! 出发前往亚历山大港，希望能找到大图书馆的废墟。\n;;;;;;;;;;x
 EVTOPTB_MNM_1420;让我们前往[ruin_site.GetName]的废墟。;;;;;;;;;;x
@@ -4480,7 +4480,7 @@ EVTOPTD_MNM_1420_TT;你和§Y[From.GetTitledFirstName]§!一起去一个本地�
 EVTOPTX_MNM_1420_SUCCESS;一次成功的搜寻。;;;;;;;;;;x
 EVTTITLE_MNM_1422;翠玉录;;;;;;;;;;x
 EVTDESC_MNM_1422;难以置信，我们竟然真的发现了通往墓室的浮雕大门。[From.GetSocietyRank] [From.GetFirstName]和我都几乎要放弃了。本来我们都已经决定那天的搜索将会是我们本次行动的最后一次搜索，但我们竟然真的发现它了！这一定是神迹，是来自我主的福音！我双手颤抖地推开那些随从，清理掉最后剩下的垃圾，打开了那扇门。\n\n我和我的同僚走在前头，将提灯高举过头以便看清道路。昏暗的灯光洒落，我们发现了数不胜数的容器与箱子，还有精美的壁画以及一个巨大的锻炉。等等，在墓室房间的深处，还有些东西存在，一些绿色的东西...当看见那些东西时，[From.GetFirstName]的呼吸突然急促起来。“那，那不可能！”;;;;;;;;;;x
-EVTOPTA_MNM_1422;终究，赫尔墨斯特利斯墨吉斯忒斯的最深的秘密将会是我的！;;;;;;;;;;x
+EVTOPTA_MNM_1422;终究，赫尔墨斯·特利斯墨吉斯忒斯的最深的秘密将会是我的！;;;;;;;;;;x
 EVTDESC_MNM_1423;我们在外国的远征探险遇到了一些苦难，但最终我们安全抵到了 [ruin_site.GetName] 的废墟。在两周的发掘之后，仆人们找到了一个通向隐藏的地下墓室的入口。[From.GetSocietyRank] [From.GetFirstName] 和我并肩进入，空气中充满了兴奋。;;;;;;;;;;x
 EVTOPTA_MNM_1423;我的眼睛在欺骗我，还是说那些符号是象形文字？;;;;;;;;;;x
 EVTDESC_MNM_1424;我们送给 [temple_site.GetName] [temple_site.Holder.Religion.GetPriestTitle] 足够的贿赂让 [temple_site.Holder.GetHerHim] 打开 [temple_site.Holder.GetHouseOfWorship] 的内室。我们检查了每一个角落和裂缝寻找卷轴的藏身之处的线索。在第五天，其中一个仆人宣布 [Root.GetSheHe] 发现了一个密室……;;;;;;;;;;x
@@ -4498,9 +4498,9 @@ EVTDESC_MNM_1431_A;致[Root.GetFromThisHermeticsRank] [Root.GetFirstName]，\n\n
 EVTDESC_MNM_1431_B;致[Root.GetFromThisHermeticsRank] [Root.GetFirstName]，\n\n我的朋友，我们有着共同的敌人。您也知道我说的就是[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]那个卑鄙的蠢货！[infiltration_target.GetHerHim]成为我们这一受人尊敬的协会的一员的想法真是…让我作呕！让我们捣毁[infiltration_target.GetHerHis]实验室并且窃取[infiltration_target.GetHerHis]秘密吧！\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;x
 EVTDESC_MNM_1431_C;致[Root.GetFromThisHermeticsRank] [Root.GetFirstName]，\n\n[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]这个贪婪而懒惰的蠢货不配继续占有他的资产。[Root.GetSisterBrother]，我们一起去查抄[infiltration_target.GetHerHis]实验室并宣称它应为我们所有，您意下如何？\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;x
 quest_hermetics_infiltrate_laboratory;潜入[FromFrom.GetSocietyRank] [FromFrom.GetFirstName]的实验室;;;;;;;;;;x
-quest_hermetics_infiltrate_laboratory_desc;贪婪和偏执狂[FromFrom.GetSocietyRank] [FromFrom.GetFirstName]警惕[FromFrom.GetHerHis]秘密。 确实是一种最可耻的行为！ 与[FromFrom.GetHerHim]不同，你知道如何分享。 本着协作精神，你和同事已经同意渗透[FromFrom.GetFirstName]的实验室，并窃取或摧毁任何有价值的东西。 也许你会同时做到这一点！;;;;;;;;;;x
+quest_hermetics_infiltrate_laboratory_desc;贪婪多疑的[FromFrom.GetSocietyRank] [FromFrom.GetFirstName]小心翼翼地保守着[FromFrom.GetHerHis]秘密。 这是一种最可耻的行为！与[FromFrom.GetHerHim]不同，你懂得如何分享。 本着合作精神，你和一个同行商定潜入[FromFrom.GetFirstName]的实验室，并窃取或摧毁任何有价值的东西。 也许你会两者兼而有之！;;;;;;;;;;x
 quest_hermetics_infiltrate_laboratory_tooltip;你的同事会带你到§Y[FromFrom.GetTitledFirstName]§!的实验室。如果你能设法偷窃或者摧毁任何东西而不被注意到，任务就完成了。;;;;;;;;;;x
-EVTDESC_MNM_1433;最尊敬的 [Root.GetFromThisHermeticsRank] [Root.GetFirstName],\n\n虽然我的密探没有找到 [infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName] 的实验室的准确位置。但你无需担心，朋友，他们掌握着一些有希望的线索。 我们只需要保持耐心。\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
+EVTDESC_MNM_1433;最尊敬的[Root.GetFromThisHermeticsRank] [Root.GetFirstName]，\n\n虽然我的密探没有找到[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]的实验室的准确位置。但你无需担心，朋友，他们掌握着一些有希望的线索。我们只需要保持耐心。\n\n正如古老的炼金术原理所言：下如同上，上如同下；依此成全太一的奇迹。\n此致，[From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;x
 EVTOPTA_MNM_1433;我要准备迅速离开了;;;;;;;;;;x
 EVTOPTA_MNM_1433_TT;一旦§Y[From.GetTitledFirstName]§!的间谍找到实验室，你就得离开。;;;;;;;;;;x
 EVTDESC_MNM_1435_A;[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName] 一定是太过多疑了, [infiltration_target.GetHerHis] 研究室是一座隐藏在遥远岛屿上的要塞。 当我们穿过夜幕掩盖下的暗色河流时 [From.GetFirstName] 告诉我关于卫兵轮换的事。我们只有一次突破这道防线的机会。;;;;;;;;;;x
@@ -4529,14 +4529,14 @@ EVTOPTA_MNM_1437;那个配方从来没有失败过，我发誓...;;;;;;;;;;x
 EVTDESC_MNM_1438;我有怀疑，但颜色给我留下深刻印象！[infiltration_companion.GetFirstName]设法通过驱散产生恶臭气味的炼金术反应来引诱卫兵离开！虽然这个把戏是有效的，至少可以说，我不知道我有多少时间。我需要集中精力。下一步我该怎么办？;;;;;;;;;;x
 EVTOPTA_MNM_1438;我将要偷取[infiltration_target.GetFirstName]最稀有的原料以及最不为人所知的巨著！;;;;;;;;;;x
 EVTOPTB_MNM_1438;我的重点将是最大程度的毁灭。火钢在哪？;;;;;;;;;;x
-EVTDESC_MNM_1439;我在我的日子里看到过很多愚蠢的事情，但[infiltration_companion.GetFirstName]不好的尝试可能只是获奖。 当[infiltration_companion.GetSheHe]响起墙上的刀片[infiltration_companion.GetHerHis]并且开始大声哭泣时，我感到非常沮丧！ 当守卫的脚步声临近时，我抓住[infiltration_companion.GetHerHim]并跑步。 “真的，一个鬼？ 没有一个人正确的思想会落空！;;;;;;;;;;x
+EVTDESC_MNM_1439;我这几天见到过许多蠢事，但[infiltration_companion.GetFirstName]的消遣方法说不定是最蠢的一个。[infiltration_companion.GetSheHe]用刀片吱吱呀呀地怼墙并发出哀嚎时，当时我就被吓得目瞪口呆！当卫兵的脚步声临近时，我拽着[infiltration_companion.GetHerHim]开始逃跑。“真的吗，幽灵搞的鬼？ 任何一个有理智的人都不会相信这件事的！”;;;;;;;;;;x
 EVTOPTA_MNM_1439;今晚不会有第二次尝试，不会等很长时间。;;;;;;;;;;x
 EVTDESC_MNM_1440_A;当我正要将酸液倒在[infiltration_target.GetFirstName]的笔记，门在我身后打开。我转过身来，发现自己面对的不是其他人，而是守卫。我们的眼睛在我滴酸和逃跑之前呆滞了一瞬间，但毫无意义。尽管睡眠药水的影响，他们仍然比我快。;;;;;;;;;;x
 EVTDESC_MNM_1440_B;在我正要把酸倒在[infiltration_target.GetFirstName]的笔记上时，我背后的门被打开了。我转过身去，看见[infiltration_companion.GetFirstName]正惊恐地瞪着我。电光火石之间，我注意到卫兵抓住了[infiltration_companion.GetFirstName]。“跑！”[infiltration_companion.GetFirstName]大喊道，但已经太晚了。;;;;;;;;;;x
 EVTDESC_MNM_1440_C;当我的手在[infiltration_target.GetFirstName]的大配料箱中的一个时，门在我身后打开。我转过身来，发现自己面对的不是其他人，而是守卫。我们的眼睛在我滴酸和逃跑之前呆滞了一瞬间，但毫无意义。尽管睡眠药水的影响，他们仍然比我快。;;;;;;;;;;x
-EVTDESC_MNM_1440_D;当我的门在我后面打开时，我的手深陷在[infiltration_target.GetFirstName]的大成分箱中。 我旋转身体，发现自己正盯着[infiltration_companion.GetFirstName]的恐慌之眼。 一秒钟后，我注意到守卫抱着[infiltration_companion.GetHerHim]。 '跑！' [infiltration_companion.GetSheHe]大喊，但为时已晚。;;;;;;;;;;x
+EVTDESC_MNM_1440_D;当门在我身后打开时，我的手正在伸进[infiltration_target.GetFirstName]的一个大配料箱中。我转过身，发现自己正盯着[infiltration_companion.GetFirstName]的恐慌之眼。转瞬间我发现[infiltration_companion.GetHerHim]一已经被卫兵架住。“跑！”[infiltration_companion.GetSheHe]大喊，只可惜为时已晚。;;;;;;;;;;x
 EVTOPTA_MNM_1440;放了我！我是[infiltration_target.GetMasterMistress]的同事!;;;;;;;;;;x
-EVTDESC_MNM_1451;看来我的卫兵抓到了几条丑鱼！ 显然[From.GetSocietyRank] [From.GetFirstName]和[From.GetHerHis]帮凶[infiltration_companion.GetFirstName]一起，试图进入我的实验室并窃取我的秘密。 这种侮辱不能没有答案...;;;;;;;;;;x
+EVTDESC_MNM_1451;看来我的卫兵抓到了几只老鼠！ 显然[From.GetSocietyRank] [From.GetFirstName]和[From.GetHerHis]帮凶[infiltration_companion.GetFirstName]一起，试图闯入我的实验室并窃取我的机密。我绝不会放过这种侮辱……;;;;;;;;;;x
 EVTOPTA_MNM_1451;或许[From.GetFirstName]愿意用一些秘密换取[From.GetHerHis]自由。;;;;;;;;;;x
 EVTOPTB_MNM_1451;让他们在地牢里。我稍后会处理他们...;;;;;;;;;;x
 EVTOPTA_MNM_1451_FAIL_TT;§Y[From.GetTitledFirstName]§! 拒绝交代[From.GetHerHis]秘密并继续被囚禁着。;;;;;;;;;;x
@@ -4550,7 +4550,7 @@ EVTDESC_MNM_1454;当他们将[From.GetHerHim]拖向我时，我几乎没有认�
 EVTOPTA_MNM_1454;享受你心爱的隔间吧，[From.GetFirstName]。;;;;;;;;;;x
 EVTDESC_MNM_1455;我已经到了我愿意无耻地乞讨水的地步，卫兵把我从牢房拖走。我一定昏过去了，因为我看到的下一件事是 [From.GetFirstName]的轻蔑的脸！嗯，好吧，嗯…我的警卫确实抓住了一个可笑的骗子！我只是想在你把钥匙扔掉之前看看你……;;;;;;;;;;x
 EVTOPTA_MNM_1455;仁慈，怜悯！我不能回到那个地方！;;;;;;;;;;x
-EVTDESC_MNM_1441_A;谁知道[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]的实验室会是这样一个宝库？ 除了一些稀有的成分和一些可以在[Root.Capital.GetName]的更深层部分获取优质硬币的物品之外，我还会遇到一段最有趣的文字！;;;;;;;;;;x
+EVTDESC_MNM_1441_A;谁曾想到[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]的实验室会是这样一个宝库？ 除了一些稀有的原料和几件物品，可以在[Root.Capital.GetName]的黑市上卖得不少金币，我还会发现一段十分有趣的文件！;;;;;;;;;;x
 EVTDESC_MNM_1441_B;我的搜索是最有价值的。[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]的配料柜里有各种各样的物质，我发现了几块贵重金属。我的份额将是对我自己的实验室一个很好的补充！;;;;;;;;;;x
 EVTDESC_MNM_1441_C;对于所有[infiltration_target.GetHerHis]的谈话和吹嘘，我预计不止这些。 或者，[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]比我想的更偏执。 无论如何，我找不到任何有价值的东西。 至少这些金属块将卖几枚硬币。;;;;;;;;;;x
 EVTOPTA_MNM_1441;一个优秀的发现！赞美赫尔墨斯！;;;;;;;;;;x
@@ -4560,15 +4560,15 @@ EVTDESC_MNM_1442_B;如果我发现是谁闯进了我的实验室，我会杀了�
 EVTDESC_MNM_1442_C;我真该看看我实验室的保安。昨晚，一些卑鄙的人溜过守卫，但幸运的是，没有什么重要的东西被偷了。要么小偷不知道我的原料和书有多值钱，要么他们太笨了，找不到它们。不过，这些贵金属的替代成本相当高。;;;;;;;;;;x
 EVTDESC_MNM_1443_A;[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]真应该把他的火药藏得更好！不到半个小时，我就用足够的材料来制作了一个合适炸弹。 考虑到还有许多桶挥发性物质，这就应该足以毁坏实验室了。 我点燃了引线并逃离了爆炸地点。;;;;;;;;;;x
 EVTDESC_MNM_1443_B;谢天谢地，实验室并不是特别难以破坏。这个地方充满酸、挥发性物质和老到不行的骨头。虽然我没有足够的信心去一场大火，但我把文本丢到火炉里，点燃了火焰！;;;;;;;;;;x
-EVTDESC_MNM_1443_C;[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName]应该更好地隐藏[infiltration_target.GetHerHis]火药！ 在半小时内，我编写了足够的材料来制作一个体面的炸弹。 我非常慢地组装零件，因为我的手不会停止晃动。 就在我要完成最后一步时，我放下了一瓶。 我冻结。;;;;;;;;;;x
+EVTDESC_MNM_1443_C;[infiltration_target.GetSocietyRank] [infiltration_target.GetFirstName] 真应该把[infiltration_target.GetHerHis]火药藏得更好的！不到半个小时，我就收集了足够的材料来制作一枚像样的炸弹。我零件组装的速度很慢，因为我的手在不停地颤抖。就在即将完成最后一步时，我不小心让玻璃小瓶摔在了地上，我呆立当场。;;;;;;;;;;x
 EVTOPTC_MNM_1443;嘭！;;;;;;;;;;x
 EVTOPTA_MNM_1443;太棒了！这将需要花[infiltration_target.GetFirstName]个月的时间来恢复，如果不需要几年的话！;;;;;;;;;;x
 EVTDESC_MNM_1444_A;如果我发现是谁闯进了我的实验室，我会杀了那个卑鄙的混蛋！昨晚我醒来时，整个房子都剧烈地摇晃着。好像有人闯进了我的实验室，引发了一场爆炸！幸运的是，没有生命受到伤害，但我的实验室已成废墟。没什么可挽救的。;;;;;;;;;;x
 EVTDESC_MNM_1444_B;如果我发现是谁闯入我的实验室，我会杀了那个卑鄙的骗子！看起来我好像有了一个敌人，因为入侵者的重点是破坏而非盗窃。酸被倒在地板上，跨过工作台，盆和玻璃已经被打碎，更糟糕的是，我的炉子里充满了烧黑的书页！;;;;;;;;;;x
 EVTDESC_MNM_1444_C;我不确定我是否应该受到打扰或好玩！ 今天早上，我的实验室发现了一具烧焦的尸体。 显然，这个骗子破门而入，破坏了我的工作，但设法杀死了[From.GetHerselfHimself]，他们试图制造一枚炸弹。 我检查了尸体，罪魁祸首不过是[From.GetSocietyRank] [From.Society.GetName]！;;;;;;;;;;x
 EVTOPTB_MNM_1444;[Root.Religion.GetHighGodName]会惩罚罪孽深重的人。;;;;;;;;;;x
-EVTDESC_MNM_1446_A;我发现[From.GetSocietyRank] [From.GetFirstName]与[From.GetHerHis]手深深地放在一个大的配料箱里。 我们的目光相遇，我点头。 现在是时候了。 [From.GetFirstName]在追赶我之前，在[From.GetHerHis]书包里填入更多的金属瓶和金属块。;;;;;;;;;;x
-EVTDESC_MNM_1446_B;我遵循翻转的胸部和破损的小瓶，直到找到[From.GetSocietyRank] [From.GetFirstName]。 我表示[From.GetHerHim]和我一起来？ 现在是时候了。 [From.GetSheHeCap]在我之后跑来跑去[From.GetHerHis]口袋附近的几个工具。;;;;;;;;;;x
+EVTDESC_MNM_1446_A;我发现[From.GetSocietyRank] [From.GetFirstName]正在把手伸进大配料箱里。我们四目相对，我点点头。是时候离开了。 [From.GetFirstName]在[From.GetHerHis]包里塞进更多的金属瓶和金属块，然后追上了我。;;;;;;;;;;x
+EVTDESC_MNM_1446_B;我沿着翻倒的箱子和打碎的小瓶一路摸索着，直到我找到了[From.GetSocietyRank] [From.GetFirstName]。我向[From.GetHerHim]招手示意一起离开——该走了！[From.GetSheHeCap]连忙把附近的一些工具装进[From.GetHerHis]口袋里，然后追上我的步伐。;;;;;;;;;;x
 EVTDESC_MNM_1448;当我关上我的书包时，我听到另一个房间发出一声巨响。 当我在门口窥视时，我眼前的景象令人印象深刻。 [From.GetSocietyRank] [From.GetFirstName]的火炬照亮了被炸毁的房间，房间里面是翻倒的桌子，破旧的书本和砸碎的乐器。 我赞赏地点头说道：“该离开了。”;;;;;;;;;;x
 EVTOPTA_MNM_1448;当[infiltration_target.GetSheHe]意识到我们所做的事情时，我希望能看到[infiltration_target.GetFirstName]的脸。;;;;;;;;;;x
 EVTDESC_MNM_1449;当我到达附近的一个大厦时，一道可怕的咆哮扫过了实验室，脚下的地板颤抖着。 在真相遇到我之前，龙和幻影的图像闪现在我的脑海中。 [From.GetSocietyRank] [From.GetFirstName]必须有一组爆炸。 没有时间寻找[From.GetHerHim]。;;;;;;;;;;x
@@ -4697,8 +4697,8 @@ EVTOPTB_MNM_1225_relationship;我的幻象显然是错误的，但我不介意�
 EVTOPTA_MNM_1225_power;智慧的象征，在我身边。这一定是我预见到的恩惠！;;;;;;;;;;x
 EVTDESC_MNM_1226_A;在和我的亲戚打猎时，我被一只白牡鹿的美丽所打动。然而，欢乐是短暂的，因为华丽的野兽对我冲锋。我突然想起了我那可怕的幻象，我在退缩时紧紧地牵着我的马。“保护 [Root.GetTitle]！”在我听到就在飞箭的声音被打断之前，我呻吟着。;;;;;;;;;;x
 EVTDESC_MNM_1226_B;在和我的亲戚打猎时，我被一只白牡鹿的美丽所打动。然而，欢乐是短暂的，因为华丽的野兽对我冲锋。突然想起了我的美好梦，我试着凝视野兽。令我惊讶的是，它没有任何效果。“保护 [Root.GetTitle]！”在我听到就在飞箭的声音被打断之前，我呻吟着。;;;;;;;;;;x
-EVTDESC_MNM_1226_C;[envisioned_rival.GetTitledFirstName]一直在偷听我传言， 我不确定我做了什么应该得到这种治疗，但是回想起我的痛苦愿景，我决定不去抗争。 也许[envisioned_rival.GetHerHis]对我的卑鄙感觉只是星星穿越天空的结果？;;;;;;;;;;x
-EVTDESC_MNM_1226_D;[envisioned_rival.GetTitledFirstName]一直在偷听我传言， 我不确定我做了什么应该得到这种治疗，但是记住我的愿景，我开始怀疑我对此的解释。 也许[envisioned_rival.GetHerHis]的敌意只是星星穿越天空的结果？;;;;;;;;;;x
+EVTDESC_MNM_1226_C;我偶然听说[envisioned_rival.GetTitledFirstName]在散布我的传言，我不知道我作了什么孽要遭此报应，但是回想起我的痛苦愿景，我决定不去抗争。 也许[envisioned_rival.GetHerHis]对我的厌恶感只是星星穿越天空的结果？;;;;;;;;;;x
+EVTDESC_MNM_1226_D;我偶然听说[envisioned_rival.GetTitledFirstName]在散布我的传言，我不知道我作了什么孽要遭此报应，但是回想起我看到的幻象，我开始怀疑自己对它的释读。也许[envisioned_rival.GetHerHis]对我的厌恶感只是星星穿越天空的结果？;;;;;;;;;;x
 EVTDESC_MNM_1226_E;最近有一位商人访问[Root.Capital.Capital.GetName]。 起初，它们的奇怪小饰品和药水似乎只是流浪草药的作品。 然而，看起来这个男人骗了我的几个主题的钱，用可怕的故事和必要的仪式来表演，“恐怕恶魔会让我们所有人都陷入困境。;;;;;;;;;;x
 EVTDESC_MNM_1226_F;最近有一位商人访问[Root.Capital.Capital.GetName]。 回想起我的愿景，我最初对这位流浪的草药师反应良好，因为他似乎正在用他的小饰物和好奇的混合物为我的受试者提供安慰和兴奋。 然而，这名男子似乎骗了我的几个主体的钱，威胁说除非他的商品被购买，否则恶魔会困扰我们所有人。;;;;;;;;;;x
 EVTOPTA_MNM_1226_battle;没有用的！我知道会发生一件可怕的事情！;;;;;;;;;;x
@@ -4737,10 +4737,10 @@ EVTOPTB_MNM_1252_1;我很想知道[horoscope_maker.GetSheHe]看见了什么。;;
 EVTOPTB_MNM_1252_2;那一定会减轻压力！;;;;;;;;;;x
 EVTOPTA_MNM_1252_TT;你尽力将它抛诸脑后。\n;;;;;;;;;;x
 EVTDESC_MNM_1253_steward;随着[horoscope_child.GetSheHe]年龄的增长，[horoscope_child.GetTitledFirstName]已被视为表达[horoscope_child.GetHerHis]对机构的感觉，只要有机会出现。 我甚至不知道[horoscope_child.GetSheHe]在[horoscope_child.GetHerHis]手里拿着一颗算盘，但[horoscope_child.GetSheHe]将它带到[horoscope_child.GetSheHe]去的任何地方。;;;;;;;;;;x
-EVTDESC_MNM_1253_fighter;经常在练习场附近发现[horoscope_child.GetTitledFirstName]，这令人惊讶的发现了矛。 当然，木制玩具仅仅是一种玩具，但是我们的指挥官们在[horoscope_child.GetHerHim]练习期间[horoscope_child.GetBoyGirl]提供了令人惊讶的天赋。;;;;;;;;;;x
-EVTDESC_MNM_1253_diplomat;不需要任何人注意[horoscope_child.GetTitledFirstName]是一个深思熟虑的[horoscope_child.GetBoyGirl]，很好地适应了别人的感受。 [horoscope_child.GetSheHeCap]对外国习俗越来越好奇，经常被发现与仆人和游客进行对话。 “[Root.GetFatherMotherCap]？在[Root.GetCapitalHolding]之外长大的感觉是什么？”，[horoscope_child.GetSheHe]今天问我。;;;;;;;;;;x
-EVTDESC_MNM_1253_schemer;[horoscope_child.GetTitledFirstName]一直对阴谋有敏锐的眼光。比如偷读我的信件，窃听内阁会议。这 [horoscope_child.GetBoyGirl]几乎没有尊重过我的隐私。 然而，很难说[horoscope_child.GetHerHis]恶作剧是为了什么目的。 因此，宫廷似乎认为[horoscope_child.GetSheHe]正在成长为[Root.GetOnlyDynastyName]家族最亮眼的成员。;;;;;;;;;;x
-EVTDESC_MNM_1253_scholar;我知道[horoscope_child.GetTitledFirstName]对[horoscope_child.GetHerHis]年龄的阅读很好，但是我没有意识到它的程度？ [Root.GetCapitalHolding]档案管理员最近向我抱怨说：“年轻的[horoscope_child.GetLordLady] [horoscope_child.GetFirstName]在作品边缘做了记号，[Root.GetMasterMistress] ...”慌乱，他继续说道：“ 我认为这是亵渎，但[horoscope_child.GetHerHis]计算也是正确的。“;;;;;;;;;;x
+EVTDESC_MNM_1253_fighter;[horoscope_child.GetTitledFirstName]经常出现在试炼场附近，而事实证明他非常善于使用长枪。 木制兵器自然仅仅是一种玩具，但我的指挥官们在[horoscope_child.GetHerHim]练习过程中流露出的惊讶神情无不暗示着这个[horoscope_child.GetBoyGirl]着实展露出惊人的天赋。;;;;;;;;;;x
+EVTDESC_MNM_1253_diplomat;显而易见，[horoscope_child.GetTitledFirstName]是一个深思熟虑的[horoscope_child.GetBoyGirl]，善于照顾别人的感受。 [horoscope_child.GetSheHeCap]对外国习俗越来越好奇，经常有人发现[horoscope_child.GetSheHe]与仆人和游客进行对话。 “[Root.GetFatherMotherCap]？在[Root.GetCapitalHolding]之外长大的感觉是什么？”[horoscope_child.GetSheHe]今天问我。;;;;;;;;;;x
+EVTDESC_MNM_1253_schemer;[horoscope_child.GetTitledFirstName]一直对阴谋有敏锐的眼光。比如偷读我的信件，或是窃听内阁会议。这[horoscope_child.GetBoyGirl]几乎没有尊重过我的隐私。 然而，很难说[horoscope_child.GetHerHis]恶作剧是为了什么目的。 因此，宫廷似乎认为[horoscope_child.GetSheHe]正在成长为[Root.GetOnlyDynastyName]家族最亮眼的成员。;;;;;;;;;;x
+EVTDESC_MNM_1253_scholar;我知道就[horoscope_child.GetHerHis]年龄而言，[horoscope_child.GetTitledFirstName]的阅读很好，但是我没有意识到好到何种程度—— [Root.GetCapitalHolding]档案管理员最近向我抱怨说：“年轻的[horoscope_child.GetLordLady] [horoscope_child.GetFirstName]在书页边缘做了记号，[Root.GetMasterMistress] ……”他继续地慌乱说道：“ 我认为这是亵渎，但[horoscope_child.GetHerHis]计算也是正确的。”;;;;;;;;;;x
 EVTOPTA_MNM_1253;诸星辰青睐于[horoscope_child.GetHerHim]。;;;;;;;;;;x
 EVTOPTA_MNM_1253_TT;合乎[horoscope_child.GetHerHis]的命运，你相信§Y[horoscope_child.GetTitledFirstName]§!将很好地利用这个天赋。\n;;;;;;;;;;x
 EVTOPTB_MNM_1253;不！有大把的其他的事物，我希望[horoscope_child.GetSheHe]去关注。;;;;;;;;;;x
@@ -4753,7 +4753,7 @@ EVTDESC_MNM_1254_steward;由于[inspiring_adult.GetTitledFirstName]偏向[inspir
 EVTDESC_MNM_1254_fighter;我从[browptive_adult.GetTitledFirstName]指出了我的掩护技术中的缺陷，从我的额头上抹去了汗水。 我很高兴像[inspiring_adult.GetHerHim]这样的[inspiring_adult.GetEducationRole]花费时间从[inspiring_adult.GetHerHis]时间表中激发出我的激情，战斗在某种程度上成为我的一部分。 我有时想知道我的[horoscope_maker.GetFatherMother]是否正确...我的战斗已经写在星星上了吗？;;;;;;;;;;x
 EVTDESC_MNM_1254_diplomat;当我在[Root.GetCapitalHolding]周围漫步时，[inspiring_adult.GetTitledFirstName]赶上了我。 “我的[Root.GetLordLady]，内阁对你评估他们的建议非常满意”，[inspiring_adult.GetSheHe]面带微笑地说。[inspiring_adult.GetSheHeCap]愈发鼓励我参加外交会议。 “您难道不觉得像您的[horoscope_maker.GetFatherMother]那样扶助人民，这是你的使命吗？”;;;;;;;;;;x
 EVTDESC_MNM_1254_schemer;[inspiring_adult.GetTitledFirstName]经常激励我保持我的眼睛和耳朵尖锐......因此，当我发现[inspiring_adult.GetHerHis]音符在[inspiring_adult.GetHerHis]宿舍中漫不经心时，我不禁想知道[inspiring_adult.GetSheHe] 打算让我找到它们。 “从每一个[Root.GetOnlyDynastyName]，[Root.GetSheHe]都可以成为我们会记得的那个......年轻的[Root.GetLordLady]会拒绝天堂为[Root.GetHerHim]明确规划的东西吗？”;;;;;;;;;;x
-EVTDESC_MNM_1254_scholar;“阅读总是自然而然地给你，孩子”，[inspiring_adult.GetTitledFirstName]告诉我，倾听我的笔记。 “你的写作也在改善，”[inspiring_adult.GetSheHe]补充道，回到[inspiring_adult.GetHerHis]靠窗的位置。 [Root.GetCapitalHolding]今天非常安静，在阳光下闪闪发光。 陷入沉思，我的思绪飘向我的[horoscope_maker.GetFatherMother]的星座。;;;;;;;;;;x
+EVTDESC_MNM_1254_scholar;“你的阅读总是那么自然，孩子”，[inspiring_adult.GetTitledFirstName]告诉我，俯下身浏览我的笔记。 “你的写作水平也在改善，”[inspiring_adult.GetSheHe]补充道，又走回到[inspiring_adult.GetHerHis]靠窗座位。 [Root.GetCapitalHolding]今天非常安静，屋外阳光明媚。我陷入沉思，思绪飘回到[horoscope_maker.GetFatherMother]的那次星占。;;;;;;;;;;x
 EVTOPTA_MNM_1254;也许[Root.GetHermeticsDestinedRole]就是我想表达的意思。;;;;;;;;;;x
 EVTOPTB_MNM_1254;当然[horoscope_maker.GetFatherMother]会让我决定我自己的命运。;;;;;;;;;;x
 EVTDESC_MNM_1255_A;教育者告诉我，我的[horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName]对[horoscope_child.GetHermeticsDestinedExpertise]保持兴趣。我抬头看向天空默默点头，感谢群星的指引。;;;;;;;;;;x
@@ -4780,7 +4780,7 @@ guided_by_horoscope_diplomacy_adult;指定外交官;;;;;;;;;;x
 guided_by_horoscope_intrigue_adult;指定个宫廷谋士;;;;;;;;;;x
 guided_by_horoscope_learning_adult;指定宫廷学者;;;;;;;;;;x
 guided_by_horoscope_stewardship_adult_desc;此人注重细节，并拥有一个地图库。;;;;;;;;;;x
-guided_by_horoscope_martial_adult_desc;此人经常去拳击场。;;;;;;;;;;x
+guided_by_horoscope_martial_adult_desc;这个角色经常出现在试炼场。;;;;;;;;;;x
 guided_by_horoscope_diplomacy_adult_desc;这种性格的角色非常有礼貌;;;;;;;;;;x
 guided_by_horoscope_intrigue_adult_desc;这个角色经常被人看在听你的谈话。;;;;;;;;;;x
 guided_by_horoscope_learning_adult_desc;这个角色经常被人看到手上拿着本书。;;;;;;;;;;x
@@ -4831,7 +4831,7 @@ monastic_order_nestorian_leader_desc;圣亚伯拉罕修会的长老.;;;;;;;;;;x
 monastic_order_hindu_leader_desc;阿得韦陀·摩陀的阿罗汉。;;;;;;;;;;x
 monastic_order_buddhist_leader_desc;阿得韦陀·摩陀的阿罗汉。;;;;;;;;;;x
 monastic_order_jain_leader_desc;声闻僧伽的阿阇梨;;;;;;;;;;x
-the_plaguebringers_leader_desc;“瘟疫者”的黑色可汗;;;;;;;;;;x
+the_plaguebringers_leader_desc;“瘟疫者”布莱克可汗;;;;;;;;;;x
 the_cold_ones_leader_desc;寒神教派的巫觋。;;;;;;;;;;x
 the_trollcrafters_leader_desc;赫尔联谊会的特罗尔玛。;;;;;;;;;;x
 the_cult_of_kali_leader_desc;迦梨时母教派的婆罗门罗刹;;;;;;;;;;x
@@ -4852,7 +4852,7 @@ action_organize_spies_mystics_desc;让你的[GetSpymasterName]把注意力集中
 action_uncover_plots_offmap_desc;命令你的[GetSpymasterName]去揭露阴谋并且劝阻那些与派系相勾结的封臣。;;;;;;;;;;x
 MNM.70022.d;我发现证据证明在这个王国有一个酝酿中的阴谋。;;;;;;;;;;x
 MNM.70023.d;我对一个阴谋的谣言的调查一定提醒了某人。武装暴徒破门而入！;;;;;;;;;;x
-MNM.70024.d;你花了一些时间调查你的臣民之一，你觉得你已经收集了足够的信息来获得一种手段，可以阻止封臣在未来支持阴谋派系。;;;;;;;;;;x
+MNM.70024.d;你花了一些时间调查你的领主的一个封臣，你觉得你已通过收集了足够多的信息获得一种手段，可以阻止这个封臣在未来支持阴谋派系。;;;;;;;;;;x
 MNM.78003.d;当我在王国贵族的宫廷逗留期间，我尽了最大的努力，以更好的眼光来介绍我的君王。但我周围的邪恶势力似乎密谋扭曲和把我的每一个行动变成了可疑的东西，每一句话都变成了侮辱。;;;;;;;;;;x
 MNM.78000.d;在我留在贵族宫廷的过程中，我尽我最大的努力，用更光鲜的方式展现我的领主[Root.Liege.GetSheHe]，使他被认为是一名仁慈而和平的统治者;;;;;;;;;;x
 MNM.70005.d;我一直在努力改善我的领主的领地，并且最近在我的努力下取得了成功。[Root.Liege.GetSheHe]一定会很高兴！;;;;;;;;;;x
@@ -4881,7 +4881,7 @@ String_unity_with_the_One;如何实现与人的统一;;;;;;;;;;x
 String_nature_of_Prima_materia;原初物质的本质;;;;;;;;;;x
 String_nature_of_the_Inner_and_the_Outer_cosmos;内外宇宙的本质;;;;;;;;;;x
 String_Prisca_theologia;通过古代神学之镜达成统一;;;;;;;;;;x
-String_esoteric_meaning_of_the_Caduceus;节杖的深奥含义;;;;;;;;;;x
+String_esoteric_meaning_of_the_Caduceus;节杖的深意;;;;;;;;;;x
 String_truth_inherent_to_Divine_Consciousness;神性意识的内在真理;;;;;;;;;;x
 String_interaction_of_the_soul_and_alchemy;灵魂与炼金术的互动;;;;;;;;;;x
 String_very_definition_of_a_true_magnum_opus;真正杰作的定义;;;;;;;;;;x
@@ -5165,7 +5165,7 @@ EVTOPTC_MNM_1471_TT;决定了§Y[arguer_2.GetTitledFirstName]§!必须离开。�
 EVTDESC_MNM_1472;虽然我第一次冷静的尝试没有太大的区别，但我的愤怒突然突然发生了。 暴力反应最终为他们的感官带来了[arguer_1.GetSocietyRank] [arguer_1.GetFirstName]和[arguer_2.GetSocietyRank] [arguer_2.GetFirstName]。 现在，几个小时后，他们向我表示歉意，因为他们的小小和低调的争吵。;;;;;;;;;;x
 EVTOPTA_MNM_1472;如释重负！;;;;;;;;;;x
 EVTOPTA_MNM_1472_TT;争论结束了，每个人都可以不受干扰地继续工作。\n;;;;;;;;;;x
-EVTDESC_MNM_1473;坦率地说，我试图解释他们争吵的不合理性质，以及他们不断的消极对我们的项目的破坏。 遗憾的是，我的话似乎没有影响。 其实，我可能会让情况变得更糟。 '你听到了吗，[arguer_1.GetFirstName]？ 你正在破坏性的，'[arguer_2.GetFirstName]冷笑。 然后他们又去了......;;;;;;;;;;x
+EVTDESC_MNM_1473;我努力去冷静地解释他们争论的荒唐性，以及他们持续不断的消极行为是如何扰乱我计划的。令人遗憾的是，我的话语似乎没有任何卵用。实际上，我可能让情势恶化了。“[arguer_1.GetFirstName]，你听到了吧？你就是在添乱，”[arguer_2.GetFirstName]冷嘲热讽。然后他们又开始争吵……;;;;;;;;;;x
 EVTOPTA_MNM_1473;这不可能成事;;;;;;;;;;x
 EVTOPTA_MNM_1473_TT;§Y[arguer_1.GetTitledFirstName]§!和§Y[arguer_2.GetTitledFirstName]§!之间的争论变得更激烈了。\n;;;;;;;;;;x
 EVTDESC_MNM_1475;[From.GetFirstName]点击我们面前草图的细节，我热烈地点头。 '我同意，[From.GetFirstName]！ 当然，将轴移动到这里会使机制更不容易出错。 在过去的几天里，[From.GetFirstName]和我一起工作得非常好。 我很高兴[From.GetSheHe]来了！;;;;;;;;;;x
@@ -5187,7 +5187,7 @@ EVTDESC_MNM_1478_F;这项发明完成了！我们共同创造了我们自己的�
 EVTOPTF_MNM_1478;现在我们可以安全地相互分享我们的想法和发现。;;;;;;;;;;x
 EVTDESC_MNM_1478_G;我们的发明已经完成。虽然它不是一种武器，但它将提供防护，使其免受攻击。这是一套盔甲，由几个大的金属板组成，而不是普通的铠甲。这个设计拥有令人惊叹的机动性。;;;;;;;;;;x
 EVTOPTG_MNM_1478;在战斗中我的心里将不再有畏惧！;;;;;;;;;;x
-EVTDESC_MNM_1478_H;许多米尔斯点缀着[Root.Capital.Capital.GetName]周围的风景，对食物的生产至关重要。改进基本结构总是一个好主意，所以在过去的几个星期里，我们对旧的设计做出了一些巧妙的改进。我们的新工厂比以前更安全，效率更高！;;;;;;;;;;x
+EVTDESC_MNM_1478_H;许多磨坊点缀着[Root.Capital.Capital.GetName]周围的风景，这对食物的生产至关重要。改进基本结构总是一个好主意，所以在过去的几个星期里，我们对旧的设计做出了一些巧妙的改进。我们的新工厂比以前更安全，效率更高！;;;;;;;;;;x
 EVTOPTH_MNM_1478;我们的作坊是对社会真正的贡献;;;;;;;;;;x
 EVTDESC_MNM_1478_I;几个星期以来，我们一直在努力创造一个新的、革命性的透镜，虽然我们没能实现这个目标，但我们又实现了另一个目标。如果我们已经有了一个透镜，但却改变了它的使用方式，那该怎么样呢？基于我的阅历，我们发明了一个新的设备，‘眼镜’！;;;;;;;;;;x
 EVTOPTI_MNM_1478;无论我走到哪里都会有好视力伴随自己;;;;;;;;;;x
@@ -5330,7 +5330,7 @@ EVTOPTA_MNM_1841_1;我们不能简单地从这项任务中休息一下。;;;;;;;
 EVTOPTB_MNM_1841_1;当然，我会花更多的时间和你在一起，[target_spouse.GetFirstName]。;;;;;;;;;;x
 EVTOPTA_MNM_1841_2;为什么我们要争论这些……？！;;;;;;;;;;x
 EVTOPTB_MNM_1841_2;你是对的，[target_spouse.GetFirstName]，我将改变我的优先级;;;;;;;;;;x
-EVTDESCA_MNM_1842;我正在调整我的新六分仪，刚刚发现了一个看起来像流星的东西，当我的门轻轻敲门时。打开它，我发现我的[target_child.GetSonDaughter] [target_child.GetFirstName]令人紧张地烦躁不安。犹豫不决，[target_child.GetSheHe]说：“[Root.GetFatherMother]？我.…我睡不着。”;;;;;;;;;;x
+EVTDESCA_MNM_1842;当我调试好我的新六分仪，刚发现了一个看起来像流星的东西时，门外便响起轻轻的敲门声。打开门，我发现我的[target_child.GetSonDaughter] [target_child.GetFirstName]有些坐立不安。[target_child.GetSheHe]踌躇地说道：“[Root.GetFatherMother]?我.…我睡不着。”;;;;;;;;;;x
 EVTOPTB_MNM_1842;你已经老成了，不再害怕黑暗，[target_child.GetFirstName]。;;;;;;;;;;x
 EVTDESC_MNM_1843;确保土地所有者和贸易商及时缴纳税款是一项耗时的任务。最近，我的脑子里更多的任务是确保星星在正确的位置，而不是把税金放在我的库房里。;;;;;;;;;;x
 EVTOPTA_MNM_1843;财富怎么能和知识相提并论？;;;;;;;;;;x
@@ -5416,12 +5416,12 @@ EVTTOOLTIP_MNM_6995;你不得不等待一个来自秘密结社的新招募者。
 EVTDESCA_MNM_6993;我不确定发生了什么，但是我与[satanists_inductor.GetBestName]失去联系已经有一段时间了。我有些失望，因为我对我们的会谈会走向何方有些好奇......当我今晚撤退时，我确信我们会见的时间不知何故过早地结束了。;;;;;;;;;;x
 EVTOPTA_MNM_6993;肯定哪里出错了。;;;;;;;;;;x
 EVTTOOLTIP_MNM_6993;你不得不等待一个来自秘密结社的新招募者。;;;;;;;;;;x
-EVTDESC_ZP_1;作为一个虔诚的人，读完祛邪典的文本后，你会更加清楚邪神们的存在，以及他们会给你的家庭和王国带来的危险。所以，你决定你的房子里应该养一只拥有善灵的狗。;;;;;;;;;;x
-EVTOPTA_ZP_1;沃胡马纳，流浪犬;;;;;;;;;;x
+EVTDESC_ZP_1;作为一个虔诚的人，读完祛邪典的文本后，你会更加清楚魔鬼们的存在，以及他们会给你的家庭和领地带来的危险。所以，你决定你的房子里应该养一只拥有善灵的狗。;;;;;;;;;;x
+EVTOPTA_ZP_1;沃胡纳伽，流浪犬;;;;;;;;;;x
 EVTOPTB_ZP_1;旺哈帕拉，刺猬;;;;;;;;;;x
-EVTOPTC_ZP_1;圣艾比，水獭;;;;;;;;;;x
+EVTOPTC_ZP_1;萨格阿比，水獭;;;;;;;;;;x
 EVTOPTD_ZP_1;我们TMD不需要狗!;;;;;;;;;;x
-EVTDESC_ZP_2;[Root.Capital.Capital.GetName]的沃胡马纳是众所周知的阿胡拉·马兹达身边代表着善良的生物，它能够保护你的首都不被黑暗中漫游的达埃瓦所侵扰。;;;;;;;;;;x
+EVTDESC_ZP_2;[Root.Capital.Capital.GetName]的沃胡纳伽是众所周知的阿胡拉·马兹达身边代表着善良的生物，它能够保护你的首都不被黑暗中漫游的魔鬼所侵扰。;;;;;;;;;;x
 EVTOPTA_ZP_2;他应该随意走动，但必须受[Root.GetOnlyDynastyName]保护。;;;;;;;;;;x
 EVTOPTB_ZP_2;把他带进来！他是[Root.GetOnlyDynastyName]的一员。;;;;;;;;;;x
 EVTDESC_ZP_3;这只狗叫旺哈帕拉，是众所周知的斯潘塔·迈纽身边代表着机警的生物。它因为黑暗的召唤而苏醒，使我们能远离邪恶的生物。这就是为什么它会成为[Root.Religion.GetName]家庭最受欢迎的宠物。;;;;;;;;;;x
@@ -5452,7 +5452,7 @@ EVTOPTB_MNM_1900_TOOLTIP;这个艺术会引向§Y神秘主义者§!特质。;;;;
 EVTOPTC_MNM_1900_TOOLTIP;这个艺术会引向§Y神学家§!特质。;;;;;;;;;;x
 EVTDESCA_MNM_1901;作为一名学者，我专心研究星体和天体的艺术。我在这方面学到了很多东西。 但我应该花时间在其他艺术上。 我应该更密切集中哪一个？;;;;;;;;;;x
 EVTDESCB_MNM_1901;学习炼金术以及如何达到精神转化确实是好的一种学习体验。 虽然比人们想象的更困难。 但是时候掌握其他技巧了。我应该专注哪一项？;;;;;;;;;;x
-EVTDESCC_MNM_1901;我从神学的艺术获得了渊博的知识。学习了[Root.Religion.GetHighGodName]和神灵。然而，为了掌握真理和理解它，我将需要更多地了解其他艺术。接下来我该学习什么？;;;;;;;;;;x
+EVTDESCC_MNM_1901;我从神通术获得了渊博的知识。学习了[Root.Religion.GetHighGodName]和神灵。然而，为了掌握真理和理解它，我将需要更多地了解其他艺术。接下来我该学习什么？;;;;;;;;;;x
 EVTOPTA_MNM_1901;我将更多地了解占星术;;;;;;;;;;x
 EVTOPTB_MNM_1901;炼金术将是我的首要任务。;;;;;;;;;;x
 EVTOPTC_MNM_1901;神通术很重要。;;;;;;;;;;x
@@ -5486,13 +5486,13 @@ demon_alliance_desc;这个角色通过向恶魔祈祷来更深入理解[Religion
 COMPLETELY_CONTROLLED;完全控制§Y$TITLE$§!;;;;;;;;;;x
 NOT_COMPLETELY_CONTROLLED;并没有完全控制住§Y$TITLE$§!;;;;;;;;;;x
 has_not_recently_performed_stargazing;在过去的三年里没有被邀请去观察过星文\n;;;;;;;;;;x
-opinion_stargazing;占星;;;;;;;;;;x
+opinion_stargazing;观星;;;;;;;;;;x
 AVAILABLE_DUE_TO_OBSERVATORY;由于你拥有天文台，所以这个选项是可用的\n;;;;;;;;;;x
 AVAILABLE_DUE_TO_OBSERVATORY_EQUIPMENT;这个选项可用是因为你拥有一套观察天文设备仪器\n;;;;;;;;;;x
 PREPARE_STARGAZING;为即将到来的夜晚做必要的准备;;;;;;;;;;x
 invite_hermetic_to_stargazing;邀请去观星;;;;;;;;;;x
 invite_hermetic_to_stargazing_desc;邀请§Y[Root.GetTitledFirstName]§!来共度一个观星和学习的夜晚，从而试图更好地理解它是如何工作的。这同样也是一个来让我们彼此认识的好机会。;;;;;;;;;;x
-EVTDESC_MNM_1920;到[GetFromRootCompliment] [Root.GetTitledFirstName]，\n\n我写信给你一个建议。 我们都是[Root.Society.GetName]的尊敬成员，我认为我们可以相互学习。 我邀请你到一个发现的夜晚去研究天空。\n\n你的同事[FromFrom.GetSocietyRank]，[FromFrom.GetTitledFirstName];;;;;;;;;;x
+EVTDESC_MNM_1920;致[GetFromRootCompliment] [Root.GetTitledFirstName]，\n\n我写信给你是为了发出邀请。我们都是[Root.Society.GetName]的尊敬成员，我认为我们可以相互学习。 在此我邀请你在一个充满发现的夜晚去研究天空。\n\n你的伙伴 [FromFrom.GetSocietyRank]，[FromFrom.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_MNM_1920;我非常乐意前来！;;;;;;;;;;x
 EVTOPTB_MNM_1920;或许另找时间为好。;;;;;;;;;;x
 EVTDESC_MNM_1921;致[GetFromFromRootCompliment] [Root.GetTitledFirstName]，\n你邀请函的到来令人非常惊喜。我很荣幸能和你一起研习，不久我将准备我的旅程。\n\n你的朋友[From.GetSocietyRank], [From.GetTitledFirstName];;;;;;;;;;x
@@ -5524,19 +5524,19 @@ EVTOPTA_MNM_1933;华丽的工具, 我必须说。;;;;;;;;;;x
 EVTOPTB_MNM_1933;任何人都能得到这样普通的物品，不是吗？;;;;;;;;;;x
 EVTDESC_MNM_1934;我带着[stargazing_guest.GetTitledFirstName]来到观测室，展示了我的观星工具。我看得出[stargazing_guest.GetSheHe] 很高兴，因为他花了不少时间来检视它们。我们花了一段时间谈论那些工具，甚至谈了很久关于镜片的话题。小镜片和大镜片，知道了什么时候用哪个。;;;;;;;;;;x
 EVTOPTA_MNM_1934;今晚晚些的时候你可以用他们。 ;;;;;;;;;;x
-EVTDESC_MNM_1935;我紧紧跟在[stargazing_guest.GetTitledFirstName]后面到达了这个研究。 “这是我所获得的设备”，我解释说，并且指挥着整齐有序的工具集。 [stargazing_guest.GetFirstName]检查了一下收藏，但看起来并没有太多印象。 或者至少是[stargazing_guest.GetSheHe]之前见过的东西。;;;;;;;;;;x
+EVTDESC_MNM_1935;我到了书房，[stargazing_guest.GetTitledFirstName]紧跟在后面。“这些是我拿到的仪器”，我解释说，并且展示着整齐摆放的整套工具。 [stargazing_guest.GetFirstName]检视了一下我的收藏，但看起来印象并没有太深刻。 要么就是[stargazing_guest.GetSheHe]之前见过这些东西。;;;;;;;;;;x
 EVTOPTA_MNM_1935;至少我喜欢它们;;;;;;;;;;x
 EVTDESC_MNM_1936;我一到 [stargazing_host.Capital.GetName]，就受到了隆重欢迎。[stargazing_host.GetTitledFirstName]解释说，[stargazing_host.GetSheHe] 已经找到了一个在夜间使用的绝佳地点。“走这边，我带你过去看。”[stargazing_host.GetSheHeCap] 带路来到不远的一座山丘。小山丘的高度适中，没有树木遮挡视线。;;;;;;;;;;x
 EVTOPTA_MNM_1936;这将完美符合我们的需求！ ;;;;;;;;;;x
 EVTOPTB_MNM_1936;在偏远的地方有一座荒凉的山……;;;;;;;;;;x
-EVTDESC_MNM_1937;我们走到不远处的我选择的山上。 一旦到了那里，[stargazing_guest.GetTitledFirstName]花了一点时间看看上面的小山和天空。 “我认为这座小山完全适合我们的需求。” [stargazing_guest.GetSheHe]赞许地点头说道。 我们很快决定在哪里设置，以便尽可能多地看到。;;;;;;;;;;x
+EVTDESC_MNM_1937;我们走到不远处我选的那座山上。一到那里，[stargazing_guest.GetTitledFirstName]就花了一点时间看看这座山和头顶的天空。 “我认为这座山完全适合我们的需求。” [stargazing_guest.GetSheHe]点头赞许道。我们很快开始决定露宿地点，以便看到尽可能多的天象。;;;;;;;;;;x
 EVTOPTA_MNM_1937;最重要的永远是位置，位置，位置;;;;;;;;;;x
 EVTDESC_MNM_1938;我在附近选了一座山，和[stargazing_guest.GetTitledFirstName]一起在山上漫步。 在指出我认为对我们有用的几个方案时，我听到[stargazing_guest.GetFirstName]在背后埋怨我。他很明显不赞同我的选择：“也许它能做到。但如果你问我，我觉得不太可能。“;;;;;;;;;;x
 EVTOPTA_MNM_1938;相信我，这让我有了更好的看法;;;;;;;;;;x
 EVTDESC_MNM_1939;当我到达[stargazing_host.Capital.GetName]时，我不仅受到了来自[stargazing_host.GetTitledFirstName]的友善欢迎，而且还有丰盛的宴席！主人为我们的纵情娱乐准备了各种各样的活动。[stargazing_host.GetFirstName]为我荣幸地举起了酒杯。“让我们为今晚新的发现干杯！”;;;;;;;;;;x
 EVTOPTA_MNM_1939;我必须要说这是一个壮观的盛宴;;;;;;;;;;x
 EVTOPTB_MNM_1939;是不是有点过了？;;;;;;;;;;x
-EVTDESC_MNM_1940;当[stargazing_guest.GetTitledFirstName]进入餐厅时，我认为这场盛宴令人惊喜。 这是一个非常愉快的。 我们在这里度过了愉快的时光，并且在接下来的几个小时里彼此交谈愉快。 '你已经超越了自己，[stargazing_host.GetFirstName]。 这很壮观！“;;;;;;;;;;x
+EVTDESC_MNM_1940;当[stargazing_guest.GetTitledFirstName]进入餐厅时，我认为这场盛宴令人惊喜，是好的意义上的惊喜。我们在这里度过了愉快的时光，并且在接下来的几个小时里彼此愉快交谈。“你已经超越了自己，[stargazing_host.GetFirstName]。 成果斐然！”;;;;;;;;;;x
 EVTOPTA_MNM_1940;美食的奇迹。;;;;;;;;;;x
 EVTDESC_MNM_1941;我引导[stargazing_guest.GetTitledFirstName]前往餐厅参加等候宴。[stargazing_guest.GetHerHis]脸上的表情清楚地表明[stargazing_guest.GetSheHe]并不期待一场适正式的盛宴。或许[stargazing_guest.GetSheHe]期待着一场小型的晚餐？我是不是做过头了？;;;;;;;;;;x
 EVTOPTA_MNM_1941;至少味道还算不错;;;;;;;;;;x
@@ -5591,7 +5591,7 @@ GRAND_DEBATE_HOLDING_TOOLTIP;盛大辩论正在进行中\n;;;;;;;;;;x
 GRAND_DEBATE_COOLDOWN_TOOLTIP;过去十年间并没有进行盛大辩论\n;;;;;;;;;;x
 GRAND_DEBATE_TITLE;盛大辩论;;;;;;;;;;x
 CHRONICLE_GRAND_DEBATE;作为[From.Society.GetName]的杰出领导人，[From.GetTitledFirstName]邀请所有成员参加大辩论。;;;;;;;;;;x
-GRAND_DEBATE_PARTICIPANT_OPINION_TOOLTIP;参与的成员将在五年內对你增加§G5§! 的意见\n;;;;;;;;;;x
+GRAND_DEBATE_PARTICIPANT_OPINION_TOOLTIP;参与的成员将在五年內对你增加§G5§! 的好感\n;;;;;;;;;;x
 debater;辩论者 ;;;;;;;;;;x
 debater_desc;这个角色被公认为在辩论及讨论中有着十分夺目的表现。;;;;;;;;;;x
 opinion_debate_participant;隆重地举行一个的盛大辩论会;;;;;;;;;;x

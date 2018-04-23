@@ -651,7 +651,7 @@ INTERACTION_FAVOR_FORCED_LOG;$ACTOR|Y$用掉$RECIPIENT|Y$欠他们的§Y人情§
 INTERACTION_FAVOR_FORCED_LETTER;$ACTOR|Y$用掉我们欠他们的§Y人情§!来说服我们去$INTERACTION$。;;;;;;;;;;x
 FAVOR_INTERACTION_VALID;可以合作;;;;;;;;;;x
 FAVOR_NOT_RULER;$TARGET|Y$不是一个统治者;;;;;;;;;;x
-ARMY_EXPL_DEL;你能够从你领地和直属封臣中征兵。\n谁派出来的兵谁养。（这当然使封臣们不高兴）。;;;;;;;;;;x
+ARMY_EXPL_DEL;你能够从你的领地和直属封臣那里征兵。\n你需要为你的征召兵支付维护费用，但你的封臣将会为他们提供给你的征召兵支付维护费用（这会令他们不高兴）。;;;;;;;;;;x
 YOU_IN_UNIT;§Y统治者亲征§!\n你现在正和军队一起行军，勇敢地冒着自己的生命危险。;;;;;;;;;;x
 CHARACTER_POWERFUL_EXPLANATION;是一个主要的封臣而且希望进入§Y内阁§!;;;;;;;;;;x
 COUNCIL_TABS_JOBS;职位;;;;;;;;;;x
@@ -1201,9 +1201,9 @@ EVTOPTB_ZE_12072;训斥[From.GetHerHim]要为所做的事承担责任。;;;;;;;;
 EVTOPTC_ZE_12072;保佑这个孩子.;;;;;;;;;;x
 EVTOPTD_ZE_12072;一些小钱.;;;;;;;;;;x
 EVTOPTE_ZE_12072;通知 [playful_events_char_2.GetFirstName].;;;;;;;;;;x
-EVTOPTF_ZE_12072;警卫!;;;;;;;;;;x
+EVTOPTF_ZE_12072;卫兵！;;;;;;;;;;x
 EVTDESCA_ZE_12074;[From.GetFirstName] 抓住了我. 下次我需要跑的更快.;;;;;;;;;;x
-EVTDESCB_ZE_12074;[From.GetFirstName] 很不高兴, [From.GetHerHim] 没有抓住我. 明天我必须躲在家里.;;;;;;;;;;x
+EVTDESCB_ZE_12074;[From.GetFirstName]很不高兴，因为我在毫无帮助的情况下摆脱了[From.GetHerHim]。明天一整天我都必须躲在家里.。;;;;;;;;;;x
 EVTDESCC_ZE_12074;在我知道这事前, 那家伙头也不回从门口跑了出去 .;;;;;;;;;;x
 EVTDESCD_ZE_12074;[From.GetFirstName] 似乎很震惊,当 [From.GetSheHe] 找到我时. 警卫也来了,把藏在桌下的人抓了起来.他们说他是个坏人,我必须远离他.;;;;;;;;;;x
 EVTDESCE_ZE_12074;在我们去玩之前, 我们必须完成工作.;;;;;;;;;;x
@@ -1429,7 +1429,7 @@ EVTOPTC_ZE_22000;来自好朋友的慷慨捐赠！;;;;;;;;;;x
 EVTDESC_ZE_22100;[From.GetFullName] 已经决定了接受你的捐款！ 现在[From.GetHerHim]欠了我们的人情，我们必须明智地利用。;;;;;;;;;;x
 EVTDESC_ZE_22200;[From.GetFullName] 已经拒绝了你慷慨的捐赠。[From.GetSheHeCap]声称你只是在想要让[From.GetHerHim]欠你的情，真是不识好歹！;;;;;;;;;;x
 EVTOPTA_ZE_22200;真遗憾;;;;;;;;;;x
-donate_to_liege;捐献一笔 200?的钱给你的领主;;;;;;;;;;x
+donate_to_liege;捐献一笔 200¤ 的钱给你的领主;;;;;;;;;;x
 donate_to_liege_desc;你的领主正在建立战争金库，你可以抓住这个机会献上一笔丰厚的捐赠。在这个危急存亡之秋献上 200¤，你将获得领主的青睐！;;;;;;;;;;x
 offer_donation_custom_tooltip;你的领主收到你的捐赠意向.\n;;;;;;;;;;x
 donation_cooldown_custom_tooltip;不可在最近5年内曾被拒绝过捐款意向;;;;;;;;;;x
@@ -1543,8 +1543,8 @@ alert_adolescent_needs_focus_delayed;这些儿童缺少一个儿童重心:\n$LIS
 alert_adolescent_needs_focus_name;缺少教育重心;;;;;;;;;;x
 GOV_FLAVOR;$TYPE$;;;;;;;;;;x
 gov_feudal_monarchy;封建君主制;;;;;;;;;;x
-opinion_inherited;前任的观点;;;;;;;;;;x
-opinion_inherited_negative;前任的观点;;;;;;;;;;x
+opinion_inherited;前任的好感;;;;;;;;;;x
+opinion_inherited_negative;前任的好感;;;;;;;;;;x
 CHARACTER_POWERFUL_TOOLTIP;§Y强力封臣§!;;;;;;;;;;x
 CHARACTER_POWERFUL_TOOLTIP_ANGRY;§R因为未入内阁而愤怒.§!;;;;;;;;;;x
 alert_has_favor_instant;§Y$NUM$角色欠你人情§!;;;;;;;;;;x

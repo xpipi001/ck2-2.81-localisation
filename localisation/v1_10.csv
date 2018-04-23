@@ -400,7 +400,7 @@ baron_norse_pagan_reformed;市民;;;;;;;;;;x
 baron_norse;市民;;;;;;;;;;x
 PROPHET_ZOROASTER;琐罗亚斯德;;;;;;;;;;x
 GOD_OHRMAZD;奥赫马兹德;;;;;;;;;;x
-GOD_ZURVAN;祖尔宛;;;;;;;;;;x
+GOD_ZURVAN;楚尔凡;;;;;;;;;;x
 GOD_MIHRYAZD;马里哈斯特;;;;;;;;;;x
 PROPHET_MANI;摩尼;;;;;;;;;;x
 PROPHET_MAZDAK;马兹达克;;;;;;;;;;x
@@ -1172,7 +1172,7 @@ EVTOPTA_TOG_657;这是个疯子;;;;;;;;;;x
 EVTOPTB_TOG_657; [From.GetSheHe] 也是! 我…也是!啊哈哈哈哈哈!!!!!!;;;;;;;;;;x
 EVTDESC_TOG_658;有一个侍女从你到场之后就一直在看着你.喝了许多酒之后，你的手抓住了她，她也回应了你.你们脱光了衣服，开始进行爱的互动.正当你愉悦的时候，你突然发现自己在众目睽睽之下…;;;;;;;;;;x
 EVTOPTA_TOG_658;额...;;;;;;;;;;x
-EVTOPTB_TOG_658;[Root.Spouse.GetFirstName] 会不高兴的...;;;;;;;;;;x
+EVTOPTB_TOG_658;[Root.Spouse.GetFirstName]会不高兴的...…;;;;;;;;;;x
 EVTDESC_TOG_659;你和另外一位客人的谈话被奇怪的叫声打断了.在房间的另一头，众目睽睽之下，[From.GetTitledFirstName] 正在和侍女沉浸于肉欲之中.二人赤身裸体，直到突然的可怕沉默提醒了他们…;;;;;;;;;;x
 EVTOPTA_TOG_659;看在[This.Religion.GetRandomGodNameCap]的份上...;;;;;;;;;;x
 EVTOPTB_TOG_659;哈哈，你这老狗! 干得好!;;;;;;;;;;x

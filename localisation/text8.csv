@@ -769,7 +769,7 @@ EVTOPTB100172;我不喜欢[From.GetHerHis]的观点，我也不喜欢[From.GetHe
 EVTTOOLTIP100175;[Root.GetTitledFirstName]和[This.GetTitledFirstName]从陌生人变成敌人;;;;;;;;;;x
 EVTOPTC100172;虽然[From.GetManWoman]是个好人，但我并不想与[From.GetHerHim]成为朋友;;;;;;;;;;x
 EVTTOOLTIPB100174;今天，[Root.GetTitledFirstName]和[This.GetTitledFirstName]间并没有产生友谊;;;;;;;;;;x
-EVTDESC100173;在我与[From.GetTitledFirstName]交谈后，我发现我们之间几乎毫无共通之处、而且[From.GetSheHe]是一个十分令人讨厌的[From.GetManWoman]，我再也不想与[From.GetTitledFirstName]一起做任何事！虽然我们的共同好友并不高兴，但能够理解我永远也不可能与[From.GetTitledFirstName]成为朋友。;;;;;;;;;;x
+EVTDESC100173;在我与[From.GetTitledFirstName]交谈后，我发现我们之间几乎毫无共通之处，而且[From.GetSheHe]是一个十分令人讨厌的[From.GetManWoman]，我再也不想与[From.GetTitledFirstName]一起做任何事！虽然我们的共同好友并不高兴，但能够理解我永远也不可能与[From.GetTitledFirstName]成为朋友。;;;;;;;;;;x
 EVTOPTA100173;再也不要引荐你的“好朋友”给我了！;;;;;;;;;;x
 EVTDESC100174;虽然我们间有些异议、有些争论，但一旦我们达成共识以后，我真的很享受与[From.GetTitledFirstName]间的谈话。我一定不能忘记感谢我的朋友把我引荐给[From.GetTitledFirstName]，我已经很久没有遇到一个这么有趣的[From.GetManWoman]！;;;;;;;;;;x
 EVTOPTA100174;朋友一生一齐走，[From.GetTitledFirstName]，你怎么说呢？;;;;;;;;;;x

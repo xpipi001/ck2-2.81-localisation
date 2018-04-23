@@ -422,7 +422,7 @@ EVTDESC_WOL_404_HOMO_NOTE;我溜出帐篷去了小溪旁. 我发现 [From.GetTit
 EVTDESC_WOL_420;我在小溪旁等了好几个小时, 希望 [From.GetTitledFirstNameNoRegnal] 能够摆脱 [From.GetPossPronoun] 的朋友来见我, 但是直到日落. [From.GetSubjectPronounCap] 还是没有来.;;;;;;;;;;x
 EVTDESC_WOL_421;在一次野外郊游活动中, 我在帐篷旁边的花丛中发现了一条给我的 [GetFromFromFromRelation] [FromFromFrom.GetFirstName] 的信息! 一个骗子, [GetRootFromFromInsult] [FromFrom.GetTitledFirstName], 看来正在附近等着 [FromFromFrom.GetObjectPronoun] .;;;;;;;;;;x
 EVTOPTB_WOL_421;警卫! 抓住 [FromFrom.GetObjectPronoun]!;;;;;;;;;;x
-EVTDESC_WOL_423;唉, 我留在 [From.GetTitledFirstNameNoRegnal] 帐篷里的信息被她的 [GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal] 发现了. [FromFrom.GetSubjectPronounCap] 很不高兴... 我很幸运没有被抓起来, 但我给自己制造了一个敌人!;;;;;;;;;;x
+EVTDESC_WOL_423;唉, 我留在[From.GetTitledFirstNameNoRegnal]帐篷里的信息被她的[GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal]发现了。[FromFrom.GetSubjectPronounCap]很不高兴...…我很幸运没有被抓起来, 但我给自己制造了一个敌人！;;;;;;;;;;x
 EVTDESC_WOL_423_PRISON;唉, 我留在 [From.GetTitledFirstNameNoRegnal] 帐篷里的信息被她的 [GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal] 发现了. [FromFrom.GetSubjectPronounCap] 带着六个警卫冲到了小溪旁把我抓了起来!;;;;;;;;;;x
 EVTOPTA_WOL_423;我喜欢高度危险的游戏!;;;;;;;;;;x
 EVTOPTA_WOL_423_PRISON;诅咒你! 当我出去后我打算再试一次!;;;;;;;;;;x

@@ -44,7 +44,7 @@ nick_the_lioness;母狮;;;;;;;;;;x
 nick_the_flail_of;[Root.Liege.PrimaryTitle.GetName] 之枷;;;;;;;;;;x
 nick_the_scourge_of;[Root.Liege.PrimaryTitle.GetName] 之鞭;;;;;;;;;;x
 EVTTITLE_ZE_1011;不孝之女;;;;;;;;;;x
-EVTDESC_ZE_1011;你的女儿 [FromFrom.GetFirstName] 过来见你。她对你安排的婚姻非常不高兴：'[Root.GetFatherMother] ，我不爱我的新丈夫、我不会接受这件事！我恳求您，取消这桩婚事吧！';;;;;;;;;;x
+EVTDESC_ZE_1011;你的女儿[FromFrom.GetFirstName]过来见你。她对你安排的婚姻非常不高兴：“[Root.GetFatherMother]，我不爱我的新丈夫，我不会接受这件事！所以我恳求您，取消这桩婚事吧！”;;;;;;;;;;x
 EVTOPTA_ZE_1011;你的思维还不清晰， [FromFrom.GetFirstName] 。;;;;;;;;;;x
 EVTOPTB_ZE_1011;好吧，我不会强迫你。;;;;;;;;;;x
 EVTDESC_ZE_1012;正当你筹备婚礼时， [From.GetTitledName] 通知你 [From.GetHerHis] 不接受与 [target_spurned_spouse] 结婚， [From.GetSheHe] 已经决定取消这桩婚事了！;;;;;;;;;;x
@@ -185,7 +185,7 @@ STOP_ASSAULT_DESC;停止进攻;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_TITLE;任命为内阁成员;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_0;选择一个荣誉头衔授予给§Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_1;把 §Y[ThirdPartyTitle.GetFullName]§!的头衔授予§Y[Recipient.GetTitledFirstName]§!。;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点看法。;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点好感。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_DESC;用一个荣誉头衔来任命一个角色进入内阁。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁席位来安抚你的封臣并且让他们不会加入反对你的派系。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\n我希望任命你进入我的内阁，因而提供给你§Y[ThirdPartyTitle.GetFullName]§!的头衔。;;;;;;;;;;x

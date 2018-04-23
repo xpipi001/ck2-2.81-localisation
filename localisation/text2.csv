@@ -375,7 +375,7 @@ EVTDESC64030;我终于得了个机会可以对那个特别的人做点特别的�
 EVTOPTA64030;我要带[Root.GetHerHimOpp]去偏僻的乡村小屋;;;;;;;;;;x
 EVTOPTB64030;我要召艺人来我的宫廷;;;;;;;;;;x
 EVTOPTC64030;算了吧, 我和朋友一起过;;;;;;;;;;x
-EVTDESC64035;不管我做什么,我的甜心都不高兴,一直在抱怨我们没有一起做过激动人心的事情，并且在我告诉[Root.GetHerHimOpp]我公务繁忙,不能整天陪[Root.GetHerHimOpp]的时候大发雷霆.恋爱比我想象中要累多了!;;;;;;;;;;x
+EVTDESC64035;不管我做什么，我的甜心都不高兴，一直在抱怨我们没有一起做过激动人心的事情，并且在我告诉[Root.GetHerHimOpp]我公务繁忙，不能整天陪[Root.GetHerHimOpp]的时候大发雷霆。恋爱比我想象中要累多了！;;;;;;;;;;x
 EVTOPTA64035;举行一个大派对来取悦[Root.GetHerHisOpp];;;;;;;;;;x
 EVTOPTB64035;带[Root.GetHerHimOpp]去做些危险的事儿, 比如打猎;;;;;;;;;;x
 EVTOPTC64035;[Root.GetSheHeCapOpp]得到了[Root.GetSheHeOpp]想要的;;;;;;;;;;x
@@ -1001,7 +1001,7 @@ EVTDESC3691;我尽可能快准备好了马鞍, 没有等那个笨笨的小男孩
 EVTOPTA3691;让我们去打一些野兔吧!;;;;;;;;;;x
 EVTOPTB3691;等等,我还没准备好...;;;;;;;;;;x
 EVTTOOLTIP3698;在狩猎中，[Root.GetTitledFirstName] 并没有跟上 [This.GetTitledFirstName]的脚步;;;;;;;;;;x
-EVTDESC3692;我快速追上了狩猎队但我看到我的 [GetFromRelation] [From.GetFirstName] 皱眉看着我, 显然他们对我的加入并不高兴,  我几乎立刻调转马头跑了城堡.既然[From.GetFirstName]不希望我去参加，为什么还告诉我[From.GetSheHe]希望我加入 [From.GetHerHis]狩猎队，;;;;;;;;;;x
+EVTDESC3692;我快速追上了狩猎队但我看到我的 [GetFromRelation] [From.GetFirstName]皱眉看着我，显然他们对我的加入并不高兴，我几乎立刻调转马头跑了城堡.既然[From.GetFirstName]不希望我去参加，为什么还告诉我[From.GetSheHe]希望我加入[From.GetHerHis]狩猎队？;;;;;;;;;;x
 EVTOPTA3692;我决定忽略 [From.GetHerHim] 并且只去想狩猎的事情;;;;;;;;;;x
 EVTOPTB3692;我最好离开, 如果我不在的周围的话，[From.GetSheHe] 会感到轻松一些;;;;;;;;;;x
 EVTTOOLTIP3693;和 [Root.GetTitledFirstName]一起享受狩猎的乐趣;;;;;;;;;;x

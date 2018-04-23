@@ -263,8 +263,8 @@ EVTOPTA_SOA_1403;很好;;;;;;;;;;x
 EVTDESC_SOA_1411;最正直的[Root.GetTitledFirstName]，色兰。我们这些尼扎里伊斯玛仪派教徒当然可以借给你300金币。只希望在将来我们遇到困难的时候，您可以向我们施以援手。\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTDESC_SOA_1424;尼扎里伊斯玛仪派的哈萨辛在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
 EVTDESC_SOA_1431;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入哈萨辛，与异教徒作战。这会让他失去继承权，而王朝也不会再受到来自他的腐化的影响。;;;;;;;;;;x
-EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]加入了哈萨辛。;;;;;;;;;;x
-EVTDESC_SOA_1454;哈萨辛在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
+EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]加入了哈萨辛派。;;;;;;;;;;x
+EVTDESC_SOA_1454;哈萨辛教徒们在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
 EVTDESC_SOA_1461;伟大的[Root.PrimaryTitle.GetRulerTitle]，您对我们的敌意是武断的！教团侍奉安拉，而您却对此有所怀疑是吗？\n\n怒火中烧的，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTDESC_SOA_1531;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入令人闻风丧胆的约姆斯维京人，和他们一同冒险。即使这样做会让他失去继承权。;;;;;;;;;;x
 EVTTOOLTIP_SOA_1532;[This.GetTitledFirstName]成为了约姆斯维京人的一员。;;;;;;;;;;x
@@ -439,7 +439,7 @@ CANDIDATE_SIN;罪行（特质）;;;;;;;;;;x
 CANDIDATE_AT_CAPITAL;正在$LOCATION$;;;;;;;;;;x
 HIGHPRIEST;大祭司;;;;;;;;;;x
 EVTTITLE_SOA_1609;圣墓兄弟会;;;;;;;;;;x
-EVTDESC_SOA_1609;313年，米兰赦令发布，承认了基督教的合法地位，圣墓兄弟会也在当年成立。自那以后，兄弟会一直不知疲倦的辛劳工作，保护圣墓中的基督教圣地和圣遗物。直到前不久，兄弟会还是由牧师们通过和平的手段来保护这些宗教圣地的。\n\n但是到了最近，一切都变得不同了。兄弟会的组织正越发军事化，人数疯狂地增长，并招收了许多职业的军人。他们重申了他们会为保护圣地而奉献一切，但这条誓言如今不仅只包括圣墓，还包括了保护整个东正教信仰。;;;;;;;;;;x
+EVTDESC_SOA_1609;313年，米兰敕令发布，承认了基督教的合法地位，圣墓兄弟会也在当年成立。自那以后，兄弟会一直不知疲倦的辛劳工作，保护圣墓中的基督教圣地和圣遗物。直到前不久，兄弟会还是由牧师们通过和平的手段来保护这些宗教圣地的。\n\n但是到了最近，一切都变得不同了。兄弟会的组织正越发军事化，人数疯狂地增长，并招收了许多职业的军人。他们重申了他们会为保护圣地而奉献一切，但这条誓言如今不仅只包括圣墓，还包括了保护整个东正教信仰。;;;;;;;;;;x
 EVTOPTA_SOA_1609;多么高尚的目标！;;;;;;;;;;x
 EVTOPTB_SOA_1609;这些僧人就该乖乖呆在修道院里。;;;;;;;;;;x
 EVTDESC_SOA_1631;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入圣墓兄弟会，与异教徒作战。即使这样做会让他失去继承权。;;;;;;;;;;x
@@ -853,7 +853,7 @@ EVTOPTA_SoA_600;此为正道。;;;;;;;;;;x
 EVTTOOLTIP_SoA_601; 你皈依了艾什尔里教派。;;;;;;;;;;x
 EVTDESC_SoA_601; 木塔兹拉教派认为古兰经是精确而永恒的，安拉的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
 embrace_mutazila; 皈依穆尔太齐赖教派;;;;;;;;;;x
-embrace_mutazila_desc;你皈依了穆尔太齐赖——逊尼派的一支,主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
+embrace_mutazila_desc;你皈依了穆尔太齐赖——逊尼派的一支，主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
 embrace_ashari; 皈依艾什尔里教派;;;;;;;;;;x
 embrace_ashari_desc; 你皈依了艾什尔里——逊尼派的一支，他们因袭传统，注重天启说和偶因论。这将有助积累你的虔诚，但与之对立的穆尔太齐赖派信徒会不高兴。;;;;;;;;;;x
 opinion_rejected_school;对立教派;;;;;;;;;;x

@@ -521,7 +521,7 @@ ABSORB_CLAN_INTERACTION_ACCEPT_SETUP;部族被同化;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!从§Y[Recipient.GetBestName]§!那里同化了§Y[Recipient.GetOnlyDynastyName]§!部族;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_DECLINE_SETUP;拒绝部族同化;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!拒绝了§Y[Actor.GetBestName]§!提出的同化§Y[Recipient.Clan.GetName]§!部族一事。;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_0;此举将降低§Y[Recipient.GetTitledFirstName]§!对你的看法§R$VAL$§!。;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_0;此举将降低§Y[Recipient.GetTitledFirstName]§!对你的好感§R$VAL$§!。;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_1;[Recipient.GetHerHis]结拜兄弟§Y$BLOOD_BROTHER$§!对你的部族观感亦将减少§R$VAL$§!。;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_2;其他部族封臣将视之为暴君行为，减少他们对你的观感§R$VAL$§!。;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_3;其他部族封臣将毫不在意，因为他们觉得领地内部族太多了。;;;;;;;;;;x

@@ -55,7 +55,7 @@ EVTOPTA86150;我们无能为力...;;;;;;;;;;x
 EVTOPTB86150;尝试救他们!;;;;;;;;;;x
 EVTDESC86151;当有人来救我们时我正被强盗包围着,非常确信自己将要被洗劫一空丢下等死.;;;;;;;;;;x
 EVTOPTA86151;兄弟!;;;;;;;;;;x
-EVTDESC86160;我的一个仆人已经注意到一个讨厌的对手在离我们不远处露营.我知道攻击在他人朝圣途中攻击他是对先知的违逆,但这是一个千载难逢的机会.;;;;;;;;;;x
+EVTDESC86160;我的一个仆人已经注意到一个讨厌的对手在离我们不远处露营.我知道在他人朝圣途中攻击他是对先知的违逆,但这是一个千载难逢的机会.;;;;;;;;;;x
 EVTOPTA86160;趁夜偷袭..;;;;;;;;;;x
 EVTTOOLTIP86161;面对我们的武器!;;;;;;;;;;x
 EVTOPTB86160;与他为友...;;;;;;;;;;x
@@ -188,8 +188,8 @@ EVTOPTA3751;老婆,你为什么忽视我?;;;;;;;;;;x
 EVTOPTB3751;老公,你为什么忽视我?;;;;;;;;;;x
 EVTOPTC3751;父亲,你为什么忽视我?;;;;;;;;;;x
 EVTOPTD3751;母亲,你为什么忽视我?;;;;;;;;;;x
-EVTTOOLTIP3752;[Root.GetTitledFirstName] 对 [This.GetTitledFirstName]关于清真寺的痴迷并不高兴;;;;;;;;;;x
-EVTDESC3752;我几乎没有时间和 [From.GetTitledFirstName]在一起, 自从我广泛参与清真寺的活动并且 [From.GetTitledFirstName] 对我忽视 [From.GetHerHim]很不高兴.;;;;;;;;;;x
+EVTTOOLTIP3752;[Root.GetTitledFirstName]对[This.GetTitledFirstName]关于清真寺的痴迷并不高兴;;;;;;;;;;x
+EVTDESC3752;自从我广泛参与清真寺的活动，我几乎没有时间和[From.GetTitledFirstName]在一起。并且[From.GetTitledFirstName]对我忽视了[From.GetHerHim]表示不满。;;;;;;;;;;x
 EVTOPTA3752;对不起,但它使我快乐!;;;;;;;;;;x
 EVTDESC3755;我试图尽我所能遵循伊斯兰教的五大支柱,天课是一个展示我迪欧我的承诺的信心的最重要和最好的方式.天课要求我支付几个金币来帮助穷人,最重要的是消除不平等,让这个世界变得更加美好.;;;;;;;;;;x
 EVTOPTA3755;我愿意付钱;;;;;;;;;;x
@@ -224,7 +224,7 @@ EVTOPTA3411;这是我的宫廷,我可以肆意妄为;;;;;;;;;;x
 EVTTOOLTIP3412;思考你的判断: 对或错?;;;;;;;;;;x
 EVTDESC3412;我希望 [From.GetTitledFirstName] 评判那些人 [From.GetHerHis]判决让我思考.了几天. 为什么 [From.GetTitledFirstName] 一人被斩首,其他犯同样的罪的人却免刑?;;;;;;;;;;x
 EVTOPTA3412;[From.GetSheHeCap]太武断了;;;;;;;;;;x
-EVTTOOLTIPA3413;不高兴的 [Root.GetTitledFirstName] 不同意 [This.GetHerHis] 的判决;;;;;;;;;;x
+EVTTOOLTIPA3413;不高兴的[Root.GetTitledFirstName]不同意[This.GetHerHis]的判决;;;;;;;;;;x
 EVTOPTB3412;[From.GetTitledFirstName] 要比我聪明;;;;;;;;;;x
 EVTTOOLTIPB3413;很高兴 [Root.GetTitledFirstName]同意 [This.GetHerHis] 的判决;;;;;;;;;;x
 EVTDESC3413;我判他有罪的那人, 让 [From.GetTitledFirstName]思索. 当[From.GetTitledFirstName]终于有勇气和我讨论我完全忘了这回事 .;;;;;;;;;;x
@@ -529,7 +529,7 @@ EVTOPTB89006;那...那是毒药么卫兵，还是把她扔进地牢吧！;;;;;;;
 EVTOPTC89006;强迫她喝下瓶子里剩余的东西！;;;;;;;;;;x
 EVTDESC89007;你丈夫的一位地位稍低的妻子试图毒死你，这似乎是她想要成为他的第一妻子的一次绝望的赌博！能够在事情变得太晚之前发现这一企图纯粹是你的运气好.;;;;;;;;;;x
 EVTOPTA89007;必须把这件事告诉[Root.Spouse.GetFirstName]！;;;;;;;;;;x
-EVTDESC89008;[Root.Spouse.GetFirstName]你亲爱的第一妻子非常不高兴.她声称她抓住了你的一位地位稍低的妻子在她的食物中投毒！你家中的卫兵发现的证据也证明了这一点.;;;;;;;;;;x
+EVTDESC89008;[Root.Spouse.GetFirstName]，你亲爱的第一妻子非常不高兴。她声称她当场抓住了你的一名企图在她食物里投毒的地位较低的妻子！你家中的卫兵发现的证据也证明了这一点。;;;;;;;;;;x
 EVTOPTA89008;这让我痛苦，但是这件事情的惩罚必须是死亡...;;;;;;;;;;x
 EVTOPTB89008;让她在地牢中好好反思她犯下的错误！;;;;;;;;;;x
 EVTOPTC89008;我不能帮你做所有的事情，[Root.Spouse.GetFirstName]！;;;;;;;;;;x

@@ -297,7 +297,7 @@ EVTOPTA_ZE_22907;接下来还有更多的封臣要接待...;;;;;;;;;;x
 EVTDESC_ZE_22908;[vassal_teacher_martial.GetBestName] 是一位赫赫有名的武士和战术大师. 在介绍 [vassal_teacher_martial.GetHerselfHimself] 给 [introduced_heir.GetFirstName] 之后, [vassal_teacher_martial.GetFirstName] 跟你提议. [vassal_teacher_martial.GetFirstName] 愿意花一段时间教给 [introduced_heir.GetFirstName] 如何与人搏斗 这样可以增进你对他的好感.;;;;;;;;;;x
 EVTOPTA_ZE_22908;这会很有用, 我当然愿意欠你这个人情!;;;;;;;;;;x
 EVTOPTB_ZE_22908;学习怎么打架? 学这个有毛用!;;;;;;;;;;x
-EVTDESC_ZE_22909;所有来访的封臣都察觉到 [introduced_heir.GetTitledFirstName] 非常痴迷于 [husband_target.GetTitledFirstName] 的妻子, [wife_target.GetTitledFirstName]. 虽然没有过分的接触, [introduced_heir.GetFirstName] 还是整天像狗一样地跟着她. [husband_target.GetFirstName] 看起来很不高兴.;;;;;;;;;;x
+EVTDESC_ZE_22909;所有来访的封臣都察觉到[introduced_heir.GetTitledFirstName]非常痴迷于[husband_target.GetTitledFirstName]的妻子，[wife_target.GetTitledFirstName]。虽然没有过分的接触，[introduced_heir.GetFirstName]还是整天像狗一样地跟着她。[husband_target.GetFirstName]看起来很不高兴。;;;;;;;;;;x
 EVTOPTA_ZE_22909;真是胡闹!;;;;;;;;;;x
 COUNCIL_VOTE_WAR_ACCEPT_SETUP;内阁对战争的投票结果;;;;;;;;;;x
 STOP_ENFORCE_PEACE_INTERACTION_ACCEPT_SETUP;要求停止强制和平被接受;;;;;;;;;;x

@@ -1386,7 +1386,7 @@ EVTOPTB3556;玫瑰花？我要的是珠宝!;;;;;;;;;;x
 EVTTOOLTIP3558;[Root.GetTitledFirstName]故意冷落[This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC3557;[From.GetTitledFirstName]喜欢这朵玫瑰并且衷心感谢我.我差一点得到一个颊吻，但是[From.GetSheHe]一定是意识到不妥，[From.GetHerHim]脸一下子就红得好似这朵玫瑰一样，然后[From.GetSheHe]几乎是一路小跑的离开了.;;;;;;;;;;x
 EVTOPTA3557;太好了，[From.GetSheHe]喜欢这朵玫瑰;;;;;;;;;;x
-EVTDESC3558;当我呈给[From.GetHerHim]玫瑰花的时候，[From.GetTitledFirstName]看起来并不高兴.尽管这朵花又香又漂亮，[From.GetTitledFirstName]只是冷淡的对我表示感谢然后匆忙离开了.;;;;;;;;;;x
+EVTDESC3558;当我呈给[From.GetHerHim]玫瑰花的时候，[From.GetTitledFirstName]看起来并不高兴。尽管这朵花又香又漂亮，[From.GetTitledFirstName]只是冷淡的对我表示感谢然后匆忙离开了。;;;;;;;;;;x
 EVTOPTA3558;我想[From.GetSheHe]不喜欢这朵玫瑰花;;;;;;;;;;x
 EVTDESC3560;我的一位大臣善于种植，不论我如何努力，我都不能使我的蔬菜长得像他的一样大，鲜花长得像他的一样美丽.;;;;;;;;;;x
 EVTOPTA3560;我要得到他的花园里隐藏的秘密!;;;;;;;;;;x
@@ -2129,7 +2129,7 @@ EVTDESC301;看来我的恋爱冒险生下了孩子——小[From.GetFirstName]�
 EVTOPTA301;让[From.GetHerHim]合法化;;;;;;;;;;x
 EVTTOOLTIP302;[This.GetFirstName]成为了[This.Father.GetOnlyDynastyName]家族的一员;;;;;;;;;;x
 EVTTOOLTIP303;[This.GetFirstName]夫人作为母亲感到十分高兴;;;;;;;;;;x
-EVTTOOLTIP304;[This.GetTitledFirstName]作为母亲的丈夫感到非常不高兴...;;;;;;;;;;x
+EVTTOOLTIP304;[This.GetTitledFirstName]作为这位母亲的丈夫是最不高兴的...…;;;;;;;;;;x
 EVTOPTB301;承认[From.GetHerHim]是我的孩子;;;;;;;;;;x
 EVTTOOLTIP307;[This.GetFirstName]夫人作为母亲感到十分高兴;;;;;;;;;;x
 EVTTOOLTIP308;[Root.Father.GetFirstName]的妻子[Root.Father.Spouse.GetFirstName]很愤怒;;;;;;;;;;x
@@ -2306,7 +2306,7 @@ EVTOPTB30040;如果可能的话，我会让他被解雇;;;;;;;;;;x
 EVTTOOLTIP30040;我要求我的[Root.Spouse.GetFirstName]炒了这个烦人的家伙;;;;;;;;;;x
 EVTOPTC30040;我让这个人因为他的傲慢而受罚;;;;;;;;;;x
 EVTTOOLTIP30042;[Root.Spouse.GetTitledFirstName]开始意识到[Root.GetTitledFirstName]与廷臣之间的距离。;;;;;;;;;;x
-EVTDESC30041;我的妻子[Root.Spouse.GetTitledFirstName]要求我开除我的一个臣子，她觉得这家伙无比烦人.一方面，如果我拒绝了她的请求，[Root.Spouse.GetFirstName]可能会不高兴，但如果我炒了这个“恼人”的家伙，人们也许会觉得我的妻子对我的行为影响太大了;;;;;;;;;;x
+EVTDESC30041;我的妻子[Root.Spouse.GetTitledFirstName]要求我开除我的一个臣子，她觉得这家伙无比烦人。一方面，如果我拒绝了她的请求，[Root.Spouse.GetFirstName]可能会不高兴，但如果我炒了这个“恼人”的家伙，人们也许会觉得我的妻子对我的行为影响太大了。;;;;;;;;;;x
 EVTOPTA30041;我的[Root.Spouse.GetFirstName]的幸福对我更重要;;;;;;;;;;x
 EVTOPTB30041;她不应该管这事！;;;;;;;;;;x
 EVTDESC30042;显然，一个臣子已经惹恼了我的妻子[Root.Spouse.GetFirstName]，她决定自己动手处理此事，确保朝臣永远不会惹恼她，否则他将知道后果;;;;;;;;;;x
@@ -2392,7 +2392,7 @@ EVTDESC30070; [Root.Spouse.GetFirstName] 一直缠着我任命她的朋友当间
 EVTOPTA30070;够了够了！我让你的朋友当间谍总管还不行么;;;;;;;;;;x
 EVTTOOLTIPA30071;你的决定让 [Root.Spouse.GetFirstName]很高兴;;;;;;;;;;x
 EVTOPTB30070;你说什么都是没用的!;;;;;;;;;;x
-EVTTOOLTIPB30071;你留任现任间谍总管让 [Root.Spouse.GetFirstName]很不高兴.;;;;;;;;;;x
+EVTTOOLTIPB30071;你让现任间谍总管留任使得[Root.Spouse.GetFirstName]很不高兴。;;;;;;;;;;x
 EVTDESC30071;我丈夫 [Root.Spouse.GetFirstName] 让我给他一点时间来考虑这件事,他保证给我一个答复，只要我不烦他. 经过一番煎熬似的的等待，他终于给了我答复.;;;;;;;;;;x
 EVTOPTA30071;他将任命我的朋友为间谍总管!;;;;;;;;;;x
 EVTOPTB30071;他决定留任现任的间谍总管;;;;;;;;;;x
@@ -4902,7 +4902,7 @@ TRANSFER_VASSAL_INTERACTION_ACCEPT_SETUP;转封封臣;;;;;;;;;;x
 TRANSFER_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§! 转封 §Y[ThirdPartyCharacter.GetDynName]§! 给 §Y[Recipient.GetDynName]§!;;;;;;;;;;x
 CLAIM_TITLE_INTERACTION_TITLE;宣称头衔;;;;;;;;;;x
 CLAIM_TITLE_INTERACTION_DESC;宣称此人的头衔;;;;;;;;;;x
-CLAIM_TITLE_INTERACTION_LONG_DESC;编造理由证明这个头衔理应属于你.这将消耗威望以使其他人接受（如果是你法理上的领地，或者你的[Player.Religion.GetPietyName]很高，代价会变??头衔的拥有者会很不高兴……;;;;;;;;;;x
+CLAIM_TITLE_INTERACTION_LONG_DESC;编造理由证明这个头衔理应属于你。这将消耗威望以使其他人接受（如果这是你法理上的领地，或者你的[Player.Religion.GetPietyName]很高）头衔的现有者会很不高兴……;;;;;;;;;;x
 CLAIM_TITLE_INTERACTION_0;选择一个头衔.宣称头衔会降低威望并降低§Y[Recipient.GetTitledFirstName]§!对你的好感度.;;;;;;;;;;x
 CLAIM_TITLE_INTERACTION_1;宣称 §Y[ThirdPartyTitle.GetFullName]§! ，消耗 §R$PRESTIGE$§! 威望.这将降低 §Y[Recipient.GetTitledFirstName]§!对你的好感度 §R$OPINION$§!.;;;;;;;;;;x
 CLAIM_TITLE_INTERACTION_ACCEPT_SETUP;宣称头衔;;;;;;;;;;x
