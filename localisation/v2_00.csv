@@ -100,7 +100,7 @@ HERBAD;祭司;;;;;;;;;;x
 RABBI;拉比;;;;;;;;;;x
 NOTIFICATION_EVENT_SETUP;事件通知;;;;;;;;;;x
 CTT_CHRISTIAN_CRUSADES_UNLOCKED;十字军时代到来\n;;;;;;;;;;x
-CTT_MUSLIM_JIHADS_UNLOCKED;吉哈德时代到来\n;;;;;;;;;;x
+CTT_MUSLIM_JIHADS_UNLOCKED;大吉哈德时代来临\n;;;;;;;;;;x
 CTT_PAGAN_GHWS_UNLOCKED;异教徒大圣战时代到来\n;;;;;;;;;;x
 EVTNAME39660;十字军之王;;;;;;;;;;x
 EVTDESC39660;去圣地朝圣的基督徒尝尝遭受各种侮辱和迫害，朝圣之路并不安全。为了朝圣者和教徒在耶路撒冷的安全，虔诚的信徒，宗座[Root.GetTitledName]认为可以集结基督徒的力量对异教徒进行一次彻底的入侵。大规模的基督教圣战开始了——十字军。;;;;;;;;;;x
@@ -163,8 +163,8 @@ d_sky_lords;天之骄子;;;;;;;;;;x
 d_sky_lords_adj;天之骄子;;;;;;;;;;x
 d_spirit_guardians;灵魂卫队;;;;;;;;;;x
 d_spirit_guardians_adj;卫队;;;;;;;;;;x
-d_warriors_perun;佩龙的战士;;;;;;;;;;x
-d_warriors_perun_adj;佩龙;;;;;;;;;;x
+d_warriors_perun;佩伦的战士;;;;;;;;;;x
+d_warriors_perun_adj;佩伦;;;;;;;;;;x
 d_chosen_perkunas;佩尔库纳斯精兵;;;;;;;;;;x
 d_chosen_perkunas_adj;佩尔库纳斯;;;;;;;;;;x
 d_sons_kaleva;卡勒瓦之子;;;;;;;;;;x
@@ -333,7 +333,7 @@ EVTOPTA_SOA_4131;我还以为他们有多出色;;;;;;;;;;x
 EVTDESC_SOA_4132;派往[From.GetName]的神学家们失败了。异端们很有学问，早就做好了准备。;;;;;;;;;;x
 EVTOPTA_SOA_4132;叛教者！叛徒！;;;;;;;;;;x
 EVTOPTA_SOA_4133;很耗！;;;;;;;;;;x
-EVTDESC_SOA_4134;派往[From.GetName]的神学家们说服了异端们回到正道，凯旋而归。;;;;;;;;;;x
+EVTDESC_SOA_4134;派往[From.GetName]的神学家们说服了异端们回到正道，胜利凯旋。;;;;;;;;;;x
 EVTOPTA_SOA_4134;赞美[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTTITLE_SOA_4200;[From.Religion.GetName]获得胜利;;;;;;;;;;x
 EVTDESC_SOA_4200;[FromFrom.Religion.GetName]信仰的拥护者正在慢慢减少，[From.Religion.GetName]的信徒已成为主流。这一情况使得[FromFrom.Religion.GetName]成为了事实上的异端！所有之前信仰[FromFrom.Religion.GetName]的圣战士，如今都会为[From.Religion.GetName]而战。;;;;;;;;;;x
@@ -515,20 +515,20 @@ expel_spirit_guardians_desc;我可以将灵魂卫队赶出我的国土，没收�
 donate_money_to_spirit_guardians;捐赠 300¤ 给灵魂卫队;;;;;;;;;;x
 donate_money_to_spirit_guardians_desc;我可以捐款给灵魂卫士以换取[Player.Religion.GetPietyName]，这会让我一生受到祭司的尊敬。;;;;;;;;;;x
 expelled_d_spirit_guardians;曾驱逐灵魂卫队;;;;;;;;;;x
-EVTTITLE_SOA_2209;佩龙的战士;;;;;;;;;;x
-EVTDESC_SOA_2209;斯拉夫信仰的改革在斯拉夫人的土地上掀起了从未有过的宗教狂热。许许多多伟大的战士聚到一起，组成了一支圣战士。他们自称为雷电之神佩龙的战士，誓死守卫斯拉夫信仰。;;;;;;;;;;x
-EVTOPTA_SOA_2209;让佩龙的敌人们颤抖吧！;;;;;;;;;;x
-EVTDESC_SOA_2231;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入佩龙的战士，和他们一起击溃众神的敌人。即使这样做会让他失去继承权。;;;;;;;;;;x
-EVTDESC_SOA_2241;伟大的[Root.PrimaryTitle.GetRulerTitle]，您慷慨的捐赠极大地帮助了我们贯彻佩龙的意志！我和祭司们都会视您为朋友！\n\n愿佩龙守护您，\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
-EVTTOOLTIP_SOA_2232;[This.GetTitledFirstName]成为了一名佩龙的战士。;;;;;;;;;;x
-EVTDESC_SOA_2253;最正直的[Root.GetTitledFirstName]，佩龙的战士需要更多的城堡来训练部队兵并维持开销。我注意到，在您的直辖领地中，[FromFrom.GetName]是一个非常适合地方。我愿意出100金币换取您对我们在此地建筑要塞的许可。\n\n愿佩龙守护您！\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
-EVTDESC_SOA_2254;佩龙的战士在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
-EVTDESC_SOA_2261;陛下，您对我们的敌意毫无道理！佩龙的战士侍奉神明，而您却对此有所怀疑是吗？\n\n悲愤交加的，\n\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
-expel_warriors_perun;驱逐佩龙的战士;;;;;;;;;;x
-expel_warriors_perun_desc;我可以将佩龙的战士赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
-donate_money_to_warriors_perun;捐赠 300¤ 给佩龙的战士;;;;;;;;;;x
-donate_money_to_warriors_perun_desc;我可以捐款给佩龙的卫士以换取[Player.Religion.GetPietyName]，这会让我一生受到祭司的尊敬。;;;;;;;;;;x
-expelled_d_warriors_perun;曾驱逐佩龙的战士;;;;;;;;;;x
+EVTTITLE_SOA_2209;佩伦的战士;;;;;;;;;;x
+EVTDESC_SOA_2209;斯拉夫信仰的改革在斯拉夫人的土地上掀起了从未有过的宗教狂热。许许多多伟大的战士聚到一起，组成了一支圣战士。他们自称为雷电之神佩伦的战士，誓死守卫斯拉夫信仰。;;;;;;;;;;x
+EVTOPTA_SOA_2209;让佩伦的敌人们颤抖吧！;;;;;;;;;;x
+EVTDESC_SOA_2231;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入佩伦的战士，和他们一起击溃众神的敌人。即使这样做会让他失去继承权。;;;;;;;;;;x
+EVTDESC_SOA_2241;伟大的[Root.PrimaryTitle.GetRulerTitle]，您慷慨的捐赠极大地帮助了我们贯彻佩伦的意志！我和祭司们都会视您为朋友！\n\n愿佩伦守护您，\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
+EVTTOOLTIP_SOA_2232;[This.GetTitledFirstName]成为了一名佩伦的战士。;;;;;;;;;;x
+EVTDESC_SOA_2253;最正直的[Root.GetTitledFirstName]，佩伦的战士需要更多的城堡来训练部队兵并维持开销。我注意到，在您的直辖领地中，[FromFrom.GetName]是一个非常适合地方。我愿意出100金币换取您对我们在此地建筑要塞的许可。\n\n愿佩伦守护您！\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
+EVTDESC_SOA_2254;佩伦的战士在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
+EVTDESC_SOA_2261;陛下，您对我们的敌意毫无道理！佩伦的战士侍奉神明，而您却对此有所怀疑是吗？\n\n悲愤交加的，\n\n首领 [From.GetFirstName] 谨上;;;;;;;;;;x
+expel_warriors_perun;驱逐佩伦的战士;;;;;;;;;;x
+expel_warriors_perun_desc;我可以将佩伦的战士赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
+donate_money_to_warriors_perun;捐赠 300¤ 给佩伦的战士;;;;;;;;;;x
+donate_money_to_warriors_perun_desc;我可以捐款给佩伦的卫士以换取[Player.Religion.GetPietyName]，这会让我一生受到祭司的尊敬。;;;;;;;;;;x
+expelled_d_warriors_perun;曾驱逐佩伦的战士;;;;;;;;;;x
 EVTTITLE_SOA_2309;佩尔库纳斯精兵;;;;;;;;;;x
 EVTDESC_SOA_2309;闪电之神佩尔库纳斯降下神谕！洛姆瓦宗教为了应对新的环境而进行了改革，许多战士也挺身而出，为重获新生的宗教组建一支新的圣战军团。他们称自己为佩尔库纳斯精兵，宣誓守卫洛姆瓦信仰，用神明的愤怒击碎他们的敌人。;;;;;;;;;;x
 EVTOPTA_SOA_2309;他们会像闪电一样击倒他们的敌人！;;;;;;;;;;x
@@ -844,49 +844,49 @@ EVTOPTA_SoA_301;文化有什么用?;;;;;;;;;;x
 EVTDESC_SoA_302;看来犹太人在王国的军队中发挥着比预料中更大的作用。自从颁布了犹太人驱逐法令，军队多个重要管理职务空缺，怎么也找不到可以胜任的人代替。;;;;;;;;;;x
 EVTOPTA_SoA_302;我非得事必躬亲吗?;;;;;;;;;;x
 mutazilite;木塔兹拉教派;;;;;;;;;;x
-mutazilite_desc;此人属于逊尼派穆尔太齐勒教派，他们推崇理智、理性和自由意志。;;;;;;;;;;x
+mutazilite_desc;此人属于逊尼派穆尔太齐赖教派，他们推崇理智、理性和自由意志。;;;;;;;;;;x
 ashari;艾什尔里;;;;;;;;;;x
 ashari_desc; 此人属于逊尼派艾什尔里教派，他们因袭传统，注重天启说和偶因论。;;;;;;;;;;x
-EVTTOOLTIP_SoA_600; 你皈依了木塔兹拉教派。;;;;;;;;;;x
-EVTDESC_SoA_600; 木塔兹拉教派认为古兰经并非一成不变而是可以被创造的，同时允许对真主的诫令进行理性思考甚至质疑。受此教派影响，境内有教养的学者们在科学追求方面更有创造力了。;;;;;;;;;;x
+EVTTOOLTIP_SoA_600; 你皈依了穆尔太齐赖教派。;;;;;;;;;;x
+EVTDESC_SoA_600;穆尔太齐赖教派认为古兰经并非一成不变而是可以被创造的，同时允许对真主的诫令进行理性思考甚至质疑。受此教派影响，境内有教养的学者们在科学追求方面更有创造力了。;;;;;;;;;;x
 EVTOPTA_SoA_600;此为正道。;;;;;;;;;;x
 EVTTOOLTIP_SoA_601; 你皈依了艾什尔里教派。;;;;;;;;;;x
 EVTDESC_SoA_601; 木塔兹拉教派认为古兰经是精确而永恒的，真主的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
-embrace_mutazila; 皈依木塔兹拉教派;;;;;;;;;;x
-embrace_mutazila_desc;你皈依了木塔兹拉——逊尼派的一支,主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
+embrace_mutazila; 皈依穆尔太齐赖教派;;;;;;;;;;x
+embrace_mutazila_desc;你皈依了穆尔太齐赖——逊尼派的一支,主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
 embrace_ashari; 皈依艾什尔里教派;;;;;;;;;;x
-embrace_ashari_desc; 你皈依了艾什尔里——逊尼派的一支，他们因袭传统，注重天启说和偶因论。这将有助积累你的虔诚，但与之对立的木塔兹拉派信徒会不高兴。;;;;;;;;;;x
+embrace_ashari_desc; 你皈依了艾什尔里——逊尼派的一支，他们因袭传统，注重天启说和偶因论。这将有助积累你的虔诚，但与之对立的穆尔太齐赖派信徒会不高兴。;;;;;;;;;;x
 opinion_rejected_school;对立教派;;;;;;;;;;x
-EVTDESC_SoA_603;[From.GetTitledFirstName]是木塔兹拉派的追随者，与你信奉的艾什尔里教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
+EVTDESC_SoA_603;[From.GetTitledFirstName]是穆尔太齐赖派的追随者，与你信奉的艾什尔里教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
 EVTOPTA_SoA_603;是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_603;不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_604;你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_604;我注意到你追随异端木塔兹拉教派，他们的教义和观点亵渎了真主和先知(愿宁静与他们同在)的教导。我迫切要求你改奉艾什尔里派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_604;我注意到你追随异端穆尔太齐赖教派，他们的教义和观点亵渎了真主和先知(愿真主福安之)的教导。我迫切要求你改奉艾什尔里派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
 EVTOPTA_SoA_604;是的，可能这样才最好…;;;;;;;;;;x
 EVTOPTB_SoA_604;绝不！;;;;;;;;;;x
 EVTTOOLTIP_SoA_605;你回信郑重表示皈依艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_605;一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃木塔兹拉派的教义而改奉艾什尔里派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_605;一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃穆尔太齐赖派的教义而改奉艾什尔里派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_605;明智之举。;;;;;;;;;;x
 EVTTOOLTIP_SoA_606;你回信表示拒绝改信艾什尔里教派。;;;;;;;;;;x
 EVTDESC_SoA_606;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与真主及先知(愿真主福安之)的事。我不打算改信异端——艾什尔里教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_606;放肆…！;;;;;;;;;;x
-EVTDESC_SoA_611;[From.GetTitledFirstName]是艾什尔里教派的追随者。与你信奉的木塔兹拉教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
+EVTDESC_SoA_611;[From.GetTitledFirstName]是艾什尔里教派的追随者。与你信奉的穆尔太齐赖教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
 EVTOPTA_SoA_611; 是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_611; 不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_612; 你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_612; 我注意到你追随异端艾什尔里教派，他们的教义和观点亵渎了真主和先知(愿真主福安之)的教导。我迫切要求你改奉木塔兹拉派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_612; 我注意到你追随异端艾什尔里教派，他们的教义和观点亵渎了真主和先知(愿真主福安之)的教导。我迫切要求你改奉穆尔太齐赖派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
 EVTOPTA_SoA_612; 是的，可能这样最好…;;;;;;;;;;x
 EVTOPTB_SoA_612; 绝不！;;;;;;;;;;x
-EVTTOOLTIP_SoA_613; 你回信郑重表示皈依木塔兹拉教派。;;;;;;;;;;x
-EVTDESC_SoA_613; 一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃艾什尔里派的教义而改奉木塔兹拉派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
+EVTTOOLTIP_SoA_613; 你回信郑重表示皈依穆尔太齐赖教派。;;;;;;;;;;x
+EVTDESC_SoA_613; 一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃艾什尔里派的教义而改奉穆尔太齐赖派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_613;明智之举。;;;;;;;;;;x
-EVTTOOLTIP_SoA_614; 你回信表示拒绝改信木塔兹拉教派。;;;;;;;;;;x
-EVTDESC_SoA_614; 您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与真主及先知(愿真主福安之)的事。我不打算改信异端——木塔兹拉教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
+EVTTOOLTIP_SoA_614; 你回信表示拒绝改信穆尔太齐赖教派。;;;;;;;;;;x
+EVTDESC_SoA_614; 您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与真主及先知(愿真主福安之)的事。我不打算改信异端——穆尔太齐赖教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
 EVTOPTA_SoA_614;无礼之徒...!;;;;;;;;;;x
-EVTDESC_SoA_620;由于愤世嫉俗，你开始质疑艾什尔里教派的一些基本教义。你对敌对教派木塔兹拉 的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
+EVTDESC_SoA_620;由于愤世嫉俗，你开始质疑艾什尔里教派的一些基本教义。你对敌对教派穆尔太齐赖的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
 EVTOPTA_SoA_620;或许我已经误入歧途…;;;;;;;;;;x
 EVTOPTB_SoA_620;不行！我要清除掉脑中这些异端思想。;;;;;;;;;;x
-EVTDESC_SoA_621;由于对信仰的极端狂热，你开始质疑木塔兹拉教派的一些基本教义。你对敌对教派艾什尔里的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
+EVTDESC_SoA_621;由于对信仰的极端狂热，你开始质疑穆尔太齐赖教派的一些基本教义。你对敌对教派艾什尔里的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
 EVTOPTB_SoA_621;不行！我要清除掉脑中这些错误观念。;;;;;;;;;;x
 EVTDESC_TOG_1191;§Y[From.GetTitledName]§!在§Y[FromFrom.County.GetName]§!地区的§Y[FromFrom.GetName]§!围城战中被叛军杀害。;;;;;;;;;;x
 ACHIEVEMENT_GAINED_SETUP;研究完成！;;;;;;;;;;x

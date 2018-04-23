@@ -127,7 +127,7 @@ council_greek;教会法庭;;;;;;;;;;x
 council_jewish_group;评议会;;;;;;;;;;x
 council_muslim;议会;;;;;;;;;;x
 council_shiite;内阁;;;;;;;;;;x
-obj_become_king_desc;[This.GetTitledFirstName] 想成为 [Root.GetKingQueen] 的 [This.Capital.Kingdom.GetName]. 允许 [This.GetObjectPronoun] 对异教徒使用"征服"的宣战理由. 如果正进行伪造宣称任务, 有几率获得 [This.Capital.Kingdom.GetName] 的宣称. 如果 [This.Capital.Kingdom.GetTier] 尚不存在, 将降低创建花费.;;;;;;;;;;x
+obj_become_king_desc;[This.GetTitledFirstName]想成为[This.Capital.Kingdom.GetName]的[Root.GetKingQueen]。允许[This.GetObjectPronoun]对异教徒使用“征服”的宣战理由。如果正在进行伪造宣称任务，有几率获得[This.Capital.Kingdom.GetName]的宣称。如果[This.Capital.Kingdom.GetTier]尚不存在，将降低创建花费。;;;;;;;;;;x
 action_fabricate_claims_desc;让你的[GetChancellorName]去伪造当地领主所拥有的头衔的宣称。高技能的[GetChancellorName]有可能伪造公爵领的宣称。只有拥有成为国王的野心才有可能伪造王国的宣称。;;;;;;;;;;x
 tooltip_obj_gain_any_title_success;获得领主的头衔;;;;;;;;;;x
 obj_gain_any_title_title;获得头衔;;;;;;;;;;x
@@ -187,7 +187,7 @@ ASSIGN_VOTER_TITLE_INTERACTION_0;选择一个荣誉头衔授予给§Y[Recipient.
 ASSIGN_VOTER_TITLE_INTERACTION_1;把 §Y[ThirdPartyTitle.GetFullName]§!的头衔授予§Y[Recipient.GetTitledFirstName]§!。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;这会增加[Recipient.GetPossPronoun]对你的$OPINION|+$点看法。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_DESC;用一个荣誉头衔来任命一个角色进入内阁。;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁职位来安抚你的封臣并且让他们不会加入反对你的派系。;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过发放一个荣誉头衔和内阁席位来安抚你的封臣并且让他们不会加入反对你的派系。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\n我希望任命你进入我的内阁，因而提供给你§Y[ThirdPartyTitle.GetFullName]§!的头衔。;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;被任命的内阁成员;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!把§Y[Recipient.GetBestName]§! 任命为[ThirdPartyTitle.GetFullName];;;;;;;;;;x
@@ -201,8 +201,8 @@ REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;被开除的内阁成员;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!收回了§Y[Recipient.GetBestName]§!的 §Y[ThirdPartyTitle.GetFullName]§!头衔，将[Recipient.GetHerHim]从宫廷中辞退。;;;;;;;;;;x
 alert_council_discontent_instant;§Y内阁不满§!;;;;;;;;;;x
 alert_liege_council_discontent_instant;§Y你领主的内阁不满§!;;;;;;;;;;x
-experimenter;神鬼莫测的指挥官;;;;;;;;;;x
-experimenter_desc;此人被认为是战场上不可预料的因素. 敌人不知道它何时发挥作用，你们自己也不知道!;;;;;;;;;;x
+experimenter;正面作战领袖;;;;;;;;;;x
+experimenter_desc;此人更倾向于与敌人正面作战并将复杂的战术执行留给他人。;;;;;;;;;;x
 EVTOPTB96502;实验新战术.;;;;;;;;;;x
 DECLARE_WAR_INTERACTION_DISCONTENT_REASON;对 [Recipient.GetBestName]有$WAR$的宣称;;;;;;;;;;x
 excessive_bureaucracy;官僚作风;;;;;;;;;;x
@@ -507,7 +507,7 @@ EVTDESC_ZE_8016;亲爱的[Root.GetTitledName]，\n我希望这个人没有造成
 EVTOPTA_ZE_8016;一切都好;;;;;;;;;;x
 EVTOPTA_ZE_8013_TOOLTIP;撕毁互不侵犯条约;;;;;;;;;;x
 request_council_position_tooltip;发送请求;;;;;;;;;;x
-request_council_position;要求内阁职位;;;;;;;;;;x
+request_council_position;要求内阁席位;;;;;;;;;;x
 request_council_position_desc;我可以联系我领主§Y[Root.GetTitledFirstName]§!，要求在内阁中获得位置。这种事情每两年只能做一次。;;;;;;;;;;x
 requested_council_position;被要求的内阁位置;;;;;;;;;;x
 ask_for_land_tooltip;提出要求;;;;;;;;;;x
@@ -587,9 +587,9 @@ COUNCIL_EMPTY_VOTER_TITLE;空的选举头衔;;;;;;;;;;x
 COUNCIL_POSITION_NUM_VOTERS;选民人数: $NUM|Y$;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_COOLDOWN;你将在$NUM|Y$月后改变职位。;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION;通过点击界面顶部的位置可以改变内阁的职位。;;;;;;;;;;x
-COUNCIL_CHANGE_POSITION_CLICK;§G通过点击来改变你的内阁职位到$POSITION|Y$§!;;;;;;;;;;x
-COUNCIL_CHANGE_POSITION_TITLE;改变内阁职位吗？;;;;;;;;;;x
-COUNCIL_CHANGE_POSITION_CONFIRM;在你改变职位后，你将在$NUM|Y$月内无法再次改变。\n你确定改变内阁职位为$POSITION|Y$？;;;;;;;;;;x
+COUNCIL_CHANGE_POSITION_CLICK;§G通过点击来改变你的内阁席位到$POSITION|Y$§!;;;;;;;;;;x
+COUNCIL_CHANGE_POSITION_TITLE;是否改变内阁席位？;;;;;;;;;;x
+COUNCIL_CHANGE_POSITION_CONFIRM;在你改变职位后，你将在$NUM|Y$个月内无法再次改变。\n你确定改变内阁席位为$POSITION|Y$？;;;;;;;;;;x
 ALL_DE_JURE_LIEGES_TITLES;所有合法的皇家头衔;;;;;;;;;;x
 INTERACTION_REQUIRES_SAME_COUNCIL;是在同一个内阁;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_FAVORS;§Y[Recipient.GetTitledFirstName]§!不欠§Y[Actor.GetTitledFirstName]§!的人情。;;;;;;;;;;x
@@ -638,7 +638,7 @@ MOST_POWERFUL_VASSAL_TOOLTIP;是实力最强的封臣;;;;;;;;;;x
 NOT_AMONG_MOST_POWERFUL_VASSALS_TOOLTIP;根据实力不属于顶级$VALUE|Y$封臣;;;;;;;;;;x
 NOT_MOST_POWERFUL_VASSAL_TOOLTIP;不是实力最强的封臣;;;;;;;;;;x
 LOOTING_FORBIDDEN_NON_AGGRESSION;因为有与$CHAR|Y$的互不侵犯条约所以不允许掠夺。;;;;;;;;;;x
-IS_A_POWERFUL_VASSAL;§Y被认为是你领内一个强大的封臣§!;;;;;;;;;;x
+IS_A_POWERFUL_VASSAL;§Y被认为是你领内一个强大的封臣。§!;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_INTERACTION_1;撤销§Y[Recipient.GetTitledFirstName]§!的§Y[ThirdPartyTitle.GetFullName]§!头衔。;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_OPINION;这将改变你的[Recipient.GetPossPronoun]评价$OPINION|+$。;;;;;;;;;;x
 REVOKE_HONORARY_TITLE_SPLIT_OPINION;这将改变你的[Recipient.GetPossPronoun]评价$OPINION|+$。（$TITLE_OPINION|+$距离失去头衔，$REVOKE_OPINION|+$距离使得[Recipient.GetObjectPronoun]失望。）;;;;;;;;;;x

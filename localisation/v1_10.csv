@@ -378,7 +378,7 @@ west_african_pagan;西非信仰;;;;;;;;;;x
 west_african_pagan_reformed;西非信仰;;;;;;;;;;x
 TT_NOT_UNREFORMED_PAGAN;是改革过的异教徒\n;;;;;;;;;;x
 REBELS;叛军;;;;;;;;;;x
-GOD_PERUN;佩龙;;;;;;;;;;x
+GOD_PERUN;佩伦;;;;;;;;;;x
 GOD_VELES;韦莱斯;;;;;;;;;;x
 GOD_JARILO;雅里洛;;;;;;;;;;x
 GOD_SVAROG;斯瓦罗格;;;;;;;;;;x
@@ -629,7 +629,7 @@ WAR_NAME_LIBERATION_REVOLT;$ORDER$解放 [Title.GetBaseName];;;;;;;;;;x
 liberation_revolt_desc;外国君主统治下的臣民会试图起兵复国.;;;;;;;;;;x
 NATIONALIST_REVOLT;[Root.Kingdom.GetAdjective] 复国叛乱;;;;;;;;;;x
 DECADENCE_REVOLT;[Root.PrimaryTitle.GetAdjective] 颓废叛乱;;;;;;;;;;x
-CANNOT_CANCEL_AMBITION;不能打消这个野心.;;;;;;;;;;x
+CANNOT_CANCEL_AMBITION;不能打消这个野心。;;;;;;;;;;x
 pagan_subjugation_tip;§Y[Root.GetTitledFirstName]§! 夺取了 §Y[From.GetTitledFirstName]§! 在 §Y[This.GetFullBaseName]§!的所有头衔。\n;;;;;;;;;;x
 caliphal_subjugation_desc;每 §Y10§! 年，哈里发可以花费§Y200§!虔诚来征服一个同教派的穆斯林领主.;;;;;;;;;;x
 muslim_county_conquest_desc;穆斯林可以以 §Y50§! 虔诚，不需任何理由来征服一个单领地国家.;;;;;;;;;;x
@@ -766,7 +766,7 @@ EVTDESC304;[FromFrom.Mother.GetFirstName] 生了另一个男人的小孩!我无�
 EVTDESC410;我肯定有了孩子... 我的领主肯定会很开心;;;;;;;;;;x
 EVTDESC412;噢亲爱的	我肯定有了小孩.我的领主会相信是他的种吗;;;;;;;;;;x
 EVTOPTA412;好消息亲爱的!;;;;;;;;;;x
-EVTDESC413;命运向我微笑	我的侍妾 [From.GetFirstName] 怀孕了!;;;;;;;;;;x
+EVTDESC413;命运向我微笑，我的侍妾[From.GetFirstName]怀孕了!;;;;;;;;;;x
 EVTTOOLTIP413;告诉[Root.FatherOfUnborn.GetFirstName] 他将成为父亲;;;;;;;;;;x
 SEARCH_COURT;搜索宫廷;;;;;;;;;;x
 HINT_MIL_VIEW_TEXT_4;'圣战士' 标签页列出了伟大的宗教圣战士.他们能够像雇佣军那样雇佣，但是召集它将花费[Player.Religion.GetPietyName]而不是金钱，但你还是要支付他们的维护费.圣战士的出现以他们历史上的时间为基准.;;;;;;;;;;x
@@ -1095,7 +1095,7 @@ EVTDESC_TOG_610;[From.GetTitledFirstName] 已经从你的地牢里押往圣殿. 
 EVTOPTA_TOG_610;众神之神	我们在此为您献上牺牲...;;;;;;;;;;x
 EVTOPTB_TOG_610;不	我改变主意了.;;;;;;;;;;x
 EVTDESC_TOG_611;[From.GetTitledFirstName] 已经从你的地牢里押往圣殿. 绞索已经套到了[From.GetHerHis]脖子上	[From.GetSheHe]控制住了[From.GetHerselfHimself]	并默念几句话.你知道那是几句他们基督徒圣经中的箴言.;;;;;;;;;;x
-EVTOPTA_TOG_611;你那仁慈的圣母玛利亚怎么没来救你啊	[From.GetFirstName];;;;;;;;;;x
+EVTOPTA_TOG_611;你那仁慈的圣母玛利亚怎么没来救你啊，[From.GetFirstName]？;;;;;;;;;;x
 EVTOPTB_TOG_611;哦	这也许不是个好主意...;;;;;;;;;;x
 EVTDESC_TOG_612;[From.GetTitledFirstName] 已经从你的地牢里押往圣殿. 你的卫兵已经绞索已经套到了[From.GetHerHis]脖子上.这时[From.GetSheHe]闭眼默念了几句伊斯兰教经书中的箴言.;;;;;;;;;;x
 EVTOPTA_TOG_612;兄弟	你马上就要去见你的先知啦.;;;;;;;;;;x
@@ -1421,13 +1421,13 @@ opinion_jarilo;举办亚利罗节;;;;;;;;;;x
 opinion_refused_jarilo;拒绝庆祝亚利罗;;;;;;;;;;x
 opinion_represented_jarilo;亚利罗替身;;;;;;;;;;x
 hold_jarilo;举办亚利罗节;;;;;;;;;;x
-hold_jarilo_desc;庆祝丰收之神亚利罗，雷电神佩龙之子，以及春天的到来.;;;;;;;;;;x
+hold_jarilo_desc;庆祝丰收之神亚利罗，雷电神佩伦之子，以及春天的到来.;;;;;;;;;;x
 prepare_jarilo;你开始为亚利罗节做准备.;;;;;;;;;;x
 jarilo_deliberations;开始考虑.;;;;;;;;;;x
 EVTDESC_TOG_800;邀请你的封臣们参加亚利罗节的庆典的请柬已经送出.你已经决定要让今年的这个节日成为独一无二的，让诸神和参加的人回味多年.;;;;;;;;;;x
 EVTTOOLTIP_TOG_801;送出邀请参加亚利罗节的请柬.;;;;;;;;;;x
 EVTDESC_TOG_801;你的领主[From.GetTitledFirstName]已经邀请你同[From.GetHerHim]一起参加丰收之神亚利罗的庆典.这会是一场宏大的庆典来预示春天的到来.;;;;;;;;;;x
-EVTDESC_TOG_802;[From.GetTitledFirstName]拒绝了你的节日邀请！显然[From.GetSheHe]不信仰亚利罗，佩龙或者其他诸神，而是信奉一些其他陌生宗教的奇怪仪式.;;;;;;;;;;x
+EVTDESC_TOG_802;[From.GetTitledFirstName]拒绝了你的节日邀请！显然[From.GetSheHe]不信仰亚利罗，佩伦或者其他诸神，而是信奉一些其他陌生宗教的奇怪仪式.;;;;;;;;;;x
 EVTDESC_TOG_803;你的封臣们都已经到了，现在是时候开始你的亚利罗庆典了.作为每年的传统，他们中的一个会被选为亚利罗的替身游行.应该选谁呢;;;;;;;;;;x
 EVTOPTA_TOG_803;让我们决定.;;;;;;;;;;x
 EVTDESC_TOG_804;庆祝亚利罗和春天到来的节日终于开始了.作为每年的传统，你们中的一个会被选为亚利罗的替身并四处游行.应该选谁呢;;;;;;;;;;x
@@ -1436,10 +1436,10 @@ EVTDESC_TOG_806;随着外面的庆典渐近尾声，你和你的领主以及[Fro
 EVTDESC_TOG_807;这个季节你对亚利罗的祭拜已经结束了，你的封臣们正在回家的路上.他们中的大部分人都认为这次赶来参加亚利罗庆典十分值得.;;;;;;;;;;x
 EVTDESC_TOG_808;这个季节你对亚利罗的祭拜已经结束了，宴会也接近尾声.你和其他的封臣正在回家的路上，但是你们全都认为这次赶来参加亚利罗庆典十分值得.;;;;;;;;;;x
 EVTDESC_TOG_845;经过深思熟虑，你被选为亚利罗的替身！你被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，你四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
-EVTOPTA_TOG_845;佩龙之子亚利罗万岁！;;;;;;;;;;x
+EVTOPTA_TOG_845;佩伦之子亚利罗万岁！;;;;;;;;;;x
 EVTOPTB_TOG_845;我感觉自己像个八嘎.;;;;;;;;;;x
 EVTDESC_TOG_846;今年[From.GetTitledFirstName]被选为亚利罗的替身！他被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，[From.GetFirstName]四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
-EVTOPTA_TOG_846;佩龙之子亚利罗万岁！;;;;;;;;;;x
+EVTOPTA_TOG_846;佩伦之子亚利罗万岁！;;;;;;;;;;x
 EVTOPTB_TOG_846;看那个傻逼.;;;;;;;;;;x
 EVTDESC_TOG_848;因为没有合适的封臣，今年有你自己来做亚利罗的替身.你被披上了迷人的外罩，上面系着小铃铛.手中挥动着一把木锤象征着雷电，你四处游行，又唱又跳，身后跟着吵闹的人群.;;;;;;;;;;x
 EVTDESC_TOG_3200;一个声称自己是渥尔娃女巫的女人被带到你面前，她请求加入你的宫廷.如果她的巫术像她声称的那样厉害而且她确实能预测未来，她的价值是不可估量的...;;;;;;;;;;x
@@ -1468,7 +1468,7 @@ begone_witch;你把这个可恶的家伙赶走了.;;;;;;;;;;x
 away_witch;你的人把这个女人拖了出去并把她扔进了附近的一堆垃圾中.;;;;;;;;;;x
 no_witch;你发出清晰的指令，不要让任何女巫靠近你的长屋.;;;;;;;;;;x
 title_volva;宫廷渥尔娃女巫;;;;;;;;;;x
-title_volva_desc;渥尔娃女巫被认为是强大的会使用巫术的女预言家.她还会诅咒和预测未来.;;;;;;;;;;x
+title_volva_desc;渥尔娃女巫被认为是强大的会使用巫术的女预言家。她还会诅咒和预测未来。;;;;;;;;;;x
 CONFIRM_DISBAND_EVTSWN;\n§R所有的特别事件部队都会被解散!§!;;;;;;;;;;x
 CONFIFM_DISBAND_NO_EVTSWN;\n特别事件部队不会被解散.;;;;;;;;;;x
 EVTDESC_TOG_3252;[From.GetTitledName]在你离开你的长屋的时候截住了你，并用恳求的语气对你说.必须净化[FromFrom.GetFirstName]体内隐藏的魔鬼	[FromFrom.GetSheHe]也把那人随[FromFrom.GetHerHim]带来了.除此之外没有别的办法.我可以施展一种咒术仪式，坦白的说 - 这个孩子也许有可能经受不住这一考验.但是，恶魔必须被击败.;;;;;;;;;;x
@@ -1504,13 +1504,13 @@ waldensian_DESC;瓦勒度派异端原本只是天主教会中的一股改革浪�
 lollard_DESC;罗拉德派异端反对天主教会的腐败.和许多天主教异端一样，他们憎恨生活奢华，拥有大量财富的教职人员，希望回归更原始更纯粹的基督教.这个异端没有正式的领袖和专门对应的的游戏机制.;;;;;;;;;;x
 orthodox_DESC;正教会是另外一个参加查尔西顿会议的基督教主要分支	直到公元1054年还在形式上和天主教会合为一体	虽然两者政治上的分歧可以追溯到公元800年查理曼被教宗利奥三世加冕为罗马人的皇帝	这引起了君士坦丁堡的皇帝的不满. 正教会的名义首领是君士坦丁堡普世牧首	但是他不干涉其他牧首的事务.;;;;;;;;;;x
 miaphysite_DESC;合性论基督教包括科普特教会和亚美尼亚使徒教会. 合性论强调基督只有一个性质，而不是既有神性又有人性. 这种观点使他们在公元451年的迦克敦会议后与主流基督教派分道扬镳. 虽然正教会和天主教会没有认为它是完全的异端，但与它还是有细微的差别. 合性论教会名义上的首领是亚历山大教宗;;;;;;;;;;x
-monophysite_DESC;基督一性派是早期基督教的一种异端，认为基督只有神性. 这与聂斯脱里派的基督同时具有神性和人性的观点相反. 与基督合性派密切相关，一性论教会在游戏里被认为是基督合性派的一种异端. 一性论教会名义上的首领是亚历山大一性派教宗;;;;;;;;;;x
+monophysite_DESC;基督一性派是早期基督教的一种异端，认为基督只有神性。这与聂斯脱里派的基督同时具有神性和人性的观点相反。与基督合性派密切相关，一性论教会在游戏里被认为是基督合性派的一种异端。一性论教会名义上的首领是亚历山大一性派教宗。;;;;;;;;;;x
 monothelite_DESC;基督一志论是基督论的一种，在681年被宣布为异端. 基督一志论教会发展了基督合性论和一性论教会关于基督只有一个性质的观点，认为基督既有人性又有神性，但是只有一种意志. 一志论教会的名义首领是安条克一志论牧首.;;;;;;;;;;x
-sunni_DESC;伊斯兰逊尼派是至今为止传播最广的宗教. 在伊斯兰教两大派系中逊尼派被认为是正统派	但是逊尼派和什叶派的分裂源头实际上只是政治上的分歧. 逊尼派承认第一个哈里发艾布·伯克尔的合法性	而什叶派拒绝承认他的合法性而认为阿里才是合法的哈里发. 逊尼派穆斯林严格遵循圣训	即穆罕默德说过的话和做过的事	圣训还构成了逊尼派立法的基础. 伊斯兰逊尼派的正式首领是(逊尼派)哈里发.;;;;;;;;;;x
+sunni_DESC;伊斯兰逊尼派是至今为止传播最广的宗教。在伊斯兰教两大派系中逊尼派被认为更为正统，但是逊尼派和什叶派的分裂源头实际上只是政治上的分歧。逊尼派承认第一个哈里发艾布·伯克尔的合法性，而什叶派拒绝承认他的合法性而认为阿里才是合法的哈里发。逊尼派穆斯林严格遵循圣训-即穆罕默德说过的话和做过的事。这同时也构成了逊尼派立法的基础。 伊斯兰逊尼派的正式首领是(逊尼派)哈里发。;;;;;;;;;;x
 zikri_DESC;伊斯兰诵经派在游戏中是一个逊尼派的异端. 诵经派是Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.)的追随者;;;;;;;;;;x
 shiite_DESC;什叶派Shi'a是Shi'atul Ali的缩写	或称为阿里派	他们拒绝承认第一个哈里发艾布·伯克尔的合法性而认为阿里才是合法的哈里发. 在伊斯兰两大派系中什叶派比较而言正统性略低	什叶派相信隐遁伊玛目是救世主的观点. 伊斯兰什叶派的正式首领是(什叶派)哈里发.;;;;;;;;;;x
 bektashi_DESC;拜克塔什教团是一个苏菲神秘主义教团	中心信条是Wahdat-ul-Wujood。	即真主穆罕默德阿里合一。在游戏中它被认为是一种异端。;;;;;;;;;;x
-druze_DESC;德鲁兹派源自伊斯兰什叶派的伊斯玛仪教派	在亚伯拉罕宗教的基础上又吸收了诺斯替主义和新柏拉图主义;;;;;;;;;;x
+druze_DESC;德鲁兹派源自伊斯兰什叶派的伊斯玛仪教派	在亚伯拉罕宗教的基础上又吸收了诺斯替主义和新柏拉图主义的特点。;;;;;;;;;;x
 norse_pagan_reformed_DESC;改革的诺斯原始宗教信仰有一本如尼字母写成的圣书	包括创世	诸神	诸神的黄昏	以及神秘咒语'galdrs'等章节. 它的教会有一套标准化的礼拜仪式和以Fylkir为首领的正规教会结构	Fylkir相当于伊斯兰教的哈里发	对信徒来说既是世俗的统治者又是宗教的首领.;;;;;;;;;;x
 tengri_pagan_reformed_DESC;改革的长生天信仰有一本用鄂尔浑符文写成的圣书	一套标准化的礼拜仪式和以长生天大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 tengri_pagan_DESC;腾格里信仰是欧亚大草原上突厥人和蒙古人的游牧部落信奉的宗教. 主神是创世神腾格里天神. 这一宗教具有鲜明的萨满教和泛灵教特征.;;;;;;;;;;x
@@ -1520,8 +1520,8 @@ finnish_pagan_reformed_DESC;改革的芬兰信仰有一本圣书	包括创世神
 finnish_pagan_DESC;芬兰原始宗教多种多样	不同部落和地区变化很大. 它具有萨满教和泛灵论的特征	崇拜很多神灵	包括Ukko/Perkele	Kuu	以及东方的大地女神Mastor-Ava.;;;;;;;;;;x
 aztec_reformed_DESC;改革的阿兹特克信仰有一本真正的圣书	一套标准化的礼拜仪式和以专门的大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 aztec_DESC;阿兹特克信仰的创世神话里充满着献祭 - 为了让太阳保持运转甚至诸神也要被献祭. 这反映在许多该宗教的节日和仪式里的大规模人祭上. 主神包括战神人祭之神维齐洛波奇特利Huitzilopochtli	雷神雨神特拉洛克Tlaloc	火神修堤库特里	剥皮之主西佩托堤克Xipe Totec	以及智慧之神羽蛇神奎兹特克Quetzalcoatl.;;;;;;;;;;x
-slavic_pagan_reformed_DESC;改革的斯拉夫信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由Perun大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
-slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰	主神是雷电之神Perun	类似日耳曼人的雷神托尔. 其他重要的神灵包括大地水和冥界之神Veles	火神Svarog	繁衍植物生长战争与丰收之神Jarilo以及Svantevit. 此外	许多部落崇拜当地的神灵.;;;;;;;;;;x
+slavic_pagan_reformed_DESC;改革的斯拉夫信仰有一本圣书	包括创世神话	诸神章节以及一本预言书. 该教会有一套标准化的礼拜仪式以及由佩伦大祭司为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
+slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰，主神是雷电之神佩伦，类似日耳曼人的雷神托尔. 其他重要的神灵包括大地水和冥界之神维列斯，火神斯瓦洛格，繁衍植物生长战争与丰收之神亚利洛以及Svantevit。此外许多部落崇拜当地的神灵。;;;;;;;;;;x
 west_african_pagan_reformed_DESC;改革的西非宗教信仰是许多种流行信仰的熔合	有一本圣书记述了创世神话	诸灵	动物图腾和诸神的传说. 该教会有一套标准化的礼拜仪式以及由大祭司(或者女祭司)为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 west_african_pagan_DESC;西非宗教信仰是对撒哈拉沙漠以南的西非部落各种原始宗教的泛称. 以祖先崇拜	泛灵论	图腾崇拜以及萨满教为主	除此还有很多很多的神.;;;;;;;;;;x
 zoroastrian_DESC;祆教崇拜阿胡拉·马兹达	古伊朗先知琐罗亚斯德认为阿胡拉·马兹达是创世神. 直到公元651年穆斯林征服萨珊王朝为止	它是所有波斯帝国的国教(除了希腊的塞琉古帝国). 古老的宗教礼仪包括圣山顶上的圣火	天葬	以及效仿阿胡拉·马兹达和琐罗亚斯德的近亲结婚.;;;;;;;;;;x
@@ -1534,8 +1534,8 @@ title_noyan;那颜;;;;;;;;;;x
 title_noyan_desc;这一头衔最初授予战场上的蒙古指挥官，在授予那些征服后土地的治理者时，意味着一个很高的贵族头衔.;;;;;;;;;;x
 title_baghatur;巴特尔;;;;;;;;;;x
 title_baghatur_desc;这个称呼意味着英雄或英勇的战士，大致相当于欧洲的骑士身份.通常只授予那些的确在战斗中战功卓著的人.;;;;;;;;;;x
-title_lawspeaker;法律演讲人;;;;;;;;;;x
-title_lawspeaker_desc;法律演讲人记录王国的法律并服务于最高法官.不必多说，这意味着很高的荣誉和责任;;;;;;;;;;x
+title_lawspeaker;法律宣讲官;;;;;;;;;;x
+title_lawspeaker_desc;法律宣讲官熟记领地的法律并服务于最高法官。当然，这意味着很高的荣誉和责任。;;;;;;;;;;x
 title_drottseti;大总管;;;;;;;;;;x
 title_drottseti_desc;大总管是王国的财政官，类似于管家.在过去这是很高的荣誉.;;;;;;;;;;x
 title_court_skald;宫廷诗人;;;;;;;;;;x
@@ -1649,9 +1649,9 @@ EVTOPTB200;我们不关心...;;;;;;;;;;x
 EVTOPTC200;愚蠢的异端！;;;;;;;;;;x
 EVTOPTD200;拿起武器！;;;;;;;;;;x
 EVTOPTE200;可怕的消息！;;;;;;;;;;x
-EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
+EVTDESC320;伟大的[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起一场对抗异教徒的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
 EVTOPTA320;安拉至大！;;;;;;;;;;x
-EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德战争.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
+EVTDESC322;[Root.Religion.GetName] [Root.GetTitledFirstName]决定在[From.GetFullBaseName]发起对抗异教的吉哈德.他号召所有正义的[Root.Religion.GetName]穆斯林为了伊斯兰拿起武器反抗堕落的[New.GetTitledName].\n\n 伟大的真主！;;;;;;;;;;x
 EVTDESC323;至正的[Root.Religion.GetName] [Root.GetTitledFirstName]深深的担心[From.GetFullBaseName]迷失信仰的人们，他们中的多数都难以称之为穆斯林.他号召所有真正的([Root.Religion.GetName])穆斯林为了伊斯兰的荣光拿起武器反抗异教徒[New.GetTitledName].\n\n 仁慈的真主！;;;;;;;;;;x
 EVTDESC324;伟大的[Root.GetTitledFirstName]认为是时候教教[New.GetTitledName]以及那些信仰钉死在十字架上的神的信徒什么是谦虚.所有自由的[Root.Religion.GetName]都被邀请加入洗劫[From.GetFullBaseName]！\n\n [Root.Religion.GetRandomGodNameCap]与我们同在！;;;;;;;;;;x
 EVTOPTA324;为了[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
@@ -1791,7 +1791,7 @@ EVTOPTA_TOG_3320;听着不错！;;;;;;;;;;x
 viking;维京;;;;;;;;;;x
 viking_desc;这个角色获得了可怕的维京海盗称号;;;;;;;;;;x
 EVTNAME39640;什叶派的崛起;;;;;;;;;;x
-EVTDESC39640;伊斯兰的宗派分裂要追溯到早期.大多是逊尼派信徒长期虐待阿里的追随者——什叶派，迫使他们躲起来.游击队寻找阿里的后人来领导他们，但他们却被迫保守他们血统的秘密.不过现在，什叶派聚集到了一个孩子周围，声称他是阿里的后人和伊玛目.其他伊斯兰法学家说这个孩子是个骗子，但对于追随者来说他就是他们一直在等的人，并聚集到了他的旗帜下.;;;;;;;;;;x
+EVTDESC39640;伊斯兰的宗派分裂要追溯到早期.大多是逊尼派信徒长期迫害阿里的追随者——什叶派，迫使他们躲藏起来。游击队寻找阿里的后人来领导他们，但他们却被迫保守他们血统的秘密。不过现在，什叶派聚集到了一个孩子周围，声称他是阿里的后人和伊玛目。其他伊斯兰法学家说这个孩子是个骗子，但对于追随者来说他就是他们一直在等的人，并聚集到了他的旗帜下。;;;;;;;;;;x
 EVTOPTA39640;他不过是个小孩子！;;;;;;;;;;x
 EVTOPTB39640;为了安拉和阿里！;;;;;;;;;;x
 EVTOPTC39640;分裂者必须被摧毁.;;;;;;;;;;x

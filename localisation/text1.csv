@@ -29,9 +29,9 @@ AIREASON_DARE_NOT_REFUSE;不敢拒绝;;;;;;;;;;x
 AIREASON_CONFLICTING_INTERESTS;利益冲突;;;;;;;;;;x
 AIREASON_SAME_REALM;相同势力;;;;;;;;;;x
 AIREASON_GREED;贪婪;;;;;;;;;;x
-AIREASON_LAND_IS_GOOD;土地即是好;;;;;;;;;;x
+AIREASON_LAND_IS_GOOD;寸土不让;;;;;;;;;;x
 AIREASON_FEAR;害怕 §Y[GetTitledFirstName]§!;;;;;;;;;;x
-AIREASON_GOLD_IS_GOOD;金钱即是好;;;;;;;;;;x
+AIREASON_GOLD_IS_GOOD;君子爱财;;;;;;;;;;x
 AIREASON_CONSANGUINITY;同一家族;;;;;;;;;;x
 AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§! 太年轻;;;;;;;;;;x
 AIREASON_GOT_MORE_ADVANCED_PLOT;已经策划了一个类似的阴谋;;;;;;;;;;x
@@ -346,14 +346,14 @@ GREET_ADJ_GOOD_2;荣耀的;;;;;;;;;;x
 GREET_ADJ_GOOD_3;光荣的;;;;;;;;;;x
 GREET_ADJ_GOOD_4;英雄般的;;;;;;;;;;x
 GREET_ADJ_GOOD_5;杰出的;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_0;你的恶行从爱尔兰到契丹不知，无人不晓。;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_0;你的恶行从爱尔兰到契丹无人不知，无人不晓。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_1;你下贱的品行有如希腊戏剧的主角一般。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_2;愿你的体液在躯体里朽烂。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_3;愿你的一生短暂而不幸。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_4;愿智慧永远弃你而去。;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_0;诅咒你的七代祖宗！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_1;愿你活活被缝进死骆驼的肚子里！;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_2;愿安拉摧毁你的家族！;;;;;;;;;;x
+DIPLOFLAVOR_INSULT_muslim_2;愿真主降灾于你全家！;;;;;;;;;;x
 DIPLOFLAVOR_INSULT_muslim_3;你这条污秽的狗。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_0;祝您和您的家人平安。;;;;;;;;;;x
 DIPLOFLAVOR_FLATTERY_1;您的智慧与仁德广为传颂。;;;;;;;;;;x
@@ -3155,7 +3155,7 @@ EVTDESC38258;这个世界中充满了谎言.我开始变得长于猜忌.;;;;;;;;
 EVTDESC38159;[FromFrom.GetFirstName] 看起来很喜欢他人痛苦的样子. [FromFrom.GetSheHeCap] 开始变得残酷无情.;;;;;;;;;;x
 EVTDESC38259;我喜欢看别人受苦，听他们的哭声，我开始变得残酷无情.;;;;;;;;;;x
 EVTDESC38160;[FromFrom.GetFirstName] 是那么的谦虚有礼. [FromFrom.GetSheHeCap]开始变得谦虚谨慎.;;;;;;;;;;x
-EVTDESC38260;所有的人都值得我尊重. 我开始变得谦虚谨慎.;;;;;;;;;;x
+EVTDESC38260;所有的人都值得我尊重. 我开始变得§Y谦虚§!谨慎.;;;;;;;;;;x
 EVTDESC38161;[FromFrom.GetFirstName] 变得[FromFrom.GetHerselfHimself]过于自信. [FromFrom.GetSheHeCap] 开始变得骄傲自大.;;;;;;;;;;x
 EVTDESC38261;我应得到所有人的尊重.我开始变得骄傲自大.;;;;;;;;;;x
 EVTDESC38162;[FromFrom.GetFirstName]总是会将真相告诉别人，并且从来不说假话. [FromFrom.GetSheHeCap] 开始变得诚实守信.;;;;;;;;;;x
@@ -3188,7 +3188,7 @@ EVTDESC38275;他们都想害我！我开始变得疑神疑鬼.;;;;;;;;;;x
 EVTDESC38176;[FromFrom.GetFirstName]做事总是恰到好处，从不过分. [FromFrom.GetSheHeCap] 变得温和稳健.;;;;;;;;;;x
 EVTDESC38276;节制乃是人生的金钥匙，我开始变得温和稳健.;;;;;;;;;;x
 EVTDESC38177;[FromFrom.GetFirstName] 看起来从不满足, 并且[FromFrom.GetHerselfHimself]用食物和饮料包围起来. [FromFrom.GetSheHeCap] 开始变得饕餮暴食.;;;;;;;;;;x
-EVTDESC38277;吃喝乃是人生之乐，我开始变得饕餮暴食.;;;;;;;;;;x
+EVTDESC38277;吃喝乃是人生之乐，我开始变得饕餮§Y暴食§!。;;;;;;;;;;x
 EVTDESC38178;[FromFrom.GetFirstName] 为[FromFrom.GetHerselfHimself]设立了一个远大理想, 并且为此努力奋斗. [FromFrom.GetSheHeCap] 开始变得雄心勃勃.;;;;;;;;;;x
 EVTDESC38278;为了得到我应得的目标，我会为之努力! 我开始变得雄心勃勃.;;;;;;;;;;x
 EVTDESC38179;[FromFrom.GetFirstName] 看起来很满足于[FromFrom.GetSheHe]已经拥有的事物. [FromFrom.GetSheHeCap] 开始变得安于现状.;;;;;;;;;;x
@@ -3869,7 +3869,7 @@ EVTDESC69046;我的神父严厉的和我谈过，让我尽量避免那些神秘�
 EVTOPTA69046;我会干，我绝对不会再摆弄神秘学！;;;;;;;;;;x
 EVTOPTB69046;否则怎样！你除了一些谣言什么也不知道！;;;;;;;;;;x
 EVTDESC69047;我只记住了那晚神秘声音告诉我的许多法术和药水成分的一部分.那是一份冗长而复杂的清单，里面有许多不同的成分，有一些原料是很难得……;;;;;;;;;;x
-EVTOPTA69047;这个法术对我有益;;;;;;;;;;x
+EVTOPTA69047;这个咒语对我有益;;;;;;;;;;x
 EVTOPTB69047;我必须放弃我的行为;;;;;;;;;;x
 EVTOPTC69047;教会在我身后，救救我！;;;;;;;;;;x
 EVTDESC69050;[Root.GetChancellorName][Root.job_chancellor.GetTitledFirstName]的外交能力真是糟透了！不管我交给[Root.job_chancellor.GetHerHim]什么任务, [Root.job_chancellor.GetSheHe]都会让我失望.;;;;;;;;;;x
@@ -4582,7 +4582,7 @@ EVTOPTA75106;给[From.GetHerHim]多余所需的士兵;;;;;;;;;;x
 EVTOPTB75106;告诉[From.GetHerHim]只带[From.GetHerHis]随从;;;;;;;;;;x
 EVTOPTA75110;那女孩撒谎！;;;;;;;;;;x
 EVTTOOLTIP75111;由[This.GetTitledFirstName]决定[Root.GetTitledFirstName]是否有罪;;;;;;;;;;x
-EVTOPTA75111;军事总管[From.GetTitledFirstName]将因[From.GetHerHis]罪行被奉！;;;;;;;;;;x
+EVTOPTA75111;军事总管[From.GetTitledFirstName]将因[From.GetHerHis]罪行被罚奉！;;;;;;;;;;x
 EVTOPTB75111;军事总管[From.GetTitledFirstName]将被逮捕;;;;;;;;;;x
 EVTOPTC75111;我不相信这一切.他的女儿肯定在撒谎;;;;;;;;;;x
 EVTTOOLTIP75114;[Root.GetTitledFirstName]找到[This.GetTitledFirstName]的清白的证据。;;;;;;;;;;x
@@ -4703,7 +4703,7 @@ HINT_SPLASH_TIME;王国风云II是一个可以随时暂停的即时游戏.这意
 HINT_CHAR_VIEW_TITLE;人物界面 ;;;;;;;;;;x
 HINT_CHAR_VIEW_TEXT_3;游戏里的每个人物都有对其他人的态度。态度的弹出提示解释这些态度的详细原因。计算机控制的人物会按照他们的态度行动。;;;;;;;;;;x
 HINT_CHAR_VIEW_TEXT_4;人物的家族在界面的右上部分显示。一个合格的继承人必须来自您自己的家族。您应该尽力扩展您的家族并确保他们获得尽可能多的头衔。;;;;;;;;;;x
-HINT_CHAR_VIEW_TEXT_5;有些人物肖像上有小图标，一个五角星表示这是您正在扮演的人物，一个皇冠凸显出您的继承人，一个小血滴则意味着这个人物来自您的家族。;;;;;;;;;;x
+HINT_CHAR_VIEW_TEXT_5;有些人物头像上有小图标，一个五角星表示这是您正在扮演的人物，一个皇冠凸显出您的继承人，一个小血滴则意味着这个人物来自您的家族。;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TITLE;宫廷界面 ;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_1;每个统治者都有一个内阁（御前会议）来协助治理领地。内阁里的五个职位都有一个主要的属性——外交，军事，财政，密谋和学习。这些廷臣的技能值将在领主处理国家事务时直接增加到领主的能力上。;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_2;廷臣可以被派遣到地图上的某个地区去执行各种任务.例如，宫廷的宗教导师可以被派遣去把某个区域和其中的人物转换为您的宗教. ;;;;;;;;;;x
@@ -4751,7 +4751,7 @@ HINT_HOLDING_VIEW_TEXT_3;一些建筑物只有在一个郡存在某个科技时�
 HINT_HOLDING_VIEW_TEXT_4;男爵领的拥有者，或者他的宗主或更高层，可以通过点击编辑改变男爵领的名字. ;;;;;;;;;;x
 HINT_UNIT_VIEW_TITLE;单位界面 ;;;;;;;;;;x
 HINT_UNIT_VIEW_TEXT_1;单位是军团或船只的集合，他们可以在男爵领里征召或者由雇佣兵或圣战士提供. ;;;;;;;;;;x
-HINT_UNIT_VIEW_TEXT_2;军队被组织成三个部分，左翼，中央和右翼.每一部分由一位军团指挥官指挥.中央军团的指挥官被认为是整个军队的指挥官. ;;;;;;;;;;x
+HINT_UNIT_VIEW_TEXT_2;军队被组织成三个部分，左翼，中央和右翼。每一部分由一位军团指挥官指挥.中央军团的指挥官被认为是整个军队的指挥官。;;;;;;;;;;x
 HINT_UNIT_VIEW_TEXT_3;军队在无法补给他们的省份上会受到损耗，在省份界面里察看补给上限. ;;;;;;;;;;x
 HINT_COMBAT_VIEW_TITLE;战斗界面 ;;;;;;;;;;x
 HINT_COMBAT_VIEW_TEXT_1;在战斗中，军队的三个部分面对面交锋——左翼面对右翼，中央对抗中央，右翼面对左翼. ;;;;;;;;;;x
@@ -5022,7 +5022,7 @@ RANSOM_CHARACTER_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! 将 §Y[Th
 RANSOM_CHARACTER_INTERACTION_DECLINE_SETUP;拒绝支付赎金;;;;;;;;;;x
 RANSOM_CHARACTER_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! 拒绝将 §Y[ThirdPartyCharacter.GetTitledFirstName]§!  赎出 §Y[Actor.GetBestName]§!的地牢;;;;;;;;;;x
 RANSOM_CHARACTER_INTERACTION_OFFER;[Actor.GetBestName]为[ThirdPartyCharacter.GetBestName]支付$RANSOM$赎金;;;;;;;;;;x
-RANSOM_CHARACTER_INTERACTION_LETTER;为了让 [ThirdPartyCharacter.GetBestName] 得到安全释放, 我们向您支付谦卑的赎金 $RANSOM$¤;;;;;;;;;;x
+RANSOM_CHARACTER_INTERACTION_LETTER;为了让 [ThirdPartyCharacter.GetBestName] 得到安全释放, 我们谦卑的向您支付赎金 $RANSOM$¤;;;;;;;;;;x
 EDUCATE_CHARACTER_INTERACTION_DESC;教育一个孩子;;;;;;;;;;x
 ABANDON_AMBITION_INTERACTION_TITLE;放弃阴谋;;;;;;;;;;x
 ABANDON_AMBITION_INTERACTION_DESC;要求此人放弃正在策划的阴谋.;;;;;;;;;;x
@@ -5589,8 +5589,8 @@ temple_county_of_christian;总铎区;;;;;;;;;;x
 temple_county_of_muslim;酋长国;;;;;;;;;;x
 temple_county_of_pagan_group;教区;;;;;;;;;;x
 temple_county_of_jewish_group;教区;;;;;;;;;;x
-temple_barony_of_christian;堂区;;;;;;;;;;x
-temple_barony_of_muslim;酋长国;;;;;;;;;;x
+temple_barony_of_christian;主教区;;;;;;;;;;x
+temple_barony_of_muslim;清真寺于;;;;;;;;;;x
 temple_barony_of_pagan_group;神庙;;;;;;;;;;x
 temple_barony_of_jewish_group;神庙;;;;;;;;;;x
 emperor_altaic;可汗;;;;;;;;;;x
@@ -5628,7 +5628,7 @@ emperor_iranian;万王之王;;;;;;;;;;x
 baron_mongol;太师;;;;;;;;;;x
 barony_of_mongol;太师领地;;;;;;;;;;x
 count_mongol;酋长;;;;;;;;;;x
-county_of_mongol;酋长国;;;;;;;;;;x
+county_of_mongol;酋邦;;;;;;;;;;x
 duke_mongol;大酋长;;;;;;;;;;x
 duke_female_mongol;弥亚;;;;;;;;;;x
 duchy_of_mongol;大酋长国;;;;;;;;;;x
@@ -12651,7 +12651,7 @@ b_farata;法拉他;;;;;;;;;;x
 b_dradate;德拉达特;;;;;;;;;;x
 b_derri;德日;;;;;;;;;;x
 k_arabia;阿拉伯;;;;;;;;;;x
-k_arabia_adj;阿拉伯;;;;;;;;;;x
+k_arabia_adj;阿拉伯的;;;;;;;;;;x
 d_sinai;西奈;;;;;;;;;;x
 d_sinai_adj;西奈;;;;;;;;;;x
 c_farama_adj;法拉马;;;;;;;;;;x
@@ -12691,7 +12691,7 @@ b_mitmatna;米特马纳;;;;;;;;;;x
 b_abuaweigila;阿布阿维吉拉;;;;;;;;;;x
 b_zuwayid;祖瓦伊德;;;;;;;;;;x
 d_arabia_petrae;佩特拉阿拉伯;;;;;;;;;;x
-d_arabia_petrae_adj;佩特拉;;;;;;;;;;x
+d_arabia_petrae_adj;佩特拉阿拉伯的;;;;;;;;;;x
 c_al_aqabah_adj;艾喀班希亚;;;;;;;;;;x
 b_aqabah;阿卡巴赫;;;;;;;;;;x
 b_reeshah;雷瑟哈;;;;;;;;;;x
@@ -12729,7 +12729,7 @@ b_abdelliya;阿布德利亚;;;;;;;;;;x
 b_hamza;哈姆扎;;;;;;;;;;x
 b_husseiniya;胡瑟因尼亚;;;;;;;;;;x
 d_arabia_felix;乐土阿拉伯;;;;;;;;;;x
-d_arabia_felix_adj;乐土阿拉伯;;;;;;;;;;x
+d_arabia_felix_adj;费利奇安;;;;;;;;;;x
 c_al_jawf_adj;扎瓦费安;;;;;;;;;;x
 b_al_jawf;焦夫;;;;;;;;;;x
 b_sakakah;塞卡凯;;;;;;;;;;x
@@ -14289,9 +14289,9 @@ b_uherskebrod;乌赫尔斯基布罗德;;;;;;;;;;x
 b_uherskehradiste;乌赫尔堡;;;;;;;;;;x
 b_kromeriz;克罗梅日什;;;;;;;;;;x
 b_zlin;兹林;;;;;;;;;;x
-d_abbasid;阿拔斯;;;;;;;;;;x
-d_arabs;阿拉伯;;;;;;;;;;x
-d_arabs_adj;阿拉伯;;;;;;;;;;x
+d_abbasid;阿巴斯;;;;;;;;;;x
+d_arabs;阿拉伯人;;;;;;;;;;x
+d_arabs_adj;阿拉伯的;;;;;;;;;;x
 d_assassin;刺客;;;;;;;;;;x
 d_balearic;巴里亚利;;;;;;;;;;x
 d_belgrade;贝尔格莱德;;;;;;;;;;x
@@ -14488,7 +14488,7 @@ k_papal_state;教廷属邦;;;;;;;;;;x
 k_papal_state_adj;教宗;;;;;;;;;;x
 k_orthodox;普世牧首属邦;;;;;;;;;;x
 k_orthodox_adj;普世牧首;;;;;;;;;;x
-e_sunni;逊尼哈里发国;;;;;;;;;;x
+e_sunni;逊尼派哈里发国;;;;;;;;;;x
 e_sunni_adj;哈里发;;;;;;;;;;x
 e_shiite;什叶哈里发国;;;;;;;;;;x
 e_shiite_adj;哈里发;;;;;;;;;;x
@@ -14580,13 +14580,13 @@ succ_feudal_elective;选举继承法;;;;;;;;;;x
 succ_feudal_elective_desc;君主和下级领主（比如君主是国王的话下级领主就是公爵）可以从下级领主以及现任领主的合法子嗣兄弟之中提名继任者.公爵是王国选举者的同时也可以是帝国的选举者.封臣们会很喜欢选举继承，但是如果君主个人拥有的选举继承法头衔过多的话他们也会很不满.;;;;;;;;;;x
 succ_gavelkind;分封继承法;;;;;;;;;;x
 succ_turkish_succession;土耳其继承法;;;;;;;;;;x
-succ_turkish_succession_desc;君主最强大的儿子继承，但是其他强大的儿子可能会干涉.这个法律会受到你所有孩子的欢迎（除了长子），其他家族成员也会认同这个法律.;;;;;;;;;;x
+succ_turkish_succession_desc;由君主最强大的儿子继承，但是其他强大的儿子可能会干涉。这个法律会受到你所有孩子的欢迎（除了长子），其他家族成员也会认同这个法律。;;;;;;;;;;x
 succ_open_elective;开放选举法;;;;;;;;;;x
 succ_open_elective_desc;所有的封臣和courtiers都有选举权和被选举权.;;;;;;;;;;x
 succ_catholic_bishopric;教区法;;;;;;;;;;x
 succ_catholic_bishopric_desc;如果领主提名了一个继任者，则此人继任，否则由教宗决定继任者.;;;;;;;;;;x
 agnatic_succession;男性;;;;;;;;;;x
-agnatic_succession_desc;只有男性可以继承.;;;;;;;;;;x
+agnatic_succession_desc;只有男性可以继承。;;;;;;;;;;x
 cognatic_succession;男性优先;;;;;;;;;;x
 cognatic_succession_desc;女性仅在没有合法男性可以继承的情况下才会得到继承权.;;;;;;;;;;x
 true_cognatic_succession;男女平等;;;;;;;;;;x
@@ -17812,12 +17812,12 @@ CH_PRESTIGE_CHANGE;威望 $DIRECTION$  $CHANGE$;;;;;;;;;;x
 CH_PIETY_CHANGE;[Player.Religion.GetPietyName] $DIRECTION$  $CHANGE$;;;;;;;;;;x
 STAT_MARTIAL;国家军事能力;;;;;;;;;;x
 STAT_MARTIAL_DESC;军事能力对将军至关重要，也会影响军事总管执行任务的结果。;;;;;;;;;;x
-STAT_MARTIAL_CHAR_DESC;军事技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$将领.;;;;;;;;;;x
+STAT_MARTIAL_CHAR_DESC;军事能力§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$将领。;;;;;;;;;;x
 STAT_DIPLOMACY;国家外交能力;;;;;;;;;;x
 STAT_DIPLOMACY_DESC;外交能力影响其他角色对你的好感，也会影响外交总管执行任务的结果。;;;;;;;;;;x
-STAT_DIPLOMACY_CHAR_DESC;外交技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$外交家.;;;;;;;;;;x
+STAT_DIPLOMACY_CHAR_DESC;外交能力§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$外交家。;;;;;;;;;;x
 STAT_INTRIGUE;国家密谋能力;;;;;;;;;;x
-STAT_INTRIGUE_CHAR_DESC;密谋技能§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$阴谋家.;;;;;;;;;;x
+STAT_INTRIGUE_CHAR_DESC;密谋能力§Y$VALUE$§!的§Y[GetTitledFirstName]§!被认为是$DESC$阴谋家。;;;;;;;;;;x
 STAT_STEWARDSHIP;国家财政能力;;;;;;;;;;x
 STAT_STEWARDSHIP_DESC;财政能力决定税收数额，是你的财政总管的主要属性。;;;;;;;;;;x
 STAT_LEARNING;国家学习能力;;;;;;;;;;x
@@ -18251,7 +18251,7 @@ nick_the_restorer;重建者;;;;;;;;;;x
 nick_the_accursed;受诅咒者;;;;;;;;;;x
 nick_the_wicked;妖邪者;;;;;;;;;;x
 nick_the_bewitched;着魔者;;;;;;;;;;x
-nick_priest_hater;憎恨牧师者;;;;;;;;;;x
+nick_priest_hater;牧师之敌;;;;;;;;;;x
 nick_the_pious;虔信者;;;;;;;;;;x
 nick_the_apostle;使徒;;;;;;;;;;x
 nick_the_blessed;受祝福者;;;;;;;;;;x
@@ -18423,8 +18423,8 @@ FLEET;海军;;;;;;;;;;x
 ARMY;陆军;;;;;;;;;;x
 RAISE_LEVY;§Y出动军队§!;;;;;;;;;;x
 RAISE_SHIP_LEVY;§Y征用船只§!;;;;;;;;;;x
-DISMISS_LEVY;§YDismiss Levy§!;;;;;;;;;;x
-DISMISS_SHIP_LEVY;§YDismiss Ships§!;;;;;;;;;;x
+DISMISS_LEVY;§Y解雇部队§!;;;;;;;;;;x
+DISMISS_SHIP_LEVY;§Y解散船只§!;;;;;;;;;;x
 CREATE_BARON;§Y分封新的领主§!;;;;;;;;;;x
 ARMY_NAME;$NAME$军;;;;;;;;;;x
 FLEET_NAME;$NAME$舰队;;;;;;;;;;x
@@ -18909,8 +18909,8 @@ pneumonic;肺炎;;;;;;;;;;x
 pneumonic_desc;此人身患肺炎，在中世纪的条件下是严重的生命威胁.;;;;;;;;;;x
 syphilitic;梅毒;;;;;;;;;;x
 syphilitic_desc;此人身患梅毒，一种严重的性病.;;;;;;;;;;x
-infirm;年老体衰;;;;;;;;;;x
-infirm_desc;此人年老体衰，性格病态.;;;;;;;;;;x
+infirm;体弱多病;;;;;;;;;;x
+infirm_desc;此人体弱多病，性格病态.;;;;;;;;;;x
 crusader;十字军战士;;;;;;;;;;x
 crusader_desc;此人是十字军老兵.;;;;;;;;;;x
 bastard;私生子;;;;;;;;;;x
@@ -19514,7 +19514,7 @@ tut_menu_7;阴谋;;;;;;;;;;x
 tut_menu_7_description;了解野心、叛乱和阴谋界面;;;;;;;;;;x
 tut_menu_8;宗教;;;;;;;;;;x
 tut_menu_8_description;了解教宗的能力、十字军远征、圣战士、授职法和伪教宗.;;;;;;;;;;x
-tut_0a_1;欢迎进入王国风云II的世界;;;;;;;;;;x
+tut_0a_1;欢迎来到十字军之王II的世界;;;;;;;;;;x
 tut_0a_2;本节是王国风云II的序章部分，本游戏是一个以中世纪欧洲为背景的战略游戏，你将以皇帝、国王、公爵或伯爵的身份，创造属于你的辉煌家族! \n 那么该从哪里开始呢 请点击继续.;;;;;;;;;;x
 tut_0a_3;领土窗口;;;;;;;;;;x
 tut_0a_5;角色窗口;;;;;;;;;;x
@@ -19703,7 +19703,7 @@ tut_8b_1;宗教 - 中级;;;;;;;;;;x
 tut_8b_2;本节将讨论有关好感、法律和圣战的事.请点击“继续”.;;;;;;;;;;x
 tut_8b_3;宗教封臣;;;;;;;;;;x
 tut_8b_5;授职法;;;;;;;;;;x
-tut_8b_7;十字军东征;;;;;;;;;;x
+tut_8b_7;十字军;;;;;;;;;;x
 tut_8c_1;宗教 - 高级;;;;;;;;;;x
 tut_8c_2;如果碰巧你是独立的统治者，并且已经与罗马教宗交恶，你可以指定一个对立的新教宗.这种宗教对立后，你可以利用这点与罗马教宗开战，如果你赢了，你就能将教宗更换为你指定的新教宗.点击宗教按钮继续.;;;;;;;;;;x
 tut_8c_3;对立教宗;;;;;;;;;;x

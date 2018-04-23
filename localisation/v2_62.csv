@@ -193,9 +193,9 @@ will_not_marry_desc;因为某些原因。这个人物将不会结婚。;;;;;;;;;
 EVTDESCZE15002;噩梦困扰了你好几个晚上，在梦里你亲眼见到爱马[From.GetBestName]死去。没有了[From.GetHerHim]你可怎么活啊？;;;;;;;;;;x
 EVTOPTAZE15002;我将赠予[From.GetFirstName]我充满魔力的鲜血！;;;;;;;;;;x
 EVTOPTBZE15002;不朽是上天给我的恩赐，我便是世间唯一的永生者！;;;;;;;;;;x
-opinion_given_council_position_1;给予内阁职位;;;;;;;;;;x
-opinion_given_council_position_2;给予内阁职位;;;;;;;;;;x
-opinion_given_council_position_3;给予内阁职位;;;;;;;;;;x
+opinion_given_council_position_1;给予内阁席位;;;;;;;;;;x
+opinion_given_council_position_2;给予内阁席位;;;;;;;;;;x
+opinion_given_council_position_3;给予内阁席位;;;;;;;;;;x
 scandalous_councillor_1_desc;这个角色挑选出的内阁成员是惊愕与恐慌的原因。;;;;;;;;;;x
 scandalous_councillor_2_desc;这个角色挑选出的内阁成员是惊愕与恐慌的原因。;;;;;;;;;;x
 scandalous_councillor_3_desc;这个角色挑选出的内阁成员是惊愕与恐慌的原因。;;;;;;;;;;x

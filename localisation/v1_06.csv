@@ -3,8 +3,8 @@ PLOT_POWER_CONTRIB_LOWER_THAN;在$PLOTTER$ $PLOT$这件事上的参与度少于�
 PLOT_POWER_CONTRIB_AT_LEAST;在$PLOTTER$的$PLOT$这一阴谋中的参与度大于§Y$POWER$%§!\n;;;;;;;;;;x
 KILLER;杀手;;;;;;;;;;x
 ANY_SPOUSE_STARTS;任意配偶;;;;;;;;;;x
-IS_MAIN_SPOUSE;是第一夫人;;;;;;;;;;x
-IS_NOT_MAIN_SPOUSE;不是第一夫人;;;;;;;;;;x
+IS_MAIN_SPOUSE;是正室;;;;;;;;;;x
+IS_NOT_MAIN_SPOUSE;不是正室;;;;;;;;;;x
 CONQUEST_CULTURE_EFFECT;被§Y$CULTURE$§!文明征服\n;;;;;;;;;;x
 CONQUEST_CULTURE_EFFECT_FREED;摆脱§Y$CULTURE$§!文明的枷锁\n;;;;;;;;;;x
 MAKE_PRIMARY_SPOUSE_EFFECT;$WHO$成为$SPOUSE$的正室.\n;;;;;;;;;;x
@@ -36,7 +36,7 @@ title_court_dwarf_desc;侏儒是魅力与新奇的代名词. 宫廷里是否有�
 job_spiritual_muslim;宫廷伊玛目;;;;;;;;;;x
 job_spiritual_shiite;宫廷毛拉;;;;;;;;;;x
 job_chancellor_iranian;大维齐尔;;;;;;;;;;x
-job_chancellor_turkish;大维齐尔;;;;;;;;;;x
+job_chancellor_turkish;大维奇尔;;;;;;;;;;x
 PROV911;廷巴克图;;;;;;;;;;x
 PROV912;奥达哥斯特;;;;;;;;;;x
 PROV913;加纳;;;;;;;;;;x
@@ -60,7 +60,7 @@ c_tharasset_adj;塔鲁丹特的;;;;;;;;;;x
 e_persia;波斯帝国;;;;;;;;;;x
 e_persia_adj;波斯;;;;;;;;;;x
 e_arabia;阿拉伯帝国;;;;;;;;;;x
-e_arabia_adj;阿拉伯;;;;;;;;;;x
+e_arabia_adj;阿拉伯的;;;;;;;;;;x
 k_volga_bulgaria;伏尔加保加利亚;;;;;;;;;;x
 k_volga_bulgaria_adj;伏尔加保加利亚;;;;;;;;;;x
 k_perm;彼尔姆;;;;;;;;;;x
@@ -306,7 +306,7 @@ ca_culture_dutch_1;小型古腾塔克民兵营地;;;;;;;;;;x
 ca_culture_dutch_2;古腾塔克民兵营地;;;;;;;;;;x
 ca_culture_dutch_3;大型古腾塔克民兵营地;;;;;;;;;;x
 ca_culture_dutch_4;巨型古腾塔克民兵营地;;;;;;;;;;x
-d_sunni;逊尼哈里发国;;;;;;;;;;x
+d_sunni;逊尼派哈里发;;;;;;;;;;x
 d_sunni_adj;哈里发;;;;;;;;;;x
 d_shiite;什叶哈里发国;;;;;;;;;;x
 d_shiite_adj;哈里发;;;;;;;;;;x
@@ -559,7 +559,7 @@ DEATH_MURDER_HASHSHASHIN;死于哈萨辛之手;;;;;;;;;;x
 EXPECTED_TO_HAVE_MORE_WIVES;妻子数量少于§Y$NUM$§!: §R$PRESTIGE$§!;;;;;;;;;;x
 EXPECTED_TO_HAVE_FEWER_WIVES;妻子数量多于§Y$NUM$§!: §G+$PRESTIGE$§!;;;;;;;;;;x
 tp_monastery_1_muslim;祈祷室;;;;;;;;;;x
-tp_monastery_2_muslim;小型清真寺;;;;;;;;;;x
+tp_monastery_2_muslim;清真寺;;;;;;;;;;x
 tp_monastery_3_muslim;清真寺;;;;;;;;;;x
 tp_monastery_4_muslim;大型清真寺;;;;;;;;;;x
 tp_monastery_5_muslim;巨型清真寺;;;;;;;;;;x
@@ -1093,6 +1093,6 @@ ENDGAME_TEXT_THEOCRACY;你成了一个神权国的统治者, 不再允许继续�
 ENDGAME_TEXT_REPUBLIC;你成了共和国的统治者, 不再允许继续游戏. ;;;;;;;;;;x
 ENDGAME_TEXT_MUSLIM;你成了穆斯林, 不再允许继续游戏. ;;;;;;;;;;x
 EVTOPTB69060;揭发廷臣对基督的不诚;;;;;;;;;;x
-EVTDESC100110;我想要那个职位, 我想得要死! [Root.Liege.GetTitledFirstName]不会仅仅因为我想成为阁僚就给我这个职位, 我需要努力工作来获得.;;;;;;;;;;x
+EVTDESC100110;我想要那个职位, 我迫不及待了！[Root.Liege.GetTitledFirstName]不会仅仅因为我想成为内阁成员就给我这个职位，我需要努力工作来取得它。;;;;;;;;;;x
 EVTTOOLTIP100111;[Root.GetTitledFirstName]计划通过与[This.GetTitledFirstName]成为朋友来最终获得[This.GetJobTitle]这个职位...;;;;;;;;;;x
 EVTDESC100111;[From.GetTitledFirstName]垂涎我的职位[Root.GetJobTitle]已经不是一个秘密, 但是当[From.GetSheHe]到来[From.GetSheHe]并向我寻求帮助的时候真让我吃惊。我应该把我内幕告诉给[From.GetTitledFirstName]然后让[From.GetHerHim]更轻易地从我手中偷走我的[Root.GetJobTitle]职位于[Root.Liege.GetTitledFirstName]吗？;;;;;;;;;;x

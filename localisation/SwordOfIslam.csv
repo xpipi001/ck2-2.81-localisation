@@ -9,7 +9,7 @@ opinion_hajj_saved_from_bandit;朝圣途中从土匪手中获救.;;;;;;;;;;x
 opinion_hajj_saving_on_hajj;救之于匪.;;;;;;;;;;x
 opinion_hajj_attempt_murder;打破朝圣休战.;;;;;;;;;;x
 opinion_hajj_rivalry_mended;关于朝圣的积极会谈.;;;;;;;;;;x
-opinion_helped_wudu;帮助小净.;;;;;;;;;;x
+opinion_helped_wudu;帮助小净;;;;;;;;;;x
 opinion_hajj_not_helpin;不行善.;;;;;;;;;;x
 EVTDESC86000;你已经开始做麦加朝圣的准备,很快你就将谦卑地和他人一道踏上前往伊斯兰教五大支柱之一的行程.;;;;;;;;;;x
 EVTOPTA86000;安拉座前,众生平等.;;;;;;;;;;x
@@ -26,7 +26,7 @@ EVTTOOLTIP86012;与我们同行...;;;;;;;;;;x
 EVTOPTB86011;我太忙了!;;;;;;;;;;x
 EVTTOOLTIP86013;会对我失望;;;;;;;;;;x
 EVTDESC86012;亲爱的 [Root.GetTitledFirstName]!\n我会加入你的麦加之行!\n你的臣民, [From.GetTitledName];;;;;;;;;;x
-EVTOPTA86012;安拉至大 !;;;;;;;;;;x
+EVTOPTA86012;安拉至上 !;;;;;;;;;;x
 EVTDESC86013;我很遗憾真诚的通知你,我不能加入你们的朝圣之旅.\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA86013;安拉会降罪于他...;;;;;;;;;;x
 EVTDESC86015;我们的君主, [Root.Liege.GetTitledName], 听说了我们要去麦加朝圣, 并且真诚的提醒我们道路上满是危险的异教徒和土匪.;;;;;;;;;;x
@@ -46,7 +46,7 @@ EVTOPTA86102;他们足够少可以独自打败..;;;;;;;;;;x
 EVTOPTB86102;冲锋!;;;;;;;;;;x
 EVTOPTC86102;给他们我们剩下的钱.;;;;;;;;;;x
 EVTDESC86105;航海使你感到晕船. 幸运的是船上有一个能够引用古兰经的穆斯林. 他们喝了一杯姜汁'.;;;;;;;;;;x
-EVTOPTA86105;感觉不错!;;;;;;;;;;x
+EVTOPTA86105;我感觉超爽!;;;;;;;;;;x
 EVTDESC86110;当你航海时, 你观察到一个知名的基督教海盗的帆影. 我们有更快的船,让我们永久的抹除它!;;;;;;;;;;x
 EVTOPTA86110;太冒险了...;;;;;;;;;;x
 EVTOPTB86110;我们必须阻止这些异教徒!;;;;;;;;;;x
@@ -97,7 +97,7 @@ EVTOPTB86330;感谢安拉!;;;;;;;;;;x
 EVTDESC86340;老人说,被称为先知的阿布·胡赖拉,愿真主保佑他,赐他平安,说,“当心嫉妒.嫉妒如火.”;;;;;;;;;;x
 EVTOPTA86340;嫉妒对我有害!;;;;;;;;;;x
 EVTOPTB86340;感谢安拉!;;;;;;;;;;x
-EVTDESC86350;老人说, 被称为先知的伊本·马苏德, 愿真主保佑他,赐他平安, 说, '诚实胜过虔诚而虔诚胜过供奉. 一个诚实的 [Root.GetManWoman] 在真主看来 [Root.GetSheHe] 是真诚的. 说谎导致偏差而偏差导致灾祸.  一个人说谎,  [Root.GetSheHe] 在真主眼中将被记录为骗子.';;;;;;;;;;x
+EVTDESC86350;老人说，真主福佑的先知伊本·马苏德曾言，“诚实胜过虔诚而虔诚胜过供奉。一个人应当一直保持真诚，直到真主认为 [Root.GetSheHe] 是真诚的。说谎导致恶行而恶行导致灾祸。一个人一旦说谎，真主就会认为 [Root.GetSheHe] 是骗子。”;;;;;;;;;;x
 EVTOPTA86350;我应当诚实!;;;;;;;;;;x
 EVTOPTB86350;感谢安拉!;;;;;;;;;;x
 EVTDESC86360;老人引用真主的使者艾布·达吾德圣训集, 愿真主保佑他,赐他平安, " [Root.GetManWoman] 最邪恶的特质是贪婪与懦弱!";;;;;;;;;;x
@@ -118,11 +118,11 @@ EVTOPTB86410;感谢安拉!;;;;;;;;;;x
 EVTDESC86510;当你抵达麦加你开始准备晚上的祈祷,但你发现这口井里的水不是完全纯粹的.这将不会是有效的用于沐浴的水.;;;;;;;;;;x
 EVTOPTA86510;告诉周围的人.;;;;;;;;;;x
 EVTTOOLTIP86511;感谢;;;;;;;;;;x
-EVTDESC86511;表演进行中一名朝圣者点出了水中的杂质!;;;;;;;;;;x
+EVTDESC86511;夜祷前小净时，一名朝圣者指出了这水是不洁的！;;;;;;;;;;x
 EVTOPTA86511;清洁是信仰的一半!;;;;;;;;;;x
-EVTDESC86520;当你抵达麦加,你改变你的旅行的衣服为白色的受戒服饰.这种布是为了让每个人都一样,在真主的眼中 [Root.GetTitle] 和一个乞丐没有差异!;;;;;;;;;;x
+EVTDESC86520;抵达麦加后，你脱下了旅行服并换上了白色的受戒服饰。这种服饰是为了让每个人看起来都相同，因为在真主的眼中 [Root.GetTitle] 和一个乞丐之间并没有区别！;;;;;;;;;;x
 EVTOPTA86520;我是卑微的....;;;;;;;;;;x
-EVTDESC86550;你现在在天房之中完成仪式.你会绕着黑石走七圈,每次你完成一圈你指着黑石说：“以真主的名义,真主是伟大的,真主是伟大的,真主是伟大的,赞美真主”.;;;;;;;;;;x
+EVTDESC86550;你现在到达了天房，并开始进行仪式。你须绕黑石七圈，每圈绕毕你皆须指着黑石诵念：“以真主之名，真主至大，真主至大，真主至大，一切赞颂，尽归真主”。;;;;;;;;;;x
 EVTOPTA86550;每一圈都喊出来!;;;;;;;;;;x
 EVTOPTB86550;只喊头三圈;;;;;;;;;;x
 EVTDESC86600;表演奔跑在萨法和马瓦哈之间以纪念以实玛利的母亲寻找水源..;;;;;;;;;;x
@@ -142,9 +142,9 @@ EVTOPTA86701;他们的战利品能用.;;;;;;;;;;x
 EVTDESC86720;当你旅行从麦加你遇到了一个非常贫穷的村子,即使里面的富人也在挨饿.;;;;;;;;;;x
 EVTOPTA86720;我必须帮助他们!;;;;;;;;;;x
 EVTOPTB86720;没钱..;;;;;;;;;;x
-EVTDESC86800;我回到了我的宫廷.我真的在真主面前谦卑,我知道所有人都是平等的,和谐相处.;;;;;;;;;;x
+EVTDESC86800;我回到了我的宫廷，此时的我已经脱胎换骨。我在真主面前是如此卑微，这趟旅程让我明白所有人都是平等的，相互之间能够和谐共处。;;;;;;;;;;x
 EVTOPTA86800;没有真主以外的神,穆罕默德是安拉的使者;;;;;;;;;;x
-EVTDESC86900;当地的阿訇训斥你, 随着你的年龄越来越大, 你却从进行朝圣, 这是每一位穆斯林在 [Root.GetHerHis] 一生中必做事. [Root.job_spiritual.GetTitledFirstName] 说, 作为一个统治者更应当起带头作用.;;;;;;;;;;x
+EVTDESC86900;当地的伊玛目训斥你, 随着你的年龄越来越大, 你却从进行朝圣, 这是每一位穆斯林在 [Root.GetHerHis] 一生中必做事. [Root.job_spiritual.GetTitledFirstName] 说, 作为一个统治者更应当起带头作用.;;;;;;;;;;x
 EVTOPTA86900;我马上去麦加!;;;;;;;;;;x
 EVTOPTB86900;我正在忙于准备一场吉哈德，为了解放穆斯林同胞们！;;;;;;;;;;x
 EVTOPTC86900;我正忙于成为[Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;x
@@ -175,7 +175,7 @@ EVTOPTA3736;我的想法是可耻的,原谅我的思想!;;;;;;;;;;x
 EVTTOOLTIP3737;因为[This.GetHerHis] 智慧而被赞扬;;;;;;;;;;x
 EVTDESC3737;我真的没有想到会有人真正关心失踪的天课,当时看起来更像一个吵闹和喧哗的借口.我是错的,当[From.GetTitledFirstName]和我握手,感谢我找到钱.;;;;;;;;;;x
 EVTOPTA3737;现在这些钱可以帮助穷人,这就是我想要的一切;;;;;;;;;;x
-EVTDESC3740;我是那些追赶窃贼的人中的一个,当我疲惫的回到清真寺,老阿訇告诉我天课其实就被藏在寺内.;;;;;;;;;;x
+EVTDESC3740;我是那些追赶窃贼的人中的一个,当我疲惫的回到清真寺,老伊玛目告诉我天课其实就被藏在寺内.;;;;;;;;;;x
 EVTOPTA3740;至少我的努力值得赞赏;;;;;;;;;;x
 EVTDESC3745;我每天祈祷五次在自己的家里,但是伊玛目责备我说如果我不每天至少一次出现在清真寺祷告,我就没有为我的臣民树立一个好榜样.;;;;;;;;;;x
 EVTOPTA3745;我会努力,愿安拉为我作证;;;;;;;;;;x
@@ -195,15 +195,15 @@ EVTDESC3755;我试图尽我所能遵循伊斯兰教的五大支柱,天课是一�
 EVTOPTA3755;我愿意付钱;;;;;;;;;;x
 EVTDESC30110;伊玛目并不总是容易对付.我需要确保获得他们的认可,我有我的妻子 [Root.Spouse.GetFirstName] 和我的 [Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName] 给我关于如何获得伊玛目支持的建议.;;;;;;;;;;x
 EVTOPTA30110;[Root.Spouse.GetFirstName] 建议我应该重建清真寺;;;;;;;;;;x
-EVTOPTB30110;[Root.job_spiritual.GetFullName] 建议我尝试让阿訇就范;;;;;;;;;;x
+EVTOPTB30110;[Root.job_spiritual.GetFullName] 建议我尝试让伊玛目就范;;;;;;;;;;x
 EVTOPTC65036;感谢安拉;;;;;;;;;;x
 EVTDESC65046;我的爱人,救了我的命的人. [Root.Religion.GetRandomGodNameCap] 保佑 [Root.Spouse.GetHerHim]!;;;;;;;;;;x
-EVTOPTC65050;我将请教一位阿訇的意见;;;;;;;;;;x
+EVTOPTC65050;我将请教一位伊玛目的意见;;;;;;;;;;x
 EVTDESC65055;我为什么生病了, [GetFromRelation], 难道 [Root.Religion.GetRandomGodName]在惩罚我? 我没有做错什么,为什么?;;;;;;;;;;x
 EVTDESC65056;我的 [GetFromRelation] [From.GetFirstName] 病得很重. [From.GetSheHe] 已经昏迷,[From.GetHerHim]已经开始怀疑 [Root.Religion.GetRandomGodName] 在惩罚他 .;;;;;;;;;;x
 EVTOPTD65056;[Root.Religion.GetRandomGodNameCap] 会治好你!;;;;;;;;;;x
 EVTOPTA65057;如果我需要治愈, [Root.Religion.GetRandomGodName] 会治好我;;;;;;;;;;x
-EVTDESC65165;昨天晚上的酒与我八字不合,我早上醒来发现一个可怕的后遗症.现在阿訇在念经,可是我要在清真寺里睡着了.;;;;;;;;;;x
+EVTDESC65165;昨天晚上的酒与我八字不合,我早上醒来发现一个可怕的后遗症.现在伊玛目在念经,可是我要在清真寺里睡着了.;;;;;;;;;;x
 EVTOPTA65165;我的眼睛要闭上了;;;;;;;;;;x
 EVTOPTB65165;道歉,多多祈祷;;;;;;;;;;x
 EVTDESC65166;伊玛目可能比较在意我最近的失误,我觉得需要格外小心.可惜我真的不能在压力太大的时候依靠自己.;;;;;;;;;;x
@@ -215,8 +215,8 @@ EVTDESC69095;看起来 [Root.job_spiritual.GetTitledFirstName] 并不像[Root.jo
 EVTDESC69096;当 [Root.GetSheHe] 责罚我毁了与伊玛目的关系时,[Root.GetTitledFirstName] 是有点太苛刻! 虽然,我承认,我可能会选择更少的非常规方式,赢得他们的支持...;;;;;;;;;;x
 EVTDESC69100;一个朝臣缺乏虔诚让我担心.我不想说谁不是一个好穆斯林,但如果我的怀疑是正确的那么我有我需要做的事情!;;;;;;;;;;x
 EVTOPTB69100;揭露那个大臣不是一个好的穆斯林;;;;;;;;;;x
-EVTDESC69101;信仰从来就不是我的强项,我相信真主,但我很难接受阿訇们觉得有必要遵守的所有的仪式和要求. [From.GetTitledFirstName]面对我,我甚至没有意识到我缺乏虔诚是如此引人注目.;;;;;;;;;;x
-EVTDESC69102;所有这些仪式和要求阿訇们觉得有必要证明自己的虔诚的纯粹是废话. 尽管我对那些不必要的感情,空洞的姿态毫无好感,但我一直小心不让我表现的缺乏虔诚,但也许不够细心.如果我不付给 [From.GetTitledFirstName] 15金币[From.GetSheHe]会向每一个人揭发我!;;;;;;;;;;x
+EVTDESC69101;信仰从来就不是我的强项,我相信真主,但我很难接受伊玛目们觉得有必要遵守的所有的仪式和要求. [From.GetTitledFirstName]面对我,我甚至没有意识到我缺乏虔诚是如此引人注目.;;;;;;;;;;x
+EVTDESC69102;所有这些仪式和要求伊玛目们觉得有必要证明自己的虔诚的纯粹是废话. 尽管我对那些不必要的感情,空洞的姿态毫无好感,但我一直小心不让我表现的缺乏虔诚,但也许不够细心.如果我不付给 [From.GetTitledFirstName] 15金币[From.GetSheHe]会向每一个人揭发我!;;;;;;;;;;x
 EVTOPTA75005;和 [Root.Religion.GetName]教堂联系, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;x
 EVTOPTB75005;教我成为一个虔诚的穆斯林, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;x
 EVTDESC3411;我有两个男人恳求我怜悯.他们都同样犯了罪,盗窃包贼被斩首,偷米免罪.;;;;;;;;;;x
@@ -235,28 +235,28 @@ EVTOPTA3476;一种适用于异教徒的惩罚...;;;;;;;;;;x
 EVTDESC3477;我略带钦佩的看着他被带入 [From.GetTitledFirstName]的监狱.;;;;;;;;;;x
 EVTTOOLTIP3478;异教徒属于监狱, [This.GetTitledFirstName]!;;;;;;;;;;x
 EVTDESC3478;当[From.GetTitledFirstName]在我耳边说: '干得好' 时,我还在为异教徒的话气得发抖.;;;;;;;;;;x
-EVTDESC100550;[Root.Religion.GetName]的阿訇们经常在宗教，[Root.Religion.GetRandomGodName]以及捐献的天课这些事情上面纠缠我.不管我做什么，承诺做更多次祈祷或者把古兰经从头到尾多读几遍，他们就是不肯让我一个人安静一下！;;;;;;;;;;x
+EVTDESC100550;[Root.Religion.GetName]的伊玛目们经常在宗教，[Root.Religion.GetRandomGodName]以及捐献的天课这些事情上面纠缠我.不管我做什么，承诺做更多次祈祷或者把古兰经从头到尾多读几遍，他们就是不肯让我一个人安静一下！;;;;;;;;;;x
 EVTOPTB100550;安拉，请帮助我成为一个更好的穆斯林！;;;;;;;;;;x
-EVTDESC100551;我发现这件事情有点古怪，不论[From.GetTitledFirstName]承诺做什么或者无论[From.GetSheHe]捐献多少天课，[From.Religion.GetName]的阿訇们还是经常纠缠[From.GetSheHe].;;;;;;;;;;x
-EVTOPTB100551;我不想做任何让这些阿訇们不高兴的事情;;;;;;;;;;x
-EVTTOOLTIP100553;对于[This.Religion.GetName]的阿訇们使[Root.GetTitledFirstName]如此害怕感到气馁;;;;;;;;;;x
-EVTDESC100552;“[Root.Religion.GetName]的阿訇们只关心钱.不论何时他们来拜访都给他们钱，他们就会让你安静几个星期，if not months for fear of being sinful: 没有阿訇愿意承认犯下了贪婪的罪行.”\n[From.GetTitledFirstName] advised me soundly ，我同意尝试一下.;;;;;;;;;;x
-EVTOPTB100552;不只是阿訇们是贪婪的...;;;;;;;;;;x
-EVTDESC100553;看起来没有人愿意在我害怕让[Root.Religion.GetName]的阿訇们不满这件事情上面帮助我，这甚至包括我的朋友[From.GetTitledFirstName]！;;;;;;;;;;x
-EVTOPTA100553;纠缠我的阿訇们变得越来越过分！;;;;;;;;;;x
-EVTDESC100554;[From.GetTitledFirstName]告诉我[From.GetSheHe]在如何停止[Root.Religion.GetName]的阿訇们对我的纠缠上面有一个好建议，而且[From.GetSheHe]得到了我全部的关注.但是问题在于[From.GetTitledFirstName]想让我为[From.GetHerHis]建议付钱！;;;;;;;;;;x
-EVTDESC100555;我给[From.GetTitledFirstName]的建议非常简单：只要付钱给[From.Religion.GetName]的阿訇们，他们就会停止纠缠你，或者几个星期内不纠缠你.虽然我可以免费提供这条建议，但是我决定测试下[From.GetTitledFirstName]到底有多想摆脱[From.Religion.GetName]的阿訇们，并要求用钱来换这条建议.;;;;;;;;;;x
+EVTDESC100551;我发现这件事情有点古怪，不论[From.GetTitledFirstName]承诺做什么或者无论[From.GetSheHe]捐献多少天课，[From.Religion.GetName]的伊玛目们还是经常纠缠[From.GetSheHe].;;;;;;;;;;x
+EVTOPTB100551;我不想做任何让这些伊玛目们不高兴的事情;;;;;;;;;;x
+EVTTOOLTIP100553;对于[This.Religion.GetName]的伊玛目们使[Root.GetTitledFirstName]如此害怕感到气馁;;;;;;;;;;x
+EVTDESC100552;“[Root.Religion.GetName]的伊玛目们只关心钱.不论何时他们来拜访都给他们钱，他们就会让你安静几个星期，if not months for fear of being sinful: 没有伊玛目愿意承认犯下了贪婪的罪行.”\n[From.GetTitledFirstName] advised me soundly ，我同意尝试一下.;;;;;;;;;;x
+EVTOPTB100552;不只是伊玛目们是贪婪的...;;;;;;;;;;x
+EVTDESC100553;看起来没有人愿意在我害怕让[Root.Religion.GetName]的伊玛目们不满这件事情上面帮助我，这甚至包括我的朋友[From.GetTitledFirstName]！;;;;;;;;;;x
+EVTOPTA100553;纠缠我的伊玛目们变得越来越过分！;;;;;;;;;;x
+EVTDESC100554;[From.GetTitledFirstName]告诉我[From.GetSheHe]在如何停止[Root.Religion.GetName]的伊玛目们对我的纠缠上面有一个好建议，而且[From.GetSheHe]得到了我全部的关注.但是问题在于[From.GetTitledFirstName]想让我为[From.GetHerHis]建议付钱！;;;;;;;;;;x
+EVTDESC100555;我给[From.GetTitledFirstName]的建议非常简单：只要付钱给[From.Religion.GetName]的伊玛目们，他们就会停止纠缠你，或者几个星期内不纠缠你.虽然我可以免费提供这条建议，但是我决定测试下[From.GetTitledFirstName]到底有多想摆脱[From.Religion.GetName]的伊玛目们，并要求用钱来换这条建议.;;;;;;;;;;x
 EVTDESC1632;我发现宗教非常让我着迷，特别是当古兰经谈到异教徒和无信仰的人，以及他们应该被如何打败的时候！;;;;;;;;;;x
-EVTDESC2132;我可怜的[GetFromRelation][From.GetTitledFirstName]总是恨不得把[From.GetHerHis]鼻子贴在古兰经上，并把[From.GetHerHis]所有时间都花在同阿訇们一起度过上.;;;;;;;;;;x
-EVTDESC1732;人是天生的傻瓜，随着阿訇们演奏的错误曲调像个木偶一样欢笑，跳舞，点头.都是骗子！;;;;;;;;;;x
+EVTDESC2132;我可怜的[GetFromRelation][From.GetTitledFirstName]总是恨不得把[From.GetHerHis]鼻子贴在古兰经上，并把[From.GetHerHis]所有时间都花在同伊玛目们一起度过上.;;;;;;;;;;x
+EVTDESC1732;人是天生的傻瓜，随着伊玛目们演奏的错误曲调像个木偶一样欢笑，跳舞，点头。都是骗子！;;;;;;;;;;x
 EVTDESC1733;伊玛目的告诫让我听得无聊的眼泪都要掉下来了，接着他告诉我[GetFromRelation]关于我的愤世嫉俗。[From.GetSubjectPronounCap]试图把这种想法从我这里赶走...;;;;;;;;;;x
 EVTDESC3010;我同一个漂亮仆人淫乱的的耻辱行为被[Root.GetLordSpiritualName][Root.job_spiritual.GetBestName]抓个正着.[Root.job_spiritual.GetSheHeCap]责备我，并向我教授贞洁的美德.;;;;;;;;;;x
 EVTOPTA3010;我希望我可以忽视[Root.job_spiritual.GetHerHim];;;;;;;;;;x
-EVTDESC3371;我把我的雄心告诉阿訇并问他有什么可以帮助我的.;;;;;;;;;;x
-EVTDESC3456;我太大声的表达我对于宗教和“真主”的看法，这让我陷入了很大的麻烦，一个阿訇借此指责我.;;;;;;;;;;x
+EVTDESC3371;我把我的雄心告诉伊玛目并问他有什么可以帮助我的.;;;;;;;;;;x
+EVTDESC3456;我太大声的表达我对于宗教和“真主”的看法，这让我陷入了很大的麻烦，一个伊玛目借此指责我.;;;;;;;;;;x
 EVTOPTA3456;安拉已死！;;;;;;;;;;x
-EVTDESC4041;阿訇指控几名村民亵渎，他听到他们在无意义的时候提到了真主的名字.铁匠在锤子敲到他的拇指的时候，马夫在一匹马踢他的时候，厨子在一只老鼠掉进炖肉的时候.;;;;;;;;;;x
-EVTDESC5026;我的臣民不喜欢新的钉死在木桩上的惩罚措施，他们在阿訇们的带领下通过向我投掷腐烂的蔬菜来表达他们的愤怒！;;;;;;;;;;x
+EVTDESC4041;伊玛目指控几名村民亵渎，他听到他们在无意义的时候提到了真主的名字.铁匠在锤子敲到他的拇指的时候，马夫在一匹马踢他的时候，厨子在一只老鼠掉进炖肉的时候.;;;;;;;;;;x
+EVTDESC5026;我的臣民不喜欢新的钉死在木桩上的惩罚措施，他们在伊玛目们的带领下通过向我投掷腐烂的蔬菜来表达他们的愤怒！;;;;;;;;;;x
 EVTOPTA5026;蔬菜阻止不了我！;;;;;;;;;;x
 EVTDESC6030_MUS;我正在说方言，不分时刻突然就会尖叫着说肮脏淫秽的话，尤其当伊玛目正在跟我谈话、有时甚至会躺在地面痛苦地扭动着。我很少记得这一切发生过，人们都认为我被恶魔附身了。;;;;;;;;;;x
 EVTOPTA6030_MUS;给我滚开，肮脏的精灵！;;;;;;;;;;x
@@ -929,7 +929,7 @@ EVTDESC91200;酒精饮料是不符合伊斯兰教规的食物，是被禁止的.
 EVTOPTA91200;*嗝*;;;;;;;;;;x
 EVTDESC91201;你对于同性的感情不为社会所容，但是有时你只是厌烦了在众人面前保持形象.人们以不善的眼光看待这种事情.;;;;;;;;;;x
 EVTOPTA91201;让他们想说什么说去吧！;;;;;;;;;;x
-EVTDESC91202;几位到访的阿訇走进房间的时候，正看见你的仆人们忙着把蜂蜜从头到脚的涂抹在你身上.出于某些原因他们看到此情此景的反应十分惊恐.;;;;;;;;;;x
+EVTDESC91202;几位到访的伊玛目走进房间的时候，正看见你的仆人们忙着把蜂蜜从头到脚的涂抹在你身上.出于某些原因他们看到此情此景的反应十分惊恐.;;;;;;;;;;x
 EVTOPTA91202;什么我为明天的早饭留下了足够的蜂蜜.;;;;;;;;;;x
 EVTDESC91203;掩盖你的秘密恶癖变得越来越困难，你喜欢把你的敌人钉在木桩上听着他们绝望的哀号.对于你这样地位的人来说这种行为是否合适已经引起了关注.;;;;;;;;;;x
 EVTOPTA91203;你不能夺去我生命中唯一的乐趣！;;;;;;;;;;x
@@ -991,7 +991,7 @@ EVTDESC91231;在所有事情上面做到公平公正，由于你的人民知道�
 EVTOPTA91231;法律应该支配一切.;;;;;;;;;;x
 EVTDESC91232;没有人可以质疑你对于真主和他的先知（愿主福安之）的教诲的献身.你总是可以被期望把信仰放在你自身前面.;;;;;;;;;;x
 EVTOPTA91232;万物非主，唯有安拉！;;;;;;;;;;x
-EVTDESC91233;你已经通过向伊斯兰的敌人开战证明了你对真主（愿主荣耀尊贵）的献身.作为圣战者的一员，你得到了曾经参与吉哈德的承认.;;;;;;;;;;x
+EVTDESC91233;你已经通过向伊斯兰的敌人开战证明了你对真主（愿主荣耀尊贵）的献身.作为圣战士的一员，你得到了曾经参与吉哈德的承认.;;;;;;;;;;x
 EVTOPTA91233;只有在战争中跑死你的战马，泼洒你的鲜血才是最好的吉哈德.;;;;;;;;;;x
 EVTDESC91234;你已经完整背记下了古兰经，这一成果不仅显示了你对于真主（愿主荣耀尊贵）的献身，而且为你的统治赢得了极大的尊重.;;;;;;;;;;x
 EVTOPTA91234;这并不简单.;;;;;;;;;;x
@@ -1139,7 +1139,7 @@ EVTOPTA106120;[Root.Holder.TopLiege.GetTitledFirstName]可能对你的作品感�
 EVTTOOLTIP106121;哈姆达拉·穆斯托菲 会见 [This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC106121;历史可以是令人着迷的，但也可以令人厌倦无聊.史诗《胜利》的作者 哈姆达拉·穆斯托菲，讲诉蒙古人从波斯到阿拉伯的征服历程，一场浩大的杀戮与宗教斗争的血泪史，绝不会感到无聊.我愿意帮助 哈姆达拉·穆斯托菲 发布这部伟大的作品！ ;;;;;;;;;;x
 EVTOPTA106121;只要留在我的宫廷，如你所愿！;;;;;;;;;;x
-EVTDESC106125;圣人在 [Root.GetName], 霍贾·阿卜杜拉·安萨里，他熟练运用阿拉伯语与波斯语如诗意一般的演讲才能受到 [Root.Holder.TopLiege.GetTitledFirstName]的关注.他是波斯裔伊斯兰神学家、法理学家、哲学家、宇宙学家、心理学家、辩论家和神秘主义者，是逊尼派伊斯兰思想史上的重要人物.他被认为是怀疑论的先驱，在他的主要著作《哲学家的矛盾》中，他改变了早期伊斯兰哲学的方向，将它由伊斯兰玄学带入因果论的时代.;;;;;;;;;;x
+EVTDESC106125;[Root.GetName]的圣人，霍贾·阿卜杜拉·安萨里，他熟练运用阿拉伯语与波斯语如诗意一般的演讲才能受到[Root.Holder.TopLiege.GetTitledFirstName]的关注。他是波斯裔伊斯兰神学家、法理学家、哲学家、宇宙学家、心理学家、辩论家和神秘主义者，是逊尼派伊斯兰思想史上的重要人物。他被认为是怀疑论的先驱，在他的主要著作《哲学家的矛盾》中，他改变了早期伊斯兰哲学的方向，将它由伊斯兰玄学带入因果论的时代。;;;;;;;;;;x
 EVTOPTA106125;带他到 [Root.Holder.TopLiege.GetTitledFirstName];;;;;;;;;;x
 EVTTOOLTIP106126;霍贾·阿卜杜拉·安萨里 会见 [This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC106126;霍贾·阿卜杜拉·安萨里 被称为贤者在 [From.GetName], 我毫不怀疑令他自由抒发运用阿拉伯语与波斯语如诗意一般的演讲才能，能给我们带来伟大的声誉！他的书表明他的神秘主义和哲学背景，伟大的神学家、法理学家、宇宙学家、心理学家以及辩论家和灵魂导师.;;;;;;;;;;x

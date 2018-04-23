@@ -34,7 +34,7 @@ EVTOPTA_ZE_22640;完美！;;;;;;;;;;x
 EVTDESC_ZE_22650;致[Root.GetTitledFirstName]，\n\n要知道我只是出于好奇心，并无恶意。但我还是要为我所做的致以歉意。\n真挚地，\n\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_22650;或许我在回信中过于刻薄...;;;;;;;;;;x
 EVTDESC_ZE_22660;致[GetFromRootInsult] [Root.GetFirstName]，\n\n你竟敢拒绝帮我？要知道我可不会忘了你对我名誉的损坏。\n\n署，\n[From.GetTitledName];;;;;;;;;;x
-EVTOPTA_ZE_22660;真是个傻X...;;;;;;;;;;x
+EVTOPTA_ZE_22660;真是个傻瓜......;;;;;;;;;;x
 EVTDESC_ZE_22670;致[GetFromRootCompliment] [Root.GetFirstName]，\n\n请原谅我提出的请求，或许来点金子会让你重新考虑一下我的提议？\n\n署，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_22670;嗯，就等你这句话！;;;;;;;;;;x
 EVTOPTB_ZE_22670;再多的金子也没用。;;;;;;;;;;x
@@ -52,7 +52,7 @@ INFAMY_DESC;§Y威胁值§!是一个表示对某领域畏惧程度的量。这�
 INTERACTION_CANT_DOW_IN_COALITION;作为防御性协议的一方，没有在战斗;;;;;;;;;;x
 INTERACTION_CANT_LEAVE_COALITION_AT_WAR;不是反§Y[Recipient.GetTitledFirstName]§!防御性协议战争中的成员;;;;;;;;;;x
 MAPMODE_COALITIONS;§Y防御性协议§!;;;;;;;;;;x
-MAPMODE_COALITIONS_DESC;这个地图模式可以显示出任何与所选领域相抗的已签订防御性协议;;;;;;;;;;x
+MAPMODE_COALITIONS_DESC;这个地图模式可以显示出任何已签订的针对所选领域的防御性协议。;;;;;;;;;;x
 COALITION_TARGET;已签订针对这个领域的防御性协议;;;;;;;;;;x
 VALID_COALITION_TARGET;形成足够的威胁从而签订一个防御性协议来与之对抗;;;;;;;;;;x
 COALITION_TARGETS;参与反$TARGETS|Y$的防御性协议;;;;;;;;;;x
@@ -68,7 +68,7 @@ START_COALITION_LONG_DESC;防御性协议是一个联合的群体去对抗一个
 start_coalition_opposing;你要开始一个反$TARGET|Y$的防御性协议吗？;;;;;;;;;;x
 leave_coalition_opposing;你要撤出反$TARGET|Y$的防御性协议吗？;;;;;;;;;;x
 join_coalition_opposing;你要加入现存的反$TARGET|Y$防御性协议吗？;;;;;;;;;;x
-coalition_title;反$TARGET$防御性协议;;;;;;;;;;x
+coalition_title;反对$TARGET$的防御协定;;;;;;;;;;x
 RELATION_COALITION_TARGET;$TARGET|Y$是防御性协议的针对目标，$MEMBER|Y$是协议中的一员。;;;;;;;;;;x
 RELATION_COALITION_MEMBER;$MEMBER|Y$是反$TARGET|Y$的防御性协议的一员;;;;;;;;;;x
 COALITION_STARTED_SETUP;防御性协议已签订;;;;;;;;;;x
@@ -159,11 +159,11 @@ INTERACTION_CANNOT_BREAK_FAVOR_BETROTHAL;婚约不是用人情建立的;;;;;;;;;
 haughty_desc;这个孩子骄傲、虚荣、自大。可能发展成：§Y骄傲§!，§Y专断§! 或 §Y残暴§!。;;;;;;;;;;x
 affectionate_desc;这个孩子和善、经常流露喜好。可能发展成：§Y和善§!，§Y安于现状§! 或 §Y值得信任§!。;;;;;;;;;;x
 timid_desc;这个孩子害羞、安静、通常避免引起冲突。可能发展成：§Y谦逊§!，§Y害羞§! 或 §Y怯懦§!。;;;;;;;;;;x
-rowdy_desc;这个孩子吵闹、活泼、相比安静的工作经常更喜欢粗野的体力活动。可能发展成：§Y强壮§!，§Y诚实§! 或 §Y迟钝§!。;;;;;;;;;;x
+rowdy_desc;这个孩子吵闹、活泼、相比安静的工作经常更喜欢粗野的体力活动。可能发展成：§Y强壮§!，§Y诚实§! 或 §Y笨拙§!。;;;;;;;;;;x
 willful_desc;这个孩子顽固、执拗，从不轻易遵从他人或作出让步。可能发展成：§Y野心勃勃§!，§Y勇敢§! 或 §Y顽固§!。;;;;;;;;;;x
 brooding_desc;这个孩子是一个安静的思考者。别的孩子白天在外玩时，这个孩子经常坐在屋内沉思。可能发展成：§Y正直§!，§Y易怒§! 或 §Y嫉妒§!。;;;;;;;;;;x
 indolent_desc;这个孩子反感任何形式的努力，无论是精神上的还是身体上的。可能发展成§Y慷慨§!，§Y懒惰§! 或 §Y暴食§!。;;;;;;;;;;x
-playful_desc;这个孩子喜欢沉浸在娱乐和游戏中，总是能找到去玩耍的借口。可能发展成：§Y合群§!，§Y狡诈§! 或  §Y精神错乱§!(很少)。;;;;;;;;;;x
+playful_desc;这个孩子喜欢沉浸在娱乐和游戏中，总是能找到去玩耍的借口。可能发展成：§Y合群§!，§Y狡诈§! 或  §Y精神错乱§!(稀少)。;;;;;;;;;;x
 conscientious_desc;这个孩子异乎寻常地细心、负责，乐于把繁琐的杂活、任务做得完美。可能发展成：§Y勤奋§! 或 §Y节制§!。;;;;;;;;;;x
 fussy_desc;这个孩子很讲究其他人觉得琐碎的细节，有时会因此沮丧、遭遇挫折。可能发展成：§Y耐心§!，§Y贪婪§! 或 §Y多疑§!。;;;;;;;;;;x
 curious_desc;这个孩子有着好奇的天性，不断地提问题、探索新奇事物。可能发展成：§Y精明§!，§Y愤世嫉俗§! 或 §Y同情其他宗教§!。;;;;;;;;;;x
@@ -203,23 +203,23 @@ EVTOPTA8225;棒极了。;;;;;;;;;;x
 EVTDESC8226;[From.GetBestName] 领导的派系赢得了他们的战争，并钦点我来当 [Root.GetTitle] 的继承人。将来我会向帮助我的所有人展现我的宽宏慷慨。;;;;;;;;;;x
 EVTOPTA8226;无上的荣耀。;;;;;;;;;;x
 EVTOPTHAU;可能导致 §Y傲慢§!;;;;;;;;;;x
-EVTOPTAFF;可能导致 §Y深情§!;;;;;;;;;;x
+EVTOPTAFF;可能导致 §Y亲切§!;;;;;;;;;;x
 EVTOPTTIM;可能导致 §Y胆怯§!;;;;;;;;;;x
 EVTOPTROW;可能导致 §Y粗暴§!;;;;;;;;;;x
 EVTOPTWIL;可能导致 §Y任性§!;;;;;;;;;;x
-EVTOPTBRO;可能导致 §Y深沉§!;;;;;;;;;;x
+EVTOPTBRO;可能导致 §Y沉思§!;;;;;;;;;;x
 EVTOPTIND;可能导致 §Y怠惰§!;;;;;;;;;;x
-EVTOPTPLA;可能导致 §Y贪玩§!;;;;;;;;;;x
+EVTOPTPLA;可能导致 §Y调皮§!;;;;;;;;;;x
 EVTOPTCON;可能导致 §Y尽责§!;;;;;;;;;;x
 EVTOPTFUS;可能导致 §Y挑剔§!;;;;;;;;;;x
-EVTOPTIDO;可能导致 §Y极端§!;;;;;;;;;;x
+EVTOPTIDO;可能导致 §Y狂信者§!;;;;;;;;;;x
 EVTOPTHAU_FROM;§Y[From.GetFirstName]§! 可能获得 §Y自大§!;;;;;;;;;;x
 EVTOPTAFF_FROM;§Y[From.GetFirstName]§! 可能获得 §Y亲切§!;;;;;;;;;;x
 EVTOPTTIM_FROM;§Y[From.GetFirstName]§! 可能获得 §Y怯懦§!;;;;;;;;;;x
 EVTOPTROW_FROM;§Y[From.GetFirstName]§! 可能获得 §Y粗暴§!;;;;;;;;;;x
 EVTOPTWIL_FROM;§Y[From.GetFirstName]§! 可能获得 §Y任性§!;;;;;;;;;;x
 EVTOPTIND_FROM;§Y[From.GetFirstName]§! 可能获得 §Y懒散§!;;;;;;;;;;x
-EVTOPTPLA_FROM;§Y[From.GetFirstName]§! 可能获得 §Y玩乐§!;;;;;;;;;;x
+EVTOPTPLA_FROM;§Y[From.GetFirstName]§! 可能获得 §Y调皮§!;;;;;;;;;;x
 EVTOPTCON_FROM;§Y[From.GetFirstName]§! 可能获得 §Y尽责§!;;;;;;;;;;x
 EVTOPTFUS_FROM;§Y[From.GetFirstName]§! 可能获得 §Y挑剔§!;;;;;;;;;;x
 EVTOPTIDO_FROM;§Y[From.GetFirstName]§! 可能获得 §Y狂信者§!;;;;;;;;;;x
@@ -239,7 +239,7 @@ too_honest;诚实过度;;;;;;;;;;x
 impious_teachings;不虔诚的教义;;;;;;;;;;x
 opinion_hypocrite;伪君子;;;;;;;;;;x
 opinion_boring;无聊;;;;;;;;;;x
-EVTOPTC_ZE_13620;[From.GetFirstName]必须靠[From.GetHerHis]自己。;;;;;;;;;;x
+EVTOPTC_ZE_13620;[From.GetFirstName]必须靠[From.GetHerHis]自学。;;;;;;;;;;x
 EVTDESC_ZE_13625;[From.GetSheHe] 逐渐地长大，我觉得可以在擅长的领域内对 [From.GetFirstName] 进行一些指导。这可能费力不讨好，也是为了 [From.GetFirstName] 的利益作出一些自我牺牲的机会。;;;;;;;;;;x
 EVTDESC_ZE_13620;[From.GetSheHe] 逐渐地长大, 我觉得可以在外交领域内对 [From.GetFirstName] 进行一些指导, 为了 [From.GetHerHis] 的教育, 我能提供什么?;;;;;;;;;;x
 EVTDESC_ZE_13621;[From.GetSheHe] 逐渐地长大, 我觉得可以在军事领域内对 [From.GetFirstName] 进行一些指导, 为了 [From.GetHerHis] 的教育, 我能提供什么?;;;;;;;;;;x
@@ -287,7 +287,7 @@ EVTOPTB_ZE_22902;没有必要.;;;;;;;;;;x
 EVTDESC_ZE_22903;当 [introduced_heir.GetFirstName] 介绍 [introduced_heir.GetHerselfHimself] 给 [compliment_vassal.GetBestName] 的时候  [introduced_heir.GetSheHe] 不止优雅地介绍了 [introduced_heir.GetHerselfHimself] , 也成功地令 [compliment_vassal.GetFirstName] 印象深刻 通过有技巧地向 [compliment_vassal.GetHerHim] 拍马屁!;;;;;;;;;;x
 EVTOPTA_ZE_22903;我教给 [introduced_heir.GetHerHim] 一切 [introduced_heir.GetSheHe] 所知道的!;;;;;;;;;;x
 EVTDESC_ZE_22904;当 [introduced_heir.GetFirstName] 介绍 [introduced_heir.GetHerselfHimself] 给 [insult_vassal.GetBestName] 的时候 [introduced_heir.GetSheHe] 不仅不小心把饮料撒到 [insult_vassal.GetFirstName] 的鞋子上, 还冒犯了 [insult_vassal.GetFirstName] 所有的祖先!;;;;;;;;;;x
-EVTOPTA_ZE_22904;这熊孩子糟透了!;;;;;;;;;;x
+EVTOPTA_ZE_22904;这熊孩子就是个丧门星!;;;;;;;;;;x
 EVTDESC_ZE_22905;看上去好像 [introduced_heir.GetFirstName] 开始跟一个来访封臣的小孩相处的非常融洽 ! 毫无疑问, 很显然 [introduced_heir.GetFirstName] 和 [befriended_child.GetBestName] 很快成了好朋友.;;;;;;;;;;x
 EVTOPTA_ZE_22905;真不错!;;;;;;;;;;x
 EVTDESC_ZE_22906;你正在惬意地与人交谈 忽然被一阵鬼哭狼嚎所打断, 打探一下发现好像是 [introduced_heir.GetFirstName] 跟一位来访封臣的小孩打起来了! 你把两个小孩分开, 但很显然 [introduced_heir.GetFirstName] 跟 [rival_child.GetBestName] 在这次遭遇之后再也不可能成为朋友了...;;;;;;;;;;x
@@ -305,11 +305,11 @@ STOP_ENFORCE_PEACE_INTERACTION_DECLINE_SETUP;要求停止强制和平被否决;;
 ASK_REALM_PEACE_INTERACTION_ACCEPT_SETUP;强制和平的要求被接受;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_SETUP;接受内阁提出的要求;;;;;;;;;;x
 FORCE_JOIN_FACTION_INTERACTION_ACCEPT_SETUP;强制加入派系;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_DECLINE_SETUP;阁员拒绝;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_DECLINE_SETUP;内阁成员拒绝;;;;;;;;;;x
 succession_voting_power;内阁权力;;;;;;;;;;x
 succession_voting_power_desc;内阁权力 关于维持自身职位和继承人的选择;;;;;;;;;;x
-succession_voting_power_0_desc;领主拥有至高权利选择继承法 并可凭借自己的意愿更换阁员.\n;;;;;;;;;;x
-succession_voting_power_1_desc;内阁的权利膨胀到了极限, 领主无法随心所欲地替换阁员 而且无法控制领地内的继承法.\n;;;;;;;;;;x
+succession_voting_power_0_desc;领主拥有选择继承法的至高权力，并可凭借自己的意愿更换内阁成员。\n;;;;;;;;;;x
+succession_voting_power_1_desc;内阁的权利膨胀到了极限，领主无法随心所欲地替换内阁成员，而且无法完全控制领地内的继承法。\n;;;;;;;;;;x
 succession_voting_power_0_option;受限;;;;;;;;;;x
 succession_voting_power_1_option;完全;;;;;;;;;;x
 succession_voting_power_0;有限内阁权力;;;;;;;;;;x
@@ -325,9 +325,9 @@ SM_CONTEXTMUSIC;情景相关音乐;;;;;;;;;;x
 MINIMAP_NEXTSONG;下一曲;;;;;;;;;;x
 MINIMAP_NEXTSONG_DELAYED;正在播放: $SONG|Y$;;;;;;;;;;x
 PEACE_ENFORCE_COUNCIL_DISCONTENT;内阁必须处于满意状态;;;;;;;;;;x
-COUNCIL_DISCONTENT_EFFECT;阁员无法加入或者组织 §Y派系§! 如果内阁处于 §Y满意§! 状态 并且 §Y宣战§! 法 被设定为 §Y内阁§! (游牧和部落阁员 无论何时都可加入或者组织派系).\n领主无法 §Y强制领内和平§! 如果内阁处于 §Y不满§! 状态.;;;;;;;;;;x
-alert_council_discontent_delayed;您的内阁已经处于不满状态达 $DISCONTENT_DURATION|Y$ 个月, 并将持续到 §Y$DISCONTENT_END_DATE$§!. 这意味着 如果阁员曾经因法律被禁止创建跟加入派系, 他们现在可以这么做. 这将很可能会动摇国本.;;;;;;;;;;x
-alert_liege_council_discontent_delayed;您领主的内阁已经处于不满状态达 $DISCONTENT_DURATION$ 个月, 并将持续到 §Y$DISCONTENT_END_DATE$§!. 这意味着 如果阁员曾经因法律被禁止创建跟加入派系, 他们现在可以这么做. 这将很可能会动摇国本.;;;;;;;;;;x
+COUNCIL_DISCONTENT_EFFECT;在内阁处于§Y满意§!状态并且§Y宣战§!法被设定为§Y内阁§!的时候，内阁成员将无法加入或者组织§Y派系§!(游牧和部落的内阁成员无论何时都可加入或者组织派系)。\n在内阁处于 §Y不满§! 状态的时候，领主无法§Y强制领内和平§!。;;;;;;;;;;x
+alert_council_discontent_delayed;您的内阁已经处于不满状态长达$DISCONTENT_DURATION|Y$个月, 并将持续到§Y$DISCONTENT_END_DATE$§!。这意味着如果有内阁成员曾经因法律被禁止创建跟加入派系，那么他们现在可以这么做。这将很可能会动摇国本。;;;;;;;;;;x
+alert_liege_council_discontent_delayed;您领主的内阁已经处于不满状态长达$DISCONTENT_DURATION$个月, 并将持续到§Y$DISCONTENT_END_DATE$§!。这意味着如果有内阁成员曾经因法律被禁止创建跟加入派系，那么他们现在可以这么做。这将很可能会动摇国本。;;;;;;;;;;x
 coalitions_title;$GROUP$ 共同防御协定 针对 $TARGET$;;;;;;;;;;x
 coalition_group;§Y成员:§!$MEMBERS$;;;;;;;;;;x
 gov_bad_pope;教廷;;;;;;;;;;x
@@ -351,13 +351,13 @@ WANTS_PARDON;我不想坐牢;;;;;;;;;;x
 COUNCIL_ELECTIVE_DESC;内阁选举制 是一种独特的继承制 仅可通过颁布特定法律而实现. 领主和每名内阁成员 可提名一位继承人 从直属封臣 婚生子女 以及领主的配偶中选择. 每位内阁成员拥有一票, 不管他们有没有领地. 这种选举继承法将不考虑投票者的头衔, 无论领主还是内阁成员每人都只有一票. 内阁选举制非常受封臣的欢迎.;;;;;;;;;;x
 IS_POWERFUL_VASSAL_TRIGGER;$CHAR$ 是一位强力封臣.\n;;;;;;;;;;x
 IS_NOT_POWERFUL_VASSAL_TRIGGER;$CHAR$ 不是一位强力封臣.\n;;;;;;;;;;x
-CANNOT_JOIN_FACTION_COUNCIL_CONTENT;§R你是内阁成员 内阁投票决定宣战, 你只能在内阁不满的时候创建或者加入派系 .§!;;;;;;;;;;x
+CANNOT_JOIN_FACTION_COUNCIL_CONTENT;§R你是内阁成员并且内阁投票决定宣战与否，你只能在内阁不满的时候创建或者加入派系。§!;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_IS_IN_PRISON;§Y[Recipient.GetTitledFirstName]§! 未被囚禁;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_NOT_INCAPABLE;§Y[Recipient.GetTitledFirstName]§! 没有残障;;;;;;;;;;x
-EVTDESCHL1;[FromFrom.GetTitledName] 已经决定放弃游牧生活 并定居在 [FromFrom.PrimaryTitle.GetName] 和 [FromFrom.GetHerHis] 追随者们, 使之成为 [FromFrom.Culture.GetName] 人新的家乡.;;;;;;;;;;x
+EVTDESCHL1;[FromFrom.GetTitledName]已经决定放弃游牧生活并和[FromFrom.GetHerHis]追随者们定居在[FromFrom.PrimaryTitle.GetName]，使之成为 [FromFrom.Culture.GetName]人的新家乡。;;;;;;;;;;x
 FORM_NON_AGGRESSION_PACT_INTERACTION_TITLE;提出签订共同防御协定;;;;;;;;;;x
-malcontent_desc;愤愤不平的阁员对国事现状会非常不满. 他们是内阁中的麻烦 会一直反对领主的意愿 除非立即能够获得权力.;;;;;;;;;;x
-zealot_desc;宗教狂热的阁员会努力把宗教事务摆在领内政治议程的优先项. 如果存在宗教战争的目标 这位阁员将反对对其他目标开战. 这位阁员同时会更倾向于 对异端和异教角色更加敌对.;;;;;;;;;;x
+malcontent_desc;愤愤不平的内阁成员对国事现状会非常不满。他们是内阁中的麻烦，除非立即能够获得权力，否则他们会一直反对领主的意愿。;;;;;;;;;;x
+zealot_desc;宗教狂热的内阁成员会努力把宗教事务摆在领内政治议程的优先项。如果存在宗教战争的目标，这位内阁成员将反对对其他目标开战。这位内阁成员也会更倾向于支持对异端和异教角色敌对的行为。;;;;;;;;;;x
 robust;健壮;;;;;;;;;;x
 feeble;脆弱;;;;;;;;;;x
 robust_desc;该人物身体健壮.;;;;;;;;;;x
@@ -365,7 +365,7 @@ feeble_desc;该人物身体抱恙.;;;;;;;;;;x
 weak_desc;该人物天生体弱多病.;;;;;;;;;;x
 shrewd;精明;;;;;;;;;;x
 shrewd_desc;该人物发展出了敏锐精明的心智.;;;;;;;;;;x
-dull;迟钝;;;;;;;;;;x
+dull;笨拙;;;;;;;;;;x
 dull_desc;这人不可能脱颖而出;;;;;;;;;;x
 suicide;自杀;;;;;;;;;;x
 INSULT_SCARECROW;稻草人;;;;;;;;;;x

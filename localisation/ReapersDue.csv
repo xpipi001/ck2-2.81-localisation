@@ -207,7 +207,7 @@ seaking;海贼王;;;;;;;;;;x
 seaking_desc;这名角色的恐怖声名连遥远之地也都知晓。凡可见咸水之处，皆有海贼王的恐惧。;;;;;;;;;;x
 TOG.3321.d;少有在世的人具有比你更恐怖的声名。其他维京海盗仅仅只是劫掠，你却摧毁整个市镇和城堡，只留下一个幸存者去传播毁灭者[Root.GetFirstName]的威名。;;;;;;;;;;x
 TOG.3321.a;还有更多工作要做。;;;;;;;;;;x
-TOG.3322.d;人皆称你为海贼王[GetFirstName]，因你能从任何地方拿走任何东西，只要那里有汹涌的波涛在拍击岩石和沙砾。没有[Root.GetManWoman]更会驾船，没有[Root.GetManWoman]更能战斗，没有[Root.GetManWoman]能带来更多恐惧。;;;;;;;;;;x
+TOG.3322.d;人皆称你为海王[GetFirstName]，因你能从任何地方拿走任何东西，只要那里惊涛拍岸。无人比[Root.GetManWoman]更会驾船，无人比[Root.GetManWoman]更英勇善战，无人比[Root.GetManWoman]能带来更多恐惧。;;;;;;;;;;x
 TOG.3322.a;我不耕种。;;;;;;;;;;x
 death_text_default;虽然并非特别有福，我们仍祝福[GetFirstName]在死后获得安宁;;;;;;;;;;x
 death_text_neutral;虽然并非特别有福，我们仍祝福[GetFirstName]在死后获得安宁;;;;;;;;;;x
@@ -290,7 +290,7 @@ EVTOPTA_RIP_11510;无限的力量！;;;;;;;;;;x
 EVTDESC_RIP_11511;我刚收到消息，疯狂的食人者[FromFrom.GetTitledName]吃掉了我的[GetFromRelation][From.GetFirstName]！[Root.Religion.GetRandomGodNameCap]啊！这是人干的事？;;;;;;;;;;x
 EVTOPTA_RIP_11511;是可忍孰不可忍！;;;;;;;;;;x
 crazy_cannibal;疯狂的食人者;;;;;;;;;;x
-crazy_cannibal_desc;这个堕落的角色被认为是一个恶毒的食人魔，甚至都不试图隐藏事实！;;;;;;;;;;x
+crazy_cannibal_desc;这个堕落的角色被认为是一个恶毒的食人魔，这家伙甚至不试图隐藏事实！;;;;;;;;;;x
 RULE_AI_INTRIGUE;§B生活之道:§! AI密谋;;;;;;;;;;x
 RULE_AI_INTRIGUE_ON_DESC;AI统治者若开启密谋生活重心，会阴谋并尝试绑架或谋杀其他角色。;;;;;;;;;;x
 RULE_AI_INTRIGUE_OFF_DESC;AI统治者绝不会选择密谋生活重心;;;;;;;;;;x
@@ -1442,9 +1442,9 @@ EVTDESC_77794;你的[GetFromRelation][From.GetFirstName]要求你考虑下让她
 EVTDESC_77795;你的[GetFromRelation][From.GetFirstName]要求你考虑下让她担任你的[Root.GetSpymasterName]。虽然你确定她一定能胜任，但是这样会打破传统，你的封臣们不会喜欢这样离经叛道的事情...;;;;;;;;;;x
 EVTOPTA_77795;这是个好主意，[From.GetFirstName]！;;;;;;;;;;x
 EVTOPTB_77795;你怎么敢说这么不合适的东西？;;;;;;;;;;x
-scandalous_councillor_1;遭人非议的内阁人选;;;;;;;;;;x
-scandalous_councillor_2;遭人非议的内阁人选;;;;;;;;;;x
-scandalous_councillor_3;遭人非议的内阁人选;;;;;;;;;;x
+scandalous_councillor_1;遭人非议的内阁成员;;;;;;;;;;x
+scandalous_councillor_2;遭人非议的内阁成员;;;;;;;;;;x
+scandalous_councillor_3;遭人非议的内阁成员;;;;;;;;;;x
 hunting_dead;猎杀亡灵;;;;;;;;;;x
 EVTNAME_RIP_22000;活死人之日;;;;;;;;;;x
 EVTDSC_RIP_22000;一开始只是些传言，但时至今日已经无人可以否认可怕的疾病正蹂躏着整个世界。街道和田野变得空空荡荡。你的下属们有的逃离了传染最剧烈的地区，但更多人已经被疾病打倒。\n\n如今又有新的流言在传播。他们说死人正在从墓地中爬出，重新行走在大地上。甚至有传言说这些不死大军正在攻击活着的人们。目前为止没有确切证实，你当众宣布这些报告是伪报。但是，私下里，你也没有任何信心。上一个恐怖的流言可被证明了是真实的……;;;;;;;;;;x
@@ -1688,7 +1688,7 @@ EVTDSC_GBC_137;我们终于在一起了，[gbc_lover.GetFirstName]和我。本�
 EVTOPTA_GBC_137;[gbc_lover.GetFirstName]，我的[GetRootFromCompliment]，我爱你！;;;;;;;;;;x
 EVTDSC_GBC_140;[gbc_rival.GetTitledFirstName]的大型狩猎终于结束了。这几周至少可以用……多事之秋来形容。;;;;;;;;;;x
 EVTOPTA_GBC_140;毕竟，我很开心能回家。;;;;;;;;;;x
-EVTDSC_GBC_141;啊，伟大的[Root.Religion.GetHighGodName]，你是否没有仁慈之心？！我之前在森林里听到的惨叫声原来是[gbc_lover.GetFirstName]的！[gbc_lover.GetSheHeCap]被一只狼野蛮地袭击了。当他们找到[gbc_lover.GetHerHim]，[gbc_lover.GetHerHis]的心还在跳动，不过已经太迟了。;;;;;;;;;;x
+EVTDSC_GBC_141;啊，伟大的[Root.Religion.GetHighGodName]，你是否没有仁慈之心？！我之前在森林里听到的惨叫声原来是[gbc_lover.GetFirstName]的！[gbc_lover.GetSheHeCap]被一头狼野蛮地袭击了。当他们找到[gbc_lover.GetHerHim]，[gbc_lover.GetHerHis]的心还在跳动，不过已经太迟了。;;;;;;;;;;x
 EVTOPTA_GBC_141;我当时能救[gbc_lover.GetHerHim]吗？这是我的过错么？;;;;;;;;;;x
 EVTDSC_GBC_142;致[GetFromRootInsult][Root.GetTitledFirstName]，\n你对我的[gbc_lover.GetHusbandWife]那肮脏下流的举止已经败坏了我的名誉。我不会再忍受下去！我接收你这条狗的挑战。把你的后事都处理好，因为我不会展现任何仁慈！\n\n[gbc_rival.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_GBC_142;你才是应该害怕的那个，你这个[GetRootFromInsult]！;;;;;;;;;;x
@@ -2200,7 +2200,7 @@ feeble_death;因虚弱体质;;;;;;;;;;x
 vsync;垂直同步;;;;;;;;;;x
 ADDHOLDING_EFFECT;增加$VAL|Y0$地产空格给$NAME|Y$;;;;;;;;;;x
 SET_TRUCE_EFFECT;在$CHAR|Y$和$TARGET|Y$之间执行停战协定直到$DATE|Y$。;;;;;;;;;;x
-GAME_BOOK;王国风云II游戏书;;;;;;;;;;x
+GAME_BOOK;十字军之王II游戏书;;;;;;;;;;x
 PURCHASE_GAME_BOOK;购买游戏书可获得独特内容;;;;;;;;;;x
 HEADER;$KEY|Y$\n;;;;;;;;;;x
 RULED_TOO_LONG_PENALTY;统治过久：$VAL|=+0$;;;;;;;;;;x
@@ -2937,7 +2937,7 @@ EVTOPT_WoL_7091_CHASTE;我两腰间如同着火！赞美[Root.Religion.GetRandom
 EVTOPT_WoL_7091_POX;疱疹……消失了！赞美[Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTOPT_WoL_7091_LEPER;我又能感受到我的脸了！我的麻风治好了！;;;;;;;;;;x
 EVTOPT_WoL_7091_LUNATIC;那可怕的哀嚎……现在几乎安静了。;;;;;;;;;;x
-EVTOPT_WoL_7091;我决定成为更好的[Root.GetManWoman];;;;;;;;;;x
+EVTOPT_WoL_7091;我决定成为更好的[Root.GetManWoman]人;;;;;;;;;;x
 RULE_DEJURE_DURATION;法理同化历时;;;;;;;;;;x
 RULE_DEJURE_DURATION_DEFAULT_DESC;次级领地需要100年去变为上级法理领地的一部分。;;;;;;;;;;x
 RULE_OPTION_LONGER;长;;;;;;;;;;x
@@ -3012,7 +3012,7 @@ EVTOPTA_RIP_5055;呃...门轴？;;;;;;;;;;x
 scurvy;坏血病;;;;;;;;;;x
 scurvy_desc;这个角色得了坏血病——疲惫、出血、皮下瘀点，如果继续不采取治疗还可能导致牙齿脱落、发烧，最终甚至死亡。;;;;;;;;;;x
 scurvy_death;坏血病;;;;;;;;;;x
-EVTDESC_RIP_4501;不断有朝圣者们经过位于[pilgrim_physician_hospital.Location.GetName]的医院。但是你听到传言，有一位朝圣者在医院停留了好几天，照顾那些生病和受伤的人们，并且帮助任何需要帮助的人。他们说[pilgrim_physician.GetSheHe]是一位技术精湛的医生，或许值得被重用。;;;;;;;;;;x
+EVTDESC_RIP_4501;不断有朝圣者们经过位于[pilgrim_physician_hospital.GetName]的医院。但是你听到传言，有一位朝圣者在医院停留了好几天，照顾那些生病和受伤的人们，并且帮助任何需要帮助的人。他们说[pilgrim_physician.GetSheHe]是一位技术精湛的医生，或许值得被重用。;;;;;;;;;;x
 EVTOPTA_RIP_4501;把这位[pilgrim_physician.GetManWoman]请过来。;;;;;;;;;;x
 EVTOPTB_RIP_4501_A;我并不需要[pilgrim_physician.GetHerHis]服务。;;;;;;;;;;x
 EVTOPTB_RIP_4501_B;我已经有一位医生了。;;;;;;;;;;x
@@ -3727,7 +3727,7 @@ b_rupsi;卢斯;;;;;;;;;;x
 b_sagra;娑伽罗;;;;;;;;;;x
 b_sahna;娑那;;;;;;;;;;x
 b_saitual;室利兜阿;;;;;;;;;;x
-b_sakyang;新疆;;;;;;;;;;x
+b_sakyang;沙羌;;;;;;;;;;x
 b_samdong;僧东;;;;;;;;;;x
 b_sanjeli;桑祇梨;;;;;;;;;;x
 b_sankarpur;桑迦补罗;;;;;;;;;;x
@@ -3843,7 +3843,7 @@ EVTOPTC_77761_TOOLTIP;要求获得§Y[From.GetTitledFirstName]§!内阁中[Root.
 EVTOPTD_77761;[From.GetFirstName]的内阁中没人能挑战我的诡诈;;;;;;;;;;x
 EVTOPTD_77761_TOOLTIP;要求获得§Y[From.GetTitledFirstName]§!内阁中[Root.GetSpymasterName]的位置。;;;;;;;;;;x
 EVTOPTE_77761;没用的。[From.GetFirstName]绝不会让我进入内阁。;;;;;;;;;;x
-EVTOPTE_77761_TOOLTIP;放弃你获得§Y[From.GetTitledFirstName]§!内阁职位的野心。\n;;;;;;;;;;x
+EVTOPTE_77761_TOOLTIP;放弃你获得§Y[From.GetTitledFirstName]§!的内阁席位的野心。\n;;;;;;;;;;x
 EVTDESC_77762;你的封臣[From.GetTitledFirstName]对于你顾问的人选表达了她的不满。她声称她比你内阁中大部分人都要胜任，并将成为一位优秀的[Root.GetChancellorName]。不过，[From.GetSheHe]会是一个充满争议的选择……;;;;;;;;;;x
 EVTDESC_77763;你的封臣[From.GetTitledFirstName]对于你顾问的人选表达了她的不满。她声称她比你内阁中大部分人都要胜任，并将成为一位优秀的[Root.GetMarshalName]。不过，[From.GetSheHe]会是一个充满争议的选择……;;;;;;;;;;x
 EVTDESC_77764;你的封臣[From.GetTitledFirstName]对于你顾问的人选表达了她的不满。她声称她比你内阁中大部分人都要胜任，并将成为一位优秀的[Root.GetTreasurerName]。不过，[From.GetSheHe]会是一个充满争议的选择……;;;;;;;;;;x
@@ -3967,7 +3967,7 @@ AUSTRASIA;奥斯特拉西亚;;;;;;;;;;x
 AUSTRASIA_ADJ;奥斯特拉西亚;;;;;;;;;;x
 EVTNAME62932;奥斯特拉西亚王国;;;;;;;;;;x
 EVTDESC62932;随着加洛林王朝在中法兰克王国统治的结束，此王国再次更普遍地被称呼为其旧名奥斯特拉西亚。;;;;;;;;;;x
-EVTNAME534;[From.Religion.GetCrusadeName]目标[Root.GetBaseName];;;;;;;;;;x
+EVTNAME534;对[Root.GetBaseName]的[From.Religion.GetCrusadeName];;;;;;;;;;x
 EVTDESC534_converted;目标[Root.GetBaseName]的[From.Religion.GetCrusadeName]对阵[New.GetTitledName]，结果[New.GetTitledName]转由[From.Religion.GetName]持有。[From.Religion.GetRandomGodNameCap]必定满意！;;;;;;;;;;x
 EVTDESC534_coup;目标[Root.GetBaseName]的[From.Religion.GetCrusadeName]对阵[New.GetTitledName]，结果[New.GetSheHe]被推翻。[From.Religion.GetGroupName]的信徒将会失望。;;;;;;;;;;x
 vassal_wars_law;封臣宣战;;;;;;;;;;x

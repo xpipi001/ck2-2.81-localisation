@@ -28,7 +28,7 @@ IS_DE_FACTO_LIEGE;是事实领主;;;;;;;;;;x
 LEAVE_FACTION_COERCED;不能离开派系因为你是被威逼加入的;;;;;;;;;;x
 INVITE_FAVOR_MARRIED;$RECIPIENT|Y$必须是未婚;;;;;;;;;;x
 INVITE_FAVOR_LIEGE_RELATIVE;$RECIPIENT|Y$不能是$LIEGE|Y$的近亲;;;;;;;;;;x
-INVITE_FAVOR_JOB;$RECIPIENT|Y$不能有内阁职位;;;;;;;;;;x
+INVITE_FAVOR_JOB;$RECIPIENT|Y$不能有内阁席位;;;;;;;;;;x
 AIREASON_LIEGE_HATE;恨他们的领主——§Y[GetTitledName]§!;;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_TITLE;请求境内和平;;;;;;;;;;x
 ASK_REALM_PEACE_INTERACTION_DESC;用一个§Y人情§!请求你的领主执行§Y境内和平§!。;;;;;;;;;;x
@@ -43,7 +43,7 @@ ASK_COUNCIL_POSITION_INTERACTION_LETTER;\n为了让你还我的人情，我要�
 ASK_COUNCIL_POSITION_INTERACTION_LETTER_GET;\n作为你欠我的回报，授予我一个你内阁中的职位。;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!用§Y[Recipient.GetBestName]§!的人情得到了$POSITION|Y$职位$FIRED$;;;;;;;;;;x
 COUNCIL_POSITION_FIRED;，与此同时$FIRED|Y$被解雇;;;;;;;;;;x
-coerced_into_council_position;被迫授予了内阁职位;;;;;;;;;;x
+coerced_into_council_position;被迫授予了内阁席位;;;;;;;;;;x
 DEMAND_POSITION_MUST_HAVE_POSITIONS;$RECIPIENT|Y$必须有$ACTOR|Y$可以胜任的§YCouncil§!职位;;;;;;;;;;x
 DEMAND_POSITION_CAN_HOLD_POSITION;$ACTOR|Y$可以担任$RECIPIENT|Y$的$POSITION|Y$;;;;;;;;;;x
 DEMAND_POSITION_MUST_CHOOSE_POSITION;$ACTOR|Y$必须选择一个§YCouncil§!职位来请求$RECIPIENT|Y$;;;;;;;;;;x
@@ -91,6 +91,6 @@ FAVOR_INVITE;强制同意邀入宫廷的提案;;;;;;;;;;x
 FAVOR_JOIN_WAR;强迫同意军队召唤;;;;;;;;;;x
 FAVOR_EMBARGO;强迫同意要求禁运的提案;;;;;;;;;;x
 FAVOR_JOIN_FACTION;强迫某人加入你领导的派系;;;;;;;;;;x
-FAVOR_COUNCIL_POSITION;强迫你的领主授予你内阁职位;;;;;;;;;;x
+FAVOR_COUNCIL_POSITION;强迫你的领主授予你内阁席位;;;;;;;;;;x
 FAVOR_PREVENT_ENFORCE_PEACE;阻止或强迫你的领主实行境内和平;;;;;;;;;;x
 CALL_IN_FAVOR_INTERACTION_TITLE;呼吁内阁支持;;;;;;;;;;x

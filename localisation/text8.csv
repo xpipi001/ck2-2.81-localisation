@@ -81,7 +81,7 @@ EVTNAME620;[Root.GetBaseName][From.Religion.GetCrusadeName]大功告成!;;;;;;;;
 EVTDESC620;在对抗[New.GetTitledName]的[Root.GetBaseName][From.Religion.GetCrusadeName]中，[From.Religion.GetRandomGodNameCap]赢得了[From.GetTitledName] 胜利. [From.RelHead.GetTitledName]谕令整个[From.Religion.GetGroupName]世界欢庆一个月!;;;;;;;;;;x
 EVTOPTA620;赞美[From.Religion.GetRandomGodName]!;;;;;;;;;;x
 EVTNAME621;对[Root.GetBaseName]的[From.Religion.GetCrusadeName]失败了!;;;;;;;;;;x
-EVTDESC621;[From.Religion.GetRandomGodNameCap] 似乎不再眷顾 [From.Religion.GetGroupName] 了. 在反复的拉锯和转进之后,  [From.GetTitledName] 下令取消了对抗 [New.GetTitledName] 旨在夺取 [Root.GetBaseName] 的 [From.Religion.GetCrusadeName].;;;;;;;;;;x
+EVTDESC621;[From.Religion.GetRandomGodNameCap] 似乎不再眷顾 [From.Religion.GetGroupName] 了。 在反复的拉锯和转进之后，[From.GetTitledName] 下令取消了对抗 [New.GetTitledName] 旨在夺取 [Root.GetBaseName] 的 [From.Religion.GetCrusadeName]。;;;;;;;;;;x
 TITLE_CREATION_NOT_PRIMARY_TYPE;特殊头衔持有者无法创建或篡夺相等或更高级别的头衔.;;;;;;;;;;x
 IS_NOT_LOCATED_IN_AREA;不在;;;;;;;;;;x
 IS_LOCATED_IN_AREA;在;;;;;;;;;;x
@@ -548,7 +548,7 @@ EVTDESC100043;[From.GetFirstName]同意帮我变得更加自信和勇敢，教�
 EVTOPTA100043;最好的朋友，永远如此！;;;;;;;;;;x
 EVTDESC100044;我请求[From.GetFirstName]帮助我，恳求甚至试图威胁[From.GetHerHim]帮我变得更自信和勇敢，但[From.GetFirstName]还是拒绝了.[From.GetSheHeCap]不想分享[From.GetHerHis]秘密.;;;;;;;;;;x
 EVTOPTA100044;[From.GetFirstName]一定是害怕出现仇敌！;;;;;;;;;;x
-EVTDESC100050;我想找到一个值得我信任的人，一个比我更合群的人.[Root.GetSheHe]向人们介绍我，并避免使我被认为是个傻瓜.我想找一个和我同龄的女孩，她可以和我一起分享秘密，闲聊八卦，一边谈论男孩子一边傻笑.;;;;;;;;;;x
+EVTDESC100050;我想找到一个值得我信任的人，一个比我更合群的人。[Root.GetSheHe]向人们介绍我，并避免使我被认为是个傻瓜。我想找一个和我同龄的女孩，她可以和我一起分享秘密，闲聊八卦，一边谈论男孩子一边傻笑。;;;;;;;;;;x
 EVTOTPA100050;应该有能这样和我谈话的人！;;;;;;;;;;x
 EVTTOOLTIP100051;[Root.GetTitledFirstName]同[This.GetTitledFirstName]见面;;;;;;;;;;x
 EVTOTPB100050;什么？她？绝不！;;;;;;;;;;x

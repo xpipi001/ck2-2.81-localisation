@@ -140,10 +140,10 @@ EVTNAME107329;教学战役;;;;;;;;;;x
 EVTDESC107329;你被授予三种科技点数. 选几个你有兴趣的进步领域然后点击对应的投资按钮花费科技点数,提高科技等级. 科技点数随着时间增长, 但如果邻近省份在某个领域更加进步,对应的科技也会慢慢进步.;;;;;;;;;;x
 EVTOPTA107329;了解！;;;;;;;;;;x
 EVTNAME107330;教学战役;;;;;;;;;;x
-EVTDESC107330;你现在有个儿子作为继承人了. 你的国度使用男性优先均分继承法. 也就是说女性质有在没有男性继承人的前提下才可以继承,同时所有头衔都分给子嗣. 可用的继承法和性别法在法律界面可以查看.;;;;;;;;;;x
+EVTDESC107330;你现在有个儿子作为继承人了。你的领地使用男性优先均分继承法。也就是说女性只有在没有男性继承人的前提下才可以继承，同时所有头衔都分给子嗣。可用的继承法和性别法在法律界面可以查看。;;;;;;;;;;x
 EVTOPTA107330;了解！;;;;;;;;;;x
 EVTNAME107331;教学战役;;;;;;;;;;x
-EVTDESC107331;你现在有个女儿作为继承人了。你的国度使用男性优先均分继承法，也就是说女性在没有男性继承人的前提下才可以继承，同时所有头衔都分给子嗣。需要知道的是, 封臣通常不喜欢女性作为统治者(中世纪嘛)。可用的继承法和性别法在法律界面可以查看。;;;;;;;;;;x
+EVTDESC107331;你现在有个女儿作为继承人了。你的领地使用男性优先均分继承法，也就是说女性只有在没有男性继承人的前提下才可以继承，同时所有头衔都分给子嗣。需要知道的是，封臣通常不喜欢女性作为统治者(中世纪嘛)。可用的继承法和性别法在法律界面可以查看。;;;;;;;;;;x
 EVTOPTA107331;了解！;;;;;;;;;;x
 EVTNAME107332;教学战役;;;;;;;;;;x
 EVTDESC107332;你也许在法律界面看到过了，某些继承法需要更高的王权等级。而在同一个窗口中，王权法等级代表着你在法律上对封臣有多少权威。包括王权法在内的这种名字隔壁有王冠的法律，君主一生只能更改一次，而且只能一次提升或降低一级。;;;;;;;;;;x
@@ -216,7 +216,7 @@ EVTDESC_CM_3;靠近莱茵河口的低地地区长期以来便是帝国和文化�
 EVTOPTA_CM_3;荷兰人?有意思.;;;;;;;;;;x
 EVTDESC_CM_4;长期以来, [Root.GetName] 郡的传统萨克森民众在外国人的统治下与他们的日耳曼表亲愈发相像了.;;;;;;;;;;x
 EVTOPTA_CM_4;他们现在是日耳曼人.;;;;;;;;;;x
-EVTDESC_CM_5;[Root.GetName] 郡的法兰克人吸纳了许多拉丁习俗, 他们不再被认为是日耳曼人了. 学者称他们为法兰西人.;;;;;;;;;;x
+EVTDESC_CM_5;[Root.GetName]郡的法兰克人吸纳了许多拉丁习俗，他们不再被认为是日耳曼人了。学者称他们为法兰西人。;;;;;;;;;;x
 EVTOPTA_CM_5;时过境迁啊.;;;;;;;;;;x
 EVTDESC_CM_6;在拉丁文化的影响之下,  [Root.GetName] 郡的西哥特人如今接受了全新的语言和习俗, 成为奥克人.;;;;;;;;;;x
 EVTOPTA_CM_6;奥西丹,唔..;;;;;;;;;;x
@@ -569,11 +569,11 @@ CHRONICLE_BIRTH_FATHER;[Root.GetFirstName],[Root.Father.GetTitledName]的第一�
 CHRONICLE_BIRTH_MOTHER;[Root.GetFirstName],[Root.Mother.GetTitledName]的第一个[Root.GetSonDaughter]出生了.;;;;;;;;;;x
 CHRONICLE_WAR_DECLARED_ATTACKER;[From.GetTitledName]征伐 [Prev.GetTitledName].;;;;;;;;;;x
 CHRONICLE_WAR_DECLARED_DEFENDER;[Prev.PrimaryTitle.GetName] 被 [From.PrimaryTitle.GetName][From.Culture.GetName]进攻,进攻方的统治者为 [From.GetTitledFirstNameWithNick].;;;;;;;;;;x
-CHRONICLE_FRIENDLY_CRUSADE_STARTED;[Root.GetTitledName]发起了一次 [Root.Religion.GetCrusadeName],其中所有虔诚的 [Root.Religion.GetName]们受到感召而前来[From.GetName] 从[New.Religion.GetName]掌控下重新夺回.;;;;;;;;;;x
-CHRONICLE_UNFRIENDLY_CRUSADE_STARTED;[Root.GetTitledName]发起了一次 [Root.Religion.GetCrusadeName],一众亵渎神灵的[Root.Religion.GetName]受到络绎不绝的号召,前去从[New.Religion.GetName]的手中征服[From.GetName]。;;;;;;;;;;x
-CHRONICLE_CRUSADE_WON;[From.RelHead.GetDynName]发动的[From.Religion.GetCrusadeName]结束.成功地从[New.Religion.GetName]手中占领了[Root.GetName].;;;;;;;;;;x
-CHRONICLE_CRUSADE_WON_AND_I_GOT_THE_TITLE;发动的[From.Religion.GetCrusadeName]由[From.RelHead.GetDynName]领导的战争已结束.成功的占领[Root.GetName]从[New.Religion.GetName]的手中.[From.GetDynName]从而成为占领地的新[From.GetLordLady].;;;;;;;;;;x
-CHRONICLE_CRUSADE_LOST;[From.GetDynName]发动的[From.Religion.GetCrusadeName]以失败告终.占领[Root.GetName]的目标,终是痴人说梦.;;;;;;;;;;x
+CHRONICLE_FRIENDLY_CRUSADE_STARTED;[Root.GetTitledName]发起了一次 [Root.Religion.GetCrusadeName]，其中所有虔诚的 [Root.Religion.GetName]们受到感召而前来[From.GetName] 从[New.Religion.GetName]掌控下重新夺回。;;;;;;;;;;x
+CHRONICLE_UNFRIENDLY_CRUSADE_STARTED;[Root.GetTitledName]发起了一次 [Root.Religion.GetCrusadeName]，一众亵渎神灵的[Root.Religion.GetName]受到络绎不绝的号召，前去从[New.Religion.GetName]的手中征服[From.GetName]。;;;;;;;;;;x
+CHRONICLE_CRUSADE_WON;[From.RelHead.GetDynName]发动的[From.Religion.GetCrusadeName]结束。成功地从[New.Religion.GetName]手中占领了[Root.GetName]。;;;;;;;;;;x
+CHRONICLE_CRUSADE_WON_AND_I_GOT_THE_TITLE;发动的[From.Religion.GetCrusadeName]由[From.RelHead.GetDynName]领导的战争已结束。成功地从[New.Religion.GetName]的手中占领[Root.GetName]。[From.GetDynName]从而成为占领地的新[From.GetLordLady]。;;;;;;;;;;x
+CHRONICLE_CRUSADE_LOST;[From.GetDynName]发动的[From.Religion.GetCrusadeName]以失败告终。占领[Root.GetName]的目标，终是痴人说梦。;;;;;;;;;;x
 CHRONICLE_MONGOL_RUMORS;在[Player.Culture.GetName]的地方上传来奇怪而陌生的传闻.传闻道:东方的草原上,大汗集结了强大而为数众多的军队,向着西方奔袭而来.;;;;;;;;;;x
 CHRONICLE_AZTECS_FIRST_CONTACT;奇怪船只上的陌生人在 [FromFromFrom.Holder.PrimaryTitle.GetAdjective] 的郡 [FromFromFrom.GetName] 登陆, 引起整个地区的不安和流言.;;;;;;;;;;x
 CHRONICLE_AZTEC_INVASION;阿兹台克皇帝带领着部众与军队跨海而来,他们犹如一场可怕的灾难席卷[FromFromFrom.Holder.PrimaryTitle.GetName],除了杀戮与破坏,别无所予.;;;;;;;;;;x
@@ -626,7 +626,7 @@ CHRONICLE_OTHER_REFORMED_PLAYERS_RELIGION;"[Root.Religion.GetName]信仰被人�
 CHRONICLE_PATRON_DEITY_SHIVA;[Root.GetTitledName]宣布,湿婆神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
 CHRONICLE_PATRON_DEITY_VISHNU;[Root.GetTitledName]宣布,毗湿奴神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
 CHRONICLE_PATRON_DEITY_BRAHMA;[Root.GetTitledName]宣布,大梵天神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
-CHRONICLE_PATRON_DEITY_KALI;[Root.GetTitledName]宣布,时母神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
+CHRONICLE_PATRON_DEITY_KALI;[Root.GetTitledName]宣布,迦梨时母神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
 CHRONICLE_PATRON_DEITY_GANESHA;[Root.GetTitledName]宣布,欢喜天象头神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
 CHRONICLE_PATRON_DEITY_GANGA;[Root.GetTitledName]宣布,恒河女神今后将是[Root.GetHerHis]守护神.;;;;;;;;;;x
 CHRONICLE_CHANGE_HINDU_BRANCH_TO_SHAIVIST;众所周知,[Root.GetTitledName]以秉持湿婆派的传统信仰而倍感荣耀.;;;;;;;;;;x
@@ -968,14 +968,14 @@ EVTDESC_CM_6330;我的[Root.GetLordLady],终于出现了一个能除掉[Root.Plo
 EVTOPTA_CM_6330;快请他去干掉[Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;x
 EVTOPTB_CM_6330;请他把所有的蛇都放出来咬.;;;;;;;;;;x
 EVTOPTC_CM_6330;我们应该等等.;;;;;;;;;;x
-EVTDESC_CM_6331;看起来[From.GetTitledName]找了一位会耍蛇的人来完成刺杀.真是一个除掉[From.PlotTarget.GetTitledName]的好机会.;;;;;;;;;;x
+EVTDESC_CM_6331;看起来[From.GetTitledName]找了一位训练杀人用毒蛇的异邦耍蛇人。真是一个除掉[From.PlotTarget.GetTitledName]的好机会。;;;;;;;;;;x
 EVTOPTA_CM_6331;漂亮！!;;;;;;;;;;x
 EVTTITLE_CM_6333;死亡行者;;;;;;;;;;x
 EVTDESC_CM_6333;你正躺在你的隐居藏匿地酣畅大睡,做着重回以往自由快乐时光的梦.突然你被某样东西惊醒,那东西湿湿滑滑地转进你的被毯里.你害怕的抖落那东西,一条小小细长的生物掉在了地板上,就像一条绳子.还没来得及思考,你就感觉手臂剧痛,呼吸困难...寒冷异常...!;;;;;;;;;;x
 EVTOPTA_CM_6333;啊呃...;;;;;;;;;;x
 EVTDESC_CM_6334;新消息,已经成功刺杀[From.GetTitledName]. [From.GetTitledName]已确信被毒蛇咬伤毒发身亡.而这计划的幕后依旧神不知鬼不觉.;;;;;;;;;;x
 EVTOPTA_CM_6334;漂亮！!;;;;;;;;;;x
-EVTDESC_CM_6336;新消息,已经成功刺杀[From.GetTitledName]. [From.GetTitledName]已确信被毒蛇咬伤毒发身亡. 但很不幸,那个耍蛇人被抓起来,还供出是谁指使的谋杀.;;;;;;;;;;x
+EVTDESC_CM_6336;谋杀[From.GetTitledName]的阴谋成功的消息传进了你的耳朵。[From.GetTitledName]被毒蛇咬伤，并且毒发身亡。不幸的是，那个耍蛇人被抓住并且供出是谁指使的谋杀。;;;;;;;;;;x
 EVTOPTA_CM_6336;好吧.;;;;;;;;;;x
 EVTDESC_CM_6337;你正躺在你的隐居藏匿地酣畅大睡,做着重回以往自由快乐时光的梦.突然你感觉某种东西湿湿滑滑地转进你的被毯里.你猛然警醒,发觉事情不妙.你迅速的一手往被毯里一抓,抓到一条冰冷且长满鳞片的生物并拼命地扭动着.你小心地点亮灯光，终于看见你手里抓着的是一条小蛇.你能看见蛇的尖牙冒着毒液,向你张开着.你很清楚这条蛇绝不是偶然出现在这.感谢[Root.Religion.RandomGodName]让你死里逃生.;;;;;;;;;;x
 EVTOPTA_CM_6337;我会查出背后是谁在指使!;;;;;;;;;;x
@@ -994,7 +994,7 @@ EVTDESC_CM_6343;躺在床上,百无聊赖地注视着天花板,没事发生,没�
 EVTOPTA_CM_6343;说好的捆绑play呢...;;;;;;;;;;x
 EVTDESC_CM_6344;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的侍女勒死在[From.GetHerHis]的床上.而且计划没任何人知道.;;;;;;;;;;x
 EVTOPTA_CM_6344;漂亮！棒棒哒!;;;;;;;;;;x
-EVTDESC_CM_6346;最新消息,[From.GetTitledName]被成功谋杀. [From.GetTitledName]已经确信被[From.GetHerHis]的侍女勒死在[From.GetHerHis]的床上.不幸的是,侍女被抓住了,还供出了是谁指使.;;;;;;;;;;x
+EVTDESC_CM_6346;谋杀[From.GetTitledName]的阴谋成功的消息传进了你的耳朵。[From.GetTitledName]被[From.GetHerHis]侍女勒死在[From.GetHerHis]床上。不幸的是，侍女被抓住并且供出是谁指使的谋杀。;;;;;;;;;;x
 EVTOPTA_CM_6346;好吧.;;;;;;;;;;x
 EVTDESC_CM_6347;躺在床上,百无聊赖地注视着天花板,没事发生,没事会发生.藏匿处看不到外面的太阳,实在无趣.也没人跟我说话,更是无聊.有没有人!快来个人!妹抖酱,你在啊...你在玩什么啊?绳子?这么危险的东西还是给我玩吧.侍卫快来玩捆绑play!;;;;;;;;;;x
 EVTOPTA_CM_6347;好好一个妹子就这样浪费了!;;;;;;;;;;x
@@ -1013,7 +1013,7 @@ EVTDESC_CM_6353;好无聊呀.整天坐在房间里,没东西玩耍,没人来看�
 EVTOPTA_CM_6353;啊呃...;;;;;;;;;;x
 EVTDESC_CM_6354;最新消息,[From.GetTitledName]被成功谋杀.显然,[From.GetTitledName]是吃了女巫送[From.GetHerHim]的糖果后死的.这个计划神不知鬼不觉.;;;;;;;;;;x
 EVTOPTA_CM_6354;好棒好棒!;;;;;;;;;;x
-EVTDESC_CM_6356;最新消息,[From.GetTitledName]被成功谋杀.显然,[From.GetTitledName]是吃了女巫送[From.GetHerHim]的糖果后死的.不幸的是,女巫被抓了,并供出了是谁指使的.;;;;;;;;;;x
+EVTDESC_CM_6356;谋杀[From.GetTitledName]的阴谋成功的消息传进了你的耳朵。据说[From.GetTitledName]是吃了女巫送给[From.GetHerHim]的毒糖果后死的。不幸的是，女巫被抓住并且供出是谁指使的谋杀。;;;;;;;;;;x
 EVTOPTA_CM_6356;好吧.;;;;;;;;;;x
 EVTDESC_CM_6357;好无聊呀.整天坐在房间里,没东西玩耍,没人来看你.不过,至少今天有人送来一些礼物来逗你开心.这些糖果看起来好好吃,但就是闻起来有点奇妙.嗯,喵星人过来过来,给你...;;;;;;;;;;x
 EVTOPTA_CM_6357;喵星人你怎么了...怎么了!!;;;;;;;;;;x
@@ -1096,10 +1096,10 @@ faction_lower_tribal_organization_ultimatum_desc;向§Y[Root.Liege.GetBestName]�
 opinion_increased_tribal_organization;提升部落组织度等级;;;;;;;;;;x
 UNCLE;叔叔;;;;;;;;;;x
 AUNT;姑姑;;;;;;;;;;x
-kharijite;卡菲勒派;;;;;;;;;;x
-kharijite_DESC;卡菲勒派系是伊斯兰教的一旁支派系,在公元七世纪早期遭打压与边缘化.他们认为任何不悔改的罪人都是卡菲勒 - 伊斯兰用语中的异教徒,同样也拒绝接受正统哈里发的命令绝对正确的概念.在游戏中展现的特性有:\n§Y*§!卡菲勒派的哈里发是被世俗统治者选出,也可以不设哈里发.\n§Y*§!卡菲勒派的哈里发能随意征服其他卡菲勒派的统治者.\n§Y*§!卡菲勒派的哈里发能发起大吉哈德\n§Y*§!卡菲勒派的统治者能够以及被期许拥有复数妻子\n§Y*§!清真寺的持有者能不受限制由任何人来担任\n§Y*§!卡菲勒派的家族成员在没有足够的领土以及不能赢得战争胜利的情况下会增加腐化度;;;;;;;;;;x
-d_kharijite;卡菲勒派哈里发国;;;;;;;;;;x
-d_kharijite_adj;卡菲勒派哈里发国;;;;;;;;;;x
+kharijite;哈瓦利吉派;;;;;;;;;;x
+kharijite_DESC;哈瓦利吉派是伊斯兰教的一旁支派系,在公元七世纪早期遭打压与边缘化.他们认为任何不悔改的罪人都是卡菲勒 - 伊斯兰用语中的异教徒,同样也拒绝接受正统哈里发的命令绝对正确的概念.在游戏中展现的特性有:\n§Y*§!哈瓦利吉派的哈里发是被世俗统治者选出,也可以不设哈里发.\n§Y*§!哈瓦利吉派的哈里发能随意征服其他卡菲勒派的统治者.\n§Y*§!哈瓦利吉派的哈里发能发起大吉哈德\n§Y*§!哈瓦利吉派的统治者能够以及被期许拥有复数妻子\n§Y*§!清真寺的持有者能不受限制由任何人来担任\n§Y*§!哈瓦利吉派的家族成员在没有足够的领土以及不能赢得战争胜利的情况下会增加腐化度;;;;;;;;;;x
+d_kharijite;哈瓦利吉派哈里发国;;;;;;;;;;x
+d_kharijite_adj;哈瓦利吉派哈里发国;;;;;;;;;;x
 restore_ecumenical_patriarchate_desc;如今我们掌控了君士坦丁堡,因此能够恢复正统教会普世牧首一职.祈求我教能重复往日荣光!;;;;;;;;;;x
 opinion_used;试图利用我;;;;;;;;;;x
 INTERACTION_CAN_CALL_TO_WAR_AGAIN;§Y[Recipient.GetTitledFirstName]§! 没有拒绝我们加入战争的召唤;;;;;;;;;;x
@@ -1115,7 +1115,7 @@ GRANT_VICE_ROYALTY_INTERACTION_0;选择一个头衔作为总督辖区授予给§
 GRANT_VICE_ROYALTY_INTERACTION_1;将 §Y[ThirdPartyTitle.GetFullName]§! 作为总督辖区授予 §Y[Recipient.GetTitledFirstName]§!, [Recipient.GetPossPronoun] 对你的好感将提升 §G$OPINION$§!. 当 §Y[Recipient.GetTitledFirstName]§! 逝世后,头衔将会回到你手上.;;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_2;您的首都将从§Y$CURRENT$§!迁至§Y$NEW$§!.;;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_3;封臣会随之获得以下管辖权: ;;;;;;;;;;x
-GRANT_VICE_ROYALTY_INTERACTION_4;因[Player.Religion.GetPietyName]得到堂区头衔而获得: §G$PIETY$§!.;;;;;;;;;;x
+GRANT_VICE_ROYALTY_INTERACTION_4;宗教领地给予§G$PIETY$§![Player.Religion.GetPietyName];;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_5;§R授予 [Recipient.GetObjectPronoun] 一个 $TITLE$ 会让 [Recipient.GetObjectPronoun] 失去继承顺序!§!;;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_ACCEPT_SETUP;授予总督头衔;;;;;;;;;;x
 GRANT_VICE_ROYALTY_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 将 [ThirdPartyTitle.GetFullName] 授予 §Y[Recipient.GetBestName]§!;;;;;;;;;;x

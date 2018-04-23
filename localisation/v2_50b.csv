@@ -6,7 +6,7 @@ rowdy;粗暴;;;;;;;;;;x
 willful;任性;;;;;;;;;;x
 brooding;沉思;;;;;;;;;;x
 indolent;懒惰;;;;;;;;;;x
-playful;幽默;;;;;;;;;;x
+playful;调皮;;;;;;;;;;x
 conscientious;尽责;;;;;;;;;;x
 fussy;挑剔;;;;;;;;;;x
 curious;好奇;;;;;;;;;;x
@@ -23,7 +23,7 @@ focus_ch_duty_title;使命;;;;;;;;;;x
 focus_ch_duty_desc;[This.GetTitledFirstName] 在宫廷中由守卫与随从教导, 专注于使命与勤勉. 此重心通常的特质结果是 §Y尽责§!。;;;;;;;;;;x
 focus_ch_etiquette;礼仪;;;;;;;;;;x
 focus_ch_etiquette_title;礼仪;;;;;;;;;;x
-focus_ch_etiquette_desc;[This.GetTitledFirstName] 由枢密大臣与其他廷臣教导, 专注于彬彬有礼的举止与礼仪. 此重心通常的特质结果是 §Y玩乐§!和 §Y懒散§!。;;;;;;;;;;x
+focus_ch_etiquette_desc;[This.GetTitledFirstName] 由枢密大臣与其他廷臣教导, 专注于彬彬有礼的举止与礼仪. 此重心通常的特质结果是 §Y调皮§!和 §Y懒散§!。;;;;;;;;;;x
 focus_ch_thrift;节俭;;;;;;;;;;x
 focus_ch_thrift_title;节俭;;;;;;;;;;x
 focus_ch_thrift_desc;[This.GetTitledFirstName] 由工匠和商人教导, 专注于数学与发明. 此重心通常的特质结果是 §Y好奇§!和 §Y挑剔§!。;;;;;;;;;;x
@@ -47,10 +47,10 @@ focus_ed_stewardship_desc;[This.GetTitledFirstName] 专注 [This.GetHerHis] 簿�
 focus_ed_stewardship_title;管理教育;;;;;;;;;;x
 focus_ed_intrigue;密谋;;;;;;;;;;x
 focus_ed_intrigue_title;密谋教育;;;;;;;;;;x
-focus_ed_intrigue_desc;[This.GetTitledFirstName] 专注于 [This.GetHerHis] 密谋与阴影中的演技学习.\n§G玩乐§! 与 §G挑剔§! 的孩子会在这种教育上表现得更好, 而 §R粗暴§! 与 §R亲切§! 的孩子会受到阻碍.;;;;;;;;;;x
+focus_ed_intrigue_desc;[This.GetTitledFirstName] 专注于 [This.GetHerHis] 密谋与阴影中的演技学习.\n§G调皮§! 与 §G挑剔§! 的孩子会在这种教育上表现得更好, 而 §R粗暴§! 与 §R亲切§! 的孩子会受到阻碍.;;;;;;;;;;x
 focus_ed_learning;学问;;;;;;;;;;x
 focus_ed_learning_title;学问教育;;;;;;;;;;x
-focus_ed_learning_desc;[This.GetTitledFirstName] 专注于 [This.GetHerHis] 学问、哲学与宗教上的学习.\n§G怯懦§! 的孩子与 §G狂信者§! 会在这种教育上表现得更好, 而 §R沉思§! 与 §R幽默§! 的孩子会受到阻碍.;;;;;;;;;;x
+focus_ed_learning_desc;[This.GetTitledFirstName] 专注于 [This.GetHerHis] 学问、哲学与宗教上的学习.\n§G怯懦§! 的孩子与 §G狂信者§! 会在这种教育上表现得更好, 而 §R沉思§! 与 §R调皮§! 的孩子会受到阻碍.;;;;;;;;;;x
 silence_is_golden;沉默是金;;;;;;;;;;x
 silence_is_golden_desc;这个角色明智地选择了保持沉默;;;;;;;;;;x
 EVTDESCA_ZE_12000;我无意中发现 [haughty_events_char_1.GetTitledFirstNameWithNick] 在走廊里与一名庶民仆人亲吻.;;;;;;;;;;x
@@ -323,7 +323,7 @@ EVTDESCC_ZE_14110;年轻的 [From.GetFirstName] 修完了[From.GetHerHis]外交�
 EVTDESCD_ZE_14110;年轻的 [From.GetFirstName] 修完了[From.GetHerHis]外交课程。我非常自豪的注意到[From.GetSheHe]已经掌握了相当于大师级别的知识。;;;;;;;;;;x
 EVTOPTA_ZE_14110;好吧;;;;;;;;;;x
 EVTOPTB_ZE_14110;不错;;;;;;;;;;x
-EVTOPTC_ZE_14110;好开心惹;;;;;;;;;;x
+EVTOPTC_ZE_14110;让人高兴。;;;;;;;;;;x
 EVTDESCA_ZE_14200;我修完了战争课程。我觉得真无聊;;;;;;;;;;x
 EVTDESCB_ZE_14200;我修完了战争课程。真是迷人的学科;;;;;;;;;;x
 EVTDESCC_ZE_14200;我修完了战争课程。我觉得我自己在这上面有点天赋;;;;;;;;;;x
@@ -554,7 +554,7 @@ EDUCATION_FOCUS_MARTIAL;教育重点：军事;;;;;;;;;;x
 EDUCATION_FOCUS_STEWARDSHIP;教育重点：管理;;;;;;;;;;x
 EDUCATION_FOCUS_INTRIGUE;教育重点：计谋;;;;;;;;;;x
 EDUCATION_FOCUS_LEARNING;教育重点：学习;;;;;;;;;;x
-erudite;饱学之士;;;;;;;;;;x
+erudite;博学;;;;;;;;;;x
 erudite_desc;此人有学者气息。;;;;;;;;;;x
 stubborn;固执;;;;;;;;;;x
 stubborn_desc;此人像驴一样固执。;;;;;;;;;;x
@@ -661,9 +661,9 @@ zealot;§Y狂热者§!;;;;;;;;;;x
 pragmatist;§Y实用主义者§!;;;;;;;;;;x
 glory_hound;§Y荣誉猎犬§!;;;;;;;;;;x
 LAWS_COUNCIL_POWER;内阁法律;;;;;;;;;;x
-councillors_changed_jobs;最近改变的内阁职位;;;;;;;;;;x
+councillors_changed_jobs;最近改变的内阁席位;;;;;;;;;;x
 COUNCIL_JOBS_TITLE;§Y职位§!;;;;;;;;;;x
-change_council_job;改变内阁职位;;;;;;;;;;x
+change_council_job;改变内阁席位;;;;;;;;;;x
 EVTDESC_ZE_6021;给[moving_councillor.GetTitledName]在内阁中一个什么合适的位置？;;;;;;;;;;x
 REQUEST_SUPPORT_INTERACTION_LONG_DESC;要求[Recipient.GetBestName]投你一票进入内阁。作为交换你欠[Recipient.GetObjectPronoun]一个人情。;;;;;;;;;;x
 REGENCY_VOTING;在§Y摄政§!期间，内阁投票表决所有事务，甚至那些通常在他们权限之外的。;;;;;;;;;;x
@@ -825,7 +825,7 @@ execution_voting_power_0;君主有处决的权力;;;;;;;;;;x
 execution_voting_power_0_desc;君主处决的权力不受干涉。\n;;;;;;;;;;x
 execution_voting_power_0_option;君主;;;;;;;;;;x
 execution_voting_power_1;死刑判决委员会;;;;;;;;;;x
-execution_voting_power_1_desc;阁僚们对死刑表决;;;;;;;;;;x
+execution_voting_power_1_desc;内阁成员决定是否执行死刑。\n;;;;;;;;;;x
 execution_voting_power_1_option;内阁;;;;;;;;;;x
 DYNAMIC_MERCENARY_COMPANY_FEUDAL;[Prev.Capital.County.GetAdjective] 大队;;;;;;;;;;x
 LAW_REJECTED_LOG;§Y$VASSAL$§! 拒绝在 §Y$TITLE$§! 实行 §Y$LAW$§! 法律的提议;;;;;;;;;;x
@@ -836,7 +836,7 @@ EVTDESC8216;为了避免国家因内战而分裂，[From.GetTitledName] 决定�
 faction_increase_council_power_ultimatum;需要扩大内阁的职权;;;;;;;;;;x
 faction_increase_council_power_ultimatum_desc;向§Y[Root.Liege.GetBestName]§!发出最后通牒，要求增加内阁的权力。如果[Root.Liege.GetSubjectPronoun]拒绝遵从，你的派系会起兵反抗。;;;;;;;;;;x
 faction_increase_council_power_short;扩大内阁的职权;;;;;;;;;;x
-faction_increase_council_power_title;在[This.GetName]扩大内阁的职权;;;;;;;;;;x
+faction_increase_council_power_title;在[This.GetName]扩大内阁权利;;;;;;;;;;x
 faction_increase_council_power_desc;派系成员们增加内阁能够制定的法令，而不是君主独断专行。当派系积蓄了足够的力量，§Y[From.GetBestName]§!将会向§Y[From.Liege.GetBestName]§!发出最后通牒。;;;;;;;;;;x
 opinion_increased_council_power;已增加内阁权力;;;;;;;;;;x
 opinion_decreased_council_power;已削减内阁权力;;;;;;;;;;x
@@ -915,10 +915,10 @@ EVTOPTC_ZE_13611_CARP;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;
 EVTOPTC_ZE_13611_FERR;提议在僻静无人的谷仓中彼此相拥。;;;;;;;;;;x
 revoke_title_law;收回头衔;;;;;;;;;;x
 revoke_title_law_desc;法律限制头衔收回.;;;;;;;;;;x
-revoke_title_law_0;不允许收回头衔。;;;;;;;;;;x
+revoke_title_law_0;不允许收回头衔;;;;;;;;;;x
 revoke_title_law_0_desc;君主在任何情况下都不得干涉世袭头衔的所有权。;;;;;;;;;;x
 revoke_title_law_0_option;无;;;;;;;;;;x
-revoke_title_law_1;允许收回头衔。;;;;;;;;;;x
+revoke_title_law_1;允许收回头衔;;;;;;;;;;x
 revoke_title_law_1_desc;君主可以合法地夺取叛徒和私生子的头衔。;;;;;;;;;;x
 revoke_title_law_1_option;允许;;;;;;;;;;x
 revoke_title_law_2;宗教控制授权;;;;;;;;;;x
@@ -966,7 +966,7 @@ banish_voting_power_desc;内阁有权干涉驱逐;;;;;;;;;;x
 banish_voting_power_0;驱逐权;;;;;;;;;;x
 banish_voting_power_1;囚犯驱逐委员会;;;;;;;;;;x
 banish_voting_power_0_desc;君主驱逐囚犯的权力不受干涉。\n;;;;;;;;;;x
-banish_voting_power_1_desc;阁僚对驱逐囚犯表决。\n;;;;;;;;;;x
+banish_voting_power_1_desc;内阁成员决定是否执行驱逐。\n;;;;;;;;;;x
 banish_voting_power_0_option;头衔;;;;;;;;;;x
 banish_voting_power_1_option;内阁;;;;;;;;;;x
 revoke_title_voting_power;收回头衔;;;;;;;;;;x
@@ -1373,8 +1373,8 @@ EVTDESCD_ZE_14710;年轻的 [From.GetFirstName] 已经完成 [From.GetHerHis] �
 EVTDESCE_ZE_14710;年轻的 [From.GetFirstName] 已经完成 [From.GetHerHis] 教育. 由于 [From.GetSheHe] 缺乏指导, 虽然 [From.GetHerHis] 学习知识时很刻苦, 但似乎并没有什么提高.;;;;;;;;;;x
 EVTOPTA_ZE_14710;我辜负了 [From.GetHerHim].;;;;;;;;;;x
 loyalist_desc;一个忠实的内阁成员会是统治者的忠实仆从. 他们将全力支持统治者的决定, 除非统治者侵犯了他们的利益.;;;;;;;;;;x
-pragmatist_desc;实用主义的阁员永远在增加国土以及攫取自身权力上走阻力最小的路线。他们倾向于支持宣称法理领地以及针对领主同文化国家的战争。他们也可能支持针对弱小对手的战争。这种阁员会反对在领地内创立其他强力的封臣 会支持撤销已有强力封臣的头衔。;;;;;;;;;;x
-glory_hound_desc;荣耀追逐犬式的阁员会一直努力要求国家向光辉荣耀的方向前进。他们会反对攻击弱小的邻国，但如果战争是针对强力的对手，他们不会在意宣战理由，只要这仗能增加国土就好。这种阁员也会更倾向于强大的中央集权;;;;;;;;;;x
+pragmatist_desc;实用主义的内阁成员在增加国土以及攫取自身权力方面将永远选择阻力最小的路线。他们倾向于支持收复法理领地以及针对领主同文化国家的战争。他们也可能支持针对弱小对手的战争。这种内阁成员会反对在领地内创立其他强力的封臣，并且会支持撤销已有的强力封臣的头衔。;;;;;;;;;;x
+glory_hound_desc;荣誉猎犬式的内阁成员会一直努力要求国家向光辉荣耀的方向前进。他们会反对攻击弱小的邻国，但如果战争是针对强力的对手，他们不会在意宣战理由，只要这仗能增加国土就好。这种内阁成员也会更倾向于强大的中央集权。;;;;;;;;;;x
 LAWS_TAB_INHERITANCE;继承;;;;;;;;;;x
 LAWS_TAB_COUNCIL;内阁;;;;;;;;;;x
 LAWS_TAB_OBLIGATIONS;义务;;;;;;;;;;x
@@ -1474,16 +1474,16 @@ FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$ 不会投票支持法�
 LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC;你没有内阁法律可选。你需要首先增加部落组织度来解锁它们;;;;;;;;;;x
 LAW_VIEW_NO_COUNCIL_LAWS_DESC;你现在没有内阁法律可选;;;;;;;;;;x
 COUNCIL_JOBS_INSTANT;这里显示影响你国家统计指标的顾问;;;;;;;;;;x
-COUNCIL_JOBS_DELAYED;顾问在你的国家各有职责 会影响国家的统计指标。你的顾问在合适的数值高的情况下会更好地履行职责;;;;;;;;;;x
+COUNCIL_JOBS_DELAYED;顾问在你的国家各有职责，这会影响国家的统计指标。你的顾问在属性值更高的情况下会更好地履行职责。;;;;;;;;;;x
 MINOR_TITLES_TITLE;§Y次级头衔§!;;;;;;;;;;x
 MINOR_TITLES_INSTANT;这里显示你的荣誉头衔和指挥头衔;;;;;;;;;;x
 MINOR_TITLES_DELAYED;荣誉头衔可以授予给角色 改变他对你的看法 指挥头衔则用于带领你的军队。你可以直接从这个界面指定获得这些头衔的角色;;;;;;;;;;x
 MY_COUNCIL_TITLE;§Y我的内阁§!;;;;;;;;;;x
 MY_COUNCIL_INSTANT;这个界面展示您内阁的概况;;;;;;;;;;x
-MY_COUNCIL_DELAYED;你可以浏览所有的阁员和空出的内阁席位。你也可以看到阁员的情况 这会影响他们的投票倾向;;;;;;;;;;x
+MY_COUNCIL_DELAYED;你可以浏览所有的内阁成员和空出的内阁席位。你也可以看到内阁成员的情况，这会影响他们的投票倾向。;;;;;;;;;;x
 LIEGE_COUNCIL_TITLE;§Y领主内阁§!;;;;;;;;;;x
 LIEGE_COUNCIL_INSTANT;这个界面展示你领主的内阁概况;;;;;;;;;;x
-LIEGE_COUNCIL_DELAYED;你可以浏览所有的阁员和空出的内阁席位。你也可以看到阁员的情况 这会影响他们的投票倾向;;;;;;;;;;x
+LIEGE_COUNCIL_DELAYED;你可以浏览你领主的所有内阁成员和空出的内阁席位。你也可以看到内阁成员的情况，这会影响他们的投票倾向。;;;;;;;;;;x
 ENFORCE_PEACE_EXECUTE_BUTTON_TITLE;§Y执行§!;;;;;;;;;;x
 ENFORCE_PEACE_EXECUTE_BUTTON_DESC_DELAYED;被内阁通过;;;;;;;;;;x
 LAW_COUNCIL_REJECTED_LOG;$TITLE$ 的内阁已经否决建立"$LAW$"法;;;;;;;;;;x
@@ -1500,7 +1500,7 @@ BUY_FAVOR_INTERACTION_LETTER_GET;\n我将赠送你价值 $GOLD$§W¤§! 的礼�
 INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET;§Y[Recipient.GetTitledFirstName]§!无法被来自§Y[Actor.GetTitledFirstName]§!的§Y人情§!影响;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_OWING_FAVOR;$OWES_FAVOR|Y$ 无法欠 $HAS_FAVOR|Y$ 一个 §Y人情§!;;;;;;;;;;x
 EVTDESC_ZE_1031;你的女儿 [target_daughter_killed_her_friend.GetFirstName] 对你大发雷霆：'该死的，[Root.GetFatherMother] - 你杀了 [From.GetFirstName]，我永远不会原谅你!'. ;;;;;;;;;;x
-EVTDESC_ZE_2061B;箱子又被打开 无人值守。很显然，这是 [Root.Liege.GetTitledFirstName] 告诉我他想要一笔小钱的方式。[Root.Liege.GetSheHeCap]知道如果跟其他阁员提起这件事肯定会被拒绝。;;;;;;;;;;x
+EVTDESC_ZE_2061B;金库再次被开放且无人值守。很显然，这是[Root.Liege.GetTitledFirstName]告诉我他想要一笔小钱的方式。[Root.Liege.GetSheHeCap]知道如果跟其他内阁成员提起这件事肯定会被拒绝。;;;;;;;;;;x
 EVTOOLTIP38228;[Root.Guardian.GetFullName] 回应 [Root.GetFirstName] 的问题;;;;;;;;;;x
 EVTDESC1928;访客今天到达了，尽管他们穿着奇异，语言跟肤色都很陌生，他们还是被 [Root.Guardian.GetFullName] 热情地迎接了。我想要跟他们聊聊 弄清他们从哪里来 是什么人，但是我不清楚 [Root.Guardian.GetTitledFirstName] 是否会批准。;;;;;;;;;;x
 EVTDESC3516;我正准备把 [From.GetTitledFirstName] 的秃鹰交给训鹰者，但是实在是不小心 忘了盖上罩子，然后我失去了对缰绳的控制，鸟儿飞上了天;;;;;;;;;;x
@@ -1516,7 +1516,7 @@ EVTDESC_ZE_3001;一位商人来到了宫廷 并恳切请求为 [target_treasurer
 EVTDESC_ZE_8000;[target_spouse.GetTitledName], 是[target_spouse.GetHusbandWife] [target_ruler.GetTitledName]的对象，已经在[capital.GetName]停留了数日。 和[target_spouse.GetHerHim]的会面非常的愉快 - 也许我们两地的人民并没有什么不同 ;;;;;;;;;;x
 EVTDESC_ZE_8001;亲爱的 [target_ruler.GetTitledName],\n在你的[target_ruler.GetHusbandWifeOpp]最近来访 [capital.GetName] 的过程中 我们非常愉快地交谈了我们两地人民的相似性。我建议最近双方签订一项非进攻性协议，我们会非常欢迎你们领地的访客\n\n热情的问候,\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTDESC_ZE_8002;亲爱的 [Root.GetTitledName],\n\n如果这项协议可以让我们两地人民更好的互相了解没我会愿意开放边界给来自您领地中的访客.\n\n您真诚的,\n [target_ruler.GetTitledName].;;;;;;;;;;x
-EVTDESC_ZE_2075;我已经收到一份增加资金的要求 来自我的 [Root.GetSpymasterName] [Root.job_spymaster.GetFirstName].[Root.job_spymaster.GetSheHeCap]担忧间谍非常轻易地就能进入你的家中 必须采取防范来针对敌对行为;;;;;;;;;;x
+EVTDESC_ZE_2075;我已经收到一个来自我的[Root.GetSpymasterName] [Root.job_spymaster.GetFirstName]的增加资金的要求。[Root.job_spymaster.GetSheHeCap]担忧间谍能非常轻易地进入你的家中，并要求我必须采取对敌对行为防患于未然。;;;;;;;;;;x
 MERCENARY_ON_CONTRACT;在合约中;;;;;;;;;;x
 LAW_VOTER;$NAME$\n;;;;;;;;;;x
 LAW_VOTER_X;$NAME$ x$NUM|Y$\n;;;;;;;;;;x
@@ -1573,44 +1573,44 @@ gov_electorial_aristocratic_monarchy_tengri;选举贵族[PrimaryTitle.GetTier];;
 gov_electorial_despotic_autocracy;选举独裁帝国专制;;;;;;;;;;x
 gov_electorial_despotic_autocracy_norse;选举独裁帝国专制;;;;;;;;;;x
 gov_electorial_despotic_autocracy_tengri;选举皇权专制;;;;;;;;;;x
-gov_electorial_despotic_monarchy;选举专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_electorial_despotic_monarchy_zoro;选举专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_electorial_despotic_monarchy_norse;选举专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_electorial_despotic_monarchy_tengri;选举专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_despotic_monarchy;选举专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_despotic_monarchy_zoro;选举专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_despotic_monarchy_norse;选举专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_despotic_monarchy_tengri;选举专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_hereditary_absolute_autocracy;集权世袭皇权专制;;;;;;;;;;x
 gov_hereditary_absolute_autocracy_indian;集权皇权专制;;;;;;;;;;x
 gov_hereditary_absolute_autocracy_norse;世袭集权皇权专制;;;;;;;;;;x
 gov_hereditary_absolute_autocracy_tengri;世袭集权皇权专制;;;;;;;;;;x
-gov_hereditary_absolute_monarchy;世袭集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_indian;集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_norse;世袭集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_tengri;世袭集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_absolute_monarchy;世袭集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_indian;集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_norse;世袭集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_tengri;世袭集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_hereditary_aristocratic_autocracy;贵族世袭皇权专制;;;;;;;;;;x
 gov_hereditary_aristocratic_autocracy_indian;贵族皇权专制;;;;;;;;;;x
 gov_hereditary_aristocratic_autocracy_norse;贵族世袭皇权专制;;;;;;;;;;x
 gov_hereditary_aristocratic_autocracy_tengri;贵族世袭皇权专制;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy;贵族世袭的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_indian;贵族统治的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_norse;贵族世袭的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_tengri;贵族世袭的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy;贵族世袭制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_indian;贵族统治的[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_norse;贵族世袭制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_tengri;贵族世袭制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_hereditary_despotic_autocracy;世袭皇权专制;;;;;;;;;;x
 gov_hereditary_despotic_autocracy_indian;皇权专制;;;;;;;;;;x
 gov_hereditary_despotic_autocracy_norse;世袭皇权专制;;;;;;;;;;x
 gov_hereditary_despotic_autocracy_tengri;世袭皇权专制;;;;;;;;;;x
-gov_hereditary_despotic_monarchy;世袭专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_zoro;世袭专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_indian;专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_norse;世袭专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_tengri;世袭专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_monarchy;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_zoro;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_indian;专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_norse;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_tengri;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_muslim_absolute_autocracy;集权皇权专制;;;;;;;;;;x
-gov_muslim_absolute_monarchy;集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_muslim_absolute_monarchy;集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_muslim_aristocratic_autocracy;贵族皇权专制;;;;;;;;;;x
-gov_muslim_aristocratic_monarchy;贵族统治的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_muslim_aristocratic_monarchy;贵族统治的[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_muslim_despotic_autocracy;皇权专制;;;;;;;;;;x
-gov_muslim_despotic_monarchy;专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_aristocratic_republic;贵族统治的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_plutocratic_republic;财阀统治的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_oligarchic_republic;寡头统治的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_muslim_despotic_monarchy;专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_aristocratic_republic;贵族统治的[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_plutocratic_republic;财阀统治的[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_oligarchic_republic;寡头统治的[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_patrician; [GetOnlyDynastyName] 贵族;;;;;;;;;;x
 gov_prince_electorate;亲王选帝侯;;;;;;;;;;x
 gov_king_electorate;国王选帝侯;;;;;;;;;;x
@@ -1618,23 +1618,23 @@ gov_carolingian_hegemony;加洛林王朝霸权;;;;;;;;;;x
 gov_imperial_carolingian_hegemony;加洛林王朝帝国霸权;;;;;;;;;;x
 gov_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_grand_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_chiefdom;高贵的 [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_crusader_state;十字军国家;;;;;;;;;;x
 gov_crusader_kingdom;十字军王国;;;;;;;;;;x
-gov_hereditary_zun;世袭的日之 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_electorial_zun;选举的日之 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_terror;恐怖的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_zun;世袭的日之[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_zun;选举的日之[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_terror;恐怖的[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_duchy_viceroy; [Liege.PrimaryTitle.GetAdjective] 副总督;;;;;;;;;;x
 gov_king_viceroy; [Liege.PrimaryTitle.GetAdjective] 总督;;;;;;;;;;x
 gov_duchy_viceroy_byz; [Liege.PrimaryTitle.GetAdjective] 将军;;;;;;;;;;x
 gov_king_viceroy_byz; [Liege.PrimaryTitle.GetAdjective] 王国总督;;;;;;;;;;x
 gov_aztec;阿兹特克殖民地;;;;;;;;;;x
-gov_electorial_absolute_hre;选举集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_absolute_hre;世袭集权的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_electorial_despotic_hre;选举专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_hereditary_despotic_hre;世袭专制的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_aristocratic_electorial_hre;贵族选举的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_aristocratic_hereditary_hre;贵族世袭的 [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_absolute_hre;选举集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_absolute_hre;世袭集权制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_electorial_despotic_hre;选举专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_hereditary_despotic_hre;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_aristocratic_electorial_hre;贵族选举制[PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_aristocratic_hereditary_hre;贵族世袭制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_nomadic_mongol_empire;蒙古帝国;;;;;;;;;;x
 gov_khaganate; [Culture.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_clan; [GetOnlyDynastyName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
@@ -1659,11 +1659,11 @@ gov_revolt; [PrimaryTitle.GetAdjective] 叛乱;;;;;;;;;;x
 gov_romuva_eldership; [Religion.GetName] 长老;;;;;;;;;;x
 gov_noble_romuva_eldership;高贵的 [Religion.GetName] 长老;;;;;;;;;;x
 gov_norse_chiefdom; [Religion.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_norse_chiefdom;高贵的 [Religion.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_norse_chiefdom;高贵的[Religion.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_muslim_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_muslim_chiefdom;高贵的 [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_muslim_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_african_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_african_chiefdom;高贵的 [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_african_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_hereditary_danelaw;丹麦世袭继承法;;;;;;;;;;x
 gov_electorial_danelaw;丹麦选举继承法;;;;;;;;;;x
 COUNCIL_DISCONTENT_FROM_SUCCESSION;继承人总是让内阁不满意。;;;;;;;;;;x
@@ -1677,7 +1677,7 @@ FAVOR_END_PLOT;强迫接受结束密谋或停止支持密谋请求;;;;;;;;;;x
 COUNCIL_CONTENT;内阁表示满意;;;;;;;;;;x
 COUNCIL_DISCONTENT;不满意直到 $UNTIL$ ;;;;;;;;;;x
 COUNCIL_STATUS_LONG_CONTENT_PLAYER;你的 [Actor.GetCouncilName] 是 §Y 满意的 §! ;;;;;;;;;;x
-COUNCIL_STATUS_LONG_CONTENT_LIEGE; §Y[Actor.GetBestName]§! 的 [Actor.GetCouncilName] 是 §Y 满意的 §! ;;;;;;;;;;x
+COUNCIL_STATUS_LONG_CONTENT_LIEGE; §Y[Actor.GetBestName]§!的[Actor.GetCouncilName]是§Y满意的§!;;;;;;;;;;x
 COUNCIL_STATUS_LONG_DISCONTENT_PLAYER;你的 [Actor.GetCouncilName] 已经 §Y 不满 §! 了 $DISCONTENT_DURATION$ 个月。;;;;;;;;;;x
 COUNCIL_STATUS_LONG_DISCONTENT_LIEGE; [Actor.GetBestName] 的 [Actor.GetCouncilName] 已经 §Y 不满 §! 了 $DISCONTENT_DURATION$ 个月。;;;;;;;;;;x
 COUNCIL_REASON_FOR_DISCONTENT;不满意的原因：\n $REASON|Y$ \n\n;;;;;;;;;;x
