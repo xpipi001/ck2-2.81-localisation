@@ -353,7 +353,7 @@ secret_religious_society_lollard_desc;基督徒自其卑微的根基起，就以
 secret_religious_society_waldensian;瓦勒度派信徒;;;;;;;;;;x
 secret_religious_society_waldensian_desc;基督徒自其卑微的根基起，就以拒绝因被迫害而放弃他们的信仰为标志。因此，一个殉道者和地下教区的丰富传统可以给那些即身处最黑暗的时代的信徒们带来希望，无论他们表面上被迫承认什么。他们可以向彼此宣称他们对上帝的真正信仰，他们的神就是爱。;;;;;;;;;;x
 secret_religious_society_bogomilist_desc;波格米勒派是一个以二元论学说为中心的诺斯替教派。它的教徒相信两位上帝 的存在，一位是天堂精神领域的造物主，另一位邪恶上帝，他创造了物质世界及其所有的诱惑和痛苦的根源。;;;;;;;;;;x
-secret_religious_society_monothelite;基督一志论派信徒;;;;;;;;;;x
+secret_religious_society_monothelite;基督一志派信徒;;;;;;;;;;x
 secret_religious_society_monothelite_desc;基督徒将自己看作追寻使徒们——以基督之名建立教会的先贤的脚步的人，即使外界压力强迫他们弃誓，也不打算放弃自己的信仰。他们也将做好自己的本职，坚定他们的信仰并继续建立教会，坚信那是来自上帝的旨意。;;;;;;;;;;x
 secret_religious_society_iconoclast;圣像破坏派;;;;;;;;;;x
 secret_religious_society_iconoclast_desc;基督徒将自己看作追寻使徒们——以基督之名建立教会的先贤的脚步的人，即使外界压力强迫他们弃誓，也不打算放弃自己的信仰。他们也将做好自己的本职，坚定他们的信仰并继续建立教会，坚信那是来自上帝的旨意。;;;;;;;;;;x
@@ -373,8 +373,8 @@ secret_religious_society_yazidi;天使之子;;;;;;;;;;x
 secret_religious_society_yazidi_desc;雅兹迪的教徒相信至高无上的神创造了世界然后谨慎的安排7个天使管理。第一个天使是统治者孔雀天使矛盾的梅勒克，以善恶来管理他的子民。;;;;;;;;;;x
 secret_religious_society_druze;睿智的人;;;;;;;;;;x
 secret_religious_society_druze_desc;德鲁兹派教徒遵循智慧书信的教导，其中包括《旧约》，《古兰经》和柏拉图的哲学着作。虔诚的人相信上帝是整个存在，无限和无所不在。为了与宇宙思想联合并达到终极的幸福，德鲁兹派教徒必须经历许多连续的轮回。;;;;;;;;;;x
-secret_religious_society_hurufi;虔诚的胡鲁菲派教徒;;;;;;;;;;x
-secret_religious_society_hurufi_desc;胡鲁菲教徒遵循古兰经的教导，那是穆罕默德对安拉转述。他们宣称穆罕默德是被安拉选中的先知和最初的伊玛目。他们传播他们的信念，即安拉通过穆罕默德选择阿里作为他的继承人，并因此成为伊斯兰教的第一个哈里发。他们坚持这是安拉的意志。;;;;;;;;;;x
+secret_religious_society_hurufi;虔诚的胡儒非派教徒;;;;;;;;;;x
+secret_religious_society_hurufi_desc;胡儒非教徒遵循古兰经的教导，那是穆罕默德对安拉转述。他们宣称穆罕默德是被安拉选中的先知和最初的伊玛目。他们传播他们的信念，即安拉通过穆罕默德选择阿里作为他的继承人，并因此成为伊斯兰教的第一个哈里发。他们坚持这是安拉的意志。;;;;;;;;;;x
 secret_religious_society_ibadi;虔诚的伊巴迪派教徒;;;;;;;;;;x
 secret_religious_society_ibadi_desc;伊巴迪派的信仰据说早于伊斯兰教逊尼派和什叶派。这些后来的分支和正统的伊巴迪派之间有一些教义上的分歧，如，伊巴底派不相信所有的穆斯林集体都需要一个领袖。但无论如何，他们对安拉的狂热信仰是一样的。;;;;;;;;;;x
 secret_religious_society_kharijite;交换者;;;;;;;;;;x
@@ -406,7 +406,7 @@ String_Fraticelli;小兄弟会;;;;;;;;;;x
 String_Waldesian;瓦勒度派;;;;;;;;;;x
 String_Lollard;罗拉德派;;;;;;;;;;x
 String_Bogomilist;波格米勒派;;;;;;;;;;x
-String_Monothelite;基督一志论派;;;;;;;;;;x
+String_Monothelite;基督一志派;;;;;;;;;;x
 String_Iconoclast;圣像破坏派;;;;;;;;;;x
 String_Paulician;保禄派 ;;;;;;;;;;x
 String_Miaphysite;基督合性派;;;;;;;;;;x
@@ -416,7 +416,7 @@ String_Messalian;祷告派;;;;;;;;;;x
 String_Zikri;诵经派;;;;;;;;;;x
 String_Yazidi;雅兹迪派;;;;;;;;;;x
 String_Druze;德鲁兹派;;;;;;;;;;x
-String_Hurufi;胡鲁菲派;;;;;;;;;;x
+String_Hurufi;胡儒非;;;;;;;;;;x
 String_Ibadi;伊巴迪派;;;;;;;;;;x
 String_Kharijite;哈瓦利吉派;;;;;;;;;;x
 String_Samaritan;撒马利亚派;;;;;;;;;;x
@@ -633,8 +633,8 @@ secret_kharijite_community;秘密的哈瓦利吉派社团;;;;;;;;;;x
 secret_kharijite_community_desc;哈瓦利吉派的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 secret_druze_community;德鲁兹派秘密社团;;;;;;;;;;x
 secret_druze_community_desc;德鲁兹派的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
-secret_hurufi_community;秘密的胡鲁菲派社团;;;;;;;;;;x
-secret_hurufi_community_desc;胡鲁菲的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
+secret_hurufi_community;秘密的胡儒非派社团;;;;;;;;;;x
+secret_hurufi_community_desc;胡儒非的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 secret_norse_pagan_community;秘密日耳曼多神教社团;;;;;;;;;;x
 secret_norse_pagan_community_desc;日耳曼多神教的忠实信徒们在这个省份秘密地组织了教团，在那里，他们传播信仰、壮大势力，并在异教徒的压迫下谋求自我保护。;;;;;;;;;;x
 secret_tengri_pagan_community;秘密长生天社团;;;;;;;;;;x
@@ -669,7 +669,7 @@ religion_openly_tengri_or_reformed_tooltip;公然追随 §Y长生天§!信仰;;;
 religion_openly_west_african_or_reformed_tooltip;公开追随 §Y西非信仰§! ;;;;;;;;;;x
 religion_openly_zun_or_reformed_tooltip;公开追随§Y尊日神教§! 信仰;;;;;;;;;;x
 religion_openly_aztec_or_reformed_tooltip;公开皈依了 §Y阿兹特克信仰§!;;;;;;;;;;x
-FOLLOWS_SECRET_RELIGION_TOOLTIP;这个角色秘密信仰$RELIGION|Y$宗教;;;;;;;;;;x
+FOLLOWS_SECRET_RELIGION_TOOLTIP;这名角色私下里信奉着$RELIGION|Y$。;;;;;;;;;;x
 CAN_SEE_SECRET_RELIGION;知道$WHO|Y$秘密信仰一个宗教;;;;;;;;;;x
 CANNOT_SEE_SECRET_RELIGION;无从知晓 $WHO|Y$ 是否在秘密信仰一个宗教;;;;;;;;;;x
 FILTER_HAS_SECRET_RELIGION;拥有秘密宗教;;;;;;;;;;x
@@ -738,7 +738,7 @@ proud_hunters_spirit_desc;这个区域的猎人们所带来的成功以及目前
 String_way_with_words;用微妙的言语;;;;;;;;;;x
 String_love_of_poetry;情诗;;;;;;;;;;x
 String_fascination_with_plants;痴迷于植物;;;;;;;;;;x
-String_morbid_sense_of_humor;病娇般的幽默;;;;;;;;;;x
+String_morbid_sense_of_humor;病态的幽默感;;;;;;;;;;x
 String_gentle_spirit;慈祥;;;;;;;;;;x
 String_what_makes_a_good_person;我认真思考，什么成就了一个好人;;;;;;;;;;x
 String_mischieveous_sense_of_humor;顽皮的幽默感;;;;;;;;;;x
@@ -756,7 +756,7 @@ EVTOPTA_MNM_1842;走开！我没空;;;;;;;;;;x
 EVTTITLE_MNM_4217;浴火重生;;;;;;;;;;x
 EVTDESC_MNM_4217;在一场来自[This.Society.GetName]同僚的伙伴们的讨论中，我提及了那些储藏[Root.Capital.Capital.GetName]图书馆里落满灰尘的书。“里面大多数内容几乎无法理解”，我嘲笑到。我的同僚们睁大了眼睛。“[Root.Religion.GetRandomEvilGodName]的作品可不是那么容易写出来啊，我的[Root.GetLordLady]”。;;;;;;;;;;x
 EVTOPTA_MNM_4217;哼。。我会粉碎那些极其危险的恶人;;;;;;;;;;x
-EVTOPTA_MNM_4217_zealous;你误会了！我打算把书扔了，今晚。;;;;;;;;;;x
+EVTOPTA_MNM_4217_zealous;你误会了！我今晚打算把书扔了。;;;;;;;;;;x
 EVTOPTB_MNM_4217;我几经做好了反复被烤的准备！;;;;;;;;;;x
 EVTOPTB_MNM_4217_zealous;实际上，我要把这些可恶的东西从我的整个[Root.GetCapitalHolding]持有资本中清除掉。;;;;;;;;;;x
 EVTOPTC_MNM_4217;听上去太过分了;;;;;;;;;;x
@@ -790,7 +790,7 @@ secretly_convert_to_hindu_holy_site_desc;我被聚集在圣地§Y[Root.Location.
 secretly_convert_to_buddhist_holy_site;秘密皈依佛教;;;;;;;;;;x
 secretly_convert_to_buddhist_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y佛教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_jain_holy_site;秘密皈依耆那教;;;;;;;;;;x
-secretly_convert_to_jain_holy_site_desc;蜂拥至§Y[Root.Location.GetName]§!的§YJain§!朝圣者用他们诚挚而强烈的信仰感染了我。 我想偷偷地改信……;;;;;;;;;;x
+secretly_convert_to_jain_holy_site_desc;蜂拥至§Y[Root.Location.GetName]§!的§Y耆那教§!朝圣者用他们诚挚而强烈的信仰感染了我。 我想偷偷地改信……;;;;;;;;;;x
 secretly_convert_to_norse_pagan_holy_site;秘密皈依日耳曼多神教;;;;;;;;;;x
 secretly_convert_to_norse_pagan_holy_site_desc;我被聚集在圣地§Y[Root.Location.GetName]§!的§Y日耳曼多神教§!朝圣者们对他们信仰的深度与热情所打动。我被吸引着秘密改信...;;;;;;;;;;x
 secretly_convert_to_norse_pagan_reformed_holy_site;秘密皈依日耳曼多神教;;;;;;;;;;x

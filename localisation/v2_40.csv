@@ -7,7 +7,7 @@ theocracy_government;神权制;;;;;;;;;;x
 muslim_government;伊克塔制;;;;;;;;;;x
 tribal_government;部落制;;;;;;;;;;x
 RETCAP_FROM_GOVERNMENT;由于政体：$AMOUNT$\n;;;;;;;;;;x
-GOVERNMENT_CANNOT_CREATE_KINGDOMS;神权国、圣战士和雇佣兵团无法成立王国！;;;;;;;;;;x
+GOVERNMENT_CANNOT_CREATE_KINGDOMS;神权国、骑士团和雇佣兵团无法成立王国！;;;;;;;;;;x
 GOVERNMENT_CANNOT_USURP_KINGDOMS_AND_EMPIRES;商业共和国和贵人无法篡夺王国或者帝国头衔;;;;;;;;;;x
 GAME_STATE_WAS_CORRUPTED;游戏状态已损坏。请重启游戏。;;;;;;;;;;x
 TRIBAL_TAX;部落税;;;;;;;;;;x
@@ -247,7 +247,7 @@ MAPMODE_REALM;§Y独立领主§!;;;;;;;;;;x
 PROV1347;塔克拉玛干沙漠;;;;;;;;;;x
 pyramid;金字塔;;;;;;;;;;x
 k_mongolia;蒙古;;;;;;;;;;x
-k_mongolia_adj;Mongolian;;;;;;;;;;x
+k_mongolia_adj;蒙古;;;;;;;;;;x
 d_altay;阿尔泰;;;;;;;;;;x
 d_otuken;于都斤;;;;;;;;;;x
 d_khangai;杭爱;;;;;;;;;;x
@@ -603,7 +603,7 @@ b_charkliq;卡克里克;;;;;;;;;;x
 b_miran;米兰;;;;;;;;;;x
 b_karashar;喀喇沙尔;;;;;;;;;;x
 b_kucha;屈茨;;;;;;;;;;x
-b_kara_khoja;哈喇和卓;;;;;;;;;;x
+b_kara_khoja;合剌火者;;;;;;;;;;x
 b_luntai;轮台;;;;;;;;;;x
 b_dunhuang;敦煌;;;;;;;;;;x
 b_anxi;安西;;;;;;;;;;x
@@ -621,7 +621,7 @@ PROV1442;卡克里克;;;;;;;;;;x
 PROV1443;喀喇沙尔;;;;;;;;;;x
 PROV1444;屈茨;;;;;;;;;;x
 PROV1445;阿克苏;;;;;;;;;;x
-PROV1446;哈喇和卓;;;;;;;;;;x
+PROV1446;合剌火者;;;;;;;;;;x
 PROV1447;楼兰;;;;;;;;;;x
 PROV1448;敦煌;;;;;;;;;;x
 PROV1449;轮台;;;;;;;;;;x

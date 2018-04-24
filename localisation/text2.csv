@@ -305,9 +305,9 @@ EVTDESC4140;[From.GetTitledFirstName] 曾让我承诺要好好安葬[From.GetHer
 EVTOPTC4140;我应该帮帮[From.GetHerHis]遗孀;;;;;;;;;;x
 NOT_SELECT;§Y$PLAYER$§! 必须选择一个角色来进行游戏!;;;;;;;;;;x
 OUTLINER_BUILDING_DESC;正在 $SETTLEMENT$ 中建造 $BUILDING$ \n还需要 $DAYS$ 天;;;;;;;;;;x
-LOADING_TIP_15;右击收到的消息来改变其优先级或显示方式.;;;;;;;;;;x
+LOADING_TIP_15;右击收到的消息来改变其优先级或显示方式;;;;;;;;;;x
 LOADING_TIP_19;按下F10以截取当前地图模式下的截屏;;;;;;;;;;x
-LOADING_TIP_21;按下F11来保存一个当前游戏的截图.;;;;;;;;;;x
+LOADING_TIP_21;按下F11来保存一个当前游戏的截图;;;;;;;;;;x
 EVTDESC20133;大人, 我在[FromFrom.Location.GetName]的工作已经有成果了. 通过贿赂, 诱骗, 敲诈, 威胁与伪造文件, 我伪造了[From.GetTitledName]控制的[FromFrom.Location.Duchy.GetFullName]的宣称权. 请您决定是否使用这个宣称.\n\n您谦逊的[Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;x
 EVTDESC3440;我找厨房外和一个正在吃饼干的廷臣相撞了. 这个廷臣连连道歉并给了我一块饼干作为挡了我路的赔礼,这时愤世嫉俗的情绪控制住了我. 我不由自主的开始刻薄的大声攻击廷臣,说他试图用饼干毒杀我.;;;;;;;;;;x
 TECH_AVG_YEARS_TO_PROGRESS;提高所需的平均年数: §G$YEARS$§!;;;;;;;;;;x
@@ -322,7 +322,7 @@ title_master_of_the_hunt_desc;在当代,狩猎是展示马术和武艺的机会,
 title_master_of_the_hounds_desc;由于狩猎在过去的绝大部分时代都被认为是非常高贵的娱乐活动，在一些狩猎中使用猎犬显得尤为重要。;;;;;;;;;;x
 title_high_almoner_desc;布施救济品是统治活动和宗教仪式的一个组成部分.因此负责这个工作都是非常重要的人.;;;;;;;;;;x
 title_seneschal_desc;传统上负责组织宴会和娱乐活动.在如此重大的场合下扮演关键角色,这个职务享有崇高的声望,虽然多数事务其实都是委派给下属和副手去处理的.;;;;;;;;;;x
-LOADING_TIP_3;在领地上点击右键以调出快捷菜单.;;;;;;;;;;x
+LOADING_TIP_3;在领地上点击右键以调出快捷菜单;;;;;;;;;;x
 RAISE_NO_TROOPS_ALIVE;没有部队可供动员了.;;;;;;;;;;x
 RAISE_NO_SHIPS_ALIVE;没有船只可供征集了.;;;;;;;;;;x
 overthrow_ruler_no_calls_desc;§Y$CLAIMANT$§! 在逃脱了 §Y$TARGET$§! 的抓捕后起兵反叛了.;;;;;;;;;;x
@@ -401,12 +401,12 @@ EVTOPTA64052;是啊, 那只是青春期的迷恋罢了...;;;;;;;;;;x
 EVTOPTB64052;但是我爱过...;;;;;;;;;;x
 IMAM;伊玛目;;;;;;;;;;x
 IMAM_FOA;殿下;;;;;;;;;;x
-LOADING_TIP_22;孩子出生时就拥有其父母家族威望的一部分.;;;;;;;;;;x
-LOADING_TIP_23;男性继承法意味着只有男性有继承权.;;;;;;;;;;x
-LOADING_TIP_24;男性优先继承法意味着女性只在没有男性继承人时拥有权继承。;;;;;;;;;;x
-LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权。;;;;;;;;;;x
-LOADING_TIP_26;长子继承法意味着最年长的合法孩子有继承权.;;;;;;;;;;x
-LOADING_TIP_27;分封继承法意味着继承权在所有孩子之间分割.;;;;;;;;;;x
+LOADING_TIP_22;孩子出生时就拥有其父母家族威望的一部分;;;;;;;;;;x
+LOADING_TIP_23;男性继承法意味着只有男性有继承权;;;;;;;;;;x
+LOADING_TIP_24;男性优先继承法意味着女性只在没有男性继承人时拥有权继承;;;;;;;;;;x
+LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权;;;;;;;;;;x
+LOADING_TIP_26;长子继承法意味着最年长的合法孩子有继承权;;;;;;;;;;x
+LOADING_TIP_27;分封继承法意味着继承权在所有孩子之间分割;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_LETTER;我们决定即刻剥夺你的[ThirdPartyTitle.GetFullName]头衔. 拒绝和平交出头衔将引发战争.;;;;;;;;;;x
 EVTDESC20111;我的领主,我努力使[From.GetBestName]意识到您是个优雅而爱好和平的人,但是[From.GetHerHis]宫廷里的恶势力歪曲我说的每个字,令我的每个动作都被质疑.恐怕这次拜访带来的害处将多过好处.\n\n您谦卑的[Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;x
 CHAR_OPINION_OF_CHAR;§Y$CHAR1$§! 对 §Y$CHAR2$§! 的好感;;;;;;;;;;x
@@ -725,7 +725,7 @@ TITLE_CANNOT_GAIN_INDEPENDENCE;不能创立或篡夺与领主头衔同级或更�
 HAS_CROWN_LAW_TITLE;受王权法影响;;;;;;;;;;x
 HAS_NOT_CROWN_LAW_TITLE;不受王权法影响;;;;;;;;;;x
 EVTNAME60003;铁汗;;;;;;;;;;x
-EVTDESC60003;我的领主, 帖木儿大汗将中亚诸多游牧部族落聚集到自己麾下, 想要建立媲美传奇的成吉思汗的大帝国. 他可怕的大军已经在希瓦出现,直指席卷整个波斯.;;;;;;;;;;x
+EVTDESC60003;我的领主，帖木儿汗将中亚诸多游牧部族落聚集到自己麾下，想要建立足以媲美传奇的成吉思汗的大帝国。他可怕的大军已经在希瓦出现，直指席卷整个波斯。;;;;;;;;;;x
 EVTOPTB60003;难道游牧部落永远无穷无尽吗?;;;;;;;;;;x
 amphibious_landing;两栖登陆;;;;;;;;;;x
 ACHIEVEMENTS_ENABLED;成就系统已激活;;;;;;;;;;x
@@ -746,8 +746,8 @@ CANNOT_CANCEL_ACTIVE_PLOT;§R无法取消已付诸行动的阴谋!§!;;;;;;;;;;x
 EVTDESC3085;我们被教导要实践宽容的美德，我们应该释放囚犯，并宽恕进攻者. 我的地牢中还有囚犯...;;;;;;;;;;x
 EVTDESC69071;当 [From.GetTitledFirstName] 触碰到我的手臂时我发出了轻声的尖叫, 这令我无法避免来自 [From.GetHerHis] 的对我的懦弱行径的职责...;;;;;;;;;;x
 CANNOT_CHANGE_ANOTHER_LAW;$RULER$无法变更$TITLE$的正式法律直到$DATE$;;;;;;;;;;x
-LOADING_TIP_29;在战斗中，作为盟友要比作为主要参加者能得到更多威望.;;;;;;;;;;x
-LOADING_TIP_30;按住shift移动部队可以自定义行动路线.;;;;;;;;;;x
+LOADING_TIP_29;在战斗中，作为盟友要比作为主要参加者能得到更多威望;;;;;;;;;;x
+LOADING_TIP_30;按住 Shift 移动部队可以自定义行动路线;;;;;;;;;;x
 alert_allies_not_called_in_instant;§Y我们可以呼叫盟友§!;;;;;;;;;;x
 alert_allies_not_called_in_delayed;我们可以要求下列盟友支援我们:\n$LIST$;;;;;;;;;;x
 alert_vassal_levies_raised_long_instant;§Y封臣部队动员时间过长§!;;;;;;;;;;x
@@ -929,7 +929,7 @@ tut_menu_5_description;学习关于部队，征召，雇佣兵，战斗与围城
 tut_6a_8;在检查过郡的状况后，打开宫廷界面。;;;;;;;;;;x
 tut_6a_10a;任务完成;;;;;;;;;;x
 tut_6a_10b;现在跳出了一个事件。它说你现在拥有一个宣称权，意味着你可以通过战争获得这个头衔。阅读这个事件，然后点击"要求宣称权"来继续。;;;;;;;;;;x
-tut_6a_14;点击宣战选项.你可以看到我们拥有的宣战理由. 确定之后发出宣战信息.;;;;;;;;;;x
+tut_6a_14;点击宣战选项。你可以看到我们拥有的宣战理由。选择宣称南岛之后点击发送。;;;;;;;;;;x
 tut_7a_2;除了战争之外，密谋也能帮助你达成目标.当然其他人也会对你施展阴谋，因此你要时刻防备着. 点击密谋界面以继续.;;;;;;;;;;x
 tut_8a_2;信仰会对你的游戏中将发生的事情起到重大影响.十字军，虔诚和你的宗教下属都有各自的作用.宗教领袖，可能是教宗，哈里发或大牧首是各自宗教的信仰力量.教宗不仅可以发动圣战，也可以让你离婚.点击宗教界面继续. ;;;;;;;;;;x
 tut_9b_2;王国风云里的等级时十分森严的，依据法律，下级领主必须对上级领主承担兵役和赋税.点击下一步继续.;;;;;;;;;;x

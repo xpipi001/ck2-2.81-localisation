@@ -1055,7 +1055,7 @@ EVTOPTA106040;我的主人想请你喝茶，艾布柏巴拉卡特· 巴格达迪
 EVTTOOLTIP106041;艾布柏巴拉卡特· 巴格达迪 会见 [This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC106041;非凡的亚里士多德风格的哲学著作《个人沉思录》，但谁写了这本书 这名叫 艾布柏巴拉卡特· 巴格达迪 的男子 在与 艾布柏巴拉卡特· 巴格达迪 讨论数小时哲学后，我给他在我的宫廷中留了最好的一个位子，以确保他能继续写他的书.;;;;;;;;;;x
 EVTOPTA106041;欢迎！;;;;;;;;;;x
-EVTDESC106045;阿芬巴塞或者叫做阿布·贝克尔·穆罕默德·本·叶海亚·本·萨伊格，是一位出身于[Root.GetName]的天文学家，逻辑学家，音乐学家，哲学家，医学家，心理学家，植物学家，诗人和科学家，他和他的著作《》引起了[Root.Holder.TopLiege.GetTitledFirstName]的注意attention with his book 'Kitab al-Nabat' or 'The Book of Plants' and his other works.;;;;;;;;;;x
+EVTDESC106045;阿芬巴塞，又名阿布·贝克尔·穆罕默德·本·叶海亚·本·萨伊格，是一位出身于[Root.GetName]的天文学家，逻辑学家，音乐学家，哲学家，医学家，心理学家，植物学家，诗人和科学家，他和他的著作《植物之书》引起了[Root.Holder.TopLiege.GetTitledFirstName]的注意。;;;;;;;;;;x
 EVTOPTA106045;阿芬巴塞，[Root.Holder.TopLiege.GetTitledFirstName]愿意会见你;;;;;;;;;;x
 EVTTOOLTIP106046;阿芬巴塞参见[This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC106046;'智慧的不变本质和存在支配着理智，这是与周围环境呼应的能力'\n一个伟大的人的发现, 迪纳瓦利 已提醒我注意他的著作《植物之书》. 他欣然接受了来到宫廷的邀请.;;;;;;;;;;x
@@ -1083,10 +1083,10 @@ EVTOPTA106065;如果他要求觐见[Root.Holder.TopLiege.GetTitle]，那么一�
 EVTTOOLTIP106066;Baha-ud-Din Naqshband参见[This.GetTitledFirstName];;;;;;;;;;x
 EVTDESC106066;伊斯兰教苏菲派纳格什班迪耶教团是众所周知的在 [From.GetName] 并且它的创始人神学大师 白哈丁·纳格什班迪·布哈里 想跟我讨论一些重要的事情， 可能涉及十一个主要教义，如纪念、限制、回忆等 ;;;;;;;;;;x
 EVTOPTA106066;马上安排会面 ;;;;;;;;;;x
-EVTDESC106070;波斯哲学家谢哈布丁·苏哈拉瓦迪在[Root.GetName]创立了光照学派，他的伊斯兰神秘主义学派受到柏拉图学派和琐罗亚斯德教的思想影响.[Root.Holder.TopLiege.GetTitledFirstName]对于与谢哈布丁·苏哈拉瓦迪会见十分感兴趣并讨论了他最近的著作《光照的智慧》.;;;;;;;;;;x
+EVTDESC106070;波斯哲学家谢哈布丁·苏哈拉瓦迪在[Root.GetName]创立了光照学派，他的伊斯兰神秘主义学派受到柏拉图学派和祆教的思想影响。[Root.Holder.TopLiege.GetTitledFirstName]对于与谢哈布丁·苏哈拉瓦迪会见十分感兴趣并讨论了他最近的著作《光照的智慧》。;;;;;;;;;;x
 EVTOPTA106070;很好，那么接下来;;;;;;;;;;x
 EVTTOOLTIP106071;谢哈布丁·苏哈拉瓦迪参见[This.GetTitledFirstName];;;;;;;;;;x
-EVTDESC106071;伊斯兰神秘主义学派光照学派由波斯哲学家谢哈布丁·苏哈拉瓦迪创立，受柏拉图学派和琐罗亚斯德教的思想影响.最近我自己正在困扰于一些哲学问题，但是在同谢哈布丁·苏哈拉瓦迪谈话并阅读了他的《光照的智慧》一书之后，我认为我的问题得到了解答.;;;;;;;;;;x
+EVTDESC106071;伊斯兰神秘主义学派光照学派由波斯哲学家谢哈布丁·苏哈拉瓦迪创立，受柏拉图学派和祆教的思想影响.最近我自己正在困扰于一些哲学问题，但是在同谢哈布丁·苏哈拉瓦迪谈话并阅读了他的《光照的智慧》一书之后，我认为我的问题得到了解答。;;;;;;;;;;x
 EVTOPTA106071;留下来然后告诉我更多关于光照学派的事情;;;;;;;;;;x
 EVTDESC106075;阿希尔丁·阿布哈里 来自 [Root.GetName] 一生写了许多有关天文学，数学和哲学的著作，其中有《哲学指南》、《天文学的悲哀》 ;;;;;;;;;;x
 EVTOPTA106075;[Root.Holder.TopLiege.GetTitledFirstName] 希望能遇见他 ;;;;;;;;;;x

@@ -129,8 +129,8 @@ placeholdername_43;我的一些封臣开始怀疑我统治太长了。他们还�
 placeholdername_44;这些怀疑中的封臣现在确信我有非自然的力量，并显然正在谋划我的死亡。他们必须被连根拔除。;;;;;;;;;;x
 appeased_religious;受祝福的民众;;;;;;;;;;x
 ask_wards_liege_to_allow_faith_focus;请求允许信仰重心;;;;;;;;;;x
-ask_wards_liege_to_allow_faith_focus_desc;给§Y[Root.Liege.GetTitledFirstName]§!寄出一封信征求许可去更改§Y[Root.GetFirstName]§!的童年重心。以信仰作为重心将使得§Y[Root.GetFirstName]§!改信你的宗教。;;;;;;;;;;x
-change_wards_focus_to_faith;将童年重心改为信仰;;;;;;;;;;x
+ask_wards_liege_to_allow_faith_focus_desc;给§Y[Root.Liege.GetTitledFirstName]§!寄出一封信征求许可以更改§Y[Root.GetFirstName]§!的童年焦点。以信仰作为焦点将使得§Y[Root.GetFirstName]§!改信你的宗教。;;;;;;;;;;x
+change_wards_focus_to_faith;变更童年焦点为信仰;;;;;;;;;;x
 change_wards_focus_to_faith_desc;改变§Y[Root.GetFirstName]§!的重心。以信仰作为重心将使得§Y[Root.GetFirstName]§!改信你的宗教。;;;;;;;;;;x
 EVTDESC_ZE_2140;致[GetFromFromRootCompliment][Root.GetTitledNameWithNick]，\n\n我向你写这封信以征求你的许可，去给予我的受监护人，[From.GetFirstName]，以适当的[FromFrom.Religion.GetName]抚养环境并学习[FromFrom.Religion.GetScriptureName]的生活方式。\n\n签名[FromFrom.GetTitledFirstName]。;;;;;;;;;;x
 EVTDESC_ZE_2141;亲爱的[Root.GetTitledNameWithNick]，\n\n你主动提出教导[FromFrom.GetFirstName]有关你的宗教的内容，我表示最大程度的欢迎，同意你的请求。;;;;;;;;;;x
@@ -140,9 +140,9 @@ RULE_VASSAL_LIMIT_DEFAULT_DESC;统治者的封臣上限以及无惩罚时能控�
 RULE_VASSAL_LIMIT_HALF_DESC;封臣上限降到默认水平的一半。;;;;;;;;;;x
 RULE_VASSAL_LIMIT_QUARTERED_DESC;封臣上限降到默认水平的四分之一。;;;;;;;;;;x
 RULE_VASSAL_LIMIT_UNLIMITED_DESC;统治者现在没有可控制封臣数量的上限。;;;;;;;;;;x
-RULE_GRANT_INDEPENDENCE;给予独立;;;;;;;;;;x
-RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC;给予独立这一行为受到限制。;;;;;;;;;;x
-RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC;给予独立这一行为没有限制，可以无限制地给予任何人独立。;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE;准许独立;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC;准许独立这一行为受到限制。;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC;准许独立这一行为没有限制，可以无限制地准许任何人独立。;;;;;;;;;;x
 ATTACHED_UNIT;<A3-4-A3>;;;;;;;;;;x
 ATTACHED_TO_UNIT;<A3-5-A3>;;;;;;;;;;x
 GOV_LANDED_CAN_NOT_INHERIT;已经拥有封地的角色无法继承。;;;;;;;;;;x

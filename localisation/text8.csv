@@ -147,7 +147,7 @@ DEATH_DUNGEON;死在$KILLER$的地牢里;;;;;;;;;;x
 DEATH_SUICIDE;自杀身亡;;;;;;;;;;x
 DEATH_RABBLE;被暴民戮杀;;;;;;;;;;x
 DEATH_DUEL;在与$KILLER$的决斗中被杀死;;;;;;;;;;x
-CHARACTER_DEAD_TOOLTIP;在§Y[GetDeathDate]§! [GetDeathReasonCap], 享年§Y[GetAgeYears]§!岁 (出生于§Y[GetBirthDate]§!).;;;;;;;;;;x
+CHARACTER_DEAD_TOOLTIP;在§Y[GetDeathDate]§! [GetDeathReasonCap], 时年§Y[GetAgeYears]§!岁 (出生于§Y[GetBirthDate]§!).;;;;;;;;;;x
 CHAR_DEATH_LETTER;在$AGE$岁时，我的$RELATION$ $NAME$ $CAUSE$.;;;;;;;;;;x
 NOT_READY_TO_PLAY_MP;§Y$PLAYER$§!尚未准备就绪;;;;;;;;;;x
 DESTROY_LANDED_TITLE_EFFECT;§Y$TITLE$§!被收回.\n;;;;;;;;;;x
@@ -1176,7 +1176,7 @@ EVTTOOLTIP36010;白色的雄鹿;;;;;;;;;;x
 EVTDESC100511;在被那箭射中的一秒以前我就听到了它的声音。它的箭羽嗡嗡作响听起来就好像在穿越森林的路上一直唱着歌，这声音应该让它能够更容易被避开……;;;;;;;;;;x
 EVTOPTA100511;那箭射中了我的手臂！;;;;;;;;;;x
 EVTOPTB100511;那箭刺进了我的大腿！;;;;;;;;;;x
-EVTOPTC100511;那箭……击中了我的心脏……;;;;;;;;;;x
+EVTOPTC100511;那箭……刺穿了我的心脏……;;;;;;;;;;x
 EVTOPTD100511;那箭只是跟我擦肩而过;;;;;;;;;;x
 EVTDESC100512;当箭射出的一刻，我屏住了呼吸，不敢眨一下眼睛，目光跟随着它的轨迹。他直直地射向了[From.GetTitledFirstName]，我敢肯定它一定射中了……;;;;;;;;;;x
 EVTOPTA100512;……射中了[From.GetTitledFirstName]的手臂，让[From.GetHerHim]受伤！;;;;;;;;;;x

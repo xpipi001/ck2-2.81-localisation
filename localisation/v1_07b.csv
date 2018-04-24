@@ -9,8 +9,8 @@ action_uncover_plots;密谋;;;;;;;;;;x
 miaphysite;基督合性派;;;;;;;;;;x
 monothelite;基督一志派;;;;;;;;;;x
 d_miaphysite;基督合性派宗主教;;;;;;;;;;x
-d_miaphysite_adj;科普特派宗 主教;;;;;;;;;;x
-COPTIC_POPE;科普特派宗 主教;;;;;;;;;;x
+d_miaphysite_adj;科普特派宗主教;;;;;;;;;;x
+COPTIC_POPE;科普特派宗主教;;;;;;;;;;x
 INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;不能从你的宗教领袖剥夺唯一宗教领地。;;;;;;;;;;x
 d_monophysite;基督一性派宗主教;;;;;;;;;;x
 d_monophysite_adj;基督一性派教宗;;;;;;;;;;x
@@ -23,30 +23,30 @@ d_monothelite_adj;基督一志派牧首;;;;;;;;;;x
 MONOTHELITE_PATRIARCH;基督一志派牧首;;;;;;;;;;x
 INTERACTION_TITLE_NOT_CONTESTED;没有任何的战争借口;;;;;;;;;;x
 AND_TRIGGER_STARTS;以下必须是切实可行的;;;;;;;;;;x
-WAR_INVALID_LOG;$WAR$ 有决定性的$REASON$;;;;;;;;;;x
-WAR_INVALID_CHARACTER_UNLANDED;\n($CHARACTER$ 削藩);;;;;;;;;;x
-WAR_INVALID_LIEGE_HIERARCHY;\n(君臣关系变化 $CHARACTER$);;;;;;;;;;x
-REL_PENTARCHS_NON_ORTHODOX_DESC;这些领袖是最初的基督教五大宗主教. 他们自古以来公认的自行任命主教的权利仍被 $RELIGION$ 承认.;;;;;;;;;;x
+WAR_INVALID_LOG;$WAR$有决定性的$REASON$;;;;;;;;;;x
+WAR_INVALID_CHARACTER_UNLANDED;\n（$CHARACTER$ 成为庶人）;;;;;;;;;;x
+WAR_INVALID_LIEGE_HIERARCHY;\n（$CHARACTER$ 的君臣关系变化 ）;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;这些领袖是最初的基督教五大宗主教。他们自古以来公认的自行任命主教的权利仍被$RELIGION$承认。;;;;;;;;;;x
 PENTARCH_DESC;目前没有$RELIGION$的§Y$TITLE$§!主教;;;;;;;;;;x
 HEAD_NOT_PENTARCH_DESC;$REL_HEAD$目前没有§Y$TITLE$§!头衔;;;;;;;;;;x
-AUTOCEPHALY_DRO; 除了最初五大宗主教 - 五大牧首区 - 其他 $RELIGION$ 王国或帝国也有各自的宗主教. 这样的王国或帝国的宫廷牧师也被认为等同于宗主教. 他们总是听从领主的吩咐, 但只有 $REL_HEAD_TITLE$ 可以授予入侵理由. 每个独立的宗主教在其控制领域内都有开除教籍贯的权利..;;;;;;;;;;x
-LEAVE_FACTION_DIPLO_IMMUNE;只要最后通牒已经发出就不能离开!;;;;;;;;;;x
+AUTOCEPHALY_DRO;除了最初五大牧首区的五大宗主教，其他$RELIGION$王国或帝国也有各自的宗主教。这样的王国或帝国的宫廷牧师也被认为等同于宗主教。他们总是听从领主的吩咐，但只有$REL_HEAD_TITLE$可以授予入侵理由。每个独立的宗主教在其控制领域内都有开除教籍的权力……;;;;;;;;;;x
+LEAVE_FACTION_DIPLO_IMMUNE;只要最后通牒已经发出就不能离开！;;;;;;;;;;x
 IS_DIPLO_IMMUNE;不受敌对领主的行动的影响;;;;;;;;;;x
 IS_NOT_DIPLO_IMMUNE;受到敌对领主的行动的影响;;;;;;;;;;x
-INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;§Y[Recipient.GetTitledFirstName]§! 目前不受敌对领主的行动的影响;;;;;;;;;;x
-NO_FACTIONS_POSSIBLE_NOW;§R在这段时间没有任何潜在派系.§!;;;;;;;;;;x
-INTERACTION_CANNOT_JOIN_ENEMIES;不加入我们当前敌人的战争;;;;;;;;;;x
+INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;§Y[Recipient.GetTitledFirstName]§!目前不受敌对领主的行动的影响;;;;;;;;;;x
+NO_FACTIONS_POSSIBLE_NOW;§R在这段时间没有任何潜在派系。§!;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_ENEMIES;不能加入我们当前敌人的战争;;;;;;;;;;x
 AIREASON_IS_MY_REGENT;§Y[GetTitledFirstName]§!是我的摄政;;;;;;;;;;x
-EVTDESC45000;我们正义的事业已经得到各地广泛的支持! [From.GetTitledFirstName] 当心...;;;;;;;;;;x
-EVTDESC45001;大股叛军和机会主义者投靠了在[From.Capital.GetName]的不忠的叛逆 [From.GetTitledFirstName]!;;;;;;;;;;x
-EVTOPTA45001;把他们全部拿去喂秃鹫!;;;;;;;;;;x
-EVTDESC45002;持续进行的内战使得老兵和各种机会主义者不断向 [Root.Capital.GetName] 聚集!;;;;;;;;;;x
-EVTDESC45003;大量的老兵和各种机会主义者不断投靠在[From.Capital.GetName]的 [From.GetTitledName] ，并且在我们作战!;;;;;;;;;;x
-EVTOPTA45003;接下来 女人和孩子;;;;;;;;;;x
-EVTDESC8037;伟大的 [Root.GetTitledFirstName]!我和一堆忠诚的士兵已经向叛逆发出了最后通牒, [From.Liege.GetTitledName], 请求你统治 [From.SupportedClaimantTitle.GetName].祝我们好运!\n\n写道,\n[From.GetTitledName];;;;;;;;;;x
-EVTOPTA8037;这可能会很难看...;;;;;;;;;;x
-EVTDESC20369;我的领主, [FromFrom.GetTitledName] 决定不冒险刺激他的封臣 并且承认腐败的指控. 这可能需要花费一点时间来让 [FromFrom.GetHerHis] 恢复声望 ，我很好的收集了相关信息.\n\n你谦卑的间谍总管,\n[From.GetTitledName];;;;;;;;;;x
-EVTTOOLTIP2484;这个孩子需要一个监护者.;;;;;;;;;;x
+EVTDESC45000;我们正义的事业已经得到各地广泛的支持！[From.GetTitledFirstName]要当心了……;;;;;;;;;;x
+EVTDESC45001;大股叛军和机会主义者投靠了在[From.Capital.GetName]的不忠的叛徒[From.GetTitledFirstName]！;;;;;;;;;;x
+EVTOPTA45001;把他们全部拿去喂秃鹫！;;;;;;;;;;x
+EVTDESC45002;持续进行的内战使得老兵和各种机会主义者不断向[Root.Capital.GetName]聚集！;;;;;;;;;;x
+EVTDESC45003;大量的老兵和各种机会主义者不断聚集到[From.Capital.GetName]的[From.GetTitledName]的领导下与我们作战！;;;;;;;;;;x
+EVTOPTA45003;接下来呢？女人和孩子？;;;;;;;;;;x
+EVTDESC8037;伟大的[Root.GetTitledFirstName]！我和一群忠诚的士兵已经向篡位者发出了最后通牒，[From.Liege.GetTitledName]，请求你统治[From.SupportedClaimantTitle.GetName]。祝我们好运!\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTOPTA8037;这可能会很难看……;;;;;;;;;;x
+EVTDESC20369;我的领主，[FromFrom.GetTitledName] 决定不冒险刺激他的封臣并且承认腐败的指控。这可能需要花费一点时间来让 [FromFrom.GetHerHis] 恢复声望 ，并且我带回了我收来的罚款。\n\n你谦卑的间谍总管，\n[From.GetTitledName];;;;;;;;;;x
+EVTTOOLTIP2484;这个孩子需要一个监护者。;;;;;;;;;;x
 EVTOPTD4140;我们确是安拉所掌握的，我们将必归于他;;;;;;;;;;x
 blinded_death;失明引起的并发症;;;;;;;;;;x
 successful_sally;防御部队得到§G10.0%§!士气.\n 防御部队受到§R2.5%§!损失.\n§G敌人:§! 进攻部队受到§R5.0%§!损失.;;;;;;;;;;x

@@ -11,16 +11,16 @@ conscientious;尽责;;;;;;;;;;x
 fussy;挑剔;;;;;;;;;;x
 curious;好奇;;;;;;;;;;x
 idolizer;狂信者;;;;;;;;;;x
-no_objective_title;没有选择重心;;;;;;;;;;x
+no_objective_title;没有选择焦点;;;;;;;;;;x
 focus_ch_pride;傲慢;;;;;;;;;;x
 focus_ch_pride_title;傲慢;;;;;;;;;;x
-focus_ch_pride_desc;[This.GetTitledFirstName] 由枢密大臣和贵族教导, 准备成为统治者. 此重心通常的特质结果是 §Y自大§!和 §Y沉思§!。;;;;;;;;;;x
+focus_ch_pride_desc;[This.GetTitledFirstName] 由枢密大臣和贵族教导，准备成为统治者。此重心通常的特质结果是 §Y自大§!和 §Y沉思§!。;;;;;;;;;;x
 focus_ch_humility;谦逊;;;;;;;;;;x
 focus_ch_humility_title;谦逊;;;;;;;;;;x
 focus_ch_humility_desc;[This.GetTitledFirstName] 在宫廷中由仆人教导, 专注于服侍与谦逊. 此重心通常的特质结果是 §Y怯懦§!和 §Y亲切§!。;;;;;;;;;;x
 focus_ch_duty;使命;;;;;;;;;;x
 focus_ch_duty_title;使命;;;;;;;;;;x
-focus_ch_duty_desc;[This.GetTitledFirstName] 在宫廷中由守卫与随从教导, 专注于使命与勤勉. 此重心通常的特质结果是 §Y尽责§!。;;;;;;;;;;x
+focus_ch_duty_desc;[This.GetTitledFirstName]在宫廷中由守卫与随从教导，专注于使命与勤勉。此焦点通常的特质结果是§Y尽责§!。;;;;;;;;;;x
 focus_ch_etiquette;礼仪;;;;;;;;;;x
 focus_ch_etiquette_title;礼仪;;;;;;;;;;x
 focus_ch_etiquette_desc;[This.GetTitledFirstName] 由枢密大臣与其他廷臣教导, 专注于彬彬有礼的举止与礼仪. 此重心通常的特质结果是 §Y调皮§!和 §Y懒散§!。;;;;;;;;;;x
@@ -52,129 +52,129 @@ focus_ed_learning;学问;;;;;;;;;;x
 focus_ed_learning_title;学问教育;;;;;;;;;;x
 focus_ed_learning_desc;[This.GetTitledFirstName] 专注于 [This.GetHerHis] 学问、哲学与宗教上的学习.\n§G怯懦§! 的孩子与 §G狂信者§! 会在这种教育上表现得更好, 而 §R沉思§! 与 §R调皮§! 的孩子会受到阻碍.;;;;;;;;;;x
 silence_is_golden;沉默是金;;;;;;;;;;x
-silence_is_golden_desc;这个角色明智地选择了保持沉默;;;;;;;;;;x
-EVTDESCA_ZE_12000;我无意中发现 [haughty_events_char_1.GetTitledFirstNameWithNick] 在走廊里与一名庶民仆人亲吻.;;;;;;;;;;x
-EVTOPTA_ZE_12000;这是不合适的, 我应该告诉 [haughty_events_char_1.GetHerHim];;;;;;;;;;x
-EVTOPTB_ZE_12000;这是我们的秘密,对吗?;;;;;;;;;;x
-EVTDESCB_ZE_12000;穿过院子时, 我看见 [haughty_events_char_1.GetTitledFirstName] 愤怒地用一根沉重的棍子在打狗.;;;;;;;;;;x
-EVTDESCC_ZE_12000;在外面散步时, 我在路上偶遇了一些平民. 他们其中一个大声叫唤, 说我今天看起来很可爱.;;;;;;;;;;x
-EVTOPTE_ZE_12000;我会看到他因这么跟我说话受到惩罚的!;;;;;;;;;;x
-EVTOPTF_ZE_12000;我会优雅的点下头并接受恭维.;;;;;;;;;;x
-EVTOPTE_ZE_12000_TOOLTIP1;农民很生气;;;;;;;;;;x
-EVTOPTE_ZE_12000_TOOLTIP2;农民屈服了;;;;;;;;;;x
-EVTOPTC_ZE_12000;我会捡起一根棍子来打他!;;;;;;;;;;x
-EVTOPTD_ZE_12000;我想加入!;;;;;;;;;;x
+silence_is_golden_desc;这个角色明智地选择了保持沉默。;;;;;;;;;;x
+EVTDESCA_ZE_12000;我无意中发现[haughty_events_char_1.GetTitledFirstNameWithNick]在走廊里与一名庶民仆人亲吻。;;;;;;;;;;x
+EVTOPTA_ZE_12000;我应该告诉[haughty_events_char_1.GetHerHim]，这是不合适的！;;;;;;;;;;x
+EVTOPTB_ZE_12000;这是我们的秘密，对吗？;;;;;;;;;;x
+EVTDESCB_ZE_12000;穿过院子时，我看见[haughty_events_char_1.GetTitledFirstName]愤怒地用一根沉重的棍子在打狗。;;;;;;;;;;x
+EVTDESCC_ZE_12000;在外面散步时，我在路上偶遇了一些平民。他们其中一个大声叫唤，说我今天看起来很可爱。;;;;;;;;;;x
+EVTOPTE_ZE_12000;我会看到他因这么跟我说话受到惩罚的！;;;;;;;;;;x
+EVTOPTF_ZE_12000;我会优雅（存疑）的点下头并接受恭维。;;;;;;;;;;x
+EVTOPTE_ZE_12000_TOOLTIP1;农民很生气。;;;;;;;;;;x
+EVTOPTE_ZE_12000_TOOLTIP2;农民屈服了。;;;;;;;;;;x
+EVTOPTC_ZE_12000;相反我会捡起一根棍子来打他！;;;;;;;;;;x
+EVTOPTD_ZE_12000;我想加入！;;;;;;;;;;x
 EVTDESCA_ZE_12002;当我正与诱人的厨师度过一个愉快的时刻时, 那讨厌的孩子 [From.GetFirstName] 碰见了我们并立刻以道德指责我!;;;;;;;;;;x
 EVTDESCB_ZE_12002;当我正与诱人的厨师度过一个愉快的时刻时, 年轻的 [From.GetFirstName] 碰见了我们. 然而, [From.GetSheHe] 只是对我们眨了眨眼就溜走了.;;;;;;;;;;x
-EVTOPTA_ZE_12002;我会抓住这个小鬼并让 [From.GetHerHim] 好看的!;;;;;;;;;;x
-EVTOPTB_ZE_12002;无所谓.;;;;;;;;;;x
-EVTDESCA_ZE_12004;[From.GetTitledFirstName] 没有诚恳地接受我的指责. [From.GetSheHeCap] 抓住我并狠揍了一顿.;;;;;;;;;;x
-EVTOPTA_ZE_12004;那个 [GetRootFromInsult]! 我会告诉所有人!;;;;;;;;;;x
-EVTOPTB_ZE_12004;我会躲好不让 [From.GetSheHe] 再找到我.;;;;;;;;;;x
+EVTOPTA_ZE_12002;我会抓住这个小鬼并让[From.GetHerHim]好看的！;;;;;;;;;;x
+EVTOPTB_ZE_12002;无所谓。;;;;;;;;;;x
+EVTDESCA_ZE_12004;[From.GetTitledFirstName]没有诚恳地接受我的指责。[From.GetSheHeCap]抓住我并狠揍了我一顿。;;;;;;;;;;x
+EVTOPTA_ZE_12004;那个[GetRootFromInsult]！我会告诉所有人！;;;;;;;;;;x
+EVTOPTB_ZE_12004;我会躲好不让[From.GetSheHe]再找到我。;;;;;;;;;;x
 EVTDESCA_ZE_12006;[From.GetFirstName], 那个 [GetRootFromInsult], 在周围向所有人散播关于我的谎言, 作为我给予[From.GetHerHim]应得的敲打的幼稚报复.;;;;;;;;;;x
-EVTDESCB_ZE_12006;当我转过身, 狗咬了我的脚踝，[From.GetFirstName] 成功地逃脱潜伏在周围满怀怨恨的注视着我.;;;;;;;;;;x
-EVTDESCC_ZE_12002;当我在院子里打一条疯狗时, 那个小坏蛋 [From.GetFirstName] 跑过来并开始用棍子打我.;;;;;;;;;;x
-EVTDESCD_ZE_12002;当我在院子里打一条疯狗时, 小 [From.GetFirstName] 跑过来加入到殴打中.;;;;;;;;;;x
-EVTOPTD_ZE_12002;我会让这 [GetRootFromInsult]看看!;;;;;;;;;;x
-EVTOPTE_ZE_12002;多么脆弱,多么可爱.;;;;;;;;;;x
-EVTOPTF_ZE_12002;那是所有人的房间.;;;;;;;;;;x
+EVTDESCB_ZE_12006;当我转过身的时候，狗咬住了我的脚踝，[From.GetFirstName]趁机跑走了，但是之后他就在附近满怀怨恨地偷偷盯着我。;;;;;;;;;;x
+EVTDESCC_ZE_12002;当我在院子里打一条疯狗时，那个小坏蛋[From.GetFirstName]跑过来并开始用棍子打我。;;;;;;;;;;x
+EVTDESCD_ZE_12002;当我在院子里打一条疯狗时，小[From.GetFirstName]跑过来加入到殴打中。;;;;;;;;;;x
+EVTOPTD_ZE_12002;我会让这[GetRootFromInsult]看看！;;;;;;;;;;x
+EVTOPTE_ZE_12002;多么脆弱，多么可爱。;;;;;;;;;;x
+EVTOPTF_ZE_12002;那是所有人的房间。;;;;;;;;;;x
 EVTDESCB_ZE_12004;当我在打 [From.GetHerHim]时, [From.GetTitledFirstName] 向我表达了 [From.GetHerHis] 愤怒， 但当狗咬向 [From.GetHerHim]脚踝时我设法避开了.;;;;;;;;;;x
-EVTOPTC_ZE_12004;[From.GetSheHeCap] 会发现我是个劲敌!;;;;;;;;;;x
-EVTOPTD_ZE_12004;现在, 我的玩具在哪...?;;;;;;;;;;x
+EVTOPTC_ZE_12004;[From.GetSheHeCap]会发现我是个可怕的敌人！;;;;;;;;;;x
+EVTOPTD_ZE_12004;那么现在，我的玩具在哪..….？;;;;;;;;;;x
 opinion_complicity;同谋;;;;;;;;;;x
 opinion_contempt;耻辱;;;;;;;;;;x
-EVTDESCC_ZE_12004;我对这些傲慢的农民的处理产生了使他们更生气的不幸的结果.;;;;;;;;;;x
-EVTDESCD_ZE_12004;我对这些傲慢的农民的处理真的让他和其他人服服帖帖.;;;;;;;;;;x
-EVTOPTE_ZE_12004;我们会给予他们应得的.;;;;;;;;;;x
-EVTOPTF_ZE_12004;我知道如何处理这些事情.;;;;;;;;;;x
-EVTDESCA_ZE_13001;现在我实际上已经是个成年人, 如果他们知道什么是对他们有利的那最好听从我.;;;;;;;;;;x
-EVTDESCB_ZE_13001;规则是用于弱者的. 我明白自己要什么.;;;;;;;;;;x
-EVTDESCC_ZE_13001;我知道自己的价值, 其他人最好不要阻碍我.;;;;;;;;;;x
-EVTOPTA_ZE_13001;我不愿屈服于任何人.;;;;;;;;;;x
-EVTOPTB_ZE_13001;而且我知道在哪里可以得到它.;;;;;;;;;;x
-EVTOPTC_ZE_13001;如果他们反对我会碾碎他们.;;;;;;;;;;x
+EVTDESCC_ZE_12004;我对这些傲慢的农民的处理产生了使他们更生气的不幸的结果。;;;;;;;;;;x
+EVTDESCD_ZE_12004;我对这些傲慢的农民的处理真的让他和其他人服服帖帖。;;;;;;;;;;x
+EVTOPTE_ZE_12004;我们会给予他们应得的。;;;;;;;;;;x
+EVTOPTF_ZE_12004;我知道如何处理这些事情。;;;;;;;;;;x
+EVTDESCA_ZE_13001;现在我实际上已经是个成年人了，如果他们识大体的话，那最好听从于我。;;;;;;;;;;x
+EVTDESCB_ZE_13001;规则是用于弱者的。我明白自己要什么。;;;;;;;;;;x
+EVTDESCC_ZE_13001;我知道自己的价值，其他人最好不要挡我的道。;;;;;;;;;;x
+EVTOPTA_ZE_13001;我不愿屈服于任何人。;;;;;;;;;;x
+EVTOPTB_ZE_13001;而且我知道在哪里可以得到它。;;;;;;;;;;x
+EVTOPTC_ZE_13001;如果他们反对，我会碾碎他们。;;;;;;;;;;x
 EVTDESCA_ZE_13002;年轻的 [From.GetFirstName] 对高傲的举止表现出强烈的倾向.;;;;;;;;;;x
 EVTDESCB_ZE_13002;年轻的 [From.GetFirstName] 正在发展出专断的性格. 每一天都表现得更明显.;;;;;;;;;;x
-EVTDESCC_ZE_13002;年轻的 [From.GetFirstName] 正在表现出以非常残酷的暴行对待他人.;;;;;;;;;;x
-EVTOPTA_ZE_13002;[From.GetSheHeCap] 应该显示更多的野心.;;;;;;;;;;x
-EVTOPTB_ZE_13002;很好, 我不需要更多的竞争.;;;;;;;;;;x
-haughty_may_become_ambitious;[From.GetFirstName] 正在变得野心勃勃.;;;;;;;;;;x
+EVTDESCC_ZE_13002;年轻的[From.GetFirstName]展现了残暴待人的迹象。;;;;;;;;;;x
+EVTOPTA_ZE_13002;[From.GetSheHeCap]应该展现更大的野心。;;;;;;;;;;x
+EVTOPTB_ZE_13002;很好，我不需要更多的竞争者。;;;;;;;;;;x
+haughty_may_become_ambitious;让[From.GetFirstName]变得野心勃勃的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13004;[From.GetTitledFirstName] 不喜欢我变得傲慢的趋势并告诉我应该显示出更多的野心.;;;;;;;;;;x
 EVTDESCB_ZE_13004;[From.GetTitledFirstName] 不喜欢我变得专断的趋势并告诉我应该显示出更多的野心.;;;;;;;;;;x
 EVTDESCC_ZE_13004;[From.GetTitledFirstName] 不喜欢我变得残忍的趋势并告诉我应该显示出更多的野心.;;;;;;;;;;x
-EVTOPTA_ZE_13004;[From.GetSheHeCap] 是对的 -我注定是个伟人.;;;;;;;;;;x
-EVTOPTB_ZE_13004;[From.GetSheHeCap] 不能告诉我怎么去做!;;;;;;;;;;x
-EVTOPTC_ZE_13004;是的, [From.GetTitledFirstName]'.;;;;;;;;;;x
-EVTOPTD_ZE_13004;[From.GetSheHeCap]很幸运， 如果我不在 [From.GetHerHis] 食物里下毒.;;;;;;;;;;x
-EVTDESCA_ZE_13011;我发现给予他人快乐会给我带来极大的快乐.;;;;;;;;;;x
+EVTOPTA_ZE_13004;[From.GetSheHeCap]是对的——我注定是个伟人。;;;;;;;;;;x
+EVTOPTB_ZE_13004;[From.GetSheHeCap]不能告诉我怎么去做！;;;;;;;;;;x
+EVTOPTC_ZE_13004;是的，[From.GetTitledFirstName]。;;;;;;;;;;x
+EVTOPTD_ZE_13004;[From.GetSheHeCap]很幸运， 如果我不在[From.GetHerHis]食物里下毒。;;;;;;;;;;x
+EVTDESCA_ZE_13011;我发现给予他人快乐会给我带来极大的快乐。;;;;;;;;;;x
 EVTDESCB_ZE_13011;我和别人相处得很好, 而有些人只追求野心并卷入不必要的冲突中.;;;;;;;;;;x
 EVTDESCC_ZE_13011;我知道大多数人是善良的, 而不信任与猜疑不会带来任何好处.;;;;;;;;;;x
-EVTOPTA_ZE_13011;善良把我们联结在一起.;;;;;;;;;;x
-EVTOPTB_ZE_13011;我有我需要的东西在这里.;;;;;;;;;;x
-EVTOPTC_ZE_13011;为什么会有人想要伤害我?;;;;;;;;;;x
+EVTOPTA_ZE_13011;善良把我们联结在一起。;;;;;;;;;;x
+EVTOPTB_ZE_13011;这里有我需要的东西。;;;;;;;;;;x
+EVTOPTC_ZE_13011;为什么会有人想要伤害我？;;;;;;;;;;x
 EVTDESCA_ZE_13012;年轻的 [From.GetFirstName] 正在发展出一种和蔼的对待他人的性格.;;;;;;;;;;x
 EVTDESCB_ZE_13012;年轻的 [From.GetFirstName]很容易满足而且明显缺乏野心.;;;;;;;;;;x
 EVTDESCC_ZE_13012;年轻的 [From.GetFirstName] 似乎信任每一个人,缺乏任何人类的邪恶的概念.;;;;;;;;;;x
-EVTOPTA_ZE_13012;[From.GetSheHeCap] 应该更仁慈一点.;;;;;;;;;;x
-EVTOPTB_ZE_13012;[From.GetSheHeCap] 只能是 [From.GetHerselfHimself].;;;;;;;;;;x
-affectionate_may_become_charitable;[From.GetFirstName] 变得仁慈的机会.;;;;;;;;;;x
+EVTOPTA_ZE_13012;[From.GetSheHeCap]应该更加慷慨。;;;;;;;;;;x
+EVTOPTB_ZE_13012;[From.GetSheHeCap]只能做[From.GetHerselfHimself]。;;;;;;;;;;x
+affectionate_may_become_charitable;让[From.GetFirstName]变得慷慨的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13014;[From.GetTitledFirstName] 说 [From.GetSheHe] 除了赞赏我和蔼的性格还认为我可以更多的去帮助别人.;;;;;;;;;;x
 EVTDESCB_ZE_13014;[From.GetTitledFirstName] 说 [From.GetSheHe] 觉得我太被动并想让我更多的去帮助有困难的人.;;;;;;;;;;x
 EVTDESCC_ZE_13014;[From.GetTitledFirstName] 希望我天真一点并付出更多的努力帮助别人.;;;;;;;;;;x
-EVTOPTA_ZE_13014;[From.GetSheHeCap] 是对的, 我应该做得更好.;;;;;;;;;;x
-EVTOPTB_ZE_13014;我会试试;;;;;;;;;;x
-EVTOPTC_ZE_13014;当我可以的时候会去帮忙, 但很少看到一个有需要的人.;;;;;;;;;;x
-EVTOPTD_ZE_13014;但是 [Root.TopLiege.GetTitle] 提供了一切, 确定吗?;;;;;;;;;;x
-EVTDESCA_ZE_13021;当我年纪越来越大,我发现我的谦卑是天生的.;;;;;;;;;;x
-EVTDESCB_ZE_13021;我一直觉得保持沉默让别人说话更加舒服.;;;;;;;;;;x
+EVTOPTA_ZE_13014;[From.GetSheHeCap]是对的，我应该做得更好。;;;;;;;;;;x
+EVTOPTB_ZE_13014;我会试试。;;;;;;;;;;x
+EVTOPTC_ZE_13014;当我可以的时候会去帮忙，但很少看到一个有需要的人。;;;;;;;;;;x
+EVTOPTD_ZE_13014;但是[Root.TopLiege.GetTitle]提供了一切，你确定？;;;;;;;;;;x
+EVTDESCA_ZE_13021;当我年纪越来越大，我发现我生而谦卑。;;;;;;;;;;x
+EVTDESCB_ZE_13021;我一直觉得保持沉默并让他人说话会让我更加舒服。;;;;;;;;;;x
 EVTDESCC_ZE_13021;当我更加了解人生之后, 我发现尽可能远离危险通常是明智的.;;;;;;;;;;x
-EVTOPTA_ZE_13021;我应该避免傲慢的危险;;;;;;;;;;x
-EVTOPTB_ZE_13021;没有需要吵了.;;;;;;;;;;x
-EVTOPTC_ZE_13021;只有蠢货会冒险.;;;;;;;;;;x
+EVTOPTA_ZE_13021;我应该避免傲慢的危险。;;;;;;;;;;x
+EVTOPTB_ZE_13021;没有必要吵了。;;;;;;;;;;x
+EVTOPTC_ZE_13021;只有蠢货才会冒险。;;;;;;;;;;x
 EVTDESCA_ZE_13022;年轻的 [From.GetFirstName] 正显现出自然谦卑的风度.;;;;;;;;;;x
 EVTDESCB_ZE_13022;我察觉到年轻的 [From.GetFirstName] 通常会试图远离他人.;;;;;;;;;;x
-EVTDESCC_ZE_13022;年轻的 [From.GetFirstName] 似乎总是避免承担任何风险.;;;;;;;;;;x
-EVTOPTA_ZE_13022;[From.GetSheHeCap] 不应该那么急着尝试.;;;;;;;;;;x
-EVTOPTB_ZE_13022;都是应该的.;;;;;;;;;;x
-timid_may_become_content;使[From.GetFirstName] 满足的机会.;;;;;;;;;;x
+EVTDESCC_ZE_13022;年轻的[From.GetFirstName]似乎总是避免承担任何风险。;;;;;;;;;;x
+EVTOPTA_ZE_13022;[From.GetSheHeCap]不应该那么努力去尝试。;;;;;;;;;;x
+EVTOPTB_ZE_13022;都是应该的。;;;;;;;;;;x
+timid_may_become_content;让[From.GetFirstName]变得安于现状的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13024;[From.GetTitledFirstName] 说我不应该那么努力着谦虚而是做回我自己.;;;;;;;;;;x
 EVTDESCB_ZE_13024;[From.GetTitledFirstName] 说我太害羞了，应该试着放松并自己走进人群当中.;;;;;;;;;;x
 EVTDESCC_ZE_13024;[From.GetTitledFirstName] 说我太害怕了,应该试着放松并做回我自己;;;;;;;;;;x
 EVTOPTA_ZE_13024;[From.GetSheHeCap] 是对的, 我应该放开点.;;;;;;;;;;x
-EVTOPTB_ZE_13024;我没有去尝试, 这就是我.;;;;;;;;;;x
-EVTOPTC_ZE_13024;我宁愿做我自己;;;;;;;;;;x
-EVTOPTD_ZE_13024;谨慎是没有错的.;;;;;;;;;;x
+EVTOPTB_ZE_13024;我不会努力尝试，我就是这样。;;;;;;;;;;x
+EVTOPTC_ZE_13024;我宁愿做我自己。;;;;;;;;;;x
+EVTOPTD_ZE_13024;谨慎是没有错的。;;;;;;;;;;x
 EVTDESCA_ZE_13031;我喜欢爬高, 摔跤和跑步 - 当我长大后我开始注意到我的身体比其他人强壮.;;;;;;;;;;x
 EVTDESCB_ZE_13031;我喜欢努力做事与直言不讳. 我没时间废话.;;;;;;;;;;x
 EVTDESCC_ZE_13031;在室外玩耍划伤膝盖后我学会了行动要迅速没必要停下来思考.;;;;;;;;;;x
-EVTOPTA_ZE_13031;强壮的感觉真好!;;;;;;;;;;x
-EVTOPTB_ZE_13031;我总是说出我的想法.;;;;;;;;;;x
-EVTOPTC_ZE_13031;思考从来不是我的强项!;;;;;;;;;;x
+EVTOPTA_ZE_13031;强壮的感觉真好！;;;;;;;;;;x
+EVTOPTB_ZE_13031;我总是说出我的想法。;;;;;;;;;;x
+EVTOPTC_ZE_13031;思考从来不是我的强项！;;;;;;;;;;x
 EVTDESCA_ZE_13032;年轻的 [From.GetFirstName] 喜欢体育游戏并发展出强壮的体格.;;;;;;;;;;x
-EVTDESCB_ZE_13032;年轻的 [From.GetFirstName] 做事努力且实话实话.;;;;;;;;;;x
+EVTDESCB_ZE_13032;年轻的[From.GetFirstName]干活卖力并且直言不讳。;;;;;;;;;;x
 EVTDESCC_ZE_13032;年轻的 [From.GetFirstName] 正显露出相比思考者更像执行者的趋势. 是的, 这是一种形容它的方式...;;;;;;;;;;x
-EVTOPTA_ZE_13032;我应该专注于教会 [From.GetHerHim] 勇敢.;;;;;;;;;;x
-EVTOPTB_ZE_13032;[From.GetSheHeCap] 应该 [From.GetHerHis] 事情.;;;;;;;;;;x
-rowdy_may_become_brave;[From.GetFirstName] 变得勇敢的机会.;;;;;;;;;;x
+EVTOPTA_ZE_13032;我应该专注于教会[From.GetHerHim]勇敢。;;;;;;;;;;x
+EVTOPTB_ZE_13032;[From.GetSheHeCap]应该做好[From.GetHerHis]自己的事情。;;;;;;;;;;x
+rowdy_may_become_brave;让[From.GetFirstName]变得勇敢的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13034;[From.GetTitledFirstName] 除了发现我越来越强壮以外还试图鼓励我变得更勇敢.;;;;;;;;;;x
 EVTDESCB_ZE_13034;[From.GetTitledFirstName] 除了赞赏我的诚实以外还试图鼓励我变得更勇敢.;;;;;;;;;;x
 EVTDESCC_ZE_13034;[From.GetTitledFirstName] 说我要在行动时多思考一下, 但不要影响到我肉体的勇气.;;;;;;;;;;x
 EVTOPTA_ZE_13034;是的, 我想和 [From.GetHerHim] 一样勇敢!;;;;;;;;;;x
-EVTOPTB_ZE_13034;我的力量就是我需要的一切.;;;;;;;;;;x
-EVTOPTC_ZE_13034;老实说, 我不在乎.;;;;;;;;;;x
-EVTOPTD_ZE_13034;我甚至不知道这是什么意思.;;;;;;;;;;x
+EVTOPTB_ZE_13034;我的力量就是我需要的一切。;;;;;;;;;;x
+EVTOPTC_ZE_13034;老实说，我不在乎。;;;;;;;;;;x
+EVTOPTD_ZE_13034;我甚至不知道这是什么意思。;;;;;;;;;;x
 EVTDESCA_ZE_13041;我阅读了历史上伟大的 [Root.GetMenWomen]的事迹, 终有一天我要像他们一样.;;;;;;;;;;x
 EVTDESCB_ZE_13041;我知道我能做什么而且没有理由害怕任何东西.;;;;;;;;;;x
 EVTDESCC_ZE_13041;我学会了如果我用心去做通常就会做到.;;;;;;;;;;x
-EVTOPTA_ZE_13041;我将成为最伟大的.;;;;;;;;;;x
-EVTOPTB_ZE_13041;有什么可担心的?没有.;;;;;;;;;;x
-EVTOPTC_ZE_13041;我只是天生倔强.;;;;;;;;;;x
+EVTOPTA_ZE_13041;我将是最伟大的人。;;;;;;;;;;x
+EVTOPTB_ZE_13041;有什么可担心的？没有。;;;;;;;;;;x
+EVTOPTC_ZE_13041;我只是天生倔强。;;;;;;;;;;x
 EVTDESCA_ZE_13042;[From.GetFirstName] 正成长为一个雄心勃勃的年轻 [From.GetManWoman].;;;;;;;;;;x
 EVTDESCB_ZE_13042;年轻的 [From.GetFirstName] 正在因 [From.GetHerHis] 伟大的勇气而越来越有名.;;;;;;;;;;x
 EVTDESCC_ZE_13042;年轻的 [From.GetFirstName] 正显现出倔强的脾气.;;;;;;;;;;x
 EVTOPTA_ZE_13042;我应该教会 [From.GetHerHim] 对自己更有信心.;;;;;;;;;;x
 EVTOPTB_ZE_13042;[From.GetSheHeCap] 永远不可能像我一样;;;;;;;;;;x
-willful_may_become_proud;让[From.GetFirstName] 变得自信的机会.;;;;;;;;;;x
+willful_may_become_proud;让[From.GetFirstName]变得骄傲的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13044;[From.GetTitledFirstName] 说我的志向是好的但[From.GetSheHe] 认为我应该更有自信.;;;;;;;;;;x
 EVTDESCB_ZE_13044;[From.GetTitledFirstName] 认可我的勇气但认为我应该对自己的成绩更有自信.;;;;;;;;;;x
 EVTDESCC_ZE_13044;[From.GetTitledFirstName] 认为我应该为自己所拥有的而自豪但我应该试着不那么倔强.;;;;;;;;;;x
@@ -193,7 +193,7 @@ EVTDESCB_ZE_13052;我已经注意到年轻的 [From.GetFirstName] 似乎带着�
 EVTDESCC_ZE_13052;年轻的 [From.GetFirstName] 看上去对所有人所有事都带着羡慕嫉妒恨的情绪;;;;;;;;;;x
 EVTOPTA_ZE_13052;[From.GetSheHeCap] 应当学会自我节制;;;;;;;;;;x
 EVTOPTB_ZE_13052;我应当抗拒介入的诱惑;;;;;;;;;;x
-brooding_may_become_temperate; [From.GetFirstName] 变得节制的几率;;;;;;;;;;x
+brooding_may_become_temperate;让[From.GetFirstName]变得温和的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13054;[From.GetTitledFirstName] 觉得我不该讲太多别人的闲话;;;;;;;;;;x
 EVTDESCB_ZE_13054;[From.GetTitledFirstName] 觉得我应该学会更好地控制情绪;;;;;;;;;;x
 EVTDESCC_ZE_13054;[From.GetTitledFirstName] 认为我应该学习压制自己的嫉妒心理;;;;;;;;;;x
@@ -212,7 +212,7 @@ EVTDESCB_ZE_13062;年轻的 [From.GetFirstName] 看起来表现出越来越多�
 EVTDESCC_ZE_13062;年轻的 [From.GetFirstName] 一直不停的吃，比别人坐在餐桌前的时间都要长;;;;;;;;;;x
 EVTOPTA_ZE_13062;[From.GetSheHeCap] 应该多出去走走 跟人聊聊;;;;;;;;;;x
 EVTOPTB_ZE_13062;啊，年轻人终究会有年轻人的样子;;;;;;;;;;x
-indolent_may_become_gregarious;[From.GetFirstName] 变得善于社交的几率;;;;;;;;;;x
+indolent_may_become_gregarious;让[From.GetFirstName]变得合群的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13064;[From.GetTitledFirstName] 说我应该更多地和人交谈，表达自己;;;;;;;;;;x
 EVTDESCB_ZE_13064;[From.GetTitledFirstName] 认为我该更多外出与人交谈;;;;;;;;;;x
 EVTDESCC_ZE_13064;[From.GetTitledFirstName] 觉得我花在吃上面的时间太多了 应当不时停下来与人聊聊;;;;;;;;;;x
@@ -231,7 +231,7 @@ EVTDESCB_ZE_13072;年轻的 [From.GetFirstName] 看起来正在发展出一种�
 EVTDESCC_ZE_13072;年轻的 [From.GetFirstName] 看起来经常在日常生活中表现出不稳定跟诡异的行为，肯定有哪里不对劲...;;;;;;;;;;x
 EVTOPTA_ZE_13072;我会把这些驱离出[From.GetHerHim]的体内;;;;;;;;;;x
 EVTOPTB_ZE_13072;我很确定[From.GetSheHe]会在生活中忍受着些;;;;;;;;;;x
-playful_may_become_cruel;[From.GetFirstName] 变得残忍的几率;;;;;;;;;;x
+playful_may_become_cruel;让[From.GetFirstName]变得残暴的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13074;[From.GetTitledFirstName] 并不认同我大方并且爱聊的天性 并决定要让我改掉这个性格;;;;;;;;;;x
 EVTDESCB_ZE_13074;[From.GetTitledFirstName] 并不认同我的聪明和滑头 并决定要让我改掉这个性格;;;;;;;;;;x
 EVTDESCC_ZE_13074;[From.GetTitledFirstName] 认为我太'古怪'了 并决定要让我改掉这个性格 ;;;;;;;;;;x
@@ -247,7 +247,7 @@ EVTDESCA_ZE_13082;年轻的 [From.GetFirstName] 充满活力并期待着完成�
 EVTDESCB_ZE_13082;年轻的 [From.GetFirstName] 令所有人刮目相看 [From.GetHerHis] 抉择都很明智 自我约束力也很强;;;;;;;;;;x
 EVTOPTA_ZE_13082;[From.GetSheHeCap] 应当正确地运用这种力量;;;;;;;;;;x
 EVTOPTB_ZE_13082;生活会奖赏[From.GetHerHim];;;;;;;;;;x
-conscientious_may_become_just;[From.GetFirstName] 变得正义的几率;;;;;;;;;;x
+conscientious_may_become_just;让[From.GetFirstName]变得正义的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13084;[From.GetTitledFirstName] 认为我应当把我可观的精力用在正义的事业上;;;;;;;;;;x
 EVTDESCB_ZE_13084;[From.GetTitledFirstName] 表扬了我 因为我的自我克制和智慧 并希望我将其用在为正义事业的服务上;;;;;;;;;;x
 EVTOPTA_ZE_13084;智慧的建议;;;;;;;;;;x
@@ -264,7 +264,7 @@ EVTDESCB_ZE_13092;年轻的 [From.GetFirstName] 看起来喜欢整理并点算�
 EVTDESCC_ZE_13092;年轻的 [From.GetFirstName] 喜欢以[From.GetHerHis]自己的方式来做事，并常常往心里去 因为别人提供意见而勃然大怒;;;;;;;;;;x
 EVTOPTA_ZE_13092;我应当导正[From.GetHerHim]往正确的方向;;;;;;;;;;x
 EVTOPTB_ZE_13092;[From.GetSheHeCap]是个劳碌命，就像我一样;;;;;;;;;;x
-fussy_may_become_diligent;[From.GetFirstName]变得勤奋的几率;;;;;;;;;;x
+fussy_may_become_diligent;让[From.GetFirstName]变得勤奋的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13094;[From.GetTitledFirstName] 赞许我的持续的勤奋 但是认为我应当更加注重我努力的结果;;;;;;;;;;x
 EVTDESCB_ZE_13094;[From.GetTitledFirstName] 赞许我上进的心态 但是认为我花太多时间考虑真金白银;;;;;;;;;;x
 EVTDESCC_ZE_13094;[From.GetTitledFirstName] 说我有我自己强烈的观点是不错，但是[From.GetSheHe]要我更加注重我行为的结果 而不是担心别人的嫉妒;;;;;;;;;;x
@@ -282,7 +282,7 @@ EVTDESCA_ZE_13102;年轻的 [From.GetFirstName] 看起来有很多自己独立�
 EVTDESCB_ZE_13102;年轻的 [From.GetFirstName] 看起来对其他传统很有兴趣 而不是 [From.Religion.GetName] 的;;;;;;;;;;x
 EVTDESCC_ZE_13102;年轻的 [From.GetFirstName] 看起来是一个真正的探索家跟实验者，不断的发现吸引到[From.GetHerHim]的新点子和话题;;;;;;;;;;x
 EVTOPTA_ZE_13102;我应当试着阻止这些倾向...;;;;;;;;;;x
-curious_may_become_patient;[From.GetFirstName] 变得耐心的几率;;;;;;;;;;x
+curious_may_become_patient;让[From.GetFirstName]变得耐心的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13104;[From.GetTitledFirstName] 认为我不该太快质疑神职人员的说法;;;;;;;;;;x
 EVTDESCB_ZE_13104;我喜欢学习模仿外国习俗，但是 [From.GetTitledFirstName] 觉得我该更加注重我们自己的价值美德;;;;;;;;;;x
 EVTDESCC_ZE_13104;[From.GetTitledFirstName] 似乎觉得我聪明过头了，或者[From.GetSheHe]是这么说的;;;;;;;;;;x
@@ -301,7 +301,7 @@ EVTDESCB_ZE_13112;年轻的 [From.GetFirstName] 经常谈起他对智慧[From.Ge
 EVTDESCC_ZE_13112;年轻的 [From.GetFirstName] 似乎非常乐意褒扬[From.GetHerHim]身边人的行为，而忽略[From.GetHerHis]自己的活动和发展;;;;;;;;;;x
 EVTOPTA_ZE_13112;[From.GetSheHeCap]应当更加注重帮助他人;;;;;;;;;;x
 EVTOPTB_ZE_13112;真可爱的孩子啊！;;;;;;;;;;x
-idolizer_may_become_kind;[From.GetFirstName] 变得仁慈的概率;;;;;;;;;;x
+idolizer_may_become_kind;让[From.GetFirstName]变得和蔼的机会。;;;;;;;;;;x
 EVTDESCA_ZE_13114;[From.GetTitledFirstName] 似乎觉得我应该把对 [Root.Religion.GetRandomGodName] 的崇敬换成对我的部下的爱护;;;;;;;;;;x
 EVTDESCB_ZE_13114;我崇拜智慧的[From.GetMenWomen]长者的学识，但是 [From.GetTitledFirstName] 觉得我应该更加跟身边的同龄人深入交流;;;;;;;;;;x
 EVTDESCC_ZE_13114;我会很轻易的仰慕他人的美德，但是 [From.GetTitledFirstName] 觉得我太被动了，应当更加注重帮助别人，免得长成一个弱者;;;;;;;;;;x
@@ -541,19 +541,19 @@ defeated_dread_king;击败邪忌之王;;;;;;;;;;x
 defeated_dread_king_desc;此人幻想了一段在地牢中击败邪忌之王的奇妙冒险。;;;;;;;;;;x
 dread_king_martial_tooltip;使用武力。;;;;;;;;;;x
 dread_king_intrigue_tooltip;使用计谋。;;;;;;;;;;x
-CHILDHOOD_FOCUS_PRIDE;童年重点：自豪;;;;;;;;;;x
-CHILDHOOD_FOCUS_HUMILITY;童年重点：谦逊;;;;;;;;;;x
-CHILDHOOD_FOCUS_DUTY;童年重点：责任;;;;;;;;;;x
-CHILDHOOD_FOCUS_ETIQUETTE;童年重点：礼仪;;;;;;;;;;x
-CHILDHOOD_FOCUS_THRIFT;童年重点：节俭;;;;;;;;;;x
-CHILDHOOD_FOCUS_FAITH;童年重点：信仰;;;;;;;;;;x
-CHILDHOOD_FOCUS_STRUGGLE;童年重点：奋斗;;;;;;;;;;x
-CHILDHOOD_FOCUS_HERITAGE;童年重点：传统;;;;;;;;;;x
-EDUCATION_FOCUS_DIPLOMACY;教育重点：外交;;;;;;;;;;x
-EDUCATION_FOCUS_MARTIAL;教育重点：军事;;;;;;;;;;x
-EDUCATION_FOCUS_STEWARDSHIP;教育重点：管理;;;;;;;;;;x
-EDUCATION_FOCUS_INTRIGUE;教育重点：计谋;;;;;;;;;;x
-EDUCATION_FOCUS_LEARNING;教育重点：学习;;;;;;;;;;x
+CHILDHOOD_FOCUS_PRIDE;童年焦点：傲慢;;;;;;;;;;x
+CHILDHOOD_FOCUS_HUMILITY;童年焦点：谦逊;;;;;;;;;;x
+CHILDHOOD_FOCUS_DUTY;童年焦点：责任;;;;;;;;;;x
+CHILDHOOD_FOCUS_ETIQUETTE;童年焦点：礼仪;;;;;;;;;;x
+CHILDHOOD_FOCUS_THRIFT;童年焦点：节俭;;;;;;;;;;x
+CHILDHOOD_FOCUS_FAITH;童年焦点：信仰;;;;;;;;;;x
+CHILDHOOD_FOCUS_STRUGGLE;童年焦点：奋斗;;;;;;;;;;x
+CHILDHOOD_FOCUS_HERITAGE;童年焦点：传统;;;;;;;;;;x
+EDUCATION_FOCUS_DIPLOMACY;教育重心：外交;;;;;;;;;;x
+EDUCATION_FOCUS_MARTIAL;教育重心：军事;;;;;;;;;;x
+EDUCATION_FOCUS_STEWARDSHIP;教育重心：管理;;;;;;;;;;x
+EDUCATION_FOCUS_INTRIGUE;教育重心：计谋;;;;;;;;;;x
+EDUCATION_FOCUS_LEARNING;教育重心：学习;;;;;;;;;;x
 erudite;博学;;;;;;;;;;x
 erudite_desc;此人有学者气息。;;;;;;;;;;x
 stubborn;固执;;;;;;;;;;x
@@ -1429,7 +1429,7 @@ EVTOPTC_ZE_22000;来自好朋友的慷慨捐赠！;;;;;;;;;;x
 EVTDESC_ZE_22100;[From.GetFullName] 已经决定了接受你的捐款！ 现在[From.GetHerHim]欠了我们的人情，我们必须明智地利用。;;;;;;;;;;x
 EVTDESC_ZE_22200;[From.GetFullName] 已经拒绝了你慷慨的捐赠。[From.GetSheHeCap]声称你只是在想要让[From.GetHerHim]欠你的情，真是不识好歹！;;;;;;;;;;x
 EVTOPTA_ZE_22200;真遗憾;;;;;;;;;;x
-donate_to_liege;捐献一笔 200¤ 的钱给你的领主;;;;;;;;;;x
+donate_to_liege;给你的领主提供200¤;;;;;;;;;;x
 donate_to_liege_desc;你的领主正在建立战争金库，你可以抓住这个机会献上一笔丰厚的捐赠。在这个危急存亡之秋献上 200¤，你将获得领主的青睐！;;;;;;;;;;x
 offer_donation_custom_tooltip;你的领主收到你的捐赠意向.\n;;;;;;;;;;x
 donation_cooldown_custom_tooltip;不可在最近5年内曾被拒绝过捐款意向;;;;;;;;;;x
@@ -1441,8 +1441,8 @@ HAS_MERCENARY_BAND;$CHARACTER|Y$ 有 佣兵;;;;;;;;;;x
 HAS_MERCENARY_BAND_NOT;$CHARACTER|Y$ 没有 佣兵;;;;;;;;;;x
 CUT_MERCENARY_CREATOR_RELATION;$MERCENARY|Y$ 结束了 与 $CREATOR|Y$ 的契约;;;;;;;;;;x
 CUT_MERCENARY_CREATOR_RELATION_NOT;$MERCENARY|Y$ 并未结束 与 $CREATOR|Y$ 的契约;;;;;;;;;;x
-REPLACE_MERCENARY_CAPTAIN_INTERACTION_TITLE;更换佣兵首领;;;;;;;;;;x
-REPLACE_MERCENARY_CAPTAIN_INTERACTION_DESC;更换佣兵首领;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_TITLE;更换佣兵队长;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_DESC;更换佣兵队长;;;;;;;;;;x
 REPLACE_MERCENARY_CAPTAIN_INTERACTION_LONG_DESC;给这个首领找到合适的替代者;;;;;;;;;;x
 REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECT;选择一位新的首领来替换 $CURRENT|Y$;;;;;;;;;;x
 REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECTED;让 $REPLACEMENT|Y$ 成为 $BAND|Y$ 的新首领;;;;;;;;;;x
@@ -1535,11 +1535,11 @@ ZEUS_GUARDIAN_DESC;监护人是儿童角色的导师。儿童居住在监护人�
 HOSTAGE_NAME;\n        $WHO|Y$;;;;;;;;;;x
 CHANGE_MERCENARY_COMPOSITION_CONVERT;改宗 $COUNT|Y$ $FROM$ 成为 $TYPE$\n;;;;;;;;;;x
 CHANGE_MERCENARY_COMPOSITION;$TYPE$: $COUNT|=-+$\n;;;;;;;;;;x
-alert_child_needs_focus_instant;§Y$NUM$ 儿童缺少重心;;;;;;;;;;x
-alert_child_needs_focus_delayed;这些儿童缺少一个儿童重心:\n$LIST$;;;;;;;;;;x
-alert_child_needs_focus_name;儿童缺少重心;;;;;;;;;;x
-alert_adolescent_needs_focus_instant;§Y$NUM$ 儿童缺少教育重心§!;;;;;;;;;;x
-alert_adolescent_needs_focus_delayed;这些儿童缺少一个儿童重心:\n$LIST$;;;;;;;;;;x
+alert_child_needs_focus_instant;§Y$NUM$儿童缺少童年焦点;;;;;;;;;;x
+alert_child_needs_focus_delayed;这些儿童缺少一个童年焦点：\n$LIST$;;;;;;;;;;x
+alert_child_needs_focus_name;儿童缺少童年焦点;;;;;;;;;;x
+alert_adolescent_needs_focus_instant;§Y$NUM$儿童缺少教育重心§!;;;;;;;;;;x
+alert_adolescent_needs_focus_delayed;这些儿童缺少一个教育重心：\n$LIST$;;;;;;;;;;x
 alert_adolescent_needs_focus_name;缺少教育重心;;;;;;;;;;x
 GOV_FLAVOR;$TYPE$;;;;;;;;;;x
 gov_feudal_monarchy;封建君主制;;;;;;;;;;x
@@ -1561,9 +1561,9 @@ gov_default;无政府;;;;;;;;;;x
 gov_electorial_absolute_autocracy;选举绝对帝国专制;;;;;;;;;;x
 gov_electorial_absolute_autocracy_norse;选举绝对帝国专制;;;;;;;;;;x
 gov_electorial_absolute_autocracy_tengri;选举绝对帝国专制;;;;;;;;;;x
-gov_electorial_absolute_monarchy;选举绝对[PrimaryTitle.GetTier];;;;;;;;;;x
-gov_electorial_absolute_monarchy_norse;选举绝对[PrimaryTitle.GetTier];;;;;;;;;;x
-gov_electorial_absolute_monarchy_tengri;选举绝对[PrimaryTitle.GetTier];;;;;;;;;;x
+gov_electorial_absolute_monarchy;选举绝对制[PrimaryTitle.GetTier];;;;;;;;;;x
+gov_electorial_absolute_monarchy_norse;选举绝对制[PrimaryTitle.GetTier];;;;;;;;;;x
+gov_electorial_absolute_monarchy_tengri;选举绝对制[PrimaryTitle.GetTier];;;;;;;;;;x
 gov_electorial_aristocratic_autocracy;选举贵族帝国专制;;;;;;;;;;x
 gov_electorial_aristocratic_autocracy_norse;选举贵族帝国专制;;;;;;;;;;x
 gov_electorial_aristocratic_autocracy_tengri;选举贵族帝国专制;;;;;;;;;;x
@@ -1616,9 +1616,9 @@ gov_prince_electorate;亲王选帝侯;;;;;;;;;;x
 gov_king_electorate;国王选帝侯;;;;;;;;;;x
 gov_carolingian_hegemony;加洛林王朝霸权;;;;;;;;;;x
 gov_imperial_carolingian_hegemony;加洛林王朝帝国霸权;;;;;;;;;;x
-gov_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_grand_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_chiefdom; [Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_grand_chiefdom; [Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_chiefdom;高贵的[Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_crusader_state;十字军国家;;;;;;;;;;x
 gov_crusader_kingdom;十字军王国;;;;;;;;;;x
 gov_hereditary_zun;世袭的日之[PrimaryTitle.GetTier] ;;;;;;;;;;x
@@ -1636,8 +1636,8 @@ gov_hereditary_despotic_hre;世袭专制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_aristocratic_electorial_hre;贵族选举制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_aristocratic_hereditary_hre;贵族世袭制[PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_nomadic_mongol_empire;蒙古帝国;;;;;;;;;;x
-gov_khaganate; [Culture.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_clan; [GetOnlyDynastyName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_khaganate; [Culture.GetName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_clan; [GetOnlyDynastyName][PrimaryTitle.GetTier] ;;;;;;;;;;x
 LAW_COUNCIL_REJECTED_SETUP;内阁拒绝了一项法案;;;;;;;;;;x
 ALLOW_FEMINISM_ON;女性统治者不会招致负面关系效果修正\n;;;;;;;;;;x
 ALLOW_FEMINISM_OFF;女性统治者招致负面关系效果修正\n;;;;;;;;;;x
@@ -1658,12 +1658,12 @@ empire_russian;沙王国;;;;;;;;;;x
 gov_revolt; [PrimaryTitle.GetAdjective] 叛乱;;;;;;;;;;x
 gov_romuva_eldership; [Religion.GetName] 长老;;;;;;;;;;x
 gov_noble_romuva_eldership;高贵的 [Religion.GetName] 长老;;;;;;;;;;x
-gov_norse_chiefdom; [Religion.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_norse_chiefdom;高贵的[Religion.GetName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_muslim_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_muslim_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_african_chiefdom; [Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
-gov_noble_african_chiefdom;高贵的[Religion.GetGroupName] [PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_norse_chiefdom; [Religion.GetName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_norse_chiefdom;高贵的[Religion.GetName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_muslim_chiefdom; [Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_muslim_chiefdom;高贵的[Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_african_chiefdom; [Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
+gov_noble_african_chiefdom;高贵的[Religion.GetGroupName][PrimaryTitle.GetTier] ;;;;;;;;;;x
 gov_hereditary_danelaw;丹麦世袭继承法;;;;;;;;;;x
 gov_electorial_danelaw;丹麦选举继承法;;;;;;;;;;x
 COUNCIL_DISCONTENT_FROM_SUCCESSION;继承人总是让内阁不满意。;;;;;;;;;;x
@@ -1684,11 +1684,11 @@ COUNCIL_REASON_FOR_DISCONTENT;不满意的原因：\n $REASON|Y$ \n\n;;;;;;;;;;x
 GENERIC_DISCONTENT_REASON;做了一个内阁不同意的决定;;;;;;;;;;x
 INHERITANCE_TAB; §Y 继承法 §! ;;;;;;;;;;x
 INHERITANCE_TAB_DELAYED;这些法律规定了采取何种继承法及继承人的权力。;;;;;;;;;;x
-REALM_TAB; §Y 领地法 §! ;;;;;;;;;;x
+REALM_TAB; §Y领地法§! ;;;;;;;;;;x
 REALM_TAB_DELAYED;这些法律规定了领地如何运作及领主的权力。;;;;;;;;;;x
-OBLIGATIONS_TAB; §Y 义务法 §! ;;;;;;;;;;x
+OBLIGATIONS_TAB; §Y义务法§! ;;;;;;;;;;x
 OBLIGATIONS_TAB_DELAYED;这些法律规定了税收多少以及封臣需要交多少税款给领主。;;;;;;;;;;x
-COUNCIL_LAW_TAB; §Y 内阁法律 §! ;;;;;;;;;;x
+COUNCIL_LAW_TAB; §Y内阁法律§! ;;;;;;;;;;x
 COUNCIL_LAW_TAB_DELAYED;这些法律规定了内阁是否存在且内阁允许影响哪些议题。;;;;;;;;;;x
 revoke_title_interaction_voting;撤销头衔;;;;;;;;;;x
 imprison_character_interaction_voting;监禁;;;;;;;;;;x
@@ -1739,10 +1739,10 @@ pattern_this_is_my_war_target_custom_tooltip;这是我首选的战争目标！\n
 pattern_interaction_dislike_custom_tooltip;我不喜欢这个人\n;;;;;;;;;;x
 pattern_interaction_like_custom_tooltip;我喜欢这个人\n;;;;;;;;;;x
 pattern_interaction_dont_dislike_unlanded_custom_tooltip;我讨厌这个人而且他没有领地\n;;;;;;;;;;x
-PICK_CHILDHOOD_FOCUS_DESC;一旦设置，你将不能够改变童年重心。\n§R 如果未设置，小孩会被随机教育。 §! ;;;;;;;;;;x
-PICK_ADOLESCENCE_FOCUS_DESC;一旦设置，你将不能够改变教育重心。\n§R 如果未设置，小孩会被随机教育并得到一个非常差的结果，相对于你选择的教育而言。 §! ;;;;;;;;;;x
-CANNOT_CHANGE_CHILDHOOD_FOCUS; §R 童年重心不能在设置后改变。 §!\n§Y 童年重心将会在角色12岁时自动移除，到时候你可以另选择教育重心。 §! ;;;;;;;;;;x
-CANNOT_CHANGE_EDUCATION_FOCUS; §R 教育重心不能在设置后改变。 §!\n§Y 教育重心在人成年后自动移除。 §! ;;;;;;;;;;x
+PICK_CHILDHOOD_FOCUS_DESC;一旦设置，你将不能够改变童年焦点。\n§R如果未设置，小孩会被随机教育。§! ;;;;;;;;;;x
+PICK_ADOLESCENCE_FOCUS_DESC;教育重心一旦设置，你将不能够改变它。\n§R如果未设置，小孩会被随机教育，并得到一个相对于你选择的教育而言非常差的结果。§! ;;;;;;;;;;x
+CANNOT_CHANGE_CHILDHOOD_FOCUS; §R童年焦点不能在设置后改变。§!\n§Y童年焦点将会在角色12岁时自动移除，到时候你可以另选择教育焦点。§! ;;;;;;;;;;x
+CANNOT_CHANGE_EDUCATION_FOCUS; §R教育重心不能在设置后改变。§!\n§Y教育重心将在角色成年后自动移除。§! ;;;;;;;;;;x
 LAW_CHANGE_TIMEOUT; §R 内阁最近驳回了一项法律变更提议。你可以在 $DATE$ 时再次提出法律变更 §! ;;;;;;;;;;x
 dissolve_mercenary_company_feudal;解散佣兵团;;;;;;;;;;x
 INTERACTION_TITLE_REVOCATION_ALLOWED;头衔收回法案在 §Y$TITLE$§! 中是激活的;;;;;;;;;;x

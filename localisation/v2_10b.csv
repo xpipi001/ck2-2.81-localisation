@@ -184,19 +184,19 @@ has_court_guru;宫廷上师;;;;;;;;;;x
 nick_the_leper;麻风病人;;;;;;;;;;x
 PEACE;和平;;;;;;;;;;x
 d_tamil_band;泰米尔大队;;;;;;;;;;x
-d_tamil_band_adj;泰米尔大队的;;;;;;;;;;x
-d_marathi_company;摩罗提军团;;;;;;;;;;x
-d_marathi_company_adj;摩罗提军团;;;;;;;;;;x
-d_marathi_band;摩罗提邦;;;;;;;;;;x
-d_marathi_band_adj;摩罗提大队的;;;;;;;;;;x
-d_bengal_company;旁伽罗军团;;;;;;;;;;x
-d_bengal_company_adj;旁伽罗军团;;;;;;;;;;x
+d_tamil_band_adj;泰米尔大队;;;;;;;;;;x
+d_marathi_company;摩罗提佣兵团;;;;;;;;;;x
+d_marathi_company_adj;摩罗提佣兵团;;;;;;;;;;x
+d_marathi_band;摩罗提大队;;;;;;;;;;x
+d_marathi_band_adj;摩罗提大队;;;;;;;;;;x
+d_bengal_company;旁伽罗佣兵团;;;;;;;;;;x
+d_bengal_company_adj;旁伽罗佣兵团;;;;;;;;;;x
 d_bengal_band;旁伽罗大队;;;;;;;;;;x
-d_bengal_band_adj;旁伽罗大队的;;;;;;;;;;x
-d_rajput_company;罗阇富多军团;;;;;;;;;;x
-d_rajput_company_adj;罗阇富多军团;;;;;;;;;;x
+d_bengal_band_adj;旁伽罗大队;;;;;;;;;;x
+d_rajput_company;罗阇富多佣兵团;;;;;;;;;;x
+d_rajput_company_adj;罗阇富多佣兵团;;;;;;;;;;x
 d_rajput_band;罗阇富多大队;;;;;;;;;;x
-d_rajput_band_adj;罗阇富多大队的;;;;;;;;;;x
+d_rajput_band_adj;罗阇富多大队;;;;;;;;;;x
 TRAIT_OPINION_CHURCH;教会关系: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_CHRISTIAN_CHURCH;基督教关系: $VALUE$;;;;;;;;;;x
 TRAIT_OPINION_SPOUSE;配偶好感: $VALUE$;;;;;;;;;;x

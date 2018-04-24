@@ -181,16 +181,16 @@ DYNASTY_CONTROLS_RELIGIOUS_HEAD;家族成员控制$RELIGION$：§G+$VALUE$§!;;;
 opinion_generous_donation;慷慨的捐赠;;;;;;;;;;x
 opinion_defending_vs_foreigners;抵抗异国侵略者;;;;;;;;;;x
 donate_money_to_knights_hospitaler;捐赠 300¤ 给医院骑士团;;;;;;;;;;x
-donate_money_to_teutonic_order;捐赠 300¤ 给条顿骑士团;;;;;;;;;;x
+donate_money_to_teutonic_order;捐赠300¤给条顿骑士团;;;;;;;;;;x
 donate_money_to_jomsvikings;捐赠 300¤ 给约姆斯维京人;;;;;;;;;;x
 donate_money_to_jomsvikings_desc;我可以捐款给约姆斯维京人以换取[Player.Religion.GetPietyName]，这会让我一生受到神官的尊敬。;;;;;;;;;;x
 donated_to_holy_order;捐款给骑士团;;;;;;;;;;x
-borrow_money_knights_templar;向圣殿骑士团借 300¤;;;;;;;;;;x
+borrow_money_knights_templar;向圣殿骑士团借300¤;;;;;;;;;;x
 borrow_money_knights_templar_desc;我可以向圣殿骑士团借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，大团长就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
-borrowed_from_knights_templar;欠圣殿骑士团 300¤;;;;;;;;;;x
-borrow_money_assassins;向哈萨辛借款 300¤;;;;;;;;;;x
-borrow_money_assassins_desc;我可以向哈萨辛借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，长老就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
-borrowed_from_assassins;欠哈萨辛 300¤;;;;;;;;;;x
+borrowed_from_knights_templar;欠圣殿骑士团300¤;;;;;;;;;;x
+borrow_money_assassins;向阿萨辛派借款 300¤;;;;;;;;;;x
+borrow_money_assassins_desc;我可以向阿萨辛派借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，长老就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
+borrowed_from_assassins;欠阿萨辛派 300¤;;;;;;;;;;x
 borrow_money_bektashi;向拜克塔什教团借 300¤;;;;;;;;;;x
 borrow_money_bektashi_desc;我可以向拜克塔什教团借款，这笔债务没有时限也没有利息。但是只要我没有还清欠款，大团长就有可能向我提出各种要求，比如要求我的一个儿子加入他们军团。;;;;;;;;;;x
 borrowed_from_bektashi;欠拜克塔什教团 300¤;;;;;;;;;;x
@@ -205,16 +205,16 @@ expel_the_knights_hospitaler;驱逐医院骑士团;;;;;;;;;;x
 expel_the_knights_hospitaler_desc;我可以将医院骑士团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
 expel_the_teutonic_order;驱逐条顿骑士团;;;;;;;;;;x
 expel_the_teutonic_order_desc;我可以将条顿骑士团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
-expel_the_assassins;驱逐哈萨辛;;;;;;;;;;x
-expel_the_assassins_desc;我可以将哈萨辛赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
+expel_the_assassins;驱逐阿萨辛派;;;;;;;;;;x
+expel_the_assassins_desc;我可以将阿萨辛派赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
 expel_the_bektashi;驱逐拜克塔什教团;;;;;;;;;;x
 expel_the_bektashi_desc;我可以将拜克塔什教团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
 expelled_d_knights_hospitaler;曾驱逐医院骑士团;;;;;;;;;;x
 expelled_d_teutonic_order;曾驱逐条顿骑士团;;;;;;;;;;x
 expelled_d_jomsvikings;曾驱逐约姆斯维京人;;;;;;;;;;x
 expelled_d_bektashi;曾驱逐拜克塔什教团;;;;;;;;;;x
-expelled_d_hashshashin;曾驱逐哈萨辛;;;;;;;;;;x
-holy_order_expelled;被驱逐的圣战士;;;;;;;;;;x
+expelled_d_hashshashin;曾驱逐阿萨辛派;;;;;;;;;;x
+holy_order_expelled;被驱逐的骑士团;;;;;;;;;;x
 opinion_expelled_from_realm;被驱逐;;;;;;;;;;x
 ANY_PROVINCE_HOLDING_STARTS;省份内的任意领地;;;;;;;;;;x
 ALL_PROVINCE_HOLDINGS;省份内的全部领地;;;;;;;;;;x
@@ -261,10 +261,10 @@ EVTOPTB_SOA_1353;不行，那里是我的地盘;;;;;;;;;;x
 EVTDESC_SOA_1354;条顿骑士团在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
 EVTOPTA_SOA_1403;很好;;;;;;;;;;x
 EVTDESC_SOA_1411;最正直的[Root.GetTitledFirstName]，色兰。我们这些尼扎里伊斯玛仪派教徒当然可以借给你300金币。只希望在将来我们遇到困难的时候，您可以向我们施以援手。\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
-EVTDESC_SOA_1424;尼扎里伊斯玛仪派的哈萨辛在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
-EVTDESC_SOA_1431;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入哈萨辛，与异教徒作战。这会让他失去继承权，而王朝也不会再受到来自他的腐化的影响。;;;;;;;;;;x
-EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]加入了哈萨辛派。;;;;;;;;;;x
-EVTDESC_SOA_1454;哈萨辛教徒们在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
+EVTDESC_SOA_1424;尼扎里伊斯玛仪派的阿萨辛派在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
+EVTDESC_SOA_1431;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入阿萨辛派，与异教徒作战。这会让他失去继承权，而王朝也不会再受到来自他的腐化的影响。;;;;;;;;;;x
+EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]加入了阿萨辛派。;;;;;;;;;;x
+EVTDESC_SOA_1454;阿萨辛派教徒们在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
 EVTDESC_SOA_1461;伟大的[Root.PrimaryTitle.GetRulerTitle]，您对我们的敌意是武断的！教团侍奉安拉，而您却对此有所怀疑是吗？\n\n怒火中烧的，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 EVTDESC_SOA_1531;我的[GetFromRelation]，[From.GetTitledFirstName]要求加入令人闻风丧胆的约姆斯维京人，和他们一同冒险。即使这样做会让他失去继承权。;;;;;;;;;;x
 EVTTOOLTIP_SOA_1532;[This.GetTitledFirstName]成为了约姆斯维京人的一员。;;;;;;;;;;x
@@ -346,7 +346,7 @@ failed_inquisition;失败的宗教裁判;;;;;;;;;;x
 successful_inquisition;成功的宗教裁判;;;;;;;;;;x
 failed_heretic_dialogue;神学辩论失败;;;;;;;;;;x
 successful_heretic_dialogue;神学辩论胜利;;;;;;;;;;x
-opinion_refused_request_holy_order;不允许加入圣战士;;;;;;;;;;x
+opinion_refused_request_holy_order;不允许加入骑士团;;;;;;;;;;x
 BANISH_ALL_OF_RELIGION_EFFECT;将所有的§Y$RELIGION$§!角色驱逐出境\n;;;;;;;;;;x
 DOES_NOT_HAVE_HERESIES;该宗教没有异端;;;;;;;;;;x
 HAS_HERESIES;该宗教有异端;;;;;;;;;;x
@@ -367,8 +367,8 @@ d_yazidi;雅兹迪派谢赫;;;;;;;;;;x
 d_yazidi_adj;雅兹迪;;;;;;;;;;x
 d_ibadi;伊巴迪派哈里发;;;;;;;;;;x
 d_ibadi_adj;伊巴迪派哈里发;;;;;;;;;;x
-d_hurufi;胡鲁菲派谢赫;;;;;;;;;;x
-d_hurufi_adj;胡鲁菲;;;;;;;;;;x
+d_hurufi;胡儒非派谢赫;;;;;;;;;;x
+d_hurufi_adj;胡儒非;;;;;;;;;;x
 SHEIKH;谢赫;;;;;;;;;;x
 SHEIKHA;女谢赫;;;;;;;;;;x
 VASSAL_RETRACTION_SETUP;收回一名封臣;;;;;;;;;;x
@@ -459,7 +459,7 @@ EVTTOOLTIP_SOA_1732;[This.GetTitledFirstName]成为了一名圣安东尼的骑�
 EVTDESC_SOA_1754;圣安东尼骑士团在[Root.GetName]建起了一座城堡！;;;;;;;;;;x
 expel_d_saint_anthony;驱逐圣安东尼骑士团;;;;;;;;;;x
 expel_d_saint_anthony_desc;我可以将圣安东尼骑士团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
-donate_money_to_saint_anthony;捐赠 300¤ 给圣安东尼骑士团;;;;;;;;;;x
+donate_money_to_saint_anthony;捐赠300¤给圣安东尼骑士团;;;;;;;;;;x
 expelled_d_saint_anthony;曾驱逐圣安东尼骑士团;;;;;;;;;;x
 EVTTITLE_SOA_1809;长生军;;;;;;;;;;x
 EVTOPTA_SOA_1809;传奇的战士们回来了！;;;;;;;;;;x
@@ -581,7 +581,7 @@ EVTDESC_SOA_2654;圣地亚哥骑士团在[Root.GetName]建起了一座城堡！;
 EVTDESC_SOA_2661;陛下，您对我们的敌意毫无道理！圣地亚哥骑士团侍奉基督，而您却对此有所怀疑是吗？\n悲愤交加的，\n\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 expel_knights_santiago;驱逐圣地亚哥骑士团;;;;;;;;;;x
 expel_knights_santiago_desc;我可以将圣地亚哥骑士团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
-donate_money_to_knights_santiago;捐赠 300¤ 给圣地亚哥骑士团;;;;;;;;;;x
+donate_money_to_knights_santiago;捐赠300¤给圣地亚哥骑士团;;;;;;;;;;x
 expelled_d_knights_santiago;曾驱逐圣地亚哥骑士团;;;;;;;;;;x
 EVTTITLE_SOA_2709;卡勒多拉巴骑士团;;;;;;;;;;x
 EVTOPTA_SOA_2709;愿他们得到最后的胜利！;;;;;;;;;;x
@@ -593,7 +593,7 @@ EVTDESC_SOA_2754;卡勒多拉巴骑士团在[Root.GetName]建起了一座城堡�
 EVTDESC_SOA_2761;陛下，您对我们的敌意毫无道理！卡勒多拉巴骑士团侍奉基督，而您却对此有所怀疑是吗？\n\n悲愤交加的，\n大团长 [From.GetFirstName] 谨上;;;;;;;;;;x
 expel_knights_calatrava;驱逐卡勒多拉巴骑士团;;;;;;;;;;x
 expel_knights_calatrava_desc;我可以将卡勒多拉巴骑士团赶出我的国土，没收他们的城堡。只是这么做非常不虔诚……;;;;;;;;;;x
-donate_money_to_knights_calatrava;捐赠 300¤ 给卡勒多拉巴骑士团;;;;;;;;;;x
+donate_money_to_knights_calatrava;捐赠300¤给卡勒多拉巴骑士团;;;;;;;;;;x
 expelled_d_knights_calatrava;曾驱逐卡勒多拉巴骑士团;;;;;;;;;;x
 catholic_pilgrimage;去朝圣;;;;;;;;;;x
 catholic_pilgrimage_desc;一些虔诚的基督徒会在在一生中进行一次重要的朝圣。虔诚的朝圣将会选择去远方，拜访信仰中最神圣的圣地。;;;;;;;;;;x
@@ -1249,7 +1249,7 @@ FE_LOCAL;本地;;;;;;;;;;x
 FE_REMOTE;云端;;;;;;;;;;x
 SPLIT_QUICK_MENU;分离特别部队;;;;;;;;;;x
 SPLIT_MERCENARIES_OPTION;分离雇佣兵;;;;;;;;;;x
-SPLIT_HOLY_ORDERS_OPTION;分离圣战士;;;;;;;;;;x
+SPLIT_HOLY_ORDERS_OPTION;分离骑士团;;;;;;;;;;x
 SPLIT_RETINUES_OPTION;分离随员;;;;;;;;;;x
 SPLIT_EVENT_SPAWNED_OPTION;分离事件产生部队;;;;;;;;;;x
 VASSAL_OPINION_CHANGE;所有封臣对§Y$ACTIVE$§!的好感都改变了$MUCH$;;;;;;;;;;x

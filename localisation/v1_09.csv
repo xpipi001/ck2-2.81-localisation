@@ -220,9 +220,9 @@ OFFER_MARRIGE_INTERACTION_4;迎娶一个像 §Y[RecipientExtra.GetFirstName]§! 
 ARRANGE_BETROTHAL_INTERACTION_4;迎娶一个像 §Y[RecipientExtra.GetFirstName]§! 一样的贵族女性需要彩礼 §R$DOWRY$§!¤.;;;;;;;;;;x
 OFFER_MARRIGE_INTERACTION_LETTER_BRIDE_PRICE;我们提议让 [ActorExtra.GetBestName] 和 [RecipientExtra.GetBestName]结为夫妻。当然对于这样一位高贵的女性, 我们将会提供彩礼 $DOWRY$¤;;;;;;;;;;x
 ARRANGE_BETROTHAL_INTERACTION_LETTER_BRIDE_PRICE;我们提议让 [ActorExtra.GetBestName] 和 [RecipientExtra.GetBestName]结为夫妻。当然对于这样一位高贵的女性, 我们将会提供彩礼 $DOWRY$¤;;;;;;;;;;x
-RELEASE_VASSAL_INTERACTION_TITLE;承认独立;;;;;;;;;;x
+RELEASE_VASSAL_INTERACTION_TITLE;准许独立;;;;;;;;;;x
 RELEASE_VASSAL_INTERACTION_DESC;承认一名封臣独立;;;;;;;;;;x
-RELEASE_VASSAL_INTERACTION_LONG_DESC;独立的领主可以承认一名直属封臣的独立.;;;;;;;;;;x
+RELEASE_VASSAL_INTERACTION_LONG_DESC;独立的领主可以准许一名直属封臣独立。;;;;;;;;;;x
 RELEASE_VASSAL_INTERACTION_ACCEPT_SETUP;承认独立;;;;;;;;;;x
 RELEASE_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetTitledName]§! 承认 §Y[Recipient.GetTitledName]§! 独立;;;;;;;;;;x
 RELEASE_VASSAL_INTERACTION_DECLINE_SETUP;拒绝独立;;;;;;;;;;x

@@ -104,8 +104,8 @@ TOGGLE_LOOTER;转换成劫掠模式;;;;;;;;;;x
 REL_AUTHORITY_CHANGE;§Y$RELIGION$§!: $PERC$  宗教权威 §Y$TIME$§! $TIMEUNIT$.\n;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION;§Y$RELIGION$§!信仰认为§Y$HOLDING$§!是一处圣地;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION_2;他们控制了这块土地;;;;;;;;;;x
-IS_HOLY_ORDER;是圣战士;;;;;;;;;;x
-IS_NOT_HOLY_ORDER;不是圣战士;;;;;;;;;;x
+IS_HOLY_ORDER;是骑士团;;;;;;;;;;x
+IS_NOT_HOLY_ORDER;不是骑士团;;;;;;;;;;x
 opinion_looted;我的土地遭到劫掠;;;;;;;;;;x
 opinion_heir_guardian_my_culture;用正确的文化去教导继承人;;;;;;;;;;x
 opinion_heir_guardian_foreign_culture;用外国的文化去教导继承人;;;;;;;;;;x
@@ -307,8 +307,8 @@ DISMISS_CONSORT_INTERACTION_OFFER;[Actor.GetBestName] 已经把你搁一边了. 
 DISMISS_CONSORT_INTERACTION_LETTER;[Recipient.GetFirstName]	你在旁边实在让我心烦，收拾包袱马上滚蛋吧.\n\n[Actor.GetFirstName];;;;;;;;;;x
 opinion_set_aside;搁在一边;;;;;;;;;;x
 opinion_evil_tyrant;邪恶的暴君;;;;;;;;;;x
-d_zoroastrian;琐罗亚斯德教教团;;;;;;;;;;x
-d_zoroastrian_adj;琐罗亚斯德教;;;;;;;;;;x
+d_zoroastrian;祆教教会;;;;;;;;;;x
+d_zoroastrian_adj;祆教;;;;;;;;;;x
 HEAD_MOABADAN_MOABAD;摩拜旦-摩拜德;;;;;;;;;;x
 norse;诺斯人;;;;;;;;;;x
 won_viking_invasion;准备入侵获得胜利;;;;;;;;;;x
@@ -391,7 +391,7 @@ nick_the_boneless;无骨者;;;;;;;;;;x
 nick_snake_in_the_eye;蛇眼;;;;;;;;;;x
 nick_bluetooth;蓝牙;;;;;;;;;;x
 nick_the_stranger;陌生人;;;;;;;;;;x
-nick_the_stammerer;结巴;;;;;;;;;;x
+nick_the_stammerer;口吃者;;;;;;;;;;x
 nick_the_german;日耳曼人;;;;;;;;;;x
 nick_the_younger;年轻人;;;;;;;;;;x
 LOOTED_HOLDING; §R(洗劫一空)§!;;;;;;;;;;x
@@ -470,7 +470,7 @@ county_iranian;郡;;;;;;;;;;x
 duchy_iranian;省;;;;;;;;;;x
 kingdom_iranian;沙王国;;;;;;;;;;x
 avar;阿瓦尔;;;;;;;;;;x
-ZOROASTRIAN_CLOSE_KIN_UNION;既然 §Y[ActorExtra.GetFirstName]§! 是 §Y[RecipientExtra.GetFirstName]的§! $RELATION$	这将是个 §Y圣婚§! 联盟	受到琐罗亚斯德封臣们欢迎。;;;;;;;;;;x
+ZOROASTRIAN_CLOSE_KIN_UNION;既然 §Y[ActorExtra.GetFirstName]§! 是 §Y[RecipientExtra.GetFirstName]的§! $RELATION$，这将是个 §Y圣婚§! 联盟，受到祆教封臣们欢迎。;;;;;;;;;;x
 opinion_religious_divine_blood_marriage;神圣的婚礼;;;;;;;;;;x
 opinion_priest_religious_divine_blood_marriage;神圣的婚礼;;;;;;;;;;x
 PROV930;巴尔;;;;;;;;;;x
@@ -770,7 +770,7 @@ EVTDESC413;命运向我微笑，我的侍妾[From.GetFirstName]怀孕了!;;;;;;;
 EVTTOOLTIP413;告诉[Root.FatherOfUnborn.GetFirstName] 他将成为父亲;;;;;;;;;;x
 SEARCH_COURT;搜索宫廷;;;;;;;;;;x
 HINT_MIL_VIEW_TEXT_4;'圣战士' 标签页列出了伟大的宗教圣战士.他们能够像雇佣军那样雇佣，但是召集它将花费[Player.Religion.GetPietyName]而不是金钱，但你还是要支付他们的维护费.圣战士的出现以他们历史上的时间为基准.;;;;;;;;;;x
-LOADING_TIP_12;圣战士只能与异端和异教徒战斗.在战斗中小心使用他们!;;;;;;;;;;x
+LOADING_TIP_12;骑士团只能与异端和异教徒战斗.在战斗中小心使用他们！;;;;;;;;;;x
 EVTDESC62300;你对抗 [From.GetTitledName]的入侵计划不再有可能性.入侵在它开始前就已经失败了....;;;;;;;;;;x
 EVTOPTA62300;奥丁恕罪!;;;;;;;;;;x
 EVTDESC62310;你等待时间太久了而不能发动你对抗[From.GetTitledName]的入侵计划! 心怀不满而满怀希望的战士们往你的旗帜聚集寻找更好的机遇.;;;;;;;;;;x
@@ -1494,9 +1494,9 @@ EVTOPTA_TOG_3224;好吧... 我就认为事情可能是这么发生的吧...;;;;;
 e_mongol_empire;蒙古帝国;;;;;;;;;;x
 e_mongol_empire_adj;蒙古;;;;;;;;;;x
 BM_THE_MONGOLS;蒙古人;;;;;;;;;;x
-BM_THE_MONGOLS_DESC;在统一了纷争不休的草原部落之后，伟大的首领铁木真，或者像他自己现在自称的那样叫做成吉思汗，开始扩张他的帝国.在中亚，蒙古人派去面见花剌子模的阿拉乌丁的使节被杀掉了，这是大汗无法忍受的侮辱.他已经率领他的军队向西进军并准备惩罚强大的穆斯林王国的傲慢.就像蓄势待发的弓箭一样，集合起来的蒙古军队已经准备好让世界颤抖了.哪里会是他们征途的终点呢;;;;;;;;;;x
+BM_THE_MONGOLS_DESC;在统一了纷争不休的草原部落之后，伟大的首领铁木真，或者像他自己现在自称的那样叫做成吉思汗，开始扩张他的帝国。在中亚，蒙古人派去面见花剌子模的阿拉乌丁的使节被杀掉了，这是可汗无法忍受的侮辱。他已经率领他的军队向西进军并准备惩罚强大的穆斯林王国的傲慢。就像蓄势待发的弓箭一样，集合起来的蒙古军队已经准备好让世界颤抖了。哪里会是他们征途的终点呢？;;;;;;;;;;x
 BM_RISE_OF_THE_HANSA;汉萨同盟的兴起;;;;;;;;;;x
-BM_RISE_OF_THE_HANSA_DESC;德国北部的帝国自由市吕贝克和汉堡的市民刚刚组成了一个贸易联盟，这就是之后著名的汉萨同盟.同时，可怕的蒙古部落像一把镰刀一样扫过东欧，不费吹灰之力的消灭了所有的抵抗.就在连罗马帝国皇帝弗里德里希二世都由于害怕而退缩的时候，这场入侵突然莫名其妙的结束了，因为金帐汗国的拔都汗和伊尔汗国的旭烈兀汗都返回喀喇昆仑去选出一位新的大汗.;;;;;;;;;;x
+BM_RISE_OF_THE_HANSA_DESC;德国北部的帝国自由市吕贝克和汉堡的市民刚刚组成了一个贸易联盟，这就是之后著名的汉萨同。.同时，可怕的蒙古部落像一把镰刀一样扫过东欧，不费吹灰之力的镇压了所有的抵抗。就在连罗马帝国皇帝弗里德里希二世都由于害怕而退缩的时候，这场入侵突然莫名其妙的结束了，因为金帐汗国的拔都汗和伊尔汗国的旭烈兀汗都返回喀喇昆仑去选出一位新的可汗。;;;;;;;;;;x
 REGIMENT_OF_LEADER;$LEADER$的兵团;;;;;;;;;;x
 TITLE_ADJ_REGIMENT;$ADJ$兵团;;;;;;;;;;x
 catholic_DESC;天主教是基督教最古老对欧洲历史影响最大的分支。该宗教的首领是罗马主教——教宗。;;;;;;;;;;x
@@ -1525,7 +1525,7 @@ slavic_pagan_DESC;斯拉夫异教信仰是一种多神信仰，主神是雷电�
 west_african_pagan_reformed_DESC;改革的西非宗教信仰是许多种流行信仰的熔合	有一本圣书记述了创世神话	诸灵	动物图腾和诸神的传说. 该教会有一套标准化的礼拜仪式以及由大祭司(或者女祭司)为首领的正规教会结构	首领可以被世俗统治者附庸.;;;;;;;;;;x
 west_african_pagan_DESC;西非宗教信仰是对撒哈拉沙漠以南的西非部落各种原始宗教的泛称. 以祖先崇拜	泛灵论	图腾崇拜以及萨满教为主	除此还有很多很多的神.;;;;;;;;;;x
 zoroastrian_DESC;祆教崇拜阿胡拉·马兹达	古伊朗先知琐罗亚斯德认为阿胡拉·马兹达是创世神. 直到公元651年穆斯林征服萨珊王朝为止	它是所有波斯帝国的国教(除了希腊的塞琉古帝国). 古老的宗教礼仪包括圣山顶上的圣火	天葬	以及效仿阿胡拉·马兹达和琐罗亚斯德的近亲结婚.;;;;;;;;;;x
-mazdaki_DESC;马自达卡是琐罗亚斯德教的牧师，他声称自己是阿胡拉.马兹达的先知.他尝试以诺斯替元素进行宗教改革，并主张财产公有制和福利项目.他的教义跳出了沙哈撒·卡瓦达一世的狂热，但隐藏了异端在遥远的地方.这个异端没有正式的首脑也没有特殊的游戏机制.;;;;;;;;;;x
+mazdaki_DESC;马兹达克是祆教的祭司，他声称自己是阿胡拉·马兹达的先知。他尝试以诺斯替元素进行宗教改革，并主张财产公有制和福利项目。公元524年他的教义失去了萨珊皇帝卡瓦特一世的垂青，但在偏远地区仍然有异端隐匿着。这个异端没有正式的首脑也没有特殊的游戏机制.;;;;;;;;;;x
 title_cherbi;阇里必;;;;;;;;;;x
 title_cherbi_desc;阇里必是怯薛的首领，蒙古帝国的皇家卫士.他们负责包围重要的贵族们，他们的指挥官地位很高.;;;;;;;;;;x
 title_darkhan;达尔汗;;;;;;;;;;x
@@ -1545,7 +1545,7 @@ title_marksman_desc;字面上的意思就是射手，神射手享有掌旗的荣
 title_hirdman;赫德曼;;;;;;;;;;x
 title_hirdman_desc;赫德曼被视为统治者在战斗中最信任的人，拥有者享有极大的荣誉.;;;;;;;;;;x
 title_shahrwaraz;萨巴拉;;;;;;;;;;x
-title_shahrwaraz_desc;萨巴拉，帝国的野猪，这个极高荣誉的头衔可追溯到萨珊帝国时期.在琐罗亚斯德教中，野猪是艾佐达·瓦朗的伙伴，胜利的象征.这个称号只能授予那些拥有特殊军事才干的人.;;;;;;;;;;x
+title_shahrwaraz_desc;萨巴拉，帝国的野猪，这个极高荣誉的头衔可追溯到萨珊帝国时期。在祆教中，野猪是艾佐达·瓦朗的伙伴，胜利的象征。这个称号只能授予那些拥有特殊军事才干的人。;;;;;;;;;;x
 title_kardarigan;卡达瑞干;;;;;;;;;;x
 title_kardarigan_desc;这个头衔的意思是黑鹰，被授予了几名战功赫赫萨珊将领.这个称号只能授予那些拥有特殊军事才干的人.;;;;;;;;;;x
 title_shahin;沙欣;;;;;;;;;;x
@@ -1713,9 +1713,9 @@ nick_the_saoshyant;萨奥斯亚特;;;;;;;;;;x
 saoshyant;萨奥斯亚特;;;;;;;;;;x
 saoshyant_desc;这个角色是萨奥斯亚特，世界的救世主和琐罗亚斯德教的崇高象征.;;;;;;;;;;x
 saoshyant_descendant;萨奥斯亚特后裔;;;;;;;;;;x
-saoshyant_descendant_desc;这个角色是萨奥斯亚特的后裔，它是琐罗亚斯德教的救世主.;;;;;;;;;;x
+saoshyant_descendant_desc;这个角色是萨奥斯亚特的后裔，它是祆教的救世主.;;;;;;;;;;x
 become_saoshyant;成为萨奥斯亚特;;;;;;;;;;x
-become_saoshyant_desc;如果你能驱逐穆斯林并恢复琐罗亚斯德教对整个波斯帝国的统治，你就可以宣布你是预言中的萨奥斯亚特，这个世界的救世主.;;;;;;;;;;x
+become_saoshyant_desc;如果你能驱逐穆斯林并恢复祆教对整个波斯帝国的统治，你就可以宣布你是预言中的萨奥斯亚特，这个世界的救世主.;;;;;;;;;;x
 EVTDESC_TOG_6003;自从七世纪萨珊帝国在阿拉伯的入侵灭亡后，波斯就成了伊斯兰的堡垒，现在真是个奇迹，波斯再一次回到了琐罗亚斯德教的统治.在[From.GetTitledFirstName]的领导下，穆斯林在波斯的领主们要么被杀，要么被驱逐，要么改变了信仰.\n\n琐罗亚斯德教的信徒们现在称[From.GetFirstName]为萨奥斯亚特，那个几千年前把民众从黑暗中拯救的救世主.这是琐罗亚斯德教黄金时代的再临吗，还是一个时代的终结;;;;;;;;;;x
 EVTOPTA_TOG_6003;成为萨奥斯亚特！;;;;;;;;;;x
 EVTOPTB_TOG_6003;他们都是异教徒！;;;;;;;;;;x

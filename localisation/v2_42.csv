@@ -249,7 +249,7 @@ CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;你确定想建立一座$TYPE
 EVTDESC_HL_10501B;[eloper.GetFirstName]与臭名昭著的雇佣兵[From.GetFirstName]私奔了。;;;;;;;;;;x
 PRESTIGE_LAW_PASSED_LOG;§Y$RULER$§!已经在§Y$TITLE$§!制订了§Y$LAW$§!法。;;;;;;;;;;x
 EVTTITLE_HL_1031;狼之[From.GetSonDaughter]？;;;;;;;;;;x
-EVTNAME62923;卡斯提尔之[From.PrimaryTitle.GetTier];;;;;;;;;;x
+EVTNAME62923;卡斯蒂利亚之[From.PrimaryTitle.GetTier];;;;;;;;;;x
 EVTNAME62925;葡萄牙之[From.PrimaryTitle.GetTier];;;;;;;;;;x
 EVTNAME62927;阿拉贡之[From.PrimaryTitle.GetTier];;;;;;;;;;x
 CONTAINS_UNAVAILABLE_DECISION_UNLOCKS;解锁未对你角色开放的决议;;;;;;;;;;x

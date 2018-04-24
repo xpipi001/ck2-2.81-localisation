@@ -211,7 +211,7 @@ cold_ones_recruit;招募到寒神信仰中;;;;;;;;;;x
 plaguebringers_recruit;招募到瘟神信仰中;;;;;;;;;;x
 cult_of_kali_recruit_desc;试着观察 §Y[Root.GetTitledFirstName]§! 是否有某种神秘的天赋，如果有，你可以邀请[Root.GetHerHim]成为迦梨时母教派的一份子。;;;;;;;;;;x
 cold_ones_recruit_desc;试着观察 §Y[Root.GetTitledFirstName]§! 是否有某种神秘的天赋，如果有，你可以邀请[Root.GetHerHim]成为寒神信徒的一份子。;;;;;;;;;;x
-plaguebringers_recruit_desc;试着观察 §Y[Root.GetTitledFirstName]§! 是否有某种神秘的天赋。如果有,你可以邀请[Root.GetHerHim] 成为感染者。;;;;;;;;;;x
+plaguebringers_recruit_desc;试着观察 §Y[Root.GetTitledFirstName]§! 是否有某种神秘的天赋。如果有,你可以邀请[Root.GetHerHim] 成为瘟疫使者。;;;;;;;;;;x
 cult_of_kali_recruit_block_tooltip;之前没有接触过崇拜迦梨时母的人。;;;;;;;;;;x
 cold_ones_recruit_block_tooltip;之前没有接触过寒神的人。;;;;;;;;;;x
 plaguebringers_recruit_block_tooltip;之前没有接触过瘟神。;;;;;;;;;;x
@@ -346,9 +346,9 @@ secretly_iconoclast_desc;这名角色私下里信奉着圣像破坏派。;;;;;;;
 secretly_paulician;秘密保禄派信徒;;;;;;;;;;x
 secretly_paulician_desc;这名角色私下里信奉着保禄派。;;;;;;;;;;x
 secretly_miaphysite;秘密基督合性派信徒;;;;;;;;;;x
-secretly_miaphysite_desc;这名角色私下里信奉着科普特正教会。;;;;;;;;;;x
+secretly_miaphysite_desc;这名角色私下里信奉着基督合性派。;;;;;;;;;;x
 secretly_monophysite;秘密基督一性论派信徒;;;;;;;;;;x
-secretly_monophysite_desc;这名角色私下里信奉着基督一性论派。;;;;;;;;;;x
+secretly_monophysite_desc;这名角色私下里信奉着基督一性派。;;;;;;;;;;x
 secretly_nestorian;秘密聂斯托利派信徒;;;;;;;;;;x
 secretly_nestorian_desc;这名角色私下里信奉着聂斯托利派。;;;;;;;;;;x
 secretly_messalian;秘密祷告派信徒;;;;;;;;;;x
@@ -363,8 +363,8 @@ secretly_shiite;秘密什叶派信徒;;;;;;;;;;x
 secretly_shiite_desc;这名角色私下里信奉着什叶派。;;;;;;;;;;x
 secretly_druze;秘密德鲁兹派信徒;;;;;;;;;;x
 secretly_druze_desc;这名角色是一个秘密的德鲁兹派教徒。;;;;;;;;;;x
-secretly_hurufi;秘密胡鲁菲派信徒;;;;;;;;;;x
-secretly_hurufi_desc;这名角色私下里信奉着胡鲁菲教派。;;;;;;;;;;x
+secretly_hurufi;秘密胡儒非派信徒;;;;;;;;;;x
+secretly_hurufi_desc;这名角色私下里信奉着胡儒非派。;;;;;;;;;;x
 secretly_ibadi;秘密伊巴迪派信徒;;;;;;;;;;x
 secretly_ibadi_desc;这名角色私下里信奉着伊巴迪派。;;;;;;;;;;x
 secretly_kharijite;秘密哈瓦利吉派信徒;;;;;;;;;;x
@@ -374,9 +374,9 @@ secretly_jewish_desc;这名角色私下里信奉着犹太教。;;;;;;;;;;x
 secretly_samaritan;秘密撒玛利亚派信徒;;;;;;;;;;x
 secretly_samaritan_desc;这名角色私下里信奉着撒玛利亚派。;;;;;;;;;;x
 secretly_karaite;秘密圣经派信徒;;;;;;;;;;x
-secretly_karaite_desc;这名角色私下里信奉着卡拉依主义。;;;;;;;;;;x
-secretly_zoroastrian;秘密琐罗亚斯德教信徒;;;;;;;;;;x
-secretly_zoroastrian_desc;这名角色私下里信奉着琐罗亚斯德教。;;;;;;;;;;x
+secretly_karaite_desc;这名角色私下里信奉着圣经派。;;;;;;;;;;x
+secretly_zoroastrian;秘密祆教信徒;;;;;;;;;;x
+secretly_zoroastrian_desc;这名角色私下里信奉着祆教。;;;;;;;;;;x
 secretly_mazdaki;秘密马兹达教信徒;;;;;;;;;;x
 secretly_mazdaki_desc;这名角色是一个秘密的马兹达教徒。;;;;;;;;;;x
 secretly_manichean;秘密摩尼教信徒;;;;;;;;;;x
@@ -390,9 +390,9 @@ secretly_jain_desc;这名角色私下里信奉着耆那教。;;;;;;;;;;x
 secretly_norse_pagan;秘密日耳曼多神教信徒;;;;;;;;;;x
 secretly_norse_pagan_desc;这名角色私下里信奉着日耳曼多神教。;;;;;;;;;;x
 secretly_norse_pagan_reformed;秘密改革日耳曼多神教信徒;;;;;;;;;;x
-secretly_norse_pagan_reformed_desc;这名角色私下里信奉日耳曼多神教。;;;;;;;;;;x
+secretly_norse_pagan_reformed_desc;这名角色私下里信奉着日耳曼多神教。;;;;;;;;;;x
 secretly_baltic_pagan;秘密洛姆瓦教信徒;;;;;;;;;;x
-secretly_baltic_pagan_desc;这名角色秘密信奉着洛姆瓦信仰。;;;;;;;;;;x
+secretly_baltic_pagan_desc;这名角色私下里信奉着洛姆瓦教。;;;;;;;;;;x
 secretly_baltic_pagan_reformed;秘密改革洛姆瓦教信徒;;;;;;;;;;x
 secretly_baltic_pagan_reformed_desc;这名角色私下里信奉着洛姆瓦教。;;;;;;;;;;x
 secretly_finnish_pagan;秘密索米多神教信徒;;;;;;;;;;x
@@ -525,7 +525,7 @@ EVTOPTA_MNM_6202;悉听尊便，[From.GetSocietyRank].;;;;;;;;;;x
 EVTOPTA_MNM_6202_TOOLTIP;接受暗杀 §Y[assassins_target.GetTitledFirstName]§的任务！\n;;;;;;;;;;x
 EVTOPTB_MNM_6202;恐怕我并不能完成这次任务。;;;;;;;;;;x
 EVTOPTB_MNM_6202_TOOLTIP;放弃暗杀 §Y[assassins_target.GetTitledFirstName]§的任务！\n;;;;;;;;;;x
-DEATH_MURDER_KNOWN_HASHSHASHIN;死于哈萨辛教徒$KILLER$之手;;;;;;;;;;x
+DEATH_MURDER_KNOWN_HASHSHASHIN;死于阿萨辛派$KILLER$之手;;;;;;;;;;x
 EVTDESC_MNM_6100_A;在不断地研究 [plot_target.GetTitledFirstName]的行为习惯后，我确信我已经找到了干掉 [plot_target.GetHerHis] 的完美机会。 一周之内，只要 [plot_target.GetFirstName] 在 [plot_target.GetReligiousRite] 后离开[plot_target.GetHouseOfWorship] ...;;;;;;;;;;x
 EVTDESC_MNM_6100_B;即使 [plot_target.Host.GetTitledFirstName]的监狱厚重的围墙也无法保护 [plot_target.GetTitledFirstName] 免受来自安拉的审判。经过了数个夜晚观察守卫的轮换并从各个角度研究 [plot_target.Host.GetCapitalHolding] 后, 我想我已经找到了切入点……;;;;;;;;;;x
 EVTDESC_MNM_6100_C;懦弱的[plot_target.GetTitledFirstName]已经藏匿起来了。但在安拉的怒火下，没有任何墙壁或伪装可以保护[plot_target.GetHerHim]。 我已经确定了给[plot_target.GetHerHim]传递消息的仆人，并且昨晚我跟踪着[Root.GetHerHim]一直到了[plot_target.GetFirstName]的藏身处。;;;;;;;;;;x
@@ -2019,7 +2019,7 @@ quest_monastic_order_donate_to_charity;慈善捐赠;;;;;;;;;;x
 quest_monastic_order_donate_to_charity_desc;帮助那些需要帮助的人是[Root.Society.GetName]的一个重要职责。而我们励行慈善的能力完全取决于富人的捐赠。作为一个强大的统治者，我们希望你能为这个事业做出贡献。;;;;;;;;;;x
 quest_monastic_order_theology_focus;选择神学重心;;;;;;;;;;x
 quest_monastic_order_theology_focus_desc;只要[Root.Society.GetName]中的成员把他们的精神发展一直放在心上，那么不管他们去哪里或做什么，在我们的生命中都有一段时间，这些事情会变得至关重要。现在是你专注于神学的时候了。;;;;;;;;;;x
-quest_monastic_order_theology_focus_tooltip;在角色界面选择§Y神学§!焦点以完成这项任务。;;;;;;;;;;x
+quest_monastic_order_theology_focus_tooltip;在角色界面选择§Y『神学』§!焦点以完成这项任务。;;;;;;;;;;x
 monastic_orders_temple_construction;建造一个[Root.GetHouseOfWorship];;;;;;;;;;x
 monastic_orders_temple_construction_desc;对[Root.Society.GetName]的每一位成员来讲，[Root.GetHouseOfWorship]就像是自己的家一样。我们聚集在此学习、礼拜以及 默念我们的[Root.GetPrayers]。建立一个新的[Root.GetHouseOfWorship]会给本地的信徒们一个安全港并且作为一个信仰的前哨站，给那些走上歧途的人们伸出一双手。;;;;;;;;;;x
 monastic_orders_temple_construction_tooltip;在你国土的一个伯爵领上建造一座修道院以完成这项任务。;;;;;;;;;;x
@@ -2094,7 +2094,7 @@ GAME_RULE_VASSAL_LIMIT_TOOLTIP;游戏规则 $RULE|Y$: $VAL|+=$;;;;;;;;;;x
 ACTOR;男演员;;;;;;;;;;x
 ACTRESS;女演员;;;;;;;;;;x
 VICE_GREEDY;贪婪;;;;;;;;;;x
-VICE_PROUD;傲慢;;;;;;;;;;x
+VICE_PROUD;骄傲;;;;;;;;;;x
 VICE_LUSTFUL;色欲;;;;;;;;;;x
 VICE_SLOTHFUL;怠惰;;;;;;;;;;x
 JOIN_SOCIETY_EFFECT_DESC;$NAME|Y$加入$SOCIETY|Y$社团;;;;;;;;;;x
@@ -2861,11 +2861,11 @@ axe_of_the_ancestors_desc;这把镀金斧头上刻着祖先传说的图画。琥
 amber_crown;琥珀王冠;;;;;;;;;;x
 amber_crown_desc;这银冠饰有描绘神明的雕刻和上佳的琥珀。;;;;;;;;;;x
 obsidian_axe;黑曜石斧;;;;;;;;;;x
-obsidian_axe_desc;这个斧头的形状很简单，因为材料本身就足够令人印象深刻。头部是由黝黑而有光泽的黑曜石。;;;;;;;;;;x
+obsidian_axe_desc;这个斧头的形状很简单，因为材料本身就足够令人印象深刻。头部是由黝黑而有光泽的黑曜石制成。;;;;;;;;;;x
 engraved_crown;纹饰冠;;;;;;;;;;x
 engraved_crown_desc;这顶铁冠虽然是用寻常的材料制成，但它精致的花纹使它依旧让人印象深刻。;;;;;;;;;;x
-ceremonial_axe;仪式斧;;;;;;;;;;x
-ceremonial_axe_desc;一个美丽的仪式斧子镶有抛光彩色宝石。;;;;;;;;;;x
+ceremonial_axe;仪仗斧;;;;;;;;;;x
+ceremonial_axe_desc;一把镶有抛光彩色宝石的美丽仪仗斧。;;;;;;;;;;x
 EVTDESC_MNM_9109;“实在非常抱歉，我的[Root.GetTitle]“，[From.GetFirstName]满怀歉意。金匠告诉我，打造我要求的皇冠珠宝需要珍贵的金属和特殊的工具，可我的领地内根本找不到这些东西。“我可以派一个人不远千里收集这些材料，尽管这可能要多花点钱”。;;;;;;;;;;x
 EVTOPTA_MNM_9109;送某人到世界的尽头，如果必要的话！;;;;;;;;;;x
 EVTOPTA_MNM_9109_TT;尽管你要支付额外的费用，但你一定要得到你订购的皇冠珠宝。\n;;;;;;;;;;x
@@ -2900,7 +2900,7 @@ EVTOPTA_MNM_9120_TT_BOW;订购一件质量极佳的[From.GetWeaponsmithWeapon]�
 EVTOPTB_MNM_9120;我用不着什么装饰，来点儿有用的吧。;;;;;;;;;;x
 EVTOPTB_MNM_9120_TT_SWORDSCIMITAR;订购一件质量上乘的[From.GetWeaponsmithWeapon]，这件武器将会提供§G+0.5§! §Y每月威望§!，§G+2§! §Y军事§! 和 §G+1§! §Y个人实战技能!。\n;;;;;;;;;;x
 EVTOPTB_MNM_9120_TT_LANCE;订购一件质量不错的[From.GetWeaponsmithWeapon]，这件武器将会提供 §G+5%§! 指挥§Y骑兵§!加成， §G+0.5§! §Y每月威望§!，§G+1§! §Y军事§! 和 §G+1§! §Y个人实战技能§!。\n;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_AXE;订购一件质量不错的[From.GetWeaponsmithWeapon]，这件武器将会提供 §G+5%§! §Y轻步兵§!指挥加成，§G+0.5§! §Y每月威望§!，§G+1§! §Y军事§! 和 §G+1§! §Y个人实战技能§!。\n;;;;;;;;;;x
+EVTOPTB_MNM_9120_TT_AXE;订购一件质量不错的[From.GetWeaponsmithWeapon]，这件武器将会提供 §G+5%§! §Y轻步兵§! 指挥加成，§G+0.5§! §Y每月威望§!，§G+1§! §Y军事§! 和 §G+1§! §Y个人实战技能§!。\n;;;;;;;;;;x
 EVTOPTB_MNM_9120_TT_MACE;订购一件质量不错的[From.GetWeaponsmithWeapon]，这件武器将会提供 §G+5%§! §Y重步兵§!指挥加成，§G+0.5§! §Y每月威望§!, §G+1§! §Y军事§! 和 §G+1§! §Y个人实战技能§!。\n;;;;;;;;;;x
 EVTOPTB_MNM_9120_TT_BOW;订购一件质量不错的[From.GetWeaponsmithWeapon]，这件武器将会提供 §G+7.5%§! 指挥§Y骑兵§!加成，§G+0.75§! §Y每月威望§! 和 §G+1§! §Y个人实战技能§!。\n;;;;;;;;;;x
 EVTOPTC_MNM_9120;我相信你无论做什么都足够好，[From.GetMasterMistressCap]。;;;;;;;;;;x
@@ -3114,8 +3114,8 @@ DAMAGE_UNIT_MORALE_EFFECT_NEGATIVE;军队士气加成$VALUE|+$;;;;;;;;;;x
 SET_FLANK_TACTIC_EFFECT;侧翼战术改变为$TACTIC|$;;;;;;;;;;x
 secret_religions_found_secret_religious_society;建立邪教;;;;;;;;;;x
 secret_religions_found_secret_religious_society_desc;创造一个让你在黑暗中播下真正信仰的种子，直到你有足够的追随者从阴影中出现。;;;;;;;;;;x
-secret_religions_falsely_confess_faith;虚假的承认信仰;;;;;;;;;;x
-confess_faith_decision_tooltip;转换为你的信仰;;;;;;;;;;x
+secret_religions_falsely_confess_faith;假意改信;;;;;;;;;;x
+confess_faith_decision_tooltip;皈依你领主的信仰;;;;;;;;;;x
 secret_religions_openly_adopt_faith;公开承认信仰;;;;;;;;;;x
 secret_religions_openly_adopt_faith_desc;[Root.Society.GetNameCap]的追随者在阴影中潜伏了太久。 现在，终于是时候昭示我们真正的信念，如今我们如此之多以至于人们不能再忽视我们。;;;;;;;;;;x
 EVTDESC_MNM_3800;这一刻终于到来了！ [From.GetSocietyRank] [From.GetFirstName]相信我们的秘密社团已经足够强大，不再需要躲藏在阴影里。是时候告知整个国境内的人们，我是[Root.TrueReligion.GetHighGodName]真正的信徒，以我[Root.TrueReligion.GetName]的兄弟姐妹们为荣！;;;;;;;;;;x
@@ -3453,8 +3453,8 @@ EVTOPTA_MNM_20068;[FromFromFrom.GetFirstName]！！！;;;;;;;;;;x
 EVTDESC247;你在§Y[Root.Location.GetName]§!率领军队时军事技能到了提升（§G+1§!）。;;;;;;;;;;x
 EVTDESC20410;你的[Root.GetMyMarshalName]，[From.GetTitledFirstNameNoRegnal]，开始在 §Y[From.Location.GetName]§! 大规模招募新兵。;;;;;;;;;;x
 EVTDESC20200;您的[Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal]，已经从§Y[From.Location.GetName]§!课得了一笔额外的税款。;;;;;;;;;;x
-EVTDESC20212;您的[Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal]，在§Y[From.Location.GetName]§!收税时被一群愤怒的农民打伤了！;;;;;;;;;;x
-EVTDESC20213;您的[Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal]，在征收您指定的额外税时被一伙愤怒的农民杀死了！;;;;;;;;;;x
+EVTDESC20212;您的[Root.GetMyTreasurerName]，[From.GetTitledFirstNameNoRegnal]，在§Y[From.Location.GetName]§!收税时被一群愤怒的农民打伤了！;;;;;;;;;;x
+EVTDESC20213;您的[Root.GetMyTreasurerName]，[From.GetTitledFirstNameNoRegnal]，在征收您指定的额外税时被一伙愤怒的农民杀死了！;;;;;;;;;;x
 RIP.11557.d;你已经恢复了你失去的部分重量-食物短缺终于结束了！;;;;;;;;;;x
 REALM_CHAR_PERCENT_TRIGGER;领土内至少$VAL|Y$%的角色：;;;;;;;;;;x
 REALM_CHAR_PERCENT_NOT_TRIGGER;领土内少于$VAL|Y$%的角色：;;;;;;;;;;x
@@ -3581,7 +3581,7 @@ EVTDESC_MNM_9603;从[relic_hunter.GetHerHis]长途旅行回来后，[relic_hunte
 EVTNAME_MNM_9604;命运磨坊;;;;;;;;;;x
 EVTDESC_MNM_9604;[relic_hunter.GetTitledFirstName]轻轻地将一口大箱子放在你面前的地板上。当[relic_hunter.GetHerHis]人试图打开打开它时，一枚金币从盒子开口处滚了出来，落在地板上。[relic_hunter.GetFirstName]捡起它后笑着递给你。‘我发现了三宝磨！’\n\n你在打开的盒子里面看到一个精致的手推磨，你的 [relic_hunter.GetJobTitle]继续解释道。‘这不是我们回来时第一次在三宝磨旁发现金币。也发现过面粉和盐。。。似乎在它旁边就能增加运气’\n\n硬币滚到你的脚踝旁，你思考者这个宝物的重要性。[relic_hunter.GetFirstName]也许帮你找到了从虚空中创造财富的办法。。。;;;;;;;;;;x
 EVTNAME_MNM_9605;佩龙之斧;;;;;;;;;;x
-EVTDESC_MNM_9605;[relic_hunter.GetTitledFirstName]在狂风暴雨中浑身湿透的回到你的宫廷，[relic_hunter.GetSheHe]跪在你的王座室里，手里拿着一把大斧头。‘这把斧头，我的[Root.GetLordLady]，是佩伦的。。。’\n\n当你站起来朝 [relic_hunter.GetHerHim]走去的时候，你会看到斧头做工精良，斧头两侧的闪电也清晰可见。你伸手去拿它，就在你抓住它并把它从你的 [relic_hunter.GetJobTitle]手中拿起来的时候，远处传来一阵雷鸣。这当然是个好兆头！\n\n你我这这把斧头好像它生来就是你的，你低头看了看为你带来这件宝物的[relic_hunter.GetJobTitle]。。。;;;;;;;;;;x
+EVTDESC_MNM_9605;[relic_hunter.GetTitledFirstName]在狂风暴雨中浑身湿透的回到你的宫廷，[relic_hunter.GetSheHe]跪在你的王座室里，手里拿着一把大斧头。「这把斧头，我的[Root.GetLordLady]，是佩伦的……」\n\n当你站起来朝 [relic_hunter.GetHerHim]走去的时候，你看到斧头做工精良，斧头两侧的闪电也清晰可见。你向它伸过手去，就在你抓住它并把它从你的[relic_hunter.GetJobTitle]手中拿起来的时候，远处传来一阵雷鸣。这当然是个好兆头！\n\n这把斧头似乎生来就该属于你，你低头看向为你带来这件宝物的[relic_hunter.GetJobTitle]……;;;;;;;;;;x
 EVTNAME_MNM_9606;佩尔库纳斯之斧;;;;;;;;;;x
 EVTDESC_MNM_9606;[relic_hunter.GetTitledFirstName] 骄傲的走进你的王座室，[relic_hunter.GetHerHis]肩膀上扛着一件巨大的武器。[relic_hunter.GetSheHeCap]向你鞠了下躬，当[relic_hunter.GetSheHe]举起武器时，你看到了一柄巨大的石头双手斧。。。‘我的旅程艰难又漫长’你的[relic_hunter.GetJobTitle]说道，‘但我为你带来了佩尔库纳斯的斧头！’\n\n你拿起斧头仔细检查。它确实与你从传说中听到的描述有惊人的相似之处。它在你的手中感觉沉重而有力，虽然它可能不是战斗中的完美武器，但当你挥舞它的时候，你不禁散发出一种威严之气。。。\n\n这让你的[relic_hunter.GetJobTitle]留下深刻印象，但 [relic_hunter.GetSheHe]仍然等着你开口。;;;;;;;;;;x
 EVTNAME_MNM_9607;雨石;;;;;;;;;;x
@@ -3660,9 +3660,9 @@ fetish_of_souls_desc;一片树皮，已经长成了一张脸的形状。三人�
 sampo;三宝磨;;;;;;;;;;x
 sampo_desc;这是一个奇怪的精心制作的手推磨，与命运之磨有着惊人的相似之处。据说它能够凭空产生黄金、面粉和盐。;;;;;;;;;;x
 axe_of_perun;佩龙之斧;;;;;;;;;;x
-axe_of_perun_desc;这把精致的髯斧饰有佩龙自己的象征：闪电。这似乎是雷神的武器！;;;;;;;;;;x
+axe_of_perun_desc;这把精致的髯斧饰有佩龙自己的象征：闪电。这似乎是雷神的专属武器！;;;;;;;;;;x
 axe_of_perkunas;佩尔库纳斯之斧;;;;;;;;;;x
-axe_of_perkunas_desc;这把石斧酷似佩尔库纳斯本人的斧头，正如神话中所描述的那样。虽然在个人战斗中不是很有用，但在你的军事决策中，你会更自信。;;;;;;;;;;x
+axe_of_perkunas_desc;这把石斧酷似佩尔库纳斯本人的斧头，正如神话中所描述的那样。虽然在个人战斗中不是很有用，但是拿着它，你在做军事决策时会更加自信。;;;;;;;;;;x
 yada_tashy;雨石;;;;;;;;;;x
 yada_tashy_desc;据说这颗奇异美丽的石头能召唤雨水。为拥有者的作物丰收保证！;;;;;;;;;;x
 EVTDESC_MNM_9815;最近困扰我的声音已经开始消退。那些亲近我的人告诉我，他们认为我被某种恶魔所占据……但是现在没有了！每当我抓住所罗门的戒指时，剩下的微小声音似乎消失了。也许它真的能控制恶魔？;;;;;;;;;;x
@@ -3671,8 +3671,8 @@ EVTOPTB_MNM_9815;哎呀！那只不过是短暂的清醒。;;;;;;;;;;x
 EVTDESC_MNM_9816;既然我拥有了圣袍，就有可能把圣袍的一部分能量灌输成可饮用的形式。这可以通过一种仪式来完成，步骤包括将衣服浸泡在玫瑰的浸液中，并从瓶子中获得被榨出的水。要做到完美无瑕，仪式一定要花费昂贵，但是…;;;;;;;;;;x
 EVTOPTA_MNM_9816;这听起来是个绝妙的主意！;;;;;;;;;;x
 EVTOPTB_MNM_9816;不，听起来太贵了。;;;;;;;;;;x
-loot_axe;§P'+2' 斧子§!;;;;;;;;;;x
-loot_axe_desc;这把神秘的斧头泛着紫色的光泽，手柄上刻着奇怪的‘+’号和‘2’。与其他常规的武器相比，它的做工看起来…宛如史诗。;;;;;;;;;;x
+loot_axe;§P「+2」斧§!;;;;;;;;;;x
+loot_axe_desc;这把神秘的斧头泛着紫色的光泽，手柄上刻着奇怪的「+」号和「2」号。与其他常规的武器相比，它的做工看起来……宛如史诗。;;;;;;;;;;x
 strange_chest;奇怪的箱子;;;;;;;;;;x
 strange_chest_desc;这个奇怪的箱子是由一种未知的金属制成的。尽管不能打开它，你可以清楚地告诉箱子里不是空的。;;;;;;;;;;x
 EVTOPTB_TOG_3300;这种畸变的武器必须被摧毁！;;;;;;;;;;x
@@ -3723,7 +3723,7 @@ cloak_of_mohammad;穆罕默德的斗篷;;;;;;;;;;x
 cloak_of_mohammad_desc;先知穆罕穆德穿过的外衣。仅凭这个原因，它就值得放在最重要的神龛中。;;;;;;;;;;x
 EVTDESC_MNM_9848;[relic_hunter.GetTitledFirstName]一回来就递给我一个老旧但漂亮的披风。根据我的[relic_hunter.GetJobTitle]所说，这是先知本人穿过的。在动乱时期向民众展示它很可能有助于让他们平静下来。。。;;;;;;;;;;x
 tooth_of_mohammad;穆罕默德的牙齿;;;;;;;;;;x
-tooth_of_mohammad_desc;一颗曾经属于穆罕默德的牙齿。它在先知在吾侯德战役中被一把战斧击中时失去。;;;;;;;;;;x
+tooth_of_mohammad_desc;一颗曾经属于穆罕默德的牙齿。它是先知在吾侯德战役中被一把战斧击中时掉落的。;;;;;;;;;;x
 EVTDESC_MNM_9849;[relic_hunter.GetTitledFirstName]一回来就递给我一个小盒子，里面装着一颗用布包裹着的人类牙齿。根据我的[relic_hunter.GetJobTitle]所说，这就是穆罕默德在白德尔战役丢失的四颗牙齿中的一颗。;;;;;;;;;;x
 mohammads_bowl;穆罕默德之碗;;;;;;;;;;x
 mohammads_bowl_desc;穆罕默德喝他第一任妻子海迪彻为他煮的汤所用的碗。;;;;;;;;;;x
@@ -3935,7 +3935,7 @@ String_Zoroastrian;祆教;;;;;;;;;;x
 String_Norse;诺斯信仰;;;;;;;;;;x
 String_Slavic;斯拉夫多神教;;;;;;;;;;x
 String_Tengri;长生天信仰;;;;;;;;;;x
-String_Romuva;洛姆瓦信仰;;;;;;;;;;x
+String_Romuva;洛姆瓦教;;;;;;;;;;x
 String_Suomenusko;索米多神教;;;;;;;;;;x
 String_West_African;西非;;;;;;;;;;x
 String_Zun;尊日神教;;;;;;;;;;x
@@ -3951,7 +3951,7 @@ String_Queen;女王;;;;;;;;;;x
 String_sword;剑;;;;;;;;;;x
 String_scimitar;弯刀;;;;;;;;;;x
 String_lance;枪;;;;;;;;;;x
-String_axe;斧子;;;;;;;;;;x
+String_axe;斧;;;;;;;;;;x
 String_mace;钉锤;;;;;;;;;;x
 String_bow;弓;;;;;;;;;;x
 String_Mistress;女能手;;;;;;;;;;x
@@ -3989,7 +3989,7 @@ declined_mission;被拒绝的任务;;;;;;;;;;x
 declined_mission_stacked;被拒绝的任务;;;;;;;;;;x
 78001.d2;我的主君,您派遣我传播关于您的温厚与仁治的言辞,如今,我发现所有的统治者都对你抱有最高的敬意。我请求您予我新的使命.\n\n您卑微的仆人[Root.GetChancellorName],\n[Root.job_chancellor.GetTitledFirstName];;;;;;;;;;x
 opinion_outlawed_society;非法结社成员;;;;;;;;;;x
-secret_religions_falsely_confess_faith_desc;承认你由于政治的君主信仰，同时仍秘密实践你真正的信仰。这将允许你加入或发现你的秘密信仰的团体。;;;;;;;;;;x
+secret_religions_falsely_confess_faith_desc;出于政治原因改信你领主的信仰，同时在私下仍信奉你的真实信仰。这将允许你加入或发现你的秘密信仰的社团。;;;;;;;;;;x
 secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§!尝试寻找一种接近§Y[Root.GetTitledFirstName]§!并与之谈及[From.GetTrueReligionGroupPersons]的方式。如果成功，[Root.GetSheHe]也许会帮助你领地的人民皈依。;;;;;;;;;;x
 secret_religions_evoke_sympathy_cd_tt;还没有得到其他宗教人士的同情，或者是§Y[From.GetTitledFirstName]§! 任务的目标;;;;;;;;;;x
 well_fed;养尊处优;;;;;;;;;;x
@@ -4121,7 +4121,7 @@ EVTOPT_MNM_20082_CHILD;继续努力，把我从卖国贼那里救出来！ ;;;;;
 EVTOPT_MNM_20082_BABY;守卫阻挡了那位女士并把我带了回去;;;;;;;;;;x
 EVTTOOLTIP_MNM_20082_PERP;我的侍卫告诉我他们怀疑这起暴行的[From.GetTitledName]！;;;;;;;;;;x
 EVTDESC_MNM_20083;我 [Root.Society.GetName] 里的厉害同党设法从 [From.GetPossPronoun] 的卫士手里捉住了 [From.GetTitledFirstNameNoRegnal] 并且把 [From.GetObjectPronoun] 装在布袋里带到了我面前!;;;;;;;;;;x
-EVTDESC_MNM_20084;我 [Root.Society.GetName] 里的无能成员没能捕获 [From.GetTitledFirstNameNoRegnal], 尽管他们设法杀了一个卫士和仆人.;;;;;;;;;;x
+EVTDESC_MNM_20084;我[Root.Society.GetName]里的无能团员没能抓住[From.GetTitledFirstNameNoRegnal]，尽管他们似乎设法杀了一个卫士和仆人。;;;;;;;;;;x
 EVTOPTA_MNM_20084;白痴！;;;;;;;;;;x
 EVTOPTB_MNM_20103;噢不，我得再耐心点。 ;;;;;;;;;;x
 opinion_attempted_abduction;绑架未遂;;;;;;;;;;x
@@ -4489,7 +4489,7 @@ EVTDESC_MNM_1425;[From.GetSocietyRank] [From.GetFirstName] 和我在满是灰尘
 EVTOPTA_MNM_1425;我想我找到了册子了，[From.GetFirstName]！;;;;;;;;;;x
 EVTDESC_MNM_1426_A;我们在抵达亚历山大后很早就产生了疑虑，但[From.GetSocietyRank] [From.GetFirstName]坚持认为我们必须曲解地图。在经过多次失败后，[From.GetSheHe]有了一个新的注意。但是疑虑却绕上了我的心头...是不是地图是伪造的，而且[From.GetFirstName]知道这些？这场被诅咒的冒险是一个为了毁灭我的阴谋？;;;;;;;;;;x
 EVTDESC_MNM_1426_B;我们在外国的远征探险当然遇到了一些苦难。我们面对着从恶劣天气到马匹跛足的许多问题，但是最终，那个骗子向导是对我们的致命一击。当 [Root.GetSheHe] 带着我们最后的金子逃走后，我们也发现自己身处 [ruin_site.Holder.TopLiege.PrimaryTitle.GetName] 的错误地点！;;;;;;;;;;x
-EVTDESC_MNM_1426_C;我们向[temple_site.GetName]提供[temple_site.Holder.Religion.GetPriestTitle]的贿赂足以使[temple_site.Holder.GetHerHim]解开[temple_site.Holder.GetHouseOfWorship]的内室。 我们检查了每个角落和裂缝，找出卷轴隐藏处的线索。 经过一周没有比发现一堆猥亵字母更有趣的事情，我们不得不承认失败。;;;;;;;;;;x
+EVTDESC_MNM_1426_C;我们向[temple_site.Holder.Religion.GetPriestTitle]的[temple_site.GetName]提供的贿赂足以让[temple_site.Holder.GetHerHim]打开[temple_site.Holder.GetHouseOfWorship]的内室了。我们仔细检查了每一个角落，寻找着卷轴藏匿处的线索。一周之后，除了一堆藏匿起来的淫秽作品以外我们再也找不到任何能够引人注意的东西，我们不得不承认失败。;;;;;;;;;;x
 EVTDESC_MNM_1426_D;[From.GetSocietyRank] [From.GetFirstName] 和我在满是灰尘的老店里搜查了所有的书架和箱子。几天来，我们除了呼吸灰尘和翻阅枯燥的旧书之外，什么也没做。他们都是胡说八道！一个星期后，我们不得不承认失败。我们永远不会发现这个地方有价值的东西。;;;;;;;;;;x
 quest_hermetics_find_text;寻找一份赫尔墨斯文献;;;;;;;;;;x
 quest_hermetics_find_text_desc;你的同事 [FromFrom.GetSocietyRank] [FromFrom.GetFirstName] 发现了一封信，详细描述了赫尔墨斯学会的一些伟大作品的可能位置。一项协议达成了， [FromFrom.GetSocietyRank] [FromFrom.GetFirstName] 将和你分享信里的内容，而你将资助这场远征探险。;;;;;;;;;;x
@@ -4565,7 +4565,7 @@ EVTOPTC_MNM_1443;嘭！;;;;;;;;;;x
 EVTOPTA_MNM_1443;太棒了！这将需要花[infiltration_target.GetFirstName]个月的时间来恢复，如果不需要几年的话！;;;;;;;;;;x
 EVTDESC_MNM_1444_A;如果我发现是谁闯进了我的实验室，我会杀了那个卑鄙的混蛋！昨晚我醒来时，整个房子都剧烈地摇晃着。好像有人闯进了我的实验室，引发了一场爆炸！幸运的是，没有生命受到伤害，但我的实验室已成废墟。没什么可挽救的。;;;;;;;;;;x
 EVTDESC_MNM_1444_B;如果我发现是谁闯入我的实验室，我会杀了那个卑鄙的骗子！看起来我好像有了一个敌人，因为入侵者的重点是破坏而非盗窃。酸被倒在地板上，跨过工作台，盆和玻璃已经被打碎，更糟糕的是，我的炉子里充满了烧黑的书页！;;;;;;;;;;x
-EVTDESC_MNM_1444_C;我不确定我是否应该受到打扰或好玩！ 今天早上，我的实验室发现了一具烧焦的尸体。 显然，这个骗子破门而入，破坏了我的工作，但设法杀死了[From.GetHerselfHimself]，他们试图制造一枚炸弹。 我检查了尸体，罪魁祸首不过是[From.GetSocietyRank] [From.Society.GetName]！;;;;;;;;;;x
+EVTDESC_MNM_1444_C;我都不确定我现在是该感到不安还是该觉得好笑了！今天早晨，我的实验室中发现了一具烧焦的尸体。很显然这个骗子想要插手破坏我的工作，但他试图制造炸弹的拙劣手法却害死了[From.GetHerselfHimself]。我仔细检查了尸体，事情的罪魁祸首正是[From.GetSocietyRank] [From.Society.GetName]！;;;;;;;;;;x
 EVTOPTB_MNM_1444;[Root.Religion.GetHighGodName]会惩罚罪孽深重的人。;;;;;;;;;;x
 EVTDESC_MNM_1446_A;我发现[From.GetSocietyRank] [From.GetFirstName]正在把手伸进大配料箱里。我们四目相对，我点点头。是时候离开了。 [From.GetFirstName]在[From.GetHerHis]包里塞进更多的金属瓶和金属块，然后追上了我。;;;;;;;;;;x
 EVTDESC_MNM_1446_B;我沿着翻倒的箱子和打碎的小瓶一路摸索着，直到我找到了[From.GetSocietyRank] [From.GetFirstName]。我向[From.GetHerHim]招手示意一起离开——该走了！[From.GetSheHeCap]连忙把附近的一些工具装进[From.GetHerHis]口袋里，然后追上我的步伐。;;;;;;;;;;x
@@ -4573,7 +4573,7 @@ EVTDESC_MNM_1448;当我关上我的书包时，我听到另一个房间发出一
 EVTOPTA_MNM_1448;当[infiltration_target.GetSheHe]意识到我们所做的事情时，我希望能看到[infiltration_target.GetFirstName]的脸。;;;;;;;;;;x
 EVTDESC_MNM_1449;当我到达附近的一个大厦时，一道可怕的咆哮扫过了实验室，脚下的地板颤抖着。 在真相遇到我之前，龙和幻影的图像闪现在我的脑海中。 [From.GetSocietyRank] [From.GetFirstName]必须有一组爆炸。 没有时间寻找[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTA_MNM_1449;没有人能够通过这里。我必须逃跑！;;;;;;;;;;x
-EVTDESC_MNM_1450;一旦我们离开实验室远远落后于我们，[infiltration_companion.GetFirstName]并且我崩溃了，两束发汗和颤抖的肢体。 我们做到了。 我们真的做到了，我们也得到了解决方案！ 随着笑声从我嘴唇喷出，我的身体终于放松下来。 在我旁边，[infiltration_companion.GetFirstName]沉重的呼吸变成了欢快的笑声。;;;;;;;;;;x
+EVTDESC_MNM_1450;实验室离我们的距离越来越远了，我和[infiltration_companion.GetFirstName]忽然瘫软在地上，四肢颤抖，汗流浃背。我们做到了，我们真的做到了，我们也侥幸成功了！当笑声从我的唇边溢出时，我的身体总算放松了下来。紧接着，[infiltration_companion.GetFirstName]沉重的呼吸声也变成了愉悦的笑声。;;;;;;;;;;x
 EVTOPTA_MNM_1450;我们确实给[infiltration_target.GetHerHim]看了，不是吗？;;;;;;;;;;x
 opinion_accomplice;同谋;;;;;;;;;;x
 hermetics_scrying_cooldown_tooltip;还没有预知到未来的事情\n;;;;;;;;;;x
@@ -4858,7 +4858,7 @@ MNM.78000.d;在我留在贵族宫廷的过程中，我尽我最大的努力，�
 MNM.70005.d;我一直在努力改善我的领主的领地，并且最近在我的努力下取得了成功。[Root.Liege.GetSheHe]一定会很高兴！;;;;;;;;;;x
 MNM.78007.t;走私者进入领地;;;;;;;;;;x
 MNM.78007.d;在管理你领主直辖省份时，你让一群您认为是寻找商机的商人进入。但事实证明他们是走私犯！;;;;;;;;;;x
-MNM.78008.d;你无能的[From.GetJobTitle]让一群走私者进入了[smuggler_province.GetName]的郡！显然[From.GetSheHe]以为他们是商人，真是个傻瓜！;;;;;;;;;;x
+MNM.78008.d;你无能的[From.GetJobTitle]让一群走私者进入了[smuggler_province.GetName]的伯爵领。显然[From.GetSheHe]以为他们是商人，真是愚不可及！;;;;;;;;;;x
 MNM.70015.t;指挥官争吵;;;;;;;;;;x
 MNM.70015.d;在训练指挥官们的时候， [commander_character.GetFirstName] 开始嘲笑你的技术。在你知道之前，情况升级成一场全面的争吵！;;;;;;;;;;x
 MNM.70016.d;相比于操练，[From.GetJobTitle] [From.GetFirstName]选择在用实战来训练他的军队！ 反观你的部队，确实是纪律涣散了一些...;;;;;;;;;;x
@@ -5168,7 +5168,7 @@ EVTOPTA_MNM_1472_TT;争论结束了，每个人都可以不受干扰地继续工
 EVTDESC_MNM_1473;我努力去冷静地解释他们争论的荒唐性，以及他们持续不断的消极行为是如何扰乱我计划的。令人遗憾的是，我的话语似乎没有任何卵用。实际上，我可能让情势恶化了。“[arguer_1.GetFirstName]，你听到了吧？你就是在添乱，”[arguer_2.GetFirstName]冷嘲热讽。然后他们又开始争吵……;;;;;;;;;;x
 EVTOPTA_MNM_1473;这不可能成事;;;;;;;;;;x
 EVTOPTA_MNM_1473_TT;§Y[arguer_1.GetTitledFirstName]§!和§Y[arguer_2.GetTitledFirstName]§!之间的争论变得更激烈了。\n;;;;;;;;;;x
-EVTDESC_MNM_1475;[From.GetFirstName]点击我们面前草图的细节，我热烈地点头。 '我同意，[From.GetFirstName]！ 当然，将轴移动到这里会使机制更不容易出错。 在过去的几天里，[From.GetFirstName]和我一起工作得非常好。 我很高兴[From.GetSheHe]来了！;;;;;;;;;;x
+EVTDESC_MNM_1475;[From.GetFirstName]轻轻敲击着我们面前的草图的细节部分，之后我热情地点点头。“我同意你的说法，[From.GetFirstName]！将轴线移动到这里一定能使机械结构更不容易出错。” 在过去的几天里，[From.GetFirstName]和我一起工作得很好。 我真高兴[From.GetSheHe]来了！;;;;;;;;;;x
 EVTOPTA_MNM_1475;真的感激您的奉献, [From.GetSisterBrother].;;;;;;;;;;x
 EVTDESC_MNM_1476;几小时前太阳落山了，我几乎无法分辨出我面前的草图的细节。其他人都上床睡觉了，但我完全清醒了。思想在我脑海中旋转，越来越快。在意识的边界之外，存在着某种东西。我几乎快找到答案了！;;;;;;;;;;x
 EVTOPTA_MNM_1476;尤里卡！;;;;;;;;;;x
@@ -5892,7 +5892,7 @@ assassins_scare_ruler_fail;未能恐吓§Y[Root.GetTitledFirstName]§!\n;;;;;;;;
 becomes_zunist_effect;§Y[This.GetTitledFirstName]§!成为尊日神教信徒。\n;;;;;;;;;;x
 EVTDESC_MNM_6950;我的目标，卑鄙的[FromFrom.GetTitledFirstName]已经死在了我的手中。 [FromFrom.GetSheHeCap]得到了[fromFrom.GetSheHe]应得的结果。大团长会很高兴的。;;;;;;;;;;x
 EVTOPTA_MNM_4405_tt_success;面对罪恶，适度地践行罪恶而不让人注意。;;;;;;;;;;x
-EVTOPTA_MNM_4405_tt_fail;尝试适度的练习,但这不足以恢复焦点。;;;;;;;;;;x
+EVTOPTA_MNM_4405_tt_fail;尝试去适度地实践恶行，但这不足以恢复注意力。;;;;;;;;;;x
 EVTOPTB_MNM_4405_tt_success;善良战胜了邪恶。\n;;;;;;;;;;x
 openly_adopt_faith_trigger_tooltip;国内还有其他赞成[Root.Society.GetName]的斗争活动的人。;;;;;;;;;;x
 openly_adopt_faith_effect_tooltip;鼓励所有拥有真正信仰的追随者公开表达他们的信仰，\n在[Root.Society.GetName]不复存在之后，你将无法再继续招募秘密追随者。;;;;;;;;;;x

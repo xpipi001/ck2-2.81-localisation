@@ -229,9 +229,9 @@ HINT_NOMAD_VIEW_TEXT_4;管理各部族的关键是执行你可用的特殊行为
 EVTTOOLTIP62920;莱昂与阿斯图里亚斯合并为一个王国;;;;;;;;;;x
 EVTNAME62920;莱昂与阿斯图里亚斯合并;;;;;;;;;;x
 EVTDESC62920;莱昂王国与阿斯图里亚斯王国将永远合一，只有一个王冠，也只有一个国王永恒统治二者。;;;;;;;;;;x
-EVTTOOLTIP62922;我加冕为卡斯提尔国王;;;;;;;;;;x
-EVTNAME62922;卡斯提尔之[Root.PrimaryTitle.GetTier];;;;;;;;;;x
-EVTDESC62922;历经数百年的征战，卡斯提尔已经迅速壮大并独立自主。是时候要求本地区其他统治者认同我为平等的一员！;;;;;;;;;;x
+EVTTOOLTIP62922;我加冕为卡斯蒂利亚国王;;;;;;;;;;x
+EVTNAME62922;卡斯蒂利亚之[Root.PrimaryTitle.GetTier];;;;;;;;;;x
+EVTDESC62922;历经数百年的征战，卡斯蒂利亚已经迅速壮大并独立自主。是时候要求本地区其他统治者认同我为平等的一员！;;;;;;;;;;x
 EVTOPTA62922;这顶王冠非常适合我！;;;;;;;;;;x
 EVTOPTA62923;又一个王国？;;;;;;;;;;x
 EVTTOOLTIP62924;我加冕为葡萄牙国王;;;;;;;;;;x
@@ -616,7 +616,7 @@ SPLIT_CLAN_INTERACTION_2;[Recipient.GetHerHis]结义兄弟§Y$BLOOD_BROTHER$§!�
 SPLIT_CLAN_INTERACTION_3;所有的部族封臣都会不满，因为领地内已经有够多的部族了，降低他们对你的观感 §R$VAL$§!。;;;;;;;;;;x
 SPLIT_CLAN_INTERACTION_4;其他部族封臣并不会在意，因为他们认为领地内的部族并不算太多。;;;;;;;;;;x
 EVTDESC509;我恭顺地接受你的决定，分拆我的部族，尽管这让我非常痛心。;;;;;;;;;;x
-EVTDESC510;我绝不允许不经过战斗就偷走我的民众！你不再是我的大汗。;;;;;;;;;;x
+EVTDESC510;我绝不允许不经过战斗就抢走我的人民！你不再是我的可汗。;;;;;;;;;;x
 clan_opinion_created;忠诚的部族;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_BLOOD_BROTHER;§Y[Recipient.GetTitledFirstName]§!不是§Y[Actor.GetTitledFirstName]§!的结拜兄弟;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_FEUD;§Y[Recipient.GetTitledFirstName]§!没有和§Y[Actor.GetTitledFirstName]§!处于世仇中;;;;;;;;;;x
@@ -673,7 +673,7 @@ faction_overthrow_title;推翻可汗;;;;;;;;;;x
 faction_overthrow_desc;部族渴望§Y[From.GetBestName]§!成为§Y[This.GetFullName]§!的新首领。当足够强有力的时候，§Y[From.GetBestName]§!或许会提出最后通牒给§Y[From.Liege.GetBestName]§!;;;;;;;;;;x
 WAR_NAME_INSTALLKHAN;拥立$ATTACKER$为$SECOND$可汗;;;;;;;;;;x
 EVTDESC8210;你已经证明了你的软弱，我和所有部族都通过气了，现在是时候请你交出统治权给一位配得上的人。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC8211;懦弱的大汗已经同意我们的要求，向我们投降。;;;;;;;;;;x
+EVTDESC8211;懦弱的可汗已经同意我们的要求，向我们投降。;;;;;;;;;;x
 EVTDESC8212;由不满的部族首领组成的派系，没有流血就解散了，因为前任可汗已向他们投降。;;;;;;;;;;x
 EVTDESC8213;我向你投降[Root.GetTitledName]，只求你对我和我的家族开恩……;;;;;;;;;;x
 EVTOPTA8213;你的部族对我们忠心耿耿, 你暂时可以活着……;;;;;;;;;;x
@@ -686,4 +686,4 @@ PILLAGE_DESTROY_BUILDINGS;劫掠这片土地将导致建筑被摧毁！\n;;;;;;;
 pillage_settlement;劫掠地产;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_LARGE_NOMAD;既然这个统治者的领地比我们大，我们可以用公正的理由收回他们的部分土地。;;;;;;;;;;x
 faction_overthrow_ultimatum;推翻可汗;;;;;;;;;;x
-faction_overthrow_ultimatum_desc;递交最后通牒给§Y[Root.Liege.GetBestName]§!，要求[Root.Liege.GetHerHim]放弃汗位并由你来做新的大汗。如果[Root.Liege.GetSubjectPronoun]拒绝服从，你的派系将发动叛乱。;;;;;;;;;;x
+faction_overthrow_ultimatum_desc;递交最后通牒给§Y[Root.Liege.GetBestName]§!，要求[Root.Liege.GetHerHim]放弃汗位并由你来做新的可汗。如果[Root.Liege.GetSubjectPronoun]拒绝服从，你的派系将发动叛乱。;;;;;;;;;;x

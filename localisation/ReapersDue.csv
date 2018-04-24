@@ -541,7 +541,7 @@ cough_death;把[GetHerHis]肺都咳了出来;;;;;;;;;;x
 fever_death;高烧不退，大汗淋漓;;;;;;;;;;x
 diarrhea_death;因腹泻导致的脱水;;;;;;;;;;x
 vomiting_death;喷射般地呕吐;;;;;;;;;;x
-chest_pain_death;抓着[GetHerHis]心脏;;;;;;;;;;x
+chest_pain_death;心脏病;;;;;;;;;;x
 cramps_death;因绞痛而不停抽搐;;;;;;;;;;x
 rash_death;把[GetHerHis]自己的皮肤抓得血肉模糊;;;;;;;;;;x
 headache_death;从眼睛和耳朵中流出了鲜血;;;;;;;;;;x
@@ -894,11 +894,11 @@ opinion_tortured_family;亲属受到折磨;;;;;;;;;;x
 opinion_tortured_close_kin;近亲受到折磨;;;;;;;;;;x
 EVTDSC_RIP_20001;为什么任何复杂的东西都比不上好的旧刑架呢？从[From.GetTitledFirstName]的尖叫声中可以知道，[From.GetSheHe]貌似已经得到了[From.GetHerHis]教训……;;;;;;;;;;x
 EVTOPTA_RIP_20001;[From.GetSheHeCap]将学会在反对我之前再三考虑。;;;;;;;;;;x
-EVTDSC_RIP_20002;当你安静地揣测你的命运的时候，狱卒突然走进来把你从牢里拖出去。“别担心”他向你保证，露出不太令人放心的微笑。“今天你不会遇见处刑者的斧头。仁慈的[From.GetTitle]决定刑架就足够了。”;;;;;;;;;;x
+EVTDSC_RIP_20002;当你安静地揣测你的命运的时候，狱卒突然走进来把你从牢里拖出去。「别担心，」他向你保证，露出不太令人放心的微笑，「今天你不会挨刽子手的斧头。仁慈的[From.GetTitle]决定刑架就足够了。」;;;;;;;;;;x
 EVTOPTA_RIP_20002;仁-仁慈？！;;;;;;;;;;x
 EVTDSC_RIP_20003;哦，鞭子给予的甜蜜之吻！[From.GetTitledFirstName]将会把[From.GetHerHis]腹部朝下，趴着睡好长一段时间。从[From.GetTitledFirstName]的尖叫声中可以知道，[From.GetSheHe]貌似已经得到了[From.GetHerHis]教训……;;;;;;;;;;x
 EVTOPTA_RIP_20003;[From.GetSheHeCap]最好看看[From.GetHerHis]背部……;;;;;;;;;;x
-EVTDSC_RIP_20004;当你安静地揣测你的命运的时候，狱卒突然走进来把你从牢里拖出去。“别担心”他向你保证，露出不太令人放心的微笑。“今天你不会遇见处刑者的斧头。仁慈的[From.GetTitle]决定鞭子就足够了。”;;;;;;;;;;x
+EVTDSC_RIP_20004;当你安静地揣测你的命运的时候，狱卒突然走进来把你从牢里拖出去。「别担心，」他向你保证，露出不太令人放心的微笑，「今天你不会挨刽子手的斧头。仁慈的[From.GetTitle]决定鞭笞就足够了。」;;;;;;;;;;x
 EVTOPTA_RIP_20004;仁-仁慈？！;;;;;;;;;;x
 EVTDSC_RIP_20005;一群老鼠装在桶里绑在[From.GetTitledFirstName]胸口并烧煤加热。幸运的是，桶在老鼠成功咬穿[From.GetHerHim]之前拿开了。从[From.GetTitledFirstName]的尖叫声中可以知道，[From.GetSheHe]貌似已经得到了[From.GetHerHis]教训...;;;;;;;;;;x
 EVTOPTA_RIP_20005;[From.GetSheHeCap]应该感谢还活着……;;;;;;;;;;x
@@ -2305,7 +2305,7 @@ EVTOPTC_79010_TOOLTIP;你的领主永远感激你。\n;;;;;;;;;;x
 EVTOPTD_79010;糟了。;;;;;;;;;;x
 EVTOPTD_79010_TOOLTIP;齐心协力，终于杀死了那个体型巨大的战士，但你也只是侥幸保住自己的性命。\n;;;;;;;;;;x
 favored_shieldmaiden;受赏识的盾娘;;;;;;;;;;x
-favored_shieldmaiden_desc;这是一位著名的持盾女卫，在战场深受敬畏。;;;;;;;;;;x
+favored_shieldmaiden_desc;这是一位著名的盾娘，在战场深受敬畏。;;;;;;;;;;x
 bad_shieldmaiden;差劲的侍卫;;;;;;;;;;x
 bad_shieldmaiden_desc;在关键的时刻，此人逃脱了战斗。;;;;;;;;;;x
 EVTDESC_79011_A;[my_liege.GetTitledFirstName]如同黄油一般被切开。我不确定我还会不会完全忘记那个景象。至少我当时离那里很远，而且没人指责我没有介入……;;;;;;;;;;x
@@ -2543,7 +2543,7 @@ forced_mask;被迫戴上面具;;;;;;;;;;x
 forced_mask_desc;这个角色的领主迫使他所有的封臣永远戴上面具。;;;;;;;;;;x
 EVTDSC_RIP_29104;尽管戴上面具比不戴要好，但是我的面具让我感觉自己像个局外人。不过，我最近相处了一个极好的主意！如果我办一场奢华的假面舞会呢？那样我就不是唯一带面具的人，也许人们会暂时忘记我被毁掉的容貌！;;;;;;;;;;x
 EVTOPTA_RIP_29104;让我们开始这场庆典吧！;;;;;;;;;;x
-EVTOPTA_RIP_29104_TOOLTIP;为你所有的封臣和臣子安排一场假面舞会。\n;;;;;;;;;;x
+EVTOPTA_RIP_29104_TOOLTIP;为你所有的封臣和廷臣安排一场假面舞会。\n;;;;;;;;;;x
 EVTOPTB_RIP_29104;但是我从来不喜欢大场面...;;;;;;;;;;x
 EVTOPTB_RIP_29104_TOOLTIP;放弃假面舞会;;;;;;;;;;x
 EVTDSC_RIP_29105;假面舞会大获成功！我总算不会被当做一个局外人、一个怪胎了。或者说，我们都是怪胎，只在今晚。一个想法突然冒了出来——如果不只是今夜如此，岂不是很棒棒？如果我们可以保持这样……直到永远？;;;;;;;;;;x
@@ -3083,7 +3083,7 @@ exchange_land_for_hospital_desc;以一片可供修建城堡的土地作为交换
 upgrade_hospital;[From.GetTitledName]提议，只要对他们神圣金库作一点小小的捐赠，位于[Root.Capital.GetName]的医院就可以扩大。;;;;;;;;;;x
 vassal_wars_law_0_desc;只要没有全境和平，封臣可以与领地内和领地外的敌人交战。;;;;;;;;;;x
 vassal_wars_law_1_desc;封臣禁止向领地内的敌人宣战，但是可以攻击外部的敌人，只要没有全境和平。;;;;;;;;;;x
-vassal_wars_law_2_desc;封臣禁止发动战争，无论领地内外;;;;;;;;;;x
+vassal_wars_law_2_desc;封臣禁止发动对内或对外战争;;;;;;;;;;x
 taking_it_easy;放松一下;;;;;;;;;;x
 taking_it_easy_desc;这名角色正在放松，试着不要努力过头;;;;;;;;;;x
 EVTDESC_RIP_4010;当你正在工作时，宫廷医师[physician_target.GetFirstName]闯进了你的书房。“我的[Root.GetTitle]，你又熬了一整夜！为了你好，请别工作的那么卖命，否则你会因为精力衰竭垮掉的！”;;;;;;;;;;x
@@ -3494,7 +3494,7 @@ IS_PROVINCE_OWNER_OR_LIEGE;省份由你或你的封臣拥有;;;;;;;;;;x
 GAME_STARTED_IN;游戏开始于$DATE|Y$;;;;;;;;;;x
 GAME_LASTED;游戏已经运行了$LENGTH|Y$年;;;;;;;;;;x
 suspected_impaler;嫌疑刺客;;;;;;;;;;x
-change_wards_focus_to_heritage;改变童年焦点为传统;;;;;;;;;;x
+change_wards_focus_to_heritage;变更童年焦点为传统;;;;;;;;;;x
 mild_illness;轻微病症;;;;;;;;;;x
 mild_illness_desc;这个人感觉不舒服，不过并不如想象中的严重。;;;;;;;;;;x
 severe_illness;严重病症;;;;;;;;;;x
@@ -3796,8 +3796,8 @@ b_balijipeta;婆梨迦地;;;;;;;;;;x
 b_manpura;曼补罗;;;;;;;;;;x
 b_baramgala;婆兰迦罗;;;;;;;;;;x
 b_chikalthana;支迦檀那;;;;;;;;;;x
-k_sapmi;萨米;;;;;;;;;;x
-k_sapmi_adj;萨米;;;;;;;;;;x
+k_sapmi;拉普兰;;;;;;;;;;x
+k_sapmi_adj;拉普兰;;;;;;;;;;x
 d_sapmi;萨米;;;;;;;;;;x
 d_sapmi_adj;萨米;;;;;;;;;;x
 d_finnmark;芬马克;;;;;;;;;;x

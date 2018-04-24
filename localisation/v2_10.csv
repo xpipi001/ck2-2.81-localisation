@@ -118,7 +118,7 @@ EVTDESC91357;我的 [GetFromRelation] [From.GetBestName] 终于明白 [From.GetS
 EVTDESC91360;我的 [GetFromRelation] [From.GetTitledFirstName] 劝说我摒弃犯禁, 远离罪行. [From.GetSubjectPronounCap] 就像一个穆夫提一样引用古兰经和圣训的经文, 警告我来世会因宣淫犯禁而堕入地狱的永火中...;;;;;;;;;;x
 EVTOPTA91360;我看起来是个善男信女吗?;;;;;;;;;;x
 EVTOPTB91360;我要加入拜克塔什教团苦修!;;;;;;;;;;x
-EVTOPTC91360;我要加入哈萨辛派赎罪!;;;;;;;;;;x
+EVTOPTC91360;我要加入阿萨辛派赎罪!;;;;;;;;;;x
 EVTOPTD91360;我要去麦加朝圣!;;;;;;;;;;x
 EVTOPTE91360;我要去作天课!;;;;;;;;;;x
 EVTDESC91361;我殷切的教诲终于感化我的 [GetFromRelation] [From.GetTitledFirstName]. [From.GetSubjectPronounCap] 决定要加入教团, 以便待奉安拉!;;;;;;;;;;x
@@ -305,13 +305,13 @@ d_saint_addai_adj;圣亚戴骑士团;;;;;;;;;;x
 expelled_d_saint_addai;驱逐圣亚戴骑士团;;;;;;;;;;x
 expel_order_of_addai;驱逐圣亚戴骑士团;;;;;;;;;;x
 expel_order_of_addai_desc;我可以驱逐圣亚戴骑士团, 并收缴他们城堡. 然而这是亵渎宗教之举......;;;;;;;;;;x
-donate_money_to_order_of_addai;捐献 300¤ 给圣亚戴骑士团;;;;;;;;;;x
+donate_money_to_order_of_addai;捐献300¤给圣亚戴骑士团;;;;;;;;;;x
 donate_money_to_order_of_addai_desc;我可以捐赠钱财给圣亚戴骑士团, 以换取虔诚, 并且可以终身得到 [Root.Religion.GetName] 的尊重;;;;;;;;;;x
 EVTTITLE_SOA_2809;圣亚戴骑士团;;;;;;;;;;x
 EVTDESC_SOA_2809;为了保护东方亚述教会的圣地, 大牧首[Root.RelHead.GetTitledName]宣布成立武装修士组成的神圣兄弟会圣亚戴骑士团, 以在叙利亚及美索不达米亚传道的圣徒命名. 骑士团愿以任何提供补给的[Root.Religion.GetName]领主之名, 痛击异教徒与不信者, 申张正义.;;;;;;;;;;x
 EVTOPTA_SOA_2809;战无不胜!;;;;;;;;;;x
 EVTOPTB_SOA_2809;更多献身的羔羊!;;;;;;;;;;x
-EVTDESC_SOA_2831;我的 [GetFromRelation] [From.GetTitledFirstName] 要求加入圣亚戴骑士团对抗异教徒, 即使失去继承权亦在所不惜.;;;;;;;;;;x
+EVTDESC_SOA_2831;我的[GetFromRelation][From.GetTitledFirstName]要求加入圣亚戴骑士团对抗异教徒, 即使失去继承权亦在所不惜.;;;;;;;;;;x
 EVTTOOLTIP_SOA_2832;[This.GetTitledFirstName]成为圣亚戴骑士.;;;;;;;;;;x
 EVTDESC_SOA_2853;公正的[Root.GetTitledFirstName], 圣亚戴骑士团亟需更多城堡与领地来训练士卒并提兵收入. 在你的领地里, [FromFrom.GetName] 是一个不错的地方. 我愿意以100个金币换取在那里建筑新城的权利.\n\n主赐和平,\n大团长[From.GetFirstName];;;;;;;;;;x
 EVTDESC_SOA_2854;圣亚戴骑士团在[Root.GetName]修建了城堡!;;;;;;;;;;x
@@ -770,7 +770,7 @@ EVTDESC_RoI_228;你的[Root.Spouse.GetHusbandWife]面带泪痕来见你.[Root.Sp
 EVTOPTA_RoI_228;哦,不!;;;;;;;;;;x
 EVTDESC_RoI_230;你一直担心着你的[Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName].最近,  [Root.Spouse.GetSheHe] 总是呆在 [Root.Spouse.GetHerHis] 房里, 把玩 [Root.Spouse.GetHerHis] 那颗钻石,而且对 [Root.Spouse.GetHerselfHimself]说着什么. [Root.Spouse.GetSheHe] 甚至对你对 [Root.Spouse.GetHerHim]的劝诫也不上心.;;;;;;;;;;x
 EVTOPTA_RoI_230;[Root.Spouse.GetSheHe] 被夺走了!;;;;;;;;;;x
-EVTDESC_RoI_232;侍卫长满头大汗前来告诉你,[Root.Spouse.GetTitledFirstName]死于半道抢劫,强盗试图夺走那颗钻石!幸好,当强盗准备逃跑的时候,正好一队士兵路过,消灭了强盗.;;;;;;;;;;x
+EVTDESC_RoI_232;侍卫长满头大汗地前来告诉你，[Root.Spouse.GetTitledFirstName]死于半道抢劫，强盗试图夺走那颗钻石！幸好，当强盗准备逃跑的时候，一队士兵正好路过，消灭了强盗，取回了钻石。;;;;;;;;;;x
 EVTOPTA_RoI_232;喔!;;;;;;;;;;x
 EVTDESC_RoI_240;从目前的情况看,那颗钻石似乎会给人带来恶运.几个接触过它的仆人都死了.很多人都说钻石被施了诅咒,它会毁了你自己甚至你的家族.听到这些流言,你开始担心起来.;;;;;;;;;;x
 EVTOPTA_RoI_240;我已经受够了,把它卖了吧.;;;;;;;;;;x
