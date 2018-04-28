@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 CAN_ONLY_JOIN_X_FACTIONS;§R只能够加入 §Y$NUM$§! 派系!§!;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_ACTOR_TEMPORARY_TITLE;§Y[Actor.GetTitledFirstName]§! 当前不得持有临时头衔;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_RECIPIENT_TEMPORARY_TITLE;§Y[Recipient.GetTitledFirstName]§! 当前不得持有临时头衔;;;;;;;;;;x
@@ -22,7 +22,7 @@ WRONG_OCEAN;可经海路抵达;;;;;;;;;;x
 indian_subjugation_desc;印度宗教领主可以以 即§Y500§!善业为代价向同文化组领主发动征服战争.;;;;;;;;;;x
 jungle;丛林;;;;;;;;;;x
 hindu;印度教;;;;;;;;;;x
-hindu_DESC;印度教不是一个单一的宗教，作为记录在吠陀经中古印度多神教的继任者。与耆那教和佛教相对和平的共存千年 - 印度教许多不同教派的存在已经使印度教对所有印度宗教信仰异常的宽容和多元化。尽管如此，它是最好战的三个宗教之一。;;;;;;;;;;x
+hindu_DESC;印度教不是一个单一的宗教，作为记录在吠陀经中古印度多神教的继任者。与耆那教和佛教相对和平的共存千年 - 印度教许多不同教派的存在已经使印度教对所有印度宗教信仰异常的宽容和多元化。尽管如此，它是三个宗教中最好战的。;;;;;;;;;;x
 buddhist;佛教;;;;;;;;;;x
 jain;耆那教;;;;;;;;;;x
 nubian;努比亚人;;;;;;;;;;x
@@ -32,7 +32,7 @@ THE_VINAYAKAS;众伽那;;;;;;;;;;x
 THE_MAHABHARATA;摩诃婆罗多;;;;;;;;;;x
 PUJARI;法主;;;;;;;;;;x
 GOD_THE_BUDDHA;佛陀;;;;;;;;;;x
-GOD_THE_ARHAT;罗汉;;;;;;;;;;x
+GOD_THE_ARHAT;阿罗汉;;;;;;;;;;x
 GOD_THE_PERFECTED_ONES;众应供;;;;;;;;;;x
 MARA;魔障;;;;;;;;;;x
 THE_BUDDHACAVANA;佛说;;;;;;;;;;x
@@ -85,7 +85,7 @@ panjabi;五河人;;;;;;;;;;x
 rajput;罗阇弗多罗人;;;;;;;;;;x
 oriya;奥梨萨人;;;;;;;;;;x
 assamese;阿萨姆人;;;;;;;;;;x
-IS_LOWBORN;出身低贱;;;;;;;;;;x
+IS_LOWBORN;出身卑微;;;;;;;;;;x
 IS_NOT_LOWBORN;不是平民;;;;;;;;;;x
 IS_REINCARNATED;转世化身;;;;;;;;;;x
 IS_NOT_REINCARNATED;不是转世化身;;;;;;;;;;x
@@ -143,7 +143,7 @@ EVTTOOLTIP91365;给 [This.GetFirstName] 安排一场 [From.GetPossPronoun] room;
 patron_shiva;守护神: 湿婆神;;;;;;;;;;x
 patron_vishnu;守护神: 毗湿奴;;;;;;;;;;x
 patron_brahma;守护神: 大梵天;;;;;;;;;;x
-patron_kali;守护神: 迦梨时母神;;;;;;;;;;x
+patron_kali;守护神: 迦梨时母;;;;;;;;;;x
 patron_ganesha;守护神: 欢喜天象头神;;;;;;;;;;x
 patron_ganga;守护神: 恒河女神;;;;;;;;;;x
 hold_tiger_hunt;举行猎虎大会;;;;;;;;;;x
@@ -226,8 +226,8 @@ d_bulls_rishabha;勒舍波神牛军;;;;;;;;;;x
 d_bulls_rishabha_adj;勒舍波神牛军;;;;;;;;;;x
 job_spiritual_indian_group;传戒师;;;;;;;;;;x
 title_master_of_the_royal_elephants;王家养象人;;;;;;;;;;x
-title_master_of_the_royal_elephants_desc;王者常在战阵中运用战象左右战局, 除此以外, 大象更是国泰民安, 国家富强的象征. 因此, 王室养象的健康变得十分重要, 而皇家养象人也相对成为相当有名望的职位.;;;;;;;;;;x
-title_royal_builder;皇家建筑师;;;;;;;;;;x
+title_master_of_the_royal_elephants_desc;王者常在战阵中运用战象左右战局, 除此以外, 大象更是国泰民安, 国家富强的象征. 因此, 王室养象的健康变得十分重要, 而王家养象人也相对成为相当有名望的职位.;;;;;;;;;;x
+title_royal_builder;王家建筑师;;;;;;;;;;x
 title_royal_builder_desc;英武之主总爱扩建宫室, 营造新殿. 因此皇家建筑师的职务总能带来声价, 即使他对建筑是一窍不通, 总会有人为他代劳的.;;;;;;;;;;x
 title_court_poet_india;宫廷诗人;;;;;;;;;;x
 title_court_poet_india_desc;诗歌在印度是一门备受尊敬的艺术, 因此宫廷诗人也一直是一个尊贵的称号.;;;;;;;;;;x
@@ -241,7 +241,7 @@ ca_culture_indian_3_desc;在此可以饲养和训练那些可怕的战象.;;;;;;
 ca_culture_indian_4_desc;在此可以饲养和训练那些可怕的战象.;;;;;;;;;;x
 RETTYPE_CUL_INDIAN;铁弓步兵;;;;;;;;;;x
 war_elephant_leader;战象头领;;;;;;;;;;x
-war_elephant_leader_desc;此人精于在战斗中运用大象克敌制胜.;;;;;;;;;;x
+war_elephant_leader_desc;此人精于在战斗中运用大象克敌制胜。;;;;;;;;;;x
 jungle_terrain_leader;丛林战专家;;;;;;;;;;x
 jungle_terrain_leader_desc;此人擅于在丛林中领兵作战.;;;;;;;;;;x
 hold_diwali_feast_hindu;庆祝屠妖节;;;;;;;;;;x
@@ -286,13 +286,13 @@ EVTDESC37011;[From.Liege.GetTitledName]宫廷里的[From.GetBestName]出现在�
 EVTOPTA37011;我想我会同意......;;;;;;;;;;x
 EVTDESC37012;[FromFrom.GetTitledFirstName] 对我拒绝授予 [FromFrom.GetObjectPronoun] 头衔而愤怒, [FromFrom.GetSubjectPronoun] 已经离开我的领地国土, 投靠了 [From.GetTitledName], [FromFrom.GetSubjectPronoun] 还在招兵买马要宣扬他 [FromFrom.GetPossPronoun] 的'正当性'!;;;;;;;;;;x
 EVTOPTA37012;逆贼!;;;;;;;;;;x
-nestorian_DESC;景教是早期基督教的分支，其中指出，基督有两个分离的本质 - 一个神，一个人。这与一性论者认为基督只有一个本质相反。景教教会名义上的领导者是东方的族长。;;;;;;;;;;x
+nestorian_DESC;景教是早期基督教的分支，其中指出，基督有两个分离的本质——神性和人性。这与一性论者认为基督只有一个本质相反。景教教会名义上的领导者是东方牧首。;;;;;;;;;;x
 THE_DEMIURGE;造物主;;;;;;;;;;x
 paulician;保禄教会;;;;;;;;;;x
 paulician_DESC;保禄派是基督教诺斯替异端被摩尼教影响形成，起源于亚美尼亚。在游戏中，它被视为正统的异端。;;;;;;;;;;x
 d_paulician;保禄派牧首;;;;;;;;;;x
 d_paulician_adj;保禄牧首属邦;;;;;;;;;;x
-c_lori_adj;洛利;;;;;;;;;;x
+c_lori_adj;若利;;;;;;;;;;x
 messalian;祷告派;;;;;;;;;;x
 messalian_DESC;祈祷者，或尤奇特斯("祈祷的人")，是源于美索不达米亚的基督教异端，受到二元信仰祆教的影响。祈祷者们相信神可以通过肉体感官所感知，而这种感知必须达到完美。 每个人内心天生就存在魔鬼，只有通过强烈的祈祷才能驱逐. 他们还认为，路西法是上帝的长子并代表善的力量，且自从亚当和夏娃的孩子实践之后，乱伦是神圣的。他们没有正式的仪式，也没有严格的教会阶层。;;;;;;;;;;x
 THE_ASCETICUS;灵修书;;;;;;;;;;x
@@ -308,7 +308,7 @@ expel_order_of_addai_desc;我可以驱逐圣亚戴骑士团, 并收缴他们城�
 donate_money_to_order_of_addai;捐献300¤给圣亚戴骑士团;;;;;;;;;;x
 donate_money_to_order_of_addai_desc;我可以捐赠钱财给圣亚戴骑士团, 以换取虔诚, 并且可以终身得到 [Root.Religion.GetName] 的尊重;;;;;;;;;;x
 EVTTITLE_SOA_2809;圣亚戴骑士团;;;;;;;;;;x
-EVTDESC_SOA_2809;为了保护东方亚述教会的圣地, 大牧首[Root.RelHead.GetTitledName]宣布成立武装修士组成的神圣兄弟会圣亚戴骑士团, 以在叙利亚及美索不达米亚传道的圣徒命名. 骑士团愿以任何提供补给的[Root.Religion.GetName]领主之名, 痛击异教徒与不信者, 申张正义.;;;;;;;;;;x
+EVTDESC_SOA_2809;为了保护景教的圣地, 大牧首[Root.RelHead.GetTitledName]宣布成立武装修士组成的神圣兄弟会圣亚戴骑士团, 以在叙利亚及美索不达米亚传道的圣徒命名。骑士团愿以任何提供补给的[Root.Religion.GetName]领主之名，痛击异教徒与不信者，申张正义。;;;;;;;;;;x
 EVTOPTA_SOA_2809;战无不胜!;;;;;;;;;;x
 EVTOPTB_SOA_2809;更多献身的羔羊!;;;;;;;;;;x
 EVTDESC_SOA_2831;我的[GetFromRelation][From.GetTitledFirstName]要求加入圣亚戴骑士团对抗异教徒, 即使失去继承权亦在所不惜.;;;;;;;;;;x
@@ -342,7 +342,7 @@ EVTOPTA60300;潜在的对手?;;;;;;;;;;x
 EVTOPTA60305;只要他效忠于我, 怎样都好!;;;;;;;;;;x
 EVTDESC60304;在为我主而战时, 我有了一批忠于自己的部下, 他们全都是英勇的骑手. 与其起兵对抗旧主, 倒不如出征, [From.Duchy.GetFullBaseName]. [From.Holder.TopLiege.GetTitledFirstName], 我来了!;;;;;;;;;;x
 EVTNAME60306;铁汗;;;;;;;;;;x
-EVTDESC60306;又一位汗在中亚崛起了, 瘸子帖木儿在当地的突厥化的蒙古部落间湛露头角. 他正要建立足以与成吉思汗匹敌的功业, 不久前他就攻克了 [FromFrom.GetTitledName]. 数以万计熟练的骑手聚集在他麾下!;;;;;;;;;;x
+EVTDESC60306;又一位大汗在中亚崛起了, 瘸子帖木儿在当地的突厥化的蒙古部落间湛露头角. 他正要建立足以与成吉思汗匹敌的功业, 不久前他就攻克了 [FromFrom.GetTitledName]. 数以万计熟练的骑手聚集在他麾下!;;;;;;;;;;x
 EVTOPTA60306;我是再世铁木真!;;;;;;;;;;x
 EVTOPTB60306;他是蒙古人的希望!;;;;;;;;;;x
 EVTOPTC60306;这些马上雄主可真难对付!;;;;;;;;;;x
@@ -632,7 +632,7 @@ EVTDESC_RoI_1178;迦梨是我们的母亲，时间，死亡和黑暗夜晚的女
 EVTOPTA_RoI_1178;我们将牺牲一个囚犯...;;;;;;;;;;x
 EVTOPTB_RoI_1178;我们将在那边牺牲那个仆人。;;;;;;;;;;x
 EVTOPTC_RoI_1178;我们将牺牲10个大象并用血粉刷墙壁。;;;;;;;;;;x
-EVTDESC_RoI_1179;[From.GetFullName] 尖叫着， [From.GetSheHe] 被拖到迦梨的伟大雕像前. 神殿守卫将 [From.GetHerHim] 按倒, 祭司抽出奎师梵剑，刺向 [From.GetHerHim] 身体右侧，并穿过心脏。然后 [From.GetHerHis] 喉咙被割断，他的血液被收集在用人类头骨制成的碗里，传递给客人们饮用。;;;;;;;;;;x
+EVTDESC_RoI_1179;[From.GetFullName]尖叫着，[From.GetSheHe]被拖到迦梨的伟大雕像前。神殿守卫将[From.GetHerHim]按倒，祭司抽出奎师梵剑，刺向[From.GetHerHim]身体右侧，并穿过心脏。然后[From.GetHerHis]喉咙被割断，他的血液被收集在用人类头骨制成的碗里，传递给客人们饮用。;;;;;;;;;;x
 EVTOPTA_RoI_1179;这确实是一个快乐的时刻！;;;;;;;;;;x
 EVTDESC_RoI_1181;仆人尖叫着，他被守卫抓住拖向迦梨的伟大偶前像。神殿守卫在大殿前将他压伏，一个祭司抽出奎师梵剑，从他身体的右侧刺穿了心脏。然后，他的喉咙被切断，血液被收集在人头骨碗中传递给客人们饮用。;;;;;;;;;;x
 EVTTITLE_RoI_1183;用鲜血进行一个庆典;;;;;;;;;;x
@@ -739,7 +739,7 @@ EVTOPTC_RoI_207;又想了想,也许这并不适合我.;;;;;;;;;;x
 EVTDESC_RoI_209;一个裸体的耆那教苦行者到达了你的宫廷,寻找听众. 在你的王座前坐下,他怒斥了你的生活方式,说你罪孽深重,并且告诉你如何通过耆那教的教义获得协调与纯洁.;;;;;;;;;;x
 EVTOPTB_RoI_209;先穿上衣服!;;;;;;;;;;x
 EVTOPTC_RoI_209;说我罪孽深重？你敢！ 卫兵，把他拉出去砍了！;;;;;;;;;;x
-EVTDESC_RoI_210;那个裸体的耆那教苦行者继续谈到了禁欲主义和瑜伽以及如何通过自律和调节追求灵魂上的纯洁.;;;;;;;;;;x
+EVTDESC_RoI_210;那个裸体的耆那教苦行僧继续谈到了禁欲主义和瑜伽以及如何通过自律和调节追求灵魂上的纯洁.;;;;;;;;;;x
 EVTOPTA_RoI_210;你说服了我,我也要开始裸体行走!;;;;;;;;;;x
 EVTOPTB_RoI_210;你很睿智. 我会转信耆那教.;;;;;;;;;;x
 EVTOPTC_RoI_210;又想了想,也许这并不适合我.;;;;;;;;;;x

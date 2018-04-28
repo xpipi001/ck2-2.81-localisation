@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 e_germany;日耳曼尼亚;;;;;;;;;;x
 e_germany_adj;日耳曼;;;;;;;;;;x
 k_lotharingia;中法兰克;;;;;;;;;;x
@@ -149,12 +149,12 @@ EVTNAME107332;教学战役;;;;;;;;;;x
 EVTDESC107332;你也许在法律界面看到过了，某些继承法需要更高的王权等级。而在同一个窗口中，王权法等级代表着你在法律上对封臣有多少权威。包括王权法在内的这种名字隔壁有王冠的法律，君主一生只能更改一次，而且只能一次提升或降低一级。;;;;;;;;;;x
 EVTOPTA107332;了解！;;;;;;;;;;x
 EVTNAME107333;教学战役;;;;;;;;;;x
-EVTDESC107333;你有了一个儿子, 而你第一胎的女儿因为男性优先的性别法彻底失去了继承权. 相应的,你的儿子会在你死后继承你的头衔.;;;;;;;;;;x
+EVTDESC107333;你有了一个儿子，而你第一胎的女儿因为男性优先的性别法彻底失去了继承权。相应的，你的儿子会在你死后继承你的头衔。;;;;;;;;;;x
 EVTOPTA107333;了解！;;;;;;;;;;x
 EVTNAME107334;教学战役;;;;;;;;;;x
 EVTOPTA107334;了解！;;;;;;;;;;x
 EVTNAME107340;教学战役;;;;;;;;;;x
-EVTDESC107340;我们早先提到过宣称.你可以点击角色头像看到你的角色对卡斯蒂利亚和加利西亚王国有宣称. 目前提出宣称进入战争显得不太明智.;;;;;;;;;;x
+EVTDESC107340;我们早先提到过宣称.你可以点击角色头像看到你的角色对卡斯提尔和加利西亚王国有宣称. 目前提出宣称进入战争显得不太明智.;;;;;;;;;;x
 EVTOPTA107340;了解！;;;;;;;;;;x
 EVTNAME107341;教学战役;;;;;;;;;;x
 EVTDESC107341;卡斯蒂利亚的国王正是你的兄弟. 你在喜爱是他的第一继承人. 为了保障你确实能获得他的王国,你可以在他有自己儿子之前去杀他.点击你兄弟头像,你可以点击密谋按钮开始密谋谋杀. 准备一场针对你亲兄弟的密谋..;;;;;;;;;;x
@@ -163,7 +163,7 @@ EVTNAME107342;教学战役;;;;;;;;;;x
 EVTDESC107342;现在你正在酝酿一场密谋, 而你需要其他角色来帮助实现. 你可以在密谋界面查找潜在的同谋. 不是所有潜在同谋都愿意加入你的事业. 但是那些犹豫不决的人,可以通过金钱贿赂来保障他们能帮助你;;;;;;;;;;x
 EVTOPTA107342;了解！;;;;;;;;;;x
 EVTNAME107343;教学战役;;;;;;;;;;x
-EVTDESC107343;刺杀成功,你的兄弟死了..但是你毫无感觉对吧, 因为这就是中世纪的世界. 你现在是莱昂和卡斯蒂利亚两国的共主. 你可以用一样的手段去获得加利西亚王国;;;;;;;;;;x
+EVTDESC107343;刺杀成功,你的兄弟死了..但是你毫无感觉对吧, 因为这就是中世纪的世界. 你现在是莱昂和卡斯提尔两国的共主. 你可以用一样的手段去获得加利西亚王国;;;;;;;;;;x
 EVTOPTA107343;了解！;;;;;;;;;;x
 EVTNAME107344;教学战役;;;;;;;;;;x
 EVTDESC107344;恭喜,又一个兄弟死了,而你成功的恢复了你父亲王国的统一! 主教学关卡就此结束, 但只要 [Root.GetTitledFirstName] 还或者,你就还能接受到关于游戏的合适信息. 你现在知道如何生存和扩张, 但仍有许多内容需要靠你去发现和掌握.(去尝试其他的教学关卡, 或通过实践学习..) 祝你好运,弑君者!;;;;;;;;;;x
@@ -227,7 +227,7 @@ EVTOPTA_CM_8;音有转移;;;;;;;;;;x
 EVTDESC_CM_9;在对外贸易以及西哥特文化的影响之下, 全新的文化传统在苏维汇人间传播开来. 这种情形在 [Root.GetName] 郡尤为明显, 那儿的人民称自己为葡萄牙人.;;;;;;;;;;x
 EVTOPTA_CM_9;时有古今,音有转移;;;;;;;;;;x
 EVTDESC_CM_10;穆斯林西班牙的多元社会正在产生一种全新的文化认同. 因此, [Root.GetName] 郡的民众开始称自己为安达卢西亚人.;;;;;;;;;;x
-EVTOPTA_CM_10;这才是西班牙!;;;;;;;;;;x
+EVTOPTA_CM_10;这才是西班牙！;;;;;;;;;;x
 TRIGGER_DYNASTY_HEAD;家族领袖;;;;;;;;;;x
 NUM_OF_MAX_SETTLEMENTS_AT_LEAST;最大地产至少 §Y$VAL$§!;;;;;;;;;;x
 NUM_OF_MAX_SETTLEMENTS_LESS_THAN;最大地产少于 §Y$VAL$§!;;;;;;;;;;x
@@ -257,8 +257,8 @@ HINT_REL_VIEW_TEXT_3_CHRISTIAN;许多基督教信仰中都同时存在宗教领�
 HINT_REL_VIEW_TEXT_4_CHRISTIAN;圣像破坏教会最初不存在牧首。但是教会如果控制了君士坦丁堡，就可以建立起自己的牧区。同时，拜占庭帝国的正教统治者可以控制五大牧区以修复东西教会分裂。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_3_CHRISTIAN_NOHEAD;有些基督教异端不存在宗教领袖，如清洁派、瓦勒度派、罗拉德派、波各米勒派和祷告派。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_4_CHRISTIAN_NOHEAD;在这些宗教中，清洁派甚至允许女性担任牧师。而祷告派不仅允许女性牧师，还与祆教一样允许近亲婚姻。;;;;;;;;;;x
-HINT_REL_VIEW_TEXT_3_CATHOLIC;与其他宗教不同的是，天主教会认为教宗是上帝在地上的代行人。他比其他宗教领袖宗教的宗教领袖拥有更多的权利。不过，如果一个主教对教宗的忠诚超过对他们世俗领主的忠诚，他们将会把税交到罗马城。解决这个问题的一个方法是设立伪教宗。他会是对领主言听计从的傀儡。;;;;;;;;;;x
-HINT_REL_VIEW_TEXT_4_CATHOLIC;另一个确保主教对你有好感的方法是降低王权法，或者使用自由绶职法来指定忠于你的主教。;;;;;;;;;;x
+HINT_REL_VIEW_TEXT_3_CATHOLIC;与其他宗教不同的是，天主教会认为教宗是上帝在地上的代行人。他比其他宗教领袖宗教的宗教领袖拥有更多的权利。如果一个主教对教宗的忠诚超过对他们世俗领主的忠诚，他们将会把税交到罗马城。解决这个问题的一个方法是设立对立教宗。他会是对领主言听计从的傀儡。;;;;;;;;;;x
+HINT_REL_VIEW_TEXT_4_CATHOLIC;另一个确保主教对你有好感的方法是降低王权法，或者使用自由授职法来指定忠于你的主教。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_3_ZOROASTRIAN;祆教统治者可以通过近亲婚姻来巩固王朝统治并取悦封臣。祆教徒对习惯于近亲结婚并对生出先天缺陷的婴儿更有抗性，但是风险仍旧存在。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_4_ZOROASTRIAN;祆教大祭司已经消失很久，但只要波斯帝国重新被祆教统治者统治，这一职位就能被再次任命。;;;;;;;;;;x
 HINT_REL_VIEW_TEXT_3_INDIAN;印度宗教没有宗教领袖，他们的教徒或多或少能够接纳其他印度宗教。而且印度宗教互相之间可以征讨，有一些还可以对非印度宗教进行圣战。;;;;;;;;;;x
@@ -284,7 +284,7 @@ FILTER_NOT_SAME_CUL_GROUP;不同文化组;;;;;;;;;;x
 irminsul_destroyed;伊尔明索被毁;;;;;;;;;;x
 WIDUKIND_ARMY;萨克森叛乱;;;;;;;;;;x
 c_chandax_adj_greek;哥提那;;;;;;;;;;x
-c_chandax_adj_italian;哥提那;;;;;;;;;;x
+c_chandax_adj_italian;戈尔图恩;;;;;;;;;;x
 TITLE_CREATION_TEMPORARY_TITLE;临时头衔所有者及其封臣不可以创建头衔.;;;;;;;;;;x
 TEMP_T_HOLDER_CANT_DESTROY_T;临时头衔所有者及其封臣不可以收回头衔.;;;;;;;;;;x
 EVTTITLE_CM_1000;国家分裂;;;;;;;;;;x
@@ -338,7 +338,7 @@ EVTDESC_CM_1104;在萨克森战争中,你抓获了许多囚徒,包括一些出�
 EVTOPTA_CM_1104;全砍头了!;;;;;;;;;;x
 EVTOPTB_CM_1104;即便对异教徒,我也应当仁慈对待.;;;;;;;;;;x
 EVTTITLE_CM_1105;威德金特;;;;;;;;;;x
-EVTDESC_CM_1105;萨克森人毫无意义的坚持他们的传统. 不满之声在被击败征服的异教萨克森土地上蔓延. 攻击税收人员,不履行教会义务, 所有这些事情都虽都不严重,但仍然引得新统治者不快. 但事情还是有了变化. 一个叛军头领站了出来, 联合各地萨克森叛军. 他称自己是威德金特, 意思是"森林之子". 这不仅仅迎合了原本异教传说,还与他的战术吻合. 每过一天他的部队就壮大一分..;;;;;;;;;;x
+EVTDESC_CM_1105;萨克森人毫无意义的坚持他们的传统。不满之声在被击败征服的异教萨克森土地上蔓延。攻击税收人员，不履行教会义务，所有这些事情都虽都不严重，但仍然引得新统治者不快。但事情还是有了变化。一个叛军头领站了出来，联合各地萨克森叛军。他称自己是威德金特，意思是「森林之子」。这不仅仅迎合了原本异教传说，还与他的战术吻合。每过一天他的部队就壮大一分……;;;;;;;;;;x
 EVTOPTA_CM_1105;这些萨克森硬骨头!;;;;;;;;;;x
 EVTTITLE_CM_1108;受洗;;;;;;;;;;x
 EVTDESC_CM_1108;我的大人, 您的旧敌萨克森的维杜金德发来消息. 他不仅承认您兵强马壮, 并且您所信仰的基督教具有优越性. 他要求前往您的宫廷以便受洗成为基督徒. 他希望和您媾和, 为了您的慷慨, 他将成为您永远忠心的仆人并恪守 [Root.Religion.GetName] 的信条.;;;;;;;;;;x
@@ -347,22 +347,22 @@ EVTOPTB_CM_1108;邀请他来,再杀了他.;;;;;;;;;;x
 EVTOPTC_CM_1108;这种要求,我都不想理.;;;;;;;;;;x
 EVTTITLE_CM_501;阿瓦尔的陨落;;;;;;;;;;x
 EVTDESC_CM_501;阿瓦尔汗国在公元567年定居在了喀尔巴阡盆地，并在欧陆站稳了脚跟。他们击败了格皮德人,又与伦巴第人联盟，成为了当地一霸。长久以来他们不断与东罗马作战，同时又与伦巴第的国王交好。但现在，他们一度伟大的国度没落了。这片地区不再受阿瓦尔人统治，回归了古代的名字，潘诺尼亚。;;;;;;;;;;x
-EVTOPTA_CM_501;三呼 [Root.GetTitle] 万岁!;;;;;;;;;;x
+EVTOPTA_CM_501;向[Root.GetTitle]致敬！;;;;;;;;;;x
 EVTOPTB_CM_501;哀哉;;;;;;;;;;x
 EVTOPTC_CM_501;世间繁华逝如斯;;;;;;;;;;x
 EVTTITLE_CM_502;意大利王国;;;;;;;;;;x
 EVTDESC_CM_502;古代的伦巴第人从北境迁徙至意大利，最终建立了伦巴第王国。这一路上，伦巴第人与居住之地互相影响。如今,意大利的伦巴第国土不再受伦巴第人的统治，伦巴第人的王国名存实亡。自然我们将称其意大利王国，然而伦巴第人的遗产也会流传下去……;;;;;;;;;;x
-EVTOPTA_CM_502;三呼 [Root.GetTitle] 万岁!;;;;;;;;;;x
+EVTOPTA_CM_502;向[Root.GetTitle]致敬！;;;;;;;;;;x
 EVTOPTB_CM_502;它将继续延续!;;;;;;;;;;x
 EVTOPTC_CM_502;世间繁华逝如斯;;;;;;;;;;x
 PICK_YOUR_STARTING_ERA;选择开始时期;;;;;;;;;;x
-PICK_STARTING_ERA_TEXT;王国风云II纵跨历史近七百年. 选择一个时间点开始游戏;;;;;;;;;;x
+PICK_STARTING_ERA_TEXT;王国风云II纵跨历史近七百年，选择一个时间点开始游戏。;;;;;;;;;;x
 DARK_AGES;中世纪早期;;;;;;;;;;x
 DARK_AGES_INFO;中世纪早期始于5世纪西罗马的毁灭。这一时期早期伴随着日耳曼和斯拉夫民族跨越欧洲的迁徙。这些民族里包括在南部欧洲定居的哥特人和伦巴第人，在高卢定居的法兰克人，渡海占领不列颠的萨克森人。与此同时，东罗马受到哥特人与阿瓦人的威胁，又与古老的波斯敌人苦战。伊斯兰教的崛起让阿拉伯人横扫中东与北非、征服大量的土地。而在东方的印度，数个大王朝为了曲女城的支配权展开了激烈的竞争，其中包括8世纪末崛起的罗湿陀罗拘陀。而在草原上，可萨人崭露头角；在斯堪的纳维亚，一股撼动世界的力量还未成熟……;;;;;;;;;;x
 VIKING_ERA;维京时代;;;;;;;;;;x
 VIKING_ERA_INFO;9世纪中叶，一群来自北境被称作维京人的掠夺者和冒险者在欧洲版图上留下了不可磨灭的痕迹。他们在俄罗斯、不列颠群岛建立国家，步伐远及黑海和地中海。查理曼的后人、加罗林王朝的统治者们在法兰西、日耳曼和意大利统治着强大的国度，与此同时，在伍麦叶王朝治下，穆斯林的信仰深深地扎根在西班牙的土地上。拜占庭的皇帝在哈里发与保加利亚人的双重压力下仍坚守着。马扎尔人为了争夺喀尔巴阡盆地而蓄势待发。伊斯兰教在萨法尔王朝等君主的统治下快速传遍了波斯，并逐渐渗透进印度河谷。再往东，印度教的瞿折罗-波罗提诃罗王朝在不断扩张。;;;;;;;;;;x
 EARLY_MED;中世纪盛期;;;;;;;;;;x
-EARLY_MED_INFO;10世纪末至11世纪初，穆斯林世界经历着巨大变动——塞尔柱、伽色尼等突厥王朝控制着波斯。拜占庭帝国仍然坚守着国土，但可以预料到更差的境况正在到来。中欧和西欧被法兰西和强盛的神圣罗马帝国所瓜分，与此同时，基督教诸王正着手向分崩离析而虚弱的西班牙穆斯林发起进攻。斯堪的纳维亚迅速地皈依了基督教，而在俄罗斯和不列颠定居的诺斯人也逐渐与当地居民同化。然而，在诺曼底和西西里的维京人后裔仍在准备着新的征服。第一次十字军东征也即将到来……;;;;;;;;;;x
+EARLY_MED_INFO;10世纪末至11世纪初，穆斯林世界经历着巨大变动——塞尔柱、伽色尼等突厥王朝控制着波斯。拜占庭帝国仍然坚守着国土，但可以预料到更差的境况正在到来。中欧和西欧被法兰西和强盛的神圣罗马帝国所瓜分，与此同时，基督教诸王正着手向分崩离析而虚弱的西班牙穆斯林发起进攻。斯堪的纳维亚迅速地皈依了基督教，而在俄罗斯和不列颠定居的诺斯人也逐渐与当地居民同化。然而，在诺曼底和西西里的维京人后裔仍在准备着新的征服。第一次十字军远征也即将到来……;;;;;;;;;;x
 HIGH_MED;蒙古时代;;;;;;;;;;x
 HIGH_MED_INFO;当欧洲进入13世纪，君士坦丁堡已被突厥人削弱，又经历了第四次十字军的血洗，拜占庭已是强弩之末。突厥人仍然统治着中东和波斯；而在印度，随着旧王朝的衰落，许多新的王国崛起并激烈地争夺权力。诺曼征服为英格兰和法兰西带来了新的政治与王室冲突；西班牙的基督教国家继续成长；斯堪的纳维亚彻底摒弃了原始宗教、中央集权不断加强。在俄罗斯，几个大公国在东边的保加尔人与库曼人的威胁下争权夺利。在日耳曼和意大利，神圣罗马帝国仍然稳若泰山。但在这一切之外，一股新的力量在东方正准备登场——当蒙古人策马扬鞭进入东欧和波斯，他们将颠覆整个欧亚大陆西部的力量平衡……;;;;;;;;;;x
 LATE_MED;中世纪晚期;;;;;;;;;;x
@@ -435,36 +435,36 @@ ca_culture_suebi_4;自由勇士营;;;;;;;;;;x
 ca_culture_suebi_1_desc;在苏维汇的自由人中,勇士传统自古有着崇高的意义. 这些快速灵活的勇士在这里学习如何运用长矛,盾和斧,以备战事.;;;;;;;;;;x
 RETTYPE_CUL_FRA;法兰克重装步兵;;;;;;;;;;x
 RETTYPE_CUL_LOM;伦巴第重装步兵;;;;;;;;;;x
-duchy_of_norse;首领地;;;;;;;;;;x
-duke_finnish_pagan;酋长;;;;;;;;;;x
-duke_female_finnish_pagan;女酋长;;;;;;;;;;x
-duke_finnish_pagan_reformed;酋长;;;;;;;;;;x
-duke_female_finnish_pagan_reformed;女酋长;;;;;;;;;;x
-duchy_of_finnish_pagan;部落;;;;;;;;;;x
-duchy_of_finnish_pagan_reformed;部落;;;;;;;;;;x
-duke_baltic_pagan;酋长;;;;;;;;;;x
-duke_female_baltic_pagan;女酋长;;;;;;;;;;x
-duke_baltic_pagan_reformed;酋长;;;;;;;;;;x
-duke_female_baltic_pagan_reformed;女酋长;;;;;;;;;;x
-duchy_of_baltic_pagan;部落;;;;;;;;;;x
-duchy_of_baltic_pagan_reformed;部落;;;;;;;;;;x
-duke_tengri_pagan;酋长;;;;;;;;;;x
-duke_female_tengri_pagan;女酋长;;;;;;;;;;x
-duke_tengri_pagan_reformed;酋长;;;;;;;;;;x
-duke_female_tengri_pagan_reformed;女酋长;;;;;;;;;;x
-duke_slavic_pagan;酋长;;;;;;;;;;x
-duke_female_slavic_pagan;女酋长;;;;;;;;;;x
-duke_slavic_pagan_reformed;酋长;;;;;;;;;;x
-duke_female_slavic_pagan_reformed;女酋长;;;;;;;;;;x
-duchy_of_slavic_pagan;部落;;;;;;;;;;x
-duchy_of_slavic_pagan_reformed;部落;;;;;;;;;;x
-tribal_duke_old_saxon;酋长;;;;;;;;;;x
-tribal_duke_female_old_saxon;女酋长;;;;;;;;;;x
-tribal_duchy_of_old_saxon;部落;;;;;;;;;;x
+duchy_of_norse;雅尔国;;;;;;;;;;x
+duke_finnish_pagan;大酋长;;;;;;;;;;x
+duke_female_finnish_pagan;女大酋长;;;;;;;;;;x
+duke_finnish_pagan_reformed;大酋长;;;;;;;;;;x
+duke_female_finnish_pagan_reformed;女大酋长;;;;;;;;;;x
+duchy_of_finnish_pagan;大酋邦;;;;;;;;;;x
+duchy_of_finnish_pagan_reformed;大酋邦;;;;;;;;;;x
+duke_baltic_pagan;大酋长;;;;;;;;;;x
+duke_female_baltic_pagan;女大酋长;;;;;;;;;;x
+duke_baltic_pagan_reformed;大酋长;;;;;;;;;;x
+duke_female_baltic_pagan_reformed;女大酋长;;;;;;;;;;x
+duchy_of_baltic_pagan;大酋邦;;;;;;;;;;x
+duchy_of_baltic_pagan_reformed;大酋邦;;;;;;;;;;x
+duke_tengri_pagan;大酋长;;;;;;;;;;x
+duke_female_tengri_pagan;女大酋长;;;;;;;;;;x
+duke_tengri_pagan_reformed;大酋长;;;;;;;;;;x
+duke_female_tengri_pagan_reformed;女大酋长;;;;;;;;;;x
+duke_slavic_pagan;大酋长;;;;;;;;;;x
+duke_female_slavic_pagan;女大酋长;;;;;;;;;;x
+duke_slavic_pagan_reformed;大酋长;;;;;;;;;;x
+duke_female_slavic_pagan_reformed;女大酋长;;;;;;;;;;x
+duchy_of_slavic_pagan;大酋邦;;;;;;;;;;x
+duchy_of_slavic_pagan_reformed;大酋邦;;;;;;;;;;x
+tribal_duke_old_saxon;大酋长;;;;;;;;;;x
+tribal_duke_female_old_saxon;女大酋长;;;;;;;;;;x
+tribal_duchy_of_old_saxon;大酋邦;;;;;;;;;;x
 tribal_king_old_saxon;大酋长;;;;;;;;;;x
 tribal_king_female_old_saxon;女大酋长;;;;;;;;;;x
 tribal_kingdom_of_old_saxon;大部落;;;;;;;;;;x
-tribal_duke_norse;首领;;;;;;;;;;x
+tribal_duke_norse;雅尔;;;;;;;;;;x
 k_saxony;萨克森;;;;;;;;;;x
 RETTYPE_CUL_PICTISH;皮克特劫掠者;;;;;;;;;;x
 ca_culture_pictish_1;战争大厅;;;;;;;;;;x
@@ -1156,8 +1156,8 @@ d_pskov_adj;普斯科夫;;;;;;;;;;x
 tribal_emperor_altaic;可汗;;;;;;;;;;x
 tribal_emperor_female_altaic;可敦;;;;;;;;;;x
 tribal_empire_of_altaic;可汗国;;;;;;;;;;x
-tribal_king_altaic;汗;;;;;;;;;;x
-tribal_king_female_altaic;可敦;;;;;;;;;;x
+tribal_king_altaic;汗王;;;;;;;;;;x
+tribal_king_female_altaic;汗努;;;;;;;;;;x
 tribal_kingdom_of_altaic;汗国;;;;;;;;;;x
 tribal_king_arabic;苏丹;;;;;;;;;;x
 tribal_king_female_arabic;苏丹娜;;;;;;;;;;x

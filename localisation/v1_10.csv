@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 EVTDESC6350;我刚躺着床上时，我最爱的猫突然叫了起来，把我给闹醒了.我的卧室好像有生命似的，从墙壁里传来一阵又一阵搔抓，乱窜的声音.我从床上弹了起来，但声音马上就消失了，随后的调查却什么都没有发现，依然是只有一堵石墙在那.;;;;;;;;;;x
 EVTOPTA6350;可能是有一只大老鼠在墙里面;;;;;;;;;;x
 EVTOPTB6350;只是一个梦而已;;;;;;;;;;x
@@ -31,7 +31,7 @@ EVTOPTB6358;笨蛋! 我把你们都救了!;;;;;;;;;;x
 LOWER_RELATIVE_POWER;军队数少于 §Y$VAL$%§! of §Y$OTHER$§!.;;;;;;;;;;x
 HIGHER_RELATIVE_POWER;军队数至少是 §Y$VAL$%§! of §Y$OTHER$§!.;;;;;;;;;;x
 TRIBAL_TITLE_DESTROYED_SETUP;放弃部落头衔;;;;;;;;;;x
-TRIBAL_TITLE_DESTROYED_LOG;放弃 '§Y$TITLE$§!'部落的头衔.;;;;;;;;;;x
+TRIBAL_TITLE_DESTROYED_LOG;放弃「§Y$TITLE$§!」部落的头衔.;;;;;;;;;;x
 TRIBAL_TITLE_DESTROYED_LETTER;没有理由在正式场合去使用 '§Y$TITLE$§!' 这个头衔了，它听上去是多么的原始，是时候该放弃了.;;;;;;;;;;x
 killed_an_old_one;弑神者;;;;;;;;;;x
 alert_can_reform_religion_name;§Y宗教可以改革§!;;;;;;;;;;x
@@ -104,8 +104,8 @@ TOGGLE_LOOTER;转换成劫掠模式;;;;;;;;;;x
 REL_AUTHORITY_CHANGE;§Y$RELIGION$§!: $PERC$  宗教权威 §Y$TIME$§! $TIMEUNIT$.\n;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION;§Y$RELIGION$§!信仰认为§Y$HOLDING$§!是一处圣地;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION_2;他们控制了这块土地;;;;;;;;;;x
-IS_HOLY_ORDER;是骑士团;;;;;;;;;;x
-IS_NOT_HOLY_ORDER;不是骑士团;;;;;;;;;;x
+IS_HOLY_ORDER;是圣战士;;;;;;;;;;x
+IS_NOT_HOLY_ORDER;不是圣战士;;;;;;;;;;x
 opinion_looted;我的土地遭到劫掠;;;;;;;;;;x
 opinion_heir_guardian_my_culture;用正确的文化去教导继承人;;;;;;;;;;x
 opinion_heir_guardian_foreign_culture;用外国的文化去教导继承人;;;;;;;;;;x
@@ -385,7 +385,7 @@ GOD_SVAROG;斯瓦罗格;;;;;;;;;;x
 GOD_TRIGLAV;特里格拉夫;;;;;;;;;;x
 nick_whiteshirt;白衬衫;;;;;;;;;;x
 nick_the_bald;秃头;;;;;;;;;;x
-nick_fairhair;金发者;;;;;;;;;;x
+nick_fairhair;金发;;;;;;;;;;x
 nick_lodbrok;洛德布洛克;;;;;;;;;;x
 nick_the_boneless;无骨者;;;;;;;;;;x
 nick_snake_in_the_eye;蛇眼;;;;;;;;;;x
@@ -427,12 +427,12 @@ EVTDESC_TOG_1050;更多来自 [Root.Culture.GetName] 的叛乱者已经在 [Root
 EVTDESC_TOG_1051;更多 [From.Culture.GetName] 叛军已经拿起武器 在 [From.GetName]	加入了重建 [From.Kingdom.GetFullBaseName] 的战斗中!;;;;;;;;;;x
 EVTDESC_TOG_1201;关于我的消息已经到达宫中，[From.GetTitledFirstName]正在聘请别人攻击我!;;;;;;;;;;x
 EVTOPTA_TOG_1201;我的天	我希望[From.GetSheHe]不是一场意外.;;;;;;;;;;x
-EVTDESC_TOG_1203;在多年的精心准备后， [From.GetDynName] 已经组织起了一支庞大的，由流亡者，雇佣兵等组成的军队，宣称对 [From.GetPossPronoun] 的意图，并利用暴力迫使 [From.GetPossPronoun] 就范.;;;;;;;;;;x
+EVTDESC_TOG_1203;在多年的精心准备后，[From.GetDynName]已经组织起了一支庞大的，由流亡者、雇佣兵等组成的军队，宣称[From.GetPossPronoun]意图，并动用武力以公开[From.GetPossPronoun]宣称。;;;;;;;;;;x
 EVTDESC_TOG_1204;经过数年的精密筹划	[FromFrom.GetDynName] 来自 [From.GetTitledName] 的宫廷 已经拉起了一支由浪人 雇佣军 和野心家组成的庞大军队	宣布 [FromFrom.GetPossPronoun] 意图 要武力实现 [FromFrom.GetPossPronoun] 的宣称.;;;;;;;;;;x
 EVTOPTA_TOG_1203;呃...祝他好运!;;;;;;;;;;x
 EVTDESC_TOG_1211;我已经收到信息，一个叫 [From.GetTitledFirstName]的有抱负的冒险者正在组织部队进攻我的领土！;;;;;;;;;;x
 EVTOPTA_TOG_1211;我想到了刺杀...;;;;;;;;;;x
-EVTDESC_TOG_1213;在多年的精心准备后， [From.GetDynName] 已经组建出了一支庞大的，由流亡者，雇佣兵等组成的军队，宣布进军 [From.GetPossPronoun] 的意向，建立属于[From.GetPossPronoun] 的地盘...;;;;;;;;;;x
+EVTDESC_TOG_1213;在多年的精心准备后，[From.GetDynName]已经组建出了一支庞大的，由流亡者、雇佣兵等组成的军队，宣布[From.GetPossPronoun]进军意向，建立属于[From.GetPossPronoun]地盘……;;;;;;;;;;x
 EVTDESC_TOG_1214;经过数年的精密筹划	[FromFrom.GetDynName] 来自 [From.GetTitledName] 的宫廷 已经拉起了一支由浪人 雇佣军 和野心家组成的庞大军队	宣布 [FromFrom.GetPossPronoun] 意图 要出走 并析置出一块 [FromFrom.GetPossPronoun] 自己的领地...;;;;;;;;;;x
 AT_PEACE_PRESTIGE_LOSS;处于和平 (§Y$MONTHS$§! 个月): §R$PRESTIGE$§!;;;;;;;;;;x
 alert_at_peace_prestige_loss_name;长期和平;;;;;;;;;;x
@@ -451,7 +451,7 @@ temple_count_norse_pagan_reformed;赛义德;;;;;;;;;;x
 temple_count_female_norse_pagan;瓦拉;;;;;;;;;;x
 temple_count_female_norse_pagan_reformed;瓦拉;;;;;;;;;;x
 temple_baron_female_pagan_group;女祭司;;;;;;;;;;x
-job_spiritual_zoroastrian_group;摩伯特;;;;;;;;;;x
+job_spiritual_zoroastrian_group;穆贝德;;;;;;;;;;x
 temple_baron_zoroastrian;荷伯;;;;;;;;;;x
 temple_barony_zoroastrian;瓦朗;;;;;;;;;;x
 temple_barony_of_zoroastrian;瓦朗;;;;;;;;;;x
@@ -491,11 +491,11 @@ PROV1047;易北河;;;;;;;;;;x
 PROV1048;易北河;;;;;;;;;;x
 PROV1049;易北河;;;;;;;;;;x
 PROV1050;易北河;;;;;;;;;;x
-PROV1051;维斯图拉河;;;;;;;;;;x
-PROV1052;维斯图拉河;;;;;;;;;;x
-PROV1053;维斯图拉河;;;;;;;;;;x
-PROV1054;维斯图拉河;;;;;;;;;;x
-PROV1055;维斯图拉河;;;;;;;;;;x
+PROV1051;维斯瓦河;;;;;;;;;;x
+PROV1052;维斯瓦河;;;;;;;;;;x
+PROV1053;维斯瓦河;;;;;;;;;;x
+PROV1054;维斯瓦河;;;;;;;;;;x
+PROV1055;维斯瓦河;;;;;;;;;;x
 PROV1056;德涅斯特河;;;;;;;;;;x
 PROV1057;德涅斯特河;;;;;;;;;;x
 PROV1058;多瑙河;;;;;;;;;;x
@@ -543,7 +543,7 @@ PROV1099;伏尔加河;;;;;;;;;;x
 PROV1100;伏尔加河;;;;;;;;;;x
 PROV1101;伏尔加河;;;;;;;;;;x
 PROV1102;奥卡河;;;;;;;;;;x
-PROV1103;奥卡河;;;;;;;;;;x
+PROV1103;伏尔加河;;;;;;;;;;x
 PROV1104;奥卡河;;;;;;;;;;x
 PROV1105;伏尔加河;;;;;;;;;;x
 PROV1106;伏尔加河;;;;;;;;;;x
@@ -636,8 +636,8 @@ muslim_county_conquest_desc;穆斯林可以以 §Y50§! 虔诚，不需任何理
 viking_invasion_desc;诺斯信仰能宣布将任意法理王国内足够强大的势力作为入侵目标. 这将使得他们通过冒险家们来提高等级，但他们必须在两年内发动攻击.;;;;;;;;;;x
 pagan_holy_war_desc;改革后的原始宗教可以以§Y100§! $PIETYNAME$，用这个理由来夺取其他法理公国中的异教徒头衔.;;;;;;;;;;x
 CANNOT_PLAY_PAGAN_WITHOUT_DLC;你没有安装逝往神灵DLC，不能使用原始宗教或祆教国家;;;;;;;;;;x
-NOT_ALLOWED_PAGAN;不能玩§Y原始宗教和祆教§!，因为你没有安装逝往神灵DLC!;;;;;;;;;;x
-NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$§!不能玩§Y原始宗教或祆教§!，因为没有安装逝往神灵DLC;;;;;;;;;;x
+NOT_ALLOWED_PAGAN;没有逝往神灵DLC，你不能扮演§Y原始宗教或祆教§!！;;;;;;;;;;x
+NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$§!没有逝往神灵DLC，不能扮演§Y原始宗教或祆教§!角色;;;;;;;;;;x
 RD_NOT_PLAYABLE_WITHOUT_PAGAN_DLC;没有安装逝往神灵DLC 不能使用原始宗教和祆教;;;;;;;;;;x
 PREPARE_INVASION_INTERACTION_TITLE;准备入侵;;;;;;;;;;x
 PREPARE_INVASION_INTERACTION_DESC;准备入侵一个独立领主;;;;;;;;;;x
@@ -770,7 +770,7 @@ EVTDESC413;命运向我微笑，我的侍妾[From.GetFirstName]怀孕了!;;;;;;;
 EVTTOOLTIP413;告诉[Root.FatherOfUnborn.GetFirstName] 他将成为父亲;;;;;;;;;;x
 SEARCH_COURT;搜索宫廷;;;;;;;;;;x
 HINT_MIL_VIEW_TEXT_4;'圣战士' 标签页列出了伟大的宗教圣战士.他们能够像雇佣军那样雇佣，但是召集它将花费[Player.Religion.GetPietyName]而不是金钱，但你还是要支付他们的维护费.圣战士的出现以他们历史上的时间为基准.;;;;;;;;;;x
-LOADING_TIP_12;骑士团只能与异端和异教徒战斗.在战斗中小心使用他们！;;;;;;;;;;x
+LOADING_TIP_12;圣战士只能与异端和异教徒战斗。在战斗中小心使用他们！;;;;;;;;;;x
 EVTDESC62300;你对抗 [From.GetTitledName]的入侵计划不再有可能性.入侵在它开始前就已经失败了....;;;;;;;;;;x
 EVTOPTA62300;奥丁恕罪!;;;;;;;;;;x
 EVTDESC62310;你等待时间太久了而不能发动你对抗[From.GetTitledName]的入侵计划! 心怀不满而满怀希望的战士们往你的旗帜聚集寻找更好的机遇.;;;;;;;;;;x
@@ -797,7 +797,7 @@ EVTDESC_TOG_002;诺夫哥罗德在蒙古战士暴风雨般的战斗下陷落，�
 EVTNAME_TOG_003;克拉科夫陷落;;;;;;;;;;x
 EVTDESC_TOG_003;蒙古军队越过了维斯瓦河向波兰腹地不断推进.克拉科夫被这群富有经验的战士攻破了，据说在晚上城里熊熊燃烧的大火从地平线的那一边都能看到.;;;;;;;;;;x
 EVTNAME_TOG_004;亚琛陷落;;;;;;;;;;x
-EVTDESC_TOG_004;亚琛	先前查理曼的加洛林王朝帝国竖都已经在蒙古人大军的阴影中沦陷.他的灵魂肯定在为城墙下被残酷打击所击倒的虚弱农民而哭泣.;;;;;;;;;;x
+EVTDESC_TOG_004;亚琛——先前查理曼的加洛林王朝帝国旧都已经在蒙古人大军的阴影中沦陷。他的灵魂肯定在为城墙下被残酷打击所击倒的虚弱农民而哭泣。;;;;;;;;;;x
 EVTNAME_TOG_005;巴黎陷落;;;;;;;;;;x
 EVTDESC_TOG_005;就像蝗虫群一般	无法阻挡的蒙古人蜂拥入巴黎并洗劫了城市.尚未竣工的巴黎圣母院很快被置于火海，伴随着着城市剩余部分的火光，蒙古战士们不断地掠夺和屠杀.;;;;;;;;;;x
 EVTNAME_TOG_006;伦敦陷落;;;;;;;;;;x
@@ -878,52 +878,52 @@ EVTOPTX_TOG_501;我苛刻的而又必要的行动.;;;;;;;;;;x
 EVTOPTY_TOG_501;我跟随的恶魔必须被聆听.;;;;;;;;;;x
 EVTOPTZ_TOG_501;我的基督教信仰.;;;;;;;;;;x
 EVTNAME_TOG_510;纪念[Root.Father.GetFirstName];;;;;;;;;;x
-EVTDESC_TOG_510;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他曾拥有美好的人生最终寿终正寝.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_511;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他在和敌人的战斗中英勇牺牲	战斧还牢牢的握在手里.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_512;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他没有光明正大的在战场上死去	取而代之的是懦弱的刽子手.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_513;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他被残暴的敌人冷血的谋杀了.愿杀手将得到公正的裁决.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_515;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他因一场意外事故不幸离开了人世.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_516;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他的生命在黑暗的地牢里枯萎了	远离尘世但并没被人忘记.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_517;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他在人生的终点试图去侍奉古神.愿他们能经受他的存在这样我们就不必如此.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_518;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他的事迹已无可言，他的灵魂已无恩赐. 特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_519;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.这可怜人是自杀的.愿他获得了安息.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_520;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他曾拥有美好的人生离开的尘世之时也安宁祥和.他的离去是寿命到了，[Root.GetFirstName]确实什么办法都没有.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_521;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Father.GetFirstName]特立此石	[Root.GetHerHis]父亲和[Root.Father.Father.GetFirstName]的儿子.他是一名尽职的父亲和丈夫	拥有美好的人生.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_530;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她曾拥有美好的人生最终寿终正寝.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_531;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她的人生被懦弱的刽子手给终结了，仅因为一些鸡毛蒜皮的事情.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_532;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她被残暴的敌人冷血的谋杀了.愿杀手将得到公正的裁决.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_534;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她因一场不幸的意外事故而提前离开了人世.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_535;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她的生命在黑暗的地牢里枯萎了	远离尘世但并没被人忘记.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_536;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她在人生的终点试图去侍奉古神.愿他们能经受他的存在这样我们就不必如此.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_537;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.这可怜人是自杀的.愿她获得了安息.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_538;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她曾拥有美好的人生离开的尘世之时也安宁祥和.她的离去是寿命到了，[Root.GetFirstName]确实什么办法都没有.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_539;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]为了纪念[Root.Mother.GetFirstName]特立此石	[Root.GetHerHis]母亲和[Root.Mother.Mother.GetFirstName]的女儿.她是一名尽职的母亲和妻子	拥有美好的人生.特以立碑纪念.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
+EVTDESC_TOG_510;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，即[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他生前过着美好的生活，并且寿终正寝。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_511;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他在与敌人的战斗中英勇牺牲，死前他还牢牢地握住他的战斧。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_512;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他没能在战场拼杀中公平战死，而是被懦弱的刽子手所杀害。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_513;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他被妒嫉着他的冷血敌人谋杀了。但愿有一天凶手能够得到公正的裁决。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_515;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他在大限将至之前便死于一场不幸的意外事故。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_516;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他的生命在黑暗的地牢里枯萎了，虽然他远离尘世，但他并没有被人忘记。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_517;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，即[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他在人生的终点努力去侍奉古神。但愿他们容许他的灵魂而我们不用。能够此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_518;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他在一场史诗般的决斗中不幸英年早逝，这将被长久铭记。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_519;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。这个可怜的人亲手结束了自己的生命。但愿他死后能够得到他生前未能得到的安息。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_520;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]父亲，[Root.Father.Father.GetFirstName]的儿子。他生前过着美好的生活，并且寿终正寝。他的离世是大限已至了，而且[Root.GetFirstName]对此无能为力。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_521;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Mother.GetFirstName]，即[Root.GetHerHis]父亲，[Root.Mother.Mother.GetFirstName]的儿子。他是一位体贴的父亲兼丈夫，并且过着美好的生活。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_530;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Mother.GetFirstName]，即[Root.GetHerHis]母亲，[Root.Mother.Mother.GetFirstName]的女儿。她生前过着美好的生活，并且寿终正寝。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_531;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的女儿。仅仅为了一些鸡毛蒜皮般的小事，懦弱的刽子手便夺去了她的生命。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_532;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的女儿。她被妒嫉着他的冷血敌人谋杀了。但愿有一天凶手能够得到公正的裁决。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_534;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的女儿。她在大限将至之前便死于一场不幸的意外事故。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_535;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以兹纪念[Root.Mother.GetFirstName]，[Root.GetHerHis]母亲，[Root.Mother.Mother.GetFirstName]的女儿。她的生命在黑暗的地牢里枯萎了，斯人已逝，但她并没有被人忘记。石碑将永远矗立。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会钻研这些如尼刻纹，只求一窥碑文蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_536;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，即[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的女儿。她在人生的终点努力去侍奉古神。但愿他们容许她的灵魂而我们不用。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_537;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的女儿。这个可怜的人亲手结束了自己的生命。但愿她死后能够得到他生前未能得到的安息。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_538;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Father.GetFirstName]，[Root.GetHerHis]母亲，[Root.Father.Father.GetFirstName]的儿子。她生前过着美好的生活，并且寿终正寝。她的离世是大限已至了，而且[Root.GetFirstName]对此无能为力。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_539;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]树立此石以纪念[Root.Mother.GetFirstName]，即[Root.GetHerHis]母亲，[Root.Mother.Mother.GetFirstName]的女儿。他是一位体贴的母亲兼妻子，并且过着美好的生活。此碑永不倒。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
 EVTNAME_TOG_530;纪念[Root.Mother.GetFirstName];;;;;;;;;;x
 EVTNAME_TOG_550;竖起石碑;;;;;;;;;;x
-EVTDESC_TOG_550;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖立此石纪念[Root.GetHerHis]当[Root.GetSheHe]还活着的时候.愿想起[Root.GetSheHe]的时候总是充满愉快的回忆.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
+EVTDESC_TOG_550;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]树立此石以纪念[Root.GetSheHe]自己，在[Root.GetSheHe]还活着的时候。但愿想起[Root.GetSheHe]的时候会充满欢乐与幸福的回忆。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
 EVTOPTA_TOG_550;这很完美!;;;;;;;;;;x
-EVTDESC_TOG_551;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	骄傲的[Root.GetSonDaughter]是和奥丁的神圣联盟	一匹疯狂的母马和三个森林侏儒	paid 觢eifr handsomely to carve these runes. 伴随着[Root.GetHerHis]飞翔的长船还有全体十二只唱歌的兔子船员	[Root.GetFirstName]赢得[Root.GetHerHis]名声通过跨越诺斯大陆破案.愿闪亮的触须保护我们全体.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧..;;;;;;;;;;x
-EVTDESC_TOG_552;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	在有生之年竖立此石纪念[Root.GetHerselfHimself].老实说[Root.GetHerHis]最爱蜂蜜酒和烈酒	嗜酒如命.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_553;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]所生	竖立此石在[Root.GetHerHis]有生之年.确实[Root.GetHerHis]美貌在大陆有人烟的地方找不出第二个了.奥拉夫雕刻	艾纳上色.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_554;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖立此石纪念[Root.GetHerHis].尽管[Root.GetSheHe]体型稍小	但是[Root.GetFirstName]有大愿望.欧德雕刻此纪念碑[Root.GetSheHe]还活着的时候\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_555;你委托制作的符石已经完成了，并立在你指定的位置。你检查符石：\n\n由[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]所立之碑，以赞美[Root.GetHerHis]的伟大智慧。真的是举世无双，前无古人。雕刻者托克。\n\n你离开了符石，几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧。;;;;;;;;;;x
-EVTDESC_TOG_556;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n不幸的[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	想方设法为了看到这块纪念[Root.GetHerHis]石碑.很多人说[Root.GetSheHe]是卑微的而且毫无价值，很可能他们说对了.有着传奇性对付女人技巧的裘蒙德带着遗憾刻下了这些字.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_557;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	命令竖立此碑在[Root.GetHerHis]一生中.说真的[Root.GetSheHe]以一当十n	没人有敢于反对他的说法.碑石由沃姆所刻.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_558;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石s:\n\n博学的[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	要求以[Root.GetHerHis]名字竖立此石.[Root.GetSheHe]拥有世上的知识被所有人羡慕.罗尔夫雕下了这些字.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_559;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖立此碑上以[Root.GetHerHis]的敌人之血书写而[Root.GetSheHe]之命尚存.那些愚蠢的家伙胆敢反抗[Root.GetFirstName]最终被刺了个对穿.易吉尔在遭受这真实的命运之前雕下了这些话..\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_560;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]所立之碑	[Root.Father.GetFirstName]的[Root.GetSonDaughter]	为赞颂世界之美.如同闪光的彩虹或者海洋一般	[Root.GetFirstName]为遇到[Root.GetHerHim]的人带来了欢乐和光明. Asbj鰎n 不情愿的刻下了这些字.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_561;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和 [Root.Mother.GetFirstName]所生	就像无数私生子的父母一样为纪念[Root.GetHerselfHimself]而立下此石.让所有人都接受[Root.GetSheHe]之爱.艾努德所雕	格姆上色.\n\nY你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_562;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]所生	竖立此碑纪念[Root.GetHerHis]的一生.就像在[Root.GetHerHim]面前没人一样	[Root.GetFirstName]能好好享受一顿美餐.这儿有份[Root.GetSheHe]偏爱的烤野猪食谱...\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_563;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	在西格崔依格的帮助下竖起此碑.[Root.GetFirstName]因[Root.GetHerHis]伟大的善举而在全大陆知名.没有流浪者在[Root.GetHerHis]的领地寻求食物或者落脚点而被赶走.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_564;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石s:\n\n[Root.GetFirstName]竖起此碑	[Root.Father.GetFirstName]的[Root.GetSonDaughter]	因[Root.GetHerHis]对所有人的友善而著名.愿[Root.GetSheHe]被他人善待	现在以及死后	以同样的方式\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_565;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n伟大的[Root.GetFirstName]	是宠爱的[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖起此碑为了给予[Root.GetHerHis]著名行为遗留的荣耀.在世上没有其他人和[Root.GetHerHis]一样.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_566;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n符文之语属于[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	但由提科雕刻和拉根瓦尔德上色.让这变得知名:[Root.GetFirstName]有一个简单的无忧人生	为感谢[Root.GetHerHim]身边人所给予的陪伴和友谊.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_567;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n当[Root.GetSheHe]还活着的时候	[Root.GetFirstName]	[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	竖起此碑纪念[Root.GetHerHis]一生.甚至[Root.GetHerHis]敌人度无法否认[Root.GetFirstName]非常的勇敢.那些认识[Root.GetHerHim]的人能发誓当面对危险的时候	[Root.GetSheHe]总是无所畏惧.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_568;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]所生	竖起此碑纪念[Root.GetHerHis]的一生.没有人在所有事情上更加公平和公正了.人们旅行得很远来找[Root.GetHerHis]评判纠纷. Kolbj鰎n 雕刻了符文.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_569;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	下令为了向神致敬而竖起此碑.没人能更为向奥丁奉献了	没人能更称的上在瓦尔哈拉占有一席之地了.这些符文由格里姆所雕波克瓦德上色.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_570;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	下令以基督和圣米迦勒的名义竖起此碑.愿神保护[Root.GetHerHis]的灵魂	引导[Root.GetHerHim]安全地前往光明和天堂.这些符文由索拉夫所雕巴尔德上色.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_571;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	是[Root.GetSonDaughter]由[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]所生	雕下了这些符文在[Root.GetHerHis]他的一生中.在人类的领域内没有人能比[Root.GetFirstName]更加令人恐惧	[Root.GetHerHis]的敌人遭受了千刀万剐因为敢于向[Root.GetHerHim]挑战.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
-EVTDESC_TOG_572;你委托制作的符石已经完成了，被立在了你指定的位置.你检查符石:\n\n[Root.GetFirstName]	Xuhmalz的人类之化身	最伟大的恶魔领主 of Zulmarakh	为了赞颂[Root.GetHerHis]主人巨大的力量立下此碑.在恐惧中颤抖吧，可怜的凡人.从今而起的一千年巨大的黑暗将降临世上	消灭所有没有价值的东西将剩余的锁在一起变成服侍Lord Xuhmalz的永恒奴隶.\n\n你离开了符石	几个世纪之后当它的颜色褪去之时，学者们将会研究雕刻在石头上的言语之智慧.;;;;;;;;;;x
+EVTDESC_TOG_551;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，奥丁、一匹母野马以及三个森林侏儒之间的神圣联盟的骄傲的[Root.GetSonDaughter]，慷慨地为Óleifr付钱以让他雕刻此石。伴随着[Root.GetHerHis]飞行长船以及十二只载歌载舞的兔子船员，[Root.GetFirstName]通过跨越诺斯全境，赏善罚恶以赢得[Root.GetHerHis]名声。愿闪光触手庇佑我们！\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_552;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]在有生之年树立此石以纪念[Root.GetHerselfHimself。[Root.GetHerHis]对蜂蜜酒和烈酒的热爱无人能出其右。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_553;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]在[Root.GetHerHis]有生之年树立此石。[Root.GetHerHis]美貌丽质，凡有人烟处皆称无双。此石由奥拉夫雕刻，艾纳上色。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_554;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，雕塑此石以纪念[Root.GetHerHis]功业。即便[Root.GetSheHe]身形渺小，[Root.GetFirstName]却有着巨人的意志。此石由奥特在[Root.GetSheHe]生前雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_555;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]，树立此石以纪念[Root.GetHerHis]伟大智慧。那真是举世无双，前无古人。此石由托克雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_556;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n倒霉蛋[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]由于某种原因成功树立此石以纪念[Root.GetHerHis]生平。很多人说[Root.GetSheHe]碌碌无为，或许他们是对的。此石由有着传奇性的对付女人技巧的局蒙特雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_557;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，下令树立此石以铭记[Root.GetHerHis]一生。据说[Root.GetSheHe]能以一当十，没人敢对他挑战。此石由奥姆雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_558;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n博学的[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]要求以[Root.GetHerHis]名义树立其这块石头。[Root.GetSheHe]对大千世界的认知被所有人嫉妒。此石由罗尔夫雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_559;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]在[Root.GetSheHe]生前即树立这块石头并涂上[Root.GetHerHis]敌人的鲜血。那些反对[Root.GetFirstName]的蠢货最终都丧命于木桩穿刺之刑。此石由埃吉尔在遭受此命运之前雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_560;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n此石由[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]树立以庆祝美好的世界。如同亮丽的彩虹和波澜的大海，[Root.GetFirstName]给见到[Root.GetHerHim]的人带来喜悦和光明。此石由阿斯比昂不情愿地雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_561;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，可能是众多私生子的父母，树立这块石头纪念[Root.GetHerselfHimself]。没人否认[Root.GetSheHe]对别人的爱。此石由埃南德雕刻，格姆作画。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_562;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]在[Root.GetHerHis]有生之年树立此石。如同没人在[Root.GetHerHim]之前一样，[Root.GetFirstName]能好好享受一顿美餐。这里有一份[Root.GetSheHe]偏爱的烤野猪食谱……\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_563;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]在希特里克的帮助下树立了这块石头。在全世界，[Root.GetFirstName]以[Root.GetHerHis]博爱而闻名。没有一个在[Root.GetHerHis]领地寻求食物或住所的流浪汉被拒之门外。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_564;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n以[Root.GetHerHis]无比的仁慈而闻名于世的[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]树立此石。但愿[Root.GetSheHe]能以同样的方式被所有人善待，无论是现世还是来世。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_565;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]大帝，最受[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]青睐的[Root.GetSonDaughter]，树立此石以荣耀[Root.GetHerHis]传奇遗产。在人间，无人能与[Root.GetHerHis]力量匹敌。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_566;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n此石上的话语献给[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，此石由泰克雕刻，拉根瓦尔作画。愿天下皆知[Root.GetFirstName]生活简朴不受诱惑，感激[Root.GetHerHim]周边的人给予的陪伴和友情。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_567;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n在[Root.GetSheHe]仍活着的时候，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，树立此石以纪念[Root.GetHerHis]自己。甚至是[Root.GetHerHis]敌人都不能否认[Root.GetFirstName]的勇敢。那些认识[Root.GetHerHim]的人都发誓，每当遇到危险的时候[Root.GetSheHe]总是无所畏惧。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_568;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]的[Root.GetSonDaughter]在[Root.GetHerHis]有生之年树立此石。没有比此人更能公平地对待万物的人了。无论是男人还是女人都千里迢迢过来寻求[Root.GetHerHis]对纠纷的协商。此石由科比昂雕刻。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_569;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]命令树立此石以荣耀诸神。无人比此人更崇拜奥丁，无人比此人更有资格进入瓦尔哈拉殿堂。此石由格里姆雕刻，伯克瓦德绘画。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_570;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]，命令以基督和圣米迦勒的名义树立此石。愿上帝保护[Root.GetHerHis]灵魂，引导[Root.GetHerHim]安全的进入光明和天堂。此石由所鲁尔福雕刻，巴尔德作画。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_571;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，[Root.Father.GetFirstName]和[Root.Mother.GetFirstName]的[Root.GetSonDaughter]树立此石以纪念[Root.GetHerHis]一生。在人间无人比[Root.GetFirstName]更令人恐惧，并且凡是敢反对[Root.GetHerHim]的敌人都将遭受九死一生的痛苦。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
+EVTDESC_TOG_572;定做的符文石已完成并树立在你指定的地点。你细读符文：\n\n[Root.GetFirstName]，诃葅摩罗兹的人类化身，魔界葅罗摩罗诃的邪魔大君，树立此石以赞颂[Root.GetHerHis]主人的巨大力量。在恐惧中颤抖吧，可怜的凡人们！从今往后的一千年，巨大的黑暗将降临于世，消灭所有废物并且将剩余的锁在一起以成为服侍诃葅摩罗兹大王的永恒奴隶。\n\n你满意地离开了这块石头，知道即便几个世纪过去，石上的颜色早已斑驳，学者们也会研究此符文的刻画，只求一窥其话语中蕴藏的智慧。;;;;;;;;;;x
 EVTDESC_TOG_580;变革之风起.我们的人民放弃了我们旧有的传统	立下符石的习惯不再看得到了.显然取而代之的最近潮流是在羊皮纸和牛皮纸上用墨水书写.;;;;;;;;;;x
 EVTOPTA_TOG_580;他们接着会想些什么;;;;;;;;;;x
 ATTRIBUTE_DIFF_LOWER_THAN;$ATTRIBUTE$  §Y$FIRST$§! 和 §Y$SECOND$§! 的差异低于 §Y$VAL$§!;;;;;;;;;;x
@@ -1298,7 +1298,7 @@ EVTDESC_TOG_3117;你的儿子 [From.GetTitledFirstName]完成了他在瓦良格�
 EVTOPTA_TOG_3117; 不管怎么样，他回来了，我非常高兴！;;;;;;;;;;x
 EVTDESC_TOG_3119; 一个憔悴的，穿着长袍的人被带到了你的房间.护卫说他刚乘船从君士坦丁堡回来.他只是一遍又一遍重复着你的名字，所以他被送回来了.你惊讶地发现，他居然是 [From.GetTitledFirstName]！;;;;;;;;;;x
 EVTOPTA_TOG_3119;[From.GetFirstName]，他们对你做了什么！;;;;;;;;;;x
-EVTDESC_TOG_3121;[From.GetTitledFirstName]在漫长而成功的瓦良格卫队生活之后光荣回家了！他参加了好几场战斗，从希腊人和阿拉伯人那里学到了大量的战略和战术技巧.;;;;;;;;;;x
+EVTDESC_TOG_3121;[From.GetTitledFirstName]在漫长而成功的瓦良格卫队生活之后光荣回家了！他参加了好几场战斗，从希腊人和阿拉伯人那里学到了大量的战略和战术技巧。;;;;;;;;;;x
 EVTOPTA_TOG_3121; [From.GetFirstName]，说说你参加过的战斗吧...;;;;;;;;;;x
 EVTDESC_TOG_3123;[From.GetTitledFirstName]从希腊的瓦良格卫队回来了，但他不愿意提及他过去的经理.你知道他参加过好几次战斗，杀了不少敌军，但他并没有陶醉于他所取得的成就 ，相反， [From.GetFirstName] 每天都生活在噩梦之中，稍有响声就会惊醒.;;;;;;;;;;x
 EVTOPTA_TOG_3123;好奇怪...;;;;;;;;;;x
@@ -1409,8 +1409,8 @@ ca_keep_3_muslim;要塞;;;;;;;;;;x
 ca_keep_4_muslim;要塞;;;;;;;;;;x
 ca_keep_5_muslim;要塞;;;;;;;;;;x
 ca_keep_6_muslim;要塞;;;;;;;;;;x
-ct_marketplace_1_muslim;集市;;;;;;;;;;x
-ct_marketplace_2_muslim;集市;;;;;;;;;;x
+ct_marketplace_1_muslim;小巴扎;;;;;;;;;;x
+ct_marketplace_2_muslim;巴扎;;;;;;;;;;x
 ca_town_1_muslim;要塞城市;;;;;;;;;;x
 ca_town_2_muslim;要塞城市;;;;;;;;;;x
 ca_town_3_muslim;要塞城市;;;;;;;;;;x
@@ -1496,7 +1496,7 @@ e_mongol_empire_adj;蒙古;;;;;;;;;;x
 BM_THE_MONGOLS;蒙古人;;;;;;;;;;x
 BM_THE_MONGOLS_DESC;在统一了纷争不休的草原部落之后，伟大的首领铁木真，或者像他自己现在自称的那样叫做成吉思汗，开始扩张他的帝国。在中亚，蒙古人派去面见花剌子模的阿拉乌丁的使节被杀掉了，这是可汗无法忍受的侮辱。他已经率领他的军队向西进军并准备惩罚强大的穆斯林王国的傲慢。就像蓄势待发的弓箭一样，集合起来的蒙古军队已经准备好让世界颤抖了。哪里会是他们征途的终点呢？;;;;;;;;;;x
 BM_RISE_OF_THE_HANSA;汉萨同盟的兴起;;;;;;;;;;x
-BM_RISE_OF_THE_HANSA_DESC;德国北部的帝国自由市吕贝克和汉堡的市民刚刚组成了一个贸易联盟，这就是之后著名的汉萨同。.同时，可怕的蒙古部落像一把镰刀一样扫过东欧，不费吹灰之力的镇压了所有的抵抗。就在连罗马帝国皇帝弗里德里希二世都由于害怕而退缩的时候，这场入侵突然莫名其妙的结束了，因为金帐汗国的拔都汗和伊尔汗国的旭烈兀汗都返回喀喇昆仑去选出一位新的可汗。;;;;;;;;;;x
+BM_RISE_OF_THE_HANSA_DESC;德国北部的帝国自由市吕贝克和汉堡的市民刚刚组成了一个贸易联盟，这就是之后著名的汉萨同盟。同时，可怕的蒙古部落像一把镰刀一样扫过东欧，不费吹灰之力的镇压了所有的抵抗。就在连罗马帝国皇帝弗里德里希二世都由于害怕而退缩的时候，这场入侵突然莫名其妙的结束了，因为金帐汗国的拔都汗和伊尔汗国的旭烈兀汗都返回喀喇昆仑去选出一位新的大汗。;;;;;;;;;;x
 REGIMENT_OF_LEADER;$LEADER$的兵团;;;;;;;;;;x
 TITLE_ADJ_REGIMENT;$ADJ$兵团;;;;;;;;;;x
 catholic_DESC;天主教是基督教最古老对欧洲历史影响最大的分支。该宗教的首领是罗马主教——教宗。;;;;;;;;;;x
@@ -1504,7 +1504,7 @@ waldensian_DESC;瓦勒度派异端原本只是天主教会中的一股改革浪�
 lollard_DESC;罗拉德派异端反对天主教会的腐败.和许多天主教异端一样，他们憎恨生活奢华，拥有大量财富的教职人员，希望回归更原始更纯粹的基督教.这个异端没有正式的领袖和专门对应的的游戏机制.;;;;;;;;;;x
 orthodox_DESC;正教会是另外一个参加查尔西顿会议的基督教主要分支	直到公元1054年还在形式上和天主教会合为一体	虽然两者政治上的分歧可以追溯到公元800年查理曼被教宗利奥三世加冕为罗马人的皇帝	这引起了君士坦丁堡的皇帝的不满. 正教会的名义首领是君士坦丁堡普世牧首	但是他不干涉其他牧首的事务.;;;;;;;;;;x
 miaphysite_DESC;合性论基督教包括科普特教会和亚美尼亚使徒教会. 合性论强调基督只有一个性质，而不是既有神性又有人性. 这种观点使他们在公元451年的迦克敦会议后与主流基督教派分道扬镳. 虽然正教会和天主教会没有认为它是完全的异端，但与它还是有细微的差别. 合性论教会名义上的首领是亚历山大教宗;;;;;;;;;;x
-monophysite_DESC;基督一性派是早期基督教的一种异端，认为基督只有神性。这与聂斯脱里派的基督同时具有神性和人性的观点相反。与基督合性派密切相关，一性论教会在游戏里被认为是基督合性派的一种异端。一性论教会名义上的首领是亚历山大一性派教宗。;;;;;;;;;;x
+monophysite_DESC;基督一性派是早期基督教的一种异端，认为基督只有神性。这与景教的基督同时具有神性和人性的观点相反。与基督合性派密切相关，一性论教会在游戏里被认为是基督合性派的一种异端。一性论教会名义上的首领是亚历山大一性派教宗。;;;;;;;;;;x
 monothelite_DESC;基督一志论是基督论的一种，在681年被宣布为异端. 基督一志论教会发展了基督合性论和一性论教会关于基督只有一个性质的观点，认为基督既有人性又有神性，但是只有一种意志. 一志论教会的名义首领是安条克一志论牧首.;;;;;;;;;;x
 sunni_DESC;伊斯兰逊尼派是至今为止传播最广的宗教。在伊斯兰教两大派系中逊尼派被认为更为正统，但是逊尼派和什叶派的分裂源头实际上只是政治上的分歧。逊尼派承认第一个哈里发艾布·伯克尔的合法性，而什叶派拒绝承认他的合法性而认为阿里才是合法的哈里发。逊尼派穆斯林严格遵循圣训-即穆罕默德说过的话和做过的事。这同时也构成了逊尼派立法的基础。 伊斯兰逊尼派的正式首领是(逊尼派)哈里发。;;;;;;;;;;x
 zikri_DESC;伊斯兰诵经派在游戏中是一个逊尼派的异端. 诵经派是Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.)的追随者;;;;;;;;;;x
@@ -1529,7 +1529,7 @@ mazdaki_DESC;马兹达克是祆教的祭司，他声称自己是阿胡拉·马�
 title_cherbi;阇里必;;;;;;;;;;x
 title_cherbi_desc;阇里必是怯薛的首领，蒙古帝国的皇家卫士.他们负责包围重要的贵族们，他们的指挥官地位很高.;;;;;;;;;;x
 title_darkhan;达尔汗;;;;;;;;;;x
-title_darkhan_desc;达尔汗是可汗授予的一个声望很高的头衔.成吉思汗把这一头衔赐予了对他崛起贡献卓著的人.;;;;;;;;;;x
+title_darkhan_desc;达尔汗是汗王授予的一个声望很高的头衔.成吉思汗把这一头衔赐予了对他崛起贡献卓著的人.;;;;;;;;;;x
 title_noyan;那颜;;;;;;;;;;x
 title_noyan_desc;这一头衔最初授予战场上的蒙古指挥官，在授予那些征服后土地的治理者时，意味着一个很高的贵族头衔.;;;;;;;;;;x
 title_baghatur;巴特尔;;;;;;;;;;x
@@ -1559,7 +1559,7 @@ title_eran_ambaragbed_desc;仓库的管理者，伊兰阿巴格授予那些军�
 job_chancellor_zoroastrian_group;阿斯塔;;;;;;;;;;x
 job_marshal_zoroastrian_group;伊兰斯帕波德;;;;;;;;;;x
 job_treasurer_zoroastrian_group;达瑞卡·佩特;;;;;;;;;;x
-EVTDESC_TOG_4001;祝您健康，[Root.GetTitledFirstName].我的名字叫帕那托克，我以此为名建立了崇拜索尔和奥丁的兄弟会.沿着斯德丁的海岸，我发现了一个建立城堡的完美之处，在此我希望获得您的批准\n\n签署	\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_TOG_4001;[Root.GetTitledFirstName]阁下，祝您健康。我叫帕纳托克，我致力于组建一个为索尔与奥丁献身的勇士兄弟会。在什切青的海滨航行时，我发现了一个建设据点的绝佳地址，我请求您能让我使用那片土地。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_TOG_4001;通过一切手段建立你的城堡吧;;;;;;;;;;x
 EVTOPTC_TOG_4001;不，我不希望在我的地盘上看到任何麻烦.;;;;;;;;;;x
 EVTDESC_TOG_4002;维京人帕那托克在[Root.Location.GetName]建立了城堡，兄弟会作为其总部.这座城堡将成为约姆斯堡.;;;;;;;;;;x
@@ -1568,10 +1568,10 @@ EVTNAME_TOG_4003;约姆斯维京人;;;;;;;;;;x
 EVTDESC_TOG_4003;一群凶猛的维京人在[From.Location.GetName]建立了城堡.那里被称作约姆斯堡，约姆斯维京人崇拜索尔和奥丁以及其他的北欧诸神.他们在战场上毫不迟疑只允许最强壮和最能干的勇士加入他们.\n\n虽然有人想像山贼一样清除它们，但约姆斯维京人誓要捍卫北欧的土地.;;;;;;;;;;x
 EVTOPTA_TOG_4003;他们的土地只在神话中.;;;;;;;;;;x
 EVTOPTB_TOG_4003;但愿这些暴徒离我们远点.;;;;;;;;;;x
-EVTDESC_TOG_4006;祝您健康，[Root.GetTitledFirstName].我的名字叫帕那托克，我以此为名建立了崇拜索尔和奥丁的兄弟会.沿着斯德丁的海岸，我发现了一个建立城堡的完美之处，在此我希望获得您的批准\n\n签署	\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_TOG_4006;[Root.GetTitledFirstName]阁下，祝您健康。我叫帕纳托克，我致力于组建一个为索尔与奥丁献身的勇士兄弟会。在沃尔加斯特的海滨航行时，我发现了一个建设据点的绝佳地址，我请求您能让我使用那片土地。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 d_jomsvikings;约姆斯维京人;;;;;;;;;;x
 d_jomsvikings_adj;约姆斯维京人;;;;;;;;;;x
-WARCHIEF;酋长;;;;;;;;;;x
+WARCHIEF;战争酋长;;;;;;;;;;x
 WARCHIEF_FOA;主人;;;;;;;;;;x
 jomsvikings_founded;约姆斯维京人成立了.;;;;;;;;;;x
 title_champion;冠军;;;;;;;;;;x
@@ -1591,7 +1591,7 @@ EVTOPTB_SSI_071;那些东方人向寄生虫一样散播疾??;;;;;;;;;;x
 EVTOPTB_SSI_030;他们的帝国会先于我们崩溃.;;;;;;;;;;x
 EVTOPTB_SSI_031;家里来的好消息！;;;;;;;;;;x
 EVTOPTB_SSI_035;越来越像家里太好了;;;;;;;;;;x
-EVTDESC_TOG_5000;[From.GetTitledFirstName]轻蔑地看着你.跟这条疯狗去决斗，一次性替所有人解决你的分歧;;;;;;;;;;x
+EVTDESC_TOG_5000;[From.GetTitledFirstName]轻蔑地看着你。跟这条疯狗去决斗以一劳永逸地解决你们的分歧。;;;;;;;;;;x
 EVTOPTA_TOG_5000;我会接受这个挑战！;;;;;;;;;;x
 EVTOPTB_TOG_5000;不，搞不好我会输...;;;;;;;;;;x
 EVTDESC_TOG_5001;那条疯狗[From.GetTitledFirstName]不知为何鼓起勇气向你单挑！如果你接受了，你将和[From.GetFirstName]在一个小岛上单打独斗！如果你拒绝了，这将成为你人生上的污点.;;;;;;;;;;x
@@ -1680,7 +1680,7 @@ EVTDESC39605;不久后[FromFrom.GetTitledFirstName]到达[FromFrom.Location.GetN
 EVTOPTA39605;邪恶的异教徒！;;;;;;;;;;x
 EVTDESC39606;大人，我带来了好消息！通过我的努力，[FromFrom.GetTitledFirstName]找到了正确的信仰.我的工作已经完成了，我将马上回到您的宫廷。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39606;又一个异教徒改邪归正了.;;;;;;;;;;x
-EVTDESC39607;大人，有个坏消息。虽然我努力使[FromFrom.GetTitledFirstName]抛弃[From.GetHerHis]异端信仰， [FromFrom.GetSheHe]突然改变了心意。我被[FromFrom.Location.GetName]驱逐了，能摆脱他太好了！让这些冥顽不化的野蛮人死后遭受无穷的痛楚吧！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC39607;大人，有个坏消息。虽然我努力使[FromFrom.GetTitledFirstName]抛弃[From.GetHerHis]异端信仰，但 [FromFrom.GetSheHe]突然改变了心意。我被[FromFrom.Location.GetName]驱逐了，能摆脱他太好了！让这些冥顽不化的野蛮人死后遭受无穷的痛楚吧！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA39607;很遗憾.;;;;;;;;;;x
 EVTDESC39608;你收到消息说[From.GetTitledFirstName]被[FromFrom.GetTitledFirstName]囚禁了.看起来[FromFrom.GetTitle]觉得受到了冒犯	因为你的[Root.GetLordSpiritualName]在转化[FromFrom.GetHerHis]的异教徒.;;;;;;;;;;x
 EVTOPTA39608;真该感谢那个傻瓜！;;;;;;;;;;x
@@ -1729,11 +1729,11 @@ EVTOPTB_TOG_6004;异教徒！;;;;;;;;;;x
 EVTOPTC_TOG_6004;无信仰！;;;;;;;;;;x
 REL_HOLY_SITES;圣地;;;;;;;;;;x
 title_yabgu;叶护;;;;;;;;;;x
-title_yabgu_desc;按照传统，叶护头衔赐予统治家族的第二号人物，一般是可汗的兄弟.这将带来很高的崇敬.;;;;;;;;;;x
+title_yabgu_desc;按照传统，叶护头衔赐予统治家族的第二号人物，一般是汗王的兄弟.这将带来很高的崇敬.;;;;;;;;;;x
 title_ishad;艾希德;;;;;;;;;;x
 title_ishad_desc;艾希德是给予最高将军的头衔，有着很高的荣誉.;;;;;;;;;;x
 title_kundur;昆德;;;;;;;;;;x
-title_kundur_desc;传统上昆德是可汗的宫廷中最高级的政府官员，给予某人以为着获得了赞许.;;;;;;;;;;x
+title_kundur_desc;传统上昆德是汗王的宫廷中最高级的政府官员，给予某人意味着获得了赞许.;;;;;;;;;;x
 job_chancellor_greek;马哲司;;;;;;;;;;x
 job_treasurer_greek;萨科罗瑞斯;;;;;;;;;;x
 job_spymaster_greek;米斯蒂科斯;;;;;;;;;;x
@@ -1751,7 +1751,7 @@ EVTDESC_TOG_3300;你的人劫掠战利品归来，有柄斧头闪耀着紫色的
 EVTOPTA_TOG_3300;我感受到了力量.;;;;;;;;;;x
 EVTDESC7701;我听说了一个乘坐开放式马车游览城市的问题.虽然卫兵会盯着街道，但他们担心房顶上的弓箭手.;;;;;;;;;;x
 EVTDESC7721;望着家畜栏[Root.Location.GetName]给了我灵感.集中肥料会产生爆炸性物质，如果在同一个地点收集的足够多，爆炸将会是致命的...;;;;;;;;;;x
-EVTDESC7741;如果我们计划毒死哪个小崽子，就应该收买那些没道德的近侍从，比如侍女或者卫兵.;;;;;;;;;;x
+EVTDESC7741;如果我们计划毒死哪个小崽子，就应该收买某个无耻的近侍，比如侍女或者卫兵。;;;;;;;;;;x
 EVTDESC7761;如果我们密谋对付的人被囚禁了，我们可以收买牢里的人处理问题，让他看起来像是越狱失败...;;;;;;;;;;x
 EVTDESC7781;就算我们密谋对付的人是个酒囊饭袋，那也是个活着的酒囊饭袋.每个月仆人都汇报说急需一个浴缸，很多事都可能出问题... 特别在仆人是我们雇佣的情况下.;;;;;;;;;;x
 EVTDESC7801;有消息说我所密谋对付的目标上了一艘小船.我有可靠的消息说那孩子还没学会游泳呢.如果船翻了的话... 嘿嘿，这种事经常发生，不是吗;;;;;;;;;;x
@@ -1760,7 +1760,7 @@ EVTDESC7841;听说我们的那个小麻烦早上喜欢在阳台上.如果从上�
 EVTDESC7861;我们密谋对付的小麻烦近期会去打猎.不单有凶猛猎犬野兽，还有飞来飞去的弓箭，打猎的时候很多事都可能出意外...;;;;;;;;;;x
 EVTDESC7881;我所密谋对付的目标近期要坐马车经过一条无人的小路.也许我们可以雇一些佣兵假装成拦路抢劫的强盗... 总之犯罪是很多的嘛.;;;;;;;;;;x
 EVTDESC7901;我们密谋对付的目标近期要坐马车长途跋涉，很多意外都可能发生.如果我们可以收买一个马车夫...;;;;;;;;;;x
-EVTDESC262;战场上，你英勇无畏地策马攻进敌阵，你的许多近侍在被敌人发现后都被射下了马背，但你直冲进去与敌人搏斗，利剑上面沾满了敌人的鲜血.;;;;;;;;;;x
+EVTDESC262;战场上，你英勇无畏地策马攻进敌阵，你的许多近侍在被敌人发现后都被射下了马背，但你直冲进去与敌人散兵搏斗，利剑上面沾满了敌人的鲜血。;;;;;;;;;;x
 EVTDESC263;在带领的你的近侍冲上去后，你发现自己被敌人包围了.在一阵激烈的搏斗后，你收获不少，重新回到了大部队领导你的军队取得了胜利.;;;;;;;;;;x
 EVTDESC264;你在战斗中斩获颇丰，甚至比起最英勇善战的战士来也毫不逊色.你擦拭了武器上的血渍，人们欢呼着，你的英勇保障了胜利.;;;;;;;;;;x
 EVTDESC265;你使劲把宝剑从战场上的最后一个敌人身上拔了出来.人们在敌人恐慌的撤退中欢呼.胜利很大一部分要归功于你.;;;;;;;;;;x
@@ -1795,5 +1795,5 @@ EVTDESC39640;伊斯兰的宗派分裂要追溯到早期.大多是逊尼派信徒
 EVTOPTA39640;他不过是个小孩子！;;;;;;;;;;x
 EVTOPTB39640;为了安拉和阿里！;;;;;;;;;;x
 EVTOPTC39640;分裂者必须被摧毁.;;;;;;;;;;x
-EVTOPTD39640;哈！傻瓜才回去打假.;;;;;;;;;;x
+EVTOPTD39640;哈！这些蠢货开始自相残杀了。;;;;;;;;;;x
 count_female_pagan_group;女酋长;;;;;;;;;;x

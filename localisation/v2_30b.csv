@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 CR_DIFF_LOWER_THAN;§Y$FIRST$§!和§Y$SECOND$§!的决斗等级差值低于§Y$VAL$§!;;;;;;;;;;x
 CR_DIFF_AT_LEAST;§Y$FIRST$§!和§Y$SECOND$§!的决斗等级差值至少为§Y$VAL$§!;;;;;;;;;;x
 HAS_CR_AT_LEAST;决斗等级至少为;;;;;;;;;;x
@@ -11,11 +11,11 @@ wol_schemer_2;谋士;;;;;;;;;;x
 desc_wol_schemer_2;该角色是一位经验老道的谋士，密谋策划者和暗中操控人。;;;;;;;;;;x
 wol_patriarch_1;居家男人;;;;;;;;;;x
 desc_wol_patriarch_1;他甘愿为家庭的和睦幸福奉献一切。;;;;;;;;;;x
-wol_patriarch_2;家族长;;;;;;;;;;x
+wol_patriarch_2;族长;;;;;;;;;;x
 desc_wol_patriarch_2;他是家族中无可争议的领导者，采用刚柔并济的手段解决冲突。;;;;;;;;;;x
 wol_matriarch_1;居家女人;;;;;;;;;;x
 desc_wol_matriarch_1;她甘愿为家庭的和睦幸福奉献一切。;;;;;;;;;;x
-wol_matriarch_2;家族长;;;;;;;;;;x
+wol_matriarch_2;女族长;;;;;;;;;;x
 desc_wol_matriarch_2;她是家族中无可争议的领导者，采用刚柔并济的手段解决冲突。;;;;;;;;;;x
 schemer;密谋大师;;;;;;;;;;x
 break_up_with_lover;分手;;;;;;;;;;x
@@ -38,7 +38,7 @@ EVTDESC38310;我现在有了开放的心态，不再像过去那样坚守信仰�
 EVTDESC38311;我的坦白直率再也不会令自己陷入麻烦了，我失去了诚实特质。;;;;;;;;;;x
 EVTDESC38312;我为自己的行为和家族感到骄傲。我失去了谦恭有礼特质。;;;;;;;;;;x
 EVTOPTC64130;生活真美妙！;;;;;;;;;;x
-EVTDESC_WOL_40;早上起来的时候我痛痒难忍。似乎是[Root.Religion.GetRandomGodName]因我的罪恶行径降灾于我，让我张出了水痘。;;;;;;;;;;x
+EVTDESC_WOL_40;早上起来的时候我痛痒难忍。似乎是[Root.Religion.GetRandomGodName]因我的罪恶行径降灾于我，让我长出了水痘。;;;;;;;;;;x
 EVTDESC_WOL_40_NC;早上起来的时候我痛痒难忍……似乎是我感染上了情人的水痘。;;;;;;;;;;x
 EVTDESC_WOL_500;我的忏悔师[target_priest.GetTitledName]是个魅力十足的[target_priest.GetManWoman]!通过运用自己那令人无法拒绝的魅力，我敢说[target_priest.GetSubjectPronoun]肯定在想着比[target_priest.Religion.GetRandomGodName]更重要的事!;;;;;;;;;;x
 EVTOPTA_WOL_500;让[target_priest.GetObjectPronoun]得到[target_priest.GetSubjectPronoun]所想的东西！;;;;;;;;;;x
@@ -48,7 +48,7 @@ EVTOPTA_WOL_520;给他个身份，让他成为我的情人……;;;;;;;;;;x
 EVTOPTB_WOL_520;给他点甜头，我就能得到最忠诚的卫士了！;;;;;;;;;;x
 EVTOPTC_WOL_520;确实很有趣，但我应该把目标放在更高远的地方。;;;;;;;;;;x
 EVTDESC_WOL_530;我最近一直在关注一位洗碗侍女，她富有智慧而且喜欢争强好胜。尽管她熟练地回避着宫廷内所有男人的注意，但只要我一凝视着她，她的脸就飞快地红起来。通过勾引，我可以把她玩弄于鼓掌之间，没准可以派上大用场。;;;;;;;;;;x
-EVTOPTA_WOL_530;给她个身份，让她成为我的夫人……;;;;;;;;;;x
+EVTOPTA_WOL_530;给她个身份，让她成为我的情妇……;;;;;;;;;;x
 EVTOPTB_WOL_530;睡了她，交个炮友。她会成为一个很好的间谍！;;;;;;;;;;x
 EVTOPTC_WOL_530;一个普通乡下妞？我可以上个更好的！;;;;;;;;;;x
 EVTDESC_WOL_560;我看见花仙子披着红色长发，赤身裸体从我的眼角掠过。她总是喜欢挑逗我，却不轻易示人，我该怎样赢得她的芳心呢？;;;;;;;;;;x
@@ -530,7 +530,7 @@ cannibal_desc;这个家伙喜欢吃人……;;;;;;;;;;x
 beaten_up;被痛扁;;;;;;;;;;x
 beaten_up_desc;该角色曾参与打斗，被人家揍的鼻青脸肿。;;;;;;;;;;x
 vice_royalty_duke_female_byzantine;女将军;;;;;;;;;;x
-vice_royalty_king_female_byzantine;女大总督;;;;;;;;;;x
+vice_royalty_king_female_byzantine;女总督;;;;;;;;;;x
 epic_hangover;重度宿醉;;;;;;;;;;x
 epic_hangover_desc;有时你喝酒作乐会过了头，这时候就要付出代价。;;;;;;;;;;x
 EVTDESC_WoL_4000;亲爱的 [Root.GetFirstName]，\n我想邀请你参加我举办的一场朋友间的小聚会，在觥筹交错之中放下俗世的烦恼。希望你能多腾出几天时间，让我们尽情享受愉悦。\n\n此致\n[FromFrom.GetTitledName];;;;;;;;;;x

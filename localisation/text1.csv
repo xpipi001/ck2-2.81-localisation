@@ -1,39 +1,39 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! 已经过了生育年龄;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+AIREASON_TOO_OLD;§Y[GetTitledFirstName]§!已经过了生育年龄;;;;;;;;;;x
 AIREASON_OPINION;对 §Y[GetTitledFirstName]§! 的好感度;;;;;;;;;;x
 AIREASON_SKILLS;§Y[GetTitledFirstName]§! 的技能;;;;;;;;;;x
 AIREASON_REALPOLITIK;政治忧虑;;;;;;;;;;x
-AIREASON_REALPOLITIK_VS;对 §Y[GetTitledFirstName]§! 的政治忧虑;;;;;;;;;;x
+AIREASON_REALPOLITIK_VS;对§Y[GetTitledFirstName]§!的政治忧虑;;;;;;;;;;x
 AIREASON_WRONG_RELIGION;不同宗教;;;;;;;;;;x
 AIREASON_WRONG_CULTURE;外国文化;;;;;;;;;;x
 AIREASON_TOO_WEAK;比我弱小;;;;;;;;;;x
 AIREASON_WEAKNESS;缺乏权力;;;;;;;;;;x
 AIREASON_STRENGTH;权力;;;;;;;;;;x
 AIREASON_IS_RULER;是统治者;;;;;;;;;;x
-AIREASON_NOT_DE_JURE_LIEGE;不是我的法理封臣;;;;;;;;;;x
+AIREASON_NOT_DE_JURE_LIEGE;不是我的法理领主;;;;;;;;;;x
 AIREASON_CANNOT_AFFORD;无法负担;;;;;;;;;;x
-AIREASON_NO_INTEREST_IN_CHAR;对 §Y[GetTitledFirstName]§! 不感兴趣;;;;;;;;;;x
-AIREASON_SAME_DYNASTY_AS_TARGET;与 §Y[GetTitledFirstName]§! 同一王朝;;;;;;;;;;x
-AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§! 继承顺位过高;;;;;;;;;;x
-AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§! 地位过低不能进行普通婚姻;;;;;;;;;;x
-AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§! 倾向于入赘婚姻;;;;;;;;;;x
-AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§! 有权力索取我的宣称;;;;;;;;;;x
-AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§! 无力索取我的宣称;;;;;;;;;;x
+AIREASON_NO_INTEREST_IN_CHAR;对§Y[GetTitledFirstName]§!不感兴趣;;;;;;;;;;x
+AIREASON_SAME_DYNASTY_AS_TARGET;与§Y[GetTitledFirstName]§!来自同一家族;;;;;;;;;;x
+AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§!继承顺位过高;;;;;;;;;;x
+AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§!地位过低，不能进行普通婚姻;;;;;;;;;;x
+AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§!更倾向于入赘婚姻;;;;;;;;;;x
+AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§!有权力索取我的宣称;;;;;;;;;;x
+AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§!无力索取我的宣称;;;;;;;;;;x
 AIREASON_REBELLIOUS;叛乱度;;;;;;;;;;x
 AIREASON_AGE_FACTOR;§Y[GetTitledFirstName]§! 的年龄;;;;;;;;;;x
 AIREASON_IS_MY_LIEGE;§Y[GetTitledFirstName]§! 是我的君主;;;;;;;;;;x
 AIREASON_PRESTIGE_EFFECTS;威望;;;;;;;;;;x
 AIREASON_WANTS_FREEDOM;要自由;;;;;;;;;;x
-AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§! 是近亲;;;;;;;;;;x
+AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§!是近亲;;;;;;;;;;x
 AIREASON_DARE_NOT_REFUSE;不敢拒绝;;;;;;;;;;x
 AIREASON_CONFLICTING_INTERESTS;利益冲突;;;;;;;;;;x
 AIREASON_SAME_REALM;相同势力;;;;;;;;;;x
 AIREASON_GREED;贪婪;;;;;;;;;;x
-AIREASON_LAND_IS_GOOD;寸土不让;;;;;;;;;;x
+AIREASON_LAND_IS_GOOD;寸土必争;;;;;;;;;;x
 AIREASON_FEAR;害怕 §Y[GetTitledFirstName]§!;;;;;;;;;;x
 AIREASON_GOLD_IS_GOOD;君子爱财;;;;;;;;;;x
 AIREASON_CONSANGUINITY;同一家族;;;;;;;;;;x
-AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§! 太年轻;;;;;;;;;;x
+AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§! 太年幼;;;;;;;;;;x
 AIREASON_GOT_MORE_ADVANCED_PLOT;已经策划了一个类似的阴谋;;;;;;;;;;x
 AIREASON_GOT_SAME_PLOT;已经策划同一阴谋;;;;;;;;;;x
 AIREASON_BACKING_SIMILAR_PLOT;已经参与类似阴谋;;;;;;;;;;x
@@ -45,19 +45,19 @@ AIREASON_WE_LIKE_ENEMY_BETTER;我们更喜欢你的敌人;;;;;;;;;;x
 AIREASON_WE_LIKE_YOU_BETTER;我们喜欢你多于你的敌人;;;;;;;;;;x
 AIREASON_BASE_RELUCTANCE;基础不情愿;;;;;;;;;;x
 AIREASON_SMALL_TIER_DIFF;地位上的微小差异;;;;;;;;;;x
-AIREASON_NOT_NEIGHBOR;距离多远;;;;;;;;;;x
+AIREASON_NOT_NEIGHBOR;距离太远;;;;;;;;;;x
 AIREASON_INFERTILE;未必能生育;;;;;;;;;;x
-alert_casus_belli_will_expire_instant;§Y临时宣战接口针对:§!;;;;;;;;;;x
-alert_casus_belli_will_expire_delayed;$LIST$.;;;;;;;;;;x
+alert_casus_belli_will_expire_instant;§Y临时宣战借口针对：§!;;;;;;;;;;x
+alert_casus_belli_will_expire_delayed;$LIST$。;;;;;;;;;;x
 alert_build_province_improvement_instant;§Y你能建设郡里的提升设施！§!;;;;;;;;;;x
 alert_build_province_improvement_delayed;$LIST$;;;;;;;;;;x
 alert_troops_in_foreign_territory_instant;§Y你在外国领地有军队。§!;;;;;;;;;;x
 alert_troops_in_foreign_territory_delayed;在 $LIST$。;;;;;;;;;;x
-alert_revoltrisk_in_provinces_instant;§Y叛乱几率§!;;;;;;;;;;x
-alert_revoltrisk_in_provinces_delayed;下列郡有叛乱的危险：\n$LIST$;;;;;;;;;;x
+alert_revoltrisk_in_provinces_instant;§Y可能的叛乱§!;;;;;;;;;;x
+alert_revoltrisk_in_provinces_delayed;下列省份有叛乱的危险：\n$LIST$;;;;;;;;;;x
 alert_noheir_delayed;当前人物死亡将结束游戏！;;;;;;;;;;x
-alert_court_not_filled_instant;§Y宫廷成员空缺§!;;;;;;;;;;x
-alert_court_not_filled_delayed;以下职务需要有人担任：\n$LIST$\n§G点击进入宫廷查看§!;;;;;;;;;;x
+alert_court_not_filled_instant;§Y内阁成员空缺§!;;;;;;;;;;x
+alert_court_not_filled_delayed;以下职务需要有人担任：\n$LIST$\n§G点击进入宫廷界面§!;;;;;;;;;;x
 alert_lose_title_on_succ_instant;§Y继承时将失去头衔§!;;;;;;;;;;x
 alert_lose_title_on_succ_delayed;以下头衔将在继承时失去：\n$LIST$;;;;;;;;;;x
 alert_should_nominate_heir_instant;§Y提名继承人§!;;;;;;;;;;x
@@ -76,7 +76,7 @@ alert_adult_sons_notitle_instant;§Y有儿子未获得土地§!;;;;;;;;;;x
 alert_adult_sons_notitle_delayed;以下成年儿子没有任何土地：\n$LIST$;;;;;;;;;;x
 alert_betrothed_should_marry_instant;§Y订婚者可以结婚§!;;;;;;;;;;x
 alert_betrothed_should_marry_delayed;以下订婚者可以结婚：\n$LIST$;;;;;;;;;;x
-alert_can_imprison_instant;§Y拘禁逮捕§!;;;;;;;;;;x
+alert_can_imprison_instant;§Y合理逮捕§!;;;;;;;;;;x
 alert_can_imprison_delayed;你能拘禁以下人士，而不会得到恶名：\n$LIST$;;;;;;;;;;x
 alert_titles_may_pass_from_realm_instant;§Y封臣继承危机§!;;;;;;;;;;x
 alert_titles_may_pass_from_realm_delayed;有封臣面临继承危机。\n一旦死亡，他们的头衔会被外国继承：\n$LIST$;;;;;;;;;;x
@@ -133,7 +133,7 @@ city_barracks_2;扩大的民兵军营;;;;;;;;;;x
 city_stable;民兵马厩;;;;;;;;;;x
 ct_marketplace_1;市集;;;;;;;;;;x
 ct_marketplace_2;同业行会;;;;;;;;;;x
-ct_marketplace_3;收费所;;;;;;;;;;x
+ct_marketplace_3;收费站;;;;;;;;;;x
 ct_marketplace_4;法院;;;;;;;;;;x
 ct_marketplace_5;货币检验所;;;;;;;;;;x
 ct_marketplace_6;大型市场;;;;;;;;;;x
@@ -150,7 +150,7 @@ tp_town_4;堂区;;;;;;;;;;x
 tp_town_5;铎区;;;;;;;;;;x
 tp_town_6;教区;;;;;;;;;;x
 GIVEN_GOLD;$NAME$ 收到 $GOLD$¤;;;;;;;;;;x
-CB_NAME_CLAIM;宣称[Title.GetBaseName];;;;;;;;;;x
+CB_NAME_CLAIM;宣称 [Title.GetBaseName];;;;;;;;;;x
 WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$夺取$OTHER_TITLE$的战争;;;;;;;;;;x
 CB_NAME_SENIORITY_SUCCESSION_LAW;年长者继承法;;;;;;;;;;x
 WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$年长者继承法内战;;;;;;;;;;x
@@ -158,17 +158,17 @@ CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;长子继承法;;;;;;;;;;x
 WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$长子继承法内战;;;;;;;;;;x
 CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;选举继承法;;;;;;;;;;x
 WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$选举继承法内战;;;;;;;;;;x
-CB_NAME_RELIGIOUS;[Title.GetBaseName]圣战;;;;;;;;;;x
+CB_NAME_RELIGIOUS;[Title.GetBaseName] 圣战;;;;;;;;;;x
 WAR_NAME_RELIGIOUS;$ORDER$$FIRST_ADJ$对$OTHER_TITLE$圣战;;;;;;;;;;x
-CB_NAME_CRUSADE;[Title.GetBaseName]$HOLY_WAR$;;;;;;;;;;x
-CB_NAME_EXCOMMUNICATED_RULER;开除教籍;;;;;;;;;;x
-WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$的绝罚战争;;;;;;;;;;x
+CB_NAME_CRUSADE;[Title.GetBaseName] $HOLY_WAR$;;;;;;;;;;x
+CB_NAME_EXCOMMUNICATED_RULER;被绝罚的统治者;;;;;;;;;;x
+WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$——$SECOND_ADJ$的绝罚战争;;;;;;;;;;x
 CB_NAME_INDEPENDENCE;独立;;;;;;;;;;x
-WAR_NAME_INDEPENDENCE;$ORDER$$FIRST_ADJ$独立战争;;;;;;;;;;x
+WAR_NAME_INDEPENDENCE;$ORDER$$FIRST_ADJ$ 独立战争;;;;;;;;;;x
 CB_NAME_OVERTHROWRULER;推翻统治;;;;;;;;;;x
 WAR_NAME_OVERTHROWRULER;$ORDER$推翻暴君$DEFENDER$的战争;;;;;;;;;;x
 CB_NAME_SUCCESSION;继承争议;;;;;;;;;;x
-WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$继承危机;;;;;;;;;;x
+WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$ 继承危机;;;;;;;;;;x
 ON_CB_ADD_DESC;§Y当我们发动战争：§W\n;;;;;;;;;;x
 ON_CB_SUCCESS_DESC;§Y如果我们赢得战争：§W\n;;;;;;;;;;x
 ON_CB_FAIL_DESC;§Y如果我们无条件和平：§W\n;;;;;;;;;;x
@@ -182,14 +182,14 @@ claim_desc;§Y$CLAIMANT$§!可以用这个宣战理由夺取§Y$TITLE$§!;;;;;;;
 claim_on_liege_desc;§Y$CLAIMANT$§!可以用这个宣战理由夺取§Y$TITLE$§!;;;;;;;;;;x
 other_claim_on_liege_desc;§Y$PRESSER$§!可以用这个宣战理由帮§Y$CLAIMANT$§!夺取§Y$TITLE$§!;;;;;;;;;;x
 invasion_desc;§Y$CLAIMANT$§!有权利入侵§Y$TITLE$§!。如果成功，可以夺取这个头衔下辖的所有领地。;;;;;;;;;;x
-excommunicated_ruler_desc;§Y$TARGET$§!已被开除教籍，这是个很难得的战争理由！;;;;;;;;;;x
-bid_for_independence_desc;§Y$CLAIMANT$§!可以试图从§Y$TARGET$§!的通知下独立;;;;;;;;;;x
+excommunicated_ruler_desc;§Y$TARGET$§!已被绝罚，这是个很难得的战争理由！;;;;;;;;;;x
+bid_for_independence_desc;§Y$CLAIMANT$§!可以试图从§Y$TARGET$§!的统治下独立;;;;;;;;;;x
 overthrow_ruler_desc;§Y$TARGET$§!未能成功拘禁§Y$CLAIMANT$§!，引发了一场武装冲突;;;;;;;;;;x
-dejure_county_claim_desc;这个 §Y$TITLE$§!是§Y$CLAIMANT$§!的法理封臣，有足够理由发动战争。;;;;;;;;;;x
+dejure_county_claim_desc;这个§Y$TITLE$§!是§Y$CLAIMANT$§!的法理封臣，有足够理由发动战争。;;;;;;;;;;x
 change_seniority_succession_law_desc;§Y$CLAIMANT$§!可以发动战争以将§Y$TITLE$§!的继承法改为年长者继承！;;;;;;;;;;x
 change_primogeniture_succession_law_desc;§Y$CLAIMANT$§!可以发动战争以将§Y$TITLE$§!的继承法改为长子继承！;;;;;;;;;;x
 change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§!可以发动战争以将§Y$TITLE$§!的继承法改为选举继承！;;;;;;;;;;x
-crusade_desc;§Y$CLAIMANT$§!可以用这个宣战理由夺取异教徒§Y$TARGET$§!在§Y$TITLE$§!的所有领地。神的旨意！;;;;;;;;;;x
+crusade_desc;§Y$CLAIMANT$§!可以用这个宣战理由夺取异教徒§Y$TARGET$§!在§Y$TITLE$§!法理内的所有领地。;;;;;;;;;;x
 change_gavelkind_succession_law_desc;§Y$CLAIMANT$§!可以发动战争以将§Y$TITLE$§!的继承法改为均分继承！;;;;;;;;;;x
 CB_NAME_GAVELKIND_SUCCESSION_LAW;均分继承法;;;;;;;;;;x
 WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$均分继承法内战;;;;;;;;;;x
@@ -220,20 +220,20 @@ no_tactic;无战术;;;;;;;;;;x
 generic_skirmish_tactic;普通射击战术;;;;;;;;;;x
 harass_tactic;骚扰战术;;;;;;;;;;x
 volley_tactic;齐射战术;;;;;;;;;;x
-swarm_volley_tactic;密集射击战术;;;;;;;;;;x
-swarm_tactic;密集袭击战术;;;;;;;;;;x
+swarm_volley_tactic;蜂群齐射战术;;;;;;;;;;x
+swarm_tactic;蜂群战术;;;;;;;;;;x
 shieldwall_tactic;盾墙战术;;;;;;;;;;x
-fient_tactic;详攻;;;;;;;;;;x
-prepare_tactic;准备;;;;;;;;;;x
-charge_of_opportunity_tactic;冲锋;;;;;;;;;;x
+fient_tactic;佯攻战术;;;;;;;;;;x
+prepare_tactic;准备战术;;;;;;;;;;x
+charge_of_opportunity_tactic;时机冲锋;;;;;;;;;;x
 charge_tactic;冲锋战术;;;;;;;;;;x
-wait_tactic;等待;;;;;;;;;;x
+wait_tactic;等待战术;;;;;;;;;;x
 advance_tactic;推进战术;;;;;;;;;;x
-awesome_advance_tactic;突破战术;;;;;;;;;;x
+awesome_advance_tactic;急速推进;;;;;;;;;;x
 stand_fast_tactic;固守战术;;;;;;;;;;x
 slow_advance_tactic;缓慢推进;;;;;;;;;;x
-barrage_tactic;集中火力战术;;;;;;;;;;x
-raid_tactic;突然袭击;;;;;;;;;;x
+barrage_tactic;弹幕战术;;;;;;;;;;x
+raid_tactic;突袭战术;;;;;;;;;;x
 pursue_tactic;追击战术;;;;;;;;;;x
 CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];;;;;;;;;;x
 CHAR_INSTANT_PLAYER_OPINION;[GetInstantPlayerOpinion];;;;;;;;;;x
@@ -268,7 +268,7 @@ norwegian;挪威人;;;;;;;;;;x
 danish;丹麦人;;;;;;;;;;x
 german;日耳曼人;;;;;;;;;;x
 english;英格兰人;;;;;;;;;;x
-saxon;盎格鲁萨克逊人;;;;;;;;;;x
+saxon;盎格鲁-萨克逊人;;;;;;;;;;x
 dutch;荷兰人;;;;;;;;;;x
 norman;诺曼人;;;;;;;;;;x
 italian;意大利人;;;;;;;;;;x
@@ -299,7 +299,7 @@ pecheneg;佩切涅格人;;;;;;;;;;x
 bedouin_arabic;贝都因人;;;;;;;;;;x
 levantine_arabic;黎凡特人;;;;;;;;;;x
 egyptian_arabic;埃及人;;;;;;;;;;x
-andalusian_arabic;安达卢西亚人;;;;;;;;;;x
+andalusian_arabic;安达卢斯人;;;;;;;;;;x
 russian;罗斯人;;;;;;;;;;x
 bohemian;波西米亚人;;;;;;;;;;x
 polish;波兰人;;;;;;;;;;x
@@ -317,7 +317,7 @@ iberian;伊比利亚文化;;;;;;;;;;x
 byzantine;拜占庭文化;;;;;;;;;;x
 celtic;凯尔特文化;;;;;;;;;;x
 finno_ugric;芬兰-乌戈尔文化;;;;;;;;;;x
-baltic;波罗地文化;;;;;;;;;;x
+baltic;波罗的文化;;;;;;;;;;x
 altaic;阿尔泰文化;;;;;;;;;;x
 arabic;阿拉伯文化;;;;;;;;;;x
 east_slavic;东斯拉夫文化;;;;;;;;;;x
@@ -369,7 +369,7 @@ MEASLES_INFO;麻疹正在这个郡迅速蔓延。;;;;;;;;;;x
 small_pox;天花;;;;;;;;;;x
 SMALL_POX_INFO;天花袭击了这个郡，造成将近半数感染者死亡。;;;;;;;;;;x
 TIMELEFT;剩下$MONTHS$个月;;;;;;;;;;x
-COVERAGE;疫情已经蔓延到$NUM$个地区;;;;;;;;;;x
+COVERAGE;疫情已经蔓延到$NUM$个省份;;;;;;;;;;x
 PROVINCE_HAS_DISEASE;爆发了$DISEASE$\n;;;;;;;;;;x
 PROVINCE_DOES_NOT_HAVE_DISEASE;没有爆发$DISEASE$\n;;;;;;;;;;x
 PROVINCE_HAS_ANY_DISEASE;有疫病爆发\n;;;;;;;;;;x
@@ -493,7 +493,7 @@ SET_TITLE_HOLDER_INHERIT_EFFECT;§Y$CHAR$§!继承头衔§Y$TITLE$§!\n;;;;;;;;;
 SET_TITLE_HOLDER_GRANT_EFFECT;§Y$CHAR$§!被授予头衔 §Y$TITLE$§!\n;;;;;;;;;;x
 REBEL_DEFECTION_EFFECT;§Y$TITLE$§!叛逃到§Y$CHAR$§!\n;;;;;;;;;;x
 END_WAR_EFFECT;战争结束条件如下：\n;;;;;;;;;;x
-PHASE_CHANGE_TO;战役阶段变为;;;;;;;;;;x
+PHASE_CHANGE_TO;战斗阶段变为;;;;;;;;;;x
 CROWN_INVESTITURE;国王可以任命主教\n;;;;;;;;;;x
 CHURCH_INVESTITURE;只有教宗可以任命主教\n;;;;;;;;;;x
 FREE_INVESTITURE;任何领主都可以任命主教\n;;;;;;;;;;x
@@ -530,8 +530,8 @@ ABANDON_HERESY_EFFECT;放弃§Y$HERESY$§!的异端信仰。\n;;;;;;;;;;x
 NAMED_CHARACTER_CREATED;$TYPE$ 名叫 §Y$NAME$§! 出现在 §Y$EMPLOYER$§!的宫廷内。\n;;;;;;;;;;x
 INFANT_CREATED;一个叫做§Y$NAME$§!的孩子出现在§Y$EMPLOYER$§!的宫廷。\n;;;;;;;;;;x
 CHARACTER_CREATED;$TYPE$出现在§Y$EMPLOYER$§!的宫廷。\n;;;;;;;;;;x
-HEALTH_EFFECT;§Y$WHO$§! $DIRECTION$ $VALUE$健康。\n;;;;;;;;;;x
-FERTILITY_EFFECT;§Y$WHO$§! $DIRECTION$ $PERC$生育能力。\n;;;;;;;;;;x
+HEALTH_EFFECT;§Y$WHO$§W $DIRECTION$ $VALUE$健康。\n;;;;;;;;;;x
+FERTILITY_EFFECT;§Y$WHO$§W $DIRECTION$ $PERC$生育能力。\n;;;;;;;;;;x
 CHANGECULTUREEFFECT;$WHERE$成为$NAME$。\n;;;;;;;;;;x
 RELIGION_CHANGE;$WHERE$成为$NAME$。\n;;;;;;;;;;x
 ACTIVATE_TITLE_EFFECT;§Y$TITLE$§!现在存在。\n;;;;;;;;;;x
@@ -564,10 +564,10 @@ ALLOW_FREE_REVOKATION_ON;随意撤回头衔\n;;;;;;;;;;x
 ALLOW_FREE_REVOKATION_OFF;不能随意撤回头衔\n;;;;;;;;;;x
 ENEMY_TROOPS;§Y敌人§!: ;;;;;;;;;;x
 INHERIT_EFFECT;§Y$ABDICATOR$§!禅让予§Y$HEIR$§!.\n;;;;;;;;;;x
-FATHER_EFFECT;§Y$FATHER$§!收养§Y$WHO$§!.\n;;;;;;;;;;x
-MOTHER_EFFECT;§Y$MOTHER$§!收养§Y$WHO$§!.\n;;;;;;;;;;x
+FATHER_EFFECT;§Y$FATHER$§!收养§Y$WHO$§W。\n;;;;;;;;;;x
+MOTHER_EFFECT;§Y$MOTHER$§!收养§Y$WHO$§W。\n;;;;;;;;;;x
 DISEASE_INCREASED;患病时间增加了$VAL$月.\n;;;;;;;;;;x
-DISEASE_DECREASED;患病时间减少了$VAL$月.\n;;;;;;;;;;x
+DISEASE_DECREASED;患病时间减少了$VAL$月。\n;;;;;;;;;;x
 COMBATEND_SURVIVORS;幸存;;;;;;;;;;x
 COMBATEND_CASUALTIES;伤亡;;;;;;;;;;x
 COMBATEND_INITIAL;初始;;;;;;;;;;x
@@ -576,22 +576,22 @@ COMBATEND_WARSCORE;§Y战争分数改变§!;;;;;;;;;;x
 COMBATEND_CHAR_DEAD;$CHAR$在战斗中阵亡;;;;;;;;;;x
 COMBATEND_CHAR_IMPR;$CHAR$在战斗中被俘;;;;;;;;;;x
 COMBATEND_PRESTIGE;§Y战斗中获得的威望§!;;;;;;;;;;x
-COMBATEND_TOTAL;总计:;;;;;;;;;;x
-COMBATEND_REST;其他指挥官: ;;;;;;;;;;x
+COMBATEND_TOTAL;总计：;;;;;;;;;;x
+COMBATEND_REST;其他指挥官：;;;;;;;;;;x
 COMBATEND_PIETY;§Y[Player.Religion.GetPietyName]战斗中获得的虔诚§!;;;;;;;;;;x
 COMBATEND_WEALTH_STOLEN;§Y围城劫掠的金钱§!;;;;;;;;;;x
-COMBATVIEW_TOTALTROOPS_FLANK;这一翼的剩余部队:;;;;;;;;;;x
-COMBATVIEW_PHASE_NAME;这一翼正在 §Y$PHASE$阶段§!;;;;;;;;;;x
-COMBATVIEW_PHASE_DAMAGE;在 $PHASE$阶段时这一翼每天每名士兵将平均造成§Y$AVERAGE$§!伤害;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_SKIRMISH;在射击阶段两军将保持距离\n§Y弓箭手§!,§Y骑射手§!和§Y轻骑兵§!擅长§Y射击阶段§!;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_MELEE;在肉搏阶段两军面对面厮杀\n§Y重步兵§!,§Y长枪兵§!和§Y骑士§!擅长§Y肉搏阶段§!;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_PURSUE;在追击阶段败军溃散，胜者追亡逐北\n§Y骑士§!,§Y轻骑兵§!和§Y骑射手§!擅长§Y追击阶段§!;;;;;;;;;;x
-COMBATVIEW_TROOP_DEFENCE;(本阶段的平均防御力:§Y$DEF$§!);;;;;;;;;;x
-COMBATVIEW_AVERAGE_MORALE;平均士气： §Y$MORALE$§!（每周§Y+$DELTA$§!）;;;;;;;;;;x
+COMBATVIEW_TOTALTROOPS_FLANK;这一翼的剩余部队：;;;;;;;;;;x
+COMBATVIEW_PHASE_NAME;这一翼正在 §Y$PHASE$阶段§W;;;;;;;;;;x
+COMBATVIEW_PHASE_DAMAGE;在 $PHASE$阶段时这一翼每天每名士兵将平均造成§Y$AVERAGE$§W伤害;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_SKIRMISH;在射击阶段两军将保持距离\n§Y弓箭手§!，§Y弓骑兵§!和§Y轻骑兵§!擅长§Y遭遇阶段§!;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_MELEE;在肉搏阶段两军面对面厮杀\n§Y重步兵§W，§Y长枪兵§W和§Y骑士§W擅长§Y肉搏阶段§W;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_PURSUE;在追击阶段败军溃散，胜者追亡逐北\n§Y骑士§!,§Y轻骑兵§!和§Y弓骑兵§!擅长§Y追击阶段§!;;;;;;;;;;x
+COMBATVIEW_TROOP_DEFENCE;(本阶段的平均防御力：§Y$DEF$§W);;;;;;;;;;x
+COMBATVIEW_AVERAGE_MORALE;平均士气： §Y$MORALE$§W（每周§Y+$DELTA$§W ）;;;;;;;;;;x
 ENDGAME_DYNA1;一些随机的家族;;;;;;;;;;x
 ENDGAME_STARTOFGAME;游戏开始;;;;;;;;;;x
-ENDGAME_TEXT_DEATH;历经$NUMCHARS$代统治者后，你的家族于无后的$ENDCHAR$处终结. ;;;;;;;;;;x
-END_HISTORICAL_DYNASTIES;历史家族:;;;;;;;;;;x
+ENDGAME_TEXT_DEATH;历经$NUMCHARS$代统治者后，你的家族于无后的$ENDCHAR$处终结。;;;;;;;;;;x
+END_HISTORICAL_DYNASTIES;历史家族：;;;;;;;;;;x
 END_GAME_OVER;游戏结束！;;;;;;;;;;x
 END_YOUR_SCORE;你的分数;;;;;;;;;;x
 QUIT_TO_MENU;退出到主菜单;;;;;;;;;;x
@@ -599,36 +599,36 @@ DAYS_OF_RULE;统治了$DAYS$天;;;;;;;;;;x
 MONTHS_OF_RULE;统治了$MONTHS$个月;;;;;;;;;;x
 YEARS_OF_RULE;统治了$YEARS$年;;;;;;;;;;x
 FAILED_TO; 没能;;;;;;;;;;x
-DYN1_DESC;最终分数：$SCORE$.你$FAILED$超过卡佩家族.卡佩家族由秃头查理的重臣强者罗伯特所创建，最终在1066年获得法兰西王位.尽管在1322年时直系后裔断绝，卡佩家族的分支依然在1337年时拥有法兰西，葡萄牙，那不勒斯，匈牙利和纳瓦拉的王位.其他分支还拥有布列塔尼，勃艮第，波旁，普罗旺斯和阿凯亚公爵头衔.一个更远的分支是君士坦丁堡拉丁帝国的皇帝.这真是中世纪欧洲史最伟大的家族..;;;;;;;;;;x
-DYN2_DESC;最终分数：$SCORE$.你$FAILED$超过哈布斯堡家族.一开始，在1066年，哈布斯堡家族前景十分暗淡.比起11世纪日耳曼诸多呼风唤雨的庞大家族，哈布斯堡只是一个瑞士的小伯爵，在帝国内部无足轻重.但是一连串精心策划的政治联姻使家族领地不断扩大，最终在13世纪末14世纪初的大混乱中被选为神圣罗马帝国皇帝，获得了帝国的统治权.尽管皇位并不长久，哈布斯堡还是借机攫取了奥地利公爵头衔.依靠奥地利，哈布斯堡家族在中欧的统治持续到了1918年.;;;;;;;;;;x
-DYN3_DESC;最终分数：$SCORE$.你$FAILED$超过留里克家族.9世纪时，来自瑞典的维京人留里克在罗斯（今天的俄罗斯和乌克兰）建立了一个国家.在继承人中分割领地的政策导致了国家的分裂和不同支系之间的争斗不休.这使他们在13世纪时过于分裂，无法抵挡住蒙古入侵.成吉思汗之孙拔都逐个征服了这些公国，强迫他们向蒙古人纳贡.不过留里克家族还是保存下来了，等待着重新崛起的时机……...;;;;;;;;;;x
+DYN1_DESC;最终分数：$SCORE$。你$FAILED$超过卡佩家族。卡佩家族由秃头查理的重臣强者罗伯特所创建，最终在1066年获得法兰西王位。尽管在1322年时直系后裔断绝，卡佩家族的分支依然在1337年时拥有法兰西，葡萄牙，那不勒斯，匈牙利和纳瓦拉的王位。其他分支还拥有布列塔尼，勃艮第，波旁，普罗旺斯和亚该亚公爵头衔。一个更远的分支是君士坦丁堡拉丁帝国的皇帝。这真是中世纪欧洲史最伟大的家族。;;;;;;;;;;x
+DYN2_DESC;最终分数：$SCORE$。你$FAILED$超过哈布斯堡家族。一开始，在1066年，哈布斯堡家族前景十分暗淡。比起11世纪日耳曼诸多呼风唤雨的庞大家族，哈布斯堡只是一个瑞士的小伯爵，在帝国内部无足轻重。但是一连串精心策划的政治联姻使家族领地不断扩大，最终在13世纪末14世纪初的大混乱中被选为神圣罗马帝国皇帝，获得了帝国的统治权。尽管皇位并不长久，哈布斯堡还是借机攫取了奥地利公爵头衔。依靠奥地利，哈布斯堡家族在中欧的统治持续到了1918年。;;;;;;;;;;x
+DYN3_DESC;最终分数：$SCORE$.你$FAILED$超过留里克家族。9世纪时，来自瑞典的维京人留里克在罗斯（今天的俄罗斯和乌克兰）建立了一个国家。在继承人中分割领地的政策导致了国家的分裂和不同支系之间的争斗不休。这使他们在13世纪时过于分裂，无法抵挡住蒙古入侵。成吉思汗之孙拔都逐个征服了这些公国，强迫他们向蒙古人纳贡。不过留里克家族还是保存下来了，等待着重新崛起的时机……...;;;;;;;;;;x
 DYN4_DESC;最终分数：$SCORE$.你$FAILED$超过伊夫雷亚家族.伊夫雷亚家族有着杰出的祖先，但在1066年，尽管他们取得了从意大利国王到勃艮第伯爵的头衔，仍然在走下坡路.看起来这个家族已经过气了，不过一次幸运的联姻将卡斯蒂利亚和莱昂国王的头衔拱手送上，使伊夫雷亚家族重新成为欧洲舞台上的关键人物之一.;;;;;;;;;;x
-DYN5_DESC;最终分数：$SCORE$.你$FAILED$超过皮亚斯特家族.皮亚斯特家族的创建者在成为波兰国王之前据说是个轮匠.尽管波兰王国四分五裂，皮亚斯特家族还是在这一时期稳居王位，并逐渐将波兰变得统一而强盛.家族的其他成员包括神圣罗马帝国的西里西亚公爵.在1337年，有史以来最伟大的国王卡齐米日三世统治着波兰，正在秣马厉兵准备反击蒙古汗国.;;;;;;;;;;x
-DYN6_DESC;最终分数：$SCORE$.你$FAILED$超过科穆宁家族.如果我们将1057年通过政变成为皇帝的伊萨克一世排除在外，科穆宁家族一直是拜占庭帝国的忠诚仆人.在曼奇刻尔特惨败于塞尔柱人之后的大混乱中，科穆宁家族坚守其引以为傲的家族传统，发动了另一场政变.在接下来的100年里，科穆宁家族遏制住了拜占庭帝国的衰落，为帝国带来了所谓的科穆宁复兴.讽刺的是，科穆宁家族同样被宫廷政变所推翻，不过他们在小亚细亚的特雷比松建立了新的帝国;;;;;;;;;;x
-DYN7_DESC;最终分数：$SCORE$.你$FAILED$超过金雀花家族.金雀花家族是安茹家族的分支.家族创建者杰弗里在父亲从法国动身前往耶路撒冷加冕为王后脱离了本家.金雀花家族的核心领地在法国，通过联姻继承了英格兰国王和法国的大片领土.不过，在法国继承的领地最终引发了与法兰西国王的冲突，最后演变为百年战争.;;;;;;;;;;x
-DYN8_DESC;最终分数：$SCORE$.你$FAILED$超过英格林家族.伊里温家族于1047年成为丹麦国王.到1337年，这个家族是仅有的两个仍保持着王位的家族之一.尽管几次试图扩张，丹麦只成功得到了爱沙尼亚的几块领地，其他的扩张最终归于失败.家族本身生命力倒是十分顽强，在混乱和骚动的时代始终屹立不倒，这毫无疑问是一项伟大的业绩. ;;;;;;;;;;x
+DYN5_DESC;最终分数：$SCORE$。你$FAILED$超过皮亚斯特家族。皮亚斯特家族的创建者在成为波兰国王之前据说是个轮匠。尽管波兰王国四分五裂，皮亚斯特家族还是在这一时期稳居王位，并逐渐将波兰变得统一而强盛。家族的其他成员包括神圣罗马帝国的西里西亚公爵。在1337年，有史以来最伟大的国王卡齐米日三世统治着波兰，正在秣马厉兵准备反击蒙古汗国。;;;;;;;;;;x
+DYN6_DESC;最终分数：$SCORE$。你$FAILED$超过科穆宁家族。如果我们将1057年通过政变成为皇帝的伊萨克一世排除在外，科穆宁家族一直是拜占庭帝国的忠诚仆人。在曼奇刻尔特惨败于塞尔柱人之后的大混乱中，科穆宁家族坚守其引以为傲的家族传统，发动了另一场政变。在接下来的100年里，科穆宁家族遏制住了拜占庭帝国的衰落，为帝国带来了所谓的科穆宁复兴。讽刺的是，科穆宁家族同样被宫廷政变所推翻，不过他们在小亚细亚的特拉布宗建立了新的帝国。;;;;;;;;;;x
+DYN7_DESC;最终分数：$SCORE$。你$FAILED$超过金雀花家族。金雀花家族是安茹家族的分支。家族创建者杰弗里在父亲从法国动身前往耶路撒冷加冕为王后脱离了本家。金雀花家族的核心领地在法国，通过联姻继承了英格兰国王和法国的大片领土。不过，在法国继承的领地最终引发了与法兰西国王的冲突，最后演变为百年战争。;;;;;;;;;;x
+DYN8_DESC;最终分数：$SCORE$。你$FAILED$超过英格林家族。伊里温家族于1047年成为丹麦国王。到1337年，这个家族是仅有的两个仍保持着王位的家族之一。尽管几次试图扩张，丹麦只成功得到了爱沙尼亚的几块领地，其他的扩张最终归于失败。家族本身生命力倒是十分顽强，在混乱和骚动的时代始终屹立不倒，这毫无疑问是一项伟大的业绩。;;;;;;;;;;x
 DYN10_DESC;结束分数：$SCORE$.你$FAILED$超过韦尔夫家族.韦尔夫家族在1066年还是个运气不佳的小家族.到了1100年，一切都变了.家族拥有日耳曼的两个最有实力的公爵头衔和意大利的大片领土，是仅次于霍亨斯陶芬家族的日耳曼第二大家族.韦尔夫家族的一个成员还曾经试图称帝，在这次不成功的尝试中家族的力量大为削弱，很多领地也因此丧失。之后，作为布伦瑞克公爵，韦尔夫家族巩固了在北日耳曼的根基，继续活跃在帝国的政治舞台上.;;;;;;;;;;x
-DYN11_DESC;最终分数：$SCORE$.你$FAILED$超过日内瓦家族.1066年，日内瓦家族拥有日内瓦伯爵头衔.到了1337年，日内瓦家族仍然是日内瓦伯爵.他们从未试图扩张，与此同时他们也牢牢掌握住了自己的领地.;;;;;;;;;;x
-DYN12_DESC;最终分数：$SCORE$.你$FAILED$超过扎林根家族.扎林根家族是南日耳曼强大的领主，也是维罗纳和克恩滕公爵.这使其成为日耳曼的关键家族之一.这些头衔在一场针对皇帝的失败叛乱后被剥夺，其他领地也在联姻中被其他家族继承，最后只剩下在斯瓦比亚的几块大大缩水的领地.;;;;;;;;;;x
-DYN13_DESC;最终分数：$SCORE$.你$FAILED$超过蒙特福特家族.蒙特福特家族是法国的小领主，后来通过联姻和受封，在诺曼底和英格兰都得到了领地.在狂热而残暴的老西蒙·蒙特福特时期，家族开始跻身高位.通过参与对阿尔比派异端的十字军，家族获得了法国南部的大片领土.他的儿子，小西蒙·蒙特福特，带领家族攀上权力的最高峰，成为实际上的英格兰统治者.不过权力和财富很快烟消云散，到了1337年，蒙特福特家族不仅失去了所有的领地，而且断绝了男性后裔.;;;;;;;;;;x
-DYN15_DESC;以分数$SCORE$你$FAILED$击败巴本堡家族。别把它和奥地利著名的冯 巴本堡家族弄混了，这个卡佩家族的分支在弗兰克尼亚有个小头衔。若不是他们与著名家族有着类似的名字，历史可能根本不会记住他们。;;;;;;;;;;x
-EVTDESC1028;看起来这个年轻女人不再能使我喜欢上她了.;;;;;;;;;;x
+DYN11_DESC;最终分数：$SCORE$。你$FAILED$超过日内瓦家族。1066年，日内瓦家族拥有日内瓦伯爵头衔。到了1337年，日内瓦家族仍然是日内瓦伯爵。他们从未试图扩张，与此同时他们也牢牢掌握住了自己的领地。;;;;;;;;;;x
+DYN12_DESC;最终分数：$SCORE$。你$FAILED$超过扎林根家族。扎林根家族是南日耳曼强大的领主，也是维罗纳和克恩滕公爵。这使其成为日耳曼的关键家族之一。这些头衔在一场针对皇帝的失败叛乱后被剥夺，其他领地也在联姻中被其他家族继承，最后只剩下在斯瓦比亚的几块大大缩水的领地。;;;;;;;;;;x
+DYN13_DESC;最终分数：$SCORE$.你$FAILED$超过蒙特福特家族。蒙特福特家族是法国的小领主，后来通过联姻和受封，在诺曼底和英格兰都得到了领地。在狂热而残暴的老西蒙·蒙特福特时期，家族开始跻身高位。通过参与对阿尔比派异端的十字军，家族获得了法国南部的大片领土。他的儿子，小西蒙·蒙特福特，带领家族攀上权力的最高峰，成为实际上的英格兰统治者。不过权力和财富很快烟消云散，到了1337年，蒙特福特家族不仅失去了所有的领地，而且断绝了男性后裔。;;;;;;;;;;x
+DYN15_DESC;以分数$SCORE$你$FAILED$击败巴本堡家族。别把它和奥地利著名的冯·巴本堡家族弄混了，这个卡佩家族的分支在弗兰克尼亚有个小头衔。若不是他们与著名家族有着类似的名字，历史可能根本不会记住他们。;;;;;;;;;;x
+EVTDESC1028;看起来这个年轻女人不再能使我喜欢上她了。;;;;;;;;;;x
 EVTOPTA1028;我再也不会喜欢上美色了！;;;;;;;;;;x
-EVTDESC1030;仅有面包和清水的饮食并不能使我满意.我需要一些别的东西，一些美味的食物和饭后甜点.;;;;;;;;;;x
+EVTDESC1030;仅有面包和清水的饮食并不能使我满意。我需要一些别的东西，一些美味的食物和饭后甜点。;;;;;;;;;;x
 EVTOPTA1030;我破戒，开始酗酒嫖娼;;;;;;;;;;x
-EVTDESC1031;我再也不能在每天大量喝优质葡萄酒以及吃大量的红肉和昂贵的调料的饮食中感到快乐.我想我需要节食.;;;;;;;;;;x
+EVTDESC1031;我再也不能在每天大量喝优质葡萄酒以及吃大量的红肉和昂贵的调料的饮食中感到快乐。我想我需要节食。;;;;;;;;;;x
 EVTOPTA1031;我需要面包和水！;;;;;;;;;;x
-EVTDESC1032;人类一点也不可爱.;;;;;;;;;;x
+EVTDESC1032;人类一点也不可爱。;;;;;;;;;;x
 EVTOPTA1032;无需怜悯！;;;;;;;;;;x
 EVTDESC1033;金钱既不能让我得到快乐，也不能让我得到尊重。;;;;;;;;;;x
 EVTOPTA1033;我想我的生命中需要其他东西！;;;;;;;;;;x
-EVTDESC1034;工作的越来越无聊，每天的时间变得越来越难熬.;;;;;;;;;;x
-EVTOPTA1034;勤奋或许是一种美德，但这种美德在不断消耗中!;;;;;;;;;;x
-EVTDESC1035;我感到魂不守舍，或许做一些工作会让我平静下来?;;;;;;;;;;x
+EVTDESC1034;工作变得越来越无聊，每天的时间变得越来越难熬。;;;;;;;;;;x
+EVTOPTA1034;勤奋或许是一种美德，但我已经精疲力竭了！;;;;;;;;;;x
+EVTDESC1035;我感到魂不守舍，或许做一些工作会让我平静下来？;;;;;;;;;;x
 EVTOPTA1035;不能懒惰了！;;;;;;;;;;x
-EVTDESC1036;每天对一群他人保持和善真实恶心;;;;;;;;;;x
-EVTOPTA1036;承受我的怒火吧，现充!;;;;;;;;;;x
-EVTDESC1037;我应该为我所得到的感到高兴，并不是所有人都像我一样拥有特权的.;;;;;;;;;;x
+EVTDESC1036;每天对一群他人保持和善真恶心;;;;;;;;;;x
+EVTOPTA1036;承受我的怒火吧!;;;;;;;;;;x
+EVTDESC1037;我应该为我所得到的感到高兴，并不是所有人都像我一样拥有特权的。;;;;;;;;;;x
 EVTOPTA1037;我会远离嫉妒的罪孽!;;;;;;;;;;x
 EVTDESC1038;我开始觉得容忍他人是愚蠢的.;;;;;;;;;;x
 EVTOPTA1038;以眼还眼，以牙还牙!;;;;;;;;;;x
@@ -680,7 +680,7 @@ EVTOPTA1520;我的玩具！我的！;;;;;;;;;;x
 EVTDESC1521;我的 [GetFromRelation] [From.GetTitledFirstName] 不希望让我变成一个卑鄙又自私的小财迷.;;;;;;;;;;x
 EVTOPTA1521;但是... 这些是我的东西.;;;;;;;;;;x
 EVTDESC1530;如果你陪我玩的话，我会让你玩我的玩具.;;;;;;;;;;x
-EVTOPTA1530;我很好;;;;;;;;;;x
+EVTOPTA1530;我待人很好;;;;;;;;;;x
 EVTDESC1531;我的 [GetFromRelation] 告诉我不能让自己的东西被他人拿走，但我的朋友打算向我借一些玩具！;;;;;;;;;;x
 EVTOPTA1531;我很迷惑;;;;;;;;;;x
 EVTDESC1540;我讨厌拉丁文，讨厌历史，我不会做我的家庭作业！;;;;;;;;;;x
@@ -701,11 +701,11 @@ EVTOPTA1570;他们都很好;;;;;;;;;;x
 EVTDESC1571;我的 [GetFromRelation] [From.GetFirstName] 利用我对他信任和懦弱的本质，把我摁在他的膝盖上用木棒打我.;;;;;;;;;;x
 EVTOPTA1571;我会报复的，有些人真是魔鬼.;;;;;;;;;;x
 EVTDESC1580;那小子戏弄我.我把拳头打在了他脸上，并打的他流出了鼻血，没人可以为此指责我...;;;;;;;;;;x
-EVTOPTA1580;我恨他!;;;;;;;;;;x
+EVTOPTA1580;我恨他！;;;;;;;;;;x
 EVTDESC1581;我的 [GetFromRelation] [From.GetFirstName] 对我的脾气很不满意. [From.GetSubjectPronounCap] 要求我改善！;;;;;;;;;;x
 EVTOPTA1581;我也讨厌 [From.GetObjectPronoun] ！;;;;;;;;;;x
 EVTDESC1590;让那个小傻瓜在背地里讥笑我吧.我可以等待……复仇是最美味的佳肴.;;;;;;;;;;x
-EVTOPTA1590;需要付出耐心;;;;;;;;;;x
+EVTOPTA1590;耐心终有回报;;;;;;;;;;x
 EVTDESC1591;[From.GetFirstName],我的 [GetFromRelation], 斥责我病弱的体质. '精神点, 该死的！' [From.GetSubjectPronoun] 大喊了起来.;;;;;;;;;;x
 EVTOPTA1591;我的火气在上升;;;;;;;;;;x
 EVTDESC1600;我比其他的孩子优秀的多，我和他们不一样，我为何要伪装？;;;;;;;;;;x
@@ -2552,8 +2552,8 @@ EVTDESC232;我接受你的请求. 以 [From.Religion.GetRandomGodName]的名义,
 EVTDESC233;恐怕我必须拒绝授予你入侵 [Root.GetTitledFirstName]领地的权力.;;;;;;;;;;x
 EVTDESC234;经过长期的祈祷与冥想，我决定同意以近亲结婚的原因允许你同你的配偶离婚.;;;;;;;;;;x
 EVTDESC235;婚姻是神圣的纽带，因为教规，我无法允许你们离婚.;;;;;;;;;;x
-EVTDESC236;教会不能继续容忍 [Root.GetTitledFirstName]的卑劣行径了. 我们决定将 [Root.GetSubjectPronoun] 开除教籍！;;;;;;;;;;x
-EVTDESC237;我们不同意将高贵而又虔诚的 [Root.GetTitledFirstName]开除教籍.;;;;;;;;;;x
+EVTDESC236;[Root.GetTitledFirstName]的卑劣行径不能被继续容忍了。我们决定开革[Root.GetSubjectPronoun]的教籍并处以绝罚！;;;;;;;;;;x
+EVTDESC237;我们不同意绝罚高贵而又虔诚的[Root.GetTitledFirstName]。;;;;;;;;;;x
 EVTDESC238;我们当然会应您的要求加入战争！;;;;;;;;;;x
 EVTDESC239;很遗憾我们现在不能加入你的战争.;;;;;;;;;;x
 EVTDESC240;这是正式的宣战. 让我们的军队在战场上见!;;;;;;;;;;x
@@ -2609,7 +2609,7 @@ EVTDESC36020;我们的围猎团队在森林里碰见了一头熊.对于到底让
 EVTOPTA36020;现在就去除掉它!;;;;;;;;;;x
 EVTOPTB36020;把猎熊矛给我!;;;;;;;;;;x
 EVTOPTC36020;你们谁想去谁去，不要找我来.;;;;;;;;;;x
-EVTDESC36025;今天早晨猎犬表现的异常警觉，肯定有什么不寻常的东西在等待着我们.;;;;;;;;;;x
+EVTDESC36025;今天早晨猎犬表现的异常警觉，肯定有什么不寻常的东西在等待着我们。;;;;;;;;;;x
 EVTOPTA36025;我们还愣着干什么现在就出发;;;;;;;;;;x
 EVTOPTB36025;我的马出了点问题.;;;;;;;;;;x
 EVTOPTC36025;我不管那是什么东西，我们会捕获它！;;;;;;;;;;x
@@ -2700,7 +2700,7 @@ EVTDESC38021; [From.GetTitledFirstName]这个罪人应当下地狱！基督教�
 EVTOPTA38021;[From.GetSheHeCap] 被上帝所诅咒!;;;;;;;;;;x
 EVTOPTB38021;耶稣说过要宽恕罪人!;;;;;;;;;;x
 EVTTOOLTIP38022;[This.GetTitledFirstName] 遭到破门惩戒, 因为圣父听说了[From.GetSheHe] 的罪行.;;;;;;;;;;x
-EVTDESC38022;教廷的使者来到我们的宫廷，通知我们已被神圣的教会所诅咒. 我们被开除教籍了! ;;;;;;;;;;x
+EVTDESC38022;圣父的使者来到我们的宫廷，宣布我们被任何神圣的事物拒斥。我们被绝罚了！;;;;;;;;;;x
 EVTOPTA38022;我已遭到了上帝的审判...;;;;;;;;;;x
 EVTDESC38050;致[Root.GetTitledFirstName] 自 [From.GetTitledFirstName].  [From.PrimaryTitle.GetFullName]的雇佣军在拿钱的情况下是忠诚的. 但仅仅是在拿钱的情况下，[Root.PrimaryTitle.GetFOA]并不是你的下属.所以我们决定从你的国库里把你欠我们的钱拿回来，当然，要用一点暴力.;;;;;;;;;;x
 EVTOPTA38050;诅咒他!;;;;;;;;;;x
@@ -2835,10 +2835,10 @@ EVTOPTC50003;[From.GetTitledFirstName] 把我关进了地牢!;;;;;;;;;;x
 EVTDESC50005;我不能死在这个阴暗潮湿的地牢里. 我应该要求 [Root.Host.GetTitledFirstName] 改善我的待遇.;;;;;;;;;;x
 EVTOPTA50005;提出要求;;;;;;;;;;x
 EVTOPTB50005;我不敢激怒 [Root.Host.GetObjectPronoun]...;;;;;;;;;;x
-EVTDESC50006;我的囚徒, [From.GetBestName], 向我抱怨 [From.GetHerHis] 在牢房里的恶劣条件并要求我改善他的待遇...;;;;;;;;;;x
-EVTOPTA50006;让 [From.GetObjectPronoun] 烂在牢里吧;;;;;;;;;;x
+EVTDESC50006;我的囚徒，[From.GetBestName]，向我抱怨在[From.GetHerHis]牢房里的恶劣条件并要求我改善他的待遇……;;;;;;;;;;x
+EVTOPTA50006;让[From.GetObjectPronoun]烂在牢里吧;;;;;;;;;;x
 EVTOPTB50006;很好，我将仁慈地改善你的待遇;;;;;;;;;;x
-EVTOPTC50006;更合适的待遇，别去牢房了，去地牢怎么样!;;;;;;;;;;x
+EVTOPTC50006;更合适的待遇？别去牢房了，去地牢怎么样？！;;;;;;;;;;x
 EVTDESC50007;[From.GetTitledFirstName] 亲切地接受了我的要求! 我被移往塔楼中的一个套间软禁.;;;;;;;;;;x
 EVTOPTA50007;赞美 [Root.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTDESC50008;残忍的 [Root.Host.GetTitledFirstName] 决定把我扔进暗无天日的地牢里! 我完了！..;;;;;;;;;;x
@@ -3619,9 +3619,9 @@ EVTOPTB65057;在寒冷的夜晚呆在靠近火源的温暖的床上;;;;;;;;;;x
 EVTDESC8400;我的对抗异教徒的召唤显然没有得到理睬，许多杰出的基督教统治者仍然没有穿上十字罩衣.;;;;;;;;;;x
 EVTOPTA8400;立刻送出一封提醒信;;;;;;;;;;x
 EVTDESC8405;致贵族[Root.GetTitledFirstName]，\n我对你仍未回应我的拿起武器对抗异教徒的召唤这件事情表示关切.我希望这只是你的一时疏忽，并期待着你在不久之后穿上十字罩衣.\n\n[From.GetTitledName];;;;;;;;;;x
-EVTOPTA8405;十字军东征跟我没关系;;;;;;;;;;x
+EVTOPTA8405;十字军远征跟我没关系;;;;;;;;;;x
 EVTOPTB8405;我承诺我将会在一个月之内启程;;;;;;;;;;x
-EVTDESC8410;我因为他们缺席正在进行的十字军东征而送出的提醒信显然没有得到理睬.我感到非常失望.;;;;;;;;;;x
+EVTDESC8410;我因为他们缺席正在进行的十字军远征而送出的提醒信显然没有得到理睬.我感到非常失望.;;;;;;;;;;x
 EVTOPTA8410;让他们知道这件事;;;;;;;;;;x
 EVTDESC8415;我对你仍然选择无视我的召唤，拒不参加十字军感到十分失望.;;;;;;;;;;x
 EVTOPTA8415;那又怎样;;;;;;;;;;x
@@ -3633,7 +3633,7 @@ EVTOPTA8425;我不会由我的封臣告诉我该做什么！;;;;;;;;;;x
 EVTOPTB8425;我承诺我将会在一个月之内启程;;;;;;;;;;x
 EVTDESC8430;看起来我的领主[Root.Liege.GetTitledName]已经决定不参加十字军，尽管他曾经承诺过会这样做.我非常失望;;;;;;;;;;x
 EVTOPTA8430;让[Root.Liege.GetHerHim]知道这件事;;;;;;;;;;x
-EVTDESC8435;我的领主，\n我对您做出不参加正在进行的十字军东征的决定感到十分失望.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8435;我的领主，\n我对您做出不参加正在进行的十字军远征的决定感到十分失望.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8435;[From.GetSheHe]怎敢质疑我的决定;;;;;;;;;;x
 EVTDESC8440;教宗最后一次发出对抗异教徒的召唤，我们中的许多人正热切盼望着参战.但是我的领主[Root.Liege.GetTitledName]仍然没有穿上十字罩衣.;;;;;;;;;;x
 EVTOPTA8440;立刻向[Root.Liege.GetHerHim]发出一封提醒信;;;;;;;;;;x
@@ -3643,7 +3643,7 @@ EVTOPTA8445;我不会由我的封臣告诉我该做什么！;;;;;;;;;;x
 EVTOPTB8445;我承诺我将会在一个月之内启程;;;;;;;;;;x
 EVTDESC8450;看起来[Root.Liege.GetTitledName]已经决定不参加十字军，尽管他曾经承诺过会这样做.我非常失望.;;;;;;;;;;x
 EVTOPTA8450;让[Root.Liege.GetHerHim]知道这件事;;;;;;;;;;x
-EVTDESC8455;我的领主，\n我对您做出不参加正在进行的十字军东征的决定感到十分失望.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8455;我的领主，\n我对您做出不参加正在进行的十字军远征的决定感到十分失望.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8455;[From.GetSheHe]怎么敢质疑我的决定;;;;;;;;;;x
 EVTDESC8900;异教徒们已经越过边境开始袭击[Root.GetName]郡！;;;;;;;;;;x
 EVTOPTA8900;该死的异教徒！;;;;;;;;;;x
@@ -3682,11 +3682,11 @@ EVTOPTB63030;不，我会支撑过去的;;;;;;;;;;x
 EVTTOOLTIP63031;送出我对[This.Liege.GetTitledFirstName]的请求;;;;;;;;;;x
 EVTDESC63031;我的领主，我很犹豫该不该说这件事，但是我的金库就快空了，这都是为了维持您从我的领地征收的税款.鉴于我在我的领主的战争上付出的代价，任何补偿都会是巨大的安慰.\n\n您忠诚的[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA63031;30¤ 应该可以;;;;;;;;;;x
-EVTOPTB63031;15¤ 就够了;;;;;;;;;;x
+EVTOPTB63031;15¤就够了;;;;;;;;;;x
 EVTOPTC63031;金钱那是他的义务！;;;;;;;;;;x
 EVTOPTD63031;用恭维话安慰[From.GetObjectPronoun];;;;;;;;;;x
 EVTDESC63032;我最重要的封臣，你的请求十分合理。这份 30¤ 的礼物将让你度过难关。\n\n[From.GetTitledFirstName];;;;;;;;;;x
-EVTDESC63033;[Root.GetTitledFirstName]，我没有任何义务给予你补偿，但是因为你是我的朋友，这是一份15さ睦裎颸n\n[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC63033;[Root.GetTitledFirstName]，尽管我没有任何义务给予你补偿，但是因为你是我的朋友，这是一份15¤的礼物。\n\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA63033;足够了;;;;;;;;;;x
 EVTDESC63034;致尊敬的[Root.GetTitledFirstName].作为我的旗手，上缴你的税款是你发过誓的责任.不要再为这件事情烦我.\n\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA63034;我将要落到乞讨的境地!;;;;;;;;;;x
@@ -3726,14 +3726,14 @@ EVTDESC63056;我最重要的朋友和封臣！你对你的朋友的关心让人�
 EVTOPTA63056;[From.GetSubjectPronounCap]说的话是至理名言;;;;;;;;;;x
 EVTDESC63057;我的朋友！我们的领主[This.Liege.GetTitledFirstName]已经把我从孤独的囚笼里放了出来，一切都要感谢你！愿[From.Religion.GetRandomGodName]保佑你！\n\n永远感念你的恩德的[GetFromRelation]，[From.GetFirstName];;;;;;;;;;x
 EVTOPTA63057;结果好就是好事！;;;;;;;;;;x
-EVTDESC8460;我会为所有参加十字军的人撤销开除教籍的惩罚.;;;;;;;;;;x
+EVTDESC8460;我会为所有加入十字军者免除绝罚。;;;;;;;;;;x
 EVTOPTA8460;我会此事发表一个正式的宣言.;;;;;;;;;;x
-EVTDESC8465;如果你穿上十字罩衣参加正在进行的十字军东征，我很愿意为你撤销开除教籍的惩罚并接受你的忏悔.;;;;;;;;;;x
+EVTDESC8465;如果你穿上十字罩衣参加正在进行的十字军，我很愿意为你免除绝罚并接受你的忏悔。;;;;;;;;;;x
 EVTOPTA8465;我会接受这份邀请;;;;;;;;;;x
 EVTOPTB8465;绝不！;;;;;;;;;;x
-EVTDESC8466;几个被开除教籍的人选择拿起剑对抗异教徒并且加入了十字军.;;;;;;;;;;x
-EVTOPTA8466;为他们撤销开除教籍的惩罚;;;;;;;;;;x
-EVTDESC8467;我已经接到你参加十字军作为忏悔的决定，兹于此撤销对你开除教籍的惩罚.;;;;;;;;;;x
+EVTDESC8466;几个被绝罚的人选择拿起剑对抗异教徒并且加入了十字军;;;;;;;;;;x
+EVTOPTA8466;撤销其绝罚;;;;;;;;;;x
+EVTDESC8467;我已经接到你参加十字军作为忏悔的决定，兹免除绝罚。;;;;;;;;;;x
 EVTDESC55006;我的领主劝说我接受这种风靡全领的英格兰学说;;;;;;;;;;x
 EVTOPTA55006;哦，我说，有人去打板球么;;;;;;;;;;x
 EVTDESC80000;劫掠[Root.GetName]郡的农民军正在焚毁建筑物！;;;;;;;;;;x
@@ -3837,7 +3837,7 @@ EVTOPTB69033;我应该原谅与忘切.我仍爱着他;;;;;;;;;;x
 EVTTOOLTIP69035;[Root.GetTitledFirstName]原谅了[Root.Spouse.GetTitledFirstName]的少许不检点;;;;;;;;;;x
 EVTDESC69034;[From.GetTitledFirstName]的愤怒目光将我几乎吓死，但是当[From.GetSheHe]开始向我尖叫与诅咒时，我巴不得已经死了;;;;;;;;;;x
 EVTOPTA69034;我绝对不会再骗你，我保证！;;;;;;;;;;x
-EVTDESC69035;[From.GetTitledFirstName]原谅了我的些许不检点，但是我看得出这对她伤害很大.我承诺与发誓绝对不会再与人通奸，永远不会;;;;;;;;;;x
+EVTDESC69035;[From.GetTitledFirstName]原谅了我的些许不检点，但是我看得出这对她伤害很大.我承诺与发誓绝对不会再与人通奸，永远不会。;;;;;;;;;;x
 EVTOPTA69035;相信我这一回！;;;;;;;;;;x
 EVTDESC69036;[From.GetTitledFirstName]直截了当：如果我不付给[From.GetHerHim]一笔钱，[From.GetTitledFirstName]将保证宫廷里的每一个人都会知道我和宫廷女士之间的“小故事”;;;;;;;;;;x
 EVTOPTA69036;拿着吧，我再也不想看见你！;;;;;;;;;;x
@@ -4231,7 +4231,7 @@ EVTDESC70006;比武结束了，我在前几轮就被淘汰了.就我个人来说
 EVTOPTA70006;我知道他们在背后嘲笑我.;;;;;;;;;;x
 EVTDESC70007;比武结束了，尽管我没赢，但是我汲取了很多教训.;;;;;;;;;;x
 EVTOPTA70007;真是值得.;;;;;;;;;;x
-EVTDESC70008;比武结束了，我的战绩很糟糕，现在人们在怀疑我的能力.;;;;;;;;;;x
+EVTDESC70008;比武结束了，我的战绩很糟糕，现在人们在怀疑我的能力。;;;;;;;;;;x
 EVTOPTA70008;哦，上帝;;;;;;;;;;x
 EVTDESC70009;我觉得我的盔甲很坚固，我的技术是一流的，但是很不幸，我感觉到冰冷的利刃切入了我的肌肉.我的眼皮变得沉重，视线变得模糊.;;;;;;;;;;x
 EVTOPTA70009;然后我死了;;;;;;;;;;x
@@ -4426,7 +4426,7 @@ EVTOPTB75002;派财政总管[Root.job_treasurer.GetTitledFirstName] 去稳住农
 EVTDESC75003;有个人我需要逮捕而另一个我想要去暗杀. 我的间谍总管 [Root.job_spymaster.GetTitledFirstName] 或者等帮助逮捕或者暗杀，但不能两样都干. ;;;;;;;;;;x
 EVTOPTA75003;派间谍总管[Root.job_spymaster.GetTitledFirstName]去逮捕！;;;;;;;;;;x
 EVTOPTA75004;我需要你去同教会谈谈，[Root.job_spiritual.GetTitledFirstName];;;;;;;;;;x
-EVTOPTB75004;教导我成为更虔诚的[Root.GetManWoman]，[Root.job_spiritual.GetTitledFirstName];;;;;;;;;;x
+EVTOPTB75004;教导我成为更虔诚的[Root.GetManWoman]人，[Root.job_spiritual.GetTitledFirstName];;;;;;;;;;x
 EVTDESC75010;吾主的[Root.GetChancellorName] [Root.Liege.job_chancellor.GetTitledFirstName]曾用色咪咪的眼神看我的妻子[Root.Spouse.GetTitledFirstName].我得在出什么状况之前告诉吾主[Root.Liege.GetTitledFirstName]并问问[Root.Liege.GetHerHim]与此相关的事！;;;;;;;;;;x
 EVTOPTA75010;向领主抱怨[Root.GetChancellorName]的不当行为;;;;;;;;;;x
 EVTTOOLTIP75011;[Root.GetTitledFirstName]告诉[This.GetTitledFirstName]关于[This.job_chancellor.GetTitledFirstName]的不当行为;;;;;;;;;;x
@@ -4750,18 +4750,18 @@ HINT_HOLDING_VIEW_TEXT_2;一个人物的男爵领的集合称为领地.你可以
 HINT_HOLDING_VIEW_TEXT_3;一些建筑物只有在一个郡存在某个科技时才能建造。有些还可能需要另外一个建筑物做为前置条件。;;;;;;;;;;x
 HINT_HOLDING_VIEW_TEXT_4;男爵领的拥有者，或者他的宗主或更高层，可以通过点击编辑改变男爵领的名字. ;;;;;;;;;;x
 HINT_UNIT_VIEW_TITLE;单位界面 ;;;;;;;;;;x
-HINT_UNIT_VIEW_TEXT_1;单位是军团或船只的集合，他们可以在男爵领里征召或者由雇佣兵或骑士团提供。;;;;;;;;;;x
+HINT_UNIT_VIEW_TEXT_1;单位是军团或船只的集合，他们可以在男爵领里征召或者由雇佣兵或圣战士提供。;;;;;;;;;;x
 HINT_UNIT_VIEW_TEXT_2;军队被组织成三个部分，左翼，中央和右翼。每一部分由一位军团指挥官指挥.中央军团的指挥官被认为是整个军队的指挥官。;;;;;;;;;;x
 HINT_UNIT_VIEW_TEXT_3;军队在无法补给他们的省份上会受到损耗，在省份界面里察看补给上限. ;;;;;;;;;;x
 HINT_COMBAT_VIEW_TITLE;战斗界面 ;;;;;;;;;;x
 HINT_COMBAT_VIEW_TEXT_1;在战斗中，军队的三个部分面对面交锋——左翼面对右翼，中央对抗中央，右翼面对左翼. ;;;;;;;;;;x
-HINT_COMBAT_VIEW_TEXT_2;战斗在遭遇战阶段开始，这时弓箭手和马弓手是主要的兵种.最终，军队将互相接近并进入肉搏阶段，这时重步兵和骑士将闪耀光芒.当一支军队撤退时，他的对手将进入追击阶段，试图消灭尽可能多的敌人，这时，轻骑兵将是最好的. ;;;;;;;;;;x
-HINT_COMBAT_VIEW_TEXT_3;在每个战斗阶段，各个部分的指挥官会根据他们的军事能力选定一个战术，这将很大程度上决定他们军队战斗的效率. ;;;;;;;;;;x
+HINT_COMBAT_VIEW_TEXT_2;战斗在遭遇战阶段开始，这时弓箭手和弓骑兵是主要的兵种。最终，军队将互相接近并进入肉搏阶段，这时重步兵和骑士将闪耀光芒。当一支军队撤退时，他的对手将进入追击阶段，试图消灭尽可能多的敌人，这时，轻骑兵将是最好的。;;;;;;;;;;x
+HINT_COMBAT_VIEW_TEXT_3;在每个战斗阶段，各个部分的指挥官会根据他们的军事能力选定一个战术，这将很大程度上决定他们军队战斗的效率。;;;;;;;;;;x
 HINT_SIEGE_VIEW_TITLE;围城界面 ;;;;;;;;;;x
 HINT_SIEGE_VIEW_TEXT_1;一次围城的长度主要取决于男爵领的堡垒等级，守军的数量和围城者的数量. ;;;;;;;;;;x
 HINT_SIEGE_VIEW_TEXT_2;如果围城者的数量比防守者少，围城将不是很有效. ;;;;;;;;;;x
 HINT_SIEGE_VIEW_TEXT_3;当防守者的士气为零（或者攻击者离去或被赶走），围城就会结束. ;;;;;;;;;;x
-HINT_CONFIRM_DISABLE_TITLE;关闭提示;;;;;;;;;;x
+HINT_CONFIRM_DISABLE_TITLE;确定要关闭提示？;;;;;;;;;;x
 HINT_CONFIRM_DISABALE_DESC;你确定要永远关闭提示吗\n(你可以在设置面板里重新打开提示);;;;;;;;;;x
 INTERACTION_MESSAGE_ACTOR_PORTRAIT;来自[Actor.GetBestName]的消息;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_IN_COURT;§Y[Recipient.GetTitledFirstName]§!现在§Y[Actor.GetTitledFirstName]的§!宫廷里;;;;;;;;;;x
@@ -4780,8 +4780,8 @@ INTERACTION_REQUIRES_INVALID_CHOICE;§Y[ThirdPartyCharacter.GetTitledFirstName]�
 INTERACTION_REQUIRES_NO_ADULT;两个成年人不能订婚;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_ACTIVE_BETROTHAL;§Y[Recipient.GetTitledFirstName]§!不能拥有一个现成的婚约 ;;;;;;;;;;x
 INTERACTION_REQUIRES_WE_CAN_BREAK_BETROTHAL;§Y[Recipient.GetTitledFirstName]§!是§Y[Actor.GetTitledFirstName]§!的孩子或者与其孩子有婚约;;;;;;;;;;x
-INTERACTION_REQUIRES_DIFFERENT_GENDER;§Y$ACTOR_PERSON$§! 不能与 §Y$RECIPIENT_PERSON$§!同性;;;;;;;;;;x
-INTERACTION_REQUIRES_BOTH_ADULT;§Y$ACTOR_PERSON$§!和§Y$RECIPIENT_PERSON$§!都是成年人;;;;;;;;;;x
+INTERACTION_REQUIRES_DIFFERENT_GENDER;§Y$ACTOR_PERSON$§W 不能与 §Y$RECIPIENT_PERSON$§W同性;;;;;;;;;;x
+INTERACTION_REQUIRES_BOTH_ADULT;§Y$ACTOR_PERSON$§!和§Y$RECIPIENT_PERSON$§W都是成年人;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_LEGAL_HEIR;§Y[Actor.GetTitledFirstName]§!没有合法继承人;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_SUCCESSION_MARRIAGE;§Y[Recipient.GetTitledFirstName]§!不是一个母系婚姻的一部分;;;;;;;;;;x
 INTERACTION_REQUIRES_DAUGHTER;§Y[Recipient.GetTitledFirstName]§!是[Actor.GetDynName]的女儿;;;;;;;;;;x
@@ -4814,12 +4814,12 @@ INTERACTION_REQUIRES_ACTOR_HIGHER_TIER;§Y[Recipient.GetTitledFirstName]§!级�
 INTERACTION_REQUIRES_RECIPIENT_HIGHER_TIER;§Y[Actor.GetTitledFirstName]§!级别低于§Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_HIGHER_TIER_THAN_THIRD;[ThirdPartyCharacter.GetDynName]的等级比[Recipient.GetDynName]低;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_RAISED_UNITS;征召兵已动员时不能宣战;;;;;;;;;;x
-INTERACTION_REQUIRES_RANSOM;§Y[Recipient.GetTitledFirstName]§!能负担得起的赎金§Y$GOLD$§!黄金;;;;;;;;;;x
-INTERACTION_REQUIRES_CB_SELECTED;我们必须选择一个有根据的§Y宣战理由§!来宣战;;;;;;;;;;x
+INTERACTION_REQUIRES_RANSOM;§Y[Recipient.GetTitledFirstName]§!能负担得起的赎金§Y$GOLD$§W黄金;;;;;;;;;;x
+INTERACTION_REQUIRES_CB_SELECTED;我们必须选择一个有根据的§Y宣战理由§W来宣战;;;;;;;;;;x
 INTERACTION_REQUIRES_BOTH_INDEPENDENT;§Y[Recipient.GetTitledFirstName]§!是独立的;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_HOSTAGES;§Y[Recipient.GetTitledFirstName]§!没有你的近亲人质$WHO$;;;;;;;;;;x
 INTERACTION_REQUIRES_SAME_LIEGE;§Y[Recipient.GetTitledFirstName]§!必须是我们的君主或者君主的封臣;;;;;;;;;;x
-INTERACTION_NO_INVASION_OF_LANDLESS;不能侵占雇佣兵、圣骑士或宗教领袖头衔;;;;;;;;;;x
+INTERACTION_NO_INVASION_OF_LANDLESS;不能侵占雇佣兵、圣战士或宗教领袖头衔;;;;;;;;;;x
 INTERACTION_CANNOT_CALL_LIEGE;我们不能召唤领主（或者更高级别的领主）参战;;;;;;;;;;x
 INTERACTION_CANNOT_CALL_VASSAL;我们不能召唤封臣参战;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_IS_ADULT;§Y[Recipient.GetTitledFirstName]§!必须成年;;;;;;;;;;x
@@ -4831,7 +4831,7 @@ INTERACTION_CANNOT_DISQUALIFY_HEIR;不能通过给[Recipient.GetObjectPronoun]�
 INTERACTION_CANNOT_BE_GRANTED_TITLE;§Y[Recipient.GetTitledFirstName]§!可以根据目前的继承法赐予土地;;;;;;;;;;x
 INTERACTION_NO_WAR_ON_SPOUSE;不能对你的配偶宣战;;;;;;;;;;x
 INTERACTION_NOT_BETROTHED_TO_CLOSE_RELATIVE;不能与近亲订婚;;;;;;;;;;x
-INTERACTION_REQUIRES_MORE_AUTHORITY;宗教权威必须达到§Y$VALUE$§!;;;;;;;;;;x
+INTERACTION_REQUIRES_MORE_AUTHORITY;宗教权威必须达到§Y$VALUE$§W;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_WARS;§Y[Recipient.GetTitledFirstName]§!必须处于和平中;;;;;;;;;;x
 INTERACTION_REQUIRES_VALID_MINOR_TITLES;我们有能授予§Y[Recipient.GetTitledFirstName]§!的荣誉头衔;;;;;;;;;;x
 INTERACTION_FEMALE_BASTARD_MUST_MARRY_REGULARLY;女性私生子不能招赘;;;;;;;;;;x
@@ -4851,32 +4851,32 @@ IMPRISON_INTERACTION_TITLE;逮捕;;;;;;;;;;x
 IMPRISON_INTERACTION_DESC;尝试逮捕[Recipient.GetBestName].\n我们有 §Y$CHANCE$%§! 的机会成功，基于我们的 §Y国家密谋能力§!.\n如果失败，[Recipient.GetSubjectPronoun]可能对我们宣战或者逃往国外.;;;;;;;;;;x
 IMPRISON_INTERACTION_LONG_DESC;把某些人扔进监狱可以让你感觉舒服，但也会使你被视为暴君.;;;;;;;;;;x
 IMPRISON_INTERACTION_0;尝试逮捕 §Y[Recipient.GetBestName]§!.我们有 §Y$CHANCE$%§! 的机会成功，基于我们的 §Y国家密谋能力§!.\n如果失败，[Recipient.GetSubjectPronoun]可能对我们宣战或者逃往国外.;;;;;;;;;;x
-IMPRISON_INTERACTION_2;由于 §Y[Recipient.GetTitledFirstName]§! 被开除教籍，没有人会关心.;;;;;;;;;;x
-IMPRISON_INTERACTION_3;由于 §Y[Recipient.GetTitledFirstName]§! 对你做出了不名誉的行为，没有人会关心.;;;;;;;;;;x
-IMPRISON_INTERACTION_4;由于我们有证据证明 §Y[Recipient.GetTitledFirstName]§! 是一个阴谋的策划者，没有人会反对.;;;;;;;;;;x
+IMPRISON_INTERACTION_2;由于 §Y[Recipient.GetTitledFirstName]§W被绝罚，没有人会关心。;;;;;;;;;;x
+IMPRISON_INTERACTION_3;由于 §Y[Recipient.GetTitledFirstName]§W 对你做出了不名誉的行为，没有人会关心.;;;;;;;;;;x
+IMPRISON_INTERACTION_4;由于我们有证据证明 §Y[Recipient.GetTitledFirstName]§W 是一个阴谋的策划者，没有人会反对.;;;;;;;;;;x
 IMPRISON_INTERACTION_5;由于 §Y[Recipient.GetTitledFirstName]§! 来自敌国，没有人会反对.;;;;;;;;;;x
 IMPRISON_INTERACTION_ACCEPT_SETUP;逮捕尝试;;;;;;;;;;x
-IMPRISON_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§! 试图逮捕 §Y[Recipient.GetDynName]§!;;;;;;;;;;x
+IMPRISON_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§W 试图逮捕 §Y[Recipient.GetDynName]§W;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_TITLE;释放囚犯;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_DESC;从监狱里释放 §Y[Recipient.GetBestName]§! ;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_LONG_DESC;释放囚犯是光荣的，但请记住，在地牢他们是不会造成任何麻烦的;;;;;;;;;;x
 RELEASE_FROM_PRISON_INTERACTION_ACCEPT_SETUP;释放囚犯;;;;;;;;;;x
-RELEASE_FROM_PRISON_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 决定从监狱里释放 §Y[Recipient.GetBestName]§! ;;;;;;;;;;x
+RELEASE_FROM_PRISON_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W 决定从监狱里释放 §Y[Recipient.GetBestName]§W;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_TITLE;处决囚犯;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_DESC;处决§Y[Recipient.GetBestName]§!。\n这会被视作暴君所为。;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_LONG_DESC;砍掉某个人的头是摆脱他的最有效的方法.不过，这必然会使很多人感到失望，而且不像放逐一样可以没收头衔和财产.;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_0;处决§Y[Recipient.GetBestName]§!。;;;;;;;;;;x
-EXECUTE_IMPRISONED_INTERACTION_2;由于 §Y[Recipient.GetTitledFirstName]§! 被开除教籍，没有人会关心.;;;;;;;;;;x
+EXECUTE_IMPRISONED_INTERACTION_2;由于§Y[Recipient.GetTitledFirstName]§W被绝罚，没有人会关心。;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_3;这会激怒§Y[Recipient.TopLiege.PrimaryTitle.GetFullName]§!领主们, 降低他们对你的好感度 §R$OPINION$§!;;;;;;;;;;x
-EXECUTE_IMPRISONED_INTERACTION_4;由于 §Y[Recipient.GetTitledFirstName]§! 来自敌国，没有人会反对.;;;;;;;;;;x
+EXECUTE_IMPRISONED_INTERACTION_4;由于 §Y[Recipient.GetTitledFirstName]§W 来自敌国，没有人会反对.;;;;;;;;;;x
 EXECUTE_IMPRISONED_INTERACTION_ACCEPT_SETUP;处决囚犯;;;;;;;;;;x
-EXECUTE_IMPRISONED_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 决定处决 [Recipient.GetDynName];;;;;;;;;;x
+EXECUTE_IMPRISONED_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W 决定处决 [Recipient.GetDynName];;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_TITLE;驱逐囚犯;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_DESC;驱逐 [Recipient.GetBestName] 出境;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_0;驱逐 §Y[Recipient.GetBestName]§! 出境.;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_1;§Y$GOLD$§! 金钱将被没收.;;;;;;;;;;x
 EXILE_IMPRISONED_INTERACTION_ACCEPT_SETUP;驱逐囚犯;;;;;;;;;;x
-EXILE_IMPRISONED_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! 决定驱逐 §Y[Recipient.GetDynName]§!;;;;;;;;;;x
+EXILE_IMPRISONED_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W 决定驱逐 §Y[Recipient.GetDynName]§!;;;;;;;;;;x
 DEMAND_RELIGIOUS_CONVERSION_INTERACTION_TITLE;要求改宗;;;;;;;;;;x
 DEMAND_RELIGIOUS_CONVERSION_INTERACTION_DESC;要求[Recipient.GetBestName]皈依[Actor.Religion.GetName]信仰;;;;;;;;;;x
 DEMAND_RELIGIOUS_CONVERSION_INTERACTION_LONG_DESC;你可以要求封臣改宗，但是如果他们拒绝，对你的好感度将下降.;;;;;;;;;;x
@@ -4944,14 +4944,14 @@ OFFER_PEACE_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! 拒绝 §Y[Act
 OFFER_PEACE_INTERACTION_OFFER;[Actor.GetBestName] 向我们提供下列和平条件:;;;;;;;;;;x
 SEND_GIFT_INTERACTION_TITLE;赠送礼物;;;;;;;;;;x
 SEND_GIFT_INTERACTION_DESC;赠送价值 §Y$COST$§W¤ 的礼物给 §Y[Recipient.GetBestName]§!。\n这将改善我们的关系。;;;;;;;;;;x
-SEND_GIFT_INTERACTION_0;赠送价值  §Y$COST$§W¤ 的礼物给 §Y[Recipient.GetBestName]§!，提高 [Recipient.GetPossPronoun] 好感度 §G$OPINION$§!;;;;;;;;;;x
+SEND_GIFT_INTERACTION_0;赠送价值  §Y$COST$§W¤的礼物给§Y[Recipient.GetBestName]§!，提高[Recipient.GetPossPronoun]好感度§G$OPINION$§!;;;;;;;;;;x
 SEND_GIFT_INTERACTION_1;获得虔诚: §G$PIETY$§!;;;;;;;;;;x
 SEND_GIFT_INTERACTION_ACCEPT_SETUP;接受礼物;;;;;;;;;;x
 SEND_GIFT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! 接受了 §Y[Actor.GetBestName]§!赠送的礼物;;;;;;;;;;x
 SEND_GIFT_INTERACTION_DECLINE_SETUP;拒绝礼物;;;;;;;;;;x
 SEND_GIFT_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! 拒绝了 §Y[Actor.GetBestName]§!赠送的礼物;;;;;;;;;;x
-SEND_GIFT_INTERACTION_OFFER;[Actor.GetBestName] 赠送了价值 §Y$COST$§! 的礼物给我们！;;;;;;;;;;x
-SEND_GIFT_INTERACTION_LETTER;请笑纳价值 §Y$COST$§!的薄礼.;;;;;;;;;;x
+SEND_GIFT_INTERACTION_OFFER;[Actor.GetBestName] 赠送了价值 §Y$COST$§W 的礼物给我们！;;;;;;;;;;x
+SEND_GIFT_INTERACTION_LETTER;请笑纳价值§Y$COST$§W的薄礼。;;;;;;;;;;x
 OFFER_VASSALIZATION_INTERACTION_TITLE;提议附庸;;;;;;;;;;x
 OFFER_VASSALIZATION_INTERACTION_DESC;向§Y[Recipient.GetBestName]§!发出一个提议，要求他们成为我们的封臣。;;;;;;;;;;x
 OFFER_VASSALIZATION_INTERACTION_LONG_DESC;我们可以向级别比我们低的有地贵族提议附庸，尽管他们很可能不会接受，除非他们比我们弱很多，或是与我们宗教和文化相同.;;;;;;;;;;x
@@ -5102,28 +5102,28 @@ DIVORCE_INTERACTION_DECLINE_SETUP;拒绝离婚;;;;;;;;;;x
 DIVORCE_INTERACTION_DECLINE_LOG;§Y[Actor.Spouse.GetBestName]§! 拒绝与 §Y[Actor.GetBestName]§!离婚;;;;;;;;;;x
 DIVORCE_INTERACTION_OFFER;[Actor.GetBestName]希望离婚！;;;;;;;;;;x
 DIVORCE_INTERACTION_LETTER;我们的婚姻不再有未来.为了我们双方，请让我们保有尊严地结束这一切吧.;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_TITLE;要求开除教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_DESC;向 §Y[Actor.RelHead.GetTitledFirstName]§! 提出绝罚 §Y[ThirdPartyCharacter.GetBestName]§!. 这将花费你 §R100§! 虔诚 并且, 如果被批准, 会被 [ThirdPartyCharacter.GetPossPronoun] 的亲戚们视作对他们的侮辱.;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_LONG_DESC;被开除教籍的人将被同宗教的所有人鄙视，并给予他们宣战理由.不过，尊奉伪教宗的人只会受伪教宗行动的影响.;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_TITLE;要求绝罚;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_DESC;向§Y[Actor.RelHead.GetTitledFirstName]§!请求绝罚§Y[ThirdPartyCharacter.GetBestName]§!。这将花费你 §R100§!虔诚并且如果请求被批准，将会被 [ThirdPartyCharacter.GetPossPronoun]的亲戚们视作对他们的侮辱.;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_LONG_DESC;被处以绝罚的人将被同宗教的所有人鄙视，并给予他们宣战理由。不过，尊奉对立教宗的人只会受对立教宗行动的影响。;;;;;;;;;;x
 ASK_FOR_EXCOMMUNICATION_INTERACTION_0;要求 §Y[Recipient.GetTitledFirstName]§! 开除 §Y[ThirdPartyCharacter.GetBestName]§!的教籍.这将消耗你§R$COST$§!虔诚，并且一旦成功，将被[ThirdPartyCharacter.GetPossPronoun]亲族视为侮辱.;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_ACCEPT_SETUP;同意开除教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! 同意 §Y[Actor.GetBestName]§! 的请求，开除了 §Y[ThirdPartyCharacter.GetBestName]§!的教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_DECLINE_SETUP;拒绝开除教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! 拒绝 §Y[Actor.GetBestName]§! 的请求，没有开除 §Y[ThirdPartyCharacter.GetBestName]§!的教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_OFFER;[Actor.GetBestName]希望我们开除[ThirdPartyCharacter.GetBestName]的教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_LETTER;[ThirdPartyCharacter.GetBestName]的行为不能再被容忍下去了，我请求开除[ThirdPartyCharacter.GetSubjectPronoun]的教籍.;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_ACCEPT_SETUP;绝罚请求获批准;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§!同意§Y[Actor.GetBestName]§!的请求，绝罚了§Y[ThirdPartyCharacter.GetBestName]§!;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_DECLINE_SETUP;绝罚请求被拒绝;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!拒绝§Y[Actor.GetBestName]§!的请求，没有绝罚§Y[ThirdPartyCharacter.GetBestName]§!;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_OFFER;[Actor.GetBestName]希望我们绝罚[ThirdPartyCharacter.GetBestName];;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_LETTER;[ThirdPartyCharacter.GetBestName]的行为不能再被容忍下去了，我请求绝罚[ThirdPartyCharacter.GetSubjectPronoun]。;;;;;;;;;;x
 CALL_ALLY_INTERACTION_LETTER;我们请求你遵从义务，帮助我们对抗;;;;;;;;;;x
 ATTACKING_SOMEONE_ATTACKING_CRUSADE_TARGET;§R对正在参与十字军的人宣战会额外花费§Y$PIETY$虔诚§!;;;;;;;;;;x
 ATTACKING_SOMEONE_DEFENDING_AGAINST_OTHER_RELIGIOUS_GROUP;§R对正在抵抗异教徒的人宣战会额外花费§Y$PIETY$[Player.Religion.GetPietyName]§!;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_TITLE;恢复教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DESC;向 §Y[Actor.RelHead.GetTitledFirstName]§! 解除对 §Y[ThirdPartyCharacter.GetBestName]§! 的绝罚.;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_LONG_DESC;恢复教籍要求宗教领袖足够喜欢你，或者是你的封臣.;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_ACCEPT_SETUP;同意恢复教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! 同意 §Y[Actor.GetBestName]§! 的提议，恢复 §Y[ThirdPartyCharacter.GetBestName]§!的教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DECLINE_SETUP;拒绝恢复教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! 拒绝 §Y[Actor.GetBestName]§! 的提议，恢复 §Y[ThirdPartyCharacter.GetBestName]§!的教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_OFFER;[Actor.GetBestName]希望恢复[ThirdPartyCharacter.GetBestName]的教籍;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_LETTER;现在是时候恢复纯洁的[ThirdPartyCharacter.GetBestName]的教籍了.我可以为[ThirdPartyCharacter.GetPossPronoun]忠诚担保.;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_TITLE;撤销绝罚;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DESC;向§Y[Actor.RelHead.GetTitledFirstName]§!请求解除对 §Y[ThirdPartyCharacter.GetBestName]§!的绝罚。;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_LONG_DESC;撤销绝罚要求宗教领袖足够喜欢你，或者是你的封臣。;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_ACCEPT_SETUP;同意免除其绝罚;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§!同意§Y[Actor.GetBestName]§!的提议，撤销§Y[ThirdPartyCharacter.GetBestName]§!的绝罚;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DECLINE_SETUP;拒绝撤销绝罚;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!拒绝§Y[Actor.GetBestName]§!撤销§Y[ThirdPartyCharacter.GetBestName]§!的绝罚的提议;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_OFFER;[Actor.GetBestName]希望撤销[ThirdPartyCharacter.GetBestName]的绝罚;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_LETTER;现在是时候撤销纯洁的[ThirdPartyCharacter.GetBestName]的绝罚了。我可以为[ThirdPartyCharacter.GetPossPronoun]担保。;;;;;;;;;;x
 ASK_TO_RANSOM_CHARACTER_INTERACTION_TITLE;赎回囚犯;;;;;;;;;;x
 ASK_TO_RANSOM_CHARACTER_INTERACTION_DESC;向 §Y[Recipient.GetTitledFirstName]§! 支付赎金以赎回 §Y[ThirdPartyCharacter.GetBestName]§!.;;;;;;;;;;x
 ASK_TO_RANSOM_CHARACTER_INTERACTION_LONG_DESC;在国外被拘禁的犯人可以用一笔钱赎回.;;;;;;;;;;x
@@ -5492,16 +5492,16 @@ king;国王;;;;;;;;;;x
 duke;公爵;;;;;;;;;;x
 count;伯爵;;;;;;;;;;x
 baron;男爵;;;;;;;;;;x
-count_saxon;伯爵;;;;;;;;;;x
-count_english;伯爵;;;;;;;;;;x
-count_scottish;伯爵;;;;;;;;;;x
-count_irish;伯爵;;;;;;;;;;x
+count_saxon;厄尔;;;;;;;;;;x
+count_english;厄尔;;;;;;;;;;x
+count_scottish;厄尔;;;;;;;;;;x
+count_irish;厄尔;;;;;;;;;;x
 emperor_female;女皇;;;;;;;;;;x
 king_female;女王;;;;;;;;;;x
 duke_female;女公爵;;;;;;;;;;x
 count_female;女伯爵;;;;;;;;;;x
 baron_female;女男爵;;;;;;;;;;x
-emperor_king_christian;教皇;;;;;;;;;;x
+emperor_king_christian;皇帝兼主教;;;;;;;;;;x
 temple_king_christian;总主教;;;;;;;;;;x
 temple_king_orthodox;总牧首;;;;;;;;;;x
 temple_king_muslim;哈里发;;;;;;;;;;x
@@ -5586,7 +5586,7 @@ temple_duchy_of_muslim;教区;;;;;;;;;;x
 temple_duchy_of_pagan_group;教区;;;;;;;;;;x
 temple_duchy_of_jewish;大主教区;;;;;;;;;;x
 temple_county_of_christian;总铎区;;;;;;;;;;x
-temple_county_of_muslim;酋长国;;;;;;;;;;x
+temple_county_of_muslim;谢赫国;;;;;;;;;;x
 temple_county_of_pagan_group;教区;;;;;;;;;;x
 temple_county_of_jewish_group;教区;;;;;;;;;;x
 temple_barony_of_christian;主教区;;;;;;;;;;x
@@ -5595,32 +5595,32 @@ temple_barony_of_pagan_group;神庙;;;;;;;;;;x
 temple_barony_of_jewish_group;神庙;;;;;;;;;;x
 emperor_altaic;可汗;;;;;;;;;;x
 emperor_female_altaic;可敦;;;;;;;;;;x
-king_altaic;可汗;;;;;;;;;;x
-king_female_altaic;可敦;;;;;;;;;;x
+king_altaic;汗王;;;;;;;;;;x
+king_female_altaic;汗努;;;;;;;;;;x
 kingdom_of_altaic;汗国;;;;;;;;;;x
-emperor_german;皇帝;;;;;;;;;;x
-emperor_female_german;女皇;;;;;;;;;;x
+emperor_german;凯撒;;;;;;;;;;x
+emperor_female_german;凯撒琳;;;;;;;;;;x
 duke_greek;公爵;;;;;;;;;;x
 king_greek;国王;;;;;;;;;;x
-emperor_greek;皇帝;;;;;;;;;;x
+emperor_greek;巴赛勒斯;;;;;;;;;;x
 emperor_russian;沙皇;;;;;;;;;;x
 emperor_female_russian;女沙皇;;;;;;;;;;x
-baron_arabic;酋长;;;;;;;;;;x
-barony_of_arabic;酋长领地;;;;;;;;;;x
-count_arabic;酋长;;;;;;;;;;x
-county_of_arabic;酋长国;;;;;;;;;;x
+baron_arabic;维利;;;;;;;;;;x
+barony_of_arabic;维拉亚;;;;;;;;;;x
+count_arabic;谢赫;;;;;;;;;;x
+county_of_arabic;谢赫国;;;;;;;;;;x
 duke_arabic;埃米尔;;;;;;;;;;x
 duke_female_arabic;埃米尔;;;;;;;;;;x
 duchy_of_arabic;埃米尔国;;;;;;;;;;x
 king_arabic;苏丹;;;;;;;;;;x
 king_female_arabic;撒力坦;;;;;;;;;;x
 kingdom_of_arabic;苏丹国;;;;;;;;;;x
-baron_turkish;提马尔;;;;;;;;;;x
+baron_turkish;提玛利欧特;;;;;;;;;;x
 barony_of_turkish;提马尔领地;;;;;;;;;;x
-count_turkish;贝依;;;;;;;;;;x
-county_of_turkish;贝依国;;;;;;;;;;x
+count_turkish;贝伊;;;;;;;;;;x
+county_of_turkish;贝伊国;;;;;;;;;;x
 duke_turkish;贝伊勒贝伊;;;;;;;;;;x
-duchy_of_turkish;贝勒依贝里国;;;;;;;;;;x
+duchy_of_turkish;贝伊勒贝伊国;;;;;;;;;;x
 king_turkish;苏丹;;;;;;;;;;x
 kingdom_of_turkish;苏丹国;;;;;;;;;;x
 emperor_turkish;帕迪沙阿;;;;;;;;;;x
@@ -5631,10 +5631,10 @@ count_mongol;酋长;;;;;;;;;;x
 county_of_mongol;酋邦;;;;;;;;;;x
 duke_mongol;大酋长;;;;;;;;;;x
 duke_female_mongol;弥亚;;;;;;;;;;x
-duchy_of_mongol;大酋长国;;;;;;;;;;x
-duke_norse;首领;;;;;;;;;;x
+duchy_of_mongol;大酋邦;;;;;;;;;;x
+duke_norse;雅尔;;;;;;;;;;x
 count_pagan_group;酋长;;;;;;;;;;x
-baron_pagan_group;酋长;;;;;;;;;;x
+baron_pagan_group;头人;;;;;;;;;;x
 k_sweden;瑞典;;;;;;;;;;x
 k_sweden_adj;瑞典;;;;;;;;;;x
 d_uppland;乌普兰;;;;;;;;;;x
@@ -8332,7 +8332,7 @@ b_ushkuduk;于奇库杜克;;;;;;;;;;x
 b_aytbay;阿易巴;;;;;;;;;;x
 c_lower_volga_adj;下伏尔加河;;;;;;;;;;x
 b_sarysu;萨利苏;;;;;;;;;;x
-b_tsaritsyn;伏尔加格勒;;;;;;;;;;x
+b_tsaritsyn;察里津;;;;;;;;;;x
 b_kamyshin;卡梅申;;;;;;;;;;x
 b_serebrjakovo;西伯利亚科沃;;;;;;;;;;x
 b_dubovka;杜博夫卡;;;;;;;;;;x
@@ -9526,7 +9526,7 @@ b_aghtamar;阿赫塔马尔;;;;;;;;;;x
 b_bakear;巴克尔;;;;;;;;;;x
 b_hadamakert;哈达马克特;;;;;;;;;;x
 c_dwin_adj;德维尼安;;;;;;;;;;x
-b_lori;洛利;;;;;;;;;;x
+b_lori;若利;;;;;;;;;;x
 b_dvin;德维;;;;;;;;;;x
 b_etchmiadzin;埃奇米阿津;;;;;;;;;;x
 b_erebuni;叶布尼;;;;;;;;;;x
@@ -10090,7 +10090,7 @@ b_mohacs;莫哈奇;;;;;;;;;;x
 b_sasd;沙什德;;;;;;;;;;x
 b_pecsvarad;佩奇瓦劳德;;;;;;;;;;x
 b_siklos;纤洛什;;;;;;;;;;x
-b_szentlorinc;圣劳伦斯;;;;;;;;;;x
+b_szentlorinc;圣勒林茨;;;;;;;;;;x
 b_darda;伊万特兰多;;;;;;;;;;x
 c_szekezfehervar_adj;塞克什白堡;;;;;;;;;;x
 b_szekezfehervar;塞克什白堡;;;;;;;;;;x
@@ -11698,9 +11698,9 @@ b_esmercadal;梅卡达尔;;;;;;;;;;x
 b_santlluis;圣路易斯;;;;;;;;;;x
 b_ferreries;费雷里亚斯;;;;;;;;;;x
 b_escastell;山庄;;;;;;;;;;x
-k_castille;卡斯蒂利亚;;;;;;;;;;x
-k_castille_adj;卡斯蒂利亚;;;;;;;;;;x
-d_castilla;卡斯蒂利亚;;;;;;;;;;x
+k_castille;卡斯提尔;;;;;;;;;;x
+k_castille_adj;卡斯提尔;;;;;;;;;;x
+d_castilla;卡斯提尔;;;;;;;;;;x
 d_castilla_adj;卡斯蒂利亚;;;;;;;;;;x
 c_viscaya_adj;维斯察亚;;;;;;;;;;x
 b_irun;伊伦;;;;;;;;;;x
@@ -12729,7 +12729,7 @@ b_abdelliya;阿布德利亚;;;;;;;;;;x
 b_hamza;哈姆扎;;;;;;;;;;x
 b_husseiniya;胡瑟因尼亚;;;;;;;;;;x
 d_arabia_felix;乐土阿拉伯;;;;;;;;;;x
-d_arabia_felix_adj;费利奇安;;;;;;;;;;x
+d_arabia_felix_adj;乐土阿拉伯;;;;;;;;;;x
 c_al_jawf_adj;扎瓦费安;;;;;;;;;;x
 b_al_jawf;焦夫;;;;;;;;;;x
 b_sakakah;塞卡凯;;;;;;;;;;x
@@ -14578,7 +14578,7 @@ succ_seniority;年长者继承法;;;;;;;;;;x
 succ_seniority_desc;家族里最年长的成员继承所有的头衔.你最年长的孩子会非常讨厌这个法律，但是其他家族成员会喜欢.;;;;;;;;;;x
 succ_feudal_elective;选举继承法;;;;;;;;;;x
 succ_feudal_elective_desc;君主和下级领主（比如君主是国王的话下级领主就是公爵）可以从下级领主以及现任领主的合法子嗣兄弟之中提名继任者.公爵是王国选举者的同时也可以是帝国的选举者.封臣们会很喜欢选举继承，但是如果君主个人拥有的选举继承法头衔过多的话他们也会很不满.;;;;;;;;;;x
-succ_gavelkind;分封继承法;;;;;;;;;;x
+succ_gavelkind;均分继承法;;;;;;;;;;x
 succ_turkish_succession;突厥继承法;;;;;;;;;;x
 succ_turkish_succession_desc;由君主最强大的儿子继承，但是其他强大的儿子可能会干涉。这个法律会受到你所有孩子的欢迎（除了长子），其他家族成员也会认同这个法律。;;;;;;;;;;x
 succ_open_elective;开放选举法;;;;;;;;;;x
@@ -14588,9 +14588,9 @@ succ_catholic_bishopric_desc;如果领主提名了一个继任者，则此人继
 agnatic_succession;男性;;;;;;;;;;x
 agnatic_succession_desc;只有男性可以继承。;;;;;;;;;;x
 cognatic_succession;男性优先;;;;;;;;;;x
-cognatic_succession_desc;女性仅在没有合法男性可以继承的情况下才会得到继承权.;;;;;;;;;;x
+cognatic_succession_desc;女性仅在没有合法男性可以继承的情况下才会得到继承权。;;;;;;;;;;x
 true_cognatic_succession;男女平等;;;;;;;;;;x
-true_cognatic_succession_desc;女性享受和男性相同的继承权.;;;;;;;;;;x
+true_cognatic_succession_desc;女性享受和男性相同的继承权。;;;;;;;;;;x
 law_female_chancellor;女性外交总管;;;;;;;;;;x
 law_female_chancellor_desc;女性可以担任外交总管.;;;;;;;;;;x
 law_female_treasurer;女性财政总管;;;;;;;;;;x
@@ -14605,7 +14605,7 @@ feudal_contract_1_option;少量;;;;;;;;;;x
 feudal_contract_1_desc;封臣可以保留很多部队.;;;;;;;;;;x
 feudal_contract_2;中等封臣征召兵;;;;;;;;;;x
 feudal_contract_2_option;正常;;;;;;;;;;x
-feudal_contract_2_desc;封臣除了守城兵力外可以保留少量部队.;;;;;;;;;;x
+feudal_contract_2_desc;封建封臣除了守城兵力外可以保留少量部队。;;;;;;;;;;x
 feudal_contract_3;最多封臣征召兵;;;;;;;;;;x
 feudal_contract_3_option;最多;;;;;;;;;;x
 feudal_contract_3_desc;封臣必须将自己全部的兵力提供给领主使用.;;;;;;;;;;x
@@ -14675,7 +14675,7 @@ investiture_law;神职法;;;;;;;;;;x
 investiture_law_desc;神职法（主教任命法）决定主教的任命权归谁——教宗还是君主本人.;;;;;;;;;;x
 investiture_law_0;教宗授职;;;;;;;;;;x
 investiture_law_0_option;教宗;;;;;;;;;;x
-investiture_law_0_desc;由教宗任命王国内的主教。这项法案将使国王向教宗求助（比如离婚和开除教籍）时减免§G50%§!虔诚。;;;;;;;;;;x
+investiture_law_0_desc;由教宗任命领内的主教。这项法案将使统治者向教宗求助比如离婚和绝罚）时减免§G50%§!虔诚。;;;;;;;;;;x
 investiture_law_1;自由授职;;;;;;;;;;x
 investiture_law_1_option;自由;;;;;;;;;;x
 investiture_law_1_desc;由君主任命王国内的主教。主教们会加倍效忠君主，教宗则会非常失望。;;;;;;;;;;x
@@ -14728,7 +14728,7 @@ LOADING_TIP_11;雇佣兵是职业军人，他们会为你带来胜利——只�
 LOADING_TIP_13;按住鼠标中键可以旋转地图;;;;;;;;;;x
 LOADING_TIP_14;你可以隐藏迷你地图，手动或者自动;;;;;;;;;;x
 LOADING_TIP_16;如果你是自由授职法，教宗可能会要求你修改该法律;;;;;;;;;;x
-LOADING_TIP_17;不要让教宗失望，否则他有可能会将你开除教籍;;;;;;;;;;x
+LOADING_TIP_17;不要让教宗失望，否则他有可能会将你绝罚。;;;;;;;;;;x
 LOADING_TIP_18;如果你年老且膝下无子，你的家族成员可能会要求你的头衔;;;;;;;;;;x
 LOADING_TIP_20;一个宗教的宗教权威越高，其对异端的容忍度越低;;;;;;;;;;x
 LOG_SETTING_LOG;在历史记录中显示.;;;;;;;;;;x
@@ -15068,7 +15068,7 @@ opinion_infidel;异教徒;;;;;;;;;;x
 opinion_heretic;异端;;;;;;;;;;x
 opinion_related_religion;宗教不同;;;;;;;;;;x
 opinion_investiture;授权法;;;;;;;;;;x
-opinion_controlled_antipope;控制的伪教宗;;;;;;;;;;x
+opinion_controlled_antipope;控制的对立教宗;;;;;;;;;;x
 opinion_rightful_rel_head;宗教领袖;;;;;;;;;;x
 opinion_potential_cuckold;怀疑;;;;;;;;;;x
 opinion_denied_guardianship;拒绝成为孩子的监护人;;;;;;;;;;x
@@ -15130,7 +15130,7 @@ cynical_pos;赞赏愤世嫉俗;;;;;;;;;;x
 zealous_neg;鄙视狂热;;;;;;;;;;x
 zealous_pos;赞赏狂热;;;;;;;;;;x
 trusting_pos;相互信任;;;;;;;;;;x
-trusting_neg;厌恶信任;;;;;;;;;;x
+trusting_neg;讨厌轻信;;;;;;;;;;x
 paranoid_neg;鄙视多疑;;;;;;;;;;x
 paranoid_pos;多疑;;;;;;;;;;x
 diligent_pos;赞赏勤奋;;;;;;;;;;x
@@ -15416,10 +15416,10 @@ the_eager;渴望的;;;;;;;;;;x
 the_amiable;友善的;;;;;;;;;;x
 the_naive;天真的;;;;;;;;;;x
 opinion_oblivious;不注意;;;;;;;;;;x
-opinion_pope_vs_antipope;伪教宗;;;;;;;;;;x
-opinion_pope_vs_antipope_controller;伪教宗控制者;;;;;;;;;;x
-opinion_priest_vs_crusader;正在十字军东征;;;;;;;;;;x
-opinion_priest_vs_non_crusader;不在十字军东征;;;;;;;;;;x
+opinion_pope_vs_antipope;对立教宗;;;;;;;;;;x
+opinion_pope_vs_antipope_controller;对立教宗控制者;;;;;;;;;;x
+opinion_priest_vs_crusader;正在十字军远征;;;;;;;;;;x
+opinion_priest_vs_non_crusader;不在十字军远征;;;;;;;;;;x
 recent_revolt;近期叛乱过;;;;;;;;;;x
 big_spender;乱花钱;;;;;;;;;;x
 opinion_approves;赞同;;;;;;;;;;x
@@ -15438,8 +15438,8 @@ opinion_happy_with_guardian;对教育满意;;;;;;;;;;x
 opinion_envy;嫉妒！;;;;;;;;;;x
 stressed_commander;受到压力的指挥官;;;;;;;;;;x
 misplaced_food;误置军队的食物;;;;;;;;;;x
-opinion_granted_barony_to_holy_order;授予十字军骑士团男爵领;;;;;;;;;;x
-opinion_granted_county_to_holy_order;授予十字军骑士团郡;;;;;;;;;;x
+opinion_granted_barony_to_holy_order;授予骑士团男爵领;;;;;;;;;;x
+opinion_granted_county_to_holy_order;授予骑士团省份;;;;;;;;;;x
 one_year_fasting;绝食一年;;;;;;;;;;x
 religious_tract;宗教轶闻;;;;;;;;;;x
 opinion_religious_tract;宗教轶闻;;;;;;;;;;x
@@ -15673,7 +15673,7 @@ VASSALREQTITLE;索要贡金;;;;;;;;;;x
 VASALINVALID;想要求贡金的话，双方关系必须达到-150以上，而且两国均处于和平状态.;;;;;;;;;;x
 DEMANDTRIBUTEINVALID;想要求贡金的话，双方关系必须达到-150以上，而且两国均处于和平状态.;;;;;;;;;;x
 CANCELVASSALDESC;停止接受贡金，;;;;;;;;;;x
-BREAKVASSALDESC;停止上贡进贡.;;;;;;;;;;x
+BREAKVASSALDESC;停止进贡;;;;;;;;;;x
 CANCELVASSALTITLE;取消贡金;;;;;;;;;;x
 BREAKVASSALTITLE;取消贡金;;;;;;;;;;x
 OFFERTRIBUTETITLE;索要贡金;;;;;;;;;;x
@@ -15702,7 +15702,7 @@ SEDUCE_NO_GOV;没有可勾引的总督，如果你想获得这块领地，去找
 SEDUCEREQDESC_REMOVED;你想要勾引§Y$PROV$§!的总督，§Y$NAME$§!吗？\n假如你成功了他会带着他的领地加入我们，但也会伤害到我们和§Y$OWNER$§!的关系。;;;;;;;;;;x
 DIP_NO_CASH;我们无法支付这笔费用！;;;;;;;;;;x
 SEDUCE_INFORMDESC;$TARGET$的管理者$GOVNAME$报告说他抓住了$ACTOR$的$NAME$.$NAME$试图说服管理者背叛我们.\n我们应该怎么处置$NAME$;;;;;;;;;;x
-CALLTITLE;召集盟友! ;;;;;;;;;;x
+CALLTITLE;召集盟友！;;;;;;;;;;x
 CALLREQDESC;你忠诚的盟友$COUNTRY$要求你与他们共同对抗$LIST$.;;;;;;;;;;x
 CALLDESC;召集你的盟友在这场战争中支援你;;;;;;;;;;x
 CALLNEWDESC;你要在战争期间召集你的盟友吗;;;;;;;;;;x
@@ -16317,7 +16317,7 @@ ENVELOPE_DESC;如果一个将军能够让侧翼军纪严明，他可以对敌人
 WEDGE_DESC;当将军们痴迷于侧翼时，军队的中央就会变得薄弱。向对方中军的全力突击有时能起到和侧翼攻击一样的效果;;;;;;;;;;x
 HOLD_GROUND_DESC;有时一个有魅力的将军可以当部队面对敌人进攻时坚定不移.这有助于阻挡敌人的攻势.;;;;;;;;;;x
 FORCE_ATTACK_DESC;战斗过程是跌宕起伏的，但是一个将军可以组织一次英雄式的进攻改改变战局.;;;;;;;;;;x
-COMBAT_DICE;现阶段该军队的幸运点数.;;;;;;;;;;x
+COMBAT_DICE;现阶段该军队的幸运点数。;;;;;;;;;;x
 COMBAT_SHOCK;我军将领与敌军将领军事能力的差距影响.;;;;;;;;;;x
 COMBAT_TERRAIN;进攻方地形效率惩罚.;;;;;;;;;;x
 COMBAT_CROSSING;进攻方渡河与登陆效率修正.;;;;;;;;;;x
@@ -16638,7 +16638,7 @@ EVTDESC7255;我听说[From.GetTitledName]想要密谋[From.GetPlot]. 对此我�
 EVTOPTA7255;一封小小的敲诈信对他不痛不痒，难道不是么;;;;;;;;;;x
 EVTOPTB7255;这与我无关.随他去吧.;;;;;;;;;;x
 EVTTOOLTIP7260;收到一封信件;;;;;;;;;;x
-EVTDESC7260;我听说你想要密谋[Root.GetPlot]. 我觉得这很有意思(阴吹思婷/哦摩西罗伊), 一定会有别的人对这件事情感兴趣的... 想要让我保守机密的代价可是很高的哦.\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC7260;我听说你想要密谋[Root.GetPlot]. 我觉得这很有意思，一定会有别的人对这件事情感兴趣的... 想要让我保守机密的代价可是很高的哦。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA7260;杂种！但是我没有选择的余地……;;;;;;;;;;x
 EVTOPTB7260;我无法忍受敲诈！;;;;;;;;;;x
 EVTDESC7265;我没有别的选择，只能接受你的卑鄙的敲诈.你已经拿了足够多的钱，我希望你从此以后别再向别人提起这件事.;;;;;;;;;;x
@@ -16652,7 +16652,7 @@ EVTDESC8065;为了避免内战分裂国土的危险，我决定向你的命令�
 EVTDESC8100;你不光彩的讹诈行为没有成功.无论你引诱了多少堕落的灵魂来帮你实现你的计划，我都不会一仗不打就投降.我宁愿战死在捍卫自己利益的战争中！\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8100;那就开战！;;;;;;;;;;x
 EVTOPTB8100;其实我并没有计划走到战争这一步……;;;;;;;;;;x
-EVTDESC8066;为了避免内战分裂国土的危险，我决定向你的命令让步并把继承法改为分封继承法.但是我永远不会忘记这种背信弃义的讹诈行为……\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8066;为了避免内战分裂国土的危险，我决定同意你的请求采用均分继承法。但是我永远不会忘记这种背信弃义的讹诈行为……\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTDESC8067;为了避免内战分裂国土的危险，我决定向你的命令让步并缩小王权.但是我永远不会忘记这种背信弃义的讹诈行为……\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTTOOLTIP7105;收到了一封表示拒绝的信件.;;;;;;;;;;x
 plot_gain_title_decision;[Root.GetPlot];;;;;;;;;;x
@@ -17520,7 +17520,7 @@ PROV888;科米;;;;;;;;;;x
 PROV890;汉特;;;;;;;;;;x
 PROV891;秋明;;;;;;;;;;x
 PROV892;曼西;;;;;;;;;;x
-PROV894;卑路支斯坦;;;;;;;;;;x
+PROV894;俾路支斯坦;;;;;;;;;;x
 PROV895;亚伊克;;;;;;;;;;x
 PROV896;阿克托比;;;;;;;;;;x
 PROV897;瑞恩沙漠;;;;;;;;;;x
@@ -17660,7 +17660,7 @@ waldensian;瓦勒度派;;;;;;;;;;x
 bogomilist;波格米勒派;;;;;;;;;;x
 iconoclast;圣像破坏派;;;;;;;;;;x
 monophysite;基督一性论派;;;;;;;;;;x
-nestorian;亚述东方教会;;;;;;;;;;x
+nestorian;景教;;;;;;;;;;x
 zikri;诵经派;;;;;;;;;;x
 yazidi;雅兹迪教;;;;;;;;;;x
 ibadi;伊巴迪派;;;;;;;;;;x
@@ -17758,7 +17758,7 @@ TECH_SIEGE_EQUIPMENT_DESC;制造更大更好的攻城器械.;;;;;;;;;;x
 TECH_CASTLES;军事工程;;;;;;;;;;x
 TECH_CASTLES_DESC;为城堡建设更大更好的城墙;;;;;;;;;;x
 TECH_TACTICS;战术;;;;;;;;;;x
-TECH_TACTICS_DESC;更好的战术可以减少伤亡.;;;;;;;;;;x
+TECH_TACTICS_DESC;更好的战术可以减少伤亡。;;;;;;;;;;x
 TECH_CASTLE_TAXES;农业;;;;;;;;;;x
 TECH_CASTLE_TAXES_DESC;改进的农业技术可以为城堡带来更多收入;;;;;;;;;;x
 TECH_CITY_TAXES;贸易;;;;;;;;;;x
@@ -17949,15 +17949,15 @@ turkish_succession;突厥继承法;;;;;;;;;;x
 open_elective;开放选举法;;;;;;;;;;x
 catholic_bishopric;教区法;;;;;;;;;;x
 AGNATIC;父系;;;;;;;;;;x
-COGNATIC;母系;;;;;;;;;;x
+COGNATIC;平等;;;;;;;;;;x
 UNREST;叛乱;;;;;;;;;;x
 SUPPLY;补给;;;;;;;;;;x
 AGNATIC_SUCCESSION;父系继承;;;;;;;;;;x
-COGNATIC_SUCCESSION;母系继承;;;;;;;;;;x
+COGNATIC_SUCCESSION;平等继承;;;;;;;;;;x
 ACTION_IN_PROV;目前在§Y$WHERE$§!§Y$ACTION$§!;;;;;;;;;;x
 FAM_PARENTS;父母;;;;;;;;;;x
 FAM_BETROTHED;订婚;;;;;;;;;;x
-NO_DYNASTY;出身低贱;;;;;;;;;;x
+NO_DYNASTY;出身卑微;;;;;;;;;;x
 mission_holy_war;$CRUSADE_NAME$对抗$OWNERFULLNAME$;;;;;;;;;;x
 OPINION_OF_LIEGE;对领主的好感;;;;;;;;;;x
 AT_AGE;年龄;;;;;;;;;;x
@@ -17966,8 +17966,8 @@ BM_FATE_OF_ENGLAND;斯坦福桥;;;;;;;;;;x
 BM_FATE_OF_ENGLAND_DESC;公元1066年9月20日.英格兰国王哈罗德·格温森挥师北上，急行军防御他的兄弟托斯提格和挪威国王“强硬者”哈拉尔德三世的军队.与此同时，诺曼底公爵威廉也在教宗亚历山大二世支持下跨越海峡发起入侵.萨克逊人，挪威人，诺曼人，谁将统治阿尔比昂;;;;;;;;;;x
 BM_NORMAN_CONQUEST;征服者威廉;;;;;;;;;;x
 BM_NORMAN_CONQUEST_DESC;在黑斯廷斯艰难地获得胜利后，诺曼底公爵威廉加冕为英格兰国王.威廉将大片领地分封给他的忠诚追随者们，激起了失势的萨克逊贵族对说法语的新统治者的反抗.在安纳托利亚，伟大的苏丹阿尔普·阿尔斯兰正计划着率领塞尔柱突厥人对摇摇欲坠的拜占庭帝国发动致命一击，以决定小亚细亚的命运……;;;;;;;;;;x
-BM_THIRD_CRUSADE;第三次十字军东征;;;;;;;;;;x
-BM_THIRD_CRUSADE_DESC;圣城耶路撒冷沦陷于伟大的异教徒领袖萨拉丁之手.但是英王亨利二世，法王菲利普二世和神圣罗马帝国皇帝“红胡子”腓特烈一世在信仰的感召下，停止了内斗，秣马厉兵，准备对摩尔人发动有史以来最大规模的十字军东征……神的旨意！;;;;;;;;;;x
+BM_THIRD_CRUSADE;第三次十字军远征;;;;;;;;;;x
+BM_THIRD_CRUSADE_DESC;圣城耶路撒冷沦陷于伟大的异教徒领袖萨拉丁之手.但是英王亨利二世，法王菲利普二世和神圣罗马帝国皇帝“红胡子”腓特烈一世在信仰的感召下，停止了内斗，秣马厉兵，准备对摩尔人发动有史以来最大规模的十字军远征……神的旨意！;;;;;;;;;;x
 BM_100_YEARS_WAR;百年战争;;;;;;;;;;x
 BM_100_YEARS_WAR_DESC;1328年去世的法王查理四世没有留下直系继承人，引发了一场持续百年的继承争端.英王爱德华三世是第一顺位的男性继承人，但是法国贵族对接受一位外国国王的统治并不热心，宣布王位不能通过女性亲属继承，转而加冕另一个继承人腓力六世.9年后，战争爆发了……;;;;;;;;;;x
 RELIGION_MENU;§Y宗教§!;;;;;;;;;;x
@@ -18012,30 +18012,30 @@ NAVY_UPKEEP;海军维护费;;;;;;;;;;x
 MERCENARIES;佣兵;;;;;;;;;;x
 EXPENSES_SUM;全年总开支;;;;;;;;;;x
 MAPMODE_TERRAIN;§Y地形地图§!;;;;;;;;;;x
-MAPMODE_TERRAIN_DESC;默认, 地形, 地图类型.;;;;;;;;;;x
+MAPMODE_TERRAIN_DESC;默认，地形，地图类型。;;;;;;;;;;x
 MAPMODE_DOMAIN;§Y封臣地图§!;;;;;;;;;;x
-MAPMODE_DOMAIN_DESC;该地图高亮显示你自己的王国(你和你的封臣.);;;;;;;;;;x
+MAPMODE_DOMAIN_DESC;该地图高亮显示你自己的王国(你和你的封臣。);;;;;;;;;;x
 MAPMODE_DEMESNE;§Y直辖领地地图§!;;;;;;;;;;x
 MAPMODE_DEMESNE_DESC;该地图高亮显示你自己的直辖领地（你自己控制的伯爵和男爵领）。;;;;;;;;;;x
 MAPMODE_RELIGION;§Y宗教地图§!;;;;;;;;;;x
 MAPMODE_CULTURE;§Y文化地图§!;;;;;;;;;;x
-MAPMODE_CULTURE_DESC;该地图显示文化分布.;;;;;;;;;;x
+MAPMODE_CULTURE_DESC;该地图显示文化分布。;;;;;;;;;;x
 MAPMODE_DUCHIES;§Y法理公国地图§!;;;;;;;;;;x
-MAPMODE_DUCHIES_DESC;该地图显示欧洲所有的法理上的公爵领地.;;;;;;;;;;x
+MAPMODE_DUCHIES_DESC;该地图显示所有的法理上的公爵领地。;;;;;;;;;;x
 MAPMODE_KINGDOMS;§Y法理王国地图§!;;;;;;;;;;x
-MAPMODE_KINGDOMS_DESC;该地图将显示欧洲所有的法理上的国王领地.;;;;;;;;;;x
+MAPMODE_KINGDOMS_DESC;该地图将显示所有的法理上的国王领地.;;;;;;;;;;x
 MAPMODE_DIPLO;§Y外交关系地图§!;;;;;;;;;;x
-MAPMODE_DIPLO_DESC;该地图将显示你和其他统治者的外交关系.;;;;;;;;;;x
+MAPMODE_DIPLO_DESC;该地图将显示你和其他统治者的外交关系。;;;;;;;;;;x
 MAPMODE_DEFACTO_COUNTIES;§Y伯爵地图§!;;;;;;;;;;x
-MAPMODE_DEFACTO_COUNTIES_DESC;该地图将显示所有伯爵领.;;;;;;;;;;x
+MAPMODE_DEFACTO_COUNTIES_DESC;该地图将显示所有伯爵领。;;;;;;;;;;x
 MAPMODE_DEFACTO_DUCHIES;§Y公国地图§!;;;;;;;;;;x
-MAPMODE_DEFACTO_DUCHIES_DESC;该地图将显示所有公国.;;;;;;;;;;x
+MAPMODE_DEFACTO_DUCHIES_DESC;该地图将显示所有公国。;;;;;;;;;;x
 MAPMODE_DEFACTO_KINGDOMS;§Y王国地图§!;;;;;;;;;;x
-MAPMODE_DEFACTO_KINGDOMS_DESC;该地图将显示所有王国.;;;;;;;;;;x
+MAPMODE_DEFACTO_KINGDOMS_DESC;该地图将显示所有王国。;;;;;;;;;;x
 MAPMODE_DEFACTOUNDERINDEPENDENT;§Y直属封臣地图§!;;;;;;;;;;x
-MAPMODE_DEFACTOUNDERINDEPENDENT_DESC;该地图将显示独立统治者的所有直属封臣.;;;;;;;;;;x
+MAPMODE_DEFACTOUNDERINDEPENDENT_DESC;该地图将显示独立统治者的所有直属封臣。;;;;;;;;;;x
 MAPMODE_PLAYERS;§Y玩家地图§!;;;;;;;;;;x
-MAPMODE_PLAYERS_DESC;该地图将显示所有玩家及其王国.;;;;;;;;;;x
+MAPMODE_PLAYERS_DESC;该地图将显示所有玩家及其王国。;;;;;;;;;;x
 INCOME_DEMESNE_TAX;领地税;;;;;;;;;;x
 INCOME_VASSAL_CITIES;城市自治权税;;;;;;;;;;x
 INCOME_VASSAL_TEMPLES;教会税;;;;;;;;;;x
@@ -18102,19 +18102,19 @@ TITLE_CREATION_EMPEROR;皇帝不能建立王国或帝国.;;;;;;;;;;x
 TITLE_CREATION_WRONG_RELIGION;该头衔不能被非§Y$RELIGION$§!角色持有.;;;;;;;;;;x
 STAT_SCORE;分数;;;;;;;;;;x
 STAT_SCORE_DESC;每个角色死亡时的威望和[Player.Religion.GetPietyName]都将计入你的分数.你的分数会在游戏结束时决定你的排名.;;;;;;;;;;x
-MAKE_ANTIPOPE;扶持伪教宗;;;;;;;;;;x
+MAKE_ANTIPOPE;扶持对立教宗;;;;;;;;;;x
 LOW_OPINION;好感度低;;;;;;;;;;x
 PROV_RAISE_FLEET;征召船只;;;;;;;;;;x
 MONTHLY_CHANGE;每月变化;;;;;;;;;;x
-NR_OF_ANTIPOPES;伪教宗;;;;;;;;;;x
+NR_OF_ANTIPOPES;对立教宗;;;;;;;;;;x
 YEARLY_INCOME;年收入;;;;;;;;;;x
 PAYS_TAXES_TO;支付税金给;;;;;;;;;;x
 APPOINT;任命;;;;;;;;;;x
-ANTIPOPE_CHURCH_INVESTITURE;§R王国必须有自由任命主教权§!;;;;;;;;;;x
-ANTIPOPE_TOO_LOW_OPINION;§R他喜欢教宗 (§Y$POPE$§R) 更甚于我们 (§Y$US$§R)§!;;;;;;;;;;x
-ANTIPOPE_ALREADY_HAVE_ONE;§R我们已经控制了一位伪教宗§!;;;;;;;;;;x
+ANTIPOPE_CHURCH_INVESTITURE;§R王国必须有自由授职法§!;;;;;;;;;;x
+ANTIPOPE_TOO_LOW_OPINION;§R他喜欢教宗（§Y$POPE$§R）更甚于我们 （§Y$US$§R）§!;;;;;;;;;;x
+ANTIPOPE_ALREADY_HAVE_ONE;§R我们已经控制了一位对立教宗§!;;;;;;;;;;x
 ANTIPOPE_NOT_ENOUGH_PRESTIGE;§R我们至少需要§Y$NEED$§R威望§!;;;;;;;;;;x
-ANTI_POPE_CREATION_DESC;扶植伪教宗既可以允许我们随意开除本国人的教籍，也能保护他们不被真正的教宗开除教籍.比起教宗来更敬重伪教宗的主教们将向我们缴税.不过扶植伪教宗会花费 §R$PRESTIGE_COST$§! 威望，并降低 §R$AUTHORITY_LOSS$§! 宗教权威.;;;;;;;;;;x
+ANTI_POPE_CREATION_DESC;扶植对立教宗既可以允许我们随意绝罚本国人，也能保护他们不被真正的教宗绝罚。比起教宗来更敬重对立教宗的主教们将向我们缴税。不过扶植对立教宗会花费§R$PRESTIGE_COST$§!威望，并降低§R$AUTHORITY_LOSS$§!宗教权威。;;;;;;;;;;x
 DIPLOMATIC_SKILL;国家外交能力;;;;;;;;;;x
 DIPLOMATIC_COURT_SKILL;个人外交能力;;;;;;;;;;x
 NO_CURRENT_AMBITION;没有野心;;;;;;;;;;x
@@ -18213,7 +18213,7 @@ MIL_ARMIES;陆军;;;;;;;;;;x
 MIL_NAVIES;海军;;;;;;;;;;x
 MIL_VASSALS;封臣;;;;;;;;;;x
 MIL_MERCANARIES;佣兵;;;;;;;;;;x
-MIL_HOLY_ORDERS;骑士团;;;;;;;;;;x
+MIL_HOLY_ORDERS;圣战士;;;;;;;;;;x
 MIL_REPUBLICS;共和国;;;;;;;;;;x
 MIL_MONTHLY_COST;每月花费:;;;;;;;;;;x
 RAISE_DEMESNE;动员私人部队;;;;;;;;;;x
@@ -18232,7 +18232,7 @@ STRAITS;通过§Y$SEA$§!到§Y$PROV$§!的海峡;;;;;;;;;;x
 STRAITSDESC;陆军不需要船只就能通过海峡.不过跨海峡攻击会使进攻方受到严重的战斗惩罚;;;;;;;;;;x
 RIVERS;在本郡和§Y$PROV$§!有一条河流;;;;;;;;;;x
 RIVERSDESC;跨河攻击会使进攻方受到战斗惩罚;;;;;;;;;;x
-nick_the_young;年幼者;;;;;;;;;;x
+nick_the_young;年轻的;;;;;;;;;;x
 nick_the_old;长者;;;;;;;;;;x
 nick_the_conqueror;征服者;;;;;;;;;;x
 nick_the_lawgiver;立法者;;;;;;;;;;x
@@ -18690,12 +18690,12 @@ REL_APPOINT_SUCCESSOR;指定继承人;;;;;;;;;;x
 LOYAL_TO;忠诚于;;;;;;;;;;x
 CANNOT_TRANSFER;§R不能将部队转给移动中或作战中的单位§!;;;;;;;;;;x
 ELECTOR_DESC;§Y$TITLE$§!的选侯;;;;;;;;;;x
-BISHOP_LOYALTY_DESC;天主教的地区主教们并没有义务向他们的世俗领主缴税或是服兵役.他们向最有好感的人纳税，这个人可能是教宗，封建领主甚至伪教宗.;;;;;;;;;;x
+BISHOP_LOYALTY_DESC;天主教的地区主教们并没有义务向他们的世俗领主缴税或是服兵役。他们向最有好感的人纳税，这个人可能是教宗，封建领主甚至对立教宗。;;;;;;;;;;x
 OPINION_OF_POPE;对教宗的好感;;;;;;;;;;x
 OPINION_OF_SEC_LIEGE;对领主的好感;;;;;;;;;;x
 HINTS_CLOSE;关闭;;;;;;;;;;x
-HINTS_DISABLE_ALL_HINTS;不再显示所有提示;;;;;;;;;;x
-HINTS_DISABLE_HINT;不再显示这个提示;;;;;;;;;;x
+HINTS_DISABLE_ALL_HINTS;关闭所有提示;;;;;;;;;;x
+HINTS_DISABLE_HINT;关闭提示;;;;;;;;;;x
 NO_HEAD;没有领导;;;;;;;;;;x
 MIL_NUM_ARMIES;$NUM$军队;;;;;;;;;;x
 MIL_NUM_NAVIES;$NUM$舰队;;;;;;;;;;x
@@ -18714,7 +18714,7 @@ LAG_DECREASE_SPEED;$PLAYER$ 处于延迟，减速（赶快重开吧你们）;;;;
 CLICK_TO_APPOINT_LEADER;点击任命将领;;;;;;;;;;x
 LEADER_APP_NEEDS_LAW;§Y$TITLE$§!的贵族有权利拒绝更换将领.\n(王权太低);;;;;;;;;;x
 WRONG_GOVERNMENT_TYPE;§R辖有错误的领地类型!§!;;;;;;;;;;x
-COMBAT_TACTICS_AVAILABLE;这一翼可以用下列战术:;;;;;;;;;;x
+COMBAT_TACTICS_AVAILABLE;这一翼可以用下列战术：;;;;;;;;;;x
 COMBAT_DEFENDERS;防御方;;;;;;;;;;x
 COMBAT_ATTACKERS;进攻方;;;;;;;;;;x
 PLOT_PLOT_POWER;阴谋力量;;;;;;;;;;x
@@ -18774,7 +18774,7 @@ convert_to_liege_religion;皈依领主的信仰;;;;;;;;;;x
 convert_to_liege_religion_desc;如果我们有相同的信仰，领主肯定会感到高兴……;;;;;;;;;;x
 convert_to_liege_culture;效法领主的文化;;;;;;;;;;x
 convert_to_liege_culture_desc;我对我的领主所使用的语言和文化习俗印象深刻.我希望我也能变成那样……;;;;;;;;;;x
-job_chancellor;外交总管;;;;;;;;;;x
+job_chancellor;掌玺总管;;;;;;;;;;x
 job_marshal;军事总管;;;;;;;;;;x
 job_treasurer;财政总管;;;;;;;;;;x
 job_spymaster;间谍首领;;;;;;;;;;x
@@ -18837,7 +18837,7 @@ ambitious;野心勃勃;;;;;;;;;;x
 ambitious_desc;野心勃勃的人工作更勤奋，在各领域都能出类拔萃.不过，他们永不满足的野心意味着他们不会是称职的封臣……;;;;;;;;;;x
 content;安于现状;;;;;;;;;;x
 content_desc;安于现状的人对生命中的一切都感到满意.他们是忠诚的封臣，但不适合承担密谋工作.;;;;;;;;;;x
-trusting;值得信任;;;;;;;;;;x
+trusting;轻信;;;;;;;;;;x
 trusting_desc;值得信任的人不是称职的间谍总管，不过可以当好朋友.;;;;;;;;;;x
 hunchback;驼背;;;;;;;;;;x
 hunchback_desc;此人身体佝偻，不仅饱受封臣蔑视，而且在异性眼中极为丑陋.;;;;;;;;;;x
@@ -18885,9 +18885,9 @@ midas_touched_desc;此人被赞誉为能够点石成金，绝无财富耗尽之�
 misguided_warrior;鲁莽的战士;;;;;;;;;;x
 misguided_warrior_desc;鲁莽的战士在战争和军事技艺方面受过训练，但是毫无天赋可言.;;;;;;;;;;x
 tough_soldier;坚强的战士;;;;;;;;;;x
-tough_soldier_desc;坚强的战士在战场上令人生畏，不过作为指挥官则非常平庸.;;;;;;;;;;x
+tough_soldier_desc;坚强的战士在战场上令人生畏，不过指挥官资质则非常平庸。;;;;;;;;;;x
 skilled_tactician;优秀战术家;;;;;;;;;;x
-skilled_tactician_desc;优秀战术家是战争艺术的行家，既是勇敢的战士，又是可靠的将领.;;;;;;;;;;x
+skilled_tactician_desc;优秀战术家是战争艺术的行家，既是勇敢的战士，又是可靠的将领。;;;;;;;;;;x
 brilliant_strategist;天才战略家;;;;;;;;;;x
 brilliant_strategist_desc;天才战略家有着超乎寻常的军事天分，是绝佳的军事总管和军事导师的候选人.;;;;;;;;;;x
 detached_priest;清高的牧师;;;;;;;;;;x
@@ -18917,8 +18917,8 @@ bastard;私生子;;;;;;;;;;x
 bastard_desc;此人非婚所生，地位不被人承认，因此被取消继承资格.;;;;;;;;;;x
 legit_bastard;合法私生子;;;;;;;;;;x
 legit_bastard_desc;此人非婚所生，但已获得合法地位.合法私生子可以继承爵位，但私生子的出身污点永远无法被抹去.;;;;;;;;;;x
-excommunicated;开除教籍;;;;;;;;;;x
-excommunicated_desc;此人已被开除教籍，在个人荣誉上留下重大污点.;;;;;;;;;;x
+excommunicated;绝罚;;;;;;;;;;x
+excommunicated_desc;此人已被绝罚——逐出教会——这将在荣誉和体面上留下重大污点。;;;;;;;;;;x
 kinslayer;弑亲禽兽;;;;;;;;;;x
 kinslayer_desc;此人杀害近亲的行为被众人所知，这在神和人的眼中都是不可宽恕的罪行.;;;;;;;;;;x
 clubfooted;下肢畸形;;;;;;;;;;x
@@ -19304,7 +19304,7 @@ TRIGGER_COUNTRY;领地;;;;;;;;;;x
 TRIGGER_HOLDER_SCOPE;持有者;;;;;;;;;;x
 TRIGGER_PRIMARY_TITLE;首要头衔;;;;;;;;;;x
 IS_NOT_DE_FACTO_LIEGE;是事实领主;;;;;;;;;;x
-IS_DE_JURE_LIEGE;法理领主;;;;;;;;;;x
+IS_DE_JURE_LIEGE;是法理领主;;;;;;;;;;x
 IS_PRIMARY_HOLDER_TITLE;是持有者的首要头衔;;;;;;;;;;x
 ISNT_PRIMARY_HOLDER_TITLE;不是持有者的首要头衔;;;;;;;;;;x
 WOULD_NOT_BE_HEIR_UNDER;不会是下一任继承人 ;;;;;;;;;;x
@@ -19451,8 +19451,8 @@ IS_NOT_BETROTHED;未订婚;;;;;;;;;;x
 IS_BETROTHED;已订婚;;;;;;;;;;x
 IS_ABROAD;在国外;;;;;;;;;;x
 ISNT_ABROAD;不在国外;;;;;;;;;;x
-IS_EXCOMMUNICATED_FOR_NOT; $CHARACTER$未被开除教籍;;;;;;;;;;x
-IS_EXCOMMUNICATED_FOR; $CHARACTER$已被开除教籍;;;;;;;;;;x
+IS_EXCOMMUNICATED_FOR_NOT; $CHARACTER$未被绝罚;;;;;;;;;;x
+IS_EXCOMMUNICATED_FOR; $CHARACTER$已被绝罚;;;;;;;;;;x
 CLAIMS_FEWER_THAN; §Y$TARGET$§!宣称头衔数少于§Y$NUM$§! ;;;;;;;;;;x
 CLAIMS_AT_LEAST; §Y$TARGET$§!宣称头衔数至少§Y$NUM$§! ;;;;;;;;;;x
 ISNT_TITULAR_TITLE;不是拥有头衔的人;;;;;;;;;;x
@@ -19513,8 +19513,8 @@ tut_menu_4_description;人物好感、特质和联姻;;;;;;;;;;x
 tut_menu_7;阴谋;;;;;;;;;;x
 tut_menu_7_description;了解野心、叛乱和阴谋界面;;;;;;;;;;x
 tut_menu_8;宗教;;;;;;;;;;x
-tut_menu_8_description;了解教宗的能力、十字军远征、骑士团、授职法和伪教宗。;;;;;;;;;;x
-tut_0a_1;欢迎来到十字军之王II的世界;;;;;;;;;;x
+tut_menu_8_description;了解教宗的能力、十字军远征、圣战士、授职法和对立教宗。;;;;;;;;;;x
+tut_0a_1;欢迎来到王国风云II的世界;;;;;;;;;;x
 tut_0a_2;本节是王国风云II的序章部分，本游戏是一个以中世纪欧洲为背景的战略游戏，你将以皇帝、国王、公爵或伯爵的身份，创造属于你的辉煌家族! \n 那么该从哪里开始呢 请点击继续.;;;;;;;;;;x
 tut_0a_3;领土窗口;;;;;;;;;;x
 tut_0a_5;角色窗口;;;;;;;;;;x
@@ -19573,13 +19573,13 @@ tut_2c_8;财务总管 - 征收赋税、监督建设和研究经济科技.;;;;;;;
 tut_2c_11;大多数任务同时也可能会产生负面影响，所以交付任务前一定要注意提示中的数字.;;;;;;;;;;x
 tut_3a_1;继承权 - 初级;;;;;;;;;;x
 tut_3b_1;继承权 - 中级;;;;;;;;;;x
-tut_3b_2;有两种基本的继承规则，男性优先继承和男女公平的.这将决定谁拥有第一顺位继承权，以及其后的继承权顺序.你的孩子、领主和封臣会对你的选择有不同看法，点击法律图标以继续.;;;;;;;;;;x
+tut_3b_2;有两种基本的继承规则，男性继承和男女均可的.这将决定谁拥有第一顺位继承权，以及其后的继承权顺序。你的孩子、领主和封臣会对你的选择有不同看法，点击法律图标以继续。;;;;;;;;;;x
 tut_3b_3;继承权;;;;;;;;;;x
 tut_3b_4;男性继承法.只有男性能够继承;;;;;;;;;;x
-tut_3b_5;男女公平继承法.女性和男性拥有相同的继承权;;;;;;;;;;x
+tut_3b_5;男女公平继承法。女性和男性拥有相同的继承权。;;;;;;;;;;x
 tut_3b_6;长子继承法.由现任君主的最年长的儿子继承.;;;;;;;;;;x
-tut_3b_7;男性优先继承法.只有当没有可选的男性继承者时，女性才有继承权.;;;;;;;;;;x
-tut_3b_8;分封继承法.最重要的头衔由长子继承，然后其余头衔由其他孩子分别继承.;;;;;;;;;;x
+tut_3b_7;男性优先继承法。只有当没有可选的男性继承者时，女性才有继承权。;;;;;;;;;;x
+tut_3b_8;均分继承法。最重要的头衔由长子继承，然后其余头衔由其他孩子分别继承。;;;;;;;;;;x
 tut_3b_9;年长者继承法。由整个家族最年长的成员继承所有头衔。;;;;;;;;;;x
 tut_3b_10;选举继承法.由统治者和他的封臣各提名一名继任者.;;;;;;;;;;x
 tut_3c_1;继承权 - 高级;;;;;;;;;;x
@@ -19635,15 +19635,15 @@ tut_5b_7;城市能够提供船只、弓箭手和大量的轻步兵.;;;;;;;;;;x
 tut_5b_8;修道院能够提供船只，以及弓箭手、轻步兵和重步兵.;;;;;;;;;;x
 tut_5b_9;究竟能征集到什么兵还取决于其他的一些东西，比如这是谁的封臣.由于城堡能提供较多的军队，所以只能提供较少的金钱，而城市正相反.点击继续以结束本节.;;;;;;;;;;x
 tut_5c_1;军事 - 高级;;;;;;;;;;x
-tut_5c_2;我们在王国风云里有一些新的设置和概念.打开军事窗口以了解雇佣兵、骑士团和侧翼概念.;;;;;;;;;;x
+tut_5c_2;我们在王国风云里有一些新的设置和概念。打开军事窗口以了解雇佣兵、圣战士和侧翼的概念。;;;;;;;;;;x
 tut_5c_3;佣兵;;;;;;;;;;x
 tut_5c_4;雇佣兵是由你聘请并直接控制的军队.单击雇佣兵选项以知道为你提供了什么样的雇佣兵.在这里可以看到，当你需要雇佣他们时，需要支付巨额的资金.而且之后每个月还要支付一笔数额相对小一点但仍非成观的雇佣金.如果你发现自己无力支付这笔钱的时候，他们可能会开始攻击你，并占领你的领地，他们只忠诚于黄金.点击圣战士标签以继续.;;;;;;;;;;x
-tut_5c_5;骑士团;;;;;;;;;;x
+tut_5c_5;圣战士;;;;;;;;;;x
 tut_5c_6;你现在还无法雇佣他们.当你能使用时，他们的存在类似于这样：;;;;;;;;;;x
 tut_5c_8;侧翼;;;;;;;;;;x
-tut_5c_9;军队划分为三部分，每部分都拥有将领和自己的战术.当一侧赢了，它可以加入到其它两个之一，以加强他们.请点击继续.;;;;;;;;;;x
+tut_5c_9;军队划分为三部分，每部分都拥有将领和自己的战术。当一侧赢了，它可以加入到其它两个之一，以加强他们。请点击继续。;;;;;;;;;;x
 tut_5c_10;策略;;;;;;;;;;x
-tut_5c_11;每个翼都有一个指挥官，会选择使用的战术.决定这一点时，他会考虑军队的构成，敌人的军队种类，并作出改变.他做的好不好取决于他的军事技能.点击下一步以结束本节.;;;;;;;;;;x
+tut_5c_11;每个翼都有一个指挥官，会选择使用的战术。决定这一点时，他会考虑军队的构成，敌人的军队种类，并作出改变。他做的好不好取决于他的军事技能。点击下一步以结束本节。;;;;;;;;;;x
 tut_6a_1;战争 - 基础;;;;;;;;;;x
 tut_6a_2;在游戏中，战争是外交的延续.这是一个用以增长领土和保护领土的重要工具.请点击继续.;;;;;;;;;;x
 tut_6a_3;宣称所有权和开战理由;;;;;;;;;;x
@@ -19698,17 +19698,17 @@ tut_7c_8;这里有两种阴谋的类型，他们利用的是不同的阴谋力�
 tut_8a_1;宗教 - 初级;;;;;;;;;;x
 tut_8a_3;窗口介绍;;;;;;;;;;x
 tut_8a_4;这里你会看到，你是天主教会的一部分，你还可以在这里找到罗马教宗，看他是否喜欢你.如果有比较高的宗教权威，就是一个好的教会，反之则可以考虑反对他.;;;;;;;;;;x
-tut_8a_5;如果教宗号召十字军东征，则会在这里列出.该窗口的底部列出了你的宗教封臣，而且由你来为他们指定继承人.请点击继续.;;;;;;;;;;x
+tut_8a_5;如果教宗号召十字军远征，则会在这里列出.该窗口的底部列出了你的宗教封臣，而且由你来为他们指定继承人.请点击继续.;;;;;;;;;;x
 tut_8b_1;宗教 - 中级;;;;;;;;;;x
 tut_8b_2;本节将讨论有关好感、法律和圣战的事.请点击“继续”.;;;;;;;;;;x
 tut_8b_3;宗教封臣;;;;;;;;;;x
 tut_8b_5;授职法;;;;;;;;;;x
 tut_8b_7;十字军;;;;;;;;;;x
 tut_8c_1;宗教 - 高级;;;;;;;;;;x
-tut_8c_2;如果碰巧你是独立的统治者，并且已经与罗马教宗交恶，你可以指定一个对立的新教宗.这种宗教对立后，你可以利用这点与罗马教宗开战，如果你赢了，你就能将教宗更换为你指定的新教宗.点击宗教按钮继续.;;;;;;;;;;x
+tut_8c_2;如果碰巧你是独立的统治者，并且已经与罗马教宗交恶，你可以指定一个对立的对立教宗。你可以利用这个对立教宗与罗马教宗开战，如果你赢了，你就能将教宗更换为你指定的对立教宗。点击宗教按钮继续。;;;;;;;;;;x
 tut_8c_3;对立教宗;;;;;;;;;;x
-tut_8c_4;指定一个新教宗的条件是：能自由任免主教的法律，以及一个相比罗马教宗更喜欢你的主教.正如你所见，你有一个主教，但不幸的的是，他并不是很喜欢你.如果条件符合，我可们可以点击好感值下面的小按钮让他成为新教宗.;;;;;;;;;;x
-tut_8c_5;一旦你有了自己的新教宗，喜欢这个新教宗超过罗马教宗的人都会缴税给你，你可以避免被逐出教会，而且可以利用新教宗开始一场反对罗马教宗的战争.点击继续结束本节.;;;;;;;;;;x
+tut_8c_4;指定一个对立教宗的条件是：自由授职法，以及一个喜欢你更甚于罗马教宗的主教。正如你所见，你有一个主教，但不幸的的是，他并不是很喜欢你。如果条件符合，我们可以点击好感值下面的小按钮让他成为对立教宗。;;;;;;;;;;x
+tut_8c_5;一旦你有了自己的对立教宗，喜欢这个对立教宗更甚于罗马教宗的人都会缴税给你，你可以避免被绝罚，而且可以利用对立教宗开始一场反对罗马教宗的战争。点击继续结束本节。;;;;;;;;;;x
 tut_9b_1;封建制度 - 初级和中级;;;;;;;;;;x
 tut_9b_3;统治阶级;;;;;;;;;;x
 tut_9b_4;基础的被统治单位分为三类：城市、修道院和城堡，如果首府是城市，则领主是一个骑士.如果你的首府是修道院，则领主是一个主教.如果首府是城堡，则所有者是一个有爵位的封建领主.在法律页面里有些针对性的法律，玩家手册中有更多的等级细节.游戏中爵位的等阶顺序是：伯爵 - >公爵 -> 国王 -> 皇帝.点击法律按钮以继续.;;;;;;;;;;x
@@ -19769,7 +19769,7 @@ SELECT_UNIT;选择单位;;;;;;;;;;x
 SELECT_UNIT_DRO;取消其它选中的单位;;;;;;;;;;x
 LOAD_CAPACITY;运输能力;;;;;;;;;;x
 LOAD_CAPACITY_DESC;这支舰队的军队运输能力;;;;;;;;;;x
-COMBATVALUE_TACTIC;战术;;;;;;;;;;x
+COMBATVALUE_TACTIC;作战战术;;;;;;;;;;x
 LIGHT_INFANTRY;轻步兵;;;;;;;;;;x
 LIGHT_INFANTRY_MORALE;轻步兵士气;;;;;;;;;;x
 LIGHT_INFANTRY_DISCIPLINE;轻步兵训练度;;;;;;;;;;x
@@ -19810,10 +19810,10 @@ GALLEYS_DISCIPLINE;船只训练度;;;;;;;;;;x
 GALLEYS_OFFENSIVE_FIRE;船只攻击;;;;;;;;;;x
 GALLEYS_DEFENSIVE_FIRE;船只防御;;;;;;;;;;x
 ESTIMATE_ARIVAL;将在§Y$DATE$§!抵达§Y$PROV$§!;;;;;;;;;;x
-PHASE_SKIRMISH;远程战;;;;;;;;;;x
+PHASE_SKIRMISH;遭遇战;;;;;;;;;;x
 PHASE_MELEE;肉搏战;;;;;;;;;;x
 PHASE_PURSUE;追击战;;;;;;;;;;x
-COMBATVALUE_ATTVAL_DESC;阶段: 远程战/肉搏战/追击战;;;;;;;;;;x
+COMBATVALUE_ATTVAL_DESC;阶段：遭遇战/肉搏战/追击战;;;;;;;;;;x
 COMBATVALUE_ATTVAL;攻击值: §Y$S_VAL$§!/§Y$M_VAL$§!/§Y$P_VAL$§!;;;;;;;;;;x
 COMBATVALUE_DEFVAL;防御值: §Y$S_VAL$§!/§Y$M_VAL$§!/§Y$P_VAL$§!;;;;;;;;;;x
 COMBATVALUE_MODIFIER;修正:;;;;;;;;;;x
@@ -19838,7 +19838,7 @@ FLEET_NAME2;$ADJ$舰队;;;;;;;;;;x
 REALM_DYN_NAMES;$DYNASTY$$TITLE$;;;;;;;;;;x
 RELIGION_TOOLTIP;$RELIGION1$($RELIGION2$异端);;;;;;;;;;x
 §WReligion;宗教;;;;;;;;;;x
-§WWorld Religions;世界宗教:;;;;;;;;;;x
+§WWorld Religions;世界宗教：;;;;;;;;;;x
 §bCapital:;首都:;;;;;;;;;;x
 §bCulture:;文化：;;;;;;;;;;x
 §bTax:;税基:;;;;;;;;;;x
@@ -19850,3 +19850,4 @@ RELIGION_TOOLTIP;$RELIGION1$($RELIGION2$异端);;;;;;;;;;x
 §bReligion:;宗教:;;;;;;;;;;x
 §WProvinces;省份;;;;;;;;;;x
 §WOMENS;预兆;;;;;;;;;;x
+MS_CHANNEL_PLAYER;#Channelname/Playerlist;;;;;;;;;;x

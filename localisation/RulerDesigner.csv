@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 RD_APPEARANCE;外貌;;;;;;;;;;x
 RD_COAT_OF_ARMS;盾徽;;;;;;;;;;x
 RD_ATTRIBUTES;属性;;;;;;;;;;x
@@ -49,7 +49,7 @@ RD_CLEARTRAITS;移除所有特质\n右键点击某项特质以单独去除;;;;;;
 RD_DIPLOMACY;外交：;;;;;;;;;;x
 RD_MARTIAL;军事：;;;;;;;;;;x
 RD_STEWARDSHIP;财政：;;;;;;;;;;x
-RD_INTRIGUE;智谋：;;;;;;;;;;x
+RD_INTRIGUE;密谋：;;;;;;;;;;x
 RD_LEARNING;学识：;;;;;;;;;;x
 RD_HEALTH;健康：;;;;;;;;;;x
 RD_FERTILITY;生育力：;;;;;;;;;;x

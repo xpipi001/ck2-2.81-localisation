@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 INTERACTION_CANNOT_INVITE_MARRIED;[Recipient.GetTitledFirstName] 不能已婚;;;;;;;;;;x
 INTERACTION_CANNOT_INVITE_CONSORT;[Recipient.GetTitledFirstName] 不能是侍妾;;;;;;;;;;x
 AIREASON_LOVER;§Y[GetTitledFirstName]§!是我的情人;;;;;;;;;;x
@@ -65,7 +65,7 @@ REL_COUSIN_HUSBAND;丈夫;;;;;;;;;;x
 REL_COUSIN_WIFE;妻子;;;;;;;;;;x
 REL_AUNT_WIFE;妻子;;;;;;;;;;x
 REL_NIECE_WIFE;妻子;;;;;;;;;;x
-MINOR_CLAN_REVOLT;[Root.County.GetAdjective]小型部族反叛;;;;;;;;;;x
+MINOR_CLAN_REVOLT;[Root.County.GetAdjective]次级部族叛乱;;;;;;;;;;x
 succ_nomadic_desc;在草原的人民中，声望即可决定继承的顺序。合法的子女和当前统治者的兄弟姐妹都拥有资格。但是，不同于其他继承形式，只有正确文化的成年人能够继承。;;;;;;;;;;x
 STAT_CULTURE_PROV_DESC;这是此省份的主流文化。;;;;;;;;;;x
 STAT_RELIGION_PROV_DESC;这是此省份的主流宗教。;;;;;;;;;;x
@@ -133,12 +133,12 @@ alert_inefficent_land_management_name;土地管理效率低下;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_2I;因为§Y[Recipient.GetTitledFirstName]§!是个部落的野蛮人, 我们的封臣将不会反对。;;;;;;;;;;x
 religious_desc;§Y$CLAIMANT$§!可以用这个宣战理由夺取异教徒§Y$TARGET$§!在§Y$TITLE$§!法理内的所有领地。此宣战理由针对邻居时有效，而如果攻击方或者防御方之一是穆斯林，或者攻击方宗教的大圣战时代已开启，则也能针对最多两个海区距离内的异教徒。;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_UNITS_IN_ENEMY;在我们缺少地产的敌对省份我们没有部队单位;;;;;;;;;;x
-EVTDESC236_NC;不能继续容忍[Root.GetTitledFirstName]的卑劣行径了！我们一致同意应将[Root.GetSubjectPronoun]开除教籍！;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_TITLE_HEAD;开除教籍;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_DESC_HEAD;令§Y[ThirdPartyCharacter.GetBestName]§!开除教籍。将会花费你§R100§!虔诚并且会被[ThirdPartyCharacter.GetPossPronoun]的亲戚视为侮辱。;;;;;;;;;;x
-ASK_FOR_EXCOMMUNICATION_INTERACTION_0_HEAD;令§Y[ThirdPartyCharacter.GetBestName]§!开除教籍。将会花费你§R$COST$§!的虔诚并且会被[ThirdPartyCharacter.GetPossPronoun]的亲戚视为侮辱。;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DESC_HEAD;解除§Y[ThirdPartyCharacter.GetBestName]§!的开除教籍状态。;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0_HEAD;解除§Y[ThirdPartyCharacter.GetBestName]§!的开除教籍状态。这将会花费你§R$COST$§!虔诚。;;;;;;;;;;x
+EVTDESC236_NC;不能继续容忍[Root.GetTitledFirstName]的卑劣行径了！我们一致同意[Root.GetSubjectPronoun]应被绝罚！;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_TITLE_HEAD;绝罚;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_DESC_HEAD;令§Y[ThirdPartyCharacter.GetBestName]§被绝罚。将会花费你§R100§虔诚并且会被[ThirdPartyCharacter.GetPossPronoun]亲属视为侮辱。;;;;;;;;;;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_0_HEAD;令§Y[ThirdPartyCharacter.GetBestName]§被绝罚。将会花费你§R$COST$§的虔诚并且会被[ThirdPartyCharacter.GetPossPronoun]亲戚视为侮辱。;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DESC_HEAD;免除§Y[ThirdPartyCharacter.GetBestName]§的绝罚。;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0_HEAD;免除§Y[ThirdPartyCharacter.GetBestName]§的绝罚。这将会花费你§R$COST$§虔诚。;;;;;;;;;;x
 DESIGNATE_HEIR_PROGENY;你只能钦点你的子女;;;;;;;;;;x
 EVTDESC327;伟大的[Root.GetTitledFirstName]对[New.GetTitledName]、以及在[From.GetFullBaseName]的‘[New.Religion.GetHighGodName]’信徒们发动了[Root.Religion.GetCrusadeName]！以[Root.Religion.GetHighGodName]之名，所有真正的[Root.Religion.GetName]人都被号召加入战争！\n\n[Root.Religion.GetRandomEvilGodName]的黑暗化身必须被治愈之焰清洗！;;;;;;;;;;x
 EVTDESC327_MUSLIMS;伟大的[Root.GetTitledFirstName]对[New.GetTitledName]、以及在[From.GetFullBaseName]的[New.Religion.GetHighGodName]追随者们发动了[Root.Religion.GetCrusadeName]！所有真正的[Root.Religion.GetName]人都被召唤加入战争对抗古老的大敌！\n\n穆罕默德是[Root.Religion.GetRandomEvilGodName]的喉舌，他的所有邪说都应该被清除！;;;;;;;;;;x
@@ -161,7 +161,7 @@ HINT_SPLASH_2_REL_DESC;[Religion.GetDesc];;;;;;;;;;x
 HINT_SPLASH_2_REL_FEATURES;[Religion.GetFeatures];;;;;;;;;;x
 REL_INVESTITURE_DESC;$NAME$的主教们向教宗而不是世俗领主交税;;;;;;;;;;x
 REL_ANTIPOPES_DESC;$NAME$统治者可以设对立教宗;;;;;;;;;;x
-REL_EXCOMMUNICATION_DESC;$HEAD_TITLE$可以开除$NAME$人物的教籍;;;;;;;;;;x
+REL_EXCOMMUNICATION_DESC;$HEAD_TITLE$可以绝罚$NAME$;;;;;;;;;;x
 REL_GRANT_DIVORCE_DESC;$HEAD_TITLE$可以同意离婚;;;;;;;;;;x
 REL_GRANT_INVASION_DESC;$HEAD_TITLE$可以赐予入侵的战争借口;;;;;;;;;;x
 REL_GRANT_CLAIM_DESC;$HEAD_TITLE$可以赐予头衔的宣称;;;;;;;;;;x
@@ -213,7 +213,7 @@ NO_SPECIAL_FEATURES;无特殊特征;;;;;;;;;;x
 nomad_ruling_clan_too_powerful;次级部族正在壮大;;;;;;;;;;x
 cb_minor_clan_revolt_desc;强大的‘次级’部族会向上级部族发起反叛索取更多土地。;;;;;;;;;;x
 CB_NAME_MINOR_CLAN_REVOLT;次级部族反叛;;;;;;;;;;x
-WAR_NAME_MINOR_CLAN_REVOLT;次级部族崛起;;;;;;;;;;x
+WAR_NAME_MINOR_CLAN_REVOLT;次级部族叛乱;;;;;;;;;;x
 ISNT_CLOSE_RELATIVE;不是近亲属;;;;;;;;;;x
 IS_CLOSE_RELATIVE;是近亲属;;;;;;;;;;x
 HOLYSITE_LOCATION_COUNTY;§Y$SITENAME$§!拥有圣地;;;;;;;;;;x
@@ -222,16 +222,16 @@ ANY_TRADE_ROUTE_PROVINCE_STARTS;任意贸易路线省份;;;;;;;;;;x
 NOT_ANY_TRADE_ROUTE_PROVINCE_STARTS;无贸易路线省份;;;;;;;;;;x
 HINT_NOMAD_VIEW_TITLE;部族界面;;;;;;;;;;x
 AIREASON_NO_WAR_AGAINST_SPOUSE;不会加入针对配偶（§Y[GetTitledName]§!）的战争！;;;;;;;;;;x
-HINT_NOMAD_VIEW_TEXT_1;游牧部落总是由数个主要部族掌控。掌控这些部族酋长——平衡他们的数量和实力——这是每位可汗都应该优先考虑的。若部族过少，新的部族会通过武力出现。若部族过多，他们会因缺乏牧场而不悦。;;;;;;;;;;x
+HINT_NOMAD_VIEW_TEXT_1;游牧部落总是由数个主要部族掌控。掌控这些部族酋长——平衡他们的数量和实力——这是每位汗王都应该优先考虑的。若部族过少，新的部族会通过武力出现。若部族过多，他们会因缺乏牧场而不悦。;;;;;;;;;;x
 HINT_NOMAD_VIEW_TEXT_2;每个部族会对其他部族有不同态度，称为部族观感。部族酋长必须重视这些观感，这将会体现在他们对其他酋长的态度。维持部族观感，将内乱扼杀在摇篮。;;;;;;;;;;x
 HINT_NOMAD_VIEW_TEXT_3;部族总是保持半自治的状态，并且即使是另一部族叛乱也必须通过召唤才参与战争。更惨的是每个部族（即使是统治部族）只可以通过血誓与一个其他部族结盟。各部族之间之间的世仇很常见，令他们可以为了土地互相开战。视情况而定，对一个部族积极或消极的举动会对其世仇部族和血誓部族的观感产生影响……;;;;;;;;;;x
 HINT_NOMAD_VIEW_TEXT_4;管理各部族的关键是执行你可用的特殊行为——‘分裂部族’，‘调解世仇’，等等。;;;;;;;;;;x
 EVTTOOLTIP62920;莱昂与阿斯图里亚斯合并为一个王国;;;;;;;;;;x
 EVTNAME62920;莱昂与阿斯图里亚斯合并;;;;;;;;;;x
 EVTDESC62920;莱昂王国与阿斯图里亚斯王国将永远合一，只有一个王冠，也只有一个国王永恒统治二者。;;;;;;;;;;x
-EVTTOOLTIP62922;我加冕为卡斯蒂利亚国王;;;;;;;;;;x
-EVTNAME62922;卡斯蒂利亚之[Root.PrimaryTitle.GetTier];;;;;;;;;;x
-EVTDESC62922;历经数百年的征战，卡斯蒂利亚已经迅速壮大并独立自主。是时候要求本地区其他统治者认同我为平等的一员！;;;;;;;;;;x
+EVTTOOLTIP62922;我加冕为卡斯提尔国王;;;;;;;;;;x
+EVTNAME62922;卡斯提尔之[Root.PrimaryTitle.GetTier];;;;;;;;;;x
+EVTDESC62922;历经数百年的征战，卡斯提尔已经迅速壮大并独立自主。是时候要求本地区其他统治者认同我为平等的一员！;;;;;;;;;;x
 EVTOPTA62922;这顶王冠非常适合我！;;;;;;;;;;x
 EVTOPTA62923;又一个王国？;;;;;;;;;;x
 EVTTOOLTIP62924;我加冕为葡萄牙国王;;;;;;;;;;x
@@ -243,8 +243,8 @@ EVTDESC62926;小小的阿拉贡伯爵领，多年前由法兰克人创立，如�
 EVTDESC_HL_2000;一个强力的次级部族已经在[Root.GetName]崛起，由他们魅力非凡的首领带领。他们想要在主要部族中获取他们的位置！;;;;;;;;;;x
 EVTOPTA_HL_2000;我们来看看谁更强！;;;;;;;;;;x
 EVTDESC_HL_2001;一个强力的次级部族已经在[Root.GetName]崛起，由他们魅力非凡的首领带领。他们想要在主要部族中获取他们的位置！;;;;;;;;;;x
-EVTDESC_HL_2010;次级部族的叛乱在[Root.GetName]得到了更多支援，叛乱正在壮大！;;;;;;;;;;x
-EVTDESC_HL_2011;次级部族的叛乱在[Root.GetName]得到了更多支援，叛乱正在壮大！;;;;;;;;;;x
+EVTDESC_HL_2010;次级部族叛乱在[Root.GetName]得到了更多支援，叛乱正在壮大！;;;;;;;;;;x
+EVTDESC_HL_2011;次级部族叛乱在[Root.GetName]得到了更多支援，叛乱正在壮大！;;;;;;;;;;x
 title_behi;别吉;;;;;;;;;;x
 title_behi_desc;这个头衔赐予蒙古贵族世家中的妇女。;;;;;;;;;;x
 title_master_of_the_eagle;训鹰大师;;;;;;;;;;x
@@ -255,16 +255,16 @@ EVTOPTA60500;那些骑马的家伙能干成什么事?;;;;;;;;;;x
 EVTOPTB60500;没什么好担心的。;;;;;;;;;;x
 EVTOPTC60500;没人可以统治我们的子民！;;;;;;;;;;x
 GENGHIS_KHAN;成吉思汗;;;;;;;;;;x
-greatest_of_khans;最伟大的可汗;;;;;;;;;;x
-become_genghis_khan;成为最伟大的可汗;;;;;;;;;;x
+greatest_of_khans;最伟大的汗王;;;;;;;;;;x
+become_genghis_khan;成为最伟大的汗王;;;;;;;;;;x
 become_genghis_khan_desc;统一大草原各部族的蒙古可汗可以自称成吉思汗，最伟大的可汗。但一统草原人民困难重重，要最终完成一统天下的预言更是难上加难。;;;;;;;;;;x
-become_genghis_khan_tribal;成为最伟大的可汗;;;;;;;;;;x
+become_genghis_khan_tribal;成为最伟大的汗王;;;;;;;;;;x
 become_genghis_khan_tribal_desc;统一大草原各部族的蒙古可汗可以自称成吉思汗，最伟大的可汗。但一统草原人民困难重重，要最终完成一统天下的预言更是难上加难。;;;;;;;;;;x
 EVTNAME60520;蒙古人;;;;;;;;;;x
 EVTDESC60520;草原上众多可汗已经统合在同一面旗帜之下。成功统合他们所有人的首领是[From.PrimaryTitle.GetName]的[From.GetFirstName]。大草原的民众现在称呼他们的首领为成吉思汗，最伟大的可汗，并且他们不仅只着眼于草原更放眼于四海。是否有人能阻挡他们雷霆般军队的隆隆蹄声？;;;;;;;;;;x
 EVTOPTA_60520;老子最强！;;;;;;;;;;x
 EVTOPTB_60520;必须做什么去阻止他们！;;;;;;;;;;x
-EVTOPTC_60520;[From.GetFirstName]确实是最伟大的可汗！;;;;;;;;;;x
+EVTOPTC_60520;[From.GetFirstName]确实是最伟大的汗王！;;;;;;;;;;x
 strategic_innovation;战略革新;;;;;;;;;;x
 EVTOPTC_94019;我将学以致用!;;;;;;;;;;x
 EVTDESC_WOL_10999;你出发远征冒险已一月有余，而你在任何地方都没有找到合适的贸易伙伴。你的手下思乡心切，现在已经转头带着团队回家了。;;;;;;;;;;x
@@ -489,7 +489,7 @@ no_elephant_camp_desc;营中的大象随时准备加入军事战役。;;;;;;;;;;
 STAT_VASSAL_LIMIT_DESC;你的封臣上限表示你可以拥有多少伯爵或以上级别的直属封臣，但游牧部族不计算在内。拥有太多直属封臣将会减少你从封臣获得的税收和征召兵，并且在你死时有可能失去一部分封臣。;;;;;;;;;;x
 ENDGAME_TEXT_NOMADIC;你成为了游牧领地的统治者，因此不允许继续游戏。;;;;;;;;;;x
 TT_BUILD_TRIBAL_HOLDINGS;所有空白直辖领都会获得一个§Y部落地产§!\n;;;;;;;;;;x
-TT_NEW_KHAN;成为§Y[PrevPrev.GetName]§!的新可汗\n;;;;;;;;;;x
+TT_NEW_KHAN;成为§Y[PrevPrev.GetName]§!的新汗王\n;;;;;;;;;;x
 TT_KHAN_INDEPENDENCE;从§Y[Prev.GetName]§!独立\n;;;;;;;;;;x
 adopt_tribalism;定居为部落;;;;;;;;;;x
 adopt_tribalism_desc;我可选择永久定居我的部落。;;;;;;;;;;x
@@ -527,7 +527,7 @@ ABSORB_CLAN_INTERACTION_2;其他部族封臣将视之为暴君行为，减少他
 ABSORB_CLAN_INTERACTION_3;其他部族封臣将毫不在意，因为他们觉得领地内部族太多了。;;;;;;;;;;x
 opinion_absorbed_my_clan;同化我的部族;;;;;;;;;;x
 EVTDESC503;我虽然内心极为悲伤，但还是恭顺地接受您同化[From.GetOnlyDynastyName]的提议。;;;;;;;;;;x
-EVTDESC504;我不会允许你兵不血刃就偷走我的人民！你不再是我的可汗。;;;;;;;;;;x
+EVTDESC504;我不会允许你兵不血刃就偷走我的人民！你不再是我的汗王。;;;;;;;;;;x
 LIEGE_ENDED_OTHER_WAR_PARTICIPATION_SETUP;领主结束参与战争;;;;;;;;;;x
 LIEGE_ENDED_OTHER_WAR_SETUP;领主结束了战争;;;;;;;;;;x
 ASK_FOR_CLAIM_INTERACTION_ACCEPT_SETUP;宣称请求被接受了;;;;;;;;;;x
@@ -581,7 +581,7 @@ AI_GREED_AT_LEAST;AI的贪婪至少;;;;;;;;;;x
 AI_ZEAL_LESS_THAN;AI的狂热少于;;;;;;;;;;x
 AI_ZEAL_AT_LEAST;AI的狂热至少;;;;;;;;;;x
 AIREASON_CLAN_OPINION;§Y[Clan.GetName]§!的部族观感;;;;;;;;;;x
-AIREASON_MY_KHAN;我的可汗;;;;;;;;;;x
+AIREASON_MY_KHAN;我的汗王;;;;;;;;;;x
 AIREASON_BLOOD_BROTHER;[GetTitledFirstName]是我的结义兄弟;;;;;;;;;;x
 AIREASON_FEUD;和[GetTitledFirstName]有世仇;;;;;;;;;;x
 clan_opinion_absorbed_clan;同化部族;;;;;;;;;;x
@@ -616,7 +616,7 @@ SPLIT_CLAN_INTERACTION_2;[Recipient.GetHerHis]结义兄弟§Y$BLOOD_BROTHER$§!�
 SPLIT_CLAN_INTERACTION_3;所有的部族封臣都会不满，因为领地内已经有够多的部族了，降低他们对你的观感 §R$VAL$§!。;;;;;;;;;;x
 SPLIT_CLAN_INTERACTION_4;其他部族封臣并不会在意，因为他们认为领地内的部族并不算太多。;;;;;;;;;;x
 EVTDESC509;我恭顺地接受你的决定，分拆我的部族，尽管这让我非常痛心。;;;;;;;;;;x
-EVTDESC510;我绝不允许不经过战斗就抢走我的人民！你不再是我的可汗。;;;;;;;;;;x
+EVTDESC510;我绝不允许不经过战斗就抢走我的人民！你不再是我的汗王。;;;;;;;;;;x
 clan_opinion_created;忠诚的部族;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_BLOOD_BROTHER;§Y[Recipient.GetTitledFirstName]§!不是§Y[Actor.GetTitledFirstName]§!的结拜兄弟;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_FEUD;§Y[Recipient.GetTitledFirstName]§!没有和§Y[Actor.GetTitledFirstName]§!处于世仇中;;;;;;;;;;x
@@ -668,13 +668,13 @@ TECH_GROWTH_NOMAD_CAPITAL_LOG;$NAME$内对于$TECH$的当地知识增加到级�
 TECH_GROWTH_PROG_NOMAD_CAPITAL_SETUP;游牧首都的进程;;;;;;;;;;x
 TECH_GROWTH_PROG_NOMAD_CAPITAL_LOG;$NAME$内对于$TECH$升级的当地进展增加到§Y$PROG$§!;;;;;;;;;;x
 RULER_CANNOT_MOVE_CAPITAL_AT_WAR;你只可在和平时迁都。;;;;;;;;;;x
-faction_overthrow;推翻可汗;;;;;;;;;;x
-faction_overthrow_title;推翻可汗;;;;;;;;;;x
+faction_overthrow;推翻汗王;;;;;;;;;;x
+faction_overthrow_title;推翻汗王;;;;;;;;;;x
 faction_overthrow_desc;部族渴望§Y[From.GetBestName]§!成为§Y[This.GetFullName]§!的新首领。当足够强有力的时候，§Y[From.GetBestName]§!或许会提出最后通牒给§Y[From.Liege.GetBestName]§!;;;;;;;;;;x
-WAR_NAME_INSTALLKHAN;拥立$ATTACKER$为$SECOND$可汗;;;;;;;;;;x
+WAR_NAME_INSTALLKHAN;拥立$ATTACKER$为$SECOND$汗王;;;;;;;;;;x
 EVTDESC8210;你已经证明了你的软弱，我和所有部族都通过气了，现在是时候请你交出统治权给一位配得上的人。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
-EVTDESC8211;懦弱的可汗已经同意我们的要求，向我们投降。;;;;;;;;;;x
-EVTDESC8212;由不满的部族首领组成的派系，没有流血就解散了，因为前任可汗已向他们投降。;;;;;;;;;;x
+EVTDESC8211;懦弱的汗王已经同意我们的要求，向我们投降。;;;;;;;;;;x
+EVTDESC8212;由不满的部族首领组成的派系，没有流血就解散了，因为前任汗王已向他们投降。;;;;;;;;;;x
 EVTDESC8213;我向你投降[Root.GetTitledName]，只求你对我和我的家族开恩……;;;;;;;;;;x
 EVTOPTA8213;你的部族对我们忠心耿耿, 你暂时可以活着……;;;;;;;;;;x
 EVTOPTB8213;像你这样的懦夫不可与我们为伍！;;;;;;;;;;x
@@ -685,5 +685,5 @@ EXILE_INTERACTION_FORCED;因为他们的政体与我们大相径庭，你的部�
 PILLAGE_DESTROY_BUILDINGS;劫掠这片土地将导致建筑被摧毁！\n;;;;;;;;;;x
 pillage_settlement;劫掠地产;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_LARGE_NOMAD;既然这个统治者的领地比我们大，我们可以用公正的理由收回他们的部分土地。;;;;;;;;;;x
-faction_overthrow_ultimatum;推翻可汗;;;;;;;;;;x
-faction_overthrow_ultimatum_desc;递交最后通牒给§Y[Root.Liege.GetBestName]§!，要求[Root.Liege.GetHerHim]放弃汗位并由你来做新的可汗。如果[Root.Liege.GetSubjectPronoun]拒绝服从，你的派系将发动叛乱。;;;;;;;;;;x
+faction_overthrow_ultimatum;推翻汗王;;;;;;;;;;x
+faction_overthrow_ultimatum_desc;递交最后通牒给§Y[Root.Liege.GetBestName]§!，要求[Root.Liege.GetHerHim]放弃汗位并由你来做新的汗王。如果[Root.Liege.GetSubjectPronoun]拒绝服从，你的派系将发动叛乱。;;;;;;;;;;x

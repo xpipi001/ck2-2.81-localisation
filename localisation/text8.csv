@@ -1,6 +1,6 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 AIREASON_ALL_HELP_IS_APPRECIATED;对所有的帮助表示感谢;;;;;;;;;;x
-RULER_JOINS_ENEMY_WAR_SETUP;一位领主加入了战争对抗我们;;;;;;;;;;x
+RULER_JOINS_ENEMY_WAR_SETUP;一位领主加入了对抗我们的战争;;;;;;;;;;x
 RULER_JOINS_ENEMY_WAR_LOG;§Y$WHO$§!在§Y$WAR$§!中加入了§Y$ENEMY$§!一方;;;;;;;;;;x
 joined_my_war;加入我的战争;;;;;;;;;;x
 d_maghreb_corsairs;马格里布海军;;;;;;;;;;x
@@ -65,7 +65,7 @@ plot_gain_vassal_title_desc;[From.GetBestName]正在密谋收回[This.GetFullBas
 plot_gain_vassal_title_decision;[Root.GetPlot];;;;;;;;;;x
 plot_gain_vassal_title_decision_desc;将密谋付诸行动，下达最后通牒给[Root.PlotTarget.GetTitledName].;;;;;;;;;;x
 EVTTOOLTIP8030;[Root.PlotTarget.GetTitledName]收到了一封信.;;;;;;;;;;x
-EVTDESC8030;我已经决定 [From.GetPlot]. 领地中的封臣都研究过这个情形中的法律文件，其中的大多数领主都认为我的要求是公正合理、童叟无欺的，要么乖乖地和平下台，要么我就不得不采取军事手段捍卫我的合法权利了.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC8030;我已经决定[From.GetPlot]。领地中的封臣都研究过这个情形中的法律文件，其中的大多数领主都认为我的要求是公正合理、童叟无欺的，你要么乖乖地和平下台，要么就不得不让我采取军事手段捍卫我的合法权利了。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTDESC8068;与其让内战撕碎我们的国家，我宁可向您屈膝，双手奉上我的头衔给你，但是这起阴险毒辣的敲诈行动永远不会被忘记...\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA8068;妙极了!;;;;;;;;;;x
 EVTDESC8096;因为不愿意让内战分裂我们的国土, [FromFrom.PlotTarget.GetTitledName]已经同意屈膝投降，让我[FromFrom.GetPlot].在这场冲突中您弥足珍贵的支持绝不会被忘记.\n\nSincerely,\n[FromFrom.GetTitledName];;;;;;;;;;x
@@ -82,7 +82,7 @@ EVTDESC620;在对抗[New.GetTitledName]的[Root.GetBaseName][From.Religion.GetCr
 EVTOPTA620;赞美[From.Religion.GetRandomGodName]！;;;;;;;;;;x
 EVTNAME621;对[Root.GetBaseName]的[From.Religion.GetCrusadeName]失败了!;;;;;;;;;;x
 EVTDESC621;[From.Religion.GetRandomGodNameCap] 似乎不再眷顾 [From.Religion.GetGroupName] 了。 在反复的拉锯和转进之后，[From.GetTitledName] 下令取消了对抗 [New.GetTitledName] 旨在夺取 [Root.GetBaseName] 的 [From.Religion.GetCrusadeName]。;;;;;;;;;;x
-TITLE_CREATION_NOT_PRIMARY_TYPE;特殊头衔持有者无法创建或篡夺相等或更高级别的头衔.;;;;;;;;;;x
+TITLE_CREATION_NOT_PRIMARY_TYPE;特殊头衔持有者无法创建或篡夺相等或更高级别的头衔。;;;;;;;;;;x
 IS_NOT_LOCATED_IN_AREA;不在;;;;;;;;;;x
 IS_LOCATED_IN_AREA;在;;;;;;;;;;x
 IS_NOT_DE_JURE_VASSAL_OR_BELOW;不是法理封臣或更低;;;;;;;;;;x
@@ -97,7 +97,7 @@ REPUBLIC_GRAND_CAPITAL_CITY;尊贵共和国首都;;;;;;;;;;x
 MATRILINEAL_MARRIAGE;入赘婚姻;;;;;;;;;;x
 MATRILINEAL;入赘;;;;;;;;;;x
 BETROTHAL_SUCC;入赘订婚;;;;;;;;;;x
-BETROTHED_SUCC_IRO;这些人物已经许配给对方，他们不能与其他人结婚除非婚约被毁弃. 他们同意缔结入赘婚姻，这意味着这对夫妇所生下的所有孩子都随母姓.;;;;;;;;;;x
+BETROTHED_SUCC_IRO;这些人物已经许配给对方，他们不能与其他人结婚除非婚约被毁弃。他们同意缔结入赘婚姻，这意味着这对夫妇所生下的所有孩子都随母姓。;;;;;;;;;;x
 OFFER_SUCCESSION_MARRIGE_INTERACTION_3;§R这对夫妇所生的孩子将不属于您的家族 - 请考虑下通常的婚姻!§!;;;;;;;;;;x
 OFFER_MARRIGE_INTERACTION_3;§R这对夫妇所生的孩子将不属于您的家族 - 请考虑下入赘婚姻!§!;;;;;;;;;;x
 ARRANGE_SUCC_BETROTHAL_INTERACTION_TITLE;安排入赘订婚;;;;;;;;;;x
@@ -156,7 +156,7 @@ nick_haardraade;无情者;;;;;;;;;;x
 DE_JURE_LIEGE_CHANGED_SETUP;有土头衔改变了法理领主;;;;;;;;;;x
 DE_JURE_LIEGE_CHANGED_LOG;经过§Y$NEW_LIEGE$§! §Y$YEARS$§!年的统治之后, §Y$TITLE$§!不再是§Y$OLD_LIEGE$§!法理领土的一部分.;;;;;;;;;;x
 DE_JURE_ASS_DESC;法理并入§Y$TITLE$§!的进度(§Y$YEARS$§!/$NEEDED_YEARS$年);;;;;;;;;;x
-SEND_ASSASSIN_INTERACTION_DESC;尝试暗杀§Y[Recipient.GetBestName]§!, 花费§Y$GOLD$§!の颐怯小靁$CHANCE$%§!的机会成功, 有§Y$DISC$%§!的机会被发现. §R如果被发现, 我的荣誉将被玷污.§!;;;;;;;;;;x
+SEND_ASSASSIN_INTERACTION_DESC;尝试暗杀§Y[Recipient.GetBestName]§!，花费§Y$GOLD$§!¤。我们有§Y$CHANCE$%§!的机会成功，有§Y$DISC$%§!的机会被发现。§R如果被发现，将会是我名誉的污点。§!;;;;;;;;;;x
 DS_HOSTILE_2;因为和§Y$LIEGE$§!叛变的封臣§Y$VASSAL$§!之间的战争而与之§Y敌对§!.;;;;;;;;;;x
 DS_HOSTILE_3;因为§Y$ATTACKER$§!和他们叛变的封臣§Y$VASSAL$§!之间的战争而与之§Y敌对§!.;;;;;;;;;;x
 DS_HOSTILE_4;因为§Y$OTHER$§!和另外一个叛变的封臣§Y$VASSAL$§!之间的战争而与之§Y敌对§!.;;;;;;;;;;x
@@ -180,7 +180,7 @@ CB_NAME_DEJURECLAIM;对[Title.GetBaseName]的法理宣称;;;;;;;;;;x
 WAR_NAME_DEJURECLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$法理战争，对$OTHER_TITLE$;;;;;;;;;;x
 TITLE_CREATION_REQ_DUCHIES;你需要持有至少§Y$DUCHIES$§!个公爵头衔.;;;;;;;;;;x
 TITLE_TITULAR_NO_CAPITAL;该头衔无法正常创建.;;;;;;;;;;x
-TITLE_TITULAR_CREATION_DESC;创建此头衔将会给您带来§G$PRESTIGE$§!威望, 花费§R$GOLD$§!ひ约啊霷$PIETY$§! $PIETYNAME$.;;;;;;;;;;x
+TITLE_TITULAR_CREATION_DESC;创建此头衔将会给您带来§G$PRESTIGE$§!威望，花费§R$GOLD$§!¤和§R$PIETY$§! $PIETYNAME$。;;;;;;;;;;x
 TITLE_TITULAR_REQ_HELD_CAPITAL;您必须拥有§Y$TITLE$§!头衔.;;;;;;;;;;x
 EVTDESC65115;我发现地面上的泥巴非常美味.于是大快朵颐.正吃得开心, 一个年轻的女孩子向我走来. 她问我, '你是个白痴还是咋地?';;;;;;;;;;x
 EVTOPTA65115;我很聪明，姑娘很笨.;;;;;;;;;;x
@@ -498,7 +498,7 @@ EVTOPTA100026;我会帮助你，但是你要付给我一大笔报酬;;;;;;;;;;x
 EVTTOOLTIP100027;[Root.GetTitledFirstName]同意帮助[This.GetTitledFirstName]，但是索要高额的报酬...;;;;;;;;;;x
 EVTOPTB100026;我对此感到十分荣幸！;;;;;;;;;;x
 EVTTOOLTIP100028;在[Root.GetTitledFirstName]的注视下，[This.GetTitledFirstName]学会了如何与女人交谈;;;;;;;;;;x
-EVTDESC38303;这么长时间我都没有同另一个人嘿咻.但是现在我变聪明了.我失去了贞洁的品质.;;;;;;;;;;x
+EVTDESC38303;我很久都没有渴望同另一个人嘿咻，但是现在我变聪明了。我失去了§Y忠贞§!的特质。;;;;;;;;;;x
 EVTOPTC100026;我会让其他人同我争夺女人的心！;;;;;;;;;;x
 EVTTOOLTIP100029;[Root.GetTitledFirstName]与[This.GetTitledFirstName]之间的竞争关系自动显露了出来;;;;;;;;;;x
 EVTDESC100027;在我拜托[From.GetHerHim]帮助我克服害羞，并且教会我吸引女人或者至少同女人谈话的方法的时候，[From.GetFirstName]若有所思地听着.我用恳求的眼神看着[From.GetHerHim]，在最初的犹豫之后[From.GetFirstName]同意帮助我，条件是一小笔报酬.;;;;;;;;;;x
@@ -1095,7 +1095,7 @@ EVTOPTB100441;在此时此刻，我们不认为这有什么重要的;;;;;;;;;;x
 EVTTOOLTIP100445;收到一封感谢[This.GetHerHim]警告的婉拒信;;;;;;;;;;x
 EVTDESC100442;[Root.Religion.GetRandomGodNameCap]，请原谅我的罪孽吧！我仇敌的异端行径已经蛊惑了我，我发现自己已经成为了[Root.Religion.GetName]信仰者。;;;;;;;;;;x
 EVTOPTA100442;这可能并没有那么糟糕……;;;;;;;;;;x
-EVTDESC100443;根据[FromFrom.GetTitledFirstName]的命令，我们——[From.GetTitledFirstName]——赞成你应该被拒绝授予圣餐并被绝罚！愿上帝怜悯你的灵魂。\n\n[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC100443;根据[FromFrom.GetTitledFirstName]的命令，我们——[From.GetTitledFirstName]——一致赞成你应该被拒绝授予圣餐并被绝罚！愿上帝怜悯你的灵魂。\n\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA100443;你说什么？！;;;;;;;;;;x
 EVTDESC100444;[Root.GetTitledFirstName]，我们很感谢你关于在我们之中出了那个异端者[From.GetTitledFirstName]的警告。\n\n[FromFrom.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA100444;我只是做了任何一个[Root.Religion.GetName]信徒都会做的事而已;;;;;;;;;;x
@@ -1222,7 +1222,7 @@ EVTOTPA100527;因为毒害宾客，[From.GetTitledFirstName]把我扔进大牢�
 EVTOTPB100527;因为毒害宾客，[From.GetTitledFirstName]把我驱逐出境;;;;;;;;;;x
 EVTDESC72038;我听说[From.GetTitledFirstName]挑战我的其中一位宾客进行决斗，但在我有机会出面干涉时，那两个决斗者早已走到外面……;;;;;;;;;;x
 EVTOPTA72038;我要试着在为时已晚之前赶上他们……;;;;;;;;;;x
-opinion_revoked_lord_spiritual_title;撤换廷牧;;;;;;;;;;x
+opinion_revoked_lord_spiritual_title;撤换宫廷牧师;;;;;;;;;;x
 action_inquisition_desc;将你的 [GetLordSpiritualName] 派到那群迷失的羔羊所在的省份, 转化异端和异教徒.;;;;;;;;;;x
 action_advance_cul_tech_desc;将你的 [GetLordSpiritualName] 派到一个省份工作以发展文化科技.;;;;;;;;;;x
 action_improve_rel_relations_desc;让你的[GetLordSpiritualName]带领一个修士代表团去与当地的神职人员（尤其对宗教领袖有用）进行宗教辩论。;;;;;;;;;;x

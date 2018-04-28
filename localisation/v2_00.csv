@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 AIREASON_CAN_PAY_OWN_RANSOM;§Y[GetTitledFirstName]§! 可以负担 [GetHerHis] 自己的赎金;;;;;;;;;;x
 AIREASON_MARRIAGE_DOES_NOT_MATCH_BETROTHAL;婚姻类型与订婚不符;;;;;;;;;;x
 appointment;选任法;;;;;;;;;;x
@@ -47,7 +47,7 @@ REL_SISTER_WIFE;姊妹妻;;;;;;;;;;x
 REL_MOTHER_WIFE;亲母妻;;;;;;;;;;x
 REL_DAUGHTER_WIFE;父嫁;;;;;;;;;;x
 REL_BROTHER_HUSBAND;姐妹控;;;;;;;;;;x
-REL_SON_HUSBAND;娶母丧失;;;;;;;;;;x
+REL_SON_HUSBAND;儿子兼丈夫;;;;;;;;;;x
 REL_FATHER_HUSBAND;鬼父;;;;;;;;;;x
 jewish;犹太教;;;;;;;;;;x
 samaritan;撒玛利亚派;;;;;;;;;;x
@@ -118,7 +118,7 @@ EVTDESC39672;难以置信！圣城麦加居然被异教徒攻陷！天房如今�
 EVTDESC39673;伊斯兰世界的心脏地带正受到来自异教徒的强烈威胁。作为回应，伟大的陛下[Root.GetTitledName]宣布全新的吉哈德将要开始。伊斯兰世界的核心地区必须被夺回，不惜一切代价。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
 EVTDESC39674;伊斯兰世界正受到来自阿非利加的异教徒的强烈威胁。作为回应，伟大的陛下[Root.GetTitledName]宣布全新的吉哈德将要开始。西方的乌玛必须被夺回，不惜一切代价。所有正义的穆斯林男人都应该准备加入军队，应对即将到来的战争。伊斯兰的扩张将再次开始。;;;;;;;;;;x
 EVTNAME39680;上古之神的愤怒;;;;;;;;;;x
-EVTDESC39680;在亚伯拉罕一神教徒们互相发动十字军和吉哈德的新时代, 伟大的[Root.GetTitledName]向[Root.Religion.GetName]的所有[Root.Religion.GetPriestTitle]通告了[Root.GetPossPronoun]计划, 一个宏大的[Root.Religion.GetName]异教回应. 实际上, 所有原始宗教的领袖都可以发起大圣战. 这或许是异教徒史无前例的扩张的开始。;;;;;;;;;;x
+EVTDESC39680;在亚伯拉罕一神教徒们互相发动十字军和吉哈德的新时代, 伟大的[Root.GetTitledName]向[Root.Religion.GetName]的所有[Root.Religion.GetPriestTitle]通告了[Root.GetPossPronoun]计划, 一个宏大的[Root.Religion.GetName]原始宗教回应. 实际上, 所有原始宗教的领袖都可以发起大圣战. 这或许是异教徒史无前例的扩张的开始。;;;;;;;;;;x
 EVTOPTA39680;伟大的[Root.Religion.GetRandomGodName]与我们同在！;;;;;;;;;;x
 EVTOPTB39680;上古之神，威武雄壮！;;;;;;;;;;x
 EVTOPTC39680;看好你们的儿女！;;;;;;;;;;x
@@ -319,10 +319,10 @@ EVTOPTA_SOA_4120;这得花上十年！;;;;;;;;;;x
 EVTDESC_SOA_4122;如我派使节吩咐[From.Holder.TopLiege.GetTitledName]应该做的那样，[From.GetName]的异端已经被消灭了。;;;;;;;;;;x
 EVTOPTA_SOA_4122;送去 100¤ 以示感谢;;;;;;;;;;x
 EVTOPTB_SOA_4122;向全世界称颂[From.Holder.TopLiege.GetTitledFirstName]的虔诚;;;;;;;;;;x
-EVTOPTC_SOA_4122;恢复[From.Holder.TopLiege.GetTitledFirstName]的教籍;;;;;;;;;;x
+EVTOPTC_SOA_4122;撤销[From.Holder.TopLiege.GetTitledFirstName]的绝罚;;;;;;;;;;x
 EVTTOOLTIP_SOA_4123;[This.GetTitledFirstName]收到了我的礼物;;;;;;;;;;x
 EVTTOOLTIP_SOA_4124;[This.GetTitledFirstName]获得了200虔诚;;;;;;;;;;x
-EVTTOOLTIP_SOA_4125;[This.GetTitledFirstName]恢复了教籍;;;;;;;;;;x
+EVTTOOLTIP_SOA_4125;[This.GetTitledFirstName]撤销了绝罚;;;;;;;;;;x
 EVTDESC_SOA_4123;圣座[From.PrimaryTitle.GetRulerTitle]送给我 100¤ 为表扬我清除[FromFrom.GetName]的异端做出的工作;;;;;;;;;;x
 EVTOPTA_SOA_4123;赞美[Root.Religion.GetRandomGodName];;;;;;;;;;x
 EVTDESC_SOA_4124;[From.GetPossPronounCap][From.PrimaryTitle.GetRulerTitle]公开赞扬了我对清除[FromFrom.GetName]的异端做出的工作，.;;;;;;;;;;x
@@ -346,7 +346,7 @@ failed_inquisition;失败的宗教裁判;;;;;;;;;;x
 successful_inquisition;成功的宗教裁判;;;;;;;;;;x
 failed_heretic_dialogue;神学辩论失败;;;;;;;;;;x
 successful_heretic_dialogue;神学辩论胜利;;;;;;;;;;x
-opinion_refused_request_holy_order;不允许加入骑士团;;;;;;;;;;x
+opinion_refused_request_holy_order;不允许加入圣战士;;;;;;;;;;x
 BANISH_ALL_OF_RELIGION_EFFECT;将所有的§Y$RELIGION$§!角色驱逐出境\n;;;;;;;;;;x
 DOES_NOT_HAVE_HERESIES;该宗教没有异端;;;;;;;;;;x
 HAS_HERESIES;该宗教有异端;;;;;;;;;;x
@@ -384,7 +384,7 @@ expel_jews;驱逐犹太人;;;;;;;;;;x
 expel_jews_desc;所有犹太人将被驱逐出国。你欠犹太债主的债务将会一笔勾销，但未来数年内犹太人都不会再来到你的国土上。;;;;;;;;;;x
 jews_are_expelled;所有的犹太人都被驱逐出国土。;;;;;;;;;;x
 jews_are_welcome;犹太人被重新欢迎来到国土。;;;;;;;;;;x
-expelled_jewish;驱逐了犹太人。;;;;;;;;;;x
+expelled_jewish;驱逐了犹太人;;;;;;;;;;x
 EVTDESC_SoA_105;你决定将你国土上的所有犹太人驱逐出境。在你的卫兵查抄了犹太人社区后，他们不得不再次离开去寻找一个对他们更为友善的地方。你允许他们保留部分财物，但从他们手里没收了大量的金子。;;;;;;;;;;x
 EVTOPTA_SoA_105;它们都该进我的金库;;;;;;;;;;x
 EVTDESC_SoA_106;犹太人被驱逐出你的国土已经有一阵子了。但是看起来饥荒、疫病这些被看做是犹太人带来的坏事却没有减少。如今许多犹太人已经原谅了你对他们的冒犯，你也决定张开双臂迎接他们回到你的国土。;;;;;;;;;;x
@@ -400,7 +400,7 @@ EVTDESC_SoA_201;一名富有学识的犹太人出现在你的宫廷。他因出�
 EVTDESC_SoA_202;一个神秘的犹太人希望在你宫廷中效力。他精通于宫廷权谋，过去还曾做过佣兵和间谍。如果你能信任他，他将会是你宫廷中不可获取的人才……;;;;;;;;;;x
 israelite;以色列文化;;;;;;;;;;x
 ashkenazi;日耳曼犹太人;;;;;;;;;;x
-sephardi;伊比利亚犹太人;;;;;;;;;;x
+sephardi;塞法迪犹太人;;;;;;;;;;x
 passover_invitations_sent;你邀请犹太教封臣们参加传统的逾越节晚宴。;;;;;;;;;;x
 passover_accepted;你接受了邀请。;;;;;;;;;;x
 passover_declined;你拒绝了邀请。;;;;;;;;;;x
@@ -814,8 +814,8 @@ borrow_money_jews_desc;我能从犹太商人和领地内其它借贷者那里借
 borrowed_from_jews;欠犹太借贷者 350¤;;;;;;;;;;x
 repay_money_jews;偿还 350¤ 给犹太人;;;;;;;;;;x
 repay_money_jews_desc;我要偿还向犹太商人借贷的金子。;;;;;;;;;;x
-asked_for_excommunication;革除教籍;;;;;;;;;;x
-asked_to_lift_excommunication;请求恢复教籍;;;;;;;;;;x
+asked_for_excommunication;请求绝罚;;;;;;;;;;x
+asked_to_lift_excommunication;请求免除绝罚;;;;;;;;;;x
 asked_for_invasion;请求入侵;;;;;;;;;;x
 asked_for_divorce;请求离婚;;;;;;;;;;x
 INTERACTION_REQUIRES_RELIGIOUS_INVESTITURE;要求教宗授职法;;;;;;;;;;x
@@ -851,7 +851,7 @@ EVTTOOLTIP_SoA_600; 你皈依了穆尔太齐赖教派。;;;;;;;;;;x
 EVTDESC_SoA_600;穆尔太齐赖教派认为古兰经并非一成不变而是可以被创造的，同时允许对安拉的诫令进行理性思考甚至质疑。受此教派影响，境内有教养的学者们在科学追求方面更有创造力了。;;;;;;;;;;x
 EVTOPTA_SoA_600;此为正道。;;;;;;;;;;x
 EVTTOOLTIP_SoA_601; 你皈依了艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_601; 木塔兹拉教派认为古兰经是精确而永恒的，安拉的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
+EVTDESC_SoA_601;艾什尔里教派认为古兰经是精确而永恒的，安拉的内涵远远超越了人类理解能力的极限，明辨是非的真理只能通过启示传习。境内的神职人员完全皈依了该教派，导致宗教热情高涨。;;;;;;;;;;x
 embrace_mutazila; 皈依穆尔太齐赖教派;;;;;;;;;;x
 embrace_mutazila_desc;你皈依了穆尔太齐赖——逊尼派的一支，主张理智、理性和自由意志。这对你的科研有好处，但与之对立的艾什尔里派信徒会不高兴。;;;;;;;;;;x
 embrace_ashari; 皈依艾什尔里教派;;;;;;;;;;x
@@ -861,32 +861,32 @@ EVTDESC_SoA_603;[From.GetTitledFirstName]是穆尔太齐赖派的追随者，与
 EVTOPTA_SoA_603;是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_603;不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_604;你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_604;我注意到你追随异端穆尔太齐赖教派，他们的教义和观点亵渎了安拉和先知(愿主福安之)的教导。我迫切要求你改奉艾什尔里派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_604;我注意到你正追随异端穆尔太齐赖教派，他们的教义和观点亵渎了安拉和先知（愿主福安之）的教导。我迫切要求你改奉艾什尔里派的信条。\n\n此致，\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_SoA_604;是的，可能这样才最好…;;;;;;;;;;x
 EVTOPTB_SoA_604;绝不！;;;;;;;;;;x
 EVTTOOLTIP_SoA_605;你回信郑重表示皈依艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_605;一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃穆尔太齐赖派的教义而改奉艾什尔里派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_605;一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃穆尔太齐赖派的教义而改奉艾什尔里派的信条。\n\n此致，\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_SoA_605;明智之举。;;;;;;;;;;x
 EVTTOOLTIP_SoA_606;你回信表示拒绝改信艾什尔里教派。;;;;;;;;;;x
-EVTDESC_SoA_606;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知(愿主福安之)的事。我不打算改信异端——艾什尔里教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_606;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知（愿主福安之）的事。我不打算改信异端——艾什尔里教派。\n\n此致，\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_SoA_606;放肆…！;;;;;;;;;;x
 EVTDESC_SoA_611;[From.GetTitledFirstName]是艾什尔里教派的追随者。与你信奉的穆尔太齐赖教派势同水火。也许你应该同[From.GetHerHim]谈谈。;;;;;;;;;;x
 EVTOPTA_SoA_611; 是的，我将点化[From.GetHerHim]。;;;;;;;;;;x
 EVTOPTB_SoA_611; 不，与我无关。;;;;;;;;;;x
 EVTTOOLTIP_SoA_612; 你要求封臣改换教派。;;;;;;;;;;x
-EVTDESC_SoA_612; 我注意到你追随异端艾什尔里教派，他们的教义和观点亵渎了安拉和先知(愿主福安之)的教导。我迫切要求你改奉穆尔太齐赖派的信条。\n\n [From.GetTitledFirstName]，\n 亲笔;;;;;;;;;;x
+EVTDESC_SoA_612;我注意到你正追随异端艾什尔里教派，他们的教义和观点亵渎了安拉和先知（愿主福安之）的教导。我迫切要求你改奉穆尔太齐赖派的信条。\n\n此致，\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_SoA_612; 是的，可能这样最好…;;;;;;;;;;x
 EVTOPTB_SoA_612; 绝不！;;;;;;;;;;x
 EVTTOOLTIP_SoA_613; 你回信郑重表示皈依穆尔太齐赖教派。;;;;;;;;;;x
-EVTDESC_SoA_613; 一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃艾什尔里派的教义而改奉穆尔太齐赖派的信条。\n\n[From.GetTitledFirstName]，\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_613; 一如既往，大人，您的智慧远超于我。既然是您的正确指示，我将抛弃艾什尔里派的教义而改奉穆尔太齐赖派的信条。\n\n此致，\n[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_SoA_613;明智之举。;;;;;;;;;;x
 EVTTOOLTIP_SoA_614; 你回信表示拒绝改信穆尔太齐赖教派。;;;;;;;;;;x
-EVTDESC_SoA_614; 您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知(愿主福安之)的事。我不打算改信异端——穆尔太齐赖教派。\n\n[From.GetTitledFirstName],\n亲笔;;;;;;;;;;x
+EVTDESC_SoA_614;您只是我在俗世的名义领主，无权擅自干涉我的宗教信仰自由。这是我与安拉及先知（愿主福安之）的事。我不打算改信异端——穆尔太齐赖教派。\n\n此致，[From.GetTitledFirstName]\n;;;;;;;;;;x
 EVTOPTA_SoA_614;无礼之徒...!;;;;;;;;;;x
-EVTDESC_SoA_620;由于愤世嫉俗，你开始质疑艾什尔里教派的一些基本教义。你对敌对教派穆尔太齐赖的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
+EVTDESC_SoA_620;由于愤世嫉俗，你开始质疑艾什尔里教派的一些基本教义。你对敌对教派穆尔太齐赖的教义了解越多，越觉得它更有道理^;;;;;;;;;;x
 EVTOPTA_SoA_620;或许我已经误入歧途…;;;;;;;;;;x
 EVTOPTB_SoA_620;不行！我要清除掉脑中这些异端思想。;;;;;;;;;;x
-EVTDESC_SoA_621;由于对信仰的极端狂热，你开始质疑穆尔太齐赖教派的一些基本教义。你对敌对教派艾什尔里的教义了解越多，越觉得它更有道理…;;;;;;;;;;x
+EVTDESC_SoA_621;由于对信仰的极端狂热，你开始质疑穆尔太齐赖教派的一些基本教义。你对敌对教派艾什尔里的教义了解越多，越觉得它更有道理……;;;;;;;;;;x
 EVTOPTB_SoA_621;不行！我要清除掉脑中这些错误观念。;;;;;;;;;;x
 EVTDESC_TOG_1191;§Y[From.GetTitledName]§!在§Y[FromFrom.County.GetName]§!地区的§Y[FromFrom.GetName]§!围城战中被叛军杀害。;;;;;;;;;;x
 ACHIEVEMENT_GAINED_SETUP;研究完成！;;;;;;;;;;x
@@ -954,7 +954,7 @@ EVTOPTA_SoA_5240;这只是皮疹。我受主的庇佑！;;;;;;;;;;x
 EVTOPTB_SoA_5240;令人不安。我最好去看大夫。;;;;;;;;;;x
 EVTDESC_SoA_5241;某天深夜，你独自一人在城垛间漫步，你突然发现天空中出现了一道耀眼的白影，它离你忽远忽近。而空气中也出现了奇怪的声音，仿佛在对你低语…到底是什么情况？;;;;;;;;;;x
 EVTOPTA_SoA_5241;圣母玛丽亚现身了——她赐福于我！;;;;;;;;;;x
-EVTOPTB_SoA_5241;大惊小怪，不过是云影和风声造成的错觉。Strange how clouds and wind can play tricks on one's mind.;;;;;;;;;;x
+EVTOPTB_SoA_5241;大惊小怪，不过是云影和风声造成的错觉。;;;;;;;;;;x
 EVTDESC_SoA_5242;我的肚子渐渐大了，想必是怀孕了。但我和丈夫很久没有亲近了，我怎么向他解释？;;;;;;;;;;x
 EVTOPTA_SoA_5242;如同圣母玛丽亚，这是神宠！;;;;;;;;;;x
 EVTOPTB_SoA_5242;没那么神奇，但我的丈夫也许会这么认为。;;;;;;;;;;x
@@ -1101,7 +1101,7 @@ EVTTITLE_SOA_3078;好兆头;;;;;;;;;;x
 EVTDESC_SOA_3078; 风和日丽的日子，全家人在河边惬意地踏青，大家突然发现[From.GetFirstName]的保姆正站在一座旧塔的塔顶。她直勾勾地盯着我痴笑，只听她边高喊着“[FromFrom.GetFirstName]我爱你！”边从容的踏出塔的边沿，直直的坠向地面，身穿的黑衣极速摆动，就像恶魔展开了双翅。所有人都完全震惊了，不敢相信自己的眼睛，我却拍手笑颜赞许。她取悦了[Root.Religion.GetRandomEvilGodNameCap]!;;;;;;;;;;x
 EVTOPTA_SOA_3078;献祭的好！;;;;;;;;;;x
 EVTNAME_SoA_5307;审尸会;;;;;;;;;;x
-EVTDESC_SoA_5307;你听到一则发生在罗马的荒唐闹剧。前教宗，[From.GetTitledFirstName]，曾因生活方式和其他行为和罗马教廷发生过冲突。教宗过世后，教廷掌握了罗马的实权，他们决定对他的尸体进行审判！\n [From.GetTitledFirstName]的遗体被人从坟墓中掘出，押到宫廷以待审判。尸体被靠在王座上，一名助祭被选出给它做辩护人。\n毫无疑问，所有的控罪都被宣布成立，并当庭判决施以酷刑。教宗的法衣被剥下，右手（用以赐福的）三根手指被切掉，接着尸体被草葬在通常埋葬身份低贱的外乡人的公墓。尔后，他们似乎认为这样的定罪还远远不够，尸体再次被扒出来，绑上石头扔进了台伯河。;;;;;;;;;;x
+EVTDESC_SoA_5307;你听到一则发生在罗马的荒唐闹剧。前教宗，[From.GetTitledFirstName]，曾因生活方式和其他行为和罗马教廷发生过冲突。教宗过世后，教廷掌握了罗马的实权，他们决定对他的尸体进行审判！\n [From.GetTitledFirstName]的遗体被人从坟墓中掘出，押到宫廷以待审判。尸体被靠在王座上，一名助祭被选出给它做辩护人。\n毫无疑问，所有的控罪都被宣布成立，并当庭判决施以酷刑。教宗的法衣被剥下，右手（用以赐福的）三根手指被切掉，接着尸体被草葬在通常埋葬身份卑微的外乡人的公墓。尔后，他们似乎认为这样的定罪还远远不够，尸体再次被扒出来，绑上石头扔进了台伯河。;;;;;;;;;;x
 EVTOPTA_SoA_5307;我确信法官审慎行使了职责。;;;;;;;;;;x
 EVTDESC_SoA_5312;到处都谣传，[From.GetTitledFirstName]腐化的生活作风与普通牧师的身份都不相称，更别提他自己的尊贵地位。;;;;;;;;;;x
 EVTOPTA_SoA_5312;让我们祈祷他的灵魂不朽。;;;;;;;;;;x
@@ -1146,7 +1146,7 @@ EVTDESC_SoA_5353;我的 [Root.GetLordLady], 有些来自[From.GetName]行省的�
 EVTOPTA_SoA_5353;暂且接受她，看看有什么能耐。;;;;;;;;;;x
 jeanne_arrives_message;[FromFrom.GetFirstName]，[From.GetName]的圣女抵达了[Root.GetTitledName]的宫廷。;;;;;;;;;;x
 EVTNAME_SoA_5355;贵族不满[From.GetFirstName];;;;;;;;;;x
-EVTDESC_SoA_5355;我的[Root.GetTitle]，王国的领主老爷们满腹怨言，他们认为让一个出身低贱的农家女出任高位，此事有失国格和体面，何况有那么多出身高贵，武艺高超的贵胄子弟可以领军为您效力。有人甚至认为您是故意如此，好借机羞辱他们。\n\n同时，她被天主亲自派遣的这一说辞也有点问题——这听起来近乎异端。;;;;;;;;;;x
+EVTDESC_SoA_5355;我的[Root.GetTitle]，王国的领主老爷们满腹怨言，他们认为让一个出身卑微的农家女出任高位，此事有失国格和体面，何况有那么多出身高贵，武艺高超的贵胄子弟可以领军为您效力。有人甚至认为您是故意如此，好借机羞辱他们。\n\n同时，她被天主亲自派遣的这一说辞也有点问题——这听起来近乎异端。;;;;;;;;;;x
 EVTOPTA_SoA_5355;让他们抱怨去吧，我才是[Root.GetTitle]。;;;;;;;;;;x
 EVTOPTB_SoA_5355;我同意，可是这个女人深受平民爱戴。;;;;;;;;;;x
 EVTOPTC_SoA_5355;那么我们将把她交予异端审判;;;;;;;;;;x
@@ -1180,7 +1180,7 @@ EVTOPTA_SoA_5366;感谢你，[From.GetFirstName]，这个主意不错。;;;;;;;;
 EVTOPTB_SoA_5366;当我需要你的建议时，我自会请教你。;;;;;;;;;;x
 EVTOPTC_SoA_5366;我受够了这种傲慢，逮捕她！;;;;;;;;;;x
 EVTNAME_SoA_5368;[From.GetFirstName]与教会;;;;;;;;;;x
-EVTDESC_SoA_5368;一天早晨，你的[Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName]单独觐见你，他坦率的说道：“我的[Root.GetLordLady]，教会对这个名叫[From.GetFirstName]的女人的擢升非常不满。教会中有些人认为她的言行近乎异端，而剩下的人，老实说，他们觉得自己的地位受到威胁——被这个出身低贱、缺乏教养却声名显赫的农家女。我请您郑重考虑，为保护这个小姑娘——冒着可能遭受巨大损失的风险——是否值得。”;;;;;;;;;;x
+EVTDESC_SoA_5368;一天早晨，你的[Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName]单独觐见你，他坦率的说道：“我的[Root.GetLordLady]，教会对这个名叫[From.GetFirstName]的女人的擢升非常不满。教会中有些人认为她的言行近乎异端，而剩下的人，老实说，他们觉得自己的地位受到威胁——被这个出身卑微、缺乏教养却声名显赫的农家女。我请您郑重考虑，为保护这个小姑娘——冒着可能遭受巨大损失的风险——是否值得。”;;;;;;;;;;x
 EVTOPTA_SoA_5368;给我提醒这些牛鼻子到底谁是[Root.GetTitle]！;;;;;;;;;;x
 EVTOPTB_SoA_5368;我只不过在利用她，教会不用担心。;;;;;;;;;;x
 EVTOPTC_SoA_5368;那好吧，把她送上宗教裁判庭，看她是否是异端。;;;;;;;;;;x
@@ -1189,7 +1189,7 @@ EVTDESC_SoA_5370;最近很不寻常，无论你走到哪里，[From.GetFirstName
 EVTOPTA_SoA_5370;她是天下人的楷模。;;;;;;;;;;x
 EVTOPTB_SoA_5370;我讨厌狂信者，不过再忍忍她吧。;;;;;;;;;;x
 EVTNAME_SoA_5373;来自[From.GetName]的农家女;;;;;;;;;;x
-EVTDESC_SoA_5373;你的[Root.GetChancellorName] [Root.job_chancellor.GetFullName] 觐见，[Root.job_chancellor.GetHerHis]看上去上面带忧虑。[Root.job_chancellor.GetSheHe] 告诉你贵族们对你的宠儿[FromFrom.GetFirstName]身居高位的不满在与日俱增。大多数人都不认可这个来自[From.GetName]的低贱农家女，不管多么能力出众，她都不配受赐这么多只有贵族才配拥有的权利。贵族们认为这让那些乡巴佬以为自己也可以争取到这些权利，肯定会导致动乱。许多有名望的将军们也认为[FromFrom.GetFirstName]在军队的存在是对他们的羞辱。\n\n很多贵族甚至对她已忍无可忍，策划逮捕她并送往宗教裁判庭。;;;;;;;;;;x
+EVTDESC_SoA_5373;你的[Root.GetChancellorName] [Root.job_chancellor.GetFullName] 觐见，[Root.job_chancellor.GetHerHis]看上去上面带忧虑。[Root.job_chancellor.GetSheHe] 告诉你贵族们对你的宠儿[FromFrom.GetFirstName]身居高位的不满在与日俱增。大多数人都不认可这个来自[From.GetName]的卑微农家女，不管多么能力出众，她都不配受赐这么多只有贵族才配拥有的权利。贵族们认为这让那些乡巴佬以为自己也可以争取到这些权利，肯定会导致动乱。许多有名望的将军们也认为[FromFrom.GetFirstName]在军队的存在是对他们的羞辱。\n\n很多贵族甚至对她已忍无可忍，策划逮捕她并送往宗教裁判庭。;;;;;;;;;;x
 EVTOPTA_SoA_5373;呸！他们除了嫉妒，就剩无能！;;;;;;;;;;x
 EVTOPTB_SoA_5373;我必须提醒她谨言慎行。;;;;;;;;;;x
 EVTOPTC_SoA_5373;不够高贵是吧？把她召来，我要册封她为骑士！;;;;;;;;;;x
@@ -1220,7 +1220,7 @@ EVTTOOLTIP306;[This.GetFirstName]被视作你的[This.GetSonDaughter]，日后�
 EVTNAME_SoA_550;首席祭司长;;;;;;;;;;x
 EVTDESC_SoA_550;自从一千年前罗马人凶暴地焚毁第二神殿后，首席祭司长这一犹太教高阶祭司职务便不复存在。多年以后，这个高阶神职又得以恢复并行使其职。\n\n 因循古道，首席祭司长按惯例必须由摩西之兄——亚伦——的子孙担任。由于合适的候选者不足，这一规定被废处，新任的首席祭司长仍深受犹太族群的尊敬，现已将居所定在第三神殿。;;;;;;;;;;x
 EVTOPTA_SoA_550;首席祭司长万岁！;;;;;;;;;;x
-COMBATVIEW_PHASE_DESC_NARROW;侧翼指挥官设法找到有利地形、使得战斗阵线得以§Ynarrow§!，从而使本军阵部队免受敌军的全力冲锋。;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_NARROW;这位侧翼指挥官设法找到有利地形、使得战斗阵线得以§Ynarrow§!，从而使本军阵部队免受敌军的全力冲锋。;;;;;;;;;;x
 NARROW_FLANK_BOTTLENECK;由于我军侧翼薄弱，除非有$MAX_TROOPS$，否则将腹面受敌。;;;;;;;;;;x
 EVTOPTE4140;你将永不被忘记;;;;;;;;;;x
 stop_backing_ambition;被搁置的密谋;;;;;;;;;;x
@@ -1249,8 +1249,8 @@ FE_LOCAL;本地;;;;;;;;;;x
 FE_REMOTE;云端;;;;;;;;;;x
 SPLIT_QUICK_MENU;分离特别部队;;;;;;;;;;x
 SPLIT_MERCENARIES_OPTION;分离雇佣兵;;;;;;;;;;x
-SPLIT_HOLY_ORDERS_OPTION;分离骑士团;;;;;;;;;;x
-SPLIT_RETINUES_OPTION;分离随员;;;;;;;;;;x
+SPLIT_HOLY_ORDERS_OPTION;分离圣战士;;;;;;;;;;x
+SPLIT_RETINUES_OPTION;分离近卫军;;;;;;;;;;x
 SPLIT_EVENT_SPAWNED_OPTION;分离事件产生部队;;;;;;;;;;x
 VASSAL_OPINION_CHANGE;所有封臣对§Y$ACTIVE$§!的好感都改变了$MUCH$;;;;;;;;;;x
 FE_IRONMAN;铁人;;;;;;;;;;x
@@ -1285,7 +1285,7 @@ EVTDESC_SoA_5400;我的[Root.GetLordLady]，异教的[From.GetName]已向我军�
 EVTOPTA_SoA_5400;杀光他们！神能认出各自的子民。;;;;;;;;;;x
 EVTOPTB_SoA_5400;我们要保持克制，下令约束士兵。;;;;;;;;;;x
 EVTNAME_SoA_5401;牧羊人十字军;;;;;;;;;;x
-EVTDESC_SoA_5401;十字军东征引起的经济压力和宗教狂热导致了下层社会的动荡。一个自称匈牙利之主的老修士抨击当下的宗教体系，号召平民发动“牧羊人十字军”。一时间一呼百应，应者云集，俨然组成一支牧羊人“大军”，在乡间四处攻击教士，残杀犹太人。不用说，教会大为震怒。据称这帮乌合之众正赶往首都以寻求[Root.GetTitle]的支持——谁知道这场闹剧会怎么收场？;;;;;;;;;;x
+EVTDESC_SoA_5401;十字军远征引起的经济压力和宗教狂热导致了下层社会的动荡。一个自称匈牙利之主的老修士抨击当下的宗教体系，号召平民发动“牧羊人十字军”。一时间一呼百应，应者云集，俨然组成一支牧羊人“大军”，在乡间四处攻击教士，残杀犹太人。不用说，教会大为震怒。据称这帮乌合之众正赶往首都以寻求[Root.GetTitle]的支持——谁知道这场闹剧会怎么收场？;;;;;;;;;;x
 EVTOPTA_SoA_5401;用黄金满足他们。;;;;;;;;;;x
 EVTOPTB_SoA_5401;招募他们为我所用。;;;;;;;;;;x
 EVTOPTC_SoA_5401;吊死这帮恶棍。;;;;;;;;;;x

@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ERA_CHAR_NAME_6392;查理曼;;;;;;;;;;x
 ERA_CHAR_NAME_144999;卡洛曼一世;;;;;;;;;;x
 ERA_CHAR_NAME_190347;伦巴第王狄西德里乌斯;;;;;;;;;;x
@@ -125,9 +125,9 @@ thieves_guild_desc;大量的盗贼充斥于这个郡。;;;;;;;;;;x
 council_altaic;忽里勒台;;;;;;;;;;x
 council_greek;教会法庭;;;;;;;;;;x
 council_jewish_group;评议会;;;;;;;;;;x
-council_muslim;议会;;;;;;;;;;x
+council_muslim;玛哲里;;;;;;;;;;x
 council_shiite;内阁;;;;;;;;;;x
-obj_become_king_desc;[This.GetTitledFirstName]想成为[This.Capital.Kingdom.GetName]的[Root.GetKingQueen]。允许[This.GetObjectPronoun]对异教徒使用“征服”的宣战理由。如果正在进行伪造宣称任务，有几率获得[This.Capital.Kingdom.GetName]的宣称。如果[This.Capital.Kingdom.GetTier]尚不存在，将降低创建花费。;;;;;;;;;;x
+obj_become_king_desc;[This.GetTitledFirstName] 想成为[This.Capital.Kingdom.GetName]的[Root.GetKingQueen]。若为原始宗教，这允许[This.GetObjectPronoun]在此王国内部无限使用征服的宣战理由。如果伪造宣称的枢密大臣任务存在, 以此野心有几率获得 [This.Capital.Kingdom.GetName] 的宣称。如果[This.Capital.Kingdom.GetTier] 尚不存在, 这也将降低创建花费。;;;;;;;;;;x
 action_fabricate_claims_desc;让你的[GetChancellorName]去伪造当地领主所拥有的头衔的宣称。高技能的[GetChancellorName]有可能伪造公爵领的宣称。只有拥有成为国王的野心才有可能伪造王国的宣称。;;;;;;;;;;x
 tooltip_obj_gain_any_title_success;获得领主的头衔;;;;;;;;;;x
 obj_gain_any_title_title;获得头衔;;;;;;;;;;x
@@ -155,7 +155,7 @@ EVTOPTA_ZE_9101;我必须让[From.GetHerHim]安心。;;;;;;;;;;x
 EVTOPTB_ZE_9101;一个奇怪的指控。 [From.GetSheHeCap]不过是。。。;;;;;;;;;;x
 ze_9101_cordial;诚挚的回复。;;;;;;;;;;x
 ze_9101_angry;带有责备的回复。;;;;;;;;;;x
-EVTDESC_ZE_9110;亲爱的[Root.GetTitledFirstName],\n\n我已经听说了你所遇到的麻烦。然而，我可以保证我没有支持这些掠夺你海岸的海盗。\n\n,向你问候\n[From.GetTitledName];;;;;;;;;;x
+EVTDESC_ZE_9110;亲爱的[Root.GetTitledFirstName]，\n\n我已经听说了你所遇到的麻烦。然而，我可以保证我没有支持这些掠夺你海岸的海盗。\n\n此致，\n[From.GetTitledName];;;;;;;;;;x
 EVTOPTA_ZE_9110;嗯，这真让我放心。;;;;;;;;;;x
 EVTOPTB_ZE_9110;[From.GetSheHeCap]在说谎！;;;;;;;;;;x
 EVTDESC_ZE_9111;[Root.GetTitledFirstName],\n你是这个[GetFromRootInsult]和野种，我会让你知道我们直接的协议将不在生效。这一切都是你奸诈的行为所导致的。\n\n希望你今后生活在苦难之中，\n[From.GetTitledName];;;;;;;;;;x
@@ -196,7 +196,7 @@ REVOKE_VOTER_TITLE_INTERACTION_DESC;把一个角色从你的内阁中开除;;;;;
 REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;你可以通过移除一个角色的内阁头衔来把他们从内阁中开出。;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_0;选择收回§Y[Recipient.GetTitledFirstName]§!的一个头衔。;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_1;收回§Y[Recipient.GetTitledFirstName]§!的§Y[ThirdPartyTitle.GetFullName]§!头衔。;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_2;这会改变[Recipient.GetPossPronoun]对你的§R$OPINION|+$§!看法。;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_2;这会使[Recipient.GetPossPronoun]对你的好感改变§R$OPINION|+$§!。;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;被开除的内阁成员;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!收回了§Y[Recipient.GetBestName]§!的 §Y[ThirdPartyTitle.GetFullName]§!头衔，将[Recipient.GetHerHim]从宫廷中辞退。;;;;;;;;;;x
 alert_council_discontent_instant;§Y内阁不满§!;;;;;;;;;;x
@@ -460,7 +460,7 @@ EVTDESC_ZE_6007;[target_liege.GetTitledName]告诉我[councillor_target.GetTitle
 EVTOPTA_ZE_6007;那条毒蛇！;;;;;;;;;;x
 obj_land_for_son_title;为没有封地的儿子获取土地;;;;;;;;;;x
 obj_land_for_son_desc;你希望获得一些土地给还没有继承什么的一个儿子。;;;;;;;;;;x
-EVTDESC_ZE_6012;你的封臣，[From.GetTitledName]，现在关注[From.GetHerHis]的没有继承权的儿子们。[From.GetSheHeCap]要求你在寻找新的封臣的时候注意他们。;;;;;;;;;;x
+EVTDESC_ZE_6012;你的封臣，[FromFrom.GetTitledName]，现在对[From.GetHerHis]的没有继承权的儿子们感到忧虑。[From.GetSheHeCap]要求你在寻找新的封臣的时候应注意他们。;;;;;;;;;;x
 EVTOPTA_ZE_6012;我能够使用更多的好人。;;;;;;;;;;x
 EVTOPTB_ZE_6012;谁要我的土地我也不能放弃。;;;;;;;;;;x
 EVTOPTC_ZE_6012;[From.GetTitledFirstName]将记住这个慷慨。;;;;;;;;;;x
@@ -590,7 +590,7 @@ COUNCIL_CHANGE_POSITION;通过点击界面顶部的位置可以改变内阁的�
 COUNCIL_CHANGE_POSITION_CLICK;§G通过点击来改变你的内阁席位到$POSITION|Y$§!;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_TITLE;是否改变内阁席位？;;;;;;;;;;x
 COUNCIL_CHANGE_POSITION_CONFIRM;在你改变职位后，你将在$NUM|Y$个月内无法再次改变。\n你确定改变内阁席位为$POSITION|Y$？;;;;;;;;;;x
-ALL_DE_JURE_LIEGES_TITLES;所有合法的皇家头衔;;;;;;;;;;x
+ALL_DE_JURE_LIEGES_TITLES;所有法理领主头衔;;;;;;;;;;x
 INTERACTION_REQUIRES_SAME_COUNCIL;是在同一个内阁;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_FAVORS;§Y[Recipient.GetTitledFirstName]§!不欠§Y[Actor.GetTitledFirstName]§!的人情。;;;;;;;;;;x
 INTERACTION_REQUIRES_FAVORS;[Recipient.GetBestName]欠[Actor.GetBestName]一个人情。;;;;;;;;;;x
@@ -669,3 +669,4 @@ EVTDESC522;我会在内阁支持你。;;;;;;;;;;x
 EVTOPTA522;太好了;;;;;;;;;;x
 EVTDESC523;对不起，我不能在内阁中支持你。;;;;;;;;;;x
 EVTOPTA523;不好;;;;;;;;;;x
+EVTDESC_ZE_3003;[target_treasurer.GetTitledFirstName]提醒你[target_treasurer.GetSheHe]近来所做的所有贡献。[target_treasurer.GetSheHeCap]认为考虑到[target_treasurer.GetHerHis]私人财富为此付出的大笔补贴，只要求[requested_province.GetFullName]作为奖励是很正常的。;;;;;;;;;;x

@@ -1,20 +1,20 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 MODIFIER_COMBAT_RATING;个人实战技能;;;;;;;;;;x
 GOD_THE_CREATOR;造物主;;;;;;;;;;x
 GOD_BRAHMA;梵天;;;;;;;;;;x
 GOD_SATURN;萨尔图努斯;;;;;;;;;;x
 scholar_desc;这名角色是天生的学者，以期超乎凡人的智慧穷毕生之精力去钻研书本当中的知识。;;;;;;;;;;x
 EVTOPTA_WOL_2100_3;矮个儿，蹄铁……不！[target_spy_on.GetFirstName] 竟然在肏羊！;;;;;;;;;;x
-EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap] 在十一岁的小小年纪就杀了一个玩伴！;;;;;;;;;;x
-EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap] 给自己幻想了一个叫巴伯的朋友！;;;;;;;;;;x
-EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap] 一有机会就会去偷偷地跑到 [target_spy_on.Capital.Capital.GetName]的妓院里去做鸡！;;;;;;;;;;x
-EVTOPTB_WOL_2300;不，我相信 [intrigue_spymaster.GetObjectPronoun];;;;;;;;;;x
+EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap]在十一岁的小小年纪就杀了一个玩伴！;;;;;;;;;;x
+EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap]给自己幻想了一个叫巴伯的朋友！;;;;;;;;;;x
+EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap]一有机会就会去偷偷地跑到[target_spy_on.Capital.Capital.GetName]的妓院里去做鸡！;;;;;;;;;;x
+EVTOPTB_WOL_2300;不，我相信[intrigue_spymaster.GetObjectPronoun];;;;;;;;;;x
 EVTOPTB_WOL_2071;呵呵！既然这样我的间谍就可以完成任务回来了。;;;;;;;;;;x
 EVTOPTF_WOL_2080;我知道了，不过我觉得可以让间谍去继续打探些其他的消息。;;;;;;;;;;x
-EVTOPTC_WOL_2100;不……我觉得我们应该去打探其他人的一些消息.;;;;;;;;;;x
+EVTOPTC_WOL_2100;不……我觉得我们应该去打探其他人的一些消息。;;;;;;;;;;x
 EVTDESC_WOL_2065;很不幸，我没能在[FromFromFrom.GetTitledFirstName]身上搞到什么有用的消息。也许我该关注下其他地方?;;;;;;;;;;x
 EVTOPTA_WOL_2065;是的，这没有意义。;;;;;;;;;;x
-EVTOPTB_WOL_2065;不，我肯定 [FromFromFrom.GetSubjectPronoun]应对什么事情负责……;;;;;;;;;;x
+EVTOPTB_WOL_2065;不，我肯定[FromFromFrom.GetSubjectPronoun]应对什么事情负责……;;;;;;;;;;x
 EVTDESC38313;生活的压力已然渐渐褪去，我现在不再§Y紧张不安§!！;;;;;;;;;;x
 EVTDESC38314;今天我以微笑来迎接新一天的到来，我不再沮丧消沉！;;;;;;;;;;x
 PICK_FOCUS_DESC;在§Y$YEARS$§!年时间内你不能再次变更生活重心！;;;;;;;;;;x

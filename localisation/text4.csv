@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 EVTOPTC72056;一些小钱将让仆人们闭嘴。;;;;;;;;;;x
 VASSAL_RAISE_OPINION_DESC;在非十字军进攻性战争中每从封臣处征召部队§Y$DAYS$§!天，封臣对你的好感就会§R-1§!;;;;;;;;;;x
 WAR_START_YEAR;开战年份：$YEAR$;;;;;;;;;;x
@@ -17,7 +17,7 @@ e_il-khanate_adj;伊尔汗国;;;;;;;;;;x
 AIREASON_WILL_NOT_PLOT_AGAINST_OFFSPRING;不愿参与对子孙的阴谋。;;;;;;;;;;x
 AIREASON_CLAIM_ON_MY_TITLES;§Y[GetBestName]§!对我的头衔有宣称权。;;;;;;;;;;x
 AIREASON_HOSTAGE_SITUATION;孩子可能会成为外国的人质;;;;;;;;;;x
-ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0;向§Y[Actor.RelHead.GetTitledFirstName]§!请求开除§Y[ThirdPartyCharacter.GetBestName]§!的教籍。这将花费§R$COST$§!虔诚。;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0;向§Y[Actor.RelHead.GetTitledFirstName]§!请求绝罚§Y[ThirdPartyCharacter.GetBestName]§!。这将花费§R$COST$§!虔诚。;;;;;;;;;;x
 ASK_FOR_DIVORCE_INTERACTION_0;向§Y[Actor.RelHead.GetTitledFirstName]§!请求准许你与§Y[Actor.Spouse.GetFirstName]§!离婚。这将花费§R$COST$§![Player.Religion.GetPietyName]，并被[Actor.Spouse.GetPossPronoun]的亲属视为侮辱。;;;;;;;;;;x
 EVTOPTB620;该死的异教徒！;;;;;;;;;;x
 EVTOPTA621;黑暗的一天！;;;;;;;;;;x
@@ -41,14 +41,14 @@ CB_NAME_DEPOSE_LIEGE;废黜领主;;;;;;;;;;x
 WAR_NAME_DEPOSE_LIEGE;$ORDER$$FIRST_ADJ$对$DEFENDER$的废黜战争;;;;;;;;;;x
 depose_liege_desc;§Y$CLAIMANT$§!可以尝试废黜§Y$TARGET$§!并拥立§Y$CLAIMANT$§!中意的继承人;;;;;;;;;;x
 issue_declaration_of_repentance;发布忏悔书;;;;;;;;;;x
-issue_declaration_of_repentance_desc;向教宗写信以祈求其宽恕我们的罪过并恢复我们的教籍。;;;;;;;;;;x
+issue_declaration_of_repentance_desc;向教宗写信以祈求其宽恕我们的罪过并撤销我们的绝罚。;;;;;;;;;;x
 repentance_ask;圣父会聆听我们赎罪的恳求。;;;;;;;;;;x
 made_repentance;发布忏悔书;;;;;;;;;;x
 refused_making_repentance;拒绝发布忏悔书;;;;;;;;;;x
-EVTDESC39252;[From.GetBestName]派了一名使者前来请求宽恕[From.GetHerHis]罪过。尽管[From.GetSheHe]曾犯下滔天大罪，但鉴于其请求中流露出的真诚的忏悔，我将恢复其教籍。;;;;;;;;;;x
-EVTOPTA39252;恢复[From.GetHerHis]教籍。;;;;;;;;;;x
+EVTDESC39252;[From.GetBestName]派了一名使者前来请求宽恕[From.GetHerHis]罪过。尽管[From.GetSheHe]曾犯下滔天大罪，但鉴于其请求中流露出的真诚的忏悔，我将撤销其绝罚。;;;;;;;;;;x
+EVTOPTA39252;撤销[From.GetHerHis]绝罚。;;;;;;;;;;x
 EVTTOOLTIP39253;将因为我们的回应喜极而泣。;;;;;;;;;;x
-EVTDESC39253;圣父同意恢复我的教籍！;;;;;;;;;;x
+EVTDESC39253;圣父同意撤销我的绝罚！;;;;;;;;;;x
 EVTOPTA39253;荣耀归于上帝！;;;;;;;;;;x
 EVTOPTB39253;忏悔有价，但此价实在过高……;;;;;;;;;;x
 EVTOPTB39251;[Player.Religion.GetPietyName]有价，但此价实在过高……;;;;;;;;;;x

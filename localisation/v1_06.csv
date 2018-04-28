@@ -1,16 +1,16 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 PLOT_POWER_CONTRIB_LOWER_THAN;在$PLOTTER$ $PLOT$这件事上的参与度少于§Y$POWER$%§!\n;;;;;;;;;;x
 PLOT_POWER_CONTRIB_AT_LEAST;在$PLOTTER$的$PLOT$这一阴谋中的参与度大于§Y$POWER$%§!\n;;;;;;;;;;x
 KILLER;杀手;;;;;;;;;;x
 ANY_SPOUSE_STARTS;任意配偶;;;;;;;;;;x
 IS_MAIN_SPOUSE;是正室;;;;;;;;;;x
 IS_NOT_MAIN_SPOUSE;不是正室;;;;;;;;;;x
-CONQUEST_CULTURE_EFFECT;被§Y$CULTURE$§!文明征服\n;;;;;;;;;;x
+CONQUEST_CULTURE_EFFECT;被§Y$CULTURE$§!文化征服\n;;;;;;;;;;x
 CONQUEST_CULTURE_EFFECT_FREED;摆脱§Y$CULTURE$§!文明的枷锁\n;;;;;;;;;;x
 MAKE_PRIMARY_SPOUSE_EFFECT;$WHO$成为$SPOUSE$的正室.\n;;;;;;;;;;x
 MAKE_NOT_PRIMARY_SPOUSE_EFFECT;$WHO$不再是$SPOUSE$的正室.\n;;;;;;;;;;x
-HAVE_CONQUEST_CULTURE;被§Y$CULTURE$§!文明征服\n;;;;;;;;;;x
-HAVNT_CONQUEST_CULTURE;未被§Y$CULTURE$§!文明征服\n;;;;;;;;;;x
+HAVE_CONQUEST_CULTURE;被§Y$CULTURE$§!文化征服\n;;;;;;;;;;x
+HAVNT_CONQUEST_CULTURE;未被§Y$CULTURE$§!文化征服\n;;;;;;;;;;x
 DISMISS_ALLOW_DESCRIPTION;如果具备下列条件就可以解散:\n;;;;;;;;;;x
 DIPLO_OF_POPE;宗教领袖外交;;;;;;;;;;x
 INTERACTION_REQUIRES_FEWER_WIVES;§Y$CHAR$§!的妻子数量少于§Y$NUM$§!;;;;;;;;;;x
@@ -130,7 +130,7 @@ temple_county_muslim;谢赫区;;;;;;;;;;x
 temple_county_pagan_group;神权区;;;;;;;;;;x
 temple_barony_christian;教区;;;;;;;;;;x
 temple_barony_muslim;清真寺;;;;;;;;;;x
-temple_barony_pagan_group;神殿;;;;;;;;;;x
+temple_barony_pagan_group;神庙;;;;;;;;;;x
 count_arabic_female;谢赫艾哈;;;;;;;;;;x
 empire_altaic;可汗国;;;;;;;;;;x
 kingdom_altaic;汗国;;;;;;;;;;x
@@ -170,8 +170,8 @@ opinion_half_brother_muslim;我的半血亲;;;;;;;;;;x
 imam_appreciates;伊玛目们赞同;;;;;;;;;;x
 pious_imams;贪财的伊玛目们;;;;;;;;;;x
 unfunny_imam;亵渎神明;;;;;;;;;;x
-NOT_ALLOWED_PLAY_LOWBORN;不允许使用§Y低种姓§!的角色;;;;;;;;;;x
-NOT_ALLOWED_PLAY_LOWBORN_MP;§Y$PLAYER$§!不允许使用§Y低种姓§!的角色;;;;;;;;;;x
+NOT_ALLOWED_PLAY_LOWBORN;不允许扮演§Y出身卑微§!的角色;;;;;;;;;;x
+NOT_ALLOWED_PLAY_LOWBORN_MP;§Y$PLAYER$§!不允许扮演§Y出身卑微§!的角色;;;;;;;;;;x
 light_foot_leader;轻步兵指挥官;;;;;;;;;;x
 light_foot_leader_desc;此人已证明自己是个合格的轻步兵指挥官.;;;;;;;;;;x
 heavy_infantry_leader;重步兵指挥官;;;;;;;;;;x
@@ -450,14 +450,14 @@ RANDOM_ROLL_LESS_THAN;随机名单小于 ;;;;;;;;;;x
 RANDOM_ROLL_AT_LEAST;随机名单至少 ;;;;;;;;;;x
 EVTOPTD37055;你已经结婚了, 不记得了? 与[From.Spouse.GetTitledFirstName];;;;;;;;;;x
 opinion_sadaqah;给予救济;;;;;;;;;;x
-reckless_charge_tactic;鲁莽冲锋;;;;;;;;;;x
+reckless_charge_tactic;鲁莽冲锋战术;;;;;;;;;;x
 timid_advance_tactic;胆怯行军;;;;;;;;;;x
 confused_orders_tactic;军令费解;;;;;;;;;;x
 hesitant_commander_tactic;犹豫的指挥官;;;;;;;;;;x
 charging_own_skirmishers_tactic;碾过自家散兵进行冲锋;;;;;;;;;;x
 inspired_defense_tactic;富于灵感的防守;;;;;;;;;;x
-heroic_countercharge_tactic;史诗反击;;;;;;;;;;x
-clever_ambush_tactic;聪明的伏击;;;;;;;;;;x
+heroic_countercharge_tactic;史诗反击战术;;;;;;;;;;x
+clever_ambush_tactic;聪明的伏击战术;;;;;;;;;;x
 religious_fervour_tactic;宗教狂热;;;;;;;;;;x
 retreat_and_ambush_tactic;佯败伏击战术;;;;;;;;;;x
 berserker_charge_tactic;狂暴冲锋;;;;;;;;;;x
@@ -498,7 +498,7 @@ CHAR_REL_DIVORCED_LOG;§Y$REL_HEAD$§!已经同意§Y$ACTOR$§!和§Y$VICTIM$§!
 CHAR_DIVORCED_SETUP;离婚;;;;;;;;;;x
 CHAR_DIVORCED_LETTER;亲爱的$SPOUSE$, 我们的婚姻已经走到了尽头. 因此, 我决定和你离婚. 见谅.\n\n$ACTOR$;;;;;;;;;;x
 CHAR_DIVORCED_LOG;§Y$ACTOR$§! 已经和 §Y$VICTIM$§! 离婚了;;;;;;;;;;x
-CONFIRM_TITLE_DESTRUCTION;销魂$TITLE$?头衔;;;;;;;;;;x
+CONFIRM_TITLE_DESTRUCTION;销毁$TITLE$头衔？;;;;;;;;;;x
 TITLE_DESTRUCTION_COST_DESC;销毁这个头衔会消耗你§R$PRESTIGE$§!声望. 所有$TITLE$头衔下的法理封臣都会感到失望(§R$OPINION$§!好感).;;;;;;;;;;x
 opinion_destroyed_dj_liege_title;销毁领主头衔;;;;;;;;;;x
 CANNOT_DESTROY_BELOW_DUKE;不能销毁伯爵和男爵头衔;;;;;;;;;;x
@@ -1091,7 +1091,7 @@ kurdish;库尔德人;;;;;;;;;;x
 EVTDESC7916;失败了! 车厢飞入了山谷, 但是[From.GetTitledFirstName]及时跳了出来. 还好在抖露我的事情之前车夫被[From.GetHerHis]的护卫杀了.;;;;;;;;;;x
 ENDGAME_TEXT_THEOCRACY;你成了一个神权国的统治者, 不再允许继续游戏. ;;;;;;;;;;x
 ENDGAME_TEXT_REPUBLIC;你成了共和国的统治者, 不再允许继续游戏. ;;;;;;;;;;x
-ENDGAME_TEXT_MUSLIM;你成了穆斯林, 不再允许继续游戏. ;;;;;;;;;;x
+ENDGAME_TEXT_MUSLIM;你成了穆斯林, 因此不允许继续游戏。;;;;;;;;;;x
 EVTOPTB69060;揭发廷臣对基督的不诚;;;;;;;;;;x
 EVTDESC100110;我想要那个职位, 我迫不及待了！[Root.Liege.GetTitledFirstName]不会仅仅因为我想成为内阁成员就给我这个职位，我需要努力工作来取得它。;;;;;;;;;;x
 EVTTOOLTIP100111;[Root.GetTitledFirstName]计划通过与[This.GetTitledFirstName]成为朋友来最终获得[This.GetJobTitle]这个职位...;;;;;;;;;;x

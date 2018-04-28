@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 LEDGER_SORT_DELAYED;§G点击后按此栏排序§!;;;;;;;;;;x
 show_true_humility;展示了他的谦逊;;;;;;;;;;x
 shown_true_humility;喜欢我们的谦逊;;;;;;;;;;x
@@ -270,9 +270,9 @@ EVTDESC80053;厌倦了他们的旧领主 [From.GetTitledName],[Root.GetName] 的
 EVTOPTA80053;极好的事! 是吧...?;;;;;;;;;;x
 LEADER_APP_NEEDS_LAW_NO_CROWN_TITLE;你的贵族们的自治程度过高,不能由你指定将领.\n(王权过低.);;;;;;;;;;x
 CHAR_EXCOM_SETUP;角色被绝罚;;;;;;;;;;x
-CHAR_EXCOM_LOG;§Y应 $ACTOR$§! 的要求, §Y$REL_HEAD$§! 把 §Y$VICTIM$§! 逐出了教门!;;;;;;;;;;x
+CHAR_EXCOM_LOG;§Y应 $ACTOR$§!的要求，§Y$REL_HEAD$§!对§Y$VICTIM$§!进行绝罚！;;;;;;;;;;x
 CHAR_EXCOM_LIFTED_SETUP;绝罚撤销;;;;;;;;;;x
-CHAR_EXCOM_LIFTED_LOG;§Y应 $ACTOR$§! 的要求, §Y$REL_HEAD$§! 撤销了对 §Y$VICTIM$§! 的绝罚!;;;;;;;;;;x
+CHAR_EXCOM_LIFTED_LOG;§Y应$ACTOR$§! 的要求，§Y$REL_HEAD$§!撤销了对§Y$VICTIM$§!的绝罚！;;;;;;;;;;x
 b_cueta;休达;;;;;;;;;;x
 NOT_ALLOWED_TO_PLAY_MP;§Y$PLAYER$§! 不被允许以 §Y$TYPE$§!进行游戏!;;;;;;;;;;x
 INTERACTION_REQUIRES_ACTOR_NOT_EXCOMMUNICATED;§Y[Actor.GetTitledFirstName]§!没有受到绝罚;;;;;;;;;;x
@@ -404,9 +404,9 @@ IMAM_FOA;殿下;;;;;;;;;;x
 LOADING_TIP_22;孩子出生时就拥有其父母家族威望的一部分;;;;;;;;;;x
 LOADING_TIP_23;男性继承法意味着只有男性有继承权;;;;;;;;;;x
 LOADING_TIP_24;男性优先继承法意味着女性只在没有男性继承人时拥有权继承;;;;;;;;;;x
-LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权;;;;;;;;;;x
-LOADING_TIP_26;长子继承法意味着最年长的合法孩子有继承权;;;;;;;;;;x
-LOADING_TIP_27;分封继承法意味着继承权在所有孩子之间分割;;;;;;;;;;x
+LOADING_TIP_25;年长者继承法意味着最年长的家族成员有继承权。;;;;;;;;;;x
+LOADING_TIP_26;长子继承法意味着最年长的合法子嗣有继承权;;;;;;;;;;x
+LOADING_TIP_27;均分继承法意味着继承权在所有孩子之间分割;;;;;;;;;;x
 REVOKE_TITLE_INTERACTION_LETTER;我们决定即刻剥夺你的[ThirdPartyTitle.GetFullName]头衔. 拒绝和平交出头衔将引发战争.;;;;;;;;;;x
 EVTDESC20111;我的领主,我努力使[From.GetBestName]意识到您是个优雅而爱好和平的人,但是[From.GetHerHis]宫廷里的恶势力歪曲我说的每个字,令我的每个动作都被质疑.恐怕这次拜访带来的害处将多过好处.\n\n您谦卑的[Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;x
 CHAR_OPINION_OF_CHAR;§Y$CHAR1$§! 对 §Y$CHAR2$§! 的好感;;;;;;;;;;x
@@ -432,7 +432,7 @@ EVTOPTA64060;我把我的心痛写成一首诗;;;;;;;;;;x
 EVTOPTB64060;一醉解千愁;;;;;;;;;;x
 EVTOPTC64060;只有祈祷能让我平静;;;;;;;;;;x
 EVTOPTD64060;[Root.GetSheHeCapOpp]结婚了, 我应该忘了[Root.GetHerHimOpp];;;;;;;;;;x
-EVTDESC38286;我用喝酒来让自己忘记那些不想记住的事情.我获得了酒鬼的称号.;;;;;;;;;;x
+EVTDESC38286;我用喝酒来让自己忘记那些不想记住的事情。我获得了酒鬼的特质。;;;;;;;;;;x
 EVTDESC64065;同[Root.GetManWomanOpp]偷偷摸摸的关系越来越让我厌烦.我希望我可以在大庭广众之下向[Root.GetHerHimOpp]表达我的爱意，而不必在意别人的看法....;;;;;;;;;;x
 EVTOPTA64065;然后这事儿就完蛋了...;;;;;;;;;;x
 EVTOPTB64065;说不定这样能行...;;;;;;;;;;x
@@ -858,7 +858,7 @@ EVTOPTA3610;就这样吧!;;;;;;;;;;x
 EVTTOOLTIP3611;[This.GetTitledFirstName] 被用酷刑威胁;;;;;;;;;;x
 EVTDESC75065;[Root.job_treasurer.GetTitledFirstName]的公正严明为混乱的领地带来了平和。犯罪和抱怨越来越少，农民们非常开心！;;;;;;;;;;x
 opinion_count_wrong_gov_vs_liege;错误的政体类型;;;;;;;;;;x
-opinion_excom_lifted;恢复教籍;;;;;;;;;;x
+opinion_excom_lifted;绝罚撤销;;;;;;;;;;x
 CHAR_RELATION_CLOSE_DYNASTY;§Y$NAME$§! 是你的家族的近亲 (§Y$REL$§!);;;;;;;;;;x
 opinion_discovered_plotting;被发现参与阴谋;;;;;;;;;;x
 STOP_BACKING_AMBITION_INTERACTION_0;要求 §Y[Recipient.GetBestName]§! 停止参与阴谋.;;;;;;;;;;x
@@ -905,7 +905,7 @@ tut_0a_25;游戏暂停，无论是游戏暂停还是开始的时候，上述操�
 tut_0a_31;警告. 这些圆形图标显示了一些你必须采取行动的重要事情，可能与比如继承和外交之类有关的事情.时刻关注他们，你将会创造奇迹，忽略他们的话后果自负!;;;;;;;;;;x
 tut_2a_2;统治者无法单独治理一个国家.你可以依靠五种类型的顾问帮助你.第一种是外交总管，他将在外交领域帮助你.此外你还可以雇佣军事总管.作为一个贵族，财政总管是必须的，他将负责你的经济.间谍总管则能保护你远离国内与国外的阴谋.最后宫廷牧师将是你的精神导师.;;;;;;;;;;x
 tut_2a_3;这些重臣可以为你执行任务，例如外交总管可以为你伪造外国土地的宣称权，财政总管则可以为你征收更多的税金.这些都会对你的家族有好处！此外，他们能增加你的属性.;;;;;;;;;;x
-tut_3a_2;继承法将决定着你接下来要扮演的角色以及能够继承的领地.一开始最常见的是分封继承法，长子继承你的主要头衔，其他孩子分割剩下的.;;;;;;;;;;x
+tut_3a_2;继承法将决定着你接下来要扮演的角色以及能够继承的领地。一开始最常见的是让长子继承你的主要头衔，其他孩子分割剩下的。这种继承法叫均分继承法。;;;;;;;;;;x
 tut_4a_2;外交就是指角色之间的互动。你可以发动战争也可以将孩子送过去抚养。现在找出一些你可以进行外交的角色，点击他们的人物头像进行操作。;;;;;;;;;;x
 tut_5a_9;现在，让我们从封臣处征兵. 如果你即将开始战争,你可以征召全部的兵力. 而在这个教程中，我们只需要一部分兵力就足够了.现在你可以点击法夫伯爵头像右侧的动员私人部队按钮，动员他的部队.;;;;;;;;;;x
 tut_5a_11;为了将这些部队聚集在一个地方，点击第二支部队的图标，然后右击第一支部队所在的省份，就可以将这些部队聚集到同一个地方.然后取消暂停.;;;;;;;;;;x
@@ -964,7 +964,7 @@ EVTOPTB3680;我不得不告诉 [Root.GetHerHim] 我从哪里得到这首诗的..
 EVTDESC3681;过了一会我才反应过来人们讨论的那首诗是我的, [From.GetTitledFirstName] 误导了大家，并且打算用这首诗诱惑某些人.;;;;;;;;;;x
 EVTOPTA3681;直面 [From.GetTitledFirstName];;;;;;;;;;x
 EVTTOOLTIP3682;[Root.GetTitledFirstName]陷入剽窃诗歌之中;;;;;;;;;;x
-EVTOPTB3681;[From.GetSheHeCap] 勾引我家的小萝莉!;;;;;;;;;;x
+EVTOPTB3681;[From.GetSheHeCap]勾引我家的小萝莉！;;;;;;;;;;x
 EVTOPTC3681;[From.GetSheHeCap] 勾引我的妻子!;;;;;;;;;;x
 EVTOPTD3681;原谅 [From.GetTitledFirstName];;;;;;;;;;x
 EVTDESC3682;[From.GetTitledFirstName] 质问我是不是对其他人说是我写的诗.我告诉[From.GetHerHim]我没有对任何人这么说.人们只是那样认为，因为那首情诗是写给我恋人的.;;;;;;;;;;x
@@ -1020,8 +1020,8 @@ EVTDESC3697;我和我的猎鹰, [Root.Spouse.GetFirstName] 还有我的一个孩
 EVTOPTA3697;我们以后还会这样的,很快;;;;;;;;;;x
 EVTDESC3698;[From.GetTitledFirstName],虽然已经骑在了马上并且在马鞍那里挂了一个鸟笼, 但仍然选择离开狩猎回家.;;;;;;;;;;x
 EVTOPTA3698;为什么[From.GetSheHe]要那样做?;;;;;;;;;;x
-INTERACTION_MALE_LOWBORN_MUST_MARRY_MATRI;出生低贱的男性与贵族女性只能进行入赘婚姻;;;;;;;;;;x
-INTERACTION_FEMALE_LOWBORN_MUST_MARRY_REGULARLY;出生低贱的女性不能招赘贵族男性;;;;;;;;;;x
+INTERACTION_MALE_LOWBORN_MUST_MARRY_MATRI;出身卑微的男性与贵族女性只能进行入赘婚姻;;;;;;;;;;x
+INTERACTION_FEMALE_LOWBORN_MUST_MARRY_REGULARLY;出身卑微的女性不能招赘贵族男性;;;;;;;;;;x
 HAS_ACTIVE_PLOT;有进行中的密谋;;;;;;;;;;x
 HAS_NOT_ACTIVE_PLOT;没有进行中的密谋;;;;;;;;;;x
 EXILE_FROM_PLAYER_LOG;§Y$NAME$§! 已经离开你的宫廷，前往 §Y$TARGET$§!;;;;;;;;;;x
@@ -1325,11 +1325,11 @@ EVTOPTB10000;我们要设个陷阱!;;;;;;;;;;x
 EVTTOOLTIP10001;绿林好汉在行动...;;;;;;;;;;x
 EVTOPTC10000;无视他们;;;;;;;;;;x
 EVTNAME10001;一个女贵族的烦恼;;;;;;;;;;x
-EVTDESC10001;一个既烦恼又害羞的女贵族冲进了我的大厅.她告诉我她怎样被一队绿斗篷的人制服，把她带到他们的藏身处，强迫她交出了所有珠宝和金钱，只留下了一个空钱袋.在交出珠宝后，他们有礼貌地善待她，甚至护送她到森林边上.她闪闪发亮的双眼，羞红的脸颊和飘忽的眼神告诉我其实她乐在其中.;;;;;;;;;;x
+EVTDESC10001;一位且羞且恼的女贵族冲进了我的大厅。她向我控诉自己是如何被一队绿斗篷的人所制服，随后劫匪们把她带回老巢，强迫她交出了所有珠宝和金钱，只留下了一个空钱袋。在交出珠宝后，他们则有礼貌地善待她，甚至护送她回到森林边上。然而那闪烁的眼神、羞红的脸颊和飘忽的微笑告诉我，她其实乐在其中。;;;;;;;;;;x
 EVTOPTA10001;给她一些钱打发走她;;;;;;;;;;x
 EVTOPTB10001;必须采取行动!;;;;;;;;;;x
 EVTNAME10002;一个贵族的烦恼;;;;;;;;;;x
-EVTDESC10002;一个怒气冲冲的贵族冲进了我的大厅.他告诉我他怎样被一队绿斗篷的人制服，把他带到他们的藏身处，强迫他交出了所有之前的东西，甚至他的马！在他停止抵抗后，他们有礼貌地善待他，甚至护送他到森林边上.他要求我做些什么来对付那些“绿林好汉”.;;;;;;;;;;x
+EVTDESC10002;一位怒气冲冲的贵族冲进了我的大厅。他向我控诉自己是如何被一队绿斗篷的人所制服，他试图反抗，然而遭到了粗暴的对待。随后劫匪们把他带回老巢，强迫他交出了所有值钱的东西，甚至他的马！被洗劫一空后他停止了反抗，劫匪们则有礼貌地善待他，甚至护送他回到森林边上。他要求我做些什么来对付那些“绿林好汉”！;;;;;;;;;;x
 EVTOPTA10002;给他一些钱打发走他;;;;;;;;;;x
 EVTOPTB10002;这令人难以忍受!;;;;;;;;;;x
 EVTNAME10003;陷阱!;;;;;;;;;;x

@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 CONVERTING;转变;;;;;;;;;;x
 opinion_humiliated_family;被羞辱的家庭;;;;;;;;;;x
 opinion_humiliated_close_kin;被羞辱的近亲;;;;;;;;;;x
@@ -216,7 +216,7 @@ EVTOPTA_RIP_30202;我要取[GetFromRootInsult]的项上人头！;;;;;;;;;;x
 EVTOPTB_RIP_30202;不，这太危险了……;;;;;;;;;;x
 EVTDESC_RIP_30203;致[GetFromRootInsult][Root.GetBestName]，\n我很愿意将你这个肮脏下流的脓包从这个世界上清除。快去办好后事吧，我不会手下留情的。\n\n此致，[From.GetBestName];;;;;;;;;;x
 EVTOPTA_RIP_30203;我正将[From.GetSheHeCap]玩弄在鼓掌之中。;;;;;;;;;;x
-EVTDESC_RIP_30204;致[GetFromRootInsult][Root.GetBestName]，\n我既没时间也不想迁就你去沉浸在你可悲的过去时光中。难道你就没有类似管理你的领地之类的正事可干吗？\n\n此致， [From.GetBestName];;;;;;;;;;x
+EVTDESC_RIP_30204;致[GetFromRootInsult] [Root.GetBestName]，\n我既没时间也不想迁就你去沉浸在你可悲的过去时光中。难道你就没有类似于管理领地之类的正事可干吗？\n\n此致，[From.GetBestName];;;;;;;;;;x
 EVTOPTA_RIP_30204;那个可恶的胆小鬼……;;;;;;;;;;x
 EVTOPTA_RIP_30204_TOOLTIP;你试图自尽的企图失败了，你没准还会在合适的时机继续尝试自杀……\n;;;;;;;;;;x
 EVTDESC_RIP_30205_LOST;[suicide_duel_target.GetTitledFirstName]真好骗。[suicide_duel_target.GetSheHeCap]太过渴求你的鲜血，[suicide_duel_target.GetSheHe]都没注意到你故意软弱无力地防御自己。没几下[suicide_duel_target.GetHerHis]利刃就找到了你的喉下凹陷。;;;;;;;;;;x
@@ -372,7 +372,7 @@ EVTOPTC_77862;都是我的错。狗不过是动物而已……;;;;;;;;;;x
 EVTOPTD_77862;你……怎么敢！恶狗！恶狗！;;;;;;;;;;x
 EVTOPTD_77862_TOOLTIP;驱逐你的狗。\n;;;;;;;;;;x
 EVTOPTE_77862;真甜蜜啊！我知道它们最终会好好相处的。;;;;;;;;;;x
-duel_tooltip_excommunicated;挑战者有‘§Y狂热§!’且§Y[Root.GetTitledFirstName]§!是 §Y绝罚§!并属于同一宗教。\n;;;;;;;;;;x
+duel_tooltip_excommunicated;挑战者有『§Y狂热§!』特质且§Y[Root.GetTitledFirstName]§!被§Y绝罚§!并且两人属于同一宗教。\n;;;;;;;;;;x
 duel_tooltip_decadent;挑战者是“§Y狂热§!”的穆斯林而§Y[Root.GetTitledFirstName]§!是§Y腐化者§!。\n;;;;;;;;;;x
 duel_tooltip_challenged_before;决斗者过去未曾在决斗中互相挑战过。\n;;;;;;;;;;x
 duel_tooltip_rivals;§Y[From.GetTitledFirstName]§!和§Y[Root.GetTitledFirstName]§!是仇人。;;;;;;;;;;x
@@ -442,8 +442,8 @@ follower_of_orunmila;欧伦米拉的信徒;;;;;;;;;;x
 follower_of_orunmila_desc;这个角色是西非信仰中知识与纯洁之神欧伦米拉的虔诚信徒。;;;;;;;;;;x
 follower_of_shango;桑戈的信徒;;;;;;;;;;x
 follower_of_shango_desc;这个角色是西非信仰中雷电、公正和战争之神桑戈的虔诚信徒。;;;;;;;;;;x
-EVTDESC_RIP_12099_A;致[GetFromRootInsult][Root.GetTitledFirstName]，\n\n由于在[Root.PrimaryTitle.GetName]不断扩散的灾祸，我被迫自我在[From.Location.GetName]的宫廷中隔离，因此直到此次危机结束之前我将不能履行作为[From.GetJobTitle]的职责。\n\n签名，[From.GetTitledFirstName];;;;;;;;;;x
-EVTDESC_RIP_12099_B;致可敬的[Root.GetTitledFirstName]，\n\n由于在[Root.PrimaryTitle.GetName]不断扩散的灾祸，我被迫自我在[From.Location.GetName]的宫廷中隔离，因此直到此次危机结束之前我很不幸将不能履行作为[From.GetJobTitle]的职责。\n\n签名，[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC_RIP_12099_A;致[GetFromRootInsult] [Root.GetTitledFirstName]，\n\n由于在[Root.PrimaryTitle.GetName]不断扩散的灾祸，我被迫在[From.Location.GetName]的宫廷中被隔离。因此直到此次危机结束之前我将不能履行作为[From.GetJobTitle]的职责。\n\n此致，[From.GetTitledFirstName];;;;;;;;;;x
+EVTDESC_RIP_12099_B;致可敬的[Root.GetTitledFirstName]，\n\n由于在[Root.PrimaryTitle.GetName]不断扩散的灾祸，我被迫在[From.Location.GetName]的宫廷中被隔离，因此，很不幸，直到此次危机结束之前我将不能履行作为[From.GetJobTitle]的职责。\n\n此致，[From.GetTitledFirstName];;;;;;;;;;x
 EVTOPTA_RIP_12099_A;我就不该让那个[GetRootFromInsult]待在我的内阁里！;;;;;;;;;;x
 EVTOPTA_RIP_12099_B;令人遗憾，虽然可以理解……;;;;;;;;;;x
 EVTDESC_RIP_12100;§Y[From.GetTitledFirstName]§!回到了我的宫廷和内阁。[From.GetSheHeCap]作为[From.GetJobTitle]又一次能够执行[From.GetHerHis]职责。;;;;;;;;;;x
@@ -769,3 +769,4 @@ IMMORTAL_RIVAL_COMING_TOOLTIP;多么不祥啊。;;;;;;;;;;x
 immortal_hunter_tooltip;你是，或者你相信你自己是，一位可以驯服非同寻常动物的伟大猎手跟驯兽师。那些动物常常会饥肠辘辘……;;;;;;;;;;x
 nick_the_loyal;忠臣;;;;;;;;;;x
 INSULT_CANNIBAL;食人者;;;;;;;;;;x
+INSULT_CANNIBALISTIC;食人的;;;;;;;;;;x

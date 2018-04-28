@@ -1,4 +1,4 @@
-﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 set_government_type;政体改变为§Y$GOVERNMENT$§!\n;;;;;;;;;;x
 feudal_government;封建制;;;;;;;;;;x
 republic_government;共和制;;;;;;;;;;x
@@ -13,7 +13,7 @@ GAME_STATE_WAS_CORRUPTED;游戏状态已损坏。请重启游戏。;;;;;;;;;;x
 TRIBAL_TAX;部落税;;;;;;;;;;x
 GOVERNMENT_CANT_BUILD_HOLDINGS;§R$GOVERNMENT$统治者不能建造新的地产§!;;;;;;;;;;x
 GOVERNMENT_NO_LIEGE_LEVY;独立的部落或游牧领主不会从他们的附属部落那得到征召兵;;;;;;;;;;x
-PLAYERS_IN_UNIT;玩家的角色在此部队;;;;;;;;;;x
+PLAYERS_IN_UNIT;玩家角色在此部队;;;;;;;;;;x
 PLAYERS_IN_ATTACKERS;正在进攻中的玩家角色;;;;;;;;;;x
 YOU_IN_ATTACKERS;你是这场战役的一个进攻者;;;;;;;;;;x
 PLAYERS_IN_DEFENDERS;正在防守中的玩家角色;;;;;;;;;;x
@@ -48,7 +48,7 @@ FLANK_DESIGNER_SHOW_TROOPS;显示部队;;;;;;;;;;x
 convert_tribal_to_city;升级为城市;;;;;;;;;;x
 convert_tribal_to_city_named;升级[Root.GetName]为一个城市;;;;;;;;;;x
 convert_tribal_to_castle;升级为城堡;;;;;;;;;;x
-convert_tribal_to_castle_named;升级[Root.GetName]为一个城堡;;;;;;;;;;x
+convert_tribal_to_castle_named;将[Root.GetName]升级为一个城堡;;;;;;;;;;x
 MODIFIER_TRIBAL_OPINION;部落封臣好感;;;;;;;;;;x
 MODIFIER_UNREFORMED_TRIBAL_OPINION;未改革原始宗教部落封臣的好感;;;;;;;;;;x
 UNREFORMED_TRIBAL_VIEW_ON_TRAIT;未改革原始宗教部落对$TRAIT$特质的好感：$VALUE$;;;;;;;;;;x
@@ -304,8 +304,8 @@ EVTOPTA_HL_10401;所以[From.GetSheHe]觉得[merc_location.Holder.Religion.GetNa
 EVTDESC_HL_10411;你得到了消息，你的[GetFromRelation][From.GetFirstName]已经皈依了[merc_location.Holder.Religion.GetName]信仰。;;;;;;;;;;x
 EVTOPTA_HL_10411;那么[From.GetSheHe]现在开始崇拜[merc_location.Holder.Religion.GetRandomGodName]了？;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_NOT_SAME_COURT_AS_SPOUSE;§Y[Recipient.GetTitledFirstName]§!在婚姻中不是从属地位，或不与[Recipient.GetHerHis]配偶在同一个宫廷里;;;;;;;;;;x
-nomadic_government;游牧;;;;;;;;;;x
-IS_NOMADIC;是游牧国;;;;;;;;;;x
+nomadic_government;游牧制;;;;;;;;;;x
+IS_NOMADIC;是游牧制;;;;;;;;;;x
 ISNT_NOMDAIC;不是游牧;;;;;;;;;;x
 HAVE_GOVERNMENT;政体是 §Y$GOVERNMENT$§!;;;;;;;;;;x
 DONT_HAVE_GOVERNMENT;政体不是 §Y$GOVERNMENT$§!;;;;;;;;;;x
@@ -391,11 +391,11 @@ LOOTING_ADVENTURER;是一位冒险者。;;;;;;;;;;x
 LOOTING_ADVENTURER_DESC;由于这是一位劫掠冒险者，任何这支队伍掠夺到的金子都会直接送到其主人的财库中。;;;;;;;;;;x
 INTERACTION_GOVERNMENT_MUST_MARRY_REGULARLY;$GOVERNMENT$角色不能进行入赘婚姻;;;;;;;;;;x
 HORDE_RETINUE_OF;$CHARACTER$的游牧军;;;;;;;;;;x
-HORDE_RETINUES_NOT_REINFORCING;§Y游牧军现在不增援。§!;;;;;;;;;;x
+HORDE_RETINUES_NOT_REINFORCING;§Y游牧军现在不增援§!;;;;;;;;;;x
 HORDE_RETINUES_HALF_REINFORCING;§Y游牧军现在以半速增援。§!;;;;;;;;;;x
-HORDE_RETINUES_FULL_REINFORCING;§Y游牧军现在以全速增援。§!;;;;;;;;;;x
+HORDE_RETINUES_FULL_REINFORCING;§Y游牧军现在以全速增援§!;;;;;;;;;;x
 HORDE_RETINUES_NOT_REINFORCING_BUTTON;§Y设置游牧军不进行增援。§!;;;;;;;;;;x
-HORDE_RETINUES_HALF_REINFORCNIG_BUTTON;§Y设置游牧军以半速增援。§!;;;;;;;;;;x
+HORDE_RETINUES_HALF_REINFORCNIG_BUTTON;§Y设置游牧军以半速增援§!;;;;;;;;;;x
 HORDE_RETINUES_FULL_REINFORCING_BUTTON;§Y设置游牧军以全速增援。§!;;;;;;;;;;x
 HORDE_MIL_RETINUES;游牧军;;;;;;;;;;x
 HORDE_BUY_RETINUE;创建一支§Y$NAME$§!游牧军，这支部队初始为空但会逐渐增援到一定规模。;;;;;;;;;;x
@@ -408,9 +408,9 @@ HORDE_CAN_BUY_RETINUE_TRIGGER_NOT;$WHO$没有至少§Y$NEED$§!的未使用人�
 HORDE_CAN_BUY_RETINUE_TRIGGER;$WHO$有至少§Y$NEED$§!的未使用人力;;;;;;;;;;x
 HORDE_RETINUE_EXPL;§Y游牧军§!\n这些数字是你现有的游牧军的规模以及为了维持它需要的花费。;;;;;;;;;;x
 HORDE_RETINUE_EXPL_DEL;你的游牧军是你的私人专业且常设部队，随时整装待发接受你的命令。游牧军会一直出现在地图上，并会缓慢增援。你能够部署的最大游牧军团数量取决于你的§Y最大人力§!，这个值由你的§Y最大人口数§!决定。;;;;;;;;;;x
-RETINUE_EXPL_DEL;你的亲卫队是一支随时待命并仅服从于你命令的专业部队。不同于征召兵，亲卫队将持续出现在地图上并缓慢补充兵力。亲卫队军团的最大数目取决于你的§Y军事组织§!科技以及你领地内征召兵的总兵力。;;;;;;;;;;x
+RETINUE_EXPL_DEL;你的近卫军是一支随时待命并仅服从于你命令的专业部队。不同于征召兵，近卫军将持续出现在地图上并缓慢补充兵力。近卫军军团的最大数目取决于你的§Y军事组织§!科技以及你领地内征召兵的总兵力。;;;;;;;;;;x
 HORDE_SPLIT_RETINUES_OPTION;游牧军分离;;;;;;;;;;x
-nomadic_king;可汗;;;;;;;;;;x
+nomadic_king;汗王;;;;;;;;;;x
 nomadic_emperor;可汗;;;;;;;;;;x
 nomadic_empire;可汗国;;;;;;;;;;x
 nomadic_empire_of;可汗国;;;;;;;;;;x
@@ -459,7 +459,7 @@ MAXIMUM_MANPOWER;最大人力;;;;;;;;;;x
 MONTHLY_MANPOWER_GROWTH;月度人力增长;;;;;;;;;;x
 MONTHLY_MANPOWER_DECLINE;月度人力减少;;;;;;;;;;x
 TAXABLE;可征税;;;;;;;;;;x
-ERA_CHAR_INFO_30809;伊莎贝拉，作为耶路撒冷女王玛利亚·蒙菲拉特的独生女，于1212年出生于意大利南部。她的母亲在她出生不久后便去世了，刚出生没多久的伊莎贝拉加冕为女王，由她的父亲约翰·德·布里昂摄政。在13岁时，伊莎贝拉嫁给了神圣罗马帝国皇帝腓特烈二世，作为有效促使皇帝参加第五次十字军东征的抵押。这次婚礼见证了腓特烈二世加冕成为耶路撒冷国王，而她的父亲被剥夺了所有权力。伊莎贝拉此后被丈夫软禁。她生前失去了一个女婴，但在1228年生下儿子康拉德。在她离世不久后，腓特烈终于发起了允诺的圣战。;;;;;;;;;;x
+ERA_CHAR_INFO_30809;伊莎贝拉，作为耶路撒冷女王玛利亚·蒙菲拉特的独生女，于1212年出生于意大利南部。她的母亲在她出生不久后便去世了，刚出生没多久的伊莎贝拉加冕为女王，由她的父亲约翰·德·布里昂摄政。在13岁时，伊莎贝拉嫁给了神圣罗马帝国皇帝腓特烈二世，作为有效促使皇帝参加第五次十字军远征的抵押。这次婚礼见证了腓特烈二世加冕成为耶路撒冷国王，而她的父亲被剥夺了所有权力。伊莎贝拉此后被丈夫软禁。她生前失去了一个女婴，但在1228年生下儿子康拉德。在她离世不久后，腓特烈终于发起了允诺的圣战。;;;;;;;;;;x
 ERA_CHAR_INFO_93052;在父亲去世后继承了花刺子模帝国后，穆罕默德马上便遭遇了古尔王朝的入侵。接踵而至的是花刺子模与古尔王朝以及喀喇契丹的数年三方混战。穆罕默德一度沦为阶下囚并被喀喇契丹汗国囚禁了一年，但是捉摸不透的命运将会引领他在面对他的敌人时再次重新占上风，最终他设法征服了撒玛尔罕，俾路支斯坦和阿富汗并自称为沙阿。然而，随着成吉思汗和蒙古1218年登上历史舞台，他的统治结束得比预想中的要早。只用了短短的两年，蒙古人践踏了他的土地，而他作为一个逃亡者于1220年在里海的一个小岛上去世。;;;;;;;;;;x
 ERA_CHAR_INFO_170193;伊尔杜特米什的早年不为人所知，然而传闻他的名字源于他出生时出现的一次日蚀。他在小时候被卖给了奴隶贩子，随后被拉合尔的统治者艾巴克买下。艾巴克很是赏识他的新仆人，始终给予伊尔杜特米什不断增长的责任和与之匹配的荣誉，最终许配给他自己的亲女儿。当艾巴克于1210年去世后，伊尔杜特米什在宣称王位时得到了强力的支持。他与竞争者的斗争带来了一段混乱的时间，旋即他稳固了自己的地位。他接下来设法避免了与蒙古人的正面冲突，建立了持续到16世纪的德里苏丹国。;;;;;;;;;;x
 ERA_CHAR_INFO_125501;铁木真出生于蒙古，是孛儿只斤氏首领的儿子。他是他父亲去世时唯一的孩子，而他与他的母亲由于铁木真年纪尚轻而被竞争者放逐出部族。然而他一成年，铁木真便开始一手开创他自己的命运。在几十年间，铁木真在他的民众不断提升自己的名声和威望，最终带领着他们征服了整个蒙古。在此之后，他一举征服了中国北部，整个中亚，部分波斯和西部大草原。他被认为是人类历史上最伟大的一位征服者，蒙古人在他去世后也继续在这征服的基础上进行扩张。;;;;;;;;;;x
@@ -602,7 +602,7 @@ b_cherchen;车尔臣;;;;;;;;;;x
 b_charkliq;卡克里克;;;;;;;;;;x
 b_miran;米兰;;;;;;;;;;x
 b_karashar;喀喇沙尔;;;;;;;;;;x
-b_kucha;屈茨;;;;;;;;;;x
+b_kucha;苦叉;;;;;;;;;;x
 b_kara_khoja;合剌火者;;;;;;;;;;x
 b_luntai;轮台;;;;;;;;;;x
 b_dunhuang;敦煌;;;;;;;;;;x
@@ -619,7 +619,7 @@ PROV1440;于阗;;;;;;;;;;x
 PROV1441;车尔臣;;;;;;;;;;x
 PROV1442;卡克里克;;;;;;;;;;x
 PROV1443;喀喇沙尔;;;;;;;;;;x
-PROV1444;屈茨;;;;;;;;;;x
+PROV1444;苦叉;;;;;;;;;;x
 PROV1445;阿克苏;;;;;;;;;;x
 PROV1446;合剌火者;;;;;;;;;;x
 PROV1447;楼兰;;;;;;;;;;x
